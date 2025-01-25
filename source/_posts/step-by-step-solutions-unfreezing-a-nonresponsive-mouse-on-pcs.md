@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Unfreezing a Nonresponsive Mouse on PCs"
-date: 2024-08-28T00:24:30.790Z
-updated: 2024-08-29T00:24:30.790Z
+date: 2025-01-18T16:44:44.174Z
+updated: 2025-01-25T17:07:15.826Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
@@ -49,8 +53,9 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,9 +68,11 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -81,29 +88,26 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -126,8 +130,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +137,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/androids-budget-friendly-video-call-leaders-for-2024/"><u>Android's Budget-Friendly Video Call Leaders for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-canon-mf4800-printer-drivers-for-optimal-performance/"><u>Download & Install Canon MF4800 Printer Drivers for Optimal Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-apple-tv-secrets-to-reaching-peak-functionality/"><u>Elevate Your Apple TV: Secrets to Reaching Peak Functionality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/freedomforsounders-review-extraction-excellence/"><u>FreedomForSounders Review Extraction Excellence</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-watching-netflix-originals-on-the-gaming-centric-switch-device/"><u>Guide to Watching Netflix Originals on the Gaming-Centric Switch Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-unavailable-desktop-error-in-windows-system-configuration-directory/"><u>How to Overcome the Unavailable Desktop Error in Windows System Configuration Directory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-challenge-of-intense-dwm-gpu-utilization-on-windows-10-and-11-with-these-five-fixes/"><u>Overcome the Challenge of Intense DWM GPU Utilization on Windows 10 and 11 with These Five Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211820093-resolved-starting-a-hosted-wi-fi-connection-issues-in-windows-11-fixed/"><u>Resolved: Starting a Hosted Wi-Fi Connection Issues in Windows 11 - Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-d3dxt939dll-file-not-found-issue-a-comprehensive-guide/"><u>Resolving the d3dxt9_39.dll File Not Found Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/smooth-sailing-through-blocky-worlds-overcoming-minecraft-lag-issues/"><u>Smooth Sailing Through Blocky Worlds: Overcoming Minecraft Lag Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/synchronizing-camera-use-among-windows-programs/"><u>Synchronizing Camera Use Among Windows Programs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-teslas-battery-efficiency-deciphering-car-range-predictions/"><u>Understanding Tesla's Battery Efficiency: Deciphering Car Range Predictions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-laptop-keyboard-working-tips-for-diagnosis-and-repair/"><u>Why Isn't My Laptop Keyboard Working? Tips for Diagnosis and Repair</u></a></li>
+</ul></div>
 

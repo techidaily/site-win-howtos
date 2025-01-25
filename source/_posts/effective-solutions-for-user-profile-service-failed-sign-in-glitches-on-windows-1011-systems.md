@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for 'User Profile Service Failed' Sign-In Glitches on Windows 10/11 Systems
-date: 2024-08-28T00:23:15.075Z
-updated: 2024-08-29T00:23:15.075Z
+date: 2025-01-20T17:24:35.132Z
+updated: 2025-01-25T17:44:08.803Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 [**4: Troubleshoot Windows Updates issues**](#4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
@@ -49,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **2: Disable certain svchost.exe services**
 
  Faulty svchost.exe services can also be the cause of the abnormally high CPU usage in your PC. To fix it:
@@ -59,17 +57,22 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
@@ -84,26 +87,19 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9) See if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Empty event viewer log**
 
@@ -113,29 +109,20 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your computer after this.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **4: Troubleshoot Windows Updates issues**
 
  If something is wrong with your Windows Updates settings, svchost.exe will see an abnormal increase as well. To fix it:
@@ -169,21 +156,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,4 +182,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-peruse-every-shared-piece-on-messenger/"><u>[New] 2024 Approved How to Peruse Every Shared Piece on Messenger</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-diving-into-the-depths-of-hdr-with-asus-pa32u/"><u>[Updated] 2024 Approved Diving Into the Depths of HDR with ASUS PA32U</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-lava-yuva-2-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Lava Yuva 2 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-2-wont-start-clear-your-cache-and-initialize-successfully/"><u>Destiny 2 Won't Start? Clear Your Cache and Initialize Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-non-operational-usb-ports-in-modern-windows-environments/"><u>Effective Solutions for Non-Operational USB Ports in Modern Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-5-in-minecraft-comprehensive-solutions-for-a-smooth-gaming-experience/"><u>Error Code 5 in Minecraft: Comprehensive Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-s18e-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo S18e Phone When You Forget the Password</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/insignia-usb-ethernet-converter-driver-download/"><u>Insignia USB-Ethernet Converter Driver Download</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-your-gmail-top-tips-for-setting-up-smart-filters-and-handling-multiple-email-addresses/"><u>Master Your Gmail: Top Tips for Setting Up Smart Filters and Handling Multiple Email Addresses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209730276-no-charge-detected-heres-how-to-troubleshoot-and-restore-in-a-flash/"><u>No Charge Detected? Here’s How to Troubleshoot & Restore in a Flash!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-successfully-restoring-secured-connections-in-mozilla-firefox/"><u>Step-by-Step Solutions: Successfully Restoring Secured Connections in Mozilla Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-to-bypass-destiny-2-initialization-errors-successfully/"><u>Step-by-Step Tutorial to Bypass Destiny 2 Initialization Errors Successfully</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Where Is the Best Place to Catch Dratini On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+</ul></div>
 

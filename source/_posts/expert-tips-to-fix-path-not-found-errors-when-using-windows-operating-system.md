@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Fix 'Path Not Found' Errors When Using Windows Operating System
-date: 2025-01-12T16:58:03.818Z
-updated: 2025-01-13T17:21:49.015Z
+date: 2025-01-18T16:25:18.989Z
+updated: 2025-01-25T17:21:40.266Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -46,10 +46,6 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
  1) On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Windows Update**   \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
@@ -60,17 +56,21 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **error 0x80073712** ). To **run the SFC scan** :
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
 
@@ -79,7 +79,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. ?  
@@ -121,37 +121,33 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a89c68a29.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a98e3f0f6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) When asked to provide administrator permission, check**the box** before**Do this for all current items** and click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Restart your computer and try the Windows update again to see if the error code disappears.
 
@@ -162,6 +158,10 @@ Wait for a while for the whole process to finishes.
  After that, check if the**0x80073712** error code problem has been sorted.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -188,22 +188,22 @@ Wait for a while for the whole process to finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-becoming-an-animoji-expert-on-your-iphone-x-device/"><u>[New] 2024 Approved Becoming an Animoji Expert on Your iPhone X Device</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-masterclass-in-length-management-youtube-vids/"><u>[Updated] 2024 Approved Masterclass in Length Management YouTube Vids</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tips-for-preventing-invisible-thumbnails-on-shorts-videos/"><u>2024 Approved Tips for Preventing Invisible Thumbnails on Shorts Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-solution-to-correctly-address-stop-error-code-0xc00000e9-in-windows-os/"><u>Complete Solution to Correctly Address Stop Error Code 0Xc00000e9 in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-installation-challenges-how-to-successfully-get-steam-updates/"><u>Conquering Installation Challenges: How To Successfully Get Steam Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0xa00f4292-demystified-solutions-to-your-windows-camera-problems/"><u>Error Code 0xA00F4292 Demystified: Solutions to Your Windows Camera Problems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/improving-chatgpt-dialogues-a-guide-to-7-effective-techniques/"><u>Improving ChatGPT Dialogues: A Guide to 7 Effective Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-14-pro-activation-lock-primer-by-drfone-ios-unlock-ios-unlock/"><u>iPhone 14 Pro activation lock primer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723010247140-mordhau-freezing-problems-discover-how-to-fix-them-now/"><u>Mordhau Freezing Problems? Discover How to Fix Them Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/netflix-no-more-glitches-how-i-stopped-my-streams-from-hanging/"><u>Netflix No More Glitches - How I Stopped My Streams From Hanging</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-save-big-on-filmora-4-legit-ways-to-get-discounted-rates/"><u>New Save Big on Filmora 4 Legit Ways to Get Discounted Rates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-battleye-setup-errors-your-guide-to-a-stable-installation/"><u>Overcome BattlEye Setup Errors – Your Guide to a Stable Installation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-installation-hiccups-fix-0x80070643-error-in-windows-updates/"><u>Overcoming Installation Hiccups: Fix 0X80070643 Error in Windows Updates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/prime-7-fps-titles-you-cant-miss-for-2024/"><u>Prime 7 FPS Titles You Can't Miss for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/simplified-methods-for-obtaining-and-refreshing-your-synaptics-touchpad-drivers/"><u>Simplified Methods for Obtaining & Refreshing Your Synaptics Touchpad Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-the-missing-usb-device-recognition-in-windows-11/"><u>Solving the Mystery of the Missing USB Device Recognition in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-issues-solving-windows-107-speaker-crackle/"><u>Troubleshooting Audio Issues: Solving Windows 10/7 Speaker Crackle</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-high-end-8-cam-modifiers-for-crystal-clear-feeds-for-2024/"><u>[New] High-End 8 Cam Modifiers for Crystal Clear Feeds for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-transformative-visual-experiences-with-tiktok-enhancements/"><u>[Updated] Transformative Visual Experiences with TikTok Enhancements</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/best-practices-and-features-of-manycam-professional-live-streaming-with-a-virtual-camera/"><u>Best Practices and Features of ManyCam: Professional Live Streaming with a Virtual Camera</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-googles-pixel-watch-s2-can-improve-your-health-with-its-vital-5-features-techguide/"><u>Discover How Google's Pixel Watch S2 Can Improve Your Health with Its Vital 5 Features | TechGuide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-update-strategies-for-windows-10-with-error-code-0x800f0922-top-8-fixes-you-need-to-try/"><u>Error-Free Update Strategies for Windows 10 with Error Code 0X800f0922 – Top 8 Fixes You Need to Try!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-a-missing-binkw32dll-error-message/"><u>How to Correctly Address a Missing binkw32.dll Error Message</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-infinix-smart-7-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Infinix Smart 7 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-technique-getting-permission-from-trustedinstaller-for-file-changes/"><u>Master the Technique: Getting Permission From TrustedInstaller for File Changes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-your-gameplay-strategies-to-overcome-slow-performance-in-minecraft/"><u>Master Your Gameplay: Strategies to Overcome Slow Performance in Minecraft</u></a></li>
+<li><a href="https://fox-info.techidaily.com/realigning-captions-from-srt-to-subcap-for-2024/"><u>Realigning Captions From SRT to SUBCAP for 2024</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-vivo-x-flip-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Vivo X Flip</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-non-working-keys-simple-steps-to-restore-hp-laptop-functionality/"><u>Reviving Non-Working Keys: Simple Steps to Restore HP Laptop Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-windows-10s-persistent-restart-cycle-with-these-simple-troubleshooting-tips/"><u>Stop Windows 10'S Persistent Restart Cycle with These Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-12-playermp3-di-file-audio-liberi-e-ottimizzati-per-windows-and-mac/"><u>Top 12 PlayerMP3 Di File Audio Liberi E Ottimizzati Per Windows & Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triumphant-wow-full-spectrum-of-3d-visuals-achieved/"><u>Triumphant WoW: Full Spectrum of 3D Visuals Achieved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-google-chrome-reboot-for-swift-resolution/"><u>Troubleshooting Stuck Google Chrome: Reboot for Swift Resolution</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
 

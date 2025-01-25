@@ -1,7 +1,7 @@
 ---
 title: Fix System Error 5 Has Occurred Error on Windows 10, 7 & 8 [Solved]
-date: 2024-08-28T00:21:30.713Z
-updated: 2024-08-29T00:21:30.713Z
+date: 2025-01-19T17:16:18.557Z
+updated: 2025-01-25T17:39:46.970Z
 tags:
   - win11
   - win10
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -100,18 +108,12 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -129,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 
 ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
@@ -136,8 +142,9 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ``
 
  2) Click **System** .
@@ -146,9 +153,6 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -160,8 +164,9 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ``
 
 ``
@@ -169,6 +174,10 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -181,8 +190,9 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Open the app again to see if it goes fine.
 
 That’s it!
@@ -201,8 +211,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +218,26 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-fast-forward-to-flawless-windows-11-photography/"><u>[New] Fast Forward to Flawless Windows 11 Photography</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-profit-potential-per-viewer-youtubes-financial-dynamics/"><u>[New] In 2024, Profit Potential Per Viewer YouTube's Financial Dynamics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-multi-environment-broadcasting-mastery-of-color-key-techniques/"><u>[New] Seamless Multi-Environment Broadcasting Mastery of Color Key Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-screen-shot-ease-premium-free-software-for-desktop-recording-on-pcmac/"><u>[Updated] In 2024, Screen Shot Ease Premium FREE Software for Desktop Recording on PC/Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screencast-mastery-guide-essential-tips-unveiled/"><u>[Updated] Screencast Mastery Guide Essential Tips Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030363181-flv/"><u>複数FLVファイルの高品質な自由結合手順</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-tecno-phantom-v-flip-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Tecno Phantom V Flip? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029577448-avimov/"><u>AVIビデオ形式をMov形式に適切に変換する手順</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-instructions-to-download-and-update-microsoft-drivers-in-windows-10-8-and-7/"><u>Comprehensive Instructions to Download & Update Microsoft Drivers in Windows 10, 8, and 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993154796-crack-the-code-to-successfully-run-resident-evil-5-on-your-personal-computer-no-more-launch-failures/"><u>Crack the Code to Successfully Run Resident Evil 5 on Your Personal Computer, No More Launch Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029226360-dvdand/"><u>DVDディスクから高品質ビデオ&画像を簡単に取り出せる方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028799626-iphonemp3/"><u>IPhoneで記録した声メモからMP3ファイルへの変換ガイド</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mastered-setup-overcoming-nvidia-errors/"><u>Mastered Setup: Overcoming Nvidia Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028271402-mp4/"><u>MP4への変換 - 連続画像から動画作成ガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016550163-pubg-voice-communication-troubles-heres-how-to-fix-it/"><u>PUBG Voice Communication Troubles? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watching-webm-content-on-android-ultimate-tips-and-tricks-for-seamless-viewing/"><u>Watching WebM Content on Android: Ultimate Tips and Tricks for Seamless Viewing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011isoand/"><u>Windows 10/11でのISOファイル展開&解凍手順集成抄</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027583702-windows-10mp4/"><u>Windows 10上でMP4ファイルを正常に再生する方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027970792-dvd/"><u>テレビDVD再生のためのステップバイステップ・マニュアル及び問題解決法</u></a></li>
+</ul></div>
 

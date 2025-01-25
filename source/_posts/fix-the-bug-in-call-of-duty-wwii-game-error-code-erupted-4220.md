@@ -1,7 +1,7 @@
 ---
 title: "Fix the Bug in Call of Duty WWII Game (Error Code Erupted: 4220)"
-date: 2024-08-28T00:26:01.578Z
-updated: 2024-08-29T00:26:01.578Z
+date: 2025-01-20T16:18:08.662Z
+updated: 2025-01-25T18:34:18.578Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
  But don’t worry. You can fix the PS4 error code CE-34878-0 quickly and easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There are solutions to this problem. This article guidelines**7 easy methods to fix the PS4 error code CE-34878-0** . You don’t need to try them all; just work your way down until your problem is solved.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Restart the PS4 firmware to fix the error CE-34878-0**
 
  This problem can be caused by the**hardware faulty** , so you can firstly try to restart your PS4 console and your PS4 controller to make it reconnect and work again.
@@ -57,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### **Fix 2: Update the game software to fix the error CE-34878-0**
 
  This problem can be also caused due to**the unknown bugs within the game** , so updating the game to install the latest patches can also fix the error CE-34878-0\. There are three methods for you for update the game software:
@@ -77,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
  2) Press the**Options** **button** on your PS4 controller, then select**Check for Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570e7b9b403.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Follow the wizard to download and install any available updates.
 
@@ -96,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57150967e5e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Follow the instructions on your screen to finish.
 
 4) After that, go to PS4**Settings** \>**System Storage Management** \>**Applications** .
@@ -103,8 +116,9 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57104ee3d61.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Find the game that occurs the problem and**highlight** it.
 
  3) Press the**Options** **button** and select**Delete** .
@@ -112,8 +126,9 @@ thumbnail: https://thmb.techidaily.com/892778263385515e7b518ee32371993d4538db30f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570f4a2c0e8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) **Restart** your PS4.
 
  5)**Reinstall** the game, and try to launch the game to see if it works.
@@ -154,16 +169,10 @@ This method works if you are playing games on the disc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571ceab4acf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6) Try to open the game and see if it works now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 4: Put the original HDD to fix the error CE-34878-0**
 
  If you have upgraded your Hard Disc Drive (HDD) recently, it may also impact the game performance. So you can try to install the original HDD back in your PS4 to solve this problem. Before you reinstall the original HDD, you may need to back the data currently saved in your PS4 first.
@@ -175,6 +184,10 @@ This method works if you are playing games on the disc.
  2) Go to**Settings** \>**System** \>**Back Up and Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f302df44.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Confirm which data you’d like to back up. If you choose not to back up applications, you’ll need to download or reinstall them when/if you eventually restore with the back up you’re creating.
 
@@ -200,17 +213,14 @@ This method works if you are playing games on the disc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f9eebce2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Select**Full** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571fc9dcd29.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Follow the instructions to complete.
 
 4) After finishing, restore all your backup data, and reinstall the games and applications.
@@ -219,9 +229,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 6: Disconnect the PS camera to fix the error CE-34878-0**
 
  Many users may connect the PS camera to the PS4\. If that’s your case, try this method:
@@ -230,18 +237,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57223d14e7d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  2) Select the camera to turn off. Then**power cycle** your PS4.
 
  3) Go to PS4**Settings** \>**User** \>**Login** **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57227821911.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Uncheck**Enable Face Recognition** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5722a8637ae.jpg)
@@ -269,8 +270,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,4 +277,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-get-the-facts-about-youtube-keyword-research/"><u>[Updated] Get the Facts About YouTube Keyword Research</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-yuva-3-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Yuva 3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decrease-gpu-demand-effective-fixes-for-the-windows-dwm-issue-windows-1011/"><u>Decrease GPU Demand: Effective Fixes for the Windows DWM Issue (Windows 10/11)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/dive-into-fun-snapchats-world-of-cartoon-lenses-for-2024/"><u>Dive Into Fun Snapchat's World of Cartoon Lenses for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/finding-the-right-fit-cameras-and-windows-hello/"><u>Finding the Right Fit: Cameras & Windows Hello</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-when-your-windows-10-mouse-lacks-a-right-click/"><u>Fixing the Issue: When Your Windows 10 Mouse Lacks a Right-Click</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-missing-touch-hid-compliance-achieved/"><u>Fixing the Missing Touch - HID Compliance Achieved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-overcome-halo-4s-ue4-catastrophic-crash-issue-update/"><u>Guide to Overcome Halo 4'S UE4 Catastrophic Crash Issue Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-sluggish-shutdown-in-windows-11-quickly-and-easily/"><u>How to Fix a Sluggish Shutdown in Windows 11 Quickly and Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-11-pro-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 11 Pro 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Huawei Nova Y91</u></a></li>
+</ul></div>
 

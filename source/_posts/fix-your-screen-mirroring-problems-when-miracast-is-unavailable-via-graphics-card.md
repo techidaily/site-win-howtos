@@ -1,7 +1,7 @@
 ---
 title: Fix Your Screen Mirroring Problems When Miracast Is Unavailable via Graphics Card
-date: 2025-01-10T17:13:40.487Z
-updated: 2025-01-13T16:48:08.947Z
+date: 2025-01-23T18:50:27.219Z
+updated: 2025-01-25T17:36:42.087Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -72,7 +72,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -80,7 +80,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -107,11 +107,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -126,10 +134,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -137,10 +141,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,16 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rafting-timeless-videos-with-retro-filmmaking-skills-for-2024/"><u>[New] Crafting Timeless Videos with Retro Filmmaking Skills for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-recorded-speech-retrieval-and-evaluation/"><u>[New] In 2024, Recorded Speech Retrieval & Evaluation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viewership-victory-surpassing-500-subscriber-mark/"><u>2024 Approved Viewership Victory Surpassing 500 Subscriber Mark</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cracking-down-on-code-224003-unlock-your-stuck-videos/"><u>Cracking Down on Code 224003 - Unlock Your Stuck Videos</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/decouvrez-comment-resoudre-lerreur-de-sauvegarde-0x807800c5-sur-windows-11-sans-probleme/"><u>Découvrez Comment Résoudre L'erreur De Sauvegarde 0X807800c5 Sur Windows 11 Sans Problème</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ftdi-bus-system-alert-driver-compatibility-issues-cause-memory-integrity-failure/"><u>FTDI Bus System Alert: Driver Compatibility Issues Cause Memory Integrity Failure</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-11-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/instant-solutions-resolve-hulu-rununk13-error-with-simple-steps/"><u>Instant Solutions: Resolve Hulu RUNUNK13 Error with Simple Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-store-woes-heres-how-you-can-get-it-running-smoothly-again/"><u>Microsoft Store Woes? Here’s How You Can Get It Running Smoothly Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-slow-startups-expert-techniques-for-faster-computer-initialization/"><u>Overcoming Slow Startups: Expert Techniques for Faster Computer Initialization</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-common-issues-when-your-hdmi-dongle-wont-connect-via-usb/"><u>Solving Common Issues When Your HDMI Dongle Won't Connect via USB</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-precision-zoom-youtube-video-expansion/"><u>[New] In 2024, Precision Zoom YouTube Video Expansion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlock-your-presentation-potential-with-these-high-quality-templates/"><u>[New] Unlock Your Presentation Potential with These High-Quality Templates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-avoidance-tactics-for-edg-vids-in-learning-for-2024/"><u>[Updated] Avoidance Tactics for EDG Vids in Learning for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-low-cost-high-performance-capturing-adrenaline-in-motion/"><u>2024 Approved Low-Cost, High-Performance Capturing Adrenaline in Motion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/api-integration-fails-missing-cruntimel1-1-0/"><u>API Integration Fails - Missing cRuntimeL1-1-0</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehve-guide-to-repair-rpc-service-unavailable-in-windows-systems/"><u>Comprehve Guide to Repair RPC Service Unavailable in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212190456-google-chrome-stalling-heres-why-and-how-to-quickly-resolve/"><u>Google Chrome Stalling? Here's Why and How to Quickly Resolve!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-realme-narzo-n55-by-drfone-android/"><u>How to Bypass FRP from Realme Narzo N55?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-pricing-outline-the-cost-to-film-melodies-visually/"><u>In 2024, Pricing Outline The Cost to Film Melodies Visually</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/noisy-playstation-4-heres-how-you-can-silence-the-racket/"><u>Noisy PlayStation 4? Here's How You Can Silence the Racket</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-gaming-support-identifying-and-repairing-initialization-errors-in-your-favorite-games/"><u>Origin Gaming Support: Identifying and Repairing Initialization Errors in Your Favorite Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-streaming-and-recording-lags-in-obs/"><u>Resolved: How to Fix Streaming and Recording Lags in OBS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-restoring-the-functionality-of-your-lenovos-fn-key-with-ease-and-speed/"><u>Step-by-Step: Restoring the Functionality of Your Lenovo's Fn Key with Ease and Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-svchostexes-excessive-bandwidth-usage-a-comprehensive-guide/"><u>Tackling Svchost.exe's Excessive Bandwidth Usage: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/turn-off-your-pcs-alarm-bells-with-this-simple-fix-from-yl-computing/"><u>Turn Off Your PC's Alarm Bells with This Simple Fix From YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-a-kindle-might-just-be-right-for-you/"><u>Why a Kindle Might Just Be Right for You</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212204648-windows-10-volume-adjustment-woes-heres-how-you-can-get-the-sound-back-on-track/"><u>Windows 10 Volume Adjustment Woes? Here's How You Can Get the Sound Back On Track</u></a></li>
 </ul></div>
 

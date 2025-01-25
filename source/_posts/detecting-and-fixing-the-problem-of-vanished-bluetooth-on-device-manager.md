@@ -1,7 +1,7 @@
 ---
 title: Detecting and Fixing the Problem of Vanished Bluetooth on Device Manager
-date: 2024-08-28T00:20:29.473Z
-updated: 2024-08-29T00:20:29.473Z
+date: 2025-01-18T17:02:38.046Z
+updated: 2025-01-25T18:07:11.940Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -53,6 +57,10 @@ Downloading again to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -60,20 +68,19 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Re-download to check.
 
 **Note** : If it doesn’t work, you must**turn on** Windows Firewall to protect your computer.  
@@ -81,10 +88,6 @@ Re-download to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -121,15 +124,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -147,8 +149,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +156,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[New] 2024 Approved Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unravel-the-mystery-of-accessing-your-watchlist-on-facebook-for-2024/"><u>[New] Unravel the Mystery of Accessing Your Watchlist on Facebook for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-discover-the-top-5-audio-editors-empowering-vtuber-creators/"><u>[Updated] Discover the Top 5 Audio Editors Empowering VTuber Creators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-perfect-your-youtube-experience-add-timestamps-efficiently/"><u>[Updated] In 2024, Perfect Your YouTube Experience Add Timestamps Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011-media-playermp4/"><u>動画再生問題解決: Windows 10/11 Media PlayerでMP4が出せない原因と改善策</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/demystifying-av1-encoding-basics/"><u>Demystifying AV1 Encoding Basics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-drivers-for-your-brother-mfc-j480dw-windows-printer/"><u>Download the Newest Drivers for Your Brother MFC-J480DW Windows Printer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-reading-pleasure-with-amazons-kindle-unlimited-top-4-advantages-highlighted/"><u>Elevate Reading Pleasure with Amazon’s Kindle Unlimited – Top 4 Advantages Highlighted</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-honor-80-pro-straight-screen-edition-by-fonelab-android-recover-video/"><u>How to recover old videos from your Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-quits-tackle-persistent-crashing-on-any-platform-with-these-diablo-4-solutions/"><u>No More Quits! Tackle Persistent Crashing on Any Platform with These Diablo 4 Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-setting-up-your-apple-product-assessment/"><u>The Ultimate Guide to Setting Up Your Apple Product Assessment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/two-effective-methods-for-capturing-your-dota-2-matches-in-windows/"><u>Two Effective Methods for Capturing Your Dota 2 Matches in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-steps-to-successfully-remove-audio-from-videos/"><u>Ultimate Guide: Steps to Successfully Remove Audio From Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-for-saving-discord-conversations-as-videos-on-pcs-and-smartphones-whats-new/"><u>Ultimate Tutorial for Saving Discord Conversations as Videos on PCs and Smartphones - What's New ?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-enhancing-video-clarity-and-resolution-with-vlc-media-player-the-2024-edition/"><u>Ultimate Tutorial: Enhancing Video Clarity & Resolution with VLC Media Player - The 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-mod-files-a-comprehensive-guide-on-their-functions-and-usage/"><u>Understanding MOD Files: A Comprehensive Guide on Their Functions and Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10dvd/"><u>Windows 10上のDVD再生 - 使いやすいガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11flv3-flv/"><u>Windows 11専用のFLV再生ガイド:最新の方法トップ3選択肢をご紹介 - FLV 再生</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xmedia-recode/"><u>XMedia Recodeでビデオアスペクト比を変更するシンプル方法 - チュートリアル</u></a></li>
+</ul></div>
 

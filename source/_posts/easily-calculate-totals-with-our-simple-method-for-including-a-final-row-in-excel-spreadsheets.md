@@ -1,7 +1,7 @@
 ---
 title: Easily Calculate Totals with Our Simple Method for Including a Final Row in Excel Spreadsheets
-date: 2024-08-28T00:18:59.143Z
-updated: 2024-08-29T00:18:59.143Z
+date: 2025-01-22T17:16:20.677Z
+updated: 2025-01-25T17:55:58.342Z
 tags:
   - excel
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Total row inserted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/TableDesignTotalRowAdded-ExcelTable.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The total row at the bottom provides you with a drop-down list of options for each column. Click that arrow and choose "SUM" for one of the columns.
 
 ![Select SUM in the drop-down list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/TableDesignTotalRowDropDownSum-ExcelTable.png) 
@@ -41,6 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Drag the fill handle to copy the formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/FillHandleCopyTotalRowSum-ExcelTable.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Automatically Fill Sequential Data into Excel with the Fill Handle](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/) 
 
  If you prefer, you can also click the drop-down arrow in each cell and select "SUM" rather than copying the formula.
@@ -50,8 +58,9 @@ Related: [How to Automatically Fill Sequential Data into Excel with the Fill Han
 ![Total row inserted in Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/TableDesignTotalRowComplete-ExcelTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Insert a Total Row Using a Keyboard Shortcut
 
  If you're a fan of using [keyboard shortcuts](https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-ready-enabling-av1-on-youtube/) to perform tasks quickly, then this method is for you.
@@ -61,16 +70,13 @@ Related: [How to Automatically Fill Sequential Data into Excel with the Fill Han
 ![Total row inserted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/TableDesignTotalRowAdded-ExcelTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Luckily, this keyboard shortcut works the same way as the Total Row checkbox on the Table Design tab above, so you can follow the same steps to insert the remaining totals and copy the formula to the other cells in the total row.
 
 Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-ready-enabling-av1-on-youtube/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Insert a Total Row by Adding a Row and Formula
 
  One more way to easily insert a total row in your table is by adding a row, using the SUM formula, and copying it across.
@@ -79,25 +85,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Add row for totals in Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/AddRowTotals-ExcelTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Next, select the cell to the right to insert your first total. Go to the Home tab and click "Sum" in the Editing section of the ribbon.
 
 ![On the Home tab, click Sum](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/AddRowTotalsClickSum-ExcelTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you have the total for the first column, you can copy that formula to the other cells.
 
  Select the cell with the [SUM formula](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/), place your cursor on the bottom-right corner to display the fill handle, and then drag to the remaining cells in that total row.
 
 ![Drag the fill handle to copy the formula and view your total row](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/AddRowTotalsComplete-ExcelTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's all there is to it! From there, you can format the total row to make it stand out if you like.
 
  Totaling figures in a spreadsheet is a basic function, so having three simple ways to add a total row lets you use the method that's most comfortable for you.
@@ -110,8 +111,6 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +118,20 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-how-you-can-get-paid-for-videos/"><u>[New] In 2024, How You Can Get Paid for Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-window-11-users-guide-to-photovideo-imports-for-2024/"><u>[New] Pro Window 11 Users' Guide to Photo/Video Imports for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-esports-news-and-analysis-from-top-vloggers-for-2024/"><u>[Updated] Esports News and Analysis From Top Vloggers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-to-restoring-vcruntime140dll-files-and-correcting-system-failures/"><u>Complete Guide to Restoring vcruntime140.dll Files & Correcting System Failures</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-free-qualcomm-atheros-ar938x-drivers-instantly-no-stress-included/"><u>Get Your Free Qualcomm Atheros AR938X Drivers Instantly – No Stress Included</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-add-bitmoji-to-keyboard-in-2024/"><u>How to Add Bitmoji to Keyboard, In 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c210-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C210 phone? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/inside-look-fixing-geforce-experience-wont-open-trouble-with-ease/"><u>Inside Look: Fixing GeForce Experience Won't Open Trouble with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-constant-freezes-in-your-new-windows-11-pc/"><u>Solving the Mystery of Constant Freezes in Your New Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-for-connecting-airpods-to-windows-11/"><u>Ultimate Troubleshooting Guide for Connecting AirPods to Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/undetectable-volume-variations-in-garageband-artistry-for-2024/"><u>Undetectable Volume Variations in Garageband Artistry for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-efficient-pdf-analysis-explore-navigate-with-these-6-cutting-edge-chatgpt-based-applications/"><u>Unleash Efficient PDF Analysis: Explore Navigate with These 6 Cutting-Edge ChatGPT-Based Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-note-50-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme Note 50? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

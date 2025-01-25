@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Lenovo's Unresponsive Keys: A Step-by-Step Guide"
-date: 2024-08-28T00:24:36.893Z
-updated: 2024-08-29T00:24:36.893Z
+date: 2025-01-20T18:34:16.858Z
+updated: 2025-01-25T18:19:31.114Z
 tags:
   - win11
   - win10
@@ -48,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Re-plug the USB drive
 
  You can try to re-plug the USB drive to fix the problem. Try the steps below:
@@ -60,13 +57,18 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756ddcbe2a8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Re-plug the USB drive** into the computer again.
 
 4) Try to install Windows again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Try another USB port
 
@@ -82,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 
 4) Try to install Windows again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change the settings in BIOS
 
  The problem can also be caused by the wrong configuration in BIOS. So you can change the BIOS settings in startup.
@@ -110,8 +109,9 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
  4) Save the settings and try to install Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Change the ISO file format
 
  The ISO file faulty can also cause the issue, so you can try to change the ISO file format to solve the issue.
@@ -135,17 +135,9 @@ thumbnail: https://thmb.techidaily.com/21bab4f1638ef86b0e7d7d0a727f5b3a087b8ff65
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
@@ -153,8 +145,9 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a742eeb04a11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
  Here are the solutions to fix**A media driver your computer needs is missing** . If you have any questions, please feel free to comment below, and we’ll see what more we can do to help.
@@ -168,8 +161,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +168,17 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/addressing-win1011-kernel-error-41/"><u>Addressing Win10/11 Kernel Error 41</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/bring-your-videos-to-life-top-live-photo-creation-apps-and-how-tos/"><u>Bring Your Videos to Life Top Live Photo Creation Apps and How-Tos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/discover-the-world-of-screen-capture-with-apowersofts-free-version-for-2024/"><u>Discover the World of Screen Capture with Apowersoft's Free Version for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-typing-issues-what-to-do-if-the-key-is-unresponsive/"><u>Fixing Typing Issues: What to Do if the '@' Key Is Unresponsive</u></a></li>
+<li><a href="https://win-popular.techidaily.com/guide-to-downloading-youtube-in-html5-format-for-pc-and-mac-enthusiasts/"><u>Guide to Downloading YouTube in HTML5 Format for PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-connection-refused-issue-errconnectionrefused-including-images-for-better-understanding/"><u>How to Solve the Connection Refused Issue (ERR_CONNECTION_REFUSED) - Including Images for Better Understanding</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g73-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G73 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-excels-essential-logical-operators-if-and-or-xor-and-not/"><u>Mastering Excel's Essential Logical Operators: IF, AND, OR, XOR, and NOT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/preserving-a-fresh-look-for-your-macbook-pro-ultimate-guide-and-techniques/"><u>Preserving a Fresh Look for Your MacBook Pro: Ultimate Guide & Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-sound-hardware-in-windows-11-systems/"><u>Troubleshooting Missing Sound Hardware in Windows 11 Systems</u></a></li>
+</ul></div>
 

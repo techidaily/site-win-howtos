@@ -1,7 +1,7 @@
 ---
 title: Easy Tutorial on Implementing Cell-Based Select Options in Microsoft Excel
-date: 2024-08-28T00:19:02.727Z
-updated: 2024-08-29T00:19:02.727Z
+date: 2025-01-24T17:13:05.683Z
+updated: 2025-01-25T18:03:22.190Z
 tags:
   - excel
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [What is an Excel Drop-Down List?](https://youtube-blog.techidaily.com/n-2024-ultimate-freefire-tag-collection-enhance-your-youtube-channels/)
 * [How to Add a Drop-Down List to Excel](https://facebook-clips.techidaily.com/in-2024-reddit-poster-canvas-ratio/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Drop-down lists in Excel make data entry easier and more efficient by allowing users to select pre-determined values from a list of options.
@@ -24,15 +28,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Drop-down lists are very useful data entry tools we see just about everywhere, and you can add custom drop-down lists to your own Excel worksheets. It’s easy and we’ll show you how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is an Excel Drop-Down List?
 
  A drop-down list in [Excel](https://vp-tips.techidaily.com/professional-stability-essentials-for-youtube-videographers/) is exactly like any other drop-down list you're familiar with — just click the arrow then select one of a few pre-determined values. Drop-down lists make it easier and more efficient to enter data into your spreadsheets.
 
  You can add drop-down lists to cells in Excel containing options such as "Yes" and "No", "Male" and "Female," or any other custom list of options, including numbers or special characters.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Add a Drop-Down List to Excel
 
  Drop-down lists are created using the Data Validation feature in Excel — not particularly intuitive. We’re going to create a drop-down list with a selection of age ranges to show you an example. We created three labeled [columns](https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-pro-max-properly-by-drfone-ios/): Name, Age, and Sex, and filled in two example names. You can do as many or as few as you like.
@@ -41,33 +46,36 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The age ranges we entered highlighted in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/enter-age-ranges.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, we’re going to name our range of cells to make it easier to add them to the drop-down list. To do this, select all the cells containing the drop-down list items and then enter a name for the cell range into the Name box above the grid. We named our cell range Age.
 
  Hold Ctrl while you click to select multiple cells in Excel on Windows. On a Mac, hold Command and click to select multiple items. You can also hold Shift-click the first cell and then Shift-click the last cell to select all of the cells in between as well.
 
 ![The age cells selected and named "Age."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/name-cells-age.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, select the cell into which you want to add a drop-down list and click the “Data” tab.
 
 ![The first cell in the "Age" column is selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/select-the-cell-then-click-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Open the Data Tools section of the Data tab, then click the “Data Validation” button
 
 ![The "Data Tools" flyout open with "Data Validation" highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/data-validation.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Data Validation dialog box displays. On the Settings tab, select “List” from the Allow drop-down list (see, drop-down lists are everywhere!).
 
 ![The "Data Validation" window, with the "Allow" drop-down box open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/select-list-from-dropdown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, we’re going to use the name we assigned to the range of cells containing the options for our drop-down list. Enter ` =Age ` in the “Source” box (if you named your cell range something else, replace “Age” with that name). Make sure the “In-cell dropdown” box is checked.
 
  The “Ignore blank” check box is checked by default. This means that the user can select the cell and then deselect the cell without selecting an item. If you want to require the user to select an option from the drop-down list, uncheck the Ignore blank check box.
@@ -77,6 +85,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can add a popup message that displays when the cell containing the drop-down list is selected. To do this, click the “Input Message” tab on the Data Validation dialog box. Make sure the “Show input message when the cell is selected” box is checked. Enter a Title and an Input message and then click the “OK” button.
 
 ![The "Input Message" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/input-message.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the cell containing the drop-down list is selected, you’ll see a down arrow button to the right of the cell. If you added an input message, it displays below the cell. The down arrow button only displays when the cell is selected.
 
@@ -96,41 +108,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Multiple cells have inherited the drop-down menu from the original cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/click-the-corner.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This trick basically applies to [_any_ formatting](https://fox-blue.techidaily.com/updated-2024-approved-ultimate-list-selecting-excellent-webcams-for-podcasts/) you apply to a cell in Excel, not just drop-down menus.
 
  If you decide you want to remove the drop-down list from the cell, open the Data Validation dialog box as described earlier and click the “Clear All” button, which is available no matter which tab is selected on the dialog box.
 
 ![Click "Clear All" to remove the drop-down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clear-all-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The options on the Data Validation dialog box are reset to their defaults. Click “OK” to remove the drop-down list and restore the cell to its default format.
 
 ![The cell now has no data validation criteria.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/clear-all-click-ok-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there was an option selected when you removed the drop-down list, the cell is populated with the value of that option.
 
 ![The data applied with the drop-down menu box will be retained by default.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/data-still-in-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Follow this process to add drop-down lists to other cells as needed. You can use the same list for multiple drop-down lists. If you have many drop-down lists you need to add on a worksheet, you may want to put the lists of options on another worksheet in the same workbook. You can [hide the worksheet](https://extra-guidance.techidaily.com/instantly-personalize-your-phones-from-tiktok-sounds-to-ringtones-for-2024/) containing your lists of options to prevent them from being changed.
 
 <ins class="adsbygoogle"
@@ -139,8 +130,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +137,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>[New] Top Voice Modification Tools Essential Choices for VTuber Creators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-perfecting-obs-broadcasts-for-facebook-audience/"><u>[Updated] 2024 Approved Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-audio-matters-ensuring-excellent-sound-in-your-youtube-shots/"><u>[Updated] Audio Matters Ensuring Excellent Sound in Your YouTube Shots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/alt-tab-trouble-step-by-step-solutions-for-unresponsive-keyboard-shortcuts/"><u>Alt Tab Trouble? Step-by-Step Solutions for Unresponsive Keyboard Shortcuts</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-12r-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus 12R Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-the-common-steam-disk-write-error/"><u>Easy Fixes for the Common 'Steam Disk Write Error'</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enhancing-social-media-impact-with-high-quality-360-facebook-content-for-2024/"><u>Enhancing Social Media Impact with High-Quality 360 Facebook Content for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-13-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 13 Pro Screen | Stellar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-free-graphic-websites-for-quality-vectors-for-2024/"><u>Leading Free Graphic Websites for Quality Vectors for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-world-of-video-editing-for-youtube-creators/"><u>Navigating the World of Video Editing for YouTube Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211083474-resolve-your-pcs-unwanted-sleeps-simple-fixes-revealed/"><u>Resolve Your PC's Unwanted Sleeps: Simple Fixes Revealed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-mojang-error-code-5/"><u>Resolving Minecraft Mojang Error Code #5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212221330-solve-your-typing-troubles-in-windows-10-and-11-repair-broken-keyboard-buttons/"><u>Solve Your Typing Troubles in WINDOWS 10 and 11: Repair Broken Keyboard Buttons</u></a></li>
+</ul></div>
 

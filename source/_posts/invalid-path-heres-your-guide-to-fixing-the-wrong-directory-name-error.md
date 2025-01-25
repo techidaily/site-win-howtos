@@ -1,7 +1,7 @@
 ---
 title: Invalid Path? Here's Your Guide to Fixing the Wrong Directory Name Error
-date: 2025-01-16T17:53:07.752Z
-updated: 2025-01-19T17:33:37.903Z
+date: 2025-01-18T18:35:52.463Z
+updated: 2025-01-25T18:02:37.915Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 4. **[Update your keyboard driver](#Fix4)**
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
 
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  After confirming that your hardware is not the problem, check out the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -66,28 +66,24 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -132,11 +132,15 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
@@ -150,10 +154,6 @@ If this method didn’t work for you, check out the last fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,19 +176,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>[New] 2024 Approved Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-essential-guide-to-mac-screen-recording-with-shortcuts-for-2024/"><u>[New] The Essential Guide to Mac Screen Recording with Shortcuts for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-simultaneously-stream-youtube-channels/"><u>2024 Approved Simultaneously Stream YouTube Channels</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-update-failure-code-0x802e-a-step-by-step-guide/"><u>How to Resolve Windows Update Failure Code 0X802e: A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y100a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y100A Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-8-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 8 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unlocking-the-secrets-of-high-quality-twitch-broadcasts/"><u>In 2024, Unlocking the Secrets of High-Quality Twitch Broadcasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-cannot-play-video-file-with-code-2219003-a-step-by-step-fix-guide/"><u>Overcoming 'Cannot Play Video File' With Code 2219003 - A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-reinstating-touchscreen-and-stylus-use-for-your-screen/"><u>Step-by-Step Guide: Reinstating Touchscreen & Stylus Use for Your Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-prevent-total-war-rome-remastered-from-crashing-on-your-pc/"><u>Step-by-Step Solutions to Prevent Total War: Rome Remastered From Crashing on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/thwarting-the-crash-in-windows-11-life/"><u>Thwarting the 'Crash' In Windows 11 Life</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-troubleshooting-steps-when-family-sharing-isnt-working/"><u>Top 6 Troubleshooting Steps When Family Sharing Isn't Working</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-tier-4k-video-transcoding-software-with-hevch2ebs-support-on-windows-11-and-10/"><u>Top-Tier 4K Video Transcoding Software with HEVC/H.2ebs Support on Windows 11 and 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-redefining-high-definition-with-samsungs-ubd-k850u-update/"><u>[New] Redefining High Definition with Samsung's UBD K850U Update</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-celeb-in-a-nutshell-vimeo/"><u>[Updated] 2024 Approved Celeb in a Nutshell – Vimeo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-choices-best-video-cards-for-youtubes-clearest-output/"><u>[Updated] 2024 Approved Expert Choices Best Video Cards for YouTube's Clearest Output</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-scrutiny-alternate-viewpoints/"><u>2024 Approved Future Scrutiny Alternate Viewpoints</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dark-mode-feature-gone-awol-in-winoses/"><u>Dark Mode Feature Gone AWOL in WinOSes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-errcachemiss-glitches-in-chrome-a-comprehensive-guide/"><u>Diagnosing and Correcting 'ERR_CACHE_MISS' Glitches in Chrome – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-steps-for-a-clean-setup-of-windows-11-operating-system/"><u>Effortless Steps for a Clean Setup of Windows 11 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expertly-solved-strategies-for-dealing-with-computers-that-refuse-to-start/"><u>Expertly Solved: Strategies for Dealing with Computers That Refuse to Start</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-direct-directions-simple-techniques-for-laptop-screening-dell/"><u>In 2024, Direct Directions Simple Techniques for Laptop Screening (Dell)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-low-cost-high-quality-4k-capture-devices/"><u>In 2024, Low-Cost, High-Quality 4K Capture Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-s17-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo S17 Pro Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mitigating-excessive-disk-usage-by-ntoskrnlexe/"><u>Mitigating Excessive Disk Usage by ntoskrnl.exe</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-virtualdub-alternatives-for-video-editing-enthusiasts/"><u>New The Best Virtualdub Alternatives for Video Editing Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-lack-of-sound-output-device-in-windows-11/"><u>Resolve Your PC's Lack of Sound Output Device in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-1011-user-profile-service-failure-during-login/"><u>Resolving Windows 10/11: User Profile Service Failure During Login</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-to-restore-windows-combo-shortcuts-focusing-on-win-plus-shift-plus-s-glitches/"><u>Step-by-Step Tutorial to Restore Windows Combo Shortcuts, Focusing on Win + Shift + S Glitches</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tech-tale-of-triumph-hard-drive-restoration-by-stellar/"><u>Tech Tale of Triumph: Hard Drive Restoration by Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-slow-shutdowns-in-windows-10-expert-tips-and-solutions/"><u>Troubleshoot Slow Shutdowns in Windows 10: Expert Tips & Solutions</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-11-pro-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 11 Pro using icloud website</u></a></li>
 </ul></div>
 

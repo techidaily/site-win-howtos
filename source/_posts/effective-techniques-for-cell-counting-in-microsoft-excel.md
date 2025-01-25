@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Cell Counting in Microsoft Excel
-date: 2024-08-28T00:18:03.381Z
-updated: 2024-08-29T00:18:03.381Z
+date: 2025-01-18T17:41:24.483Z
+updated: 2025-01-25T17:54:41.534Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Effective Techniques for Cell Counting in Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Excel provides various methods for [counting cells](https://facebook-video-recording.techidaily.com/new-2024-approved-the-cryptic-collection-of-2023-auction-for-anonymity-artifacts/) including using the Find feature or a filter. But with functions, you can count exactly what you need. From filled cells to blanks, from numbers to text, here's how to count cells in Excel.
 
 Related: [How to Count Colored Cells in Microsoft Excel](https://facebook-video-recording.techidaily.com/new-2024-approved-the-cryptic-collection-of-2023-auction-for-anonymity-artifacts/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Count Cells With Numbers: The COUNT Function
 
@@ -42,6 +50,10 @@ Related: [How to Count Colored Cells in Microsoft Excel](https://facebook-video-
 
 ![COUNT result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountResult-ExcelCountCells.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To count the number of cells in two separate ranges B2 through B7 and D2 through D7 that contain numbers, you would type the following and press Enter:
 
 =COUNT(B2:B7,D2:D7)
@@ -51,6 +63,10 @@ Related: [How to Count Colored Cells in Microsoft Excel](https://facebook-video-
  Now you'll see the total count of numbers for both of those cell ranges.
 
 ![COUNT result for ranges](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountRangesResult-ExcelCountCells.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Related: [How to Use the COUNT Function in Microsoft Excel](https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-12t-pro-for-free-drfone-by-drfone-virtual-android/) 
 
@@ -65,20 +81,15 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
 ![COUNTBLANK formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountBlankFormula-ExcelCountCells.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see the result in the cell where you entered the formula.
 
 ![COUNTBLANK result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountBlankResult-ExcelCountCells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For additional COUNTBLANK examples and uses, check out our tutorial for [counting blank or empty cells in Excel](https://fox-blue.techidaily.com/2024-approved-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Count Nonblank Cells: The COUNTA Function
 
  Perhaps you'd like to do the exact opposite of counting cells that are blank and instead count cells that contain data. In this case, you would use the COUNTA function. The syntax is `COUNTA(value1, value2,...)` where `value1` is required and `value2` is optional.
@@ -91,16 +102,14 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
 
 ![COUNTA formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountAFormula-ExcelCountCells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  As you can see, the COUNTA function counts cells containing any type of data. This includes numbers, text, errors, and empty text or strings. For example, the error in cell C7 is counted.
 
 ![COUNTA result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountAResult-ExcelCountCells.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If an error is giving you trouble, it's easy to [hide error values in your spreadsheets](https://instagram-videos.techidaily.com/updated-cut-and-paste-success-enhancing-videos-for-instagram-shares/).
 
 ##  Count Cells With Specific Criteria: The COUNTIF Function
@@ -129,9 +138,6 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
 
 ![COUNTIF cell reference result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountIfResultRef-ExcelCountCells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For additional COUNTIF examples and uses, take a look at our how-to for [using COUNTIF in Excel](https://win-forum.techidaily.com/complete-tutorial-clearing-out-windows-10-memory-dump-data/).
 
  Counting cells in Microsoft Excel is simple once you know these basic functions and how to use them. But if you're interested in something like [highlighting blanks or errors](https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/) rather than just counting them, we have you covered!
@@ -144,8 +150,6 @@ Related: [How to Highlight Blanks or Errors in Microsoft Excel](https://ios-unlo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +157,24 @@ Related: [How to Highlight Blanks or Errors in Microsoft Excel](https://ios-unlo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-upload-shorts-video-on-youtube-in-2024/"><u>[Updated] How to Upload Shorts Video on YouTube, In 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-master-the-art-of-swift-srt-to-text-transformation-for-2024/"><u>[Updated] Master the Art of Swift SRT to Text Transformation for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cant-retract-that-tiktok-learn-the-fix-for-removing-an-accidental-repost-here/"><u>Can't Retract That TikTok? Learn the Fix for Removing an Accidental Repost Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solution-for-an-unresponsive-usb-connection-in-your-hp-notebook/"><u>DIY Solution for an Unresponsive USB Connection in Your HP Notebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-network-initialization-error-how-to-fix-and-troubleshoot/"><u>Dragon Ball FighterZ Network Initialization Error: How to Fix and Troubleshoot</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effizientes-streamen-von-mkv-filmen-losungen-fur-ladeverzogerungen-und-abtastungsfehler-in-windowsmacos/"><u>Effizientes Streamen Von MKV-Filmen: Lösungen Für Ladeverzögerungen Und Abtastungsfehler in Windows/macOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-erratic-scrolling-in-file-explorer-on-windows-10-a-comprehensive-guide/"><u>Eliminating Erratic Scrolling in File Explorer on Windows 10 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-when-windows-11s-system-restore-doesnt-work/"><u>How to Recover When Windows 11'S System Restore Doesn't Work</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-saving-a-look-at-your-window/"><u>In 2024, Saving a Look at Your Window</u></a></li>
+<li><a href="https://blog-min.techidaily.com/kunt-u-convert-mp3-naar-ogg-format-vervulls-voorlopig-gratis-movavi/"><u>Kunt U Convert MP3 Naar Ogg Format Vervulls Voorlopig Gratis - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-troubleshooting-and-solving-touchscreen-problems-on-windows-11/"><u>Step-by-Step Guide: Troubleshooting and Solving Touchscreen Problems on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-stop-the-continuous-reboot-cycle-on-windows-11/"><u>Ultimate Guide: Stop the Continuous Reboot Cycle on Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-the-essence-filmoras-top-10-enchanting-features-for-2024/"><u>Unveiling the Essence Filmora’s Top 10 Enchanting Features for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-dvd-conversion-guide-from-disc-to-digital-for-2024/"><u>Updated The Ultimate DVD Conversion Guide From Disc to Digital for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-fix-corrupted-files-using-sfc-and-dism-utilities/"><u>Windows 11: Fix Corrupted Files Using SFC and DISM Utilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-overcoming-challenges-in-enabling-the-hosted-wi-fi-feature/"><u>Windows 11: Overcoming Challenges in Enabling the Hosted Wi-Fi Feature</u></a></li>
+</ul></div>
 

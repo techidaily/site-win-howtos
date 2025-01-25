@@ -1,7 +1,7 @@
 ---
 title: "Resetting 101: Expert Tips for Restoring Functionality to Your Unresponsive Keyboard"
-date: 2025-01-08T17:17:29.491Z
-updated: 2025-01-13T17:41:01.448Z
+date: 2025-01-21T18:30:35.250Z
+updated: 2025-01-25T16:40:15.577Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -44,7 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -58,7 +62,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -109,10 +113,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -121,10 +121,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -138,17 +134,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,24 +184,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-streamlining-your-mac-techniques-to-remove-green-screen-effects/"><u>[Updated] 2024 Approved Streamlining Your Mac Techniques to Remove Green Screen Effects</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-boosting-sales-the-top-20-words-and-phrases-in-marketing-for-2024/"><u>[Updated] Boosting Sales The Top 20 Words and Phrases in Marketing for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-echoes-unleashed-exploring-sound-with-mac/"><u>[Updated] In 2024, Echoes Unleashed Exploring Sound with Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-pioneer-the-future-of-youtube-content-with-tubebuddy-for-2024/"><u>[Updated] Pioneer the Future of YouTube Content with TubeBuddy for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-the-cannotreplacethisfile-issue-in-windows-11-error-code-0x80072efd/"><u>Effective Solutions for Fixing the 'CAN_NOT_REPLACE_THIS_FILE' Issue in Windows 11 (Error Code 0X80072EFD)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-software-error-specific-module-missing/"><u>Expert Tips for Dealing with Software Error: Specific Module Missing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/more-views-beginners-guide-to-youtube-seo/"><u>Gain More Views Beginner’s Guide to YouTube SEO</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-make-wd-my-passport-ultra-visible-in-your-windows-system-again/"><u>How to Make WD My Passport Ultra Visible in Your Windows System Again</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-clearer-brighter-videos-mastering-the-v22-technique/"><u>In 2024, Clearer, Brighter Videos Mastering the V2.2 Technique</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-components-to-creativity-designing-your-own-4k-editor-pc/"><u>In 2024, From Components to Creativity Designing Your Own 4K Editor PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/monitor-not-responding-fix-unsupported-signal-timings-now/"><u>Monitor Not Responding? Fix Unsupported Signal Timings Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mouse-gesture-power-ups-for-xpwin-7/"><u>Mouse Gesture Power-Ups for XP/Win 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-with-windows-10-version-1607s-new-features-heres-how-to-fix-it/"><u>Trouble with Windows 10 Version 1607'S New Features? Here's How to Fix It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-directx-initialization-failures/"><u>Troubleshooting Guide: Overcoming DirectX Initialization Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-airpods-connection-issues-on-windows-11/"><u>Ultimate Guide: Resolving AirPods Connection Issues on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steps-resolving-the-msvcr110dll-file-not-found-error/"><u>Ultimate Troubleshooting Steps: Resolving the MSVCR110.dll File Not Found Error</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-macs-best-top-3-mkv-video-trimmers-for-2024/"><u>Updated Macs Best Top 3 MKV Video Trimmers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/video-production-pro-tips-incorporating-audio-into-youtube-content-for-2024/"><u>Video Production Pro Tips Incorporating Audio Into YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[New] 2024 Approved Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-key-elements-to-successful-mobile-app-design/"><u>[New] Key Elements to Successful Mobile App Design</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-and-rectifying-youtube-sound-malfunctions-caused-by-an-audio-renderer-error-on-windows-10/"><u>Addressing and Rectifying YouTube Sound Malfunctions Caused by an Audio Renderer Error on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/failed-to-create-d3d-device-solved/"><u>Failed to Create D3D Device [SOLVED]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-facetime-on-android-easily-for-2024/"><u>How To Facetime on Android Easily for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme GT 5 Pro?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/itop-screen-recorder-essential-or-excessive/"><u>ITop Screen Recorder - Essential or Excessive?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/next-level-game-capture-strategies-for-high-definition-quality-for-2024/"><u>Next-Level Game Capture Strategies for High Definition Quality for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-microsoft-widi-connection-setbacks-on-windows-10-devices-expert-tips/"><u>Overcoming Microsoft WiDi Connection Setbacks on Windows 10 Devices - Expert Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-magic-5-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic 5 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-hiding-touchpad-on-windows-11-with-usb-mouse-connection/"><u>Step-by-Step Instructions for Hiding Touchpad on Windows 11 with USB Mouse Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-installation-errors-fast-and-effectively/"><u>Troubleshoot Windows Installation Errors Fast and Effectively</u></a></li>
 </ul></div>
 

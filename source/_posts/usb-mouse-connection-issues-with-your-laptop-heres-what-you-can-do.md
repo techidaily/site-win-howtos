@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Connection Issues with Your Laptop? Here's What You Can Do
-date: 2025-01-13T19:10:54.671Z
-updated: 2025-01-19T16:13:17.250Z
+date: 2025-01-19T17:25:40.420Z
+updated: 2025-01-25T17:05:16.732Z
 tags:
   - win11
   - win10
@@ -33,14 +33,14 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
   
@@ -58,7 +58,11 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -71,23 +75,19 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
@@ -105,7 +105,7 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -125,22 +125,16 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-expert-tips-for-securing-top-tier-youtube-ad-campaigns-using-famebit/"><u>[New] 2024 Approved Expert Tips for Securing Top-Tier YouTube Ad Campaigns Using FameBit</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/administrar-actualizaciones-en-windows-11-tres-estrategias-clave-para-la-organizacion-y-el-rendimiento-del-equipo/"><u>Administrar Actualizaciones en Windows 11: Tres Estrategias Clave Para La Organización Y El Rendimiento Del Equipo</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bridging-knowledge-gaps-the-principles-of-ai-transfer-learning/"><u>Bridging Knowledge Gaps: The Principles of AI Transfer Learning</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-best-no-cost-apps-for-creating-unique-iphone-ringtones-top-picks-and-reviews/"><u>Discover the Best No-Cost Apps for Creating Unique iPhone Ringtones – Top Picks & Reviews</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-world-of-warcrafts-slowdowns-a-comprehensive-solution-overview/"><u>Fixing World of Warcraft's Slowdowns: A Comprehensive Solution Overview</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-freezing-or-unresponsive-windows-10-system/"><u>How to Fix a Freezing or Unresponsive Windows 10 System</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/o-remove-black-bars-from-youtube-videos-for-2024/"><u>How to Remove Black Bars From YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-of-x0x80070-652-windows-update-issue-with-simple-steps/"><u>Mastering the Fix of X0X80070 652-Windows Update Issue with Simple Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-the-process-how-to-get-clearance-from-trustedinstaller-for-file-changes/"><u>Navigating the Process: How to Get Clearance From TrustedInstaller for File Changes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/online-free-conversion-of-3gp3g2-formats-effortless-video-editing-with-movavi/"><u>Online Free Conversion of 3GP/3G2 Formats - Effortless Video Editing with Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfecting-your-video-stream-zoom-meets-fb-live/"><u>Perfecting Your Video Stream Zoom Meets FB Live</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-techniques-for-when-your-computer-wont-start-due-to-no-boot-error/"><u>Quick Fix Techniques for When Your Computer Won't Start Due to No Boot Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/regain-control-of-missing-icons-4-proven-solutions-to-restore-windows-11s-taskbar-functionality/"><u>Regain Control of Missing Icons: 4 Proven Solutions to Restore Windows 11'S Taskbar Functionality</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/reliable-and-cost-free-data-protection-superior-options-beyond-shadowprotect/"><u>Reliable & Cost-Free Data Protection: Superior Options Beyond ShadowProtect</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-common-touchscreen-problems-on-windows-10-a-guide-to-five-reliable-solutions/"><u>Solving Common Touchscreen Problems on Windows 10: A Guide to Five Reliable Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-non-functional-usb-mouse-issue-top-solutions-for-laptops/"><u>Solving Your Non-Functional USB Mouse Issue: Top Solutions for Laptops</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-10-guides-for-crafting-stellar-music-reactions-on-youtube-for-2024/"><u>Top 10 Guides for Crafting Stellar Music Reactions on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhance-youtube-creations-with-soundtrack-perfection-guide/"><u>[New] Enhance YouTube Creations with Soundtrack Perfection Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screen-streaming-showdown-choose-between-obs-and-shadowgl/"><u>[New] Screen Streaming Showdown Choose Between OBS & ShadowGL</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10plus-gpt-upgrades-for-mindful-living-and-exercise/"><u>10+ GPT Upgrades for Mindful Living and Exercise</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-compilation-of-best-cams-for-mountain-sports/"><u>2024 Approved Ultimate Compilation of Best Cams for Mountain Sports</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avi-mkv-movavi/"><u>AVI와 MKV의 온라인 자유롭고 비용 없는 교리: Movavi 소개</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprendiendo-el-formato-de-archivos-ogg-y-la-guia-para-reproducirlos-perfectamente/"><u>Comprendiendo El Formato De Archivos Ogg Y La Guía Para Reproducirlos Perfectamente</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crafting-an-effective-training-plan-a-step-by-step-guide-movavi/"><u>Crafting an Effective Training Plan: A Step-by-Step Guide - Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/defining-desires-discovering-consumer-demands-and-future-prospects-for-microsoft-surface-insights-from-zdnet/"><u>Defining Desires: Discovering Consumer Demands & Future Prospects for Microsoft Surface - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphones-unresponsive-auto-brightness-a-guide-to-7-effective-methods/"><u>Fixing iPhone's Unresponsive Auto-Brightness - A Guide to 7 Effective Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guida-facile-per-convertire-i-file-flac-in-mp3-con-il-movavi-video-converter/"><u>Guida Facile per Convertire I File FLAC in MP3 Con Il Movavi Video Converter</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-x9a-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor X9a IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

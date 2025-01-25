@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your PC From Randomly Restarting on Windows 11 Devices: Expert Advice"
-date: 2025-01-13T18:26:23.127Z
-updated: 2025-01-19T17:45:17.127Z
+date: 2025-01-22T16:19:32.611Z
+updated: 2025-01-25T17:43:14.917Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -44,16 +40,12 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Display** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Check if you’re able to see the TV as a second monitor.
@@ -68,7 +60,7 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If Duplicate doesn’t work, try switching to**Extend** .
@@ -76,6 +68,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
 After that, check to see if Windows can detect your TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
 
@@ -94,7 +90,7 @@ After that, check to see if Windows can detect your TV.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
@@ -102,6 +98,10 @@ After that, check to see if Windows can detect your TV.
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
@@ -126,20 +126,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-efficient-audio-modulation-gadgets-guidebook-for-2024/"><u>[New] Efficient Audio Modulation Gadgets Guidebook for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-firefoxvidrecorder-plugins/"><u>[New] In 2024, FirefoxVidRecorder Plugins</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/as-maiores-plataformas-onlines-livres-e-profissionais-para-construcao-do-seu-logotipo/"><u>As Maiores Plataformas Onlines Livres E Profissionais Para Construção Do Seu Logotipo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202589684-easy-guide-activating-bluetooth-connectivity-in-windows-11-and-10/"><u>Easy Guide: Activating Bluetooth Connectivity in Windows 11 & 10</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-the-value-of-premium-ai-prompt-offerings-are-they-a-good-buy/"><u>Evaluating the Value of Premium AI Prompt Offerings – Are They a Good Buy?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-mouse-scroll-issue-in-windows-11/"><u>How to Fix Unresponsive Mouse Scroll Issue in Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-for-pc-a-short-and-sweet-review-for-2024/"><u>New VN Video Editor for PC A Short and Sweet Review for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-hosted-wifi-setup-in-windows-10-a-step-by-step-fix/"><u>Overcoming Issues with Hosted WiFi Setup in Windows 10 - A Step-by-Step Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/scrolling-on-touchpad-not-working-solved/"><u>Scrolling on Touchpad Not Working [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-a-broken-symbol-functionality-in-typing-devices/"><u>Solutions for a Broken '@' Symbol Functionality in Typing Devices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-unable-to-retrieve-settings-in-nvidia-geforce-setup/"><u>Troubleshooting Steps for 'Unable to Retrieve Settings' In NVIDIA GeForce Setup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212015705-windows-7-wont-respond-to-your-clicks-fix-your-broken-mouse-and-keyboard-connections-now/"><u>Windows 7 Won't Respond to Your Clicks? Fix Your Broken Mouse and Keyboard Connections Now!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-civics-challenge-club-leading-political-gaming-series/"><u>[New] In 2024, Civics Challenge Club Leading Political Gaming Series</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-personalize-your-youtube-watch-experience-with-alerts-and-notes/"><u>[Updated] In 2024, Personalize Your Youtube Watch Experience with Alerts & Notes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-stories-a-comprehensive-users-handbook/"><u>[Updated] Mastering Facebook Stories A Comprehensive User's Handbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/combat-overheated-cpu-in-windows-10/"><u>Combat Overheated CPU in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-transformar-archivos-3gpp-a-m4a-gratuitamente-en-linea-con-facilidad-movavi/"><u>Cómo Transformar Archivos 3GPP a M4A Gratuitamente en Línea Con Facilidad - Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dannys-colombian-efforts-for-disadvantaged-communities/"><u>Danny's Colombian Efforts for Disadvantaged Communities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-guide-restarting-your-windows-10-explore-function-smoothly-and-efficiently/"><u>Definitive Guide: Restarting Your Windows 10 Explore Function Smoothly and Efficiently</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/harness-the-power-of-meta-ai-to-transform-your-instagram-marketing-game/"><u>Harness the Power of Meta AI to Transform Your Instagram Marketing Game</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v27-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V27 Pro Device</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/mp4avi-5/"><u>MP4からAVIへ簡単な方法を覚えよう - 最新オンライン変換ツールベスト5選！ | ソフトウェアのインストール不要</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-persistent-buffering-problems-on-kodi/"><u>Resolved: How to Fix Persistent Buffering Problems on Kodi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-functionality-for-malfunctioning-usb-peripherals-in-windows-7/"><u>Restoring Functionality for Malfunctioning USB Peripherals in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sedimentation-efficiency-is-influenced-by-particle-size-distribution-known-as-the-peclet-number-which-affects-settling-behavior-equilibrium-within-the-tank.154/"><u>Sedimentation Efficiency Is Influenced by Particle Size Distribution, Known as the Péclet Number, Which Affects Settling Behavior Equilibrium Within the Tank.</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1728493650108-windows-11onedrive/"><u>Windows 11上即時同步本地文件夹至OneDrive：两种简单方法</u></a></li>
 </ul></div>
 

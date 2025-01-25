@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transferring Information From PDF Documents Into Microsoft Excel"
-date: 2024-08-28T00:18:36.712Z
-updated: 2024-08-29T00:18:36.712Z
+date: 2025-01-22T18:23:41.912Z
+updated: 2025-01-25T16:39:20.450Z
 tags:
   - excel
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
 * [Connect a PDF File to Excel](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-13-ultra-phone-by-drfone-android/)
 * [Adjust the Connected Data](https://fox-glue.techidaily.com/updated-2024-approved-engaging-content-creation-videography-tips-in-education/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 ![Select the file and click Import](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/SelectFileImport-ExcelImportPDF.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, you'll see the Navigator pane. On the left are the tables and pages in your PDF file. You can search for one at the top or simply select an element and see a preview on the right side.
 
  When you see the item you want to import, click "Load" at the bottom of the window.
@@ -50,27 +55,24 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 ![Data loaded into Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/LoadedTable-ExcelImportPDF.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Adjust the Load Settings
 
  If you prefer to load the data in a specific format such as [a pivot table](https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/) or to a new worksheet, select the Load drop-down arrow and pick "Load to" instead.
 
 ![Select Load To](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/LoadTo-ExcelImportPDF.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then choose your options in the Import Data window and click "OK."
 
 ![Choose an import option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/LoadToImportData-ExcelImportPDF.png) 
 
 Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Transform the Data with Power Query
 
@@ -78,19 +80,18 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 
 ![Click Transform Data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/TransformData-ExcelImportPDF.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This will open the Power Query window where you can do things like choosing or adding more columns, [transposing rows and columns](https://win-blog.techidaily.com/dual-frames-per-second-drop-off-issue-on-pcs-comprehensive-fixes-and-optimizations/), managing parameters, and formatting the data.
 
 ![Power Query Editor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/PowerQueryEditor-ExcelImportPDF.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Adjust the Connected Data
 
  If you want to adjust the data you imported, you can do so by opening the data from the Queries & Connections sidebar. You can then take actions such as editing it [using the Power Query Editor](https://extra-approaches.techidaily.com/updated-navigating-the-world-of-vsco-editing-features/), duplicating, merging, adding a reference, or deleting the connected data.
@@ -101,10 +102,6 @@ Related: [How to Create Your Own Data Type in Microsoft Excel](https://extra-app
 
 ![Click Data, Queries and Connections](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DataQueriesConnections-ExcelImportPDF.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Place your cursor over the connected data and you'll see a window appear. At the bottom, you have actions for View in Worksheet, Edit, and Delete. If you click the three dots, you'll see options like Duplicate, Reference, and Merge.
 
 ![Click Data, Queries and Connections](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DataQueriesConnections-ExcelImportPDF.png) 
@@ -123,8 +120,6 @@ Related: [How to Create and Use a Table in Microsoft Excel](https://instagram-vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +127,18 @@ Related: [How to Create and Use a Table in Microsoft Excel](https://instagram-vi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-free-youtube-audio-extractors-for-pc-mac-ios-and-android/"><u>[New] In 2024, Top Free YouTube Audio Extractors for PC, Mac, iOS & Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-instagrams-video-upload-constraints-a-detailed-guide/"><u>[Updated] In 2024, Mastering Instagram's Video Upload Constraints A Detailed Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-media-post-resolution-guide-for-2024/"><u>[Updated] Social Media Post Resolution Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/blizzard-support-temporarily-disconnected/"><u>Blizzard Support Temporarily Disconnected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-overcame-my-obs-game-recordings-persistent-darkness-flaw/"><u>How I Overcame My OBS Game Recording's Persistent Darkness Flaw</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-arrow-keys-not-working-try-these-fixes/"><u>Keyboard Arrow Keys Not Working? Try These Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210942140-9781913568016-my-journey-to-zen/"><u>My Journey To Zen | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-through-miracast-hurdles-how-to-resolve-non-supporting-device-warnings-in-the-upcoming-year/"><u>Navigating Through Miracast Hurdles: How to Resolve Non-Supporting Device Warnings in the Upcoming Year</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-red-dead-redemption-2-load-issues-how-to-adjust-and-upgrade-your-page-file/"><u>Overcome Red Dead Redemption 2 Load Issues: How to Adjust and Upgrade Your Page File</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-essentials-android-must-address-to-challenge-apples-ios-dominance-insights/"><u>Top 5 Essentials Android Must Address to Challenge Apple's iOS Dominance: Insights</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-dual-view-video-editing-the-best-apps-for-ios-and-android-for-2024/"><u>Updated Dual-View Video Editing The Best Apps for iOS and Android for 2024</u></a></li>
+</ul></div>
 

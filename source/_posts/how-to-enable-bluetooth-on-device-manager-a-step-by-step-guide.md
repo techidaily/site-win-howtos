@@ -1,7 +1,7 @@
 ---
 title: "How to Enable Bluetooth on Device Manager: A Step-by-Step Guide"
-date: 2024-08-28T00:20:34.394Z
-updated: 2024-08-29T00:20:34.394Z
+date: 2025-01-24T16:18:15.919Z
+updated: 2025-01-25T17:11:16.581Z
 tags:
   - win11
   - win10
@@ -39,15 +39,6 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 [**4: Troubleshoot Windows Updates issues**](#4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
@@ -62,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
@@ -70,16 +65,10 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Repeat the steps until you locate the faulty process.
 
  6) Once you find the faulty service, click the **Open Services** button and go to the **Service** window.
@@ -90,15 +79,20 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9) See if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **3: Empty event viewer log**
 
  Large log files in Windows event viewer could cause excessively high usage of CPU or memory. To fix that, you can clear Event Viewer’s log:
@@ -107,26 +101,23 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Restart your computer after this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Troubleshoot Windows Updates issues**
 
@@ -137,19 +128,25 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **PRO TIP**
 
  If, after trying the above, your PC is still hogging by**svchost.exe** programs, it’s time to update your device drivers.
@@ -166,9 +163,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -181,8 +175,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +182,16 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-decoding-inverse-image-retrieval-for-social-networks-focusing-on-fb/"><u>[Updated] Decoding Inverse Image Retrieval for Social Networks, Focusing on FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-perfect-resolution-for-immersive-vr/"><u>[Updated] The Perfect Resolution for Immersive VR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029121683-youtube/"><u>「移動中にスマホでYouTubeミュージックを楽しむ方法」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/4-effective-methods-for-capturing-screenshots-on-crunchyroll-updated-guide-2024/"><u>4 Effective Methods for Capturing Screenshots on Crunchyroll (Updated Guide - 2024)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/7mp4/"><u>最高の自由アプリ!7つのベストMP4編集ツールをご紹介</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y100a-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y100A Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-lava-blaze-curve-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Lava Blaze Curve 5G online without jailbreak</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/introduction-to-dynamic-graphic-techniques/"><u>Introduction to Dynamic Graphic Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44ob44on44o844og44ow44od44kv44gn6zplusz5qw944ks5yan55sf44gn44gn44gq44ge5ac05zci44gu44oi44op44ow44or44k344ol44o844og44kj44oz44kw5oml6acg/"><u>チョームブックで音楽を再生できない場合のトラブルシューティング手順</u></a></li>
+</ul></div>
 

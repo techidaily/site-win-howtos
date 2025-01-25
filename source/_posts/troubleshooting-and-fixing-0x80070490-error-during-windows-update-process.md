@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing 0X80070490 Error During Windows Update Process
-date: 2024-08-28T00:22:40.598Z
-updated: 2024-08-29T00:22:40.598Z
+date: 2025-01-24T16:29:43.634Z
+updated: 2025-01-25T17:00:21.481Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 ## Troubleshooting Made Easy: Fix Windows Error Code 0xC0000098 in Minutes
 
  While booting your PC, Windows gives you a BSOD with the**error code** **0xc0000098** . It can be rather frustrating not being able to use your device. You just get stuck at the blue/black screen. But don’t panic. This is a most common Windows error and it’s never hard to fix it at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## About the error 0xc0000098
 
@@ -40,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Rebuild BCD manually
 
  Since this is a BSOD error, you won’t be able to access your PC normally. To repair your PC, you’ll need to use a Windows recovery drive: an installation USB media or a CD/DVD.
@@ -82,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
  4) Save the changes and exit.
@@ -118,8 +116,9 @@ bootrec /rebuildbcd
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Startup Repair
 
  Startup Repair is a built-in tool to diagnose and repair some common problems on Windows. You may need to run Startup Repair (even 2 or 3 times).
@@ -131,25 +130,17 @@ bootrec /rebuildbcd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: CHKDSK
 
  CHKDSK, short for “check disk”, aims to check disk and verify system files for any errors.
@@ -168,6 +159,10 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -180,9 +175,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -193,19 +185,19 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -267,9 +259,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance or have any questions, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -285,8 +274,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +281,26 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-canva-imagery-top-10-pro-level-techniques/"><u>[Updated] In 2024, Mastering Canva Imagery Top 10 Pro-Level Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/avoiding-common-pitfalls-in-rl-gameplay-recordings/"><u>Avoiding Common Pitfalls in RL Gameplay Recordings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-dos-and-donts-mastering-chatgpt-in-your-academic-journey/"><u>Essential Dos and Don'ts: Mastering ChatGPT in Your Academic Journey</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-runtime-broker-cpu-overload-issue-in-windows-11-complete-solutions/"><u>Fixing the Runtime Broker CPU Overload Issue in Windows 11 - Complete Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unwanted-screen-flashes-on-your-windows-11-computer/"><u>Fixing Unwanted Screen Flashes on Your Windows 11 Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratuit-online-convertereen-van-m4v-naar-3gp-movavi/"><u>Gratuit Online Convertereen Van M4V Naar 3GP - Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/hero5-review-capturing-extreme-sports/"><u>Hero5 Review Capturing Extreme Sports</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-oppo-k11x-by-drfone-android/"><u>How to Show Wi-Fi Password on Oppo K11x</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-go-2023-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark Go (2023) Phone with Broken Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-game-boy-pen-troubles-in-depth-fixing-techniques-for-seamless-play-on-classic-consoles/"><u>Navigate Through Game Boy Pen Troubles: In-Depth Fixing Techniques for Seamless Play on Classic Consoles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nba-2k21-color-error-resolved-how-to-correct-the-iconic-green-glitch/"><u>NBA 2K21 Color Error Resolved - How to Correct the Iconic 'Green Glitch'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/opencl-dll-access-resolution-approach/"><u>OpenCL DLL Access: Resolution Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-cure-for-lidadll-absence/"><u>Quick Cure for Lida.dll Absence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-troubleshooting-failed-device-creations-in-directx/"><u>Solution Guide for Troubleshooting Failed Device Creations in DirectX</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repair-solutions-for-lenovo-keyboards-that-wont-respond/"><u>Troubleshooting and Repair Solutions for Lenovo Keyboards That Won't Respond</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-for-resolving-live-server-connection-failures-errors/"><u>Troubleshooting Guide for Resolving ‘Live Server Connection Failures’ Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-onikuma-microphone-issues-now-resolved/"><u>Troubleshooting Guide: Fixing Onikuma Microphone Issues - Now Resolved!</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/troubleshooting-non-functional-usb-connectors-with-expert-advice-from-yl-software/"><u>Troubleshooting Non-Functional USB Connectors with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-icue-doesnt-recognize-your-device/"><u>Troubleshooting Tips for When ICUE Doesn't Recognize Your Device</u></a></li>
+</ul></div>
 

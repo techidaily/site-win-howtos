@@ -1,7 +1,7 @@
 ---
 title: "Solutions: How to Resolve Your Computer Stuck During Windows Setup"
-date: 2024-08-28T00:25:43.723Z
-updated: 2024-08-29T00:25:43.723Z
+date: 2025-01-20T17:23:57.920Z
+updated: 2025-01-25T16:58:27.095Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
  You may want to use Bluetooth headphones or microphones on your Windows 10, or you may want to transfer the files on your mobile phone to Windows 10 via Bluetooth. But the problem is now you can’t find the Bluetooth anymore in the Settings window.
 
  It’s wired. But the good news is you can fix it easily by yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix Windows 10 Bluetooth missing?
 
@@ -40,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 2: Check the status of the Bluetooth service
 
  1) On your keyboard, press the **Windows logo key**   + **R**   key together to invoke the Run box.
@@ -51,17 +56,17 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
@@ -75,12 +80,9 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -90,8 +92,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
@@ -104,18 +107,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 3: Reinstall your Bluetooth driver
 
  Always, if your Bluetooth driver is outdated or corrupted, it will cause errors. In most such cases, updating your Bluetooth driver can fix the error.
@@ -126,9 +117,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
@@ -151,6 +139,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -169,8 +161,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +168,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-entry-point-not-found-error-in-windows/"><u>[FIXED] Entry Point Not Found Error in Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-insights-into-youtube-shorts-business-model/"><u>[Updated] In 2024, Insights Into YouTube Shorts Business Model</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-100plus-best-zodiac-bio-ideas-for-messaging-enthusiasts/"><u>[Updated] In 2024, The 100+ Best Zodiac Bio Ideas for Messaging Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-2/"><u>Destiny 지미 2 시작 중에 일시 불확인 상태에서 깨어나다는 방법</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-lenovo-mousepad-issues-on-windows-11-8-and-7-step-by-step-guide/"><u>Fix Lenovo Mousepad Issues on Windows 11, 8 & 7 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hassle-free-remedies-to-get-past-windows-updates-stagnation-at-no-progress/"><u>Hassle-Free Remedies to Get Past Windows Update's Stagnation at No Progress</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207855632-how-to-fix-windows-update-error-code-0x8024002e-easily/"><u>How to Fix Windows Update Error Code 0X8024002E Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-moto-g84-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Moto G84 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-s17-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo S17 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-tales-and-truths-the-worlds-finest-schools-top-8/"><u>In 2024, Mastering Tales & Truths The World's Finest Schools (Top 8)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-joining-youtube-clips-for-2024/"><u>Mastering the Art of Joining YouTube Clips for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsofts-print-to-pdf-glitches-and-solutions-for-windows-1011-users/"><u>Microsoft's Print to PDF Glitches and Solutions for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-for-critical-error-code-0x887a0006-learn-how-here/"><u>Quick Fix for Critical Error Code 0X887A0006 - Learn How Here</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-discerning-professional-film-making-talents/"><u>Strategies for Discerning Professional Film Making Talents</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-binkw32dll-is-not-found-on-your-pc/"><u>Troubleshooting Tips for When BinkW32.DLL Is Not Found on Your PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-infinix-hot-40-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Infinix Hot 40 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-choosing-the-perfect-green-screen-tool-for-mac-users-for-2024/"><u>Updated Choosing the Perfect Green Screen Tool for Mac Users for 2024</u></a></li>
+</ul></div>
 

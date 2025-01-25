@@ -1,7 +1,7 @@
 ---
 title: Solve ASUS Laptop's Non-Working Fn Key Dilemma Easily
-date: 2024-08-28T00:22:18.684Z
-updated: 2024-08-29T00:22:18.684Z
+date: 2025-01-24T16:02:25.150Z
+updated: 2025-01-25T16:22:31.765Z
 tags:
   - win11
   - win10
@@ -64,11 +64,16 @@ thumbnail: https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you turn off the battery charge threshold feature, your battery should be charging.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Perform a power reset on your laptop
 
 **Try performing a power reset on your laptop** to see if the battery not charging issue persists. Here is how to do it:
@@ -80,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -91,20 +93,22 @@ thumbnail: https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Shut down your laptop and **disconnect the AC adapter** .
 
  5) Remove your laptop battery, **press and hold the power button for 30 seconds** and then release the power button.
@@ -117,18 +121,12 @@ thumbnail: https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5: Update the driver for your battery management device
 
  This issue is also probably caused by a missing or outdated**driver for your battery management device** . Try updating the driver for your battery management device to see if this issue can be fixed.
@@ -149,12 +147,13 @@ thumbnail: https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -165,6 +164,10 @@ thumbnail: https://thmb.techidaily.com/8cff42ae0b07628cf47b2fefd624aed56ec467c25
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -177,8 +180,6 @@ Your battery should then be charging.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +187,22 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-essential-first-steps-for-mastering-insta-chat-rooms/"><u>[New] 2024 Approved Essential First Steps for Mastering Insta Chat Rooms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-penny-pinching-picks-microphones-under-50/"><u>[New] In 2024, Penny-Pinching Picks Microphones Under $50</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlock-visual-potential-with-smart-photo-text-tools-online-for-2024/"><u>[Updated] Unlock Visual Potential with Smart Photo Text Tools Online for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-c1900101-issue-in-windows-setup/"><u>Addressing C1900101 Issue in Windows Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-transforming-dat-files-into-mp3-format-using-two-simple-techniques/"><u>Effortless Guide: Transforming DAT Files Into MP3 Format Using Two Simple Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-jittery-sounds-in-vlc-for-a-crystal-clear-experience-on-windows-pcs/"><u>Eliminating Jittery Sounds in VLC for a Crystal-Clear Experience on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-turn-any-screen-capture-into-a-playable-mp3-file-step-by-step-process/"><u>How to Quickly Turn Any Screen Capture Into a Playable MP3 File: Step-by-Step Process</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-note-30i-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix Note 30i?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-high-definition-gameplay-capture-mastery/"><u>In 2024, High-Definition Gameplay Capture Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/looping-videos-on-vlc-a-simple-step-by-step-guide/"><u>Looping Videos on VLC: A Simple Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-media-your-comprehensive-tutorial-for-installing-addons-in-kodi-for-movies-and-shows/"><u>Master the Art of Media: Your Comprehensive Tutorial for Installing Addons in Kodi for Movies and Shows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-playthrough-recording-tutorials-mastering-osu-video-sessions/"><u>PC Playthrough Recording Tutorials: Mastering Osu! Video Sessions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-to-converting-your-dvd-collection-for-viewing-on-ipad/"><u>Quick Guide to Converting Your DVD Collection for Viewing on iPad</u></a></li>
+<li><a href="https://fox-info.techidaily.com/rgb-vs-srgb-color-representations-compared/"><u>RGB vs Srgb Color Representations Compared</u></a></li>
+</ul></div>
 

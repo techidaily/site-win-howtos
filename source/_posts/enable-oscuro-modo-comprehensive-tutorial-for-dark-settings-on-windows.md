@@ -1,7 +1,7 @@
 ---
 title: "Enable Oscuro Modo: Comprehensive Tutorial for Dark Settings on Windows"
-date: 2024-08-28T00:18:07.658Z
-updated: 2024-08-29T00:18:07.658Z
+date: 2025-01-24T16:42:10.686Z
+updated: 2025-01-25T17:53:10.909Z
 tags:
   - excel
 categories:
@@ -19,16 +19,16 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 * [Install Dark Themes for Chrome, Firefox, and Other Applications](https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/)
 * [Enable a Dark Mode for Windows Desktop Applications](https://twitter-videos.techidaily.com/updated-ensuring-your-tweets-meet-aspect-ratio-norms/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To enable dark mode on Windows 10, open the Settings app, go to Personalization > Color, and select "Dark." Some programs may respect your system settings, while others will require you to change them to dark mode manually.
 
  Windows 10 offers a dark mode that applies a dark mode to apps you get from the Windows Store. It doesn't affect most desktop apps, but we've got some other solutions for those. Here's how to get your whole desktop (or as much as possible) looking dark.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Enable Dark Mode for Windows 10 Settings and Apps
 
  To enable Dark Mode, head to Settings > Personalization > Colors. Select the "Dark" option from the drop-down menu under the "Choose your color" section.
@@ -51,9 +51,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 Related: [How to Enable Dark Mode in Microsoft Edge](https://screen-activity-recording.techidaily.com/new-adjusting-low-bit-rate-settings-obs-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Enable the Dark Theme in Microsoft Office
 
  Microsoft Office also contains a dark mode, or theme, that isn't enabled by default and must be manually enabled.
@@ -63,11 +60,16 @@ Related: [How to Enable Dark Mode in Microsoft Edge](https://screen-activity-rec
 ![Settings for the Office Suite that let you enable dark mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb524ed07d4a.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your theme choice applies to all Office applications. So, if you set this option in Word and later open Excel, Excel should also use a dark theme.
 
 Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.techidaily.com/2024-approved-exploring-biggest-fifa-footage-trends-in-graphics/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Install Dark Themes for Chrome, Firefox, and Other Applications
 
@@ -79,10 +81,11 @@ Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.tech
 
 ![Chrome with a third-party dark mode installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb528e36016a.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll have to check to see whether the applications you frequently use offer their own theme options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Enable a Dark Mode for Windows Desktop Applications
 
@@ -91,6 +94,10 @@ Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.tech
  Windows has a built-in dark mode for desktop applications, but it probably isn't ideal. To enable it, head to Settings > Ease of Access > High Contrast. On the right, enable the "Turn on High Contrast" option and set the "Choose a Theme" dropdown to the "High Contrast Black" setting. Click "Apply" to save the setting.
 
 ![High contrast settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb525c2a8d34.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Setting this high contrast theme makes most desktop applications show a dark background. However, they don't look all that great. High contrast themes are an accessibility feature designed to increase contrast, so the screen is easier to read and understand. They don't look nearly as slick as a modern dark mode would.
 
@@ -106,9 +113,6 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
 
 ![Select your theme, then click "Apply to Desktop."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WindowBlinds.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  WindowBlinds doesn't have a built-in dark mode (though some built-in themes are darker than others). You can always create your own by clicking the "Modify Style" link under any theme. You can adjust pretty much anything you can think of there. But, there's an easier way.
 
  Just head to the [WindowBlinds section of the WinCustomize site](https://www.wincustomize.com/explore/windowblinds). There, you'll find all kinds of WindowBlinds-compatible skins you can download. After downloading one, double-click the file. The theme will be added to the "Style" tab in WindowsBlinds so that you can apply it (or customize it) from there.
@@ -117,9 +121,6 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
 
 ![File Explorer with a theme from WindowsBlinds applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/dt_c.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Not bad, right? And with a little tweaking, you could make it look just the way you want.
 
 <ins class="adsbygoogle"
@@ -128,8 +129,6 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +136,21 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-choice-the-very-best-8-cameras-for-streamers/"><u>[New] Expert Choice The Very Best 8 Cameras For Streamers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-instant-conferencing-zoom-in-the-eyes-of-gmail/"><u>[New] Instant Conferencing Zoom in the Eyes of Gmail</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-meta-descriptions-top-template-strategies-for-2024/"><u>[Updated] Elevate Meta Descriptions Top Template Strategies for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-hero5-black-versus-yi-4k-latest-updates-on-high-res-cameras/"><u>2024 Approved Hero5 Black Versus Yi 4K Latest Updates on High-Res Cameras</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x802a1ee9-errconnectionrefused-easy-image-based-solutions-to-get-you-connected-again/"><u>Error 0X802A1EE9 (ERR_CONNECTION_REFUSED): Easy Image-Based Solutions to Get You Connected Again!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-cross-monitors-data-synthesis/"><u>In 2024, Cross-Monitors Data Synthesis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ice-cream-capture-gadget-detailed-examination/"><u>In 2024, Ice Cream Capture Gadget Detailed Examination</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-troubleshooting-fixing-error-0x8024401c-in-windows-update-for-users-of-windows-1011/"><u>In-Depth Troubleshooting: Fixing Error 0X8024401c in Windows Update for Users of Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209048194-no-sign-of-sd-cards-lets-mend-that/"><u>No Sign of SD Cards? Let’s Mend That!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-resetting-failed-mishaps-in-windows-10-recovery-options-solutions-that-work/"><u>Overcoming Resetting Failed Mishaps in Windows 10 Recovery Options: Solutions That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resolving-issues-with-pvpnets-stalled-kernel-update/"><u>Quick Fix Guide: Resolving Issues with PvP.net's Stalled Kernel Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-strategies-for-overcoming-the-0xc0000098-code-on-pc/"><u>Ultimate Troubleshooting Strategies for Overcoming the 0xC0000098 Code on PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-sony-xperia-10-v-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Sony Xperia 10 V Phone Network-Ready</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

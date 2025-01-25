@@ -1,7 +1,7 @@
 ---
 title: Fixing the Self-Powering Conundrum of a Windows 11 System - A Step by Step Solution
-date: 2024-08-28T00:25:33.996Z
-updated: 2024-08-29T00:25:33.996Z
+date: 2025-01-18T17:47:49.938Z
+updated: 2025-01-25T18:10:29.307Z
 tags:
   - win11
   - win10
@@ -27,6 +27,11 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
  Method 4:[**Run system checks**](https://tools.techidaily.com/drivereasy/download/)
  Method 5:[**Reinstall your system**](https://tools.techidaily.com/drivereasy/download/)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Try another installer
 
  If you see this error when you try to install a program, it is possible the installer or installation package is corrupted. In this case, you should download a correct installer to set up the program. You can download its latest version from the program’s official website. Then try installing it on your computer. If the error came from the original installer, you won’t see the error now.  
@@ -45,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a8beffe8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click **Programs and Features** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60b6ea986e.jpg)
@@ -57,18 +66,17 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
 **7)** Launch your program and see if this fixes the error.  
   
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Reinstall the Microsoft Visual C++ Redistributable Packages
 
  The “side by side configuration is incorrect” error may occur because the Visual C++ Runtime on your computer is corrupted or missing. Reinstalling the Microsoft Visual C++ Redistributable Packages on your computer can help you restore the corrupted or missing Runtime. To do so:
 
 **1)** On your keyboard, press the**Windows logo**   **key![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Type “_**control**_ ” and press**Enter** to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b609e2cee18.png)
@@ -77,30 +85,14 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a8beffe8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click **Programs and Features** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60b6ea986e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Delete every Visual C++ Redistributable (right-click on each of the programs with the name of “**Microsoft Visual C++ XXXX Redistributable** ” and then select**Uninstall** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6556f6ddfc.png)
@@ -117,6 +109,10 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7455a57b7b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click “**Command Prompt** ” and select “**Run as administrator** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b75954000f6.png)
@@ -125,6 +121,10 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74672c10aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Wait for the scan to complete. Then check to see if the error is gone.
 
 **5)**  If the problem persists, go back to Command Prompt, and then type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_ ” and press**Enter** .
@@ -132,9 +132,9 @@ Key features:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b747c6a5bfe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)**  Wait until the process completes. Then check to see if this fixes the error.  
   
 ## Method 5: Reset your system
@@ -150,16 +150,13 @@ To reset your Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74c521d0cb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Click **Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74c8d75b01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Select**Remove everything** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74e3feb5d0.png)
@@ -176,8 +173,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +180,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-integrating-custom-luts-into-your-post-production-workflow/"><u>[New] 2024 Approved Integrating Custom LUTs Into Your Post-Production Workflow</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hannel-branding-made-simple-and-free/"><u>[New] Channel Branding Made Simple & Free</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-televisual-engagement-through-fb-live/"><u>[Updated] 2024 Approved Enhancing Televisual Engagement Through FB Live</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-becoming-a-pro-in-spotify-ad-deals/"><u>[Updated] Becoming a Pro in Spotify Ad Deals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy/"><u>[Updated] In 2024, Harnessing Instagram Video Potential Crafting a Strong Marketing Strategy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/calculating-costs-music-video-filming/"><u>Calculating Costs Music Video Filming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-resolving-touchpad-problems-on-your-laptop-computer/"><u>Effective Techniques for Resolving Touchpad Problems on Your Laptop Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-camera-error-how-to-resolve-code-0xa00f4292/"><u>Fixing Windows Camera Error: How to Resolve Code 0xA00F4292</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-v29-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo V29 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-get-your-broken-corsair-keyboard-working-again/"><u>How to Repair and Get Your Broken Corsair Keyboard Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-enabling-bluetooth-device-detection-on-windows-10/"><u>Solution Guide: Enabling Bluetooth Device Detection on Windows 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-approach-to-mastery-with-iphone-x-animoji-use-for-2024/"><u>Step-by-Step Approach to Mastery with iPhone X Animoji Use for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-guide-for-malfunctioning-gaming-controllers/"><u>Step-by-Step Fix Guide for Malfunctioning Gaming Controllers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamlined-wd-firmware-integration-for-optimal-cpu-management/"><u>Streamlined WD Firmware Integration for Optimal CPU Management</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/obile-filmmakers-playbook-crafting-compelling-youtubes-thumbnails/"><u>The Mobile Filmmaker’s Playbook Crafting Compelling YouTubes Thumbnails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-vanished-charge-symbol-on-windows-11-expert-fixes-and-tips/"><u>Troubleshooting a Vanished Charge Symbol on Windows 11: Expert Fixes and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-fix-non-responsive-function-keys-on-your-lenovo-laptop/"><u>Troubleshooting Steps: How To Fix Non-Responsive Function Keys on Your Lenovo Laptop</u></a></li>
+</ul></div>
 

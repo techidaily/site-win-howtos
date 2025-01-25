@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: How to Stop Windows From Continuously Restarting"
-date: 2025-01-16T18:42:38.746Z
-updated: 2025-01-19T16:57:40.373Z
+date: 2025-01-18T17:55:10.962Z
+updated: 2025-01-25T17:20:44.199Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
@@ -56,7 +60,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -70,21 +74,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -95,7 +99,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
@@ -113,7 +117,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -123,10 +127,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,17 +154,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-dynamic-youtube-openers-in-imovie/"><u>2024 Approved The Ultimate Guide to Dynamic YouTube Openers in iMovie</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipating-apples-next-leap-how-the-new-m4-processors-revolutionize-ai-in-all-mac-models-release-timeline/"><u>Anticipating Apple's Next Leap: How the New M4 Processors Revolutionize AI in All Mac Models - Release Timeline</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-your-battle-royale-solutions-for-dealing-with-unsupported-gpus-in-fortnite-windows-edition/"><u>Enhance Your Battle Royale: Solutions for Dealing with Unsupported GPUs in Fortnite Windows Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-bad-image-issue-in-windows-11-and-windows-10-systems/"><u>Fixing the 'Bad Image' Issue in Windows 11 and Windows 10 Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-k11-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo K11 5G Phone FRP Lock</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nokia-xr21-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nokia XR21 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/newest-generic-bluetooth-driver-download-for-windows-pcs/"><u>Newest Generic Bluetooth Driver Download for Windows PCs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/samsung-860-evo-ssd-drivers-free-download/"><u>Samsung 860 EVO SSD Drivers - Free Download</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-why-your-windows-11-wont-connect-with-cast-devices-and-what-to-do/"><u>Solved! Why Your Windows 11 Won't Connect with Cast Devices & What to Do</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-six-rapid-solutions-to-stop-roblox-from-freezing-your-pc/"><u>Top Six Rapid Solutions to Stop Roblox From Freezing Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004259334-troubleshooting-and-fixing-high-cpu-use-on-google-chrome-solutions-unveiled/"><u>Troubleshooting and Fixing High CPU Use on Google Chrome - Solutions Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win11-intrusive-shutdown-episodes/"><u>Win11 Intrusive Shutdown Episodes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-a-compre-market-leaders-guide-to-the-most-effective-fb-video-ad-approaches/"><u>[New] 2024 Approved A Compre Market Leader's Guide to the Most Effective FB Video Ad Approaches</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pioneering-easy-audio-alterations-for-competitive-play-for-2024/"><u>[New] Pioneering Easy Audio Alterations for Competitive Play for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-spice-up-your-instagram-feed-incorporate-video-loops-for-2024/"><u>[New] Spice Up Your Instagram Feed Incorporate Video Loops for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-engaging-audiences-with-jujutsu-kaisen-tiktok-content-for-2024/"><u>[Updated] Engaging Audiences with Jujutsu Kaisen TikTok Content for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2022-speed-skating-spectacle/"><u>2022 Speed Skating Spectacle</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games/"><u>2024 Approved Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-unresponsive-windows-11-expert-advice-for-resolution/"><u>Dealing with Unresponsive Windows 11: Expert Advice for Resolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-critical-errors-within-directx-systems/"><u>Diagnosing and Correcting Critical Errors Within DirectX Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-tool-for-managing-system-components/"><u>Exploring Windows Tool for Managing System Components</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-dota-2-error-code-2024-change-rendering-api-quick-guide/"><u>Fix Dota 2 Error Code 2024: Change Rendering API Quick Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-twitch-error-4000-comprehensive-solutions-for-smooth-streaming/"><u>Fixing Twitch Error 4000: Comprehensive Solutions for Smooth Streaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-minecraft-opengl-errors/"><u>How to Fix Minecraft OpenGL Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-make-your-posts-go-viral-on-instagram-a-guide-with-10-tips/"><u>How to Make Your Posts Go Viral on Instagram: A Guide with 10 Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foundational-approach-to-gradual-volume-adjustment/"><u>In 2024, Foundational Approach to Gradual Volume Adjustment</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-model-names-unraveling-your-device-in-six-easy-ways/"><u>Mastering Model Names: Unraveling Your Device in Six Easy Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-high-cpu-usage-in-win10-systems/"><u>Overcoming High CPU Usage in Win10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revolutionize-screen-timing-overcoming-current-input-latency-limitations/"><u>Revolutionize Screen Timing: Overcoming Current Input Latency Limitations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamlined-process-to-reinstall-windows-11-from-scratch/"><u>Streamlined Process to Reinstall Windows 11 From Scratch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overwatch-voice-chat-malfunctions-simple-solutions/"><u>Troubleshooting Overwatch Voice Chat Malfunctions: Simple Solutions</u></a></li>
 </ul></div>
 

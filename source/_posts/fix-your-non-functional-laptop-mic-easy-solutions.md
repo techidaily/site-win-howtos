@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Non-Functional Laptop Mic: Easy Solutions"
-date: 2025-01-18T16:51:39.537Z
-updated: 2025-01-19T19:42:16.266Z
+date: 2025-01-24T16:44:45.781Z
+updated: 2025-01-25T18:11:41.071Z
 tags:
   - win11
   - win10
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap55.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the**Start** button to start it if it’s not running and set the Startup type to**Automatic** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap58.jpg)
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap52.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Run Hamachi to check the problem is still there or not.
@@ -74,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Configure the LogMeIn Hamachi Tunneling Engine
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap51.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Right-click on**hamachi-2-ui.exe** and open**Properties** .
 
  9) Under the**Security** tab, ensure the Users group permissions are set to “Read & execute”. If it’s not, you can click**Edit** to change permissions.
@@ -116,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  11) Run Hamachi to check the problem.  
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Check your antivirus software
 
@@ -134,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Reinstall LogMeIn Hamachi
 
  The “Hamachi service stopped” error can be caused by inappropriate configuration when you installed Hamachi.  
@@ -147,13 +147,17 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap67-1-1024x593.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on**LogMeIn Hamachi** and click**Uninstall** .  
  Follow the on-screen instructions to finish the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap68.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Download the program from LogMeln Hamachi official website.
@@ -189,14 +193,14 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap71.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) On your keyboard, press the**Windows key** (with Windows logo on it) +**R** together to open the Run box.  
  Type**taskschd.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap74.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click**Create Task** under the Actions menu.
 
@@ -208,20 +212,12 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap77.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) Click the**Triggers** tab, and click the**New…** button.
 
  9) Change the**Begin the task** into**At startup** .  
  Then make sure the**Enabled** box is checked. Finally, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap82.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  10) Click the**Actions** tab and click the**New…** button.
 
@@ -232,7 +228,7 @@ exit
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap79.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  12) Click the**Conditions** tab and unchecked everything. Then click**OK** .
@@ -240,7 +236,7 @@ exit
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  13) Next time you start your computer, Hamachi will restart the service automatically.
@@ -261,6 +257,10 @@ OR
 ### **Option 1 –** **Download and install the driver manually**
 
  You can download drivers from the manufacturer official website. Go to the website to find the correct model and choose your specific flavor of Windows system (Window 10 64-bits or etc.). Then download the driver manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -298,24 +298,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-learn-the-solution-to-instagram-video-issues-for-2024/"><u>[New] Learn the Solution to Instagram Video Issues for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-digital-dialogue-diaries-the-full-year-tweets-summary-for-2024/"><u>[Updated] Digital Dialogue Diaries The Full-Year Tweets Summary for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/analytics-unlocked-your-step-by-step-youtube-guide/"><u>Analytics Unlocked Your Step-by-Step YouTube Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203787743-dell-laptop-keyboard-malfunction-heres-what-you-can-do/"><u>Dell Laptop Keyboard Malfunction? Here's What You Can Do!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolution-tactics-restarting-your-computer-after-critical-failures/"><u>Error Resolution Tactics: Restarting Your Computer After Critical Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-unidentified-usb-gadget-with-descriptor-query-failure/"><u>Fixing the Issue of Unidentified USB Gadget with Descriptor Query Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-overcome-windows-camera-error-0xa00f4292/"><u>Fixing the Issue: How to Overcome Windows Camera Error 0xA00F4292</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-bringing-an-hidden-or-missing-window-back-onto-the-screen/"><u>Guide: Bringing an Hidden or Missing Window Back Onto the Screen</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-performers-the-leading-8k-camera-lineup/"><u>In 2024, Best Performers The Leading 8K Camera Lineup</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/moveaveiogmmkv/"><u>Moveavei網上免費將OGM檔案轉移成MKV - 靈活的電影文件轉換解決方案</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nier-automata-remaster-resolving-startup-difficulties-and-fixes/"><u>NieR: Automata Remaster - Resolving Startup Difficulties and Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-connectivity-overcoming-bluetooth-pairing-glitches-in-windows-nt-latest-tips/"><u>Seamless Connectivity: Overcoming Bluetooth Pairing Glitches in Windows nT (Latest Tips )</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-transferring-your-current-windows-setup-to-virtualbox/"><u>Step-by-Step Guide: Transferring Your Current Windows Setup to VirtualBox</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-moto-g-stylus-5g-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Moto G Stylus 5G (2023) without backup.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-0x80070490-error-during-windows-update-process/"><u>Troubleshooting and Fixing 0X80070490 Error During Windows Update Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-nonfunctional-spacebar-keys-on-windows-10-pcs/"><u>Troubleshooting Nonfunctional Spacebar Keys on Windows 10 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-repair-an-unresponsive-aoc-monitor-on-windows-11/"><u>Troubleshooting Steps: How to Repair an Unresponsive AOC Monitor on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-your-games-with-xbox-game-pass/"><u>Unlocking Your Games with Xbox Game Pass</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-video-gear-the-ultimate-12-camera-guide/"><u>[Updated] 2024 Approved Essential Video Gear The Ultimate 12 Camera Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-top-10-trending-videos-on-twitter-for-2024/"><u>[Updated] Top 10 Trending Videos on Twitter for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-evaluation-of-bifocal-lenses-with-anti-blue-light-protection/"><u>Expert Evaluation of Bifocal Lenses with Anti-Blue Light Protection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unsupported-hardware-with-the-right-device-driver-for-windows/"><u>How to Fix Unsupported Hardware with the Right Device Driver for Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-6s-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 6s You Should Try Out</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-itel-p55plus-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Itel P55+</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-15-pro-max-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 15 Pro Max for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-tips-accelerate-your-keyboards-reaction-speed-easily/"><u>Master Tips: Accelerate Your Keyboard’s Reaction Speed Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-battery-life-on-windows-10-with-built-in-reporting-features/"><u>Maximizing Battery Life on Windows 10 with Built-In Reporting Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210987321-pubg-construction-glitch-resolved-ensure-smooth-gameplay-with-these-tips/"><u>PUBG Construction Glitch Resolved – Ensure Smooth Gameplay with These Tips!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-how-to-successfully-power-off-your-computer-running-windows-10/"><u>Quick Fixes: How To Successfully Power Off Your Computer Running Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/slash-costs-snag-a-discounted-gopro-hero-11-at-200-less-exclusive-deals-inside/"><u>Slash Costs: Snag a Discounted GoPro Hero 11 at $200 Less - Exclusive Deals Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-to-fix-and-stop-automatic-repairs-in-windows-11-once-and-for-all/"><u>The Ultimate Solution to Fix and Stop Automatic Repairs in Windows 11 Once and For All</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/top-10-best-photo-watermarking-software-for-2024/"><u>Top 10 Best Photo Watermarking Software for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-pasting-issues-on-windows-10-pc/"><u>Troubleshooting Pasting Issues on Windows 10 PC</u></a></li>
 </ul></div>
 

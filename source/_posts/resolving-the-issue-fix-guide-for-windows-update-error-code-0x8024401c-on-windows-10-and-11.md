@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Fix Guide for Windows Update Error Code 0X8024401c on Windows 10 and 11"
-date: 2025-01-16T17:44:43.233Z
-updated: 2025-01-19T20:01:44.349Z
+date: 2025-01-19T17:55:58.982Z
+updated: 2025-01-25T17:13:22.671Z
 tags:
   - win11
   - win10
@@ -66,7 +66,7 @@ net start cryptsvc
  If it is, then you’ve solved your problem. But if not, you may need to…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Modify your Windows setting in the registry
@@ -80,6 +80,10 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-905.png)
 3. If prompted, click**Yes** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
@@ -91,13 +95,17 @@ net start cryptsvc
 8. Double click**DisableWindowsUpdateAccess** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
@@ -112,37 +120,29 @@ To do so:
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. Click**Restart** .  
@@ -162,7 +162,7 @@ To do so:
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s any startup item that causes the 0x8024002e error, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
@@ -188,17 +188,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-no-stress-just-peaceful-pc-gaming/"><u>[New] No Stress, Just Peaceful PC Gaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-finest-videophone-tools-free-edition-listed-here-for-2024/"><u>[New] The Finest Videophone Tools Free Edition Listed Here for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bootloader-interrupt-logic-mended/"><u>Bootloader Interrupt Logic Mended</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experiencing-the-extraordinary-enjoying-top-rated-programs-on-apple-vision-pro-a-spectacular-yet-exhausting-journey/"><u>Experiencing the Extraordinary: Enjoying Top-Rated Programs on Apple Vision Pro - A Spectacular yet Exhausting Journey</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-complet-transformation-de-fichiers-audio-et-video-m4a-en-format-m4v-par-le-biais-du-service-en-ligne-gratuit-de-movavi/"><u>Guide Complet: Transformation De Fichiers Audio Et Vidéo M4A en Format M4V Par Le Biais Du Service en Ligne Gratuit De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hack-the-problems-and-get-into-fortnite/"><u>Hack the Problems and Get Into Fortnite</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-error-code-0x80240017-a-comprehensive-guide/"><u>How to Fix Windows Update Error Code 0X80240017: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-13-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 13 Pro? How to Fix it?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mocroscreen-recording-ads/"><u>MocroScreen Recording Ads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-unknown-usb-device-error-a-step-by-step-guide-on-port-reset-solutions-for-windows-10/"><u>Resolving the 'Unknown USB Device' Error: A Step-by-Step Guide on Port Reset Solutions for Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-your-pcs-persistent-freeze-problems/"><u>Ultimate Troubleshooting Guide: Resolving Your PC's Persistent Freeze Problems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-decoding-the-dos-and-donts-in-posting-content-on-facebook/"><u>[New] Decoding the Do’s and Don’ts in Posting Content on Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nleash-creative-potential-at-no-expense-dive-into-the-world-of-green-screen-with-free-lessons-from-youtube-channels-for-2024/"><u>[New] Unleash Creative Potential at No Expense Dive Into the World of Green Screen with Free Lessons From YouTube Channels for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-secrets-attracting-youtube-affiliates-with-minimal-channel-size/"><u>[Updated] Secrets Attracting YouTube Affiliates with Minimal Channel Size</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-5-best-video-converters-for-macos-sierra/"><u>[Updated] Top 5 Best Video Converters for macOS Sierra</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exceptional-non-flagship-samsung-tablet-find-goes-on-sale-a-comprehensive-review-by-zdnet/"><u>Exceptional Non-Flagship Samsung Tablet Find Goes On Sale: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshooting-and-solving-disk-read-error-on-windows-10/"><u>Guide to Troubleshooting and Solving 'Disk Read Error' On Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-under-windows-11-os/"><u>How to Resolve Microsoft's Print-to-PDF Problem Under Windows 11 OS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970730524-nvidia-driver-downloads-and-upgrades-enhance-your-gpu-performance-today/"><u>Nvidia Driver Downloads & Upgrades: Enhance Your GPU Performance Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-persistent-windows-7-lag-tips-for-eliminating-unplanned-hangs-and-lockups/"><u>Resolving Persistent Windows 7 Lag: Tips for Eliminating Unplanned Hangs and Lockups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-when-your-usb-to-hdmi-connection-fails/"><u>Solution Steps When Your USB to HDMI Connection Fails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-corrupted-file-error-0x80070570-on-modern-windows-oses/"><u>Solving Corrupted File Error 0X80070570 on Modern Windows OSes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/time-hopping-spread-spectrum-thss/"><u>Time Hopping Spread Spectrum (THSS):</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210253093-trouble-with-keyboard-arrow-buttons-discover-quick-and-effective-solutions-here/"><u>Trouble With Keyboard Arrow Buttons? Discover Quick and Effective Solutions Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-typewriter-troubles-solving-non-responsive-keys-in-windows-os/"><u>Troubleshooting Typewriter Troubles: Solving Non-Responsive Keys in Windows OS</u></a></li>
+<li><a href="https://win-info.techidaily.com/yl-computing-compatibility-with-various-cryptocurrencies-explained/"><u>YL Computing: Compatibility with Various Cryptocurrencies Explained</u></a></li>
 </ul></div>
 

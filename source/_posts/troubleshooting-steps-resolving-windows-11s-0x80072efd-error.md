@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Windows 11'S 0X80072EFD Error"
-date: 2024-08-28T00:20:59.052Z
-updated: 2024-08-29T00:20:59.052Z
+date: 2025-01-21T18:07:45.133Z
+updated: 2025-01-25T17:00:41.495Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 
 If the issue remains, continue to the advanced fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you hit the one that does the trick.
@@ -43,11 +47,13 @@ To do so, first you need to uninstall the Bluetooth driver:
 1. On your keyboard, press **Win+R** (the Windows logo key and the R key) at the same time to invoke the Run box. Type or paste **devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. In the pop-up window, double-click **Bluetooth** to expand the category. Then right-click your Bluetooth adapter and select **Uninstall device** . (If you don’t see a Bluetooth adapter, try using [Driver Easy](https://tools.techidaily.com/drivereasy/download/) to scan for missing drivers.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-uninstall-bluetooth-driver.jpg)  
  To identify the Bluetooth adapter, one common method is to look for the name that**starts with a manufacturer** (e.g. Intel, Qualcomm or Realtek) and**ends with a “Bluetooth”** .
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the pop-up window, check the box next to **Delete the driver software for this device** . Then click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/uninstall-device-driver-02.jpg)
 4. Once you’ve uninstalled your Bluetooth driver, restart your PC for the changes to apply.
@@ -70,10 +76,11 @@ To do so, first you need to uninstall the Bluetooth driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -81,9 +88,6 @@ To do so, first you need to uninstall the Bluetooth driver:
 
  If the latest driver doesn’t give you luck, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 2: Install all Windows updates
 
  Microsoft rolls out Windows updates on a regular basis, tackling compatibility issues and offering new features. Normally the update happens automatically, but you can also make sure manually that all the updates have been installed.
@@ -98,8 +102,9 @@ To do so, first you need to uninstall the Bluetooth driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 #### Check for system updates on Windows 10
@@ -108,13 +113,11 @@ To do so, first you need to uninstall the Bluetooth driver:
 2. Click**Windows Update** on the right.  
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-2.jpg)
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your PC and check if the issue persists.
@@ -128,21 +131,22 @@ To do so, first you need to uninstall the Bluetooth driver:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type**regedit** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In address bar of the pop-up window, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class{e0cbf06c-cd8b-4647-bb8a-263b43f0f974}** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods.jpg)
 3. At the empty area, right-click and move your cursor to**New** to expand the list. Select**String Value** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-2.jpg)
 4. Rename the new entry to**PnPCapabilities** . Right click it and select**Modify…**  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-4.jpg)
 5. In the pop-up window, click the input area under**Value data** :, then type or paste**24** and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-5.jpg)
 6. Now restart your computer and test your AirPods.
 
@@ -158,8 +162,6 @@ To do so, first you need to uninstall the Bluetooth driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +169,20 @@ To do so, first you need to uninstall the Bluetooth driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-insider-guide-attending-live-tiktok-gigs/"><u>[New] 2024 Approved The Insider Guide Attending Live TikTok Gigs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-artisans-guide-to-instagram-stories-preservation-for-2024/"><u>[New] The Artisan’s Guide to Instagram Stories Preservation for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mental-gymnastics-at-the-best-puzzle-halls/"><u>[Updated] Mental Gymnastics at the Best Puzzle Halls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-chop-your-footage-into-sections-using-shotcut-the-comprehensive-walkthrough/"><u>How to Effortlessly Chop Your Footage Into Sections Using Shotcut - The Comprehensive Walkthrough</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-optimal-energy-solutions-for-gopro-hero5-certified-and-third-party/"><u>In 2024, Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/integrating-youtube-videos-into-your-powerpoint-presentations-a-step-by-step-guide/"><u>Integrating YouTube Videos Into Your PowerPoint Presentations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-full-screen-recording-on-windows-10-and-11-a-step-by-step-tutorial/"><u>Mastering the Art of Full-Screen Recording on Windows 10 and 11 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movwindows-113/"><u>MOV動画が効率よくWindows 11上でどのように再生可能か、その3つの方法を解説する</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movmpeg-3/"><u>MOVフォーマットへのMPEG変換: 効果的な3方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-steps-to-access-high-rate-youtube-likes/"><u>Quick Steps to Access High-Rate YouTube Likes</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/schnelle-und-einfache-methode-zur-wiederherstellung-von-partitionsdaten-auf-gpt-systemen/"><u>Schnelle Und Einfache Methode Zur Wiederherstellung Von Partitionsdaten Auf GPT-Systemen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-on-formulating-compelling-proposals-via-gpt/"><u>Tips on Formulating Compelling Proposals via GPT</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-70-lite-5g-by-drfone-android/"><u>Universal Unlock Pattern for Honor 70 Lite 5G</u></a></li>
+</ul></div>
 

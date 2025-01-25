@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Overcoming 'Cannot Reach Specified Device' On Windows Systems
-date: 2024-08-28T00:24:47.629Z
-updated: 2024-08-29T00:24:47.629Z
+date: 2025-01-22T16:12:48.118Z
+updated: 2025-01-25T16:28:55.359Z
 tags:
   - win11
   - win10
@@ -46,19 +46,25 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reset your Winsock Catalog
 
  You very likely have the problem on your computer that joins in a domain network. You could have problem due to some interference of your Winsock Catalog setting.
@@ -69,9 +75,6 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
@@ -91,15 +94,21 @@ Follow these steps to reset your Winsock Catalog:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -109,24 +118,20 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Remove klhkum.dll
 
  If you have to reset Winsock tens of times a day, you need to try this method. What you should do is checking whether you have “klhkum.dll” or not.
@@ -140,6 +145,10 @@ Restart your computer to see if the error has gone.
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -156,8 +165,6 @@ Restart your computer to see if the error has gone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +172,24 @@ Restart your computer to see if the error has gone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-immersive-color-grading-navigating-luts-in-adobe-premiere-pro-for-2024/"><u>[Updated] Immersive Color Grading Navigating LUTs in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-mastering-facetunes-complete-features/"><u>[Updated] In-Depth Review Mastering Facetune's Complete Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolved-understanding-and-solving-the-monitor-doesnt-accept-this-entry/"><u>Error Resolved: Understanding and Solving the 'Monitor Doesn't Accept This Entry'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-couples-or-friends-listen-to-spotify-at-the-same-moment/"><u>How Can Couples or Friends Listen to Spotify at the Same Moment?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-proceed-with-admin-rights-prompts-on-windows-solutions-for-11-10-and-nully/"><u>How to Proceed with Admin Rights Prompts on Windows: Solutions for 11, 10 & Nully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-recover-a-frozen-mouse-functionality-on-your-laptop/"><u>How To Quickly Recover a Frozen Mouse Functionality on Your Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-installation-problems-with-the-new-feature-update-for-windows-10-v1607/"><u>How to Resolve Installation Problems with the New Feature Update for Windows 10 V1607</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-captivating-audiencvith-effective-thumbnail-sizes/"><u>In 2024, Captivating Audiencvith Effective Thumbnail Sizes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>In 2024, How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-download-brother-hl-3170cdw-printer-drivers-swift-setup/"><u>Instant Download: Brother HL-3170CDW Printer Drivers | Swift Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mouse-skills-to-boost-efficiency/"><u>Mouse Skills to Boost Efficiency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-dark-mode-solutions-for-a-non-illuminated-razer-keyboard/"><u>Revive Your Dark Mode: Solutions for a Non-Illuminated Razer Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-fixes-for-non-functioning-skype-video-on-windows-11/"><u>Seamless Fixes for Non-Functioning Skype Video on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-disappearing-mouse-cursors-in-windows-11/"><u>The Ultimate Fix for Disappearing Mouse Cursors in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-vpn-providers-of-2024-comprehensive-analysis-by-tech-experts/"><u>Top-Ranking VPN Providers of 2024: Comprehensive Analysis by Tech Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-1011-password-reset-lockout-period-change/"><u>Windows 10/11 Password Reset Lockout Period Change</u></a></li>
+</ul></div>
 

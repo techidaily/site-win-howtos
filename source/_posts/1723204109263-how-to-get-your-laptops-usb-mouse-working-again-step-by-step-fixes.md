@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Laptop's USB Mouse Working Again – Step by Step Fixes!
-date: 2024-08-23T14:11:02.008Z
-updated: 2024-08-24T14:11:02.008Z
+date: 2025-01-23T17:01:44.872Z
+updated: 2025-01-25T17:51:02.117Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -67,18 +75,18 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -98,9 +106,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -108,8 +113,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -119,9 +125,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -138,16 +141,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -173,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +177,21 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-ideal-screen-reporter-tech-boosting-youtubing-experience/"><u>[New] 2024 Approved Ideal Screen Reporter Tech Boosting YouTubing Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ensuring-effective-integration-with-apples-platform-for-2024/"><u>[New] Ensuring Effective Integration with Apple's Platform for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-best-laptops-for-video-editing-for-2024/"><u>[Updated] The Best Laptops for Video Editing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-today-to-tomorrow-the-drone-evolution-story/"><u>2024 Approved From Today to Tomorrow The Drone Evolution Story</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrective-measures-what-to-do-if-you-encounter-module-not-found-issues/"><u>Corrective Measures: What To Do If You Encounter 'Module Not Found' Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/f1-2020-update-how-to-prevent-your-racing-simulator-from-crashing-on-desktop/"><u>F1 2020 Update: How to Prevent Your Racing Simulator From Crashing on Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204038036-fixing-the-endless-loop-windows-update-stuck-on-100-percent-solution-inside/"><u>Fixing the Endless Loop: Windows Update Stuck on 100 Percent - Solution Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-correcting-sound-problems-with-youtube-content-on-windows-11-systems/"><u>Guide to Correcting Sound Problems with YouTube Content on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-chromes-plugin-loading-problems-under-windows-11-step-by-step-solution/"><u>How To Resolve Chrome's Plugin Loading Problems Under Windows 11 – Step-by-Step Solution</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-leveraging-facebooks-autoplay-technology-for-smooth-video-playback/"><u>In 2024, Leveraging Facebook's Autoplay Technology for Smooth Video Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolution-guide-toshiba-laptop-key-malfunction-fixed/"><u>Resolution Guide: Toshiba Laptop Key Malfunction Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-overcome-delayed-key-responses-in-windows-11-systems/"><u>Resolved: How to Overcome Delayed Key Responses in Windows 11 Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/savor-on-screen-mastering-food-films-with-these-7-essentials-for-2024/"><u>Savor on Screen - Mastering Food Films with These 7 Essentials for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-chrome-productivity-boosts-with-cutting-edge-ai-technology/"><u>Top 8 Chrome Productivity Boosts with Cutting-Edge AI Technology</u></a></li>
+</ul></div>
 

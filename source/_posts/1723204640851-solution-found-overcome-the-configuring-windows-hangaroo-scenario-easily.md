@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Overcome the 'Configuring Windows' Hangaroo Scenario Easily!"
-date: 2025-01-15T17:50:58.941Z
-updated: 2025-01-19T19:12:27.654Z
+date: 2025-01-19T17:16:43.676Z
+updated: 2025-01-25T16:07:34.900Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 5. **[Check for hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Enter Safe Mode with Networking
@@ -43,10 +43,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  1) Make sure your computer is **off** .
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Press **the power button** to turn on your PC. Then when Windows displays a login screen (i.e. Windows has fully booted), long press **the power button** to turn it off.  
 
@@ -70,6 +66,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
@@ -78,13 +78,13 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the**Windows 10 stuck in endless restart loop** problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable auto-restart
 
@@ -92,25 +92,25 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612ab2f0c2c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Settings…** under the **Startup and Recovery** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612b02ca5c0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612bede01ba.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Now check if your**computer keeps restarting** problem has been resolved. If yes, then great! But if it still restarts for no reason, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -126,17 +126,9 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
 
@@ -144,11 +136,19 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the power option
 
  1) On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**High performance** option >**Change plan settings** .
 
@@ -162,15 +162,15 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6130ff2aabf.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on the build of your Windows 10, you might also see**On battery** and**Plugged in** in**Setting (%)** . Change both values to**5** and click**OK** .
 
  5) Restart your computer and check if your**Windows 10 keeps restarting**  problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware issues
 
@@ -205,19 +205,22 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-bring-life-to-stills-motion-blur-technique/"><u>[New] 2024 Approved Bring Life to Stills Motion Blur Technique</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-embark-on-a-metaverse-adventure-with-these-top-8-helmets-and-headsets/"><u>2024 Approved Embark on a Metaverse Adventure with These Top 8 Helmets & Headsets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clearing-up-the-confusion-strategies-to-combat-your-pcs-persistent-pitch-black-problem-on-windows-11/"><u>Clearing Up the Confusion: Strategies to Combat Your PC's Persistent Pitch-Black Problem on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-retrieving-data-from-a-locked-windows-installation-drive-c-in-windows-10/"><u>Guide to Retrieving Data From a Locked Windows Installation Drive (C: ) In Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-google-pixel-7a-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Google Pixel 7a Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g23-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G23</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-googles-wifi-networking-device-ideal-for-home-and-office-use/"><u>In-Depth Look at Google's WiFi Networking Device - Ideal for Home and Office Use</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/night-mode-magic-with-iphone-cameras/"><u>Night Mode Magic with iPhone Cameras</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/promotional-planning-perfection/"><u>Promotional Planning Perfection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204751602-quick-fixes-for-common-file-explorer-issues-in-windows-11-get-expert-advice/"><u>Quick Fixes for Common File Explorer Issues in Windows 11 - Get Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-decode-the-mystery-behind-error-code-0x80004005/"><u>Resolved Issue: Decode the Mystery Behind Error Code 0X80004005</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-sluggish-file-explorer-performance-in-windows-10-a-step-by-step-tutorial/"><u>Resolving Sluggish File Explorer Performance in Windows 10 - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-broken-audio-sliders-in-windows-10-systems/"><u>Step-by-Step Fixes for Broken Audio Sliders in Windows 10 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-paramountplus-streaming-issues-on-amazon-fire-tv/"><u>Troubleshooting Steps: Resolving Paramount+ Streaming Issues on Amazon Fire TV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-frames-to-frequencies-transforming-instagram-videos/"><u>[Updated] From Frames to Frequencies Transforming Instagram Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-cutting-edge-camera-list-best-videography-devices-of-the-year/"><u>[Updated] In 2024, Cutting-Edge Camera List Best Videography Devices of the Year</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-your-creative-potential-embrace-these-top-10-iphone-image-rules/"><u>2024 Approved Unlocking Your Creative Potential Embrace These Top 10 iPhone Image Rules</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000636661-banish-nba-2k2-glitches-step-by-step-solution/"><u>Banish NBA 2K2# Glitches - Step-by-Step Solution!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211431951-battleye-service-issues-resolved-heres-how-we-fixed-it/"><u>BattlEye Service Issues Resolved? Here's How We Fixed It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defying-expectations-wow-sets-new-standards-with-3d-acceleration/"><u>Defying Expectations: WoW Sets New Standards with 3D Acceleration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-to-resolve-windows-11-container-enumeration-errors-and-access-issues-your-ultimate-solution-guide/"><u>Essential Tips to Resolve Windows 11 Container Enumeration Errors and Access Issues – Your Ultimate Solution Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-quick-fixes-addressing-top-youtube-short-challenges/"><u>In 2024, Quick Fixes Addressing Top YouTube Short Challenges</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/industry-leading-ups-solutions-to-watch-in-2-best-uninterruptible-power-supplies-ups-for-continuous-protection/"><u>Industry-Leading UPS Solutions to Watch in 2# - Best Uninterruptible Power Supplies (UPS) for Continuous Protection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/is-netflix-down-or-not-working-fix-your-netflix-problems/"><u>Is Netflix Down or Not Working? Fix Your Netflix Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-charge-problems-with-your-sony-dualshock-ps4-controller/"><u>Overcoming Charge Problems with Your Sony DualShock PS4 Controller</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001971525-pathfinder-wrath-of-the-righte-keyboard-malfunction-heres-how-to-fix-it/"><u>Pathfinder Wrath of the Righte, Keyboard Malfunction? Here's How to Fix It</u></a></li>
+<li><a href="https://video-capture.techidaily.com/professional-insights-into-recording-quality-conversations-on-facetime-for-2024/"><u>Professional Insights Into Recording Quality Conversations on FaceTime for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-csgo-lag-problems-top-tips-and-tricks/"><u>Solving Your CS:GO Lag Problems - Top Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-tactics-for-fixing-game-crashes-in-total-war-rome-re-mastered/"><u>Ultimate Troubleshooting Tactics for Fixing Game Crashes in Total War: Rome Re-Mastered</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-malfunction-solved-steps-to-regain-control/"><u>Windows 10 Brightness Malfunction Solved: Steps to Regain Control</u></a></li>
 </ul></div>
 

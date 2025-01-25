@@ -1,7 +1,7 @@
 ---
 title: Resolve High CPU Usage by svchost.exe on Your Windows 10 System Effectively
-date: 2024-08-28T00:24:44.073Z
-updated: 2024-08-29T00:24:44.073Z
+date: 2025-01-23T16:50:20.138Z
+updated: 2025-01-25T16:47:22.498Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/svchost-exe-in-task-manager-600x402.jpg)
 
  If you’re seeing many svchost.exe items hogging your CPU usage, you’re not alone. Many Windows 10 users are reporting this problem. No worries, it’s possible to fix. Here are[4 fixes](#how) for you to sort it out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **What is svchost.exe?**
 
@@ -46,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **2: Disable certain svchost.exe services**
 
  Faulty svchost.exe services can also be the cause of the abnormally high CPU usage in your PC. To fix it:
@@ -57,19 +62,21 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
@@ -80,18 +87,23 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
 9) See if the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3: Empty event viewer log**
 
@@ -102,27 +114,19 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Restart your computer after this.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **4: Troubleshoot Windows Updates issues**
 
  If something is wrong with your Windows Updates settings, svchost.exe will see an abnormal increase as well. To fix it:
@@ -136,8 +140,9 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
@@ -158,9 +163,6 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -173,8 +175,6 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +182,24 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-crafting-vivid-instagram-profile-previews/"><u>[New] In 2024, Crafting Vivid Instagram Profile Previews</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-hps-simplified-guide-to-capturing-and-storing-pc-screen-content/"><u>[New] In 2024, HP's Simplified Guide to Capturing and Storing PC Screen Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-journey-through-history-similar-themed-video-games-to-ghost-of-tsushima/"><u>[New] In 2024, Journey Through History Similar Themed Video Games to Ghost of Tsushima</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>[Updated] 2024 Approved Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-7-top-budget-friendly-digital-camera-editing-tools/"><u>[Updated] In 2024, 7 Top Budget-Friendly Digital Camera Editing Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-money-tips-for-reddit-novices-13-best-ways/"><u>2024 Approved Free Money Tips for Reddit Novices (13 Best Ways!)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-master-pairing-fixes-on-your-windows-10-device-2024-edition/"><u>Bluetooth Woes? Master Pairing Fixes on Your Windows 10 Device - 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-missing-tap-achieving-hid-standards/"><u>Fixing the Missing Tap - Achieving HID Standards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-curbing-high-disk-space-usage-from-windows-10-compatibility-telemetry/"><u>Guide: Curbing High Disk Space Usage From Windows 10 Compatibility Telemetry</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/master-iphoneandroid-apps-top-10-photo-edits-guide/"><u>Master iPhone/Android Apps Top 10 Photo Edits Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mobile-video-editing-essentials-top-apps-for-vertical-content/"><u>New 2024 Approved Mobile Video Editing Essentials Top Apps for Vertical Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-class-registration-issues-in-windows-10-a-step-by-step-guide/"><u>Resolving Class Registration Issues in Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-code-24-issue-in-windows-operating-systems-win11-win8-and-win7/"><u>Resolving Code 24 Issue in Windows Operating Systems (Win11, Win8 & Win7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-repairing-broken-windows-11-operating-system-components/"><u>Step-by-Step Solutions for Repairing Broken Windows 11 Operating System Components</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artisans-guide-to-aesthetic-photographic-adjustments-for-2024/"><u>The Artisan's Guide to Aesthetic Photographic Adjustments for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-windows-10-0x80240034-error-during-updates/"><u>Ultimate Guide: Resolving Windows 10 0X80240034 Error During Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-potential-of-system-file-checker-sfc-and-deployment-image-servicing-dism-for-seamless-windows-10-recovery/"><u>Unlock the Potential of System File Checker (SFC) and Deployment Image Servicing (DISM) for Seamless Windows 10 Recovery</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing SSL Errors and Secure Connection Failures Within the Firefox Environment
-date: 2025-01-12T18:10:06.082Z
-updated: 2025-01-19T20:13:26.356Z
+date: 2025-01-19T17:12:31.491Z
+updated: 2025-01-25T16:35:29.264Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -44,7 +44,7 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
@@ -54,20 +54,20 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
@@ -86,12 +86,12 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -119,20 +119,21 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-flavorful-filmmaking-top-7-strategies-for-culinary-videos/"><u>[Updated] Flavorful Filmmaking Top 7 Strategies for Culinary Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-stream-to-file-conversion-effortless-archive-creation/"><u>[Updated] In 2024, Stream-to-File Conversion Effortless Archive Creation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertisseurs-video-and-dvd-avec-expertise-discoverez-les-outils-digiarty-optimises-pour-le-transfert-multimedia/"><u>Convertisseurs Vidéo & Dvd Avec Expertise - Discoverez Les Outils Digiarty Optimisés Pour Le Transfert Multimédia</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-lighting-problem-heres-how-to-get-those-lights-back/"><u>Corsair Keyboard Lighting Problem? Here’s How to Get Those Lights Back!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-of-electricity-overloads-in-network-connection-port-areas/"><u>Diagnosis & Repair of Electricity Overloads in Network Connection Port Areas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-svchostexe-causing-high-cpu-use-on-your-windows-11-pc/"><u>How to Fix svchost.exe Causing High CPU Use on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-usb-device-not-detected-issue-once-and-for-all/"><u>How to Fix the 'USB Device Not Detected' Issue Once and For All</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-artful-depth-making-text-pop-in-ai/"><u>In 2024, Artful Depth Making Text Pop in AI</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-switch-saving-gameplay-footage/"><u>In 2024, Mastering Switch Saving Gameplay Footage</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-pioneering-tools-for-modern-gameplay-recording/"><u>In 2024, Pioneering Tools for Modern Gameplay Recording</u></a></li>
-<li><a href="https://article-posts.techidaily.com/leading-fourteen-full-frame-photography-devices/"><u>Leading Fourteen Full Frame Photography Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-dx11-and-wwe-2k-battlegrounds-level-100-functionality-glitches/"><u>Overcoming DX11 and WWE 2K: Battlegrounds Level 10.0 Functionality Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/remove-windows-high-contrast-mode/"><u>Remove Windows High Contrast Mode</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-compatibility-woes-a-guide-to-correcting-unknown-usb-device-failed-communication-problems/"><u>Resolving Compatibility Woes: A Guide to Correcting 'Unknown USB Device (Failed Communication)' Problems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-techniques-for-engaging-google-meet-audiences-with-laptop-based-ppt/"><u>[New] 2024 Approved Techniques for Engaging Google Meet Audiences with Laptop-Based PPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-video-credits-pro-the-best-suggestions-1-6-for-2024/"><u>[New] Free Video Credits Pro - The Best Suggestions #1-6 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-discover-the-ultimate-10-igtv-content-genres-that-work-best/"><u>[Updated] In 2024, Discover the Ultimate 10 IGTV Content Genres That Work Best</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-retrieval-tool-restore-lost-data-from-asus-rog-phone-8-pro-by-fonelab-android-recover-data/"><u>Asus Data Retrieval tool – restore lost data from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-excessive-cpu-usage-from-wudfhostexe-on-win10-devices/"><u>Diagnosing and Fixing Excessive CPU Usage From wudfhost.exe on Win10 Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/easy-steps-to-view-and-manage-photos-and-files-across-devices-with-icloud/"><u>Easy Steps to View and Manage Photos & Files Across Devices with iCloud</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-gameplay-update-dell-inspiron-n3070n3110-graphics-drivers/"><u>Enhance Your Gameplay: Update Dell Inspiron N3070/N3110 Graphics Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exiting-the-chatgpt-realm-top-alternatives/"><u>Exiting the ChatGPT Realm: Top Alternatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-broken-function-keys-on-asus-laptops-expert-advice-and-restoration-techniques/"><u>Fix Broken Function Keys on ASUS Laptops: Expert Advice and Restoration Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-key-issues-on-your-device-a-comprehensive-guide/"><u>Fixing '@' Key Issues on Your Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-s18e-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo S18e FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-performance-reducing-msmpengineexes-impact-on-your-pcs-cpu-in-windows/"><u>Optimizing Performance: Reducing MsMpEngine.exe's Impact on Your PC's CPU in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-file-errors-techniques-for-correcting-corrupted-system-files/"><u>Resolving Windows 11 File Errors: Techniques for Correcting Corrupted System Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-2024-handbook-to-diagnose-and-repair-bluetooth-connection-failures-on-windows-10-devices/"><u>The 2024 Handbook to Diagnose and Repair Bluetooth Connection Failures on Windows 10 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-unsticking-the-updating-process-effectively/"><u>Troubleshooting Windows 10: Unsticking the Updating Process Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-optimization-reducing-iastordatasvcs-heavy-demand-on-system-resources-expert-tips/"><u>Win11 Optimization: Reducing IAStorDataSvc's Heavy Demand on System Resources [Expert Tips]</u></a></li>
 </ul></div>
 

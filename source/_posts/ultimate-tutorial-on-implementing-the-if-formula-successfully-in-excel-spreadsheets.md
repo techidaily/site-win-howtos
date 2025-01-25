@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial on Implementing the IF Formula Successfully in Excel Spreadsheets
-date: 2024-08-28T00:19:51.465Z
-updated: 2024-08-29T00:19:51.465Z
+date: 2025-01-18T18:44:37.430Z
+updated: 2025-01-25T16:25:20.008Z
 tags:
   - excel
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 * [What Can You Do with Excel's IF Function?](https://extra-lessons.techidaily.com/high-definition-audio-essentials-the-top-6-mics-for-livestreaming/)
 * [How to Write an IF Statement in Excel](https://ai-vdieo-software.techidaily.com/new-best-split-screen-video-apps-for-ios-and-android/)
 * [Use the Nested IF Function in Excel](https://article-files.techidaily.com/25-top-rated-gratis-online-photography-tools-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -64,8 +68,9 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/1-choose-cell-if-function.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the D2 cell, we'll enter the following function and press Enter.
 
 =IF(C2>=60,"Pass","Fail")
@@ -74,23 +79,22 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 
 ![Result of Excel's IF function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2-if-function-result-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  To copy the function for all your records, from the bottom-right corner of the D2 cell, drag downwards to cover all your records.
 
 ![Result of Excel's IF function for all records.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/3-if-function-result-all-records.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that's it.
 
  Modify the `IF` function in whatever way you want and you'll get the desired result.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use the Nested IF Function in Excel
 
  A nested `IF` is an `IF` function inside of another `IF` function. You use this when you want to run another logical test after the first one.
@@ -98,6 +102,10 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
  We'll use the following dataset to demonstrate this function:
 
 ![Dataset for Excel's nested IF function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/4-dataset-for-excel-nested-if-function.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this dataset, depending on the scores, the following results will be displayed:
 
@@ -115,16 +123,10 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 
 ![Result of Excel's nested IF function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/5-nested-if-function-result-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  You can copy the function for all your records by dragging downwards from the D2 cell's bottom-right corner.
 
 ![Result of Excel's nested IF function for all records.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/6-nested-if-function-result-all-records.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And you're set.
 
  Excel's `IF` function is an excellent way to run various logical tests. You can use it to specify multiple conditions and display the results accordingly.
@@ -143,8 +145,6 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +152,24 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-breaking-down-the-free-fcp-puzzle/"><u>[New] 2024 Approved Breaking Down The Free FCP Puzzle</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tinysnap-capture-assessment-with-variants-for-2024/"><u>[Updated] TinySnap Capture Assessment with Variants for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-substitute-cinema-classics-ranked-7-1/"><u>2024 Approved Substitute Cinema Classics, Ranked #7-1</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-ftdi-memory-concerns-driver-mismatch-leads-to-integrity-lapses/"><u>Addressing FTDI Memory Concerns - Driver Mismatch Leads to Integrity Lapses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-lenovo-keyboard-problems-practical-tips/"><u>Diagnosing and Repairing Lenovo Keyboard Problems: Practical Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-aw-snap-error-on-google-chrome/"><u>How to Fix Aw, Snap! Error on Google Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-endless-restart-loop/"><u>How to Fix Windows 10 Endless Restart Loop</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-s18-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo S18 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-small-companies-guide-to-the-most-secure-video-tools/"><u>In 2024, Small Companies' Guide to the Most Secure Video Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mellowing-the-feed-the-art-of-adding-soundtracks-to-stories-for-2024/"><u>Mellowing the Feed The Art of Adding Soundtracks to Stories for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-time-in-cyberspace-the-ultimate-tutorial-for-wayback-machine-newbies/"><u>Navigating Time in Cyberspace: The Ultimate Tutorial for Wayback Machine Newbies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hdcp-limitations-fixing-hdmi-output-for-standard-displays/"><u>Overcoming HDCP Limitations: Fixing HDMI Output for Standard Displays</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-tiktok-broadcasts-with-zoom-protocols-for-2024/"><u>Seamless TikTok Broadcasts with Zoom Protocols for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixes-for-unresponsive-touchpad-scrolling-issues/"><u>Solved: Fixes for Unresponsive Touchpad Scrolling Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-fixing-a-non-hiding-windows-10-taskbar-for-good/"><u>The Ultimate Guide to Fixing a Non-Hiding Windows 10 Taskbar for Good</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-backspace-key-isnt-responding/"><u>Troubleshooting Guide: Fixing the 'Backspace Key Isn't Responding'</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Non-Responsive USB Ports on Your HP Device
-date: 2025-01-18T20:21:26.001Z
-updated: 2025-01-19T20:43:40.326Z
+date: 2025-01-23T17:50:54.610Z
+updated: 2025-01-25T18:37:35.730Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -57,10 +53,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -75,12 +67,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -88,6 +84,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -107,15 +107,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -126,13 +126,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -184,18 +184,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capturecore-an-exhaustive-look-at-new-recording-technology/"><u>[Updated] In 2024, 'CaptureCore' An Exhaustive Look at New Recording Technology</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-practices-for-capturing-crystal-clear-hd-videos-of-your-google-hangouts/"><u>Best Practices for Capturing Crystal-Clear HD Videos of Your Google Hangouts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-samsung-galaxy-f14-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-troubleshooting-steps-for-windows-update-error-0x8024002e-recovery-tips-included/"><u>Complete Troubleshooting Steps for Windows Update Error 0X8024002e Recovery Tips Included</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/examining-high-disk-usage-by-microsoft-security-essentials-understanding-mses-operational-footprint/"><u>Examining High Disk Usage by Microsoft Security Essentials - Understanding MSE's Operational Footprint</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-crafting-interactive-web-services-using-language-models/"><u>Mastering the Art of Crafting Interactive Web Services Using Language Models</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-quiet-cinema-effective-methods-to-address-netflixs-lack-of-audio/"><u>No More Quiet Cinema: Effective Methods to Address Netflix's Lack of Audio</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/red-alert-resolution-tips-and-tricks-for-fixing-critical-screens/"><u>Red Alert Resolution: Tips & Tricks for Fixing Critical Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/skyrim-infinite-screen-glitch-no-more-issue-resolved/"><u>Skyrim Infinite Screen Glitch No More: Issue Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tech-fix-surface-input-restored/"><u>Tech Fix: Surface Input Restored</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-successful-mlb-the-show-21-server-connection-issues/"><u>Troubleshooting Successful MLB The Show 21 Server Connection Issues</u></a></li>
-<li><a href="https://fox-http.techidaily.com/zigzag-zeal-spotlight-on-snowboard-cross-thrills-winter-olympics-22/"><u>Zigzag Zeal Spotlight on Snowboard Cross Thrills, Winter Olympics '22</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-camera-stability-in-photo-and-video/"><u>[New] In 2024, Mastering Camera Stability in Photo & Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-facebook-8-top-movie-downloader-rankings/"><u>[New] Mastering Facebook #8 Top Movie Downloader Rankings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-a-personalized-youtube-pathway-to-viewers-for-2024/"><u>[Updated] Crafting a Personalized YouTube Pathway to Viewers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-troubleshooting-on-windows-11-identifying-and-fixing-device-detection-errors/"><u>Bluetooth Troubleshooting on Windows 11: Identifying & Fixing Device Detection Errors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unveiling-the-power-of-srt-in-broadcasting/"><u>In 2024, Unveiling the Power of SRT in Broadcasting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726222841065-mxf-mkv-movavi/"><u>MXF 및 MKV 형식으로 오븐집 영상을 원격 부족적으로 변환하는 방법 – Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-the-process-of-getting-trustee-approval-from-trustedinstaller-to-change-files/"><u>Navigating the Process of Getting Trustee Approval From TrustedInstaller to Change Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-directx-component-configuration-failure/"><u>Overcome: DirectX Component Configuration Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-correcting-your-mouses-erratic-behavior/"><u>Step-by-Step Tips: Correcting Your Mouse's Erratic Behavior</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-13-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 13? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Lost Bluetooth Support in Windows 11: Steps for Rapid Resolution"
-date: 2024-08-28T00:25:38.901Z
-updated: 2024-08-29T00:25:38.901Z
+date: 2025-01-22T18:29:08.366Z
+updated: 2025-01-25T16:55:34.793Z
 tags:
   - win11
   - win10
@@ -35,9 +35,17 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -60,16 +68,21 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -78,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
@@ -91,15 +100,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 3: Reinstall your Bluetooth driver
 
  Always, if your Bluetooth driver is outdated or corrupted, it will cause errors. In most such cases, updating your Bluetooth driver can fix the error.
@@ -110,16 +121,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
  Alternatively, you can use a driver tool to help you. We highly recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to  automatically recognize your system and find the correct drivers for you. With its help, you can say goodbye to driver headaches and delays forever.
@@ -138,9 +143,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -159,8 +161,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +168,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-harnessing-potential-how-to-excel-in-desktop-tiktok-videos/"><u>[New] 2024 Approved Harnessing Potential How to Excel in Desktop TikTok Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-quick-access-to-fb-vids-as-mp4-files/"><u>[New] In 2024, Quick Access to FB Vids as MP4 Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-securing-your-scene-minimize-camera-jostle/"><u>[New] Securing Your Scene Minimize Camera Jostle</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-revolutionizing-online-learning-with-zooms-transformative-tools/"><u>2024 Approved Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-gaming-monitors-for-xbox-series-x-a-buyers-guide/"><u>2024 Approved Top Gaming Monitors for Xbox Series X - A Buyer's Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-solved-making-sure-your-paired-gadgets-connect-properly-on-windows-11/"><u>Bluetooth Woes Solved: Making Sure Your Paired Gadgets Connect Properly on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-the-windows-update-error-code-0x80244022/"><u>Effective Solutions for Resolving the 'Windows Update Error Code 0X80244022'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-0x80070490-error-during-windows-updates-step-by-step-solutions/"><u>How to Overcome the 0X80070490 Error During Windows Updates: Step-by-Step Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-guide-5-advanced-webcams-for-video-calls/"><u>In 2024, Ultimate Guide 5 Advanced Webcams for Video Calls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/include-key-search-terms-ensure-that-high-value-keywords-eg-microsoft-compatibility-telemetry-high-disk-usage-are-prominent-in-your-title-to-improve-visibil51/"><u>Include Key Search Terms: Ensure that High-Value Keywords (E.g., Microsoft Compatibility Telemetry, High Disk Usage) Are Prominent in Your Title to Improve Visibility and Relevance for Those Searching on Related Topics.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instant-solution-for-logilda-dll/"><u>Instant Solution for LogiLDA DLL</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/introducing-beyerdynamics-new-record-breaking-speaker-the-ultimate-audio-solution-for-the-modern-hybrid-professional/"><u>Introducing Beyerdynamics' New Record-Breaking Speaker: The Ultimate Audio Solution for the Modern Hybrid Professional</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hang-ups-fixes-for-sluggish-or-nonresponsive-chrome-sessions/"><u>Overcoming Hang-Ups: Fixes for Sluggish or Nonresponsive Chrome Sessions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-too-many-redirects-error-with-simple-fixes/"><u>Resolve Too Many Redirects Error with Simple Fixes!</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-lava-yuva-3-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Lava Yuva 3 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-artificial-intelligence-in-shaping-future-mental-health-solutions-beneficial-advancement-or-dangerous-development/"><u>The Role of Artificial Intelligence in Shaping Future Mental Health Solutions: Beneficial Advancement or Dangerous Development?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/untangle-video-troubles-overcome-error-code-224003-for-seamless-viewing/"><u>Untangle Video Troubles - Overcome Error Code 224003 for Seamless Viewing</u></a></li>
+</ul></div>
 

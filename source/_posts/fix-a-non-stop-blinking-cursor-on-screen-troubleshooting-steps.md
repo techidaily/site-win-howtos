@@ -1,7 +1,7 @@
 ---
 title: "Fix a Non-Stop Blinking Cursor on Screen: Troubleshooting Steps"
-date: 2024-08-28T00:22:00.763Z
-updated: 2024-08-29T00:22:00.763Z
+date: 2025-01-24T16:53:36.690Z
+updated: 2025-01-25T16:19:05.174Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 
 Is your**microphone not working on laptop** ? You’re certainly not alone. But don’t worry – it can be quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -25,6 +29,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -48,9 +56,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,9 +68,11 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -81,29 +88,27 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Troubleshoot hardware issues
 
  If none of the fixes works for you, it’s time to check for potential hardware issues.
@@ -128,8 +133,6 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +140,21 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cost-effective-techniques-for-youtube-intro-creation/"><u>[New] 2024 Approved Cost-Effective Techniques for YouTube Intro Creation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-uncovering-10-discreet-instagram-story-aficionados/"><u>[New] 2024 Approved Uncovering 10 Discreet Instagram Story Aficionados</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-meme-making-made-simple-without-cost/"><u>[New] Meme-Making Made Simple, Without Cost</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-glimpse-into-virtual-frontiers-with-jaunt-vr/"><u>[Updated] A Glimpse Into Virtual Frontiers with Jaunt VR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-tips-for-applying-onscreen-vhs-effects-and-filters/"><u>[Updated] Advanced Tips for Applying Onscreen VHS Effects and Filters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gif-mov/"><u>「効果的な GIFから MOVへのアニメ変換ガイド」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024s-best-bargains-in-the-world-of-cloud-storage/"><u>2024'S Best Bargains in the World of Cloud Storage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ai-driven-invoice-handling-ensuring-promise-keeping-efficiency-in-accounts-payable/"><u>AI-Driven Invoice Handling: Ensuring Promise-Keeping Efficiency in Accounts Payable</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-on-bulk-changing-m4a-audio-into-mp3-format/"><u>Effortless Guide on Bulk Changing M4A Audio Into MP3 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-removing-movavi-branding-from-your-videography/"><u>Effortless Guide: Removing Movavi Branding From Your Videography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experiencing-lenovos-innovative-auto-swiveling-design-at-ifa-204-a-zdnet-review/"><u>Experiencing Lenovo's Innovative Auto-Swiveling Design at IFA 2.04 - A ZDNet Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/goprolrvmp4/"><u>GoProレコーディングされたLRV映像を圧縮してMP4にするテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-mov/"><u>MP4へ変換! MOVファイルの最適化ガイド</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sustained-comfort-with-the-ergohead-mat-in-depth-analysis-and-user-experience-insights/"><u>Sustained Comfort with the Ergohead Mat - In-Depth Analysis and User Experience Insights</u></a></li>
+</ul></div>
 

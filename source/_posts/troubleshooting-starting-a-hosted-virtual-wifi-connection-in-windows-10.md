@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Starting a Hosted Virtual WiFi Connection in Windows 10"
-date: 2024-08-28T00:21:11.786Z
-updated: 2024-08-29T00:21:11.786Z
+date: 2025-01-19T17:12:28.717Z
+updated: 2025-01-25T16:40:51.069Z
 tags:
   - win11
   - win10
@@ -53,14 +53,22 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Troubleshooting** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d76732d97.jpg)
 4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c97b74c34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The troubleshooter would then be running automatically to detect and repair problems.
 
@@ -77,13 +85,19 @@ See how to do it:
 1. On your keyboard, hold down the**Windows logo key** , then press**Pause** .
 2. Click**Device Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99ca5f07100.jpg)
 3. Double-click**Universal Serial Bus controllers** . Proceed to click**View** , then select**Show hidden devices** .  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cadab69f6.jpg)
 4. **Right-click** on your first USB controller driver under the Universal Serial Bus controllers section to select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cb4721f1b.jpg)
 5. **Repeat** the step 4 for all your**other USB controllers drivers** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you uninstall all your USB controller drivers,**restart your computer** to let Windows reinstall the USB controller drivers automatically. Then check if the error still pops up.
 
@@ -104,12 +118,13 @@ See how to do it:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99dd433fd12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Restart your computer to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Disable the USB selective suspend feature
 
@@ -123,29 +138,24 @@ Restart your computer to see if the error disappears.
 3. Click**Power Options** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7437b4c8.jpg)
 4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
 5. Click**Change advanced power settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7b2da294.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
  Be sure to**set both to Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da409c8a5.jpg)
 8. Click**Apply** \>**OK** to save your settings.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Check if the error disappears.
 
  If till now, you don’t see the error message, congratulations! But if you’ve tried all the solutions above, you still see the annoying message, but your USB device works well, don’t give up hope, move on to the last solution here.
@@ -164,8 +174,9 @@ See how to do it:
 2. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e389af4af.jpg)
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
@@ -175,17 +186,7 @@ See how to do it:
 3. Double-click**Universal Serial Bus Controllers** .
 4. Right-click on your first USB controller driver to select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e45a3304f.jpg)
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 6. Repeat Steps 4 & 5 for all your other USB controller drivers.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The **USB device not recognized**  error message will not be shown any longer on your system.
 
@@ -202,8 +203,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +210,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-camera-roll-to-twitter-feed-video-posting-guide/"><u>[Updated] In 2024, From Camera Roll to Twitter Feed Video Posting Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transformative-idea-capture-via-mematic-software/"><u>[Updated] Transformative Idea Capture via Mematic Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-7-free-mkv-players-enjoy-watching-mkv-files-on-any-device/"><u>Best 7 Free MKV Players: Enjoy Watching MKV Files on Any Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-video-format-transcoder-convert-dvds-to-avi-on-windows-1011-as-of-2024/"><u>Best Video Format Transcoder: Convert DVDs to AVI on Windows 10/11 as of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/choosing-the-best-media-converter-handbrake-vs-makemkv-for-optimal-blu-ray-and-dvd-backups/"><u>Choosing the Best Media Converter: Handbrake Vs. MakeMKV for Optimal Blu-Ray & DVD Backups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-mov-and-mp4-file-formats-understanding-key-distinctions/"><u>Comparing MOV and MP4 File Formats: Understanding Key Distinctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-vlc-sound-wave-graphics-tutorial-activating-and-customizing-audio-visuals/"><u>Comprehensive VLC Sound Wave Graphics Tutorial: Activating & Customizing Audio Visuals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-androidyoutube-music/"><u>IPhone / Androidで使用するためのYouTube Musicからの最適な着信メロディ選び方</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-reno-8t-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/windows-os11-10-8-76/"><u>Windows OS（11, 10, 8, 7）におけるシステムイメージ作成失敗を解決する6つの方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1724312968539-abbyy-timeline/"><u>デジタル化時代の革命: ABBYY Timelineで強化されたプロセスデジタルツイン</u></a></li>
+</ul></div>
 

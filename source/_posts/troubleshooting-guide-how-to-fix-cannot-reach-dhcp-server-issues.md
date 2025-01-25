@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix 'Cannot Reach DHCP Server' Issues"
-date: 2024-08-28T00:26:20.717Z
-updated: 2024-08-29T00:26:20.717Z
+date: 2025-01-19T16:53:39.159Z
+updated: 2025-01-25T16:03:42.099Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 5. [**Disable the USB selective suspend feature**](#m5)
 6. **[Adjust your system settings](#m6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Connect your USB device directly to your computer
 
  If your USB device connected to your computer is misconfigured, the USB device not recognized error may keep popping up. The following simple steps could help you fix it:
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Run the built-in Hardware and Devices troubleshooter
 
  The**built-in Hardware and Devices troubleshooter** can help you fix problems with devices connected to your computer. Run it to try to solve your USB device not recognized problem.
@@ -52,17 +60,13 @@ Here’s how you can do it:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Troubleshooting** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d76732d97.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c97b74c34.jpg)
 
  The troubleshooter would then be running automatically to detect and repair problems.
@@ -80,20 +84,23 @@ See how to do it:
 1. On your keyboard, hold down the**Windows logo key** , then press**Pause** .
 2. Click**Device Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99ca5f07100.jpg)
 3. Double-click**Universal Serial Bus controllers** . Proceed to click**View** , then select**Show hidden devices** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cadab69f6.jpg)
 4. **Right-click** on your first USB controller driver under the Universal Serial Bus controllers section to select**Uninstall device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cb4721f1b.jpg)
 5. **Repeat** the step 4 for all your**other USB controllers drivers** .
 
  Once you uninstall all your USB controller drivers,**restart your computer** to let Windows reinstall the USB controller drivers automatically. Then check if the error still pops up.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your USB device and motherboard chipset drivers
 
@@ -111,11 +118,16 @@ See how to do it:
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99dd433fd12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Restart your computer to see if the error disappears.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Disable the USB selective suspend feature
 
@@ -128,18 +140,13 @@ Restart your computer to see if the error disappears.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Power Options** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7437b4c8.jpg)
 4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 5. Click**Change advanced power settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7b2da294.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
 **Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
  Be sure to**set both to Disabled** .  
@@ -148,8 +155,9 @@ The ultimate burning program for all your needs!</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Check if the error disappears.
 
  If till now, you don’t see the error message, congratulations! But if you’ve tried all the solutions above, you still see the annoying message, but your USB device works well, don’t give up hope, move on to the last solution here.
@@ -168,9 +176,6 @@ See how to do it:
 2. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e389af4af.jpg)
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
 
@@ -179,9 +184,6 @@ See how to do it:
 3. Double-click**Universal Serial Bus Controllers** .
 4. Right-click on your first USB controller driver to select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e45a3304f.jpg)
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 6. Repeat Steps 4 & 5 for all your other USB controller drivers.
 
  The **USB device not recognized**  error message will not be shown any longer on your system.
@@ -199,8 +201,6 @@ See how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +208,18 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-cutting-edge-tips-for-live-rl-broadcasting/"><u>[New] Cutting-Edge Tips for Live RL Broadcasting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features/"><u>[Updated] In 2024, From Novice to Pro An Extensive Guide on Using ZD Soft’s Recording Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202193273-bypass-and-resolve-unity-graphics-error-during-launch-successfully-now/"><u>Bypass and Resolve Unity Graphics Error During Launch Successfully Now!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-fb-expertise-guide-to-shooting-and-uploading-vr/"><u>In 2024, The FB Expertise Guide to Shooting & Uploading VR</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g73-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G73 5G Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-windows-unable-to-reach-file-or-drive-error/"><u>Resolved: How to Fix Windows Unable to Reach File or Drive Error</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-best-smartphone-alarm-clock-applications/"><u>Top 7 Best Smartphone Alarm Clock Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-your-corsair-keyboard-lets-get-it-working-again/"><u>Trouble with Your Corsair Keyboard? Let's Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-dllsteam64-errors/"><u>Troubleshooting DLL_Steam64 Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-resolving-the-msvcr110dll-file-not-found-issue/"><u>Ultimate Troubleshooting: Resolving the MSVCR110.dll File Not Found Issue</u></a></li>
+</ul></div>
 

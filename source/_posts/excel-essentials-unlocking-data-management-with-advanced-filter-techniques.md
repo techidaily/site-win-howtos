@@ -1,7 +1,7 @@
 ---
 title: "Excel Essentials: Unlocking Data Management with Advanced Filter Techniques"
-date: 2024-08-28T00:19:09.116Z
-updated: 2024-08-29T00:19:09.116Z
+date: 2025-01-22T18:40:57.217Z
+updated: 2025-01-25T17:08:09.092Z
 tags:
   - excel
 categories:
@@ -27,8 +27,9 @@ To use the FILTER function, enter simply enter the array and range for your crit
  Using the FILTER function, you can use operators for "and" and "or" to combine criteria. As a bonus, we'll show you how to apply the SORT function to the formula to display your results in ascending or descending order by a particular column.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Is the FILTER Function in Excel?
 
  The syntax for the formula is 
@@ -53,14 +54,15 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function basic formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicCellReference-ExcelFILTERFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Another way to write the formula is by entering the contents of cell B2 in quotation marks as follows:
 
 =FILTER(A2:D13,B2:B13="Electronics")
 
 ![FILTER function formula using text criteria](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicText-ExcelFILTERFunction.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also use criteria from another cell to filter the data in the `range=criteria` area. Here, we'll use the data in cell B15.
 
@@ -68,9 +70,6 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function using a separate cell as criteria](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicOtherCellReference-ExcelFILTERFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If your data contains a number, you can use this as the criteria without quotation marks. In this example, we'll use the same cell range, but filter by cells D2 through D13 looking for 10.
 
 =FILTER(A2:D13,D2:D13=10)
@@ -86,11 +85,9 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 ![FILTER function formula with no results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicNoResults-ExcelFILTERFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
+
 ##  Filter Using Multiple Criteria in the FILTER Function
 
  An advantage of the FILTER function in Excel is that you can filter by multiple criteria. You'll include an operator for [AND (\*) or OR (+)](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/).
@@ -103,6 +100,10 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function formula for multiple criteria using AND](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/MultipleCriteriaAND-ExcelFILTERFunction.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To use the other operator, we'll filter for either A3 or B2 using a plus sign (+) as follows:
 
 =FILTER(A2:D13,(A2:A13=A3)+(B2:B13=B2))
@@ -111,9 +112,6 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![FILTER function formula for multiple criteria using OR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/MultipleCriteriaOR-ExcelFILTERFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Sort Your Filtered Data in Excel
 
  If you want to [sort the results](https://some-knowledge.techidaily.com/new-frame-flair-choosing-the-best-video-cameras-for-deliberate-moves/) you receive from the FILTER function, you can add the SORT function to the formula. This is simply an alternative to using the Sort feature on the Data tab, but doesn't require you to reposition your data.
@@ -136,6 +134,10 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
 
 ![FILTER function with SORT function in ascending order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SortAscending-ExcelFILTERFunction.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Excel's built-in filter is great for quickly seeing specific records in a data set. And the [advanced filter](https://driver-error.techidaily.com/error-22-addressed-device-now-online/) works well for filtering by a criteria range in place or another location. But for using multiple criteria and sorting at the same time, take the FILTER function for a spin.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -150,8 +152,6 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +159,24 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-google-meet-on-youtube-streaming-made-easy-step-by-step/"><u>[New] Google Meet on YouTube Streaming Made Easy, Step by Step</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-winning-9-gif-recorder-apps-master-your-animated-archive/"><u>[Updated] 2024 Approved Winning 9 GIF Recorder Apps Master Your Animated Archive</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-expert-tips-for-enhancing-youtube-videos-through-seo-mastery/"><u>[Updated] In 2024, Expert Tips for Enhancing YouTube Videos Through SEO Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlocking-clearer-images-in-videoleap-videos-for-2024/"><u>[Updated] Unlocking Clearer Images in Videoleap Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-for-zoom-engagement-on-win10-systems-for-2024/"><u>Best Practices for Zoom Engagement on Win10 Systems for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/comparing-youtube-policies-with-creative-commons-for-2024/"><u>Comparing YouTube Policies with Creative Commons for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-hdcp-restrictions-solutions-when-your-display-fails-compliance-testing/"><u>Dealing With HDCP Restrictions: Solutions When Your Display Fails Compliance Testing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-repair-steps-for-a-malfunctioning-logitech-scroll-wheel/"><u>Expert Advice: Repair Steps for a Malfunctioning Logitech Scroll Wheel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-overcoming-hub-port-electrical-surges/"><u>Expert Solutions for Overcoming Hub Port Electrical Surges</u></a></li>
+<li><a href="https://fox-http.techidaily.com/free-and-easy-explore-the-top-webm-video-tools-for-2024/"><u>Free and Easy Explore the Top WebM Video Tools for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 6</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-when-your-computer-gets-caught-during-windows-installation/"><u>How to Troubleshoot When Your Computer Gets Caught During Windows Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-performance-stop-svchostexe-from-consuming-too-much-cpu-in-windows-10/"><u>Optimizing System Performance: Stop svchost.exe From Consuming Too Much CPU in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-to-persistent-semaphore-delay-addressing-timed-out-process-error-identifier-0x80070079/"><u>Solution to Persistent Semaphore Delay - Addressing Timed Out Process (Error Identifier 0X80070079)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-typing-snafu-resolved/"><u>Surface Typing Snafu, Resolved!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-right-to-appeal-steps-following-abrupt-video-content-suspension/"><u>The Right to Appeal Steps Following Abrupt Video Content Suspension</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-laptop-mic-issues-solutions-for-common-problems/"><u>Troubleshooting and Repairing Laptop Mic Issues: Solutions for Common Problems</u></a></li>
+</ul></div>
 

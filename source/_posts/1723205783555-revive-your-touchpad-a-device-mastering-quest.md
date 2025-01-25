@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Touchpad: A Device Mastering Quest!"
-date: 2024-08-23T14:10:44.032Z
-updated: 2024-08-24T14:10:44.032Z
+date: 2025-01-18T18:07:29.307Z
+updated: 2025-01-25T18:15:50.368Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 4. **[Configure the BIOS settings](#fix-3)**
 5. **[Repair corrupt files](#fix-4)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Show hidden devices in Device Manager
 
  Some certain devices installed might not be displayed in the Device Manager by default or because the Windows system fails to detect the devices’ drivers. In this case, you should try the trick “**Show hidden devices** ” in Device Manager to see if your touchpad can be enabled by following the steps below:
@@ -36,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 2. Click**View** and select**Show hidden devices** from the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/view-show-hidden-devices.jpg)
 3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
 4. Restart your PC for the trick to take effect.
 5. After rebooting your computer, press**Windows + I** keys to open Windows Settings and select**Devices** .  
@@ -44,20 +53,12 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-touchpad.jpg)  
  If it doesn’t, sorry that this fix doesn’t work for you, move on to try the next below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Add the touchpad driver back manually
 
  If you know the manufacturer of your touchpad (Synaptics and Elan are two of the most popular ones), you can also try to add the touchpad device back manually in Device Manager to see if it works for you. To do so:
@@ -65,21 +66,29 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 1. On your keyboard, press **the Windows logo key** and **X** at the same time. Then select **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, select the first line (your computer name), then click **Action** on the menu bar and select **Add legacy hardware** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click **Next**  to move on.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)**  and click **Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select **Show All Devices** , and click **Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/Show-All-Devices.png)
 6. As mentioned, two of the most popular touchpad manufacturers are**Elan** and**Synaptics** , so you can select one of them on the**Manufacturer** list on the left side, and then see if you can find the touchpad device on the right side. Sometimes, you may also need to check if your touchpad is listed under the**Microsoft** umbrella. You can also try your laptop manufacturer’s name, like Acer, Asus, HP Dell, etc., to see if your touchpad is listed under them.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you still can’t find your touchpad in this way, please move on to the next fix, below.
 
@@ -111,33 +120,19 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/03/synpatics-hid-touchpad.png)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** <atsupport@drivereasy.com>
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Configure the BIOS settings
 
  Whenever your computer is booted, the BIOS is the first to be activated for operating system loading and device data reading. For some reason, your touchpad may be disabled in the BIOS and therefore can’t be displayed in Device Manager. So you might need to check your BIOS and set it to default. Here’s how:
@@ -162,14 +157,15 @@ Assigned BIOS hotkey
 2. Select**Yes** in the window for confirmation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/defalts.jpg)
 3. Once done, press the key next to**Save** and**Exit** .
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer to see if the issue is fixed.
 
  If this method doesn’t work, then try the last one below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupt files
 
@@ -180,9 +176,6 @@ Assigned BIOS hotkey
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/fortect-download-page-1.jpg)
 2. Open Fortect and it will run a FREE scan of your PC. You’ll see a complete overview of your system and issues once the scan is finished.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
 
@@ -215,8 +208,6 @@ Hot Accessories
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +215,21 @@ Hot Accessories
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-expert-tips-for-high-quality-sound-memos/"><u>2024 Approved Expert Tips for High-Quality Sound Memos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024-mlhmh-alfydyo-tkhnyvt-kyvr-idafya-mghn-bbsata/"><u>2024 מלחמה الفيديو: תכניות קישור إضافية - مغنى ببساطة</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-ts-to-mp4-movavi/"><u>完全無料のOnline TS to MP4フォーマットコンバータ - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-sans-frais-mp3-a-fichier-wav-en-lignes-directs-avec-movavi/"><u>Conversion Sans Frais : MP3 À Fichier WAV En Lignes Directs Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertiren-van-wmv-naar-3g2-virtueel-wegwijs-en-mobiliteitsfriendly-online-oplossingen/"><u>Convertiren Van WMV Naar 3G2 Virtueel - Wegwijs En Mobiliteitsfriendly Online Oplossingen</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/expert-solutions-for-correcting-critical-process-died-error-code-0xc00000e9-in-windows-10-systems/"><u>Expert Solutions for Correcting Critical Process Died (Error Code 0Xc00000e9) in Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/grabacion-de-video-sin-coste-guia-para-convertir-f4v-a-wmv-online/"><u>Grabación De Vídeo Sin Coste: Guía Para Convertir F4V a WMV Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-6-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 6 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-use-a-stabilization-tool-in-filmora-for-2024/"><u>How to Use a Stabilization Tool in Filmora for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-playstation-5-membership-returns/"><u>Maximizing PlayStation 5 Membership Returns</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/opt-for-confidential-discussions-with-duckduckgos-advanced-ai-chatting-tools/"><u>Opt for Confidential Discussions with DuckDuckGo's Advanced AI Chatting Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/otimizacao-detalhada-do-windows-nova-versao-11-para-ampliar-sua-experiencia-de-jogo-tutoriais-e-truques-especializados/"><u>Otimização Detalhada Do Windows Nova Versão (11) Para Ampliar Sua Experiência De Jogo - Tutoriais E Truques Especializados</u></a></li>
+<li><a href="https://common-error.techidaily.com/strategies-to-overcome-resource-disputes-within-it-frameworks/"><u>Strategies to Overcome Resource Disputes Within IT Frameworks</u></a></li>
+</ul></div>
 

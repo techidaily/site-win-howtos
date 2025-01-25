@@ -1,7 +1,7 @@
 ---
 title: Inconsistent Input Mechanism
-date: 2024-08-28T00:24:13.316Z
-updated: 2024-08-29T00:24:13.316Z
+date: 2025-01-20T18:07:05.690Z
+updated: 2025-01-25T16:17:02.982Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 ## PDF Won't Print? Discover Fast Solutions Now
 
  It can be very frustrating if you**can’t print your PDF files** on Adobe. No error messages; each time you click Print on Adobe, it just doesn’t print at all. Don’t worry. This guide is going to help you solve this problem step by step. Read on to find out how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before we go…
 
@@ -48,19 +52,20 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 2. Type**control** and click**OK** .”  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
- If it’s not set to default, right-click on your printer and click**Set as default printer** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If it’s not set to default, right-click on your printer and click**Set as default printer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
+
 #### 2\. Make sure your printer driver is up-to-date
 
  The latest printer driver enables your printer to work fine. An old, corrupted, or missing printer driver would make you cannot print PDF files. Follow these to update your printer driver to solve your problem:
@@ -78,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 2. Click **Scan Now** . It will quickly detect all driver’s problems with your computer. Your printer driver is no exception.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
@@ -89,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Fix 2: Repair or recreate your PDF file
 
  If there were any corrupted or incompatible data in your PDF file, your file wouldn’t be printed successfully. Here we give you two methods to try:
@@ -102,13 +101,7 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 2. Click the print icon on the toolbar.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03f2e27b7d.png)
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 #### 2\. Recreate a new PDF file
 
 1. Choose a way to recreate a new PDF file:  
@@ -118,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/8b67706e31655f0953b2b0f57cda2cba952e36287
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -168,6 +165,10 @@ sfc /scannow
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -202,9 +203,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -213,10 +211,17 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
 ---
@@ -231,8 +236,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +243,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/lurred-lines-the-art-of-anonymizing-youtube-content/"><u>[New] Blurred Lines The Art of Anonymizing YouTube Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-scrutinizing-video-edits-is-inshot-the-champion-for-2024/"><u>[Updated] Scrutinizing Video Edits Is InShot The Champion for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-essential-manual-to-earning-from-youtube-videos/"><u>[Updated] The Essential Manual to Earning From YouTube Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-unexpected-startup-problems-in-windows-11-systems/"><u>Diagnosing and Solving Unexpected Startup Problems in Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-paths-unveiling-windows-11-calculator/"><u>Direct Paths: Unveiling Windows 11 Calculator</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-get-google-chrome-running-smoothly-again/"><u>Fixes & Solutions: How to Get Google Chrome Running Smoothly Again</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/igtvs-elite-content-crews-you-must-see/"><u>IGTV's Elite Content Crews You Must See</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-20-minutes-to-master-vrecorder-instalment/"><u>In 2024, 20 Minutes To Master VRecorder Instalment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-sticky-or-broken-fn-keys-expert-advice-for-dell-laptop-users/"><u>Overcoming Sticky or Broken Fn Keys: Expert Advice for Dell Laptop Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-user-profile-service-failure-step-by-step-solutions-for-windows-11-login-issues/"><u>Resolving 'User Profile Service' Failure: Step-by-Step Solutions for Windows 11 Login Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-troubleshooting-setup-errors-in-your-origin-gaming-experience/"><u>Resolving Issues: Troubleshooting Setup Errors in Your Origin Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210258054-restoring-windows-1011-audio-all-systems-go/"><u>Restoring Windows 10/11 Audio, All Systems Go</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/seamless-scratching-for-chrome-devices-for-2024/"><u>Seamless Scratching for Chrome Devices for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-for-permanent-deletion-of-filesfolders-in-windows-11-via-revo-uninstaller/"><u>Step-by-Step Instructions for Permanent Deletion of Files/Folders in Windows 11 via Revo Uninstaller</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-for-unresponsive-microphones-in-windows-10-systems/"><u>Step-by-Step Repair for Unresponsive Microphones in Windows 10 Systems</u></a></li>
+</ul></div>
 

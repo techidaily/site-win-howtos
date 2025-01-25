@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Exe File Failure - Fixing Applications That Have Crashed"
-date: 2024-08-23T14:10:51.128Z
-updated: 2024-08-24T14:10:51.128Z
+date: 2025-01-21T17:30:30.408Z
+updated: 2025-01-25T16:11:56.375Z
 tags:
   - win11
   - win10
@@ -55,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Wait until your Windows system installed all the updates**
 
  If your PC seems to get stuck on the screen of “Preparing to configure Windows”, it may indicate that your**Windows system is installing and configuring the updates** .
@@ -64,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
  If you haven’t installed Windows updates for a long time, it may take some time to install all the updates. So just give enough time to your Windows system to handle all the updates.
 
  The time it may take depends on your hardware specifications. It is recommended that you wait for**2 hours** . 2 hours later, if the your PC still gets stuck on the screen of “Preparing to configure Windows”, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Disconnect all the external devices and perform a hard reboot**
 
@@ -88,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
 
  If your PC still gets stuck when you wake up, you should **follow the instruction above to perform a hard reboot and then try the next fix** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performing a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can **find out the problematic software that makes your game keep crashing** . Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -95,30 +104,41 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time to open the Run Dialog. Type **msconfig**  and press **Enter**  to open the   **System Configuration**  window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap6-2.jpg)
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-4.jpg)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-4.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-5.jpg)
 6. Click **Restart**  to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-4.jpg)
 7. Perform a Windows update again after restarting Windows.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
    1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)  
    2. In the pop-up window, click**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)  
    3. Wait until Windows downloads and installs all the updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Restart your PC when Windows installed all the updates to see if this issue persists.
 
  If your PC won’t get stuck on the screen of “Preparing to configure Windows”, you’ve resolve this issue. Then go to the**System Configuration** window to enable the services you disabled before. After enabling each service, you need to **restart your PC to apply the changes** . If this annoying issue reappears, you may need to**restore your system** .
@@ -132,43 +152,29 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press**the Windows logo key** and type**restore** , in the list of search results, select **Create a restore** **point** . You will be prompted for permission. Click **Yes**  to open the **System Protection**  settings .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-create-restore-point.jpg)
 2. Ensure **the Protection status** of the local disk drive that has your Windows system installed on is**On** . Then click**System Restore…** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap13-1.jpg)  
  If**the Protection status** of the local drive that has your Windows system installed on is**Off** , it indicates that you have**disabled** the system restore feature on this drive.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Select**Choose a different restore point**  and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-4.jpg)
 4. Check the box next to **Show more restore points** . Select the restore point that is created just**before you run into this issue** and then click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-4.jpg)
 5. Click**Finish** to confirm your restore point.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap17-3.jpg)
 6. Click**Yes** to start restoring your Windows system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
 
  After restoring your Windows system, this annoying issue should be resolved.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Bonus tip: Update your driver to the latest version**
 
  To reduce such annoying problems, in most cases, it is a good idea to update your drivers to the latest version. There are two ways to update your drivers: **manually**  and **automatically** .
@@ -185,15 +191,9 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap19-2.jpg)
 3. Click **Update**  next to your device to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap20-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) for advice. You should attach the URL of this article so they can help you better.
@@ -210,8 +210,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +217,18 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enhancing-video-quality-callout-techniques-for-engaging-edits/"><u>[New] Enhancing Video Quality Callout Techniques for Engaging Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-urban-unleashed-best-matches-to-grand-theft-auto-v/"><u>[Updated] 2024 Approved Urban Unleashed Best Matches to Grand Theft Auto V</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/av1-decoded-a-novices-introduction/"><u>AV1 Decoded A Novice's Introduction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-jp2-files-to-tiff-format-for-free-with-movavis-web-service/"><u>Convert JP2 Files to TIFF Format for Free with Movavi's Web Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-raf-to-jpeg-converter-movavi-no-cost-easy-upload/"><u>Free Online RAF to JPEG Converter - Movavi: No Cost, Easy Upload</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-passo-a-passo-conectando-o-seu-computador-ao-gravador-de-dvd-usando-movavi/"><u>Guia Passo a Passo: Conectando O Seu Computador Ao Gravador De DVD – Usando Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-hot-30-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Hot 30 5G Phone Screen?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>In 2024, Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/starfruit/"><u>Starfruit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tecnicas-expertas-para-invertir-videos-los-10-mas-eficaces-online-y-offline/"><u>Técnicas Expertas Para Invertir Vídeos: Los 10 Más Eficaces Online Y Offline</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-un-fichier-ogv-en-format-ogg-sur-internet-avec-ease-movavi/"><u>Transformer Gratuitement Un Fichier OGV en Format OGG Sur Internet Avec Ease - Movavi</u></a></li>
+</ul></div>
 

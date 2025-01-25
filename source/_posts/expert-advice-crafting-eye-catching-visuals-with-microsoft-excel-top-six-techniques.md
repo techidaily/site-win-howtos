@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Crafting Eye-Catching Visuals with Microsoft Excel - Top Six Techniques"
-date: 2024-08-28T00:19:12.323Z
-updated: 2024-08-29T00:19:12.323Z
+date: 2025-01-23T17:09:07.185Z
+updated: 2025-01-25T16:32:34.576Z
 tags:
   - excel
 categories:
@@ -32,7 +32,15 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![Recommended Charts in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/RecommendedCharts-ExcelChartTips.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also take a look at our helpful guide for [finding the right Excel chart](https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-13t-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/) for the type of data in your sheet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Include a Descriptive Title
 
@@ -47,8 +55,9 @@ Related: [How to Save a Chart as an Image in Microsoft Excel](https://fake-locat
 ![Chart title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/Title-ExcelChartTips.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use a Legend Only When Beneficial
 
  If you have a chart where a legend helps the viewer understand what they're seeing, then you should definitely use one. But if your graph is clear on its own and there's no need for a legend, remove it so the view is less cluttered. Let's look at an example of both.
@@ -57,23 +66,18 @@ Related: [How to Save a Chart as an Image in Microsoft Excel](https://fake-locat
 
 ![Column chart with and without a legend](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/ColumnChartLegend-ExcelChartTips.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  In the pie chart on the left, you can see each slice represents the color and there are data labels to confirm that. For this type of situation, a legend is an unnecessary distraction.
 
 ![Pie chart with and without a legend](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/PieChartLegend-ExcelChartTips.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also position the legend in a different spot than the default location. Select the chart, go to the Chart Design tab and click the Add Chart Element drop-down arrow. Move your cursor to Legend and pick a location for the legend in the pop-out menu.
 
 ![Select a position for the legend](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/AddPositionLegend-ExcelChartTips.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Choose Your Colors Wisely
 
  Most any type of chart in Excel uses some color. Whether it's a [pie chart](https://some-techniques.techidaily.com/2024-approved-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/) with different colored slices or a scatter plot with a handful of colored dots, you'll have color to distinguish the data. Luckily, Excel applies a color palette that you can customize.
@@ -88,10 +92,6 @@ Related: [How to Make a Pie Chart in Microsoft Excel](https://some-techniques.te
 
 ![Color palette chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/ColorPaletteChart-ExcelChartTips.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  You can customize the colors any way you like; using your organization's colors is a good option. The key is to be sure you choose colors that are pleasing and also contrast one another.
 
 Related: [What Is a Hex Code for Colors?](https://screen-capture.techidaily.com/updated-2024-approved-elite-group-of-high-speed-video-snapshot-apps/) 
@@ -109,8 +109,9 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
 ![Chart with company logo](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/BrandLogo-ExcelChartTips.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Brand the Title or Subtitle
 
  Earlier we mentioned including a descriptive title to your chart. If using a logo creates too much clutter, consider simply adding your company name to the chart title or even as a subtitle.
@@ -118,8 +119,9 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
 ![Chart title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/Title-ExcelChartTips.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Keep It Clean and Easy to Read
 
  One final tip for creating a chart that tells the story of the data well is to keep it clean, simple, and easy to read. Don't overcomplicate your chart with unnecessary elements.
@@ -129,8 +131,9 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
 ![Excel chart with data labels](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/DataLabels-ExcelChartTips.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Instead, try arranging the data differently or even using another chart element. In the chart below, we added a data table rather than [data labels](https://tech-recovery.techidaily.com/top-gaming-console-picks-for-the-year-2024/). This allows us to display those additional details we want, but still keeps the chart neat and clean.
 
 ![Excel chart with a data table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/DataTable-ExcelChartTips.png) 
@@ -145,8 +148,6 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +155,19 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-cutting-edge-strategies-for-youtube-split-screen-videos/"><u>[New] 2024 Approved Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-steer-clear-of-soundtracked-sessions-how-to-mute-participants-in-gomeet/"><u>[New] 2024 Approved Steer Clear of Soundtracked Sessions How to Mute Participants in GoMeet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-behind-the-scenes-navigating-multiple-viewpoints-on-facebook-live/"><u>[Updated] Behind the Scenes Navigating Multiple Viewpoints on Facebook Live</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-driving-view-counts-upward-on-youtube-6-proven-techniques/"><u>[Updated] In 2024, Driving View Counts Upward on YouTube 6 Proven Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improved-performance-fixing-windows-drivers-to-curb-cpu-overuse-issues/"><u>Improved Performance: Fixing Window's Drivers to Curb CPU Overuse Issues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-snippet-spectacle-top-hashes-to-trigger-the-viral-spree-on-youtube/"><u>In 2024, Snippet Spectacle Top Hashes to Trigger the Viral Spree on YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209846673-9781941065280-not-what-we-appear-to-be/"><u>Not What We Appear To Be | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-msmpengexe-high-cpu-usage-in-windows-11/"><u>Resolved! MsMpEng.exe High CPU Usage in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/slash-cpu-hogs-fix-wmi-on-win1011/"><u>Slash CPU Hogs: Fix WMI on Win10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-10-update-error-0x80240034/"><u>Troubleshooting Guide for Windows 10 Update Error - 0X80240034</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209469688-windows-10-touchpad-not-scrolling-heres-how-to-solve-it/"><u>Windows 10 Touchpad Not Scrolling? Here’s How to Solve It</u></a></li>
+</ul></div>
 

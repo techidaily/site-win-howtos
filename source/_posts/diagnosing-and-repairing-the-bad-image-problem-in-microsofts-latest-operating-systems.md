@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing the 'Bad Image' Problem in Microsoft's Latest Operating Systems
-date: 2024-08-28T00:26:03.945Z
-updated: 2024-08-29T00:26:03.945Z
+date: 2025-01-23T16:41:55.705Z
+updated: 2025-01-25T16:11:12.060Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 If you ever encounter this**speaker crackling** issue, don’t worry. Many users have reported this problem too.
 
  And luckily they’ve successfully tackled the noise problem with the fixes below. So check them out…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for speakers crackling
 
@@ -38,6 +42,11 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
@@ -46,11 +55,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  This speaker crackling problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio  driver to see if it fixes your problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,9 +77,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
@@ -79,25 +90,17 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -113,8 +116,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +123,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-your-complete-blueprint-iphone-ringtone-customization-method/"><u>[Updated] 2024 Approved Your Complete Blueprint IPhone Ringtone Customization Method</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-popular-photographs-their-narratives-unveiled/"><u>2024 Approved Popular Photographs Their Narratives Unveiled</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-lava-blaze-2-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-impressive-the-4-distinct-advantages-of-using-claude-ai-instead-of-chatgpt/"><u>Beyond Impressive: The 4 Distinct Advantages of Using Claude AI Instead of ChatGPT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-2023-how-to-solve-facebook-videos-are-partially-muted/"><u>In 2024, 2023 | How to Solve Facebook Videos Are Partially Muted?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-woes-solved-ensuring-seamless-bluetooth-integration-with-your-desktop/"><u>Keyboard Woes Solved: Ensuring Seamless Bluetooth Integration with Your Desktop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-10-drone-teams-for-cinematic-mastery/"><u>Premier 10-Drone Teams for Cinematic Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-and-handling-file-unreadable-problem-on-windows/"><u>Preventing and Handling ‘File Unreadable’ Problem on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-errors-expert-strategies-to-tackle-the-0x80072efd-problem-in-windows-11/"><u>Say Goodbye to Errors: Expert Strategies to Tackle the 0X80072EFD Problem in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-handling-unexpected-setbacks-in-steam-game-download-and-update-operations/"><u>Solutions for Handling Unexpected Setbacks in Steam Game Download & Update Operations</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/solving-wi-fi-connectivity-problems-on-windows-11-a-step-by-step-guide-expert-tips-from-yl-computing/"><u>Solving Wi-Fi Connectivity Problems on Windows 11: A Step-by-Step Guide - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-solving-lag-problems-in-fallout-4/"><u>Top Strategies: Solving Lag Problems in Fallout 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-audio-service-malfunctions-on-windows-11-devices/"><u>Ultimate Fixes for Audio Service Malfunctions on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-secrets-to-combat-the-2024-fatal-error-crash-mastering-ue4-for-seamless-halo-4-gameplay/"><u>Unveiling Secrets to Combat the 2024 Fatal Error Crash: Mastering UE4 for Seamless Halo 4 Gameplay</u></a></li>
+</ul></div>
 

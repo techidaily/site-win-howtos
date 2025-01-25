@@ -1,7 +1,7 @@
 ---
 title: Computer Randomly Turns Off [Solved]
-date: 2024-08-28T00:23:22.323Z
-updated: 2024-08-29T00:23:22.323Z
+date: 2025-01-20T16:00:48.739Z
+updated: 2025-01-25T18:27:32.682Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update your drivers
 
  The most common cause of an unrecognized SD card is a faulty, incorrect or outdated card reader driver. So the first thing you should do it check that your drivers are in good health. You can do this either manually or automatically:
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Activate & Update** button next to all flagged devices to automatically download and install the correct version of their drivers. Pay close attention to whether your card reader appears in the list.
 
@@ -85,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Test your SD card in another PC
 
  If your SD card is faulty, your PC won’t recognize it. To check, you’ll need to locate another PC with a card reader, and test your SD card in that computer, to see if it works.
@@ -116,36 +125,29 @@ If you’re not sure how to do that, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Go to**Driver** tab. Click**Disable Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  5) When prompted to disable the device, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ---
 
  We hope these tips help you fix your unrecognized SD card problem. Please comment below if you have any questions or suggestions. We’re always happy to hear of new solutions!
@@ -156,8 +158,6 @@ If you’re not sure how to do that, refer steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +165,18 @@ If you’re not sure how to do that, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pushing-boundaries-top-prime-lenses-for-industry-pros/"><u>[New] 2024 Approved Pushing Boundaries Top Prime Lenses for Industry Pros</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/our-stocks-your-screen-ideal-youtube-groups/"><u>[New] Your Stocks, Your Screen Ideal YouTube Groups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-installation-hitch-resolve-error-code-80240020/"><u>Fixing the Windows 10 Installation Hitch: Resolve Error Code 80240020</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guia-facil-para-la-sincronizacion-automatica-de-archivos-con-nas-en-windows-11-8-y-7/"><u>Guía Fácil Para La Sincronización Automática De Archivos Con NAS en Windows 11, 8 Y 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-1068-on-windows-solved/"><u>How to Fix Error 1068 on Windows [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-windows-update-error-0x80070002-successfully/"><u>How to Overcome the Persistent Windows Update Error 0X80070002 Successfully!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-sticky-keys-on-pcs-running-windows-operating-systems-step-by-step-instructions/"><u>Solving the Problem of Sticky Keys on PCs Running Windows Operating Systems: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/speed-up-your-reading-mastering-quick-flip-techniques-with-flipbuilder/"><u>Speed Up Your Reading: Mastering Quick Flip Techniques with FlipBuilder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-how-to-fix-windows-update-error-code-0x8024002e/"><u>Step-by-Step Troubleshooting: How to Fix Windows Update Error Code 0X8024002E</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782298-9781591438656-the-gospel-of-the-toltecs/"><u>The Gospel of the Toltecs | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a34-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A34 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 12 Essential Microsoft Excel Configuration Tweaks for Optimal Performance
-date: 2024-08-28T00:18:48.536Z
-updated: 2024-08-29T00:18:48.536Z
+date: 2025-01-21T16:14:23.324Z
+updated: 2025-01-25T18:07:06.256Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## 12 Essential Microsoft Excel Configuration Tweaks for Optimal Performance
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -54,8 +58,9 @@ Related: [How to Customize the Quick Access Toolbar in Microsoft Office Apps](ht
 ![Quick Access Toolbar settings in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/QuickAccessToolbar-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  2\. Font Style and Size
 
  Another good default setting to change if you have a font preference is the style and size. You may prefer a [specific font](https://article-posts.techidaily.com/2024-approved-crafting-an-elite-home-computer-for-professional-4k-editing/) style or are required to use a certain size with each new workbook you open.
@@ -67,11 +72,9 @@ Related: [How to Set the Default Font and Font Size for New Workbooks in Excel](
 ![Font style and size settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/FontStyleSize-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  3\. View for New Sheets
 
  While maybe not as common as changing the default font, the view you use in Excel might be something you need to adjust. Maybe you always work in Page Layout View or just want to open new sheets in Page Break View.
@@ -80,14 +83,6 @@ Related: [How to Set the Default Font and Font Size for New Workbooks in Excel](
 
 ![View settings for new Excel sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/View-ExcelChangeDefaultSettings.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  4\. Workbook to Open
 
  Do you almost always open the same workbook in Excel? You can make a change so that the workbook you need opens automatically when you launch Excel.
@@ -101,8 +96,9 @@ Related: [How to Open Certain Workbooks Automatically When You Start Excel](http
 ![Folder to automatically open in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/WorkbookToOpen-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  5\. Number of Recent Workbooks
 
  If when you open Excel you choose the workbook to use from the Recent Workbooks list, you can customize the number that displays. The list can get quite long, though, and you may only need to see your most 10 recent workbooks as opposed to 50.
@@ -112,8 +108,9 @@ Related: [How to Open Certain Workbooks Automatically When You Start Excel](http
 ![Number of recent workbooks to display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/RecentWorkbooks-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  6\. Number of Sheets
 
  When you create a new workbook, you may prefer to [start with a specific number of sheets](https://screen-sharing-recording.techidaily.com/updated-2024-approved-effortless-capture-and-storage-pro-guide-to-digital-sound-recording/). Rather than add them as you go, you can open new workbooks with a certain number of spreadsheets.
@@ -122,9 +119,6 @@ Related: [How to Open Certain Workbooks Automatically When You Start Excel](http
 
 ![Number of sheets for new Excel workbooks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NumberSheets-ExcelChangeDefaultSettings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  7\. Ruler Units
 
  While the ruler defaults to the [unit measurement](https://discord-videos.techidaily.com/mastering-discord-speaking-tts-basics-guide-for-2024/) for your region, you might want to change this to Inches, Centimeters, or Millimeters. This may be especially useful if you collaborate with international colleagues.
@@ -133,11 +127,16 @@ Related: [How to Open Certain Workbooks Automatically When You Start Excel](http
 
 ![Ruler Unit setting in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/RulerUnits-ExcelChangeDefaultSettings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-videos.techidaily.com/mastering-discord-speaking-tts-basics-guide-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  8\. Enter Key Behavior
 
  As you work through entering data in a sheet, pressing the Enter key moves your cursor down to the cell below. But in your case you might enter your data horizontally to the right or left. You can [change the default direction](https://visual-screen-recording.techidaily.com/updated-2024-approved-device-entry-guide-to-googles-video-conferencing/) upon hitting the Enter key.
@@ -148,9 +147,6 @@ Related: [How to Change the Behavior of the Enter Key in Excel](https://visual-s
 
 ![Enter key settings in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/EnterKeyDirection-ExcelChangeDefaultSettings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  9\. Decimal Places
 
  If you work with decimals a lot in your Excel sheets and are always [changing the decimal places](https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/), you can adjust this default as well.
@@ -159,9 +155,6 @@ Related: [How to Change the Behavior of the Enter Key in Excel](https://visual-s
 
 ![Decimal place settings in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DecimalPlaces-ExcelChangeDefaultSettings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  10\. Calculation Method
 
  By default, calculations in Excel workbooks are automatic. This is another setting you might want to change if you prefer to do them [manually](https://screen-activity-recording.techidaily.com/detailed-guide-to-screen-record-skype-via-obs-for-2024/) or only automatically for everything except data tables.
@@ -173,11 +166,13 @@ Related: [How to Manually Calculate Only the Active Worksheet in Excel](https://
 ![Calculation method setting in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Calculation-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  11\. File Format When Saving
 
  If you need a specific file format other than the [default Excel format](https://visual-screen-recording.techidaily.com/in-2024-gamers-eden-record-without-paying-in-24/), [XLSX](https://ai-vdieo-software.techidaily.com/updated-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users/), you can change this too. This saves you time from changing the Save As file type for new workbooks.
@@ -200,6 +195,10 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 
 ![Default layout settings for Pivot Tables](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/PivotTableLayout-ExcelChangeDefaultSettings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "OK" in the small window and Excel Options window to save your changes.
 
  Save a little time from adjusting the same settings every time you open Excel by changing the defaults instead. And remember, if you change your mind later, simply return to the same spot in the Excel Options and revert the setting.
@@ -212,8 +211,6 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +218,26 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques/"><u>[New] 2024 Approved The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-step-by-step-guide-recording-on-itunes/"><u>[New] In 2024, Step-by-Step Guide Recording on iTunes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quizzical-quests-top-trivia-video-platforms/"><u>[Updated] Quizzical Quests Top Trivia Video Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-reno-11f-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo Reno 11F 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-keyboard-woes-heres-how-to-get-it-working-again/"><u>Dell Keyboard Woes? Here’s How to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-windows-host-service-interruption-rundll32/"><u>Effective Solutions for Windows Host Service Interruption (Rundll32)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-and-restore-inaccessible-gpu-configuration-tools-for-amd-radeon/"><u>Fix and Restore Inaccessible GPU Configuration Tools for AMD Radeon</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-errors-caused-by-a-missing-d3dx928dll-file/"><u>How to Resolve Errors Caused by a Missing d3dx9_28.dll File</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-premier-tv-and-monitor-showcase/"><u>IFA 2023: Premier TV & Monitor Showcase</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-repair-of-error-0x80072f8f-in-windows-operating-systems-version-11-and-10/"><u>Mastering Repair of Error 0X80072F8F in Windows Operating Systems (Version 11 and 10)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rectifying-invisible-second-windows-display/"><u>Rectifying Invisible Second Windows Display</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-directx-hardware-interface-setup-error-corrected/"><u>Solution Found: DirectX Hardware Interface Setup Error Corrected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-microsoft-wireless-display-connectivity-problems-on-windows-11/"><u>Solving Your Microsoft Wireless Display Connectivity Problems on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-the-art-of-background-blurring-on-google-meet/"><u>Step-by-Step Guide: Mastering the Art of Background Blurring on Google Meet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-solution-end-window-11-and-10s-infinite-restart-cycle-now/"><u>Unlock the Solution: End Window 11 and 10'S Infinite Restart Cycle Now!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlocking-speedy-streams-the-noobs-snapchat-guide/"><u>Unlocking Speedy Streams The Noob’s Snapchat Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-best-17-applications-to-elevate-your-graphic-design-skills/"><u>Unveiling the Best 17 Applications to Elevate Your Graphic Design Skills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-fight-against-unregistered-dlls-and-classes-on-windows-11-expert-fixes/"><u>Winning the Fight Against Unregistered DLLs and Classes on Windows 11: Expert Fixes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Complete Latency on Your Windows 11 Keyboard: A Step-by-Step Guide"
-date: 2025-01-16T20:06:05.813Z
-updated: 2025-01-19T16:08:35.872Z
+date: 2025-01-21T16:12:55.181Z
+updated: 2025-01-25T17:41:59.768Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -51,6 +51,10 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -61,17 +65,21 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -83,13 +91,13 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
@@ -109,19 +117,11 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -142,19 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-immortalizing-moments-live-photo-to-dynamic-video/"><u>[New] Immortalizing Moments Live Photo to Dynamic Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>[Updated] 2024 Approved Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-creator-revenue-streams-amidst-the-world-of-youtube-shorts/"><u>[Updated] Creator Revenue Streams Amidst the World of YouTube Shorts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-exclusive-list-of-premium-3d-blu-ray-players-reviewed/"><u>[Updated] Exclusive List of Premium 3D Blu-Ray Players Reviewed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-techniques-for-funimate-video-extraction/"><u>[Updated] In 2024, Essential Techniques for Funimate Video Extraction</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-camon-20-premier-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Camon 20 Premier 5G Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-steps-to-take-when-computers-cant-initiate/"><u>Mastering The Fix: Steps to Take When Computers Can't Initiate</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rev-up-with-hubsans-x4-fpv-quadcopter-review-for-2024/"><u>Rev Up with Hubsan's X4 FPV Quadcopter Review for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-starting-a-failed-hosted-network-on-windows-10/"><u>Solution Guide: Starting a Failed Hosted Network on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-unresponsive-dell-usb-ports/"><u>Troubleshooting and Repairing Unresponsive Dell USB Ports</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-your-graphics-card-to-enable-miracast-functionality-successfully/"><u>Update Your Graphics Card to Enable Miracast Functionality Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-mia-heres-how-to-fix-the-absent-dll-error-successfully/"><u>VCRUNTIME140.dll MIA? Here’s How to Fix the Absent DLL Error Successfully!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-freedom-through-jokes-ranking-the-most-hilarious-social-media-prisons-for-2024/"><u>[New] Freedom Through Jokes Ranking the Most Hilarious Social Media Prisons for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>[New] The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beginners-guide-to-solo-youtube-broadcasting-from-yourphone-for-2024/"><u>Beginner's Guide to Solo YouTube Broadcasting From Yourphone for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-class-not-registered-on-windows-11-step-by-step-solutions/"><u>Easy Fixes for 'Class Not Registered on Windows 11': Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/errorcode80240020-successful-solutions-to-troubleshoot-windows-11-setup-issues/"><u>ErrorCode80240020: Successful Solutions to Troubleshoot Windows 11 Setup Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-plugin-errors-solving-shockwave-flash-problems-in-chrome-browser/"><u>Fixing Plugin Errors: Solving Shockwave Flash Problems in Chrome Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-bluetooth-connectivity-problem-a-comprehensive-tutorial/"><u>Fixing the Bluetooth Connectivity Problem: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-pubg-running-smoothly-with-our-step-by-step-launch-fixes/"><u>Get PUBG Running Smoothly with Our Step-by-Step Launch Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-oddworld-soulstorm-pc-game-crashes-solved/"><u>How to Fix Oddworld: Soulstorm PC Game Crashes - Solved</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-overcome-frozen-notification-bars-and-posts/"><u>How to Overcome Frozen Notification Bars & Posts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-14-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 14 Pro in Lost Mode</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/innovative-audio-enhancements-for-youtube-creators/"><u>Innovative Audio Enhancements for YouTube Creators</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-join-avi-files-for-free-top-10-reliable-freeware-options-for-2024/"><u>New Join AVI Files for Free Top 10 Reliable Freeware Options for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-key-lockup-issues-in-windows-keyboards/"><u>Resolving Key Lockup Issues in Windows Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-correct-video-input-problems-on-devices/"><u>Step-by-Step Instructions to Correct Video Input Problems on Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-whats-airing-now-on-max-entertainment-channel/"><u>The Ultimate Selection: What’s Airing Now on Max Entertainment Channel</u></a></li>
 </ul></div>
 

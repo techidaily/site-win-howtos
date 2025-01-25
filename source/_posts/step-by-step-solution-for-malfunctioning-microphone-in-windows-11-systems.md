@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Malfunctioning Microphone in Windows 11 Systems
-date: 2024-08-28T00:23:03.815Z
-updated: 2024-08-29T00:23:03.815Z
+date: 2025-01-22T17:10:38.525Z
+updated: 2025-01-25T16:40:01.343Z
 tags:
   - win11
   - win10
@@ -59,6 +59,10 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -69,9 +73,6 @@ If you’re a laptop user, you could follow these steps:
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -101,20 +102,20 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -126,22 +127,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips: Keyboard maintenance
 
 1. Try not to eat, smoke or drink on top of the keyboard to keep it clean.
@@ -160,8 +161,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +168,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-for-transforming-dvd-content-to-high-quality-divx-videos/"><u>Easy Steps for Transforming DVD Content to High-Quality DivX Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-night-light-feature-issues-on-windows-11/"><u>Fixing the Night Light Feature Issues on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-adjust-video-size-effectively-without-sacrificing-clarity-top-10-techniques-no-watermarks/"><u>How to Adjust Video Size Effectively without Sacrificing Clarity - Top 10 Techniques [No Watermarks]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-installing-snapchat-a-mac-owners-handbook/"><u>In 2024, Installing Snapchat A Mac Owner's Handbook</u></a></li>
+<li><a href="https://win-able.techidaily.com/lossless-dvd-copying-guide-how-to-duplicate-your-movies-in-windows-10/"><u>Lossless DVD Copying Guide: How to Duplicate Your Movies in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-launch-issues-in-fortnite/"><u>Overcoming Launch Issues in Fortnite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-fn-key-malfunction-on-your-dell-computer-a-step-by-step-guide/"><u>Solving the Fn-Key Malfunction on Your Dell Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-msdia80dll-importance-and-recommendations-for-preservation/"><u>Understanding msdia80.dll: Importance and Recommendations for Preservation</u></a></li>
+</ul></div>
 

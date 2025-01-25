@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transforming Your Data with JavaScript - Converting JSON to MS Excel"
-date: 2024-08-28T00:18:37.883Z
-updated: 2024-08-29T00:18:37.883Z
+date: 2025-01-20T16:29:36.912Z
+updated: 2025-01-25T17:08:39.100Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ---
 
 ## Step-by-Step Guide: Transforming Your Data with JavaScript - Converting JSON to MS Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,8 +32,9 @@ Related: [How to Parse JSON Files on the Linux Command Line with jq](https://dri
  You will then save that spreadsheet as [an XLSX file](https://ai-vdieo-software.techidaily.com/updated-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users/), and your JSON to Excel conversion is done.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Import a JSON File Into an XLSX File
 
  To start parsing a JSON file, open Microsoft Excel on your computer and start a new spreadsheet.
@@ -39,19 +44,20 @@ Related: [How to Parse JSON Files on the Linux Command Line with jq](https://dri
 ![Click the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/1-excel-data-tab.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the "Data" tab, from the "Get & Transform Data" section, select Get Data > From File > From JSON.
 
 ![Click Get Data > From File > From JSON.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/2-excel-import-json.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will see your computer's standard "Import" window. Here, open the folder where your JSON file is located. Double-click the file to connect it to Excel.
 
 ![Choose the JSON file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/3-select-json-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Excel will open a "Power Query Editor" window. Here, you will decide how JSON's data will be loaded in your spreadsheet. First, at the top of the window, click the "To Table" option. This turns your data into a table.
 
@@ -61,9 +67,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Select "OK" in the prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/5-table-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To choose which columns to keep in your spreadsheet, next to "Column1," click the double-arrow icon.
 
 ![Click the double-arrow icon next to "Column1."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/6-json-column-options.png) 
@@ -76,16 +79,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![JSON data in Excel-style.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/8-json-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  If you'd like to remove or [change the positions of your columns](https://screen-activity-recording.techidaily.com/updated-2024-approved-synchronizing-teams-mastering-device-agnostic-zoom-events/), right-click a column and choose an appropriate option.
 
 ![Modify JSON data columns.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/9-modify-json-columns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  When you're happy with the result, add your JSON data to your Excel spreadsheet by clicking "Close & Load" in the window's top-left corner.
 
 ![Click "Close & Load" in the top-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/10-load-json-into-excel.png) 
@@ -103,11 +100,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Select "Save" from the left sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/13-excel-save-spreadsheet.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your computer's standard "save" window will open. Here, select a folder to save your file in, type a name for your file, and click "Save."
 
 ![Select a folder to save the Excel file in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/14-excel-save-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that's it. The Excel version of your JSON file, complete with the .xlsx extension, is now available in your specified folder. Cheers!
 
@@ -123,8 +125,6 @@ Related: [How to Convert a Google Sheet to Microsoft Excel](https://article-know
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +132,26 @@ Related: [How to Convert a Google Sheet to Microsoft Excel](https://article-know
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-crafting-an-exceptional-experience-in-stardew-valley-top-7-mods/"><u>[New] In 2024, Crafting an Exceptional Experience in Stardew Valley (Top 7 Mods)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/inute-by-minute-mastery-the-top-ten-on-youtube-daily-for-2024/"><u>[New] Minute-by-Minute Mastery The Top Ten on YouTube Daily for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-mac-capture-techniques-overview-char-limit-156-for-2024/"><u>[New] Top Mac Capture Techniques Overview (Char Limit 156) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-systems-for-tracking-human-manoeuvres/"><u>2024 Approved Advanced Systems for Tracking Human Manoeuvres</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-error-8007000e-easy-solutions-for-windows-users-needing-updates-now/"><u>Bypassing Error 8007000E: Easy Solutions for Windows Users Needing Updates Now</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211434956-9781648414688-cooking-with-magic-mushrooms/"><u>Cooking with Magic Mushrooms | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-changes-to-home-and-activity-tabs-on-fb/"><u>Decoding Changes to Home and Activity Tabs on Fb</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-latest-tools-to-spot-chatgpt-in-your-classroom-or-workplace/"><u>Discover the Latest Tools to Spot ChatGPT in Your Classroom or Workplace</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-no-more-a-comprehensive-fix-for-monitor-input-errors/"><u>Error No More: A Comprehensive Fix for Monitor Input Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-bootmgr-is-missing-error-easily-with-pictures/"><u>Fix BOOTMGR Is Missing Error Easily [with Pictures]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-usb-mouse-working-again-on-your-laptop-expert-advice/"><u>How to Get Your USB Mouse Working Again on Your Laptop – Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-problems-with-windows-resource-protection-not-performing-operations/"><u>How to Overcome Problems with Windows Resource Protection Not Performing Operations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-icue-undetected-hardware-problems-successfully/"><u>How to Resolve ICUE Undetected Hardware Problems Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-sound-in-steam-games-quick-troubleshooting-techniques-will-help/"><u>No Sound in Steam Games? Quick Troubleshooting Techniques Will Help</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-laptops-speaker-pop-and-crackle-problem-in-windows-107-effortlessly/"><u>Resolve Your Laptop's Speaker Pop & Crackle Problem in Windows 10/7 Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-repairing-hp-laptop-camera-issues-on-windows-11/"><u>Step-by-Step Tutorial for Repairing HP Laptop Camera Issues on Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-a-list-guide-to-instagram-photo-mastery/"><u>The A-List Guide to Instagram Photo Mastery</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-players-handbook-advanced-techniques-to-improve-wow-fps-performance/"><u>The Ultimate Player's Handbook: Advanced Techniques to Improve WoW FPS Performance</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering String Manipulation: The Ultimate Technique for Excel Substrings Retrieval"
-date: 2024-08-28T00:18:23.222Z
-updated: 2024-08-29T00:18:23.222Z
+date: 2025-01-19T17:46:04.495Z
+updated: 2025-01-25T17:16:38.450Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/596d58530eb9322168d7babcbb9a9489a386dda09
 ---
 
 ## Mastering String Manipulation: The Ultimate Technique for Excel Substrings Retrieval
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,9 +48,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/1-left-select-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In your selected cell, type the following function. In this function, replace `B2` with the cell where your full text is and `@` with the search character. The function will retrieve the entire string to the left of this character.
 
  Then press Enter.
@@ -59,7 +60,15 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![The result of the LEFT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/3-left-function-result.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You're all set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Extract the String to the Right of Your Text
 
@@ -69,9 +78,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/4-right-select-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  In the selected cell, enter the [following function](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/). In this function, replace `B2` with the cell where your full text is and `@` with the search character. Excel will extract the entire string to the right of this character.
 
  Then press Enter.
@@ -80,15 +86,14 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Type the RIGHT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/5-type-right-function.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see the result of the function in your chosen cell.
 
 ![The result of the RIGHT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/6-right-function-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  You're done.
 
 Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) 
@@ -102,8 +107,9 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 ![Click a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/7-mid-select-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the selected cell, enter the following function. In this function, replace `B2` with the cell where you have the full text, `1` with the position of the character where you want to start the string selection, and `3` with the number of characters you want to extract.
 
  Then press Enter.
@@ -112,16 +118,10 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 
 ![Enter the MID function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/8-enter-mid-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  Excel will extract the specified number of characters from the given position in your cell.
 
 ![The result of the MID function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/9-mid-function-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  And that's all there is to it.
 
 ---
@@ -136,8 +136,6 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +143,26 @@ Related: [How to Count Cells With Text in Microsoft Excel](https://buynow-tips.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-image-framing-essentials-top-apps-and-websites-creators/"><u>[New] 2024 Approved Image Framing Essentials Top Apps & Websites Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203181297-resolved-unmasking-the-hidden-culprit-of-high-cpu-consumption-the-role-of-shell-infrastructures/"><u>[Resolved] Unmasking the Hidden Culprit of High CPU Consumption: The Role Of Shell Infrastructures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-step-by-step-guide-recording-audio-on-the-internet-today/"><u>[Updated] In 2024, Step-by-Step Guide Recording Audio on the Internet Today</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-ultimate-guide-to-linking-fb-stories/"><u>[Updated] In 2024, The Ultimate Guide to Linking FB Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44cm5pep44gp6kal44kj44km44kl44ki44gg44gr77yb44k544k44oh44kj44oz44kw44gu5yuv55s744oa44km44oz44ot44o844oj44oe44ol44ol44ki44or44cn/"><u>「早く見られるように！スタディングの動画ダウンロードマニュアル」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-unavailable-remote-procedure-call-error-in-windows-environments/"><u>Diagnosing and Repairing the Unavailable Remote Procedure Call Error in Windows Environments</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153081491-facebook-founder-names-goat-as-crypto-pet/"><u>Facebook Founder Names Goat as 'Crypto' Pet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-your-current-security-settings-do-not-allow-this-file-to-be-downloaded/"><u>Fixed: Your Current Security Settings Do Not Allow This File to Be Downloaded</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-adapter-missing-from-windows-device-manager/"><u>How To Fix Bluetooth Adapter Missing From Windows Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-syncing-and-audio-dropouts-in-your-logitech-wireless-g930/"><u>How To Repair Syncing and Audio Dropouts in Your Logitech Wireless G930</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-game-enhancing-screens-top-5-for-ps5-and-xbox-gamers/"><u>In 2024, Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-the-world-of-books-with-these-5-artificous-intelligence-tools/"><u>Navigate the World of Books with These 5 Artificous Intelligence Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hosted-network-could-not-start-errors-on-windows-11-devices/"><u>Overcoming 'Hosted Network Could Not Start' Errors on Windows 11 Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-the-dark-screen-hurdle-a-players-handbook-for-cyberpunk-ebooten2077-successes/"><u>Resolving the Dark Screen Hurdle: A Player's Handbook for Cyberpunk Ebooten2077 Successes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-update-troubles-heres-how-to-fix-installation-errors-effortlessly/"><u>Steam Update Troubles? Here's How to Fix Installation Errors Effortlessly!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-adding-libdvdcss-to-handbrake-for-macos-ventura-and-windows-11/"><u>Step-by-Step Guide: Adding Libdvdcss to Handbrake for macOS Ventura & Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-update-problems-for-smooth-operations/"><u>Troubleshoot Windows Update Problems for Smooth Operations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unfixable-fault-devices-cease-functioning/"><u>Unfixable Fault: Devices Cease Functioning</u></a></li>
+</ul></div>
 

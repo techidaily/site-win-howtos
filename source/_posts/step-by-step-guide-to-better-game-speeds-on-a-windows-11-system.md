@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Better Game Speeds on a Windows 11 System
-date: 2024-08-23T14:10:49.851Z
-updated: 2024-08-24T14:10:49.851Z
+date: 2025-01-24T17:07:04.365Z
+updated: 2025-01-25T16:36:30.587Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
  If there’s no problem with the HDMI port and the cable, you can try the two solutions below. Start with Solution 1, then try Solution 2 if it doesn’t solve the problem.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -50,11 +54,23 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, check to see if Windows can detect your TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
 
@@ -78,6 +94,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
 **TIP:** After connecting your TV via HDMI successfully, if you can’t hear sound from the output, go to [Fix HDMI No Sound in Windows 10](https://tools.techidaily.com/drivereasy/download/) for the solutions.
@@ -92,8 +112,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +119,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-capture-hearts-on-tiktok-designed-templates-for-visual-impact/"><u>[New] In 2024, Capture Hearts on TikTok Designed Templates for Visual Impact</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-service-guide-exclusive-local-channels-plus-live-streaming/"><u>[New] Premier Service Guide Exclusive Local Channels + Live Streaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-striking-setups-to-impress-online-audiences/"><u>[New] Striking Setups to Impress Online Audiences</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-sound-recorder-quality-overview/"><u>[Updated] Sound Recorder Quality Overview</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-e-importar-video-mkv-a-formato-wma-gratuito-online-con-convertidor-de-videos-movavi/"><u>Descargar E Importar Video MKV a Formato WMA Gratuito Online Con Convertidor De Videos - Movavi</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-find-x7-ultra-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Find X7 Ultra Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-xbox-games-a-pc-experience-via-xemu/"><u>Emulating Xbox Games: A PC Experience via Xemu</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flac-mkv-mp4-online-flacmkv-s-movavi/"><u>FLAC, MKV에서 MP4 바로 제공 – 컴퓨터에서 Online FLAC/MKV 변환 방법s: Movavi 리소스</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-m4a-files-to-wma-format-by-movavi/"><u>Free Online Converter: Transform M4A Files to WMA Format by Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-online-movikovar-webovy-konverze-mov-em-vob/"><u>Gratis Online movi.kovář Webový - Konverze MOV Em VOB</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/guaranteed-top-notch-text-recovery-apps-stellars-choice-among-iphone-messaging-restoration-programs/"><u>Guaranteed Top-Notch Text Recovery Apps – Stellar's Choice Among iPhone Messaging Restoration Programs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-15-pro-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 15 Pro iCloud Lock</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-105-classic-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nokia 105 Classic Phone Without Password?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-enjoying-authentic-cricket-games-in-real-time/"><u>In 2024, Secrets to Enjoying Authentic Cricket Games in Real-Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/les-6-meilleurs-moyens-de-transformer-des-fichiers-videos-en-mp4-sur-un-mac/"><u>Les 6 Meilleurs Moyens De Transformer Des Fichiers Vidéos en MP4 Sur Un Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/merging-multiple-mp4-videos-quickly-an-easy-guide-for-smooth-editing/"><u>Merging Multiple MP4 Videos Quickly: An Easy Guide for Smooth Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/montaggio-foto-perfetto-scopri-i-5-metodi-migliori-per-unire-fotografie-nel-mese-di-settemb/"><u>Montaggio Foto Perfetto - Scopri I 5 Metodi Migliori per Unire Fotografie Nel Mese Di Settemb</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-top-picks-for-screen-capture-software-expert-analysis-and-movavi-review/"><u>The Top Picks for Screen Capture Software : Expert Analysis and Movavi Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-vos-pgm-en-sites-web-gratuits-a-laide-de-movavi-guide-complet-pour-la-conversion-et-le-deploiement-en-ligne/"><u>Transformez Vos PGM en Sites Web Gratuits À L'aide De Movavi - Guide Complet Pour La Conversion Et Le Déploiement en Ligne.</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Top 6 Essentials to Add to Your Quick Access Toolbar in Microsoft Excel for Faster Workflows
-date: 2024-08-28T00:20:05.851Z
-updated: 2024-08-29T00:20:05.851Z
+date: 2025-01-21T16:44:06.886Z
+updated: 2025-01-25T16:25:36.992Z
 tags:
   - excel
 categories:
@@ -36,13 +36,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Excel's ribbon showing that the quick access toolbar is not enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/qat-not-active.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To rectify this, click the down arrow at the right-hand side of any of the open tabs, and click "Show Quick Access Toolbar."
 
 ![The Show Quick Access Toolbar in Excel is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/show-qat-excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will then see the QAT appear next to the Excel logo with some buttons, such as AutoSave and Save, as the default options.
 
 ![Excel's Quick Access Toolbar with AutoSave and Save as default options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/excel-qat-default.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are various ways to [customize what you see here](https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/). To remove a button from your QAT, right-click the relevant icon and click "Remove From Quick Access Toolbar."
 
@@ -52,6 +64,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Customize Quick Access Toolbar menu with More Commands selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-to-qat-excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Excel Options window, click the "Choose Commands From" drop-down arrow to search for a tool by category or show all the available commands. Then, after finding and selecting a command you want to appear in your QAT, click "Add." When you're done, click "OK."
 
 ![The Excel Options dialog box with the different Quick Access Toolbar commands available under All Commands.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-to-qat-from-excel-options.png) 
@@ -60,9 +76,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you know where a command is located via the tabs on the ribbon, you can also right-click the command's icon to add it to the QAT. Similarly, if you often use many commands from the same ribbon, you can add a whole ribbon's icon to the QAT.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  AutoSave
 
  I find that having the AutoSave icon in the QAT is essential to ensure I don't lose my work. If the AutoSave toggle is green, your work is [saved and backed up to your OneDrive cloud](https://tech-haven.techidaily.com/simplifying-life-comparing-claude-and-chatgpt-skills/).
@@ -70,12 +83,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The AutoSave icon is green in the Excel QAT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/autosave-on.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, if the AutoSave toggle is gray, your work isn't currently syncing to the cloud, and you could lose your work if Excel crashes or [your computer malfunctions](https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-approaches-to-ppt-video-captures/).
 
 ![Excel's AutoSave toggle switched to Off in the QAT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/autosave-off.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This could simply be because you've yet to save your work (Microsoft 365's AutoSave only works once you've manually saved your work for the first time), so it's a handy reminder to do this. If the AutoSave toggle is still set to Off, even after you have saved your work, it could mean one of three things:
 
@@ -91,16 +108,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Excel's Quick Access Toolbar containing the Spelling icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/qat-spelling-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ##  Paste Special
 
  Ctrl+V is one of the most well-known keyboard shortcuts, but it's less useful in Excel than in other programs. For example, you might want to copy and paste some data between sheets that are formatted differently, so you would want to paste the numbers without pasting the formatting. Similarly, you might only want to copy and paste the formatting, not the data. Going one step further, the Paste Special operation also lets you perform operations while pasting the data, such as turning all positive numbers into negative numbers.
@@ -112,8 +119,9 @@ No advertising on the website.
 ![Excel's QAT containing the Paste Special icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/paste-special-qat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Conditional Formatting
 
  Let's be honest—if your Excel spreadsheet doesn't have Conditional Formatting, it's not really a proper Excel spreadsheet. Just as every Microsoft Word document should have styles, [every Microsoft Excel worksheet should have Conditional Formatting](https://ai-live-streaming.techidaily.com/simple-tricks-avoiding-hassle-while-uninstalling-nvidia-geforce-experience/), which is why the Conditional Formatting icon is a QAT non-negotiable.
@@ -122,9 +130,17 @@ No advertising on the website.
 
 ![An Excel worksheet containing four sets of data, each with different preset Conditional Formatting rules.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/conditional-formatting-presets.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Having instant access to Conditional Formatting meant that the above actions took no more than five seconds, which is why you should also add this function to your QAT.
 
 ![Excel's Quick Access Toolbar with the Conditional Formatting icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/conditional-formatting-qat.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Freeze Panes
 
@@ -134,18 +150,16 @@ No advertising on the website.
 
 ![An Excel spreadsheet containing dates down the left, numbers along the top, and data in between.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With cell C2 selected, I can click the Freeze Panes icon in the QAT and choose "Freeze Panes." This option freezes all rows above and all columns to the left of the selected cell.
 
 ![Excel's Quick Access Toolbar with the Freeze Panes drop-down expanded.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/freeze-panes-qat-excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Notice, also, how you can instantly freeze just the first row or column using this handy QAT icon. Once you've frozen the relevant rows or columns, clicking the Freeze Panes icon in the QAT again will give you the option to unfreeze.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Personalized Macro Buttons
 
  Microsoft 365's macros let you [perform very specific actions with one click](https://win-blog.techidaily.com/troubleshooting-how-to-fix-failed-minecraft-installs-on-windows-11/). What's more, Excel lets you [add personalized macro buttons to your QAT](https://tech-recovery.techidaily.com/how-to-repair-not-found-or-absent-errors-with-d3dx934dll-file/), so it's even easier to action that command.
@@ -154,25 +168,10 @@ No advertising on the website.
 
 ![The Customize Quick Access Toolbar menu with More Commands selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-to-qat-excel.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, in the Excel Options window, click the "Choose Commands From" drop-down arrow, and click "Macros." Now, select the relevant macro, and click "Add."
 
 ![The Excel Options window with a macro being added to the Quick Access Toolbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-macro-to-qat.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can then choose a suitable icon for your macro by selecting the macro and clicking "Modify." In the example below, the macro turns the selected cell yellow, so I have chosen a yellow icon.
 
 ![A macro is selected in the Excel Options QAT menu, and the Modify button is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/modify-macro-icon.png) 
@@ -183,9 +182,6 @@ No advertising on the website.
 
  You cannot modify QAT icons for standard commands—Excel only lets you change your personalized macro icons.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Reorder Icons in Your QAT
 
  Once you have added all the relevant buttons to your QAT, consider reordering them so that using them is even easier. Personally, I order them by frequency of use, but you might choose to order them by type of command or to separate similar icons.
@@ -208,8 +204,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +211,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/xplore-the-10-most-influential-makeup-personalities-online/"><u>[New] Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premier-picks-the-best-11-audio-recorders-guide/"><u>[New] In 2024, Premier Picks The Best 11 Audio Recorders Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-art-of-adding-soundtracks-to-instagram-visuals/"><u>2024 Approved The Art of Adding Soundtracks to Instagram Visuals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-laptop-wont-charge-despite-being-connected-to-power-with-windows-11/"><u>Diagnosing and Fixing 'Laptop Won't Charge Despite Being Connected to Power with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-overcoming-firefoxs-certificate-verification-failure-secerror/"><u>Expert Advice on Overcoming Firefox's Certificate Verification Failure (SEC_ERROR)</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100i-power-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100i Power 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-guide-to-top-5-text-effects-downloading-sites/"><u>In 2024, A Guide to Top 5 Text Effects Downloading Sites</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-freezing-frames-in-games/"><u>Say Goodbye to Freezing Frames in Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-correcting-power-state-failure-issues-in-your-driver-software/"><u>Step-by-Step Solutions for Correcting Power State Failure Issues in Your Driver Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-rectify-windows-11-muted-or-unresponsive-volume-issues/"><u>Step-by-Step Solutions to Rectify Windows 11 Muted or Unresponsive Volume Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-genesis-of-apples-m1-an-insight-for-2024/"><u>The Genesis of Apple's M1 An Insight for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-ultimate-asus-display-a-journey-through-precision-and-color/"><u>The Ultimate ASUS Display A Journey Through Precision and Color</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-i-cant-get-enough-of-my-xiaomi-mi-smart-band-4-an-in-depth-budget-fitness-tracker-review/"><u>Why I Can't Get Enough of My Xiaomi Mi Smart Band 4: An In-Depth Budget Fitness Tracker Review</u></a></li>
+</ul></div>
 

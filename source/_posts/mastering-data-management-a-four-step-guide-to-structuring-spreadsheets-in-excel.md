@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Management: A Four-Step Guide to Structuring Spreadsheets in Excel"
-date: 2024-08-28T00:19:20.296Z
-updated: 2024-08-29T00:19:20.296Z
+date: 2025-01-20T16:50:51.826Z
+updated: 2025-01-25T18:39:38.534Z
 tags:
   - excel
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
 ![An Excel spreadsheet with people's names and their phone numbers in alternate rows in column A.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/names-and-numbers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Excel is designed to display data in typical table form. In other words, each column should contain the same type of value (in our case, the person's name in column A and the phone numbers in column B), and each row should contain details for one variable (in our case, each person).
 
  To achieve this, press Ctrl+G to launch the Go To dialog box. If you have other data in your sheet, first select the data you want to rearrange. Then, click "Special."
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
  Then, choose the data type you want to select. In our case, we first want to select any cell that is constantly text (the people's names), so we will click "Constants," and then uncheck "Numbers," "Logicals," and "Errors," leaving "Text" as the only checked data type.
 
 ![Excel's Go To Special dialog box with 'Constants' and 'Text' checked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/go-to-contants-text.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then click "OK."
 
@@ -56,24 +64,22 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
 ![An Excel sheet with the original data from column A split into columns B and C. The Delete button is highlighted after having right-clicked on the column A header.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-disorganized-data.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Using this method ensures the data remains in the same order, and you haven't had to use any formulas in the process. You can also [format your table](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/) to give you the option to sort the data or easily add further rows and columns.
 
 ![An Excel sheet with names in column A, numbers in column B, and the data formatted into a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/formatted-data-split-from-one-column-to-two.png) 
 
  As you saw when you opened the Go To Special dialog box, there are [other types of data you can select](https://instagram-clips.techidaily.com/updated-a-comprehensible-guide-to-instagrams-latest-updates-for-2024/) and paste into a new column.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Turning Vertical Data Horizontal (Or Vice Versa)
 
  In the example below, we want to flip our table so that the dates run along the top and the people run down the side. Doing this manually would take a long time and inevitably lead to copying errors. Luckily, you can do this in just a few steps using [Excel's transpose pasting function](https://win-blog.techidaily.com/dual-frames-per-second-drop-off-issue-on-pcs-comprehensive-fixes-and-optimizations/).
 
 ![A formatted Excel table containing dates and people's names.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/excel-people-and-dates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Many online forums and tutorials state that you cannot transpose a formatted table, but this isn't true. Indeed, the following process works regardless of whether or not your table is formatted using Excel's Format As Table option.
 
  Select all the data in your table (including the header row), and press Ctrl+C. Then, click the cell where you want the top-left value of the transposed data to be, and press Ctrl+Alt+V to launch the Paste Special dialog box.
@@ -82,39 +88,50 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
 ![Excel's Paste Special dialog box with 'Values And Number Formats' and 'Transpose' checked, and the 'OK' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/paste-special-transpose.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will then see the data transposed in the position you selected. You can now delete the original table and format the new one to suit your needs.
 
 ![An Excel spreadsheet containing the original table at the top and the transposed table below.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/transposed-table.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Sorting Data
 
  Whether you want to sort numbers (ascending or descending) or text (alphabetically), there are [various ways to achieve this](https://some-knowledge.techidaily.com/new-frame-flair-choosing-the-best-video-cameras-for-deliberate-moves/). Which option you choose will depend on whether you're sorting an isolated array (in other words, the column you're sorting is not connected to any other data), or a column in a table.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Sorting an Isolated Array
 
  If you simply want to reorder an isolated array, select and right-click the data. In the menu that appears, hover over "Sort."
 
 ![An Excel sheet containing a single column of data and the Sort option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-data-right-click.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You'll then see several options. If your data is a series of numbers, you will have the option to sort them from smallest to largest or largest to smallest. Similarly, if you have a series of text, you can organize your data in alphabetical or reverse-alphabetical order.
 
  Alternatively, with your isolated array selected, see the options available in the Sort And Filter group of the Data tab on the ribbon. Here, you can either click the "A-Z" or "Z-A" buttons to rearrange your data quickly, or click "Sort" to launch more options.
 
 ![An Excel sheet containing a single column of data and the Sort And Filter group in the Data tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-data-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you do click "Sort," you will see the following dialog box. If you wish, you could sort the data based on cell or font color instead of the cells' values.
 
 ![Excel's Sort dialog box, with Sort On changed to Cell Color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-by-cell-color.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Sorting a Column in a Table
 
  If you use the above methods to sort a column in a table, the remaining columns will remain as they were, and your table will no longer read accurately. In this case, you need to add filter buttons to your table.
@@ -123,9 +140,6 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
 ![An unformatted Excel table with the Filter icon in the Data tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/excel-filter-icon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  You will then see filter buttons, which you can click to rearrange a column with the knowledge that each row will remain congruent as you do this.
 
 ![Excel's Filter button is highlighted in a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/filter-button.png) 
@@ -141,8 +155,9 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 ![An Excel sheet with full names in column A, and columns B and C are blank.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/names-in-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Start by typing the first item in column B.
 
  It's important that you create the FlashFill column directly next to the existing data—otherwise, the FlashFill won't work.
@@ -157,16 +172,14 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
 ![An Excel sheet with full names in column A, first names in column B, and surnames in column C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/surnames-column-c.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  To finish, format your table, delete the original data, and add filter buttons to make your data more flexible.
 
 ![An Excel sheet containing a formatted table with first names in column A, surnames in column B, and the filter button added to the header row.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/excel-with-names.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Follow the same process to merge data together. So, if you have data in columns A and B that you want to merge in column C, start by typing the first merged value in column C, and then press Ctrl+E to force Excel to follow the same pattern. You can also add further details when using FlashFill. For example, here, we have added the word "and" to the data.
 
 ![An Excel sheet with one half of a duo in column A, the other half in column B, and then the data merged in column C with the word 'and' in between each.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/merged-data.png) 
@@ -181,8 +194,6 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +201,21 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-clandestine-scrollers-of-fb-stories-for-2024/"><u>[New] Clandestine Scrollers of Fb Stories for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-messaging-game-with-hidden-whatsapp-secrets-for-2024/"><u>[New] Elevate Your Messaging Game with Hidden WhatsApp Secrets for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones/"><u>[Updated] Innovating Messaging Sounds A Guide to Downloading & Personalizing WhatsApp Ringtones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-hottest-imessage-game-picks-of-2024-you-dont-want-to-miss/"><u>Discover the Hottest iMessage Game Picks of 2024 You Don't Want to Miss!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-diagnostic-services-failure-resolved/"><u>Fixing the Issue: Diagnostic Services Failure Resolved</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-realme-gt-neo-5-semirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme GT Neo 5 SEMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-initialization-failed-error-in-destiny-2-expert-guide/"><u>How to Fix 'Initialization Failed' Error in Destiny 2 | Expert Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-minecraft-launch-errors-on-windows-computers/"><u>How to Resolve 'Minecraft Launch Errors on Windows Computers'</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-craft-your-countdown-adding-time-management-to-obs-sessions/"><u>In 2024, Craft Your Countdown Adding Time Management to OBS Sessions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-jokes-how-to-create-memetic-gold/"><u>In 2024, Image Jokes How to Create Memetic Gold</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-geforce-experience-error-when-accessing-preferences/"><u>Resolved: Fixing GeForce Experience Error When Accessing Preferences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-airpods-on-windows-11-a-comprehensive-guide-for-2eo-users-updated-tips/"><u>Troubleshoot AirPods on Windows 11: A Comprehensive Guide for 2Eo Users - Updated Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win10-quench-cpu-hunger-from-wmis/"><u>Win10: Quench CPU Hunger From WMIs</u></a></li>
+</ul></div>
 

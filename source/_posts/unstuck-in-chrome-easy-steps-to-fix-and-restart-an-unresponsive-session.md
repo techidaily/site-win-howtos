@@ -1,7 +1,7 @@
 ---
 title: "Unstuck in Chrome: Easy Steps to Fix & Restart an Unresponsive Session"
-date: 2024-08-28T00:20:48.974Z
-updated: 2024-08-29T00:20:48.974Z
+date: 2025-01-18T18:10:55.793Z
+updated: 2025-01-25T18:04:58.289Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -42,16 +46,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -66,9 +70,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -80,12 +81,9 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -105,8 +103,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -122,16 +121,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -143,6 +136,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -173,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +177,24 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-discounted-action-cam-destinations/"><u>[New] Discounted Action Cam Destinations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-seamless-video-editing-on-windows-11-platform-for-2024/"><u>[New] Seamless Video Editing on Windows 11 Platform for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-deleting-profiles-in-windows-n-11-with-revo-uninstaller-tool/"><u>Complete Tutorial on Deleting Profiles in Windows N 11 with Revo Uninstaller Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-analysis-full-potential-of-bublcams-360-degree-scope/"><u>Exclusive Analysis Full Potential of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-persistent-valorant-pc-game-crashes/"><u>Expert Tips for Resolving Persistent Valorant PC Game Crashes</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/is-windows-media-player-compatible-with-hevc-video-format/"><u>Is Windows Media Player Compatible with HEVC Video Format?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-stream-authorization-in-kodi-safety-and-management-tips/"><u>Navigating Stream Authorization in Kodi - Safety & Management Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-to-fast-dvd-ripping-with-windows/"><u>Quick & Simple Guide to Fast DVD Ripping with Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-effortless-guide-dividing-videos-evenly-on-your-pc/"><u>Quick and Effortless Guide: Dividing Videos Evenly on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-transforming-divx-files-into-mp4-format/"><u>Quick and Simple Guide: Transforming DivX Files Into MP4 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-guide-capturing-flv-videos-with-our-ultimate-recording-tool/"><u>Simple Guide: Capturing FLV Videos with Our Ultimate Recording Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adding-videos-to-the-no-cost-video-editing-tool-factory/"><u>Step-by-Step Guide: Adding Videos to the No-Cost Video Editing Tool - Factory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-dvds-to-playable-on-your-pc/"><u>Step-by-Step Guide: Converting DVDs to Playable on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-transform-your-stereo-into-a-51-channel-audio-system/"><u>Steps to Transform Your Stereo Into a 5.1 Channel Audio System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-method-to-renew-distribution-and-catroot-on-ws11-pc/"><u>Swift Method to Renew Distribution & Catroot on WS11 PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-zero-cost-flv-video-editing-top-5-tools-to-get-the-job-done/"><u>Updated 2024 Approved Zero-Cost FLV Video Editing Top 5 Tools to Get the Job Done</u></a></li>
+<li><a href="https://win-great.techidaily.com/yl-computing-guide-easily-monitor-your-usdt-funds-on-macos-with-our-step-by-step-tutorial/"><u>YL Computing Guide: Easily Monitor Your USDT Funds on MacOS with Our Step-by-Step Tutorial</u></a></li>
+</ul></div>
 

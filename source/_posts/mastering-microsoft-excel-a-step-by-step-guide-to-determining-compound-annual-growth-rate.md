@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Step-by-Step Guide to Determining Compound Annual Growth Rate"
-date: 2024-08-28T00:18:20.889Z
-updated: 2024-08-29T00:18:20.889Z
+date: 2025-01-18T16:08:16.682Z
+updated: 2025-01-25T18:18:43.078Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
  Let's walk through setting up your data and using the RRI function to calculate the CAGR in Excel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Organize the Investment Details
 
  All you need to calculate the CAGR are the periods and the values for each period. List the years in the first column and amounts in the second as shown below.
@@ -28,17 +32,9 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 ![Periods and amounts for an investment in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/InvestmentData-ExcelCAGR.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Enter the Formula for the RRI Function
 
  Next, select the cell where you want to calculate the CAGR. This is where you'll [enter the formula](https://youtube-docs.techidaily.com/n-2024-automate-playlist-retrieval-from-youtube-directly/) for the RRI function.
@@ -59,25 +55,14 @@ Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube
 
 ![Formula for the RRI function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/RRICellReferences-ExcelCAGR.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To format the [result as a percentage](https://extra-resources.techidaily.com/elevate-your-display-with-these-8-macbook-backgrounds/), go to the Home tab and either click the Percent Style button or choose "Percentage" in the Number Style drop-down box.
 
 ![Format CAGR as a percentage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Percentage-ExcelCAGR.png) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As an alternative, you can insert the actual values in the formula instead of the cell references:
 
 =RRI(5,50,400)
@@ -85,12 +70,9 @@ Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube
 ![RRI formula with constants instead of cell references](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/RRIConstants-ExcelCAGR.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
+
 ##  Calculating CAGR With a Forumla
 
  While the RRI function does an excellent job of calculating [the CAGR of an investment](https://www.investopedia.com/terms/c/cagr.asp), you can always do the math by hand or [enter that formula into Excel](https://extra-resources.techidaily.com/2024-approved-crafting-visuals-in-ae-selecting-excellent-plugin-choices/) to double-check the RRI formula result.
@@ -106,8 +88,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Formula to calculate CAGR in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/CAGRFormula-ExcelCAGR.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Microsoft Excel is a solid application for keeping track of investments and [household finances](https://fox-blue.techidaily.com/updated-diving-into-the-depths-with-gopro-hero5-for-2024/). So if you're interested in additional ways it can help you, take a look at [these budget functions](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-pro-5g-phone-that-is-locked-by-drfone-android/) you can use in Excel.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -122,8 +105,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +112,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-capture-to-share-the-art-of-live-360-broadcasting-on-fb/"><u>[New] From Capture to Share The Art of Live 360 Broadcasting on FB</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-digital-deviation-expert-strategies-to-rotate-videos-on-youtube/"><u>[New] In 2024, Digital Deviation Expert Strategies to Rotate Videos on YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-screen-saver-successes-a-video-showcase-evaluation-for-2024/"><u>[New] Screen Saver Successes - A Video Showcase Evaluation for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-access-full-range-of-groups-shared-media/"><u>[Updated] How to Access Full Range of Group's Shared Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-troubleshoot-and-correct-error-0x800f0831-on-pc/"><u>Easy Solutions to Troubleshoot and Correct Error 0X800F0831 on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-unresponsive-touchpad-issues/"><u>Effective Solutions for Resolving Unresponsive Touchpad Issues</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explaining-methods-to-encourage-social-sharing-of-the-guide-thereby-increasing-its-reach-and-improving-seo-metrics/"><u>Explaining Methods to Encourage Social Sharing of the Guide, Thereby Increasing Its Reach and Improving SEO Metrics.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-minecraft-crashes-caused-by-faulty-graphics-drivers-in-windows/"><u>How to Fix Minecraft Crashes Caused by Faulty Graphics Drivers in Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-poco-m6-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Poco M6 5G FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-minecraft-lan-play-hurdles-expert-tips-and-tricks-for-smooth-gaming/"><u>Overcoming Minecraft LAN Play Hurdles: Expert Tips and Tricks for Smooth Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackle-laptop-screen-malfunctions-white-screen-error-fixes/"><u>Tackle Laptop Screen Malfunctions: White Screen Error Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-balance-of-affordability-and-function-in-tp-link-archer-c50-wireless-router-review/"><u>The Balance of Affordability and Function in TP-Link Archer C50 Wireless Router Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-solve-ps4-mic-problems-with-these-expert-tips/"><u>Troubleshoot and Solve PS4 Mic Problems with These Expert Tips</u></a></li>
+</ul></div>
 

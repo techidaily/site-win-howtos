@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing High Resource Usage by MsMpEng.exe in Windows 10
-date: 2025-01-18T18:14:55.472Z
-updated: 2025-01-19T20:08:57.743Z
+date: 2025-01-18T17:17:36.739Z
+updated: 2025-01-25T18:23:09.183Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Windows 10 Bluetooth missing?
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -72,13 +72,25 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -87,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
@@ -105,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -140,20 +148,12 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -175,20 +175,18 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-basic-routines-preserving-google-voice-conversations/"><u>[New] Basic Routines Preserving Google Voice Conversations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-8-free-online-havens-for-3d-text-psdfiles/"><u>[New] Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-expert-analysis-of-zooms-best-audio-to-text-software-options-freesubscription-for-2024/"><u>[Updated] Expert Analysis of Zoom's Best Audio to Text Software Options (Free/Subscription) for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-propel-your-youtube-presence-with-google-analytics-skills-for-2024/"><u>[Updated] Propel Your YouTube Presence with Google Analytics Skills for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/boost-site-traffic-with-cookiebot-technology-integration/"><u>Boost Site Traffic with Cookiebot Technology Integration</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/building-brands-and-bonds-on-instagram-steps-to-reach-a-thousand-followers-for-2024/"><u>Building Brands and Bonds on Instagram Steps to Reach a Thousand Followers for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-thawing-your-frozen-macbook-air/"><u>Complete Guide: Thawing Your Frozen MacBook Air</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-mouses-right-click-functionality-issues-in-windows-11/"><u>Fixing Your Mouse's Right Click Functionality Issues in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-device-not-found-message-with-code-24-in-windows-operating-systems/"><u>How to Fix the 'Device Not Found' Message with Code 24 in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-windows-1nce-it-starts-restarting-randomly/"><u>How to Fix Your Windows 1Nce It Starts Restarting Randomly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-0x800705b4-error-during-windows-11-updates/"><u>How to Overcome the Persistent 0X800705b4 Error During Windows 11 Updates</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-tecno-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-exploring-m1-capabilities-apples-laptop-dilemma/"><u>In 2024, Exploring M1 Capabilities Apple's Laptop Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-connection-woes-how-to-establish-a-bond-with-your-xbox-one-gaming-peripheral/"><u>Mastering Connection Woes: How to Establish a Bond with Your Xbox One Gaming Peripheral</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-unable-to-locate-new-patches/"><u>Troubleshooting Tips for Windows Unable to Locate New Patches</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-vivavideo-unpacked-a-comprehensive-overview/"><u>[New] 2024 Approved VivaVideo Unpacked A Comprehensive Overview</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-compreeved-list-of-premium-androidiphone-slow-motion-video-tools/"><u>2024 Approved Compreeved List of Premium Android/iPhone Slow Motion Video Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-x50-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726226448977-swf-mp4-movavi/"><u>网上免费SWF MP4格式转换 - 亲身体验Movavi专业转换器杰出效果</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambiar-archivos-de-video-avi-a-formato-flv-sin-coste-mediante-herramientas-online/"><u>Cambiar Archivos De Video AVI a Formato FLV Sin Coste Mediante Herramientas Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-swf-videobestanden-in-wav-format-beheren-professioneel-konverteren-met-movavi/"><u>Gratuit SWF-Videobestanden in WAV Format Beheren: Professioneel Konverteren Met Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-imagens-do-formato-cr2-para-png-com-o-movavi/"><u>Gratuito Online: Converter De Imagens Do Formato CR2 Para PNG Com O Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-note-30-vip-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Note 30 VIP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-choreographed-insta-videos-with-a-musical-backdrop/"><u>In 2024, Choreographed Insta-Videos with a Musical Backdrop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/os-melhores-codificadores-de-video-livres-descobertas-suas-16-maiores-ferramentas-inclui-versao-premium/"><u>Os Melhores Codificadores De Vídeo Livres: Descobertas Suas 16 Maiores Ferramentas [Inclui Versão Premium]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scam-suspicions-surrounding-truthcoin/"><u>Scam Suspicions Surrounding TruthCoin</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-methods-to-enhance-image-dissolution-techniques/"><u>Top 6 Methods to Enhance Image Dissolution Techniques</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-top-18-universal-mkv-players-for-cross-platform-use-on-mac-windows-11-ios-and-android-devices/"><u>Ultimate Guide: Top 18 Universal MKV Players for Cross-Platform Use on Mac, Windows 11, iOS and Android Devices</u></a></li>
 </ul></div>
 

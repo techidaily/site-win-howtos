@@ -1,7 +1,7 @@
 ---
 title: "Conquer Constant Buffering: Essential Fixes for Stalled Valorant Launch"
-date: 2024-08-23T14:10:40.531Z
-updated: 2024-08-24T14:10:40.531Z
+date: 2025-01-20T18:26:38.914Z
+updated: 2025-01-25T17:58:20.157Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for LiveKernelEvent with Code 144 error
 
  You don’t have to try all the following methods: simply work your way down the list until you find the one that does the trick to fix the LiveKernelEvent 144 error for you.
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update graphics card driver
 
  The LiveKernelEvent 144 error is, in many cases, related to a faulty or missing graphics card driver. So making sure that you have the latest and the correct graphics card driver installed is one of the first things you should do.
@@ -51,12 +59,25 @@ thumbnail: https://thmb.techidaily.com/bcabaab591bfcab705d7b78fa9328071af132a2f5
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -70,9 +91,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -92,6 +110,10 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check USB peripherals
 
  If the LiveKernelEvent 144 error is seen with a blue screen of death error, then it should relate to your USB devices. To see if this is your case, you can do the following:
@@ -105,19 +127,11 @@ To do so, first visit the website of your GPU manufacturer:
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 8. Restart your computer afterward.
 9. Then plug the USB devices back into your computer one by one, preferably into the USB outputs on your computer rather than USB hubs or docks.
 10. Pay extra attention to any computer glitches you notice with your computer after plugging each USB device back in.
@@ -136,9 +150,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update your computer BIOS and system firmware
 
  Please note that wrongly updating BIOS could cause server computer problems, even brick the computer in some extreme cases. So please do not attempt the BIOS update if you’re not confident in doing it.
@@ -149,9 +160,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Repair damaged system files
 
 **Corrupted or damaged system files** could also relate to problems like LiveKernelEvent with code 144 error. By repairing the core Windows system files, it may resolve conflicts, missing DLL issues, registry errors, and other problems that contribute to the instability of your computer performance. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process by scanning system files and replacing corrupted ones.
@@ -160,12 +168,13 @@ The powerful video editing program for your Windows PC</a>
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  (Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) ! )
@@ -174,9 +183,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Consider a system reinstall
 
  If the LiveKernelEvent with code 144 error still remains after all the above, the next thing you should consider is a Windows reinstall, given the time and energy spent already.
@@ -190,8 +196,9 @@ Then see if the LiveKernelEvent 144 error is still seen.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Seek help from a hardware technician
 
  If the LiveKernelEvent with code 144 error remains even after a system reinstallation, it’s without a doubt that the problem is on the hardware front. This is what a system reset or reinstallation does: it wipes out all software incompatibilities and problems.
@@ -210,8 +217,6 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +224,24 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-seamless-transition-from-tv-to-facebook-lives/"><u>2024 Approved Seamless Transition From TV to Facebook Lives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726222900610-flvwav-movavi/"><u>免費在線FLV成WAV格式 - Movavi的高效轉換器解決方案</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726225747740-m2ts-movavi/"><u>無料在線 M2TS文件傳輸 - Movavi 換行程式</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/opus-flac-movavi/"><u>線上免費 OPUS FLAC 轉換服務 - 利用 Movavi 工具改編音效</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-review-of-the-keychron-qn-pro-wireless-mechanical-keyboard-robust-and-intuitive-full-size-performance/"><u>Comprehensive Review of the Keychron Qn Pro Wireless Mechanical Keyboard: Robust & Intuitive Full-Size Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-libre-y-gratuita-de-musica-flac-a-video-wmv-en-linea-una-guia-paso-por-paso-con-movavi/"><u>Conversión Libre Y Gratuita De Música FLAC a Vídeo WMV en Línea: Una Guía Paso Por Paso Con Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/efficient-techniques-for-removing-auto-selected-podcasts-from-spotify/"><u>Efficient Techniques for Removing Auto-Selected Podcasts From Spotify</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuiti-convertitori-mp4-a-jpg-guida-passionevole-di-conversione-3gpp-in-mpeg-con-movavi/"><u>Gratuiti Convertitori MP4 a JPG: Guida Passionevole Di Conversione 3GPP in MPEG Con Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-poco-m6-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Poco M6 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-trouble-free-solution-convert-your-mkv-files-without-cost/"><u>Movavi's Trouble-Free Solution: Convert Your MKV Files Without Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-kostenloosere-aac-en-mpeg-converteer-tool-movavi/"><u>Online Kostenloosere AAC-en-MPEG Converteer Tool - Movavi</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-instagram-reel-error/"><u>Repairing Instagram Reel Error</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/seamless-integration-using-your-switch-pro-controller-to-dominate-on-steam/"><u>Seamless Integration Using Your Switch Pro Controller to Dominate on Steam</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/telegram-for-newcomers-how-to-make-your-advertising-stand-out/"><u>Telegram for Newcomers How to Make Your Advertising Stand Out</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/arns-more-in-the-video-market-dailymovement-vs-youtube-for-2024/"><u>Who Earns More in the Video Market? DailyMovement Vs YouTube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tod/"><u>오피스에서 무세공 TOD 변환 - 모바이브</u></a></li>
+</ul></div>
 

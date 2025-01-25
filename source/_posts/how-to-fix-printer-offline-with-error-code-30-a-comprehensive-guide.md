@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Printer Offline with Error Code -30: A Comprehensive Guide"
-date: 2024-08-23T14:11:05.614Z
-updated: 2024-08-24T14:11:05.614Z
+date: 2025-01-23T16:24:45.804Z
+updated: 2025-01-25T18:08:00.480Z
 tags:
   - win11
   - win10
@@ -42,18 +42,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -67,12 +71,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -81,21 +89,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -111,14 +113,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -133,8 +134,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +141,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-free-picture-quality-enhancement-techniques/"><u>[New] 2024 Approved Mastering Free Picture Quality Enhancement Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-social-media-smarter-elevating-your-fb-page-ranking/"><u>[Updated] In 2024, Social Media Smarter Elevating Your FB Page Ranking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-setting-up-windows-11-for-automatic-hdr-activation/"><u>[Updated] Setting Up Windows 11 for Automatic HDR Activation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-techniques-to-enhance-your-video-gaming-archive/"><u>[Updated] Techniques to Enhance Your Video Gaming Archive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battleye-service-now-running-steps-to-successfully-configure-your-anticheat-protection/"><u>BattlEye Service Now Running: Steps to Successfully Configure Your Anticheat Protection</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mac-mp4-cutter-apps-enhance-video-editing/"><u>Best Mac MP4 Cutter Apps Enhance Video Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-and-correcting-the-frustrating-code-device-manager-error-in-windows-os/"><u>Bypassing and Correcting the Frustrating Code 지정 설정 'Device Manager' Error in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcoming-the-challenge-of-error-code-31-in-windows-systems/"><u>Comprehensive Guide: Overcoming the Challenge of Error Code 31 in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207663049-destiny-the-second-server-problems-heres-how-to-resolve-them-efficiently/"><u>Destiny the Second Server Problems? Here's How to Resolve Them Efficiently!</u></a></li>
+<li><a href="https://win-docs.techidaily.com/die-effizientesten-methoden-zum-kostenlosen-iphone-musik-upload-ohne-itunes/"><u>Die Effizientesten Methoden Zum Kostenlosen iPhone Musik-Upload Ohne iTunes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-tp-links-av2n00-powerline-adapter-impressive-throughput-compromised-by-substandard-appearance/"><u>Evaluating TP-Link's AV2n00 Powerline Adapter: Impressive Throughput Compromised by Substandard Appearance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-when-your-file-explorer-freezes-on-windows-11/"><u>Expert Solutions for When Your File Explorer Freezes on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-bulk-video-import-on-tiktok/"><u>In 2024, Mastering the Art of Bulk Video Import on TikTok</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-kernelbasedll-crashes-in-no-time-simple-fix-guide/"><u>Resolve KernelBase.dll Crashes in No Time - Simple Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-speedy-way-to-rejuvenate-your-pc-expert-tricks-for-cleanly-installing-windows-11/"><u>The Speedy Way to Rejuvenate Your PC: Expert Tricks for Cleanly Installing Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-80244019-update-error-diagnosis-and-effective-resolution-methods-unveiled/"><u>Windows 80244019 Update Error: Diagnosis and Effective Resolution Methods Unveiled</u></a></li>
+</ul></div>
 

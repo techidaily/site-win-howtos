@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Non-Charging PS4 Controller: Quick Fixes & Tips"
-date: 2025-01-06T16:25:46.358Z
-updated: 2025-01-13T16:09:46.477Z
+date: 2025-01-18T17:05:31.849Z
+updated: 2025-01-25T16:35:39.901Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fixes to try:**
 
  You don’t have to try them all; just try each one in turn until your battery is charging again.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 5. **[Update the driver for your battery management device](#f5)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -73,23 +65,11 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you turn off the battery charge threshold feature, your battery should be charging.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Perform a power reset on your laptop
 
@@ -101,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 4. Turn on your laptop.
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
@@ -118,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Shut down your laptop and **disconnect the AC adapter** .
 
  5) Remove your laptop battery, **press and hold the power button for 30 seconds** and then release the power button.
@@ -134,11 +114,19 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update the driver for your battery management device
 
@@ -160,9 +148,17 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -173,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -194,24 +194,24 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-youtube-gaming-content-with-key-freefire-hashtags/"><u>[Updated] In 2024, Elevate Your YouTube Gaming Content With Key FreeFire Hashtags</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximizing-impact-with-creative-video-titles/"><u>[Updated] In 2024, Maximizing Impact with Creative Video Titles</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>2024 Approved Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-problems-and-fixes-if-minecraft-wont-launch-on-your-windows-machine/"><u>Common Problems & Fixes if Minecraft Won't Launch on Your Windows Machine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-fixing-the-cache-miss-issue-on-google-chrome/"><u>Comprehensive Guide: Fixing the Cache Miss Issue on Google Chrome</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/discover-the-7-most-wanted-apps-to-boost-your-youtube-live-quality-for-2024/"><u>Discover the 7 Most Wanted Apps to Boost Your YouTube LIVE Quality for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/end-stage-say-goodbye-to-screen-flashes-on-win11/"><u>End Stage: Say Goodbye to Screen Flashes on Win11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/full-feature-dissection-the-sony-fdr-x1000-videographer/"><u>Full Feature Dissection - The Sony FDR-X1000 Videographer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-laptops-touchpad-scroll-capability-step-by-step-fixes/"><u>How to Restore Your Laptop's Touchpad Scroll Capability - Step by Step Fixes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/laughter-on-the-go-iphones-for-2024/"><u>Laughter on the Go (iPhones) for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/low-cost-high-risks-9-concerns-with-sub-standard-windows-keys/"><u>Low Cost, High Risks: 9 Concerns with Sub-Standard Windows Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reactivate-your-mouses-right-click-solutions-for-windows-11-users/"><u>Reactivate Your Mouse's Right Click: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-resolving-windows-printer-driver-location-issues/"><u>Solved: Resolving Windows Printer Driver Location Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tech-fix-aligning-refresh-rates-for-optimal-performance-between-computer-and-monitor/"><u>Tech Fix: Aligning Refresh Rates for Optimal Performance Between Computer and Monitor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-walkthrough-to-eliminate-nier-automata-pc-stalling-episodes/"><u>Ultimate Walkthrough to Eliminate Nier Automata PC Stalling Episodes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unreal-engine-on-alert-with-d3d-devices-vanishing/"><u>Unreal Engine on Alert with D3D Devices Vanishing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-download-filmora-13-for-free-professional-video-editing-made-easy/"><u>Updated In 2024, Download Filmora 13 for Free Professional Video Editing Made Easy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-users-guide-comprehensive-fix-for-keyboard-input-latency/"><u>Windows 11 Users Guide: Comprehensive Fix for Keyboard Input Latency</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-precision-in-photograph-preservation-phone-to-snapchat-guide/"><u>[New] 2024 Approved Precision in Photograph Preservation Phone to Snapchat Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-experts-picks-top-10-budget-friendly-call-apps/"><u>[New] Expert's Picks Top 10 Budget-Friendly Call Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hitching-your-video-trailers-to-youtube-success/"><u>[Updated] 2024 Approved Hitching Your Video Trailers to YouTube Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insights-on-maintaining-engagement-after-algorithm-shifts/"><u>[Updated] In 2024, Insights on Maintaining Engagement After Algorithm Shifts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-identifying-excellent-video-production-experts/"><u>2024 Approved Identifying Excellent Video Production Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/"><u>Building a Brand with Captivating Haul Videos and Edits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-when-your-internet-explorer-crashes-unexpectedly/"><u>Comprehensive Solution for When Your Internet Explorer Crashes Unexpectedly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-methods-to-reduce-ntoskrnlexe-load/"><u>Effective Methods to Reduce Ntoskrnl.exe Load</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-fixes-for-handling-specified-module-could-not-be-found-errors-on-windowsmac/"><u>Efficient Fixes for Handling 'Specified Module Could Not Be Found' Errors on Windows/Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-the-quit-now-popup-a-guide-for-roblox-players/"><u>Eradicating the 'Quit Now' Popup: A Guide for Roblox Players</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-functionality-to-your-dells-defective-usb-interface/"><u>Expert Tips for Restoring Functionality to Your Dell's Defective USB Interface</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-12-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 12 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-launch-failures-a-fix-for-the-opening-failed-geforce-experience-problem/"><u>Overcoming Launch Failures: A Fix for the 'Opening Failed' GeForce Experience Problem</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-equipment-list-for-adventure-documentaries/"><u>Pro Equipment List for Adventure Documentaries</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202368274-steam-game-installation-errors-heres-how-to-fix-them/"><u>Steam Game Installation Errors? Here's How to Fix Them</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-pasting-obstacles-in-windows-11/"><u>Step-by-Step Solutions to Overcome Pasting Obstacles in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-non-functional-dell-laptop-keys/"><u>Troubleshooting Guide: Fixing Non-Functional Dell Laptop Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-fixed-youtube-sound-problem-for-windows-1amousers-and-macos-users/"><u>Troubleshooting the Fixed YouTube Sound Problem for Windows 1amoUsers and MacOS Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Repair 'Error Code 28' In Windows Device Manager
-date: 2025-01-15T16:39:53.142Z
-updated: 2025-01-19T20:37:13.885Z
+date: 2025-01-22T17:00:43.683Z
+updated: 2025-01-25T17:59:33.048Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
@@ -44,7 +40,15 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
@@ -55,6 +59,10 @@ Now try to install Windows Updates now.
  4) Click**Advanced** while**Use a proxy server for you LAN** is ticked on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
 
@@ -67,6 +75,10 @@ Now try to install Windows Updates now.
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -89,7 +101,7 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Now Internet Connection window is open.
@@ -99,6 +111,10 @@ Double-click on your active Network Adapter.
  Then click **Properties**  and double-click on **Internet Protocol Version 4 (TCP/IPv4)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
 
@@ -111,14 +127,10 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
 
@@ -136,19 +148,11 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -169,10 +173,6 @@ If the fixes above didn’t serve you, try this one.
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -195,18 +195,18 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-musicreactionhits-yts-top-10-vids-of-23/"><u>[New] In 2024, The #MusicReactionHits YT's Top 10 Vids of '23</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-behind-the-scenes-of-changing-usernames-on-google-meet/"><u>[Updated] 2024 Approved Behind the Scenes of Changing Usernames on Google Meet</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-bridging-distances-with-easy-to-use-xbox-zooming-for-2024/"><u>[Updated] Bridging Distances with Easy-to-Use Xbox Zooming for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-understanding-youtubes-premier-package/"><u>[Updated] In 2024, Understanding YouTube's Premier Package</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-what-exactly-is-periscope-free-access-and-registration-details/"><u>[Updated] What Exactly Is Periscope? Free Access & Registration Details</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-from-good-to-great-videos-the-20-essential-shortcuts-for-success/"><u>2024 Approved From Good to Great Videos The 20 Essential Shortcuts for Success</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-guard-your-gallery-with-gratis-cloud-and-paid-storage-tiers/"><u>2024 Approved Guard Your Gallery with Gratis Cloud & Paid Storage Tiers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-nubia-red-magic-9-proplus-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nubia Red Magic 9 Pro+ Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transferring-information-from-pdf-documents-into-microsoft-excel/"><u>Step-by-Step Guide: Transferring Information From PDF Documents Into Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-your-data-with-javascript-converting-json-to-ms-excel/"><u>Step-by-Step Guide: Transforming Your Data with JavaScript - Converting JSON to MS Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-applying-excels-future-value-fv-financial-function/"><u>Step-by-Step Tutorial on Applying Excel's Future Value (FV) Financial Function</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-customizing-how-enter-works-in-excel-spreadsheets/"><u>Step-by-Step Tutorial: Customizing How Enter Works in Excel Spreadsheets</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-from-script-to-screen-youtube-video-creation-made-simple/"><u>[New] In 2024, From Script to Screen YouTube Video Creation Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-podcastpathfinder-moving-past-dacast/"><u>[New] PodcastPathfinder Moving Past DaCast</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices/"><u>[Updated] Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726225667681-2024-mov/"><u>2024 MOV 파일 소개: 무엇이고, 구현하는 방법</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargue-la-herramienta-de-conversion-sin-coste-para-transformar-video-3gp-en-clipas-jpg-online/"><u>Descargue La Herramienta De Conversión Sin Coste Para Transformar Video 3GP en Clipas JPG Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-webcam-breakthroughs-ideas-to-try-now/"><u>In 2024, Webcam Breakthroughs Ideas to Try Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-driver-version-for-nvidia-rtx-2060-super-on-windows-11-download-guide-inside/"><u>Newest Driver Version for NVIDIA RTX 2060 Super on Windows 11, Download Guide Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/onziembote-de-sleutelschip-papier-mkb-lidt-uit-vob-tuin-van-gefreezeert-te-lesten-en-profect-zweetlijk-internet-converter-movavi/"><u>ONZIEMBOTE DE SLEUTELSCHIP PAPIER MKB LIDT UIT VOB TUIN VAN GEFREEZEERT TE LESTEN EN PROFECT: ZWEETLIJK INTERNET-CONVERTER - MOVAVI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connectivity-hurdles-in-your-minecraft-lan-gameplay/"><u>Overcoming Connectivity Hurdles in Your Minecraft LAN Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016609912-realtek-hd-audio-management-problems-heres-how-to-solve-them/"><u>Realtek HD Audio Management Problems? Here’s How to Solve Them!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-driver-tweaks-for-windows-7/"><u>Seamless Driver Tweaks for Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-votre-fichier-audio-en-m4a-gratuitement-enligne-guide-video-conversion-avec-movavi/"><u>Transformez Votre Fichier Audio en M4A Gratuitement Enligne - Guide Vidéo Conversion Avec Movavi</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-master-the-art-of-costless-sound-transformation-and-advanced-audio-editing-in-filmora-videos-for-2024/"><u>Updated Master the Art of Costless Sound Transformation and Advanced Audio Editing in Filmora Videos for 2024</u></a></li>
 </ul></div>
 

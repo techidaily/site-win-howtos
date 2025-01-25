@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cell Style Formatting: A Comprehensive Guide to Customizing Your Excel Spreadsheets"
-date: 2024-08-28T00:18:13.598Z
-updated: 2024-08-29T00:18:13.598Z
+date: 2025-01-19T16:48:08.082Z
+updated: 2025-01-25T16:20:04.029Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 ---
 
 ## Mastering Cell Style Formatting: A Comprehensive Guide to Customizing Your Excel Spreadsheets
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![On the Home tab, click Cell Styles and pick one](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/HomeCellStylesPremade-ExcelCellStyles.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create a Custom Cell Style in Excel
 
  While there are plenty of built-in cell styles to pick from, you might prefer to create your own. This lets you choose the exact formats that you want to use, and then reuse that cell style with ease.
@@ -40,12 +41,13 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![Click Cell Styles and pick New Cell Style](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/HomeCellStylesNew-ExcelCellStyles.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Give your custom style a name at the top of the Style box. Then, click "Format."
 
 ![Name the style and click Format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/CreateNewStyle-ExcelCellStyles.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Format Cells window, use the various tabs to select the styles for number, font, border, and fill as you want them to apply. As an example, we'll create My Custom Style and [use a currency number format](https://on-screen-recording.techidaily.com/updated-rapid-reel-sound-mixed-screenshotting/), bold and italic font, an outline border, and a gray, dotted fill pattern.
 
@@ -58,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 ![Uncheck any cell style items](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/MyCustomStyle-ExcelCellStyles.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To use your custom cell style, select the cells, go to the Home tab, and click "Cell Styles." You should see your newly created style at the top of the selection box under Custom. Click to apply it to your cells.
 
 ![Uncheck any cell style items](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/MyCustomStyle-ExcelCellStyles.png) 
@@ -67,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  A cell style that you create is available in all your spreadsheets, but only in the Excel workbook where you create it.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Edit a Cell Style
 
  If you want to make changes to a custom cell style that you created or even to a premade style, head back to the Home tab. Click "Cell Styles," right-click the style that you want to edit, and pick "Modify."
@@ -79,14 +83,15 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![Edited custom cell style in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/EditedCustomStyle-ExcelCellStyles.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also delete a custom style that you created by choosing "Delete" instead of "Modify" in the shortcut menu.
 
 ![Right-click and pick Delete](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/DeleteCustomStyle-ExcelCellStyles.png) 
 
  When you've perfected your custom look, it's easy to [share cell styles across workbooks](https://common-error.techidaily.com/windows-11-how-to-fix-unresponsive-keyboard-lag-problems-successfully/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove a Cell Style
 
@@ -96,9 +101,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 ![Click Cell Styles and pick Normal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/HomeCellStylesNormal-ExcelCellStyles.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  Make your spreadsheet's appearance attractive and consistent with premade or custom cell styles in Microsoft Excel!
 
 Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](https://extra-information.techidaily.com/in-2024-chic-coverage-for-your-portable-screen/)
@@ -109,8 +111,6 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +118,21 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-why-no-sound-the-twitter-video-amplification-guide-for-2024/"><u>[New] Why No Sound? The Twitter Video Amplification Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-mastering-the-art-of-extracting-fb-gifs-for-all-platforms/"><u>[Updated] 2024 Approved Mastering the Art of Extracting FB GIFs for All Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-techniques-for-flawless-distance-audio-capture/"><u>[Updated] In 2024, Top Techniques for Flawless Distance Audio Capture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209509763-corsair-hs50-headset-mic-errors-learn-how-to-fix-it-and-restore-sound/"><u>Corsair HS50 Headset Mic Errors? Learn How to Fix It and Restore Sound!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-cinematic-projects-utilizing-movie-maker-on-windows-8-pcs-for-2024/"><u>Crafting Cinematic Projects Utilizing Movie Maker on Windows 8 PCs for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unresponsive-fn-key-problems-on-your-device/"><u>How to Resolve Unresponsive Fn Key Problems on Your Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/humour-haven-strategies-for-parody-video-creation-for-2024/"><u>Humour Haven Strategies for Parody Video Creation for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-year-updated-lg-360-full-review-insights-for-2024/"><u>New Year, Updated LG 360 Full Review Insights for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-missing-taskbar-elements-on-windows-10-essential-guide-to-reappearing-icons-and-tools/"><u>Restore Missing Taskbar Elements on Windows 10 – Essential Guide to Reappearing Icons & Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/running-advanced-ai-on-windows-devices/"><u>Running Advanced AI on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-steps-to-launch-wordpad-on-windows/"><u>Seamless Steps to Launch WordPad on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass ZTE Nubia Flip 5G FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205730238-touchpad-not-scrolling-heres-how-to-get-it-working-again/"><u>Touchpad Not Scrolling? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restoring-integrity-of-windows-1011-os-files/"><u>Troubleshooting Tips: Restoring Integrity of Windows 10/11 OS Files</u></a></li>
+</ul></div>
 

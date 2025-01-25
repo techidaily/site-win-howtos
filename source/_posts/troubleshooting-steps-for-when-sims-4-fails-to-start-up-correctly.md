@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for When Sims 4 Fails to Start Up Correctly
-date: 2024-08-28T00:20:52.896Z
-updated: 2024-08-29T00:20:52.896Z
+date: 2025-01-24T17:55:50.447Z
+updated: 2025-01-25T16:48:55.575Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the power settings
 
  If your power settings are configured to sleep in a short time, for example, 5 minutes, you’ll experience the computer keeps going to sleep issue. To fix the problem, the first thing to do is check the power settings, and change the settings if necessary. To do so:
@@ -36,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 2. Type**control panel** and press Enter.  
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 3. **View by** **Large icons** , and click **Power Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1370b5c7879.jpg)
 4. Click**Change when the computer sleeps** in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13709ea5614.jpg)
@@ -43,8 +52,18 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
  4a) Change the**Turn off the display** setting to whatever value you desire. You don’t have to set it to Never if you don’t want to.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137143ae4bb.jpg)  
  4b) Change the**Put the computer to sleep** setting to whatever value you desire. It’s recommended to set it to**Never** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1371d25d798.jpg)
 6. Click**Save changes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Check to see if the computer still keeps going to sleep.
 
 ---
@@ -61,6 +80,11 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
@@ -79,14 +103,13 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 2. Type**lock screen settings** in the search bar and select**Lock screen settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -103,9 +126,6 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
  If the above solutions don’t work for you, you can try to set the System unattended sleep timeout to a longer time. The option is invisible in Windows by default. You need to edit the registry to make it visible first, then you can reset the period.
@@ -118,14 +138,16 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
@@ -138,27 +160,18 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Check to see if the computer keeps going to sleep.
 
 ---
@@ -173,8 +186,6 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +193,23 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-zoom-in-on-subject-scrub-background-cleanly/"><u>[Updated] Zoom In on Subject, Scrub Background Cleanly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5pig5yop44o76zplusz5qw944gu5bcc6zaa55so6kqe6l6e5yw444cn/"><u>「映像・音楽の専門用語辞典」</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-zoom-video-enhancement-playbook/"><u>2024 Approved The Ultimate Zoom Video Enhancement Playbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030045799-isovob/"><u>高画質なままISOからVOB変換：最適な方法とコツ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/atracmp3atracmp3/"><u>ATRAC形式からMP3への効率的な変換テクニック「大量ATRACファイルをMP3にする方法」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beyond-vlc-exploring-other-options-for-changing-mp4-videos-into-mov-format/"><u>Beyond VLC: Exploring Other Options for Changing MP4 Videos Into MOV Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bulk-conversion-guide-transforming-multiple-mkv-files-into-mp4-format/"><u>Bulk Conversion Guide: Transforming Multiple MKV Files Into MP4 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-overcoming-quicktimes-avi-compatibility-issues-across-mac-and-pc-platforms/"><u>Comprehensive Guide to Overcoming QuickTime's AVI Compatibility Issues Across Mac and PC Platforms</u></a></li>
+<li><a href="https://discover-able.techidaily.com/high-definition-forest-scenes-hd-wallpapers-backgrounds-and-images-by-yl-computing-solutions/"><u>High-Definition Forest Scenes: HD WALLPAPERS, BACKGROUNDS & IMAGES by YL Computing Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-find-n3-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Find N3? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/le-top-8-app-gratuite-per-creare-dissegnini-dalle-tue-fotografie/"><u>Le Top 8 App Gratuite per Creare Dissegnini Dalle Tue Fotografie</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-shifts-potential-realignment-in-the-artificial-intelligence-and-data-science-sector/"><u>Navigating the Shifts: Potential Realignment in the Artificial Intelligence & Data Science Sector</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-dns-flush-techniques-for-win11-devices/"><u>Rapid DNS Flush Techniques for Win11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/successfully-handling-ios-image-import-failures-into-windows-11-pcs/"><u>Successfully Handling iOS Image Import Failures Into Windows 11 PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029612744-and/"><u>ビデオトリミング・カットエディティング - 冗長セクション排除&編集技術</u></a></li>
+</ul></div>
 

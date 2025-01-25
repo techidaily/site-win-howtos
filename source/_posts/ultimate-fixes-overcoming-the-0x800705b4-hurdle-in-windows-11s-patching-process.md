@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Fixes: Overcoming the 0X800705b4 Hurdle in Windows 11'S Patching Process"
-date: 2024-08-28T00:23:12.672Z
-updated: 2024-08-29T00:23:12.672Z
+date: 2025-01-19T16:44:11.194Z
+updated: 2025-01-25T16:40:30.696Z
 tags:
   - win11
   - win10
@@ -30,12 +30,21 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Run Windows Update troubleshooter**
 
 This is the quickest and easiest fix to try when you’re seeing the error code **0xc1900208**. Windows Update troubleshooter is a built-in tool in Windows operating system that can automatically diagnose and resolve any issues regarding Windows Update. Follow the instructions below to run Windows Update troubleshooter:
 
 1. On your keyboard, press**the Windows logo key** and type**troubleshoot** . In the list of search results, select **Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap392-1.png)
 2. In the pop-up window, select**Windows Update** and click**Run the troubleshooter** . You’ll be prompted for permission. Click**Yes** to run**Windows Update troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap393.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
 
@@ -45,11 +54,12 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 
 1. On your keyboard, press **the Windows Logo key**   and **R**   at the same time to open the Run dialog, then type **services.msc** and press **Enter**   to open the Services window.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap396.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
-3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
 4. **Delete** all the files in the folder **DataStore** .  
@@ -58,15 +68,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.**`C:\Windows\SoftwareDistribution\Download`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. **Delete** all the files in the folder   **Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap401.png)  
  When all the files are deleted, you shall see “This folder is empty”.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Perform a Windows update again. If it still doesn’t work, try the next fix.
 
 ### **Fix 3: Run the DISM tool**
@@ -75,14 +79,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 1. On your keyboard, press **the Windows Logo Key**  and **R**  at the same time to open the Run dialog. Type **cmd** and then press **Ctrl** , **Shift** , and **Enter** on your keyboard   at the same time to **run Command Prompt as administrator** . You will be prompted for permission. Click **Yes**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap402.png)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    1. **Dism /Online /Cleanup-Image /ScanHealth**  
     When you run command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap403.png)  
     It may take several minutes for this command operation to be completed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    2. **Dism /Online /Cleanup-Image /CheckHealth**  
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
@@ -91,24 +101,25 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
     The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Running System File Checker**
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. When you see the error code 0xc1900208, it may be caused by some corruption error. Running System File Checker may help you resolve this issue. Here is how to do it:
 
 1. On your keyboard, press **the Windows Logo Key**  and then type **cmd**  in the search box. When you see **Command Prompt**  in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **OK**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap407.png)
 2. On your keyboard, type the following command and press **Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **sfc /scannow**  
  It may take some time for the command operation to be completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
@@ -116,8 +127,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
 
  You can try downloading the updates you failed to install from[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx)  and install them manually. Here is how to do it:
@@ -127,23 +139,19 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 3. Before you download the update, follow the instructions below to view your system type:  
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
 6. In the list of search results, select right update for your operating system and click **Download** .  
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
 
 ### **Pro tip: Want us to fix the problem for you?**
@@ -163,8 +171,6 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +178,21 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023s-leading-social-media-film-downloads-no-8/"><u>[New] In 2024, 2023'S Leading Social Media Film Downloads - No. 8</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-live-photos-to-videos-a-cinematic-experience/"><u>[New] Live Photos to Videos A Cinematic Experience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-spectral-photography-takes-a-quantum-leap-with-blade-4k/"><u>[Updated] In 2024, Spectral Photography Takes a Quantum Leap with Blade 4K</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-editors-playbook-essential-strategies-for-youtube-video-crafting/"><u>2024 Approved The Editor's Playbook Essential Strategies for Youtube Video Crafting</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-airplay-enabled-speakers-of-the-year-seamless-music-streaming-from-your-apple-devices/"><u>Best AirPlay-Enabled Speakers of the Year: Seamless Music Streaming From Your Apple Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/execution-halt-no-coding-permitted/"><u>Execution Halt: No Coding Permitted</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-v29e-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo V29e Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incorporate-branding-if-relevant-if-brand-recognition-is-important-eg-a-well-known-tech-blog-consider-including-it-subtly-within-the-title-as-long-as-it-doe79/"><u>Incorporate Branding if Relevant: If Brand Recognition Is Important (E.g., a Well-Known Tech Blog), Consider Including It Subtly Within the Title, as Long as It Doesn't Detract From the Primary Keywords or Message.</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-hunt-for-marvels-space-adventure-ps5/"><u>Mastering The Hunt for Marvel's Space Adventure PS5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-tips-navigating-and-using-file-explorer-on-windows-11-seamlessly/"><u>Quick Tips: Navigating and Using File Explorer on Windows 11 Seamlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snapchat-account-recovery-process-explained-in-simple-steps/"><u>Snapchat Account Recovery Process Explained in Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-logitech-g930-sound-cutting-problem-with-these-simple-tips/"><u>Solve Your Logitech G930 Sound Cutting Problem with These Simple Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-keyboard-issues-how-to-repair-unresponsive-left-right-and-updown-arrows/"><u>Solving Keyboard Issues: How to Repair Unresponsive Left, Right and Up/Down Arrows!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-iphone-16s-latest-upgrade-the-revolutionary-new-camera-button-exclusive-reviews-and-analysis/"><u>Unveiling iPhone 16'S Latest Upgrade: The Revolutionary New Camera Button | Exclusive Reviews and Analysis</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Keyboard Numbers Not Working"
-date: 2024-08-28T00:22:13.218Z
-updated: 2024-08-29T00:22:13.218Z
+date: 2025-01-21T17:51:46.068Z
+updated: 2025-01-25T16:28:30.317Z
 tags:
   - win11
   - win10
@@ -37,10 +37,20 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
 #### On Windows 11
@@ -49,32 +59,32 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 2. Click**Accessibility** on the left penal, then click**Mouse** in the Interaction section on the right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your keyboard driver
 
  A missing or outdated keyboard driver may also stop keyboard numbers from working.
@@ -91,20 +101,9 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -119,8 +118,9 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check hardware issues
 
  If you’ve tried all of the steps above and the number keys on your keyboard are still not working, it’s likely that the keyboard is defective. You can connect your keyboard to a different PC to check hardware issues.
@@ -137,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +144,24 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-less-is-more-the-best-video-url-reducers-revealed/"><u>[New] 2024 Approved Less Is More The Best Video URL Reducers Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-comprehensive-list-of-high-quality-game-entrance-makers-online-for-2024/"><u>[New] Comprehensive List of High-Quality Game Entrance Makers Online for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-interest-to-action-formulating-video-topics-with-google-trends/"><u>[New] In 2024, From Interest to Action Formulating Video Topics with Google Trends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/4kultra-hd/"><u>4K/Ultra HD動画再生に困難あり？ここでは、トラブルシューティング方法を詳しくご紹介</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029547372-bandcamp/"><u>Bandcampで聴ける全曲無料音源ダウンロード手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028924657-dvdwindows-11/"><u>DVDコピーに最適:Windows 11で簡単無料取り込み方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-user-experience-with-our-cookiebot-technology-tailored-content-and-insights-for-seo-growth/"><u>Enhance User Experience with Our Cookiebot Technology - Tailored Content & Insights for SEO Growth</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhance-your-wireless-domain-with-netgears-ex6200-range-expander-a-comprehensive-review-of-the-ac1200-revolution/"><u>Enhance Your Wireless Domain with Netgear's EX6200 Range Expander - A Comprehensive Review of the AC1200 Revolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030478625-flv/"><u>FLVファイルの編集手順：切り取り・回転・クロッピング方法</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-12-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 12 iCloud Bypass</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-nubia-z50s-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Nubia Z50S Pro Phone?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-k11-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo K11 5G Phone Network-Ready</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027928878-windows-1011/"><u>Windows 10/11 ユーザ向けの効果的な動画コンテンツ圧縮戦略: 低容量化方法と苦境を切り開く代替手段</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029653442-wonderfox-dvd-video-converter/"><u>WonderFox DVD Video Converterの手順：スマホユーザー向けダウンロードガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026901890-youtube/"><u>YouTubeビデオのブラウザからダウンロード手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029025353-youtube/"><u>YouTubeを表示せずに視聴するための代替手段</u></a></li>
+</ul></div>
 

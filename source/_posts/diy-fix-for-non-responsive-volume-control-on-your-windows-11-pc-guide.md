@@ -1,7 +1,7 @@
 ---
 title: DIY Fix for Non-Responsive Volume Control on Your Windows 11 PC [GUIDE]
-date: 2024-08-28T00:23:58.023Z
-updated: 2024-08-29T00:23:58.023Z
+date: 2025-01-24T16:41:15.587Z
+updated: 2025-01-25T17:15:31.276Z
 tags:
   - win11
   - win10
@@ -59,14 +59,26 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
-2. Locate and double-click on**Windows Audio** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
@@ -79,26 +91,24 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 4: Run the Playing Audio troubleshooter
 
  If all else fails, then you might have to run the built-in audio troubleshooter in our Windows to solve the problem.
@@ -108,14 +118,13 @@ Here’s how:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -131,8 +140,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +147,23 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/10-premier-photo-frame-apps-for-2024/"><u>10 Premier Photo Frame Apps for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-ultimate-netgear-routers-of-2024-on-our-list/"><u>Discover the Ultimate Netgear Routers of 2024 on Our List</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships/"><u>In 2024, The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/managing-auto-start-issues-in-windows-11-fixes-for-unexpected-power-ons/"><u>Managing Auto-Start Issues in Windows 11: Fixes for Unexpected Power-Ons</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagrams-latest-trends-reels-and-stories-for-2024/"><u>Mastering Instagram's Latest Trends Reels and Stories for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-invisible-bluetooth-hardware-issues-in-device-manager-on-pc/"><u>Resolving Invisible Bluetooth Hardware Issues in Device Manager on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-7-sluggish-booting-problems-a-step-by-step-guide/"><u>Solving Windows 7 Sluggish Booting Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-gaming-troubles-tips-for-resolving-installupdate-errors-successfully/"><u>Steam Gaming Troubles: Tips for Resolving Install/Update Errors Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/struggling-to-pair-your-apple-watch-discover-these-pressent-solutions/"><u>Struggling to Pair Your Apple Watch? Discover These Pressent Solutions!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tecnicas-para-transformar-tu-video-de-3gp-a-wma-gratuito-con-herramientas-on-line-una-guia-facil/"><u>Técnicas Para Transformar Tu Vídeo De 3GP a WMA Gratuito Con Herramientas On-Line: Una Guía Fácil</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-solutions-for-reducing-gpu-load-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Solutions for Reducing GPU Load by the Desktop Window Manager on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-networking-problem-0x800704cf-expert-tips-for-users/"><u>Troubleshooting and Resolving Windows Networking Problem 0X800704cf: Expert Tips for Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fix-non-supported-input-delays-in-monitor-displays/"><u>Troubleshooting: Fix Non-Supported Input Delays in Monitor Displays</u></a></li>
+</ul></div>
 

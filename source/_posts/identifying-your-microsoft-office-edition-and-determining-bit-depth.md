@@ -1,7 +1,7 @@
 ---
 title: Identifying Your Microsoft Office Edition & Determining Bit Depth
-date: 2024-08-28T00:20:00.988Z
-updated: 2024-08-29T00:20:00.988Z
+date: 2025-01-22T18:17:19.281Z
+updated: 2025-01-25T16:17:34.924Z
 tags:
   - excel
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![01_clicking_file_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/01_clicking_file_tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the backstage screen, click “Account” in the list of items on the left.
 
 ![02_clicking_account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/02_clicking_account.png) 
@@ -37,13 +41,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![03_clicking_about_word](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/03_clicking_about_word.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The version and build number are listed at the top of the About dialog box along with either “32-bit” or “64-bit”. Click “OK” to close the dialog box.
 
 ![04_about_word_window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/04_about_word_window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Windows: Office 2010
 
  If the ribbon in your version of Office has tabs with corners that are not quite so sharp, you are likely using Office 2010\. To find out more information about which version of Office 2010 you’re using, click the “File” tab.
@@ -55,22 +60,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![06_clicking_help_2010](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/06_clicking_help_2010.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the right side of the File screen, you’ll see which edition of Office you’re running. Under About Microsoft Word (or other Office program), the exact version and build number is listed, along with whether the program is 32-bit or 64-bit. For even more information, click “Additional Version and Copyright Information”.
 
 ![07_version_info_2010](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/07_version_info_2010.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  You’ll see a dialog box with additional information about the current version of the program and your Product ID towards the bottom. Click “OK” to close the dialog box.
 
 ![08_about_microsoft_word_dialog_2010](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/08_about_microsoft_word_dialog_2010-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Mac: Office 2016 or 2011
 
  If you’re using Office for Mac, open one of the Office programs, such as Word, and click on the Word (or Excel, PowerPoint, etc.) menu. Select “About Word”.
@@ -78,15 +78,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![09_selecting_about_word_mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/09_selecting_about_word_mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The About Word (or Excel, PowerPoint, etc.) dialog box displays, listing the current version number and the build number. If you see Version 15.x, you’re using Office for Mac 2016\. If you see Version 14.x, Office for Mac 2011 is what you’re using.
 
 ![10_about_word_dialog_mac](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/10_about_word_dialog_mac.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the Mac, there is no choice between running a 32-bit or 64-bit version of the operating system, since the OS has been 64-bit for several years. Office for Mac 2011 was only available in a 32-bit version, and Office for Mac 2016 is now only available in a 64-bit version.
 
 <ins class="adsbygoogle"
@@ -95,8 +97,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +104,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-essential-blueprint-for-srt-file-adaptability/"><u>[New] In 2024, The Essential Blueprint for SRT File Adaptability</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pushing-the-envelope-how-srgb-replaces-conventional-rgb/"><u>[New] Pushing the Envelope How Srgb Replaces Conventional Rgb</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-could-not-complete-the-installation-quickly-and-easily/"><u>[Solved] | Windows Could Not Complete The Installation | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>[Updated] Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decreasing-cpu-load-on-windows-systems/"><u>Decreasing CPU Load on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-7-lagging-issue-solutions-for-sudden-crashes-and-locks/"><u>Fixing the Windows 7 Lagging Issue: Solutions for Sudden Crashes & Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-lower-wudfhostexes-impact-on-your-computers-processor-cpu-under-windows-10/"><u>Guide to Lower wudfhost.exe's Impact on Your Computer's Processor (CPU) Under Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-tags-to-achieve-six-figures-in-views/"><u>In 2024, Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-13-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 13 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/reaching-a-plateau-in-social-media-popularity/"><u>Reaching a Plateau in Social Media Popularity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixes-for-non-responsive-google-chrome-browser-issues/"><u>Resolved: Fixes for Non-Responsive Google Chrome Browser Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-error-1053-ensuring-your-services-start-and-run-on-time/"><u>Resolving Error 1053: Ensuring Your Services Start and Run on Time</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975358225-step-by-step-download-of-latest-drivers-for-your-nvidia-quadro-rtx-8000-on-win-10-8-or-7/"><u>Step-by-Step Download of Latest Drivers for Your Nvidia Quadro RTX 8000 on Win 10, 8 or 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-overcoming-unregistered-class-errors-on-windows-11/"><u>Step-by-Step Tutorial: Overcoming Unregistered Class Errors on Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/er-the-best-youtubes-top-10-vr-videos/"><u>Uncover the Best YouTube's Top 10 VR Videos</u></a></li>
+</ul></div>
 

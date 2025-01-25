@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly
-date: 2025-01-18T18:07:10.902Z
-updated: 2025-01-19T20:09:01.908Z
+date: 2025-01-22T17:35:01.384Z
+updated: 2025-01-25T16:11:56.174Z
 tags:
   - win11
   - win10
@@ -43,17 +43,25 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
@@ -77,15 +81,15 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -104,19 +108,15 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Use a different user profile
 
@@ -153,20 +153,22 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-stand-out-in-the-crowd-top-15-innovative-snapchat-posts/"><u>[New] Stand Out in the Crowd Top 15 Innovative Snapchat Posts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-winter-olympics-2022-precision-snowriders-in-the-spotlight-for-2024/"><u>[Updated] Winter Olympics 2022 - Precision Snowriders in the Spotlight for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/automating-the-launch-of-specific-workbooks-at-excels-startup-a-step-by-step-guide/"><u>Automating the Launch of Specific Workbooks at Excel's Startup: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiency-in-action-optimize-your-windows-system-against-high-ums-use/"><u>Efficiency in Action: Optimize Your Windows System Against High UMS Use</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/keep-it-burning-ensuring-an-everlasting-snapchat-connection-for-2024/"><u>Keep It Burning Ensuring an Everlasting Snapchat Connection for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-protecting-your-spreadsheets-how-to-lock-and-unlock-cells-in-excel-easily/"><u>Master the Art of Protecting Your Spreadsheets - How to Lock and Unlock Cells in Excel Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-chart-layering-techniques-for-enhanced-data-visualization-in-excel/"><u>Mastering Chart Layering Techniques for Enhanced Data Visualization in Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/new-microsoft-excel-feature-automatic-image-data-integration-coming-soon-to-windows-users/"><u>New Microsoft Excel Feature: Automatic Image Data Integration Coming Soon to Windows Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-omegle-explained-navigating-free-chat-engagements-with-a-lens-on-security-concerns-for-2024/"><u>New Omegle Explained Navigating Free Chat Engagements with a Lens on Security Concerns for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/sing-your-heart-out-on-karaoquest-premium-karaoke-experience-remote-requests-and-dj-tools-for-free/"><u>Sing Your Heart Out on KaraoQuest: Premium Karaoke Experience, Remote Requests & DJ Tools for Free!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/softening-effects-in-ableton-live-for-2024/"><u>Softening Effects in Ableton Live for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-eliminating-links-from-your-ms-excel-spreadsheet/"><u>Step-by-Step Guide: Eliminating Links From Your MS Excel Spreadsheet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-removing-an-excel-workbooks-locked-password/"><u>Step-by-Step Guide: Removing an Excel Workbook's Locked Password</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-implementing-the-if-formula-successfully-in-excel-spreadsheets/"><u>Ultimate Tutorial on Implementing the IF Formula Successfully in Excel Spreadsheets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y17s-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y17s Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726228091913-mkvm2ts-movavi/"><u>網路直接無成本 MKV到M2TS轉檔 - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-value-alert-top-sony-bravia-selection-undercuts-competitors-frequently-discounted-techradar/"><u>Amazing Value Alert: Top Sony Bravia Selection Undercuts Competitors, Frequently Discounted! | TechRadar</u></a></li>
+<li><a href="https://driver-error.techidaily.com/battleye-service-launch-error-corrected-fixing-driver-load-difficulty-code-1450/"><u>BattlEye Service Launch Error Corrected - Fixing Driver Load Difficulty (Code 1450)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-8-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 8 IMEI Checker</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprendre-le-fichier-bmp-ouvrir-et-utiliser-des-fichiers-bitmap-pour-tous-les-projets/"><u>Comprendre Le Fichier .BMP - Ouvrir Et Utiliser Des Fichiers Bitmap Pour Tous Les Projets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-davi-vers-mp4-par-telechargement-en-ligne-decouvrez-les-techniques-simples-avec-movavi/"><u>Conversion Gratuite D'AVI Vers MP4 Par Téléchargement en Ligne: Découvrez Les Techniques Simples Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-best-27-transcription-applications-expert-insights-from-movavi/"><u>Discover the Best 27 Transcription Applications - Expert Insights From Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-ios-18-enhancements-from-apples-wwdc-2023-how-ai-is-changing-the-game/"><u>Exploring the Latest iOS 18 Enhancements From Apple's WWDC 2023: How AI Is Changing the Game</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/high-definition-recording-reigns-supreme-top-picks-listed-for-2024/"><u>High Definition Recording Reigns Supreme Top Picks Listed for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oneplus-12-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your OnePlus 12</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-iphoneandroid-the-best-slo-mo-camera-app-compilation/"><u>In 2024, Mastering iPhone/Android The Best Slo-Mo Camera App Compilation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/misez-une-conversion-gratuite-flv-a-mpg-en-ligne-utilisation-simple-de-movavi/"><u>Misez Une Conversion Gratuite Flv À Mpg en Ligne - Utilisation Simple De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpegify-your-audio-convert-wav-to-mpeg-quickly-and-without-cost-movavis-guide/"><u>MPEGify Your Audio: Convert WAV to MPEG Quickly and Without Cost - Movavi's Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-capturing-scrollable-content-with-screen-shots-on-mac-16-techniques-explained-by-movavi/"><u>The Ultimate Guide: Capturing Scrollable Content with Screen Shots on Mac - 16 Techniques Explained by Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transforma-tus-imagenes-en-segundo-plano-usando-la-herramienta-editadora-de-movavi-adquirirla-hoy/"><u>Transforma Tus Imágenes en Segundo Plano Usando La Herramienta Editadora De Movavi - Adquirirla Hoy!</u></a></li>
 </ul></div>
 

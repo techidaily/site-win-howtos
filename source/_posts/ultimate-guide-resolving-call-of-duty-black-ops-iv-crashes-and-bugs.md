@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Call of Duty Black Ops IV Crashes & Bugs"
-date: 2024-08-28T00:22:33.991Z
-updated: 2024-08-29T00:22:33.991Z
+date: 2025-01-22T17:19:51.748Z
+updated: 2025-01-25T18:16:15.073Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 ## Ultimate Fix Guide: Say Goodbye to CSGO Freezes & Crashes Fast
 
 **CS:GO crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix CS:GO crashing in Windows
 
@@ -44,9 +48,17 @@ thumbnail: https://thmb.techidaily.com/5cb2e70fe5fc4984663e55071f50818b86ad28c60
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -77,13 +89,14 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-180.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES..** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-177.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 4) Wait until the game cache verification finishes.
 
 5) Close the windows in Steam and exit Steam.
@@ -92,9 +105,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Launch CSGO in -autoconfig or -safe mode
 
  You can also try running CSGO in a different mode to see if the crashing issue disappears. Here we recommend the**\-autoconfig** mode and the**\-safe** mode.
@@ -118,12 +128,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Remove**ANY** launch options currently shown.
 
  5) Type**\-autoconfig** and click**OK** .  
@@ -142,13 +149,14 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  4) Remove**ANY** launch options currently shown.
 
  5) Type**\-safe** and click**OK** .
@@ -172,8 +180,9 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-184.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Launch Steam and re-run the game.
 
 5) Once the installation completes, test if the CSGO crashing issue has been solved:
@@ -183,27 +192,20 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Change fastprox.dll to fastprox.dllold
 
 1. On your keyboard, press**the Windows logo key** and**E** at the same time, then click**View** \>**Options** \>**Change folder and search options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4b228da5a.jpg)
 2. Click the**View** tab and uncheck**the box** before**Hide extensions for known file types** . Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4c03820bb.jpg)
 3. On your keyboard, press**the Windows logo key** and**E** at the same time, then copy & paste **C:\\Windows\\SysWOW64\\wbem** into the address bar and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4db541a75.jpg)
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
 5. Re-launch your game and hope you’re enjoying your game right now.
 
@@ -219,8 +221,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +228,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-audacity-techniques-for-smooth-sound-blending/"><u>[New] Audacity Techniques for Smooth Sound Blending</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-legal-framework-the-fine-print-for-facebook-video-postings/"><u>[Updated] 2024 Approved Legal Framework The Fine Print for Facebook Video Postings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-dive-into-dynamic-youtube-discussions/"><u>2024 Approved Dive Into Dynamic YouTube Discussions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/25-alternatives-to-gpt-for-retail-management-on-mobile-devices/"><u>25 Alternatives to GPT for Retail Management on Mobile Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/access-all-english-movies-for-free-with-simple-steps-on-youtube-and-safe-downloads/"><u>Access All English Movies for Free with Simple Steps on YouTube and Safe Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/appleiphoneavi3/"><u>Appleスマホで楽しむ「iPhone」AVIファイルの魅力!おすすめアプリベスト3ピックアップ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/celebrate-hobbit-day-with-free-online-screening-the-desolation-of-smaug/"><u>Celebrate Hobbit Day with Free Online Screening - The Desolation of Smaug</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991355256-haley-ba-et-al-2n-glyphosate-in-surface-water-a-review-of-occurrence-and-potential-impacts-on-aquatic-ecosystems-environ-monit-assess-1896-401/"><u>Haley BA., Et Al (2N). Glyphosate in Surface Water: A Review of Occurrence and Potential Impacts on Aquatic Ecosystems. Environ Monit Assess, 189(6), 401.</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-speeding-up-vimeo-streams-efficiently/"><u>In 2024, Speeding Up Vimeo Streams Efficiently</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/wie-man-sicher-von-windows-11-zurucksetzt-auf-windows-10-und-dabei-keine-dateien-verliert-du-du-tust-es-auch/"><u>Wie Man Sicher Von Windows 11 Zurücksetzt Auf Windows 10 Und Dabei Keine Dateien Verliert (Du Du Tust Es Auch!)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030248120-youtube-3/"><u>YouTubeで動画音量強化レシピ ベスト3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028110366-5/"><u>スピットライフ無料音楽ダウンロード！5つの最優秀録音ソフトブックメーカー</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028239801-pc/"><u>パーソナライズドデスクのためのPCプログラム：動的な壁紙設定ツール「無料・有料」選び方ガイド</u></a></li>
+</ul></div>
 

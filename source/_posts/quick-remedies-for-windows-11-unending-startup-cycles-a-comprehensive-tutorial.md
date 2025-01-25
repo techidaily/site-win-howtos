@@ -1,7 +1,7 @@
 ---
 title: "Quick Remedies for Windows 11 Unending Startup Cycles: A Comprehensive Tutorial"
-date: 2024-08-28T00:23:30.029Z
-updated: 2024-08-29T00:23:30.029Z
+date: 2025-01-19T17:24:25.412Z
+updated: 2025-01-25T16:20:36.473Z
 tags:
   - win11
   - win10
@@ -49,13 +49,9 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
  You can actually fix the**A media driver your computer needs is missing** error easily and quickly with the solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Re-plug the USB drive
 
  You can try to re-plug the USB drive to fix the problem. Try the steps below:
@@ -70,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
 4) Try to install Windows again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Try another USB port
 
  If re-plugging the USB drive doesn’t work, you can try another USB port:
@@ -82,17 +75,15 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Plug the USB drive into another USB port** . If you have the**USB 2.0 port** with your PC/laptop, try to**plug the USB drive into the USB 2.0 port** .
 
 4) Try to install Windows again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change the settings in BIOS
 
  The problem can also be caused by the wrong configuration in BIOS. So you can change the BIOS settings in startup.
@@ -117,15 +108,16 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  4) Save the settings and try to install Windows again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change the ISO file format
 
  The ISO file faulty can also cause the issue, so you can try to change the ISO file format to solve the issue.
 
  Double check the**extracted setup** from the ISO file. If it is in**NTFS format** , extract the ISO file in**FAT32 format** and use the setup to install Windows again.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Things you should do after trying these methods
 
  As the error message indicated, the media driver is missing in your computer, so you can try to**install the missing drivers** , and**update the outdated drivers** in your computer, in order to improve the computer performance and reduce the chances of the similar issues.
@@ -143,13 +135,18 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a742eeb04a11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
@@ -164,8 +161,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +168,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/eading-software-lineup-8-linux-editing-sleuths/"><u>[New] Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-explore-the-best-8-web-sites-for-accessing-3d-text-psds/"><u>[Updated] 2024 Approved Explore the Best 8 Web Sites for Accessing 3D Text PSDs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/bandicam-for-professionals-unveiling-the-latest-2023-advances/"><u>Bandicam for Professionals Unveiling the Latest 2023 Advances</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-4-irresistible-motivations-why-you-should-upgrade-to-the-latest-ipad-air-insights-from-a-tech-guru/"><u>Discover 4 Irresistible Motivations: Why You Should Upgrade to the Latest iPad Air - Insights From a Tech Guru</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-nord-n30-se-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-bluetooth-to-appear-in-your-computers-device-manager-solutions-and-tips/"><u>Getting Bluetooth to Appear in Your Computer's Device Manager: Solutions & Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/1716171623544-in-2024-mastering-instagrams-latest-trends-reels-and-stories/"><u>In 2024, Mastering Instagram’s Latest Trends Reels & Stories</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211398899-9781960415196-rejected/"><u>Rejected | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-broken-hp-laptop-buttons-with-easy-troubleshooting-steps/"><u>Revive Broken HP Laptop Buttons with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-when-your-igfxem-module-stops-responding/"><u>Solution Steps for When Your Igfxem Module Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-solution-for-when-right-click-stops-working-on-windows-10-computers/"><u>The Definitive Solution for When Right Click Stops Working on Windows 10 Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ffxiv-resolving-incomplete-version-verification-issues/"><u>Troubleshooting FFXIV: Resolving Incomplete Version Verification Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-performance-issues-what-steps-to-take/"><u>Troubleshooting Windows 11 Performance Issues: What Steps to Take</u></a></li>
+</ul></div>
 

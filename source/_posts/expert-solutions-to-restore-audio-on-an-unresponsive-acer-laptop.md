@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions to Restore Audio on an Unresponsive Acer Laptop
-date: 2024-08-28T00:23:28.848Z
-updated: 2024-08-29T00:23:28.848Z
+date: 2025-01-19T16:41:39.407Z
+updated: 2025-01-25T17:11:24.872Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-8.jpg)
 
  Recently, many laptop users have reported that they have an issue with their battery. **When they view their battery information, they notice that their battery is not charging.** If you also run into this issue, don’t worry! we’ve put together some useful fixes to help you resolve this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -60,16 +64,14 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you turn off the battery charge threshold feature, your battery should be charging.
 
 ### Fix 3: Perform a power reset on your laptop
@@ -100,8 +102,9 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Shut down your laptop and **disconnect the AC adapter** .
 
  5) Remove your laptop battery, **press and hold the power button for 30 seconds** and then release the power button.
@@ -115,15 +118,13 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
 ### Fix 5: Update the driver for your battery management device
@@ -147,15 +148,13 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -165,6 +164,10 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -177,8 +180,6 @@ Your battery should then be charging.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +187,24 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-driving-engagement-and-growth-the-role-of-brand-in-youtube-success/"><u>[New] 2024 Approved Driving Engagement and Growth The Role of Brand in YouTube Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-the-cwindowssystem32configsystemprofiledesktop-is-unavailable-error/"><u>[Solved] The C: Windows system32 config systemprofile Desktop Is Unavailable Error</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-efficient-screenshot-and-video-recorder-choice-guide-for-pc-for-2024/"><u>[Updated] Efficient Screenshot & Video Recorder Choice Guide for PC for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ideal-video-capture-apps-for-educators/"><u>[Updated] Ideal Video Capture Apps for Educators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/amplify-engagement-essential-tips-for-tiktok-unbox-videos/"><u>Amplify Engagement Essential Tips for TikTok Unbox Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-fixes-when-windows-10-version-1607-wont-install-properly/"><u>Common Fixes When Windows 10 Version 1607 Won't Install Properly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-erratic-screen-behavior-in-your-windows-11-machine/"><u>How to Stop Erratic Screen Behavior in Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-microsofts-print-to-pdf-problems-in-windows-10-and-11/"><u>How to Troubleshoot and Resolve Microsoft's Print to PDF Problems in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-5-easy-steps-to-record-voice-on-your-windows-11-pc/"><u>In 2024, 5 Easy Steps to Record Voice on Your Windows 11 PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-find-x7-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo Find X7 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-razer-naga-drivers-installation-guide-for-windows-users/"><u>Latest Razer Naga Drivers Installation Guide for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-silent-volume-knobs-on-your-windows-11-pc-a-step-by-step-guide/"><u>Resolving Issues with Silent Volume Knobs on Your Windows 11 PC - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-inactive-windows-update-functionality-on-pcs/"><u>Solution for Inactive Windows Update Functionality on PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-repairing-the-x3daudiodll-file-failure-situations/"><u>The Ultimate Guide to Repairing the X3Daudio.dll File Failure Situations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-trends-in-effective-podcast-naming-for-2024/"><u>Top 10 Trends in Effective Podcast Naming for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-bluetooth-appears-invisible-on-pcs-device-list/"><u>Troubleshooting Guide: Bluetooth Appears Invisible on PC's Device List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-those-directional-keys-on-your-board-a-comprehensive-guide-to-repair/"><u>Unstick Those Directional Keys on Your Board - A Comprehensive Guide to Repair</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solve Non-Responsive Keys on Your HP Notebook with Ease: A Step-by-Step Guide"
-date: 2024-08-28T00:20:56.459Z
-updated: 2024-08-29T00:20:56.459Z
+date: 2025-01-24T17:55:46.859Z
+updated: 2025-01-25T17:23:09.884Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 ## Quick Fixes for Unresponsive Keyboard on Your HP Laptop - Solved
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -62,22 +66,20 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -102,9 +104,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -115,16 +114,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -137,13 +137,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -169,8 +170,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +177,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-conveniently-remove-downloaded-youtube-media-for-lightweight-devices/"><u>[New] In 2024, Conveniently Remove Downloaded YouTube Media for Lightweight Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-pathway-to-prominence-on-youtube-channel-showcase/"><u>2024 Approved The Ultimate Pathway to Prominence on YouTube Channel Showcase</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-ios-1n-and-ipados-17-updates-unveiling-new-capabilities-and-enhancements/"><u>Exploring iOS 1N and iPadOs 17 Updates - Unveiling New Capabilities and Enhancements</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-g22-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia G22</u></a></li>
+<li><a href="https://discover-great.techidaily.com/master-your-computers-applications-how-to-manage-installed-programs-via-the-control-panel-advice-by-yl-software-experts/"><u>Master Your Computer's Applications: How to Manage Installed Programs via the Control Panel – Advice by YL Software Experts</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/restoring-lost-drivers-a-step-by-step-guide-expertise-by-yl-computing/"><u>Restoring Lost Drivers: A Step-by-Step Guide - Expertise by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-converting-vob-files-to-mp3-format-with-no-hassle/"><u>Simple Steps: Converting VOB Files to MP3 Format with No Hassle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-enhancing-video-quality-transforming-240p-content-to-stunning-1080p/"><u>Step-by-Step Tutorial for Enhancing Video Quality: Transforming 240P Content to Stunning 1080P</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-quickly-converting-your-mp3-tracks-to-m4a-format/"><u>Step-by-Step Tutorial on Quickly Converting Your MP3 Tracks to M4A Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-steps-for-setting-up-titanium-kodi-fridge-on-latest-kodi-versions-including-leia-18/"><u>Successful Steps for Setting Up Titanium Kodi Fridge on Latest Kodi Versions Including Leia 18.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-step-by-step-tutorial-on-integrating-subtitles-in-handbrake/"><u>The Ultimate Step-by-Step Tutorial on Integrating Subtitles in HandBrake</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-free-software-convert-wmv-files-into-mp4-format-with-ease/"><u>Top 12 Free Software: Convert WMV Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-techniques-for-effortlessly-downloading-videos-from-firefox/"><u>Top Techniques for Effortlessly Downloading Videos From Firefox</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-6s-plus-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 6s Plus using macOS finder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-is-battlefield-4-quiet-and-how-to-turn-up-the-volume/"><u>Why Is Battlefield 4 Quiet & How to Turn Up the Volume?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surfacehddssddvd/"><u>スパッと解決! Surface上で外付けHDD/SSDを用いたDVD視聴不能問題に対するツール</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Spreadsheet Showdown: Deciding Between Google Sheets and Microsoft Excel for Your Needs"
-date: 2024-08-28T00:18:32.056Z
-updated: 2024-08-29T00:18:32.056Z
+date: 2025-01-24T17:32:23.354Z
+updated: 2025-01-25T16:05:46.276Z
 tags:
   - excel
 categories:
@@ -32,15 +32,16 @@ Close
 
 ![An Excel worksheet with the Formulas tab open and the different formula groups highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/excel-formulas.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Excel also offers advanced functions that Google Sheets doesn't yet have, including the [TAKE function](https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-a2-by-drfone-android/) (lookup and reference), the [GROUPBY and PIVOTBY functions](https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-15-plus-by-drfone-ios/) (data aggregation), and STOCKHISTORY (financial).
 
  There are some advanced data analysis tools at your disposal if you're using Google Sheets through an organization or education edition—Google's Connected Sheets lets you analyze data through BigQuery without the need for .csv exports, but you'll need some training to get used to it.
 
 **Verdict**—Whether you're looking for basic or complex data analysis tools, Excel really is the winner, even if you're using the free Excel for the web version of the program. Excel's dedicated Formulas tab means you can navigate the functions more easily, and its more advanced formulas mean that you can analyze and automate your data more comprehensively.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Data Visualization
 
  Once you've manipulated your data using the functions and formulas available in Excel or Sheets, you might want to present the information in a chart. You can either do this through the Chart option on the Insert tab in either program, or by first [creating a pivot table](https://desktop-recording.techidaily.com/new-apex-10-royale-showdowns-for-2024/) that makes it easier for you to present your chart in more specific and custom ways.
@@ -49,9 +50,6 @@ Close
 
 ![An Excel for the web worksheet with data selected and the Recommended Charts option on the Insert tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/excel-recommended-charts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  If you prefer to use a pivot table, you can do this in both [Excel](https://desktop-recording.techidaily.com/new-apex-10-royale-showdowns-for-2024/) and [Sheets](https://tech-revival.techidaily.com/the-ultimate-list-5-amazing-open-source-ai-image-synthesis-programs/), and both give you the option to choose what is displayed in the columns and rows, whether you apply filters, and what overall totals you want to include.
 
 Close 
@@ -65,13 +63,11 @@ Close
 ![The Insert Chart dialog box in Excel's desktop app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/excel-app-chart-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Verdict**—If you're looking to visualize your data for free, both Excel for the web's and Google Sheets' pivot tables and charts are equally good options. However, if you're looking for more chart options or more table analysis tools, you might consider [subscribing to Microsoft 365](https://location-social.techidaily.com/how-to-change-your-honor-90-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/) for access to the desktop app.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Collaboration
 
  In short, Google Sheets was built for live collaboration. As soon as you [share a Google Sheet with someone else](https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-15-how-to-fix-it-by-drfone-ios/) (providing you give them editing access to the worksheet), you can both work on it at the same time.
@@ -81,18 +77,20 @@ Close
 ![The chat icon in Google Sheets, with an arrow pointing to the chat sidebar that appears when you click the chat icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/google-sheets-chat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Changes made by others update instantly on the worksheet, and if they're adding data to a cell, it's grayed out so that you can't type in the same cell at the same time.
 
  Excel also facilitates real-time collaboration, but it's far less intuitive. When someone you have shared your workbook with opens it, it can take a few seconds for their presence to appear on your screen, and changes they make can take a while to sync with your copy. What's more, while Excel lets you directly email people collaborating on your worksheet, the in-program chat facility is only available if you've subscribed to a Microsoft 365 Business package.
 
 ![An Excel desktop app workbook showing a collaborator working on the sheet and the contact options available if you click the initials of the collaborator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/excel-collaboration-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Verdict**—While both Excel and Sheets allow collaboration, Google's product is much better for real-time joint work, and the in-program chat facility is available as a default option, making collaboration even more seamless.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Simplicity vs. Advanced Tools
 
@@ -103,6 +101,10 @@ Close
  While being relatively less useful if you want to create a complex spreadsheet, Google Sheets is much better for simplicity. The interface is far more navigable and intuitive, and with its fewer menus and tabs, you can get your head around Sheets much more quickly than you can with Excel.
 
 **Verdict**—If you're a spreadsheet power user and want more complex functions and options, Excel is for you. However, if you want to create a relatively more straightforward spreadsheet, go for Google Sheets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Speed and Lagging
 
@@ -128,8 +130,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +137,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-navigating-virtual-board-functions-across-zoom-devices/"><u>[New] In 2024, Navigating Virtual Board Functions Across Zoom Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-hilarity-in-harmony-great-ringtone-websites/"><u>[Updated] In 2024, Hilarity in Harmony Great Ringtone Websites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-join-the-meme-revolution-expert-tips-for-the-metaverse/"><u>[Updated] Join the Meme Revolution Expert Tips for the Metaverse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-top-rated-network-surveillance-solutions-of-2022-professional-recommendations-by-tech-experts/"><u>1. Top-Rated Network Surveillance Solutions of 2022 - Professional Recommendations by Tech Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5-key-methods-to-optimize-your-pc-tackling-desktop-window-manager-gpu-overuse-on-windows-systems/"><u>5 Key Methods to Optimize Your PC: Tackling Desktop Window Manager GPU Overuse on Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-how-to-address-and-rectify-d3d9dll-is-missing-issues/"><u>Guide: How To Address and Rectify d3d9.dll Is Missing Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-malfunctioning-function-keys-for-optimal-usage/"><u>How to Fix Malfunctioning Function Keys for Optimal Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-repairing-windows-11-and-10-os-errors-by-correcting-system-files/"><u>Master the Art of Repairing Windows 11 & 10 OS Errors by Correcting System Files</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/milestone-achievements-mondlyback-buttonfilters/"><u>Milestone Achievements: MondlyBack ButtonFilters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-application-failed-to-load-properly-error-code-0xc000007b/"><u>Resolved: Fixing the 'Application Failed to Load Properly' Error Code 0xC000007B</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-access-to-your-start-menu-on-windows-10-made-easy/"><u>Unlocking Access to Your Start Menu on Windows 10 Made Easy</u></a></li>
+</ul></div>
 

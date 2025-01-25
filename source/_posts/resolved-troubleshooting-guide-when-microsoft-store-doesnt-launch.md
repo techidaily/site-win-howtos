@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch"
-date: 2025-01-16T18:06:37.829Z
-updated: 2025-01-19T19:23:19.346Z
+date: 2025-01-24T18:42:12.549Z
+updated: 2025-01-25T17:51:57.501Z
 tags:
   - win11
   - win10
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify your Fortnite files
 
  Sometimes Fortnite won’t launch because there’re broken or missing files on your system . So you should verify the game files to make sure any corrupt files fixed and missing files installed to see if it fixes the **Fortnite not launching** issue.
@@ -71,15 +67,11 @@ Here’s how to do it:
 2. Click**Verify** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11d917b99e3.jpg)
 3. As soon as the verification is ready, the**SETTINGS** option will switch to **LAUNCH** . Click**LAUNCH** to see if Fortnite opens smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -93,7 +85,7 @@ Here’s how to do it:
 3. Click**Yes** once asked to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Fortnite** from the drop-down menu and click**Repair Service** .  
@@ -102,11 +94,19 @@ Here’s how to do it:
 
 6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Install the latest patch
 
  Developers of Epic Games keep releasing patches to help fix game bugs and improve overall gaming experience. So it’s always recommended you install the latest patch and then restart your computer to see if it fixes the**Fortnite not launching** issue.
 
  If all else fails, then you might want to contact **[Epic Games Help Center](https://epicgames.helpshift.com/a/fortnite/)**  for assistance in further troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -145,15 +145,15 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -187,14 +187,20 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-selecting-the-right-flight-stabilizer-drones-edition/"><u>[New] Selecting the Right Flight Stabilizer Drones Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exploring-the-capabilities-of-screenflow-on-mac-devices/"><u>[Updated] 2024 Approved Exploring the Capabilities of ScreenFlow on Mac Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>2024 Approved The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-an-unresponsive-windows-built-in-webcam/"><u>Comprehensive Guide to Fixing an Unresponsive Windows Built-In Webcam</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-how-to-change-or-erase-your-pc-password-in-windows-10/"><u>Easy Tutorial: How To Change or Erase Your PC Password in Windows 10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210609519-9781910231265-everyday-astrology-for-a-better-life/"><u>Everyday Astrology for a Better Life | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-high-cpu-usage-by-svchostexe-on-your-windows-10-system-effectively/"><u>Resolve High CPU Usage by svchost.exe on Your Windows 10 System Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-not-charging-despite-being-connected-your-ultimate-guide-for-windows-surfaces/"><u>Resolving 'Not Charging Despite Being Connected', Your Ultimate Guide for Windows Surfaces</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-top-8-tactics-to-overcome-windows-11s-update-error-0x800f0922/"><u>Solving the Puzzle: Top 8 Tactics to Overcome Windows 11'S Update Error 0X800F0922</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-iphone-voice-memo-recording-guide/"><u>[Updated] In 2024, IPhone Voice Memo Recording Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-list-of-ps2-games-for-ios-emulation-for-2024/"><u>[Updated] The Ultimate List of PS2 Games for iOS Emulation for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-zero-cost-techniques-for-video-and-text-combination-for-2024/"><u>[Updated] Zero-Cost Techniques for Video and Text Combination for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-walkthrough-to-resolve-the-windows-update-failed-with-error-code-0x800705b4-in-windows-solved/"><u>Comprehensive Walkthrough to Resolve the Windows Update Failed with Error Code 0X800705B4 in Windows ([Solved])</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/harnessing-ai-for-enhanced-document-conversion-insights-from-ab-technologies-at-the-sf-business-forum/"><u>Harnessing AI for Enhanced Document Conversion: Insights From AB Technologies at the SF Business Forum</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-invalid-directory-name-mistake-solution-guide/"><u>How To Correct the 'Invalid Directory Name' Mistake - Solution Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-kid-approved-drones-for-beginning-pilots/"><u>In 2024, Best Kid-Approved Drones for Beginning Pilots</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mavix-m-9-gaming-throne-enhancing-your-gameplay-with-superior-comfort/"><u>Mavix M 9 Gaming Throne: Enhancing Your Gameplay with Superior Comfort</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-graphics-driver-challenges-effective-fix-strategies-for-users/"><u>Overcoming Graphics Driver Challenges: Effective Fix Strategies for Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-gaming-issues-on-windows-systems-handling-sudden-shutdowns-across-versions/"><u>Resolving Gaming Issues on Windows Systems - Handling Sudden Shutdowns Across Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restored-essential-library-msvcr71/"><u>Restored Essential Library: MSVCR71</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-vanishing-touchpad-cursor-in-windows-11/"><u>Solving the Issue: Vanishing Touchpad Cursor in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-installs-windows-11-a-comprehensive-fix-for-error-code-80240020/"><u>Successfully Installs Windows 11: A Comprehensive Fix for Error Code 80240020</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-art-of-saying-hello-in-japenese/"><u>The Art of Saying 'Hello' In Japenese</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-of-both-worlds-free-and-paid-vlog-video-editing-software-compared/"><u>Updated The Best of Both Worlds Free and Paid Vlog Video Editing Software Compared</u></a></li>
 </ul></div>
 

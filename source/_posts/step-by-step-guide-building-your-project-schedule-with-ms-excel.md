@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building Your Project Schedule with MS Excel"
-date: 2024-08-28T00:19:34.312Z
-updated: 2024-08-29T00:19:34.312Z
+date: 2025-01-22T17:53:24.565Z
+updated: 2025-01-25T18:23:55.446Z
 tags:
   - excel
 categories:
@@ -32,6 +32,10 @@ Related: [How to Create and Insert a Pyramid in Microsoft PowerPoint](https://fo
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the Choose a SmartArt Graphic window opens, select "Process" on the left. On the right, find and select the Basic Timeline, then click "OK." If you prefer, you can pick the Circle Accent Timeline for a fancier visual.
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
@@ -41,8 +45,9 @@ Related: [How to Create and Insert a Pyramid in Microsoft PowerPoint](https://fo
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Customize the Timeline
 
  As you add your text, the boxes adjust to accommodate the size. So you save time from formatting them yourself. Plus, you can also add more shapes to lengthen your [timeline](https://win-solutions.techidaily.com/mastering-the-battle-solutions-to-tackle-xbox-and-pcs-error-0-166-in-call-of-duty-warzone/) or change the direction of the arrow easily.
@@ -56,8 +61,9 @@ Related: [How to Create a Timeline in Microsoft PowerPoint](https://win-solution
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the Text Pane opens, create your timeline in an outline format using these actions:
 
 * **Add a shape**: Go to the item before the new shape, press Enter or Return, and type the item.
@@ -67,21 +73,19 @@ Related: [How to Create a Timeline in Microsoft PowerPoint](https://win-solution
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  You can also use the tools in the ribbon on the SmartArt Design tab to customize the timeline. On the left, you can add a shape, insert a bullet, change the arrow direction, rearrange items, and demote or promote items.
 
  Moving to the right, you can choose a different layout, change the colors, or pick a different style.
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also select items on the timeline, such as text boxes, and use the Home tab to format the font differently. Or, right-click the graphic, select "Format Object," and use the Format Shape sidebar to add a border, fill color, or shadow.
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For a nice, basic project timeline, the SmartArt Graphic in Excel is a good option.
 
@@ -91,21 +95,19 @@ Related: [How to Create a Timeline in Microsoft PowerPoint](https://win-solution
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you [download the template](https://fox-friendly.techidaily.com/new-visionary-education-the-power-of-virtual-reality/), simply enter the dates and milestones for your project in the table at the bottom. Use the Position column of the table to place the text for the milestones above (positive number) or below (negative number) the line.
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To lengthen the timeline, just [add more rows to the table](https://fox-glue.techidaily.com/2024-approved-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/). To shorten it, delete rows from the table.
 
  As you make changes to the table, you'll see the timeline update immediately. This template gives you a quick and easy way to create an attractive timeline for your project.
 
 ![Project timeline in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ExcelProjectTimeline.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you need to create a simple project timeline, Excel gives you two easy ways to do it depending on the appearance and details you need.
 
@@ -117,8 +119,6 @@ Related: [How to Add or Delete Columns and Rows in a Table in Microsoft Excel](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,16 @@ Related: [How to Add or Delete Columns and Rows in a Table in Microsoft Excel](h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigate-instagram-video-problems-with-ease-for-2024/"><u>[New] Navigate Instagram Video Problems with Ease for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-time-lapse-android-tips-and-tricks/"><u>[Updated] Mastering Time-Lapse Android Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-and-solving-missing-device-drivers-on-windows-7-installation-a-user-friendly-guide/"><u>Deciphering and Solving 'Missing Device Drivers' On Windows 7 Installation: A User-Friendly Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-domain-dominance-selecting-top-2024-cloud-providers/"><u>Digital Domain Dominance Selecting Top 2024 Cloud Providers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-a-frosty-windows-11-taskbar/"><u>Effective Solutions for Fixing a Frosty Windows 11 Taskbar</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-computer-dealing-with-low-system-resources-problems-successfully/"><u>Optimizing Your Computer: Dealing with Low System Resources Problems Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-resolve-slow-keyboard-response-in-windows-10-environment/"><u>Solution: Resolve Slow Keyboard Response in Windows 10 Environment</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>Updated In 2024, Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
+</ul></div>
 

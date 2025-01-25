@@ -1,7 +1,7 @@
 ---
 title: Solution for 'Not Plugged In' Error on AMD HD Audio Devices
-date: 2025-01-17T16:33:58.891Z
-updated: 2025-01-19T18:59:26.388Z
+date: 2025-01-21T18:30:51.841Z
+updated: 2025-01-25T16:11:56.932Z
 tags:
   - win11
   - win10
@@ -38,19 +38,11 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -72,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -79,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -93,11 +85,19 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -109,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -122,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
@@ -137,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -145,22 +145,22 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
 
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -225,18 +225,20 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-dissecting-the-functionality-of-burst-in-gopro-filming/"><u>[Updated] 2024 Approved Dissecting the Functionality of Burst in GoPro Filming</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-clicking-skills-with-these-top-12-pc-titles/"><u>[Updated] Elevate Your Clicking Skills with These Top 12 PC Titles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-steps-to-record-impeccable-ios-travel-and-dialogue-podcasts/"><u>[Updated] In 2024, Essential Steps to Record Impeccable iOS Travel & Dialogue Podcasts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-solutions-for-restarting-frozen-obs-fullscreen/"><u>[Updated] Solutions for Restarting Frozen OBS Fullscreen</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-engaging-video-content-for-live-streams-for-2024/"><u>Crafting Engaging Video Content for Live Streams for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-continuity-with-powertoys-settings-transfer/"><u>Ensuring Continuity with PowerToys Settings Transfer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-resolving-mic-issues-in-windows-10/"><u>Fixes & Tips: Resolving Mic Issues in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-we-overcame-the-problem-of-contacting-a-non-responsive-dhcp-server/"><u>How We Overcame the Problem of Contacting a Non-Responsive DHCP Server</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-unlock-expertise-proven-hidden-window-11-strategies-for-everyday-users/"><u>In 2024, Unlock Expertise Proven, Hidden WINDOW 11 Strategies for Everyday Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-bluetooth-glitches-how-to-get-your-airpods-working-again-on-windows-1n/"><u>Overcoming Bluetooth Glitches: How to Get Your AirPods Working Again on Windows 1N</u></a></li>
-<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-access-denied-by-microsoft-exchange-for-your-email-client/"><u>Resolving the Issue: Access Denied by Microsoft Exchange for Your Email Client</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-tips-for-non-working-dvds-in-windows-media-player/"><u>Solution Tips for Non-Working DVDs in Windows Media Player</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-edits-top-10-youtube-editing-strategies-for-2024/"><u>[New] Elevate Your Edits Top 10 YouTube Editing Strategies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-how-to-get-people-to-subscribe-to-your-youtube-channel/"><u>[New] In 2024, How to Get People to Subscribe to Your YouTube Channel</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-ranked-instagrams-top-8-popular-ae-composition-tools-for-2024/"><u>[New] Ranked Instagram's Top 8 Popular AE Composition Tools for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-selecting-the-ultimate-gear-for-stellar-4k-production-for-2024/"><u>[New] Selecting the Ultimate Gear for Stellar 4K Production for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-content-effortless-download-of-youtube-video-for-ios/"><u>[New] Unleashing Content Effortless Download of Youtube Video for iOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[Updated] In 2024, Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/202410/"><u>動画編集ソフトの最先端技術：2024新春リリース、初学者推奨10選アワードリスト！【詳細レビュー】</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/approach-identify-the-intrinsic-hand-muscles-innervated-by-the-ulnar-nerve/"><u>Approach: Identify the Intrinsic Hand Muscles Innervated by the Ulnar Nerve.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-huion-graphics-tablet-software-on-windows-complete-guide/"><u>Download & Install Huion Graphics Tablet Software on Windows – Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transforming-gifs-into-avi-format-with-ease/"><u>Free Online Converter: Transforming GIFs Into AVI Format with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-jpgbmp-format-converter-online-professioneel-movivaaii/"><u>Gratis JPG/BMP Format Converter Online - Professioneel MoviVaaii</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-gestalteerd-mp3-in-professioneel-vooral-m2ts-converter-zonder-kosten/"><u>Online Gestalteerd Mp3 in Professioneel Vooral M2ts Converter, Zonder Kosten!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fixes-for-when-counter-strike-global-offensive-wont-start/"><u>Step-by-Step Fixes for When Counter Strike Global Offensive Won't Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tiff-en-png-verander-gratis-met-de-hele-kracht-van-movavi-konvertor/"><u>Tiff en PNG: Verander Gratis Met De Hele Kracht Van Movavi Konvertor!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-full-potential-of-youtube-video-interactions-for-2024/"><u>Unlocking the Full Potential of YouTube Video Interactions for 2024</u></a></li>
 </ul></div>
 

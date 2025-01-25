@@ -1,7 +1,7 @@
 ---
 title: How to Repair Broken Ethernet Connections in Windows 10 and Windows 7
-date: 2024-08-28T00:24:53.824Z
-updated: 2024-08-29T00:24:53.824Z
+date: 2025-01-23T18:09:46.688Z
+updated: 2025-01-25T18:37:29.297Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
  It can be frustrating if neither mouse nor keyboard doesn’t work at the same time. If your USB mouse and keyboard stop working in Windows 7 even on the login screen, don’t worry. You can fix the issue with one of the solutions in this article.
 
  Before you try further solutions, **ensure the mouse and the keyboard have no problems** . If possible, try to use them on another computer. If they are working properly on another computer, it means there are no problems with the mouse and the keyboard, then you can try the solutions below. If not, you might need to replace them with the new ones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these solutions
 
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 3: Disable driver signature enforcement**
 
 Follow the steps below:
@@ -61,9 +62,6 @@ Follow the steps below:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## **Solution 4: Update the USB driver**
 
  If the USB driver is missing or corrupted, this issue can occur. To fix the issue, you can update the USB driver.
@@ -78,9 +76,6 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
@@ -90,6 +85,10 @@ Follow the steps below:
  5) Check the box next to**Delete the driver software for this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e3212f01c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click the **OK** button to confirm the uninstall.
 
@@ -108,8 +107,9 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -117,6 +117,10 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7eb6058aa.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 5: Disable the Third Party services**
 
@@ -130,16 +134,10 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8db9a4f349.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Go to the **Services** tab. Check the box next to**Hide all Microsoft services** then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click the **OK** button.
 
  5) When you are prompted to restart your computer to apply the changes, click**Restart** . Then your computer will restart.
@@ -149,6 +147,10 @@ Follow the steps below:
  If the issue resolves after the computer starts, you can try disabling the third-party services one by one to determine which service is causing the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 6: Enable Legacy USB Support in BIOS**
 
@@ -161,15 +163,17 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d3383654c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d4218d51d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note if you don’t find  Legacy USB Support in BIOS, it is possible that the BIOS does not provide this option and this solution does not work for you. If you are still not sure how to do this, contact the PC manufacturer for further assistance.
 
  Hope the solutions here help you fix the mouse and keyboard not working issue in Windows 7.
@@ -182,8 +186,6 @@ Follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +193,24 @@ Follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-leveraging-technology-for-flawless-youtube-cc-and-subtitled-videos/"><u>[New] In 2024, Leveraging Technology for Flawless YouTube CC & Subtitled Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-leading-online-tools-select-your-new-photo-background/"><u>[New] Leading Online Tools Select Your New Photo Background</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-transform-your-food-blog-into-an-engaging-mukbang-show/"><u>[New] Transform Your Food Blog Into an Engaging Mukbang Show</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/coding-canceled-no-further-execution/"><u>Coding Canceled: No Further Execution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/critical-considerations-before-investing-in-a-new-dash-cam-device/"><u>Critical Considerations Before Investing in a New Dash Cam Device</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/die-ultimative-losung-zur-uberspielung-ihrer-fotos-von-der-serie-iphone-678x-auf-das-iphone-12-13-und-daruber-hinaus/"><u>Die Ultimative Lösung Zur Überspielung Ihrer Fotos: Von Der Serie iPhone 6/7/8/X Auf Das iPhone 12, 13 Und Darüber Hinaus.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/experts-reveal-the-secret-to-solving-your-windows-dlls-wont-work-problem/"><u>Experts Reveal the Secret to Solving Your Windows DLLs Won't Work Problem</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/msvcr71-integration-achieved-successfully/"><u>MSVCR71 Integration Achieved Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-world-of-github-desktop-on-windows-systems/"><u>Navigating the World of GitHub Desktop on Windows Systems</u></a></li>
+<li><a href="https://win-updates.techidaily.com/resolution-des-problemes-de-sauvegarde-inexistants-dans-windows-11/"><u>Résolution Des Problèmes De Sauvegarde Inexistants Dans Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-user-profile-service-failure-during-login-on-windows-10-and-11/"><u>Resolving User Profile Service Failure During Login on Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-restoring-your-wacom-tablets-functionality/"><u>Step-by-Step Guide to Restoring Your Wacom Tablet's Functionality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-as-an-online-gaming-content-creator-for-2024/"><u>Thriving as an Online Gaming Content Creator for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208459667-treatment-options-may-include-surgery-radiation-therapy-chemotherapy-targeted-therapy-or-a-combination-of-these-modalities/"><u>Treatment Options May Include Surgery, Radiation Therapy, Chemotherapy, Targeted Therapy, or a Combination of These Modalities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/utilizing-sfcdism-tools-for-effective-windows-11-troubleshooting/"><u>Utilizing SFC/DISM Tools for Effective Windows 11 Troubleshooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-missing-program-cant-start-on-windows-10-solved/"><u>VCRUNTIME140.dll Missing, Program Can’t Start on Windows 10 [Solved]</u></a></li>
+</ul></div>
 

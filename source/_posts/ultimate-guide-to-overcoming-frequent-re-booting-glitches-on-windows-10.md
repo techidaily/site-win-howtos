@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Overcoming Frequent Re-Booting Glitches on Windows 10
-date: 2024-08-28T00:20:45.197Z
-updated: 2024-08-29T00:20:45.197Z
+date: 2025-01-19T18:36:38.511Z
+updated: 2025-01-25T16:37:20.888Z
 tags:
   - win11
   - win10
@@ -29,11 +29,19 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 4. **[Change the power option](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Enter Safe Mode with Networking
 
  1) Make sure your computer is **off** .
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Press **the power button** to turn on your PC. Then when Windows displays a login screen (i.e. Windows has fully booted), long press **the power button** to turn it off.  
 
@@ -41,9 +49,17 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click **Troubleshoot** .
 
@@ -52,6 +68,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  6) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click **Startup settings** .
 
@@ -69,15 +89,15 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable auto-restart
 
  1) On your keyboard, press **the Windows logo key**  and **R** at the same time, then copy & paste**sysdm.cpl** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612ab2f0c2c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Settings…** under the **Startup and Recovery** section.
 
@@ -87,9 +107,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612bede01ba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Now check if your**computer keeps restarting** problem has been resolved. If yes, then great! But if it still restarts for no reason, please move on to**Fix 3** , below.
 
 ---
@@ -108,6 +125,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
@@ -118,19 +139,12 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Change the power option
 
  1) On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Click the**High performance** option >**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
@@ -143,9 +157,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6130ff2aabf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Depending on the build of your Windows 10, you might also see**On battery** and**Plugged in** in**Setting (%)** . Change both values to**5** and click**OK** .
 
  5) Restart your computer and check if your**Windows 10 keeps restarting**  problem has been solved.
@@ -153,8 +164,9 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check for hardware issues
 
  Overheating and faulty hardwares can also be responsible for your**computer keeps restarting** problem. So you can check the following hardware to troubleshoot the issue:
@@ -179,8 +191,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +198,19 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-piecing-a-puzzle-of-cinematic-highlights/"><u>[Updated] In 2024, Piecing a Puzzle of Cinematic Highlights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028472447-pc2024/"><u>新解釈！PCで最新インスタグラムビデオをダウンロードする詳細手引き202#4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029019327-windows-10/"><u>最新Windows 10でのマイクと内部オーディオ使用による録音プロセスガイド</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/r-bliss-savor-your-complimentary-set-of-designs-for-2024/"><u>Banner Bliss Savor Your Complimentary Set of Designs for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversion-gratuite-de-fichier-snd-en-format-wav-sur-la-toile-tapez-avec-movavi/"><u>Conversion Gratuite De Fichier SND en Format WAV Sur La Toile - Tapez Avec Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-magic-5-lite-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor Magic 5 Lite Face Lock?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029213837-tiktok/"><u>TikTok 動画直接下載及錄音的最基本方法 - 超簡単！</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unveiling-the-top-5-ios-tools-for-psp-gameplay/"><u>Unveiling the Top 5 iOS Tools for PSP Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028428055-youtube/"><u>ダウンロード可能なYouTube動画とその字幕:手引き</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029454202-vpjmp4/"><u>ビデオパッドのフリーバージョンを用いたVPJファイルからのMP4出力手順</u></a></li>
+</ul></div>
 

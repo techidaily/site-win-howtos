@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsupported Display Timing on Your Monitor
-date: 2024-08-28T00:22:21.065Z
-updated: 2024-08-29T00:22:21.065Z
+date: 2025-01-19T17:48:57.443Z
+updated: 2025-01-25T16:28:24.292Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update the drivers on your computer  
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -68,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Reset CMOS to the default settings  
 
  Corrupted CMOS can cause booting errors, such as the error “computer repeatedly turns on and off”. To fix the problem, you can try to reset CMOS to the default settings.
@@ -91,8 +99,9 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
@@ -116,11 +125,13 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 6: Check the fan  
 
  The fan is one of the key components that makes computer to run properly. If it doesn’t work, the computer can overheat easily. Computer overheating can cause serious problems. So the system will try to prevent computer overheating. If the fan doesn’t work, the computer can shut down automatically to prevent the internal heating damaging the computer.
@@ -132,26 +143,21 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 7: Clean dust  
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 8: Replace the motherboard  
 
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -162,8 +168,6 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +175,17 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-visual-markers-guide-customizing-instagram-photo-watermarks-for-2024/"><u>[New] The Visual Marker's Guide Customizing Instagram Photo Watermarks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-teamblend-strategies-for-clear-conference-shots/"><u>[Updated] 2024 Approved Expert Teamblend Strategies for Clear Conference Shots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cda-to-wav/"><u>初心者にもわかるCDA to WAV変換テクニックガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/androidflac/"><u>Android上で高品質オーディオを楽しむためのFLAC再生手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-free-and-paid-software-for-transforming-videos-into-3gp-and-3g2-formats/"><u>Best Free and Paid Software for Transforming Videos Into 3GP and 3G2 Formats</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-tutorial-on-configuring-your-logitech-mx-master-device/"><u>Comprehensive Tutorial on Configuring Your Logitech MX Master Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-sources-top-5-instrumental-music-portals-to-enhance-your-playlist/"><u>Discover the Ultimate Sources: Top 5 Instrumental Music Portals to Enhance Your Playlist</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-reclaim-full-volume-from-partially-muted-fb-tracks/"><u>How to Reclaim Full Volume From Partially Muted FB Tracks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mov-mp4/"><u>MOV 비디오를 MP4로 쉽고 효과적으로 변환하는 멋진 방법</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-the-world-with-a-linguistic-95-off-offer-this-year/"><u>Unlock the World with a Linguistic 95% Off Offer This Year!</u></a></li>
+</ul></div>
 

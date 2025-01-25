@@ -1,7 +1,7 @@
 ---
 title: "Dormant Device Dilemma: Stubborn Systems on Windows"
-date: 2025-01-14T17:50:52.864Z
-updated: 2025-01-19T17:22:20.429Z
+date: 2025-01-21T17:30:00.277Z
+updated: 2025-01-25T16:16:42.067Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 1. On your keyboard, press **the Windows logo key**  **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and   **R**  at the same time, then type**devmgmt.msc** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0dfaa5c648.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Double-click on**Keyboards** \>**your keyboard device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e0e0c5d00.jpg)
@@ -70,16 +74,16 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
  Put your machine to sleep and wake it up again to check if the issue is resolved. If yes, then congrats! If the problem persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off fast startup
 
@@ -98,17 +102,9 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Check to see if the computer wakes up issue is solved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Still no joy? Please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Re-enable hibernation
 
@@ -119,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
  Click**Yes** when prompted with a**User Account Control** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Type **powercfg.exe /hibernate off && powercfg.exe /hibernate on** and press**Enter** .  
@@ -129,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Tweak power settings
@@ -138,26 +134,34 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e5db4f467.png)
 2. Click**the chosen power plan** and click**Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e616c565c.jpg)
 4. Double-click on**Sleep** , then set**Allow hybrid sleep** in**Off** and set**Allow wake timers** to**Enable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/computer-wake-up-1.png)
 5. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your computer, test on your machine again and see if it wakes up without fail.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
 
@@ -169,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 2. Open Fortect and run a free scan of your PC. Wait a few minutes, and it will give you a detailed report of your PC status.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -199,18 +199,16 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-tech-tutorial-exporting-and-storing-your-snaps-safely-for-2024/"><u>[Updated] Tech Tutorial Exporting and Storing Your Snaps Safely for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-motorola-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Motorola</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-to-perfection-the-science-of-online-photo-trimming/"><u>Cutting to Perfection The Science of Online Photo Trimming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/every-workers-future-building-and-utilizing-ai-as-a-universal-skill-insights-from-zdnet/"><u>Every Worker's Future: Building & Utilizing AI as a Universal Skill - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-keyboard-shortcuts-why-winplusshiftpluss-is-unresponsive-in-windows-11-and-10/"><u>Fixing Keyboard Shortcuts: Why Win+Shift+S Is Unresponsive in Windows 11 & 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-windows-117-systems-up-to-speed-with-realtek-rtl8188cu-drivers/"><u>Get Your Windows 11/7 Systems Up to Speed with Realtek RTL8188CU Drivers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-se-2022-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone SE (2022)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-livekernelevent-141-hardware-error-2024/"><u>How to Fix LiveKernelEvent 141 Hardware Error - 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-the-component-object-model-surrogate-stopped/"><u>How to Resolve When the 'Component Object Model Surrogate Stopped'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206205090-how-to-restore-functionality-in-malfunctioning-arrow-keys-on-your-keyboard/"><u>How To Restore Functionality in Malfunctioning Arrow Keys on Your Keyboard!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-system-storage-a-guide-to-overcoming-insufficient-resources-for-command-execution/"><u>Optimizing System Storage: A Guide to Overcoming 'Insufficient Resources for Command Execution'</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seamless-streaming-experience-a-youtube-playlist-creation-guide-for-2024/"><u>Seamless Streaming Experience A YouTube Playlist Creation Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205764869-windows-11-typing-troubles-heres-how-you-can-eliminate-sticky-keys-and-improve-response-time/"><u>Windows 11 Typing Troubles? Here's How You Can Eliminate Sticky Keys and Improve Response Time</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-getting-acquainted-with-zoom-segregated-sessions/"><u>[New] 2024 Approved Getting Acquainted with Zoom Segregated Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-art-of-documenting-xbox-playtime-online/"><u>[New] 2024 Approved The Art of Documenting Xbox Playtime Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-effortless-webcam-recordings-on-hp-systems/"><u>[New] Effortless Webcam Recordings on HP Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ailored-tricks-building-a-personalized-youtube-follow-buttons-for-2024/"><u>[New] Tailored Tricks Building a Personalized YouTube Follow Buttons for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726222260753-avi-mp4-movavi/"><u>立即將 AVI 影片轉換成 MP4 的線上免費方法 - 運用 Movavi 技術</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726225772103-bmppng-movavi/"><u>網路直接無成本 BMP到PNG 轉換 - 使用Movavi的方法</u></a></li>
+<li><a href="https://win-superb.techidaily.com/como-guardar-una-copia-de-seguridad-efectiva-del-correo-hotmail-las-3-mejores-tacticas-en-un-solo-paso/"><u>Cómo Guardar Una Copia De Seguridad Efectiva Del Correo Hotmail: Las 3 Mejores Tácticas en Un Solo Paso</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/create-gifs-from-tiff-files-without-cost-discover-the-magic-of-movavis-web-based-tool/"><u>Create GIFs From TIFF Files Without Cost - Discover the Magic of Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavimpeg3g2/"><u>Movaviアプリを使った無料MPEGから3G2への簡単なオンライン変換方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-18-best-free-video-compression-tools-of-2e24-windows-and-mac-compatible/"><u>Top 18 Best Free Video Compression Tools of 2E24 - Windows & Mac Compatible</u></a></li>
 </ul></div>
 

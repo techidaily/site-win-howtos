@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Laptop/Desktop From Shutting Down at Random - Expert Advice
-date: 2024-08-28T00:25:22.023Z
-updated: 2024-08-29T00:25:22.023Z
+date: 2025-01-21T16:27:44.447Z
+updated: 2025-01-25T18:33:57.115Z
 tags:
   - win11
   - win10
@@ -47,15 +47,18 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 1. Right-click the**VALORANT icon** and select**Properties** at the button of the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
-3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
+3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  An up-to-date graphics driver enables your graphics card to correctly do its job in graphics capabilities and to better enhance your gaming experience. If you are having an outdated or faulty graphics driver, it may also cause Valorant to get stuck in the loading status. Therefore, having your graphics driver updated is one of the solution. Here are two ways you can update your graphics drivers:
@@ -84,9 +87,11 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
@@ -102,18 +107,21 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Press**Windows + I** key to open Windows Settings and then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Find**Valorant** from the Apps & features list and click on it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
 
@@ -125,9 +133,6 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Right-click the**Manifest\_DebugFiles\_Win64** and**Manifest\_NonUFSFiles\_Win64** and select**Delete** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/delete-manifest1-3.jpg)
 3. Open Valorant to see if this fix helps you load in the game successfully.
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -142,8 +147,6 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +154,20 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription/"><u>[New] 2024 Approved From Speech to Text A Complete, FREE Workshop on YouTube Transcription</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-convert-twitter-vids-into-aacmp4-files/"><u>[Updated] In 2024, Convert Twitter Vids Into AAC/MP4 Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205236406-computer-continuously-loading-at-initial-boot-solutions-inside/"><u>Computer Continuously Loading at Initial Boot? Solutions Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-diy-methods-for-refreshing-and-sanitizing-your-stereo-systems-speakers/"><u>Easy DIY Methods for Refreshing and Sanitizing Your Stereo System's Speakers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/game-changing-experience-riding-with-photochromic-glasses-and-advanced-hud-features/"><u>Game-Changing Experience: Riding with Photochromic Glasses & Advanced HUD Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-non-functioning-screen-saver-on-windows-10-easily/"><u>How to Resolve Non-Functioning Screen Saver on Windows 10 Easily</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-two-titans-clash-in-the-vr-arena/"><u>In 2024, Two Titans Clash in the VR Arena</u></a></li>
+<li><a href="https://solve-help.techidaily.com/read-kindle-stories-on-kobo-vox-your-ultimate-digital-reading-experience/"><u>Read Kindle Stories on Kobo Vox - Your Ultimate Digital Reading Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-integrity-a-step-by-step-guide-to-repairing-damaged-windows-11-file-systems/"><u>Restoring Integrity: A Step-by-Step Guide to Repairing Damaged Windows 11 File Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-how-to-quickly-restart-your-windows-10-system/"><u>Simple Steps: How to Quickly Restart Your Windows 10 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-dell-webcam-failure-problems-on-windows-machines/"><u>Troubleshoot and Resolve Dell Webcam Failure Problems on Windows Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wave-goodbye-to-flicker-effective-solutions-for-stable-screens-on-windows-11/"><u>Wave Goodbye to Flicker: Effective Solutions for Stable Screens on Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Adobe Flash Player Crashes on Google Chrome - Solved
-date: 2024-08-28T00:21:08.132Z
-updated: 2024-08-29T00:21:08.132Z
+date: 2025-01-21T17:46:24.601Z
+updated: 2025-01-25T16:30:53.011Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 
  If you get this **Shockwave Flash has crashed** error when trying to stream some video on Chrome, don’t panic. Here’re 4 fixes that have helped other users resolve the problem. So read on and check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  All the fixes below work in**Windows 10** ,**8** and**7** . You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 2. [**Disable hardware acceleration**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update or re-install Google Chrome**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable Chrome add-ons
 
@@ -46,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable hardware acceleration
 
 **Hardware Acceleration**  is a feature in  browsers  that tasks GPU with all the graphics and text rendering, hence giving us a better video playing and watching experience.
@@ -58,19 +63,22 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
 This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics  driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -86,34 +94,14 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then keep track of your Chrome to see if everything runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update or re-install Google Chrome
 
  Updating is another proven effective way in resolving the Shockwave Flash crashing issue since a newer version is always designated to fix bugs in the earlier version and optimize. So we can try**updating Google Chrome** to see if it fixes the problem.
@@ -126,9 +114,6 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
@@ -148,8 +133,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +140,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-learn-the-art-of-adding-borders-on-insta-videos/"><u>[New] 2024 Approved Learn the Art of Adding Borders on Insta Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-discover-luminous-brilliance-for-your-android-videos-for-2024/"><u>[New] Discover Luminous Brilliance for Your Android Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-become-a-streaming-star-utilizing-obs-capabilities/"><u>[Updated] In 2024, Become a Streaming Star Utilizing OBS Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-methods-how-to-easily-change-your-3gpp-recordings-into-mp3-format/"><u>Free Methods: How To Easily Change Your 3GPP Recordings Into MP3 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-solutions-for-transforming-your-avi-audio-clips-into-high-quality-wav-files/"><u>Free Solutions for Transforming Your AVI Audio Clips Into High-Quality WAV Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-downloading-private-vimeo-content-onto-your-computer/"><u>Guide: Downloading Private Vimeo Content Onto Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-bulk-extract-audio-from-videos-on-windows-11-top-tips-and-tools/"><u>How to Bulk Extract Audio From Videos on Windows 11: Top Tips and Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-change-your-dvd-music-into-mp3-format-a-4-step-guide/"><u>How to Effortlessly Change Your DVD Music Into MP3 Format: A 4-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-fortnites-persistent-startup-hurdle/"><u>How to Overcome Fortnite's Persistent Startup Hurdle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-0xc10100be-video-playback-issue/"><u>How to Resolve the 0xC10100BE Video Playback Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unwinding-watchlists-youtubes-route-for-playback-in-opposite-direction/"><u>In 2024, Unwinding Watchlists YouTube's Route for Playback in Opposite Direction</u></a></li>
+</ul></div>
 

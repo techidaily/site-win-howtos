@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Startup Problems: Effective Fixes for Windows 10 Frozen Screen Scenarios"
-date: 2024-08-28T00:21:51.051Z
-updated: 2024-08-29T00:21:51.051Z
+date: 2025-01-20T16:38:48.742Z
+updated: 2025-01-25T17:49:10.002Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Press **the power button** to turn on your PC. Then when Windows displays a login screen (i.e. Windows has fully booted), long press **the power button** to turn it off.  
 
  3) Repeat **1)**   and **2)**   until the screen says **Preparing Automatic Repair** .
@@ -44,6 +48,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click **Troubleshoot** .
 
@@ -69,27 +77,28 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable auto-restart
 
  1) On your keyboard, press **the Windows logo key**  and **R** at the same time, then copy & paste**sysdm.cpl** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612ab2f0c2c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Settings…** under the **Startup and Recovery** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612b02ca5c0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612bede01ba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  4) Now check if your**computer keeps restarting** problem has been resolved. If yes, then great! But if it still restarts for no reason, please move on to**Fix 3** , below.
 
 ---
@@ -109,20 +118,22 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and hopefully the annoying auto-restart problem has gone by now. If the problem still persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change the power option
 
@@ -139,15 +150,17 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Double-click on **Processor power management** \> **Minimum processor state** . Type**5** in**Setting (%)** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6130ff2aabf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on the build of your Windows 10, you might also see**On battery** and**Plugged in** in**Setting (%)** . Change both values to**5** and click**OK** .
 
  5) Restart your computer and check if your**Windows 10 keeps restarting**  problem has been solved.
@@ -178,8 +191,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +198,26 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-guide-recording-your-youtube-livestreams-for-2024/"><u>[New] Ultimate Guide Recording Your YouTube Livestreams for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-tips-and-tricks-for-professional-gamers-on-youtube/"><u>[Updated] In 2024, Tips & Tricks for Professional Gamers on Youtube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/apex-10-virtual-warrior-battles/"><u>Apex 10 Virtual Warrior Battles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-htc-u23-pro-by-drfone-android/"><u>Full Guide to Unlock Your HTC U23 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-finding-sound-in-silence-3-cost-free-methods-to-music-enrich-your-videos/"><u>In 2024, Finding Sound in Silence 3 Cost-Free Methods to Music-Enrich Your Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-6-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 6 without Security Questions?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-quick-h264-edits-the-ultimate-tutorial-on-cutting-videos-with-ease/"><u>Mastering Quick H.264 Edits: The Ultimate Tutorial on Cutting Videos with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mkv-to-itunes-transformation-learn-the-top-three-techniques-for-seamless-playback/"><u>MKV to iTunes Transformation: Learn the Top Three Techniques for Seamless Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movae/"><u>MOV形式でAEが認識できなくなった時、効果的なトラブルシューティング手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4mp3wav/"><u>MP4/MP3ビデオ音声をWAVフォーマットにアップコンバートする詳細ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-release-alert-enhanced-watermarks-with-wonderfoxs-latest-photography-software-v11/"><u>New Release Alert: Enhanced Watermarks with WonderFox's Latest Photography Software V1.1</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-based-dash-cam-footage-enhancement-a-step-by-step-guide/"><u>PC-Based Dash Cam Footage Enhancement: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/premiere-promp3wav/"><u>Premiere ProでMP3、WAV用に音声のみを書き起こす手段</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-dvd-cant-be-loaded-already-open-in-other-app-close-program-and-retry-issue/"><u>Resolved! Fixing 'DVD Can't Be Loaded - Already Open In Other App - Close Program & Retry Issue.'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-guide-transforming-your-dvd-videots-directory-into-avi-format/"><u>Simple Guide: Transforming Your DVD Video_TS Directory Into AVI Format</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-converting-your-dvd-collection-into-mkv-format-with-handbrake/"><u>Step-by-Step Guide: Converting Your DVD Collection Into MKV Format with Handbrake</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-lava-yuva-2-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Lava Yuva 2 Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-and-how-to-embrace-facebooks-latest-privacy-controls/"><u>Why and How to Embrace Facebook's Latest Privacy Controls</u></a></li>
+</ul></div>
 

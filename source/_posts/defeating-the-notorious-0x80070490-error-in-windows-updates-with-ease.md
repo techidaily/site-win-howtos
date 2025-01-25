@@ -1,7 +1,7 @@
 ---
 title: Defeating the Notorious 0X80070490 Error in Windows Updates with Ease
-date: 2024-08-23T14:10:26.805Z
-updated: 2024-08-24T14:10:26.805Z
+date: 2025-01-18T16:02:36.724Z
+updated: 2025-01-25T17:12:24.586Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Running Windows Update Troubleshooter**
 
  Windows Update troubleshooter is a built-in tool that can help you analyze and resolve issues related to Windows update. Try running Windows Update troubleshooter to see if you can resolve this issue. Here is how to do it:
@@ -37,16 +41,22 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** . In the list of search results, select **Troubleshoot**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap788.png)
 2. In the pop-up window, select **Windows Update**   and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes**   to run Windows Update troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap789.png)
 3. Click **Apply this fix**   to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap790.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Perform a Windows update again to see if you can install the update. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### **Fix 2: Restarting Windows Update service**
 
  You may run into this issue if there is something wrong with the Windows Update service. You can try restarting the Windows Update service to resolve this problem. Here’s how to do it:
@@ -56,14 +66,16 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap792.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **`C:\Windows\SoftwareDistribution\DataStore`**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap794.png)
 4. Delete all the files in the folder **DataStore**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap795.png)  
  When all the files are deleted, you shall see “This folder is empty”.
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.  
@@ -72,18 +84,21 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 **`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap796.png)
 6. Delete all the files in the folder   **Download**  .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap797.png)  
  When all the files are deleted, you shall see “This folder is empty”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap798.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Check Windows Update again to see whether you can install the update. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Setting the TrustedInstaller service to auto start**
 
@@ -92,12 +107,13 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Ctrl** ,**Shift** and**Enter** at the same time to**run Command Prompt as administrator** . You’ll be prompted for permission. Click**Yes** to open Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)
 2. In Command Prompt, type the command line below and press enter:  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **SC config trustedinstaller start=auto**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap800.png)
 3. Close Command Prompt and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perform Windows Update again after your restart your PC. See if you can install the update KB4056892\. If you can install it, congratulations! You’ve fixed this issue.
 
@@ -123,36 +139,30 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap802.png)  
     “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 2. Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
 3. Type**KB4056892**  and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap803.png)
 4. In the list of search results, select right update for your operating system and click **Download**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap806.png)
 5. In the pop-up window, click the link to start downloading the updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap807.png)
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 See if you can install the update. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Pro tip: Want us to fix the problem for you?**
 
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you.
@@ -172,8 +182,6 @@ See if you can install the update. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +189,18 @@ See if you can install the update. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-reviews-top-5-high-performance-video-devices/"><u>[New] Expert Reviews Top 5 High-Performance Video Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-techniques-for-effortless-facebook-video-posting-pcandroid/"><u>[Updated] In 2024, Techniques for Effortless Facebook Video Posting, PC/Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tga-)-jpeg-movavi-online/"><u>有料なしで簡単! TGA -> JPEG変換ツール - Movavi Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-team-efficiency-master-the-developer-mindset-with-expert-tips-from-zdnet/"><u>Boost Team Efficiency: Master the Developer Mindset with Expert Tips From ZDNet!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/die-fuhrenden-youtube-content-creatoren-von-heute-gratis-download-und-monetarisierungseffekte-die-top-13-fuhrenden-youtube-inhalts-ersteller-kostenfreie-dow23/"><u>Die Führenden Youtube-Content Creatoren Von Heute – Gratis Download Und Monetarisierungseffekte (Die Top 13 Führenden YouTube-Inhalts Ersteller - Kostenfreie Downloads Und Effekt Der Monetarisierung)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-mov-to-flv-conversion-moovavi/"><u>Free Online MOV to FLV Conversion - Moovavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-completa-para-grabar-pantalla-en-windows-con-movavi-screen-recorder/"><u>Guía Completa Para Grabar Pantalla en Windows Con Movavi Screen Recorder</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/page-unavailable-how-to-handle-a-404-error/"><u>Page Unavailable: How to Handle a 404 Error</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gsmwav/"><u>オンラインで簡単GSM音波ファイルをWAVに自由転送 - 動画」</u></a></li>
+</ul></div>
 

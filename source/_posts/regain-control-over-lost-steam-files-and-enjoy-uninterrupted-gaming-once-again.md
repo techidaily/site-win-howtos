@@ -1,7 +1,7 @@
 ---
 title: Regain Control Over Lost Steam Files and Enjoy Uninterrupted Gaming Once Again
-date: 2024-08-28T00:24:29.593Z
-updated: 2024-08-29T00:24:29.593Z
+date: 2025-01-21T17:57:51.156Z
+updated: 2025-01-25T16:39:03.561Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
 3\. Restart the PC and connect the device to the USB port.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 2: Uninstall the USB Driver in Device Manager**
 
 Follow these steps:
@@ -55,7 +59,15 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdbac0739e5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3 : Update the USB Driver**
 
@@ -77,6 +89,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 4: Disable Fast Startup**
 
  If Windows is booting quickly, the external device may not be detected before the boot is completed, then the problem will occur. In this case, disabling the fast boot option in Power Options can resolve the problem.
@@ -87,16 +103,14 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde28fa83dc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3\. View by Large Icons and click on**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4\. Select**Choose what the power buttons do** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde37b21df1.jpg)
@@ -105,21 +119,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde3ce2afe1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  6\. Under**Shutdown settings** , uncheck the box next to**Turn on fast startup (recommended)** . Then click on the**Save changes** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde41b1e60a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7\. Restart your PC and see if the problem resolves. Note your PC will boot a little slower.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 5: Change the USB Selective Suspend Settings**
 
 Follow these steps:
@@ -128,20 +133,18 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  2\. Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb15c69d9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Select **High performance** and click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  4\. Click on**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde9507f19b.png)
@@ -151,8 +154,9 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb95133af.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6\. Locate**USB settings** and expand it.
 
  7\. Expand**USB selective suspend setting** . Disable both**On battery** and**Plugged in** settings.
@@ -169,8 +173,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +180,22 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-name-alteration-for-meet-sessions-laptopmobile/"><u>[New] Efficient Name Alteration for Meet Sessions (Laptop/Mobile)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tiny-turbines-car-shindig/"><u>[Updated] 2024 Approved Tiny Turbines' Car Shindig</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-8-cost-effective-multi-platform-virtual-communication-software/"><u>[Updated] Top 8 Cost-Effective, Multi-Platform Virtual Communication Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-frustration-of-spontaneous-hibernation-on-your-computer-smart-fixes-inside/"><u>End the Frustration of Spontaneous Hibernation on Your Computer - Smart Fixes Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-optimize-and-fast-track-your-windows-the-boot-sequence-for-a-smoother-start-every-time/"><u>Expert Tips to Optimize and Fast-Track Your Windows the Boot Sequence for a Smoother Start Every Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-steelseries-arctis-5-headset-microphone-malfunction-resolved/"><u>Fixing the Issue: SteelSeries Arctis 5 Headset Microphone Malfunction Resolved</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-aoc-display-drivers-for-windows-11-10-and-windows-8-users/"><u>Get the Latest AOC Display Drivers for Windows 11, 10 & Windows 8 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-restoring-an-edge-hidden-desktop-window/"><u>Guide: Restoring an Edge-Hidden Desktop Window</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-connections-in-windows-11/"><u>How to Repair Unresponsive USB Connections in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-predicting-film-production-costs-music-video/"><u>In 2024, Predicting Film Production Costs Music Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-start-for-my-pc-awoke-defying-windows-edition/"><u>No Start for My PC: Awoke-Defying Windows Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-list-of-tamil-ringtones-purchase-hubs-and-hacks-for-2024/"><u>The Ultimate List of Tamil Ringtones Purchase Hubs & Hacks for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-invisible-mouse-problem-in-windows-11/"><u>Troubleshooting the Invisible Mouse Problem in Windows 11</u></a></li>
+</ul></div>
 

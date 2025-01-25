@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality to Malfunctioning Function Keys on ASUS Notebooks
-date: 2025-01-16T20:28:02.781Z
-updated: 2025-01-19T19:26:34.110Z
+date: 2025-01-24T17:41:00.643Z
+updated: 2025-01-25T16:17:57.029Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -71,10 +71,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -103,11 +99,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -118,16 +122,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -138,6 +138,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,14 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earning-potential-in-beauty-blogging/"><u>[Updated] 2024 Approved Earning Potential in Beauty Blogging</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-lenses-for-4k-professional-production/"><u>[Updated] Best Lenses for 4K Professional Production</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-straightforward-steps-for-hassle-free-high-dynamic-range/"><u>[Updated] Straightforward Steps for Hassle-Free High Dynamic Range</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-stuck-windows-11-issues-expert-advice-on-keeping-your-system-responsive/"><u>Dealing with Stuck Windows 11 Issues: Expert Advice on Keeping Your System Responsive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-surface-tablet-wont-charge-solved/"><u>How to Fix: Surface Tablet Won't Charge – Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-a-safe-and-stable-connection-on-firefox-platform/"><u>How to Restore a Safe and Stable Connection on Firefox Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208340234-instant-fix-for-electronic-gadgets-when-they-cant-find-a-charge/"><u>Instant Fix for Electronic Gadgets - When They Can't Find a Charge</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/noiseless-video-record-of-your-screens-easy-fix-and-tutorial-by-movavi/"><u>Noiseless Video Record of Your Screens - Easy Fix & Tutorial by Movavi</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ue-breakdown-how-much-money-stem-from-each-watcher/"><u>Revenue Breakdown How Much Money Stem From Each Watcher</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-your-channels-income-the-optimal-view-count-quotient/"><u>[Updated] In 2024, Boosting Your Channel's Income The Optimal View Count Quotient</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-the-art-of-youtube-playlist-shuffling/"><u>[Updated] In 2024, Discover the Art of YouTube Playlist Shuffling</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-stream-like-a-pro-integrate-your-obs-setup-for-youtube-and-twitch/"><u>[Updated] In 2024, Stream Like a Pro Integrate Your OBS Setup for YouTube & Twitch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-honor-magic5-ultimate-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208697780-fix-a-network-change-was-detected-error/"><u>Fix “A Network Change Was Detected” Error</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-recordings-to-live-an-obs-guide-to-youtube-and-twitch-streaming-for-2024/"><u>From Recordings to Live An OBS Guide to YouTube and Twitch Streaming for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-wow-lagging-issues/"><u>How To Fix Wow Lagging Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-gt-5-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme GT 5 and Browser | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-your-console-solutions-for-xbox-series-issues/"><u>Revive Your Console: Solutions for Xbox Series Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-eliminating-black-screens-on-your-windows-11-pc/"><u>Step-by-Step Solution: Eliminating Black Screens on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Laptop Trackpad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-why-your-screen-wont-accept-hdcp-encryption/"><u>Troubleshooting: Why Your Screen Won't Accept HDCP Encryption</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-thawing-your-pc-solutions-to-unfreeze-your-computer/"><u>Ultimate Guide: Thawing Your PC - Solutions to Unfreeze Your Computer</u></a></li>
 </ul></div>
 

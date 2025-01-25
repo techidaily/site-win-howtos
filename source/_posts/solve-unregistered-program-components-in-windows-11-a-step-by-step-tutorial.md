@@ -1,7 +1,7 @@
 ---
 title: "Solve Unregistered Program Components in Windows 11: A Step-by-Step Tutorial"
-date: 2024-08-23T14:10:42.853Z
-updated: 2024-08-24T14:10:42.853Z
+date: 2025-01-23T16:18:49.248Z
+updated: 2025-01-25T18:16:21.725Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ When you fail to access another computer of the same network, or when you cannot
 
  The screenshot below comes from Windows 10, but the fixes also apply to Windows 7/8/11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Change adapter options
 
  The network adapter enables your computer to transmit and receive data on a local area network. If you’re having the 0x800704cf error, try changing the adapter settings to see if that resolves the problem.
@@ -53,6 +57,10 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-3-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Right-click the network you’re currently using, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-4.jpg)
@@ -66,8 +74,9 @@ When you fail to access another computer of the same network, or when you cannot
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Reset TCP/IP
 
  TCP/IP is a suite of rules that allow computers to communicate on a network. So if there’s something wrong with the[TCP/IP](https://en.wikipedia.org/wiki/Internet%5Fprotocol%5Fsuite) settings, the 0x800704cf error may occur. To see if that’s the case, you can simply do a reset.
@@ -76,9 +85,6 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-1-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**Yes** when you’re prompted to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-3-2.jpg)
@@ -95,9 +101,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now that the DNS cache is cleared, NetBIOS entries are refreshed, and both the IP settings and Winsock catalog is reset, you should reboot your computer for the changes to take effect. After that, check if the issue persists; if yes, head towards the last fix.
 
 ---
@@ -115,43 +118,39 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Double-click**Network adapters** to view all the devices under this category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Right-click a device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-5-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **6)** Delete all the devices one by one under Network adapters.
 
  After completing the steps above, restart your machine, and Windows will automatically reinstall the network adapters. The 0x800704cf error should be gone now and you can connect to another network PC without hassle.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fix 0x800704cf error when accessing the Microsoft Store**
 
 ![Fix 0x800704cf error when accessing the Microsoft Store on Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/08/error-case-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you fail to access the Microsoft Store on Windows 10 or 11, this 0x800704cf error will appear. It implies you’re not connected to the Internet, even though you are, as you can use the browser and other applications normally. But don’t worry; here’s a list of fixes that can help.
 
 1. **[Sign in with Microsoft account](https://tools.techidaily.com/drivereasy/download/)**
@@ -174,11 +173,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Enter your**account** and**password** to sign in.
 
 **5)** Go back to**Your info** , and click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the on-screen instruction to verify your identity. Then, open your Microsoft Store and see whether the 0x800704cf code still pops up or not. If this method isn’t helpful, don’t despair. Have a look at more fixes below.
 
@@ -192,23 +199,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 **3)** Select**All network adapters** , and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Wait for the troubleshooting process to complete, and close the troubleshooter.
 
 **5)** Click**troubleshoot** in the search box and click**Troubleshooting settings** to open the troubleshoot menu again.
@@ -235,36 +233,32 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-5-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Open your Microsoft Store, and the 0x800704cf error won’t be disturbing you anymore.
 
  Network issue like 0x800704cf error is a common PC problem but it’s insufferable. There’s so much you can’t do without the Internet, and even worse, you can’t search a solution to fix it. If you’ve frequently run into this kind of issues such as no or slow Internet access, be sure to check our bonus tips below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus tips: Update your network driver
 
  An outdated or a faulty network driver is known to be the culprit of most network problems. To keep your network connection smooth and strong, you should check if you install the up-to-date network adapter driver. If not, update them, in either way you want.
@@ -307,8 +301,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -316,4 +308,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-fastforward-lingertap-recording/"><u>[New] 2024 Approved FastForward LingerTap Recording</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-youtube-standard-studio-or-beta-progress/"><u>[Updated] 2024 Approved Mastering YouTube Standard Studio or Beta Progress</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[Updated] How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-online-video-leaderships-who-takes-the-crown-vimeo-youtubes-and-dailymotions/"><u>[Updated] Online Video Leaderships Who Takes the Crown – Vimeo, YouTubes & DailyMotions?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5ycl5lq65oof5acx5lplusd6k235qmf6io944ks5ykz44gi44gf5lplush6ac85ocn44gu44gc44kl44oe44or44ob44oh44oh44kj44ki44k944ov44oi44km44kn44kiic0g44og44o844o044kh44o04419/"><u>個人情報保護機能を備えた信頼性のあるマルチメディアソフトウェア - ムーヴァヴィ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/come-rimuovere-i-graffiti-dalle-immagini-con-il-tuo-editor-di-fotografie/"><u>Come Rimuovere I Graffiti Dalle Immagini Con Il Tuo Editor Di Fotografie</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/consumer-choice-awards-for-external-storage-devices-2024/"><u>Consumer Choice Awards for External Storage Devices - 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-your-mov-videos-into-3gpp-format-for-free-using-movavis-service/"><u>Convert Your MOV Videos Into 3GPP Format for Free Using Movavi's Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-webm-to-mp3-file-converter-easy-download-with-movavi/"><u>Free Online WebM to MP3 File Converter - Easy Download with Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/pc-mac-android-iphone-stable-video-playback-techniques/"><u>PC, Mac, Android, iPhone: Stable Video Playback Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transferer-facilement-des-videos-flv-a-un-fichier-aac-en-ligne-convertissez-avec-movavi-sans-frais/"><u>Transférer Facilement Des Vidéos FLV À Un Fichier AAC en Ligne - Convertissez Avec Movavi Sans Frais</u></a></li>
+</ul></div>
 

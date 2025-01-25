@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Minecraft Is Not Starting on Your Windows PC"
-date: 2025-01-13T18:58:34.943Z
-updated: 2025-01-19T20:01:13.787Z
+date: 2025-01-20T16:32:42.484Z
+updated: 2025-01-25T18:19:49.222Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 1: Check if the device itself is faulty**
 
  If the USB device was working before you upgraded to Windows 10, it’s unlikely to be faulty. But coincidences do occur. It’s certainly_possible_ that your device just happened to die right at the same time that you upgraded Windows. So it’s best to rule that possibility out for sure before spending time on more complex troubleshooting.
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 4) Plug the power supply back in
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
@@ -70,25 +74,29 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -104,19 +112,11 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -142,20 +142,20 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unveiling-the-secrets-to-stellar-igtv-footage-capture/"><u>[New] In 2024, Unveiling the Secrets to Stellar IGTV Footage Capture</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-androids-best-rated-10-ultimate-game-boy-advance-simulators/"><u>2024 Approved Android's Best-Rated 10 Ultimate Game Boy Advance Simulators</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/windows-781011-lenovo-onekey-recovery/"><u>步骤指南：在不同版本的 Windows (7、8、10、11) 上利用 Lenovo OneKey Recovery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bring-back-your-windows-10-bluetooth-effective-solutions-that-work-instantly/"><u>Bring Back Your Windows 10 Bluetooth: Effective Solutions That Work Instantly!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-overcome-driver-power-problems-on-windows-systems/"><u>Comprehensive Solutions to Overcome Driver Power Problems on Windows Systems</u></a></li>
-<li><a href="https://article-tips.techidaily.com/creating-emotional-depth-scriptwriting-tips-for-2024/"><u>Creating Emotional Depth Scriptwriting Tips for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-unresponsive-acer-keyboard-on-windows-os/"><u>Fix: Unresponsive Acer Keyboard on Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-nonfunctional-windows-10-updates-efficiently/"><u>Fixing Issues with Nonfunctional Windows 10 Updates Efficiently</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-share-todays-enlightening-voice-lesson/"><u>In 2024, Share Today's Enlightening Voice Lesson</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-s23-ultra-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy S23 Ultra to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/learn-sign-language-for-free-ultimate-list-of-16-resources/"><u>Learn Sign Language For Free: Ultimate List of 16 Resources</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-google-chrome-from-a-black-screen-nightmare-with-these-simple-fixes/"><u>Revive Your Google Chrome From a Black Screen Nightmare with These Simple Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210116655-trouble-with-driver-power-state-failure-heres-how-to-fix-it/"><u>Trouble with Driver Power State Failure? Here’s How to Fix It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-the-non-functional-audio-issue-in-windows-7/"><u>Troubleshooting Tips: Fixing the Non-Functional Audio Issue in Windows 7</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-top-performing-mobile-bicycle-bracket-accessories-2023-edition/"><u>Ultimate Guide: Top-Performing Mobile Bicycle Bracket Accessories - 2023 Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-top-20-strategies-for-effective-facebook-video-campaigns/"><u>[New] In 2024, Top 20 Strategies for Effective Facebook Video Campaigns</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fb-sensation-strategies-for-marketers-and-influencers/"><u>[Updated] In 2024, Fb Sensation Strategies for Marketers and Influencers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/essential-tips-for-mastering-instagram-reels-for-2024/"><u>Essential Tips for Mastering Instagram Reels for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-conversion-transform-your-mov-files-into-swf-format-with-ease-moveavi/"><u>Free Conversion: Transform Your MOV Files Into SWF Format with Ease - MoveAVI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-high-definition-video-player-downloads-ultimate-tool-for-enjoying-hd-content-on-your-windows-computer/"><u>Free High-Definition Video Player Downloads: Ultimate Tool for Enjoying HD Content on Your Windows Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-convertissez-vos-videos-webm-en-mp3-facilement-grace-a-movavi/"><u>Gratuit : Convertissez Vos Vidéos WebM en MP3 Facilement Grâce À Movavi!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-gebaseerd-online-converteren-van-dts-naar-mp3-movavi/"><u>Gratuit Gebaseerd Online-Converteren Van DTS Naar MP3 - Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-user-name-update-on-windows-11/"><u>Mastering User Name Update on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-gratuite-mpeg-converteerbewerkhouding-movavis-manier-om-wav-naar-mpeg-te-veranderen/"><u>Online Gratuite MPEG-Converteerbewerkhouding - Movavi's Manier Om WAV Naar MPEG Te Veranderen</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnecting-to-ea-servers-after-connection-failures-in-windows/"><u>Reconnecting to EA Servers After Connection Failures in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-steam-backup-mishaps-on-windows-10/"><u>Remedying Steam Backup Mishaps on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transforma-tus-archivos-avi-gratuitamente-al-formato-webm-en-linea-con-convertidor-de-video-rapido-y-eficiente-movavi/"><u>Transforma Tus Archivos AVI Gratuitamente Al Formato Webm en Línea Con Convertidor De Video Rápido Y Eficiente - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformation-sans-frais-de-fichiers-m1v-a-mp4-sur-le-web-via-movavi/"><u>Transformation Sans Frais De Fichiers M1V À MP4 Sur Le Web via Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-wma/"><u>오픈소스 동영상을 무료로 구조화: Movavi에서 WMA 편집</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Desktop Printers or Print Shops – Which Offers Better Value for Money in the Long Run?
-date: 2024-08-28T00:18:56.741Z
-updated: 2024-08-29T00:18:56.741Z
+date: 2025-01-18T17:20:09.253Z
+updated: 2025-01-25T18:19:19.603Z
 tags:
   - excel
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
  While many users see desktop printers as the best way to print photos, compared to cheap printing services, they may be more expensive. In this simple How-To, learn how to compare the cost per print to commercial options.
 
  Readers may not think of desktop printers as “convenient,” however manufacturers are largely selling the convenience of being able to print at home. Many commercial printers may offer services that are cheaper, even at small quantities. See how a few free downloads, some internet research, and some math can save you money over the holidays.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Much Do Your Consumables Cost?
 
@@ -41,14 +45,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
 
  A few short minutes will reveal pages like cartridgenews.com, which had the information regarding the printer in this How-To. We can see here that the same Cyan cartridge will print 207 4x6 photos, as well as the same yield information for the remaining three cartridges. We’re only interested in full color yield information; many advertisements will try to mislead users with statistics about black and white images or yield from pages of text. Be careful when looking for this information, in order to ensure you do your calculations correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ##  OpenOffice or Excel Does All The Math For You
 
 ![sshot-272](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-272.png) 
 
  Chances are you already have some sort of spreadsheet solution on your computer, be it [Microsoft Excel](http://office.microsoft.com/en-us/excel/) or the [OpenOffice suite](http://download.openoffice.org/). If you do not have either, you can [download OpenOffice for free](http://download.openoffice.org/). You can do the math yourself, but downloading free HTG tools will save you the trouble of doing it again and again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The How-To Geek Photo Print Calculation Tool
 
@@ -60,26 +65,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
 
 ![sshot-263](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-263.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Yellow cells are editable; blue ones are not. Enter the information you found in the earlier section of the How-To, starting with the name of the various items you’re working with, e.g., Cyan or Black printer cartridges.
 
 ![sshot-264](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-264.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your printer may have multiple cartridges—six or even more, depending on your model. If you have four, five, or only two, input them all here.
 
 ![sshot-265](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-265.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  In the Yield column, input the yields you found earlier, corresponding with the cartridges in the horizontal rows. Cyan yields 207 prints, while a magenta cartridge yields 204.
 
 ![sshot-266](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-266.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Enter the cost in the “Price” column. In this case, all four cartridges have the same retail price. The “Cost/print” column is already going to work calculating the cost per print, saving you the trouble of doing the division.
 
@@ -90,11 +94,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
 ![sshot-268](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-268.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  8”x10” paper is sold here in packs of 50 pages at a price of $19.99\. The tool calculates this cost at 40 cents per piece of photo paper, given that retail amount.
 
 ![sshot-269](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-269.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the paper amounts are included, the tool automatically tallies the total cost of a single 4”x6” print and a single 8”x10” inch print. Keep in mind, without those two values, it cannot determine the cost per page.
 
@@ -102,9 +111,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
 
 ![sshot-273](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-273.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Simple Google searches for “4x6 prints” can find online and local printers capable of producing high-quality prints for far cheaper than the above rate of 30 cents per 4”x6” or 85 cents per 8”x10”. From there, it is a simple comparison of cost versus convenience—are you prepared to spend the time to prepare prints for cheaper print services? Or do you prefer the convenience of printing from your somewhat pricier desktop printer? You may find that even despite the higher cost, the convenience of printing at home outweighs the price.
 
  Readers should also keep in mind that not all printing services are created equal, and that some printers may produce prints inferior to your desktop machine. Buyer beware, and happy printing!
@@ -124,8 +130,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +137,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-comprehensive-examination-the-future-of-photography-with-aurora-hdr-for-2024/"><u>[New] Comprehensive Examination The Future of Photography with Aurora HDR for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mobile-entertainment-made-easy-download-funimate-apk/"><u>[Updated] In 2024, Mobile Entertainment Made Easy Download Funimate APK</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-and-cloud-computing-the-power-duo-propelling-alliances-toward-future-success-insights-from-zdnet/"><u>AI & Cloud Computing: The Power Duo Propelling Alliances Toward Future Success - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-common-windows-update-malfunctions/"><u>Expert Tips for Fixing Common Windows Update Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-what-to-do-if-your-system-wont-turn-on/"><u>Fixing the Issue: What to Do If Your System Won't Turn On</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-miracast-on-unsupported-devices-with-updated-graphic-card-software/"><u>How to Enable Miracast on Unsupported Devices with Updated Graphic Card Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-pc-game-crashes-in-nier-automata-solved/"><u>How to Troubleshoot PC Game Crashes in Nier: Automata - Solved!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24+ Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-quiet-movies-effective-ways-to-get-your-netflix-audio-working-again/"><u>No More Quiet Movies: Effective Ways to Get Your Netflix Audio Working Again</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/renewal-of-exchange-dbs-through-stellar-techniques/"><u>Renewal of Exchange DBs Through Stellar Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rescue-your-gaming-experience-reinstating-dlls/"><u>Rescue Your Gaming Experience: Reinstating DLLs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-trailers-for-virtual-broadcasts/"><u>Tailoring Trailers for Virtual Broadcasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-ai-language-models-at-openai-analyzing-the-advancements-from-gpt-1-up-to-gpt-4/"><u>The Evolution of AI Language Models at OpenAI: Analyzing the Advancements From GPT-1 Up to GPT-4</u></a></li>
+<li><a href="https://discover-data.techidaily.com/understanding-the-mystery-of-windows-black-screen-an-expert-guide-yl-computing/"><u>Understanding the Mystery of Windows' Black Screen: An Expert Guide - YL Computing</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/webm-mp3/"><u>WEBMファイル音声抽出: MP3形式に完全移行方法</u></a></li>
+</ul></div>
 

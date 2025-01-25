@@ -1,7 +1,7 @@
 ---
 title: "Getting the Best Sound: Diagnosing and Fixing Issues With Your Corsair HS50 Microphone"
-date: 2024-08-28T00:23:35.791Z
-updated: 2024-08-29T00:23:35.791Z
+date: 2025-01-20T18:40:38.189Z
+updated: 2025-01-25T16:00:01.012Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 ## Fixing the Issue: SteelSeries Arctis 5 Headset Microphone Malfunction Resolved
 
  Is your **SteelSeries Arctis 5 Mic Not Working** ? You’re not alone – many users have reported similar issues. But don’t worry, it’s often quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
@@ -60,15 +64,13 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
@@ -82,29 +84,32 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -127,8 +132,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +139,23 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-mkv-playback-top-macos-apps-reviewed/"><u>[New] MKV Playback Top macOS Apps Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamlining-the-recording-process-in-virtual-gatherings/"><u>[New] Streamlining the Recording Process in Virtual Gatherings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leading-tools-to-personalize-and-enhance-your-speech-on-the-go/"><u>[Updated] Leading Tools to Personalize and Enhance Your Speech on the Go</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/assessing-the-netgear-powerline-range-extender-1200mbps-a-closer-look-at-functionality-vs-form/"><u>Assessing the Netgear Powerline Range Extender (1200Mbps): A Closer Look at Functionality Vs. Form</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augment-canon-imagery-unlimited-freebies-and-customized-purchases/"><u>Augment Canon Imagery Unlimited Freebies & Customized Purchases</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solutions-for-persistent-computer-hangs-and-stops-working-problems/"><u>DIY Solutions for Persistent Computer Hangs and Stops Working Problems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/heaviest-airborran-aerial-haulers-ultimate-choices-for-2024/"><u>Heaviest Airborran Aerial Haulers - Ultimate Choices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-break-free-from-the-restart-cycle-in-windows-1011-a-comprehensive-guide/"><u>How to Break Free From the Restart Cycle in Windows 10/11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-release-a-stuck-window-updates-on-legacy-oss-like-windows-seven-updated-tips-and-techniques-for-better-user-experience-in-the-year-2024-helpful-tips-148/"><u>How To Release A Stuck Window Updates On Legacy OSs Like WIndows Seven - Updated Tips And Techniques For Better User Experience In The Year 2024 (Helpful Tips & Guide)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/latest-tricks-to-optimize-your-minecraft-experience-say-goodbye-to-lag/"><u>Latest Tricks to Optimize Your Minecraft Experience: Say Goodbye to Lag!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-wlanapidll-error-a-comprehensive-guide-to-solutions/"><u>Resolving wlanAPI.dll Error: A Comprehensive Guide to Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-connection-woes-heres-how-you-can-restore-access-to-game-content-servers/"><u>Steam Connection Woes? Here’s How You Can Restore Access to Game Content Servers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-the-0x802e0034-problem-in-windows-10-updates/"><u>Troubleshooting Tips for Fixing the '0X802e0034' Problem in Windows 10 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-non-charging-surface-device-issues-and-fixes/"><u>Troubleshooting Your Non-Charging Surface Device - Issues and Fixes</u></a></li>
+</ul></div>
 

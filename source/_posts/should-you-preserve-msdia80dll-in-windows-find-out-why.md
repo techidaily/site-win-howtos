@@ -1,7 +1,7 @@
 ---
 title: Should You Preserve msdia80.dll in Windows? Find Out Why
-date: 2024-08-28T00:23:56.826Z
-updated: 2024-08-29T00:23:56.826Z
+date: 2025-01-24T16:03:30.227Z
+updated: 2025-01-25T16:57:10.529Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 
 Are you trying to install an application but receive an error message? Or are you cleaning your disk to free some space but get confused about the msdia80.dll? Don’t worry, this post will explain it to you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is msdia80.dll?
 
  First, you don’t need to worry. Because this file is not a virus. This file is a system file in Visual C++2005 Redistributable Package. If your computer is running a 64-bit operating system, and you’ve installed the Microsoft Visual C++ 2005 Redistributable Package, the msdia80.dll will be installed in the root folder of the boot drive.
@@ -27,14 +31,12 @@ Are you trying to install an application but receive an error message? Or are yo
 
  While it’s no harm to keep it because it’s a safe system file. But this file should be located at**C:\\Program Files\\Common Files\\Microsoft Shared\\VC\\msdia80.dll** . If you find it in other drives, you may need to be careful cause it could be the reason for the unsuccessful installation for your other application.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try the two fixes
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Install the Microsoft Visual C++ Packages
 
  This is an easy but effective way to solve your problem. And it’s recommended by Microsoft official website.
@@ -45,16 +47,14 @@ Are you trying to install an application but receive an error message? Or are yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Navigate to the file location, right-click on them and choose**Run as administrator** .
 
  4) After installation, reboot your computer to take effect. Then check your problem is fixed or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Remove the file location
 
  If you don’t want to download and install the Microsoft Visual C++ Packages, you can try this fix. Once you put the msdia80.dll in the correct place then register it, the problem could be solved and you can delete the file which in the wrong place.
@@ -70,8 +70,9 @@ Are you trying to install an application but receive an error message? Or are yo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/path.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) In this folder, right-click on the empty space and click**Paste** . Click**Continue** when you were asked for permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/permission.jpg)
@@ -82,6 +83,10 @@ Are you trying to install an application but receive an error message? Or are yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Type or copy and paste the following command into the Command Prompt.  
 **Note** : make sure you’ve included the**double-quotes** .
 
@@ -89,9 +94,6 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  8) Restart your computer to take effect. Then check if your problem is solved or not.
 
 ---
@@ -106,8 +108,6 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +115,19 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-best-practice-mp4-director-to-fb/"><u>[Updated] Best Practice MP4 Director to FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stepwise-approach-transform-fish-voices-on-pcs/"><u>[Updated] Stepwise Approach Transform Fish Voices on PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-zoom-to-elevate-your-facebook-lives/"><u>2024 Approved Navigating Zoom to Elevate Your Facebook Lives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211439583-device-unveiled-revolutionary-speed-boost-achieved/"><u>Device Unveiled: Revolutionary Speed Boost Achieved</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-captivating-movies-on-disneyplus-today/"><u>Discover the Most Captivating Movies on Disney+ Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-correct-error-0x800f0831-with-a-windows-update-troubleshoot/"><u>Effortlessly Correct Error 0X800f0831 with a Windows Update Troubleshoot</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-fix-unstoppable-volume-controller-on-windows/"><u>Guide to Fix 'Unstoppable Volume Controller' On Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maintain-your-organization-files-stay-fixed-in-windows-11-upon-rebooting/"><u>Maintain Your Organization: Files Stay Fixed in Windows 11 Upon Rebooting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/remedying-visual-aberrations-tips-for-restoring-your-monitors-true-colors/"><u>Remedying Visual Aberrations: Tips for Restoring Your Monitor's True Colors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-10-update-errors-v1803-fixes/"><u>Troubleshooting and Resolving Windows 10 Update Errors - v1803 Fixes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unraveling-the-process-of-gaining-facebooks-blue-badge-for-2024/"><u>Unraveling the Process of Gaining Facebook's Blue Badge for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unveiling-lgs-full-hd-27-inch-monitor-features/"><u>Unveiling LG's Full HD, 27-Inch Monitor Features</u></a></li>
+</ul></div>
 

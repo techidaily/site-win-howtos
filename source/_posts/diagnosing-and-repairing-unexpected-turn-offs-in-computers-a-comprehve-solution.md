@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Unexpected Turn-Offs in Computers: A Comprehve Solution"
-date: 2025-01-14T19:52:06.902Z
-updated: 2025-01-19T19:11:34.699Z
+date: 2025-01-21T17:17:08.536Z
+updated: 2025-01-25T16:38:53.708Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Check if your computer has a virus
 
  Virus can cause your computer to work strangely. They can change the computer settings without your knowledge. And they can cause your computer to turn on and off repeatedly.  
@@ -42,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  So check if your computer has a virus. You can use your anti-virus software to scan your computer and remove the virus if necessary. If you haven’t installed a anti-virus software, see[Free Virus Removal Tool](https://tools.techidaily.com/drivereasy/download/) and pick the anti-virus software you trust.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update the drivers on your computer
 
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it partly manual.
 
 ### Method 3: Remove any peripherals from your computer
@@ -80,6 +76,14 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  Once removing a peripheral, check to see if the problem is resolved, then you can figure out which peripheral is causing the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Reset CMOS to the default settings
 
@@ -103,6 +107,10 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
@@ -110,7 +118,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
@@ -120,10 +128,6 @@ For example, many Dell PCs show this key like below at the first screen:
  4)**Exit BIOS** .  
 
  5)**Restart your computer** and check to see if the problem is resolved.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Check PSU (Power Supply Unit)
 
@@ -144,7 +148,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 7: Clean dust
@@ -158,10 +162,6 @@ For example, many Dell PCs show this key like below at the first screen:
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 
@@ -182,22 +182,18 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-proven-strategies-for-premium-picture-acquisition-gratis/"><u>[New] Proven Strategies for Premium Picture Acquisition Gratis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-update-error-8007000e-quickly-and-easily/"><u>[Solved] Windows Update Error 8007000E | Quickly & Easily</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-flawless-free-android-snapmaker/"><u>[Updated] In 2024, Flawless Free Android SnapMaker</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-powerdirector-app-complete-review-and-guide-2024/"><u>[Updated] PowerDirector App Complete Review & Guide 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-how-to-add-titlestext-to-video-on-microsoft-photos-in-windows-10/"><u>2024 Approved How to Add Titles/Text to Video on Microsoft Photos in Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/access-history-at-your-fingertips-a-beginners-guide-to-the-wayback-machine/"><u>Access History at Your Fingertips: A Beginner's Guide to the Wayback Machine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202094236-fixing-missing-desktop-icons-on-windows-11-complete-solution/"><u>Fixing Missing Desktop Icons on Windows 11 - Complete Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-play-fortnite-solutions-for-incompatible-graphics-cards-under-windows/"><u>How to Play Fortnite: Solutions for Incompatible Graphics Cards Under Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/innovative-snooze-solutions-for-flawless-rest-and-stress-release/"><u>Innovative Snooze Solutions for Flawless Rest and Stress Release</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlined-transcoding-xml-and-ttml-into-professional-srt/"><u>Streamlined Transcoding XML & TTML Into Professional SRT</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-game-consoles-emulated-on-macos/"><u>Top 5 Game Consoles Emulated on macOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-what-to-do-when-your-computer-fails-to-boot/"><u>Troubleshoot and Fix: What To Do When Your Computer Fails to Boot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-for-corrupted-pictures-in-windows-10-and-11/"><u>Troubleshooting Fixes for Corrupted Pictures in Windows 10 and 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-non-functional-night-light-on-windows-11/"><u>Troubleshooting Guide for Non-Functional Night Light on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-enabling-supported-graphic-cards-for-fortnite-in-windows-os/"><u>Troubleshooting Guide: Enabling Supported Graphic Cards for Fortnite in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723200709282-troubleshooting-windows-keys-that-wont-budge-solutions-inside/"><u>Troubleshooting Windows Keys That Won't Budge – Solutions Inside!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unlocking-full-potential-steam-and-your-switch-pro-controller-for-2024/"><u>Unlocking Full Potential Steam and Your Switch Pro Controller for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-premier-recommendations-best-iphone-tones-designers/"><u>[New] In 2024, Premier Recommendations Best iPhone Tones Designers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[Updated] 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-discover-the-ideal-release-windows-on-youtube/"><u>[Updated] Discover the Ideal Release Windows on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevating-audience-excitement-with-top-ideas/"><u>[Updated] Elevating Audience Excitement with Top Ideas</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[Updated] In 2024, How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-guide-photos-to-powerful-youtube-channel-thumbnails-in-a-flash/"><u>2024 Approved Instant Guide Photos to Powerful YouTube Channel Thumbnails in a Flash</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-huawei-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Huawei</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-screen-recordings-on-windows-10-systems-for-2024/"><u>Mastering Screen Recordings on Windows 10 Systems for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximizing-speed-with-wheel-motion/"><u>Maximizing Speed with Wheel Motion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-and-simple-guide-mastering-the-ultimate-fresh-start-with-windows-11/"><u>Swift & Simple Guide: Mastering the Ultimate Fresh Start with Windows 11</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/top-performant-simulation-de-machines-a-temps-pour-les-systemes-windows-11-10-8-et-7/"><u>Top-Performant Simulation De Machines À Temps Pour Les Systèmes Windows : 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11-proven-reducing-wmi-provider-host-cpu-load/"><u>Win11 Proven: Reducing WMI Provider Host CPU Load</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-and-bluetooth-issues-how-to-fix-unseen-or-undetected-peripherals/"><u>Windows 11 and Bluetooth Issues: How to Fix Unseen or Undetected Peripherals</u></a></li>
 </ul></div>
 

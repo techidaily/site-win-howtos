@@ -1,7 +1,7 @@
 ---
 title: "Mastering Formula Tracking in Microsoft Excel: A Guide to Utilizing the Watch Window"
-date: 2024-08-28T00:18:19.636Z
-updated: 2024-08-29T00:18:19.636Z
+date: 2025-01-19T17:38:42.572Z
+updated: 2025-01-25T17:37:07.290Z
 tags:
   - excel
 categories:
@@ -32,9 +32,9 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![Go to the Formulas tab and click Watch Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/FormulasTabWatchWindow-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "Add Watch" in the Watch Window toolbar.
 
 ![Click Add Watch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/AddToWatchWindow-Excel.png) 
@@ -44,8 +44,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Confirm the cells and click Add](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/AddWatchWindow-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Watch All Cells with Formulas
 
  If you prefer to add all cells containing formulas in your sheet, this is just as simple. With your sheet active, go to the Home tab.
@@ -54,24 +55,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Go to the Home tab, click Find & Select, choose Formulas](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/FindSelectFormulas-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  This selects all cells containing [formulas in your spreadsheet](https://fox-helps.techidaily.com/new-2024-approved-safety-features-evaluated-in-syma-x8c/). From there, follow the same steps as those listed above to open the Watch Window and add those cells.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use the Watch Window
 
  After you add cells to the Watch Window, you can see the workbook name, sheet name, cell name, [cell reference](https://facebook-video-content.techidaily.com/new-in-2024-curated-list-of-top-20-prison-jail-memes-boosting-morale-on-social-platforms/), value, and formula for each one.
 
 ![Cells in the Watch Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/CellsWatchWindow-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is when the Watch Window becomes so valuable in large spreadsheets. If you need to see the result of a formula (value), you don't have to scroll through your current sheet, move to a different one, or even pull another workbook into view. Just look at the Watch Window.
 
 Related: [How to Change the Cell Reference Style in Excel](https://facebook-video-content.techidaily.com/new-in-2024-curated-list-of-top-20-prison-jail-memes-boosting-morale-on-social-platforms/) 
@@ -79,13 +74,18 @@ Related: [How to Change the Cell Reference Style in Excel](https://facebook-vide
  Any cells that you add to the Watch Window will remain there until you remove them (as seen below). The exception is when you're using multiple workbooks. For example, if you're using Workbook A and have cells from Workbook B in the Watch Window, you must keep Workbook B open. If you close it, those cells will disappear from the Watch Window.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Move the Watch Window
 
  The Watch Window can be moved or parked wherever you like in your Microsoft Excel workbook. Simply drag to move it or double-click its gray area to dock it above the formula bar.
 
 ![Docked Watch Window in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/ParkWatchWindow-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also close the Watch Window using the "X" in the upper-right corner or the button in the ribbon. When you reopen it, those same cells that you added will be there ready and waiting.
 
@@ -103,8 +103,6 @@ Related: [How to Change the Cell Reference Style in Excel](https://facebook-vide
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +110,21 @@ Related: [How to Change the Cell Reference Style in Excel](https://facebook-vide
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-expert-guide-fast-forward-your-way-through-tiktok-videos/"><u>[New] Expert Guide Fast-Forward Your Way Through TikTok Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-maximizing-engagement-strategies-for-video-thumbnail-design/"><u>[Updated] In 2024, Maximizing Engagement Strategies for Video Thumbnail Design</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-and-tarkov-fix-visual-evasion-guide/"><u>AMD & Tarkov Fix: Visual Evasion Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-logilda-missing-dll-quickly/"><u>Fix LogiLDA Missing DLL Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978081495-get-your-intel-centrino-n-6205-wifi-card-drivers-here/"><u>Get Your Intel Centrino N 6205 WiFi Card Drivers Here!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-narzo-n53-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme Narzo N53 to Another | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-bandicams-potential-for-efficient-video-capture/"><u>In 2024, Unlocking Bandicam's Potential for Efficient Video Capture</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-cumuluspro-desk-mat-for-ergonomic-support/"><u>In-Depth Analysis of the CumulusPRO Desk Mat for Ergonomic Support</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-usb-device-not-detected-error/"><u>Resolved: How to Fix 'USB Device Not Detected' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-problems-with-minecrafts-lan-gaming-mode/"><u>Solving Common Problems with Minecraft's LAN Gaming Mode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correctly-resolve-code-0x8024402c-in-windows-update/"><u>Step-by-Step Solutions to Correctly Resolve Code 0X8024402c in Windows Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-32-bit-applications-print-driver-host-stops-functioning/"><u>Troubleshooting Completed: 32 Bit Application's Print Driver Host Stops Functioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unravel-the-mystery-of-livekernelevent-error-117-and-learn-how-to-correct-it/"><u>Unravel the Mystery of LiveKernelEvent Error 117 and Learn How to Correct It</u></a></li>
+</ul></div>
 

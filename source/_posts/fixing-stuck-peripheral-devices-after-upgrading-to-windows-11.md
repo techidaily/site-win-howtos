@@ -1,7 +1,7 @@
 ---
 title: Fixing Stuck Peripheral Devices After Upgrading to Windows 11
-date: 2024-08-28T00:21:23.222Z
-updated: 2024-08-29T00:21:23.222Z
+date: 2025-01-20T16:38:56.947Z
+updated: 2025-01-25T17:01:21.035Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/1c433afae0f8c316ba83d724b6e1d85b8ae483fb3
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -44,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/1c433afae0f8c316ba83d724b6e1d85b8ae483fb3
 * Also, make sure that the keyboard receiver is well-connected as well.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -55,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/1c433afae0f8c316ba83d724b6e1d85b8ae483fb3
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Install the correct keyboard driver
 
  In some cases, your keyboard might need the correct driver to be able to work properly. It could be the latest version of the keyboard driver or the driver that shipped along with your keyboard. You should try both ways to decide which one suits you better.
@@ -71,23 +77,18 @@ thumbnail: https://thmb.techidaily.com/1c433afae0f8c316ba83d724b6e1d85b8ae483fb3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Clean the keyboard
 
 If you haven’t cleaned your keyboard, in like forever, do it now.
@@ -106,8 +107,6 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +114,26 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-fb-video-plays-top-10-choices/"><u>[New] Essential FB Video Plays Top 10 Choices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-a-complete-guide-to-use-instagram-video-chat/"><u>[New] In 2024, A Complete Guide to Use Instagram Video Chat</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ishowu-audio-capture-download-and-review-for-2024/"><u>[New] IShowU Audio Capture Download and Review for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-prototyping-perfection-the-best-vector-software-of-the-year-for-2024/"><u>[New] Prototyping Perfection The Best Vector Software of the Year for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-c-span-video-hack-a-controocentric-viewpoint/"><u>[Updated] C-Span Video Hack A Controocentric Viewpoint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5yuv55s75pku5b2x5oqa6kgt77ya44gv44gplus44gw44gplus44gq44ki44oz44kw44or44go5b6u6kq5pw05pa55rov44gu44ks44kk44oj44cn/"><u>「動画撮影技術：さまざまなアングルと微調整方法のガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm44ky44o844of44oz44kw44oe44k344oz44gn5a6m55kn44gq44ot44oh44kq57eo6zugic0g5bco5ywl44gx44gf44gp44gq44kl5lik5l2n44os44kz44oh44oz44oj44cn/"><u>「ゲーミングマシンで完璧なビデオ編集 - 導入したくなる上位レコメンド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029540639-mov-mp4/"><u>高画質保持で MOV から MP4 に完璧に変換するテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027323528-xmedia-recode/"><u>効率的にXMedia Recodeを使った動画結合ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3g23g2mp4/"><u>最適な3G2フォーマット変換ツールの選び方：3G2ビデオをMP4へ移行する手引き</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-x100-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-hub-port-power-spike-problem-successfully/"><u>How to Fix a Hub Port Power Spike Problem Successfully</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-15-pro-max-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 15 Pro Max to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-upgrade-how-teamgroups-newly-magnetized-t-force-siren-line-revolutionizes-easy-custom-pc-construction/"><u>Innovative Upgrade: How TeamGroup's Newly Magnetized T-Force Siren Line Revolutionizes Easy Custom PC Construction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029345412-mpcmpcmp3/"><u>MPCが何か？免責金のないMPCファイルをMP3へ自由に変更する手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027670980-webex/"><u>Webex会議中にメモリーカードで音声記録ができる方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030550739-windowsmac/"><u>Windows・Macで動画からスチールショットを抽出する専門的なガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44ov44oz44oa44ov44kp44od44kv44k557ep5zci5oof5acx44od44o844k44or44gl44kj5zwg5zob44ks6lo85ywl44gv5y2x6zm644gq44ge44gn44gz44gl77yf/"><u>ワンダフォックス総合情報ポータルから商品を購入は危険ないですか？</u></a></li>
+</ul></div>
 

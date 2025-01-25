@@ -1,7 +1,7 @@
 ---
 title: "Bypassing the Barrier: A Comprehensive Guide to Rectify Windows Update Error 0X8024401c on Modern Operating Systems"
-date: 2024-08-28T00:22:07.060Z
-updated: 2024-08-29T00:22:07.060Z
+date: 2025-01-20T18:05:08.811Z
+updated: 2025-01-25T17:51:40.483Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 ## Expert Advice on Correcting Windows Update Failure with Error Code 0X8024402C - Learn How Here
 
 **Error 0x8024402c** , occurs when checking for Windows Updates. It could be caused by invalid network settings, update settings and LAN settings. Here in this post, 4 useful fixes to Error 0x8024402c will being shown to you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 1\. Enable Automatic Detect Settings**
 
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -47,11 +55,19 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
 
@@ -68,6 +84,10 @@ Find and click to open Command Prompt from Start menu.
  c) Type **net start wuauserv**  and hit **Enter** .
 
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3\. Change DNS Servers
 
@@ -97,15 +117,8 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -123,18 +136,15 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
  a) Right-click on**Windows**  folder, then choose **New**  \> **Key** .
@@ -143,9 +153,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
@@ -153,8 +160,9 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
@@ -167,14 +175,11 @@ After the fixes above, Windows Update should be good to go now.
 
 * [Windows Update](/tag-search/?tagId=62)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +188,18 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-younow-review-and-alternative/"><u>[New] 2024 Approved Younow Review and Alternative</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graphicgenius-suite/"><u>[New] In 2024, GraphicGenius Suite</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-dominating-desktops-the-ultimate-approach-for-viral-videos/"><u>[Updated] Dominating Desktops The Ultimate Approach for Viral Videos</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/cairos-leading-seo-firms-elite-selection-by-seo-powersuite/"><u>Cairo's Leading SEO Firms: Elite Selection by SEO PowerSuite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-recommended-tools-for-efficiently-downloading-videos-with-flowplayer-integration/"><u>Top Recommended Tools for Efficiently Downloading Videos with Flowplayer Integration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-facebook-video-playback-problems-across-devices/"><u>Troubleshooting Facebook Video Playback Problems Across Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/troubleshooting-tips-for-smooth-cyberpunk-aturdays-2023-09-16t181400plus0000/"><u>Troubleshooting Tips for Smooth Cyberpunk Aturdays 2023-09-16T18:14:00+00:00</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-high-quality-video-converters-that-outshine-winx-dvd-ripper/"><u>Ultimate Guide to High-Quality Video Converters That Outshine WinX DVD Ripper</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-moviesjoy-downloader-effortlessly-obtain-your-favorite-movies-from-moviesjoy/"><u>Ultimate Tutorial on [MoviesJoy Downloader]: Effortlessly Obtain Your Favorite Movies From MoviesJoy!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unable-to-watch-avi-videos-on-kindle-fire-learn-simple-solutions-now/"><u>Unable to Watch AVI Videos on Kindle Fire? Learn Simple Solutions Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-microsofts-big-play-in-gaming-with-blizzard-podcast-discussion-on-innovative-ai-and-translation-tech/"><u>Unpacking Microsoft's Big Play in Gaming with Blizzard: Podcast Discussion on Innovative AI and Translation Tech</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Display/Hide Header Rows and Columns in Microsoft Excel"
-date: 2024-08-28T00:19:15.648Z
-updated: 2024-08-29T00:19:15.648Z
+date: 2025-01-23T16:54:19.934Z
+updated: 2025-01-25T16:43:37.688Z
 tags:
   - excel
 categories:
@@ -53,8 +53,6 @@ The headers (numbered rows and lettered columns) in Excel worksheets make it eas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -62,8 +60,26 @@ The headers (numbered rows and lettered columns) in Excel worksheets make it eas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-nikon-z7-ii-analysis-deep-dive/"><u>[New] In 2024, Nikon Z7 II Analysis Deep-Dive</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-leading-selection-of-tools-to-download-facebook-lite-videos/"><u>[Updated] 2024 Approved The Leading Selection of Tools to Download Facebook Lite Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-masterful-approach-to-creating-attractive-yt-summaries-for-2024/"><u>[Updated] Masterful Approach to Creating Attractive YT Summaries for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-joyfuljourney-sign-up-share-and-create-fun-videos/"><u>2024 Approved JoyfulJourney Sign Up, Share and Create Fun Videos</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft-android-data-recovery-for-mac/"><u>Aiseesoft FoneLab Android Data Recovery for Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-google-chromes-errcachemiss-error/"><u>Effective Solutions to Overcome Google Chrome's ERR_CACHE_MISS Error</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-mouse-icon-on-windows-11-quick-solutions/"><u>How to Restore Your Mouse Icon on Windows 11 – Quick Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211938862-keyboard-troubles-learn-how-to-perform-a-quick-reset/"><u>Keyboard Troubles? Learn How to Perform a Quick Reset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-type-errors-corrected-enjoy-smooth-typing-once-again/"><u>Keyboard Type Errors Corrected: Enjoy Smooth Typing Once Again</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-your-digital-world-with-toms-hardware-experts/"><u>Mastering Your Digital World with Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tech-news-samsung-grows-galaxy-ai-presence-as-it-climbs-google-antitrust-case-rankings/"><u>Top Tech News: Samsung Grows Galaxy AI Presence as It Climbs Google Antitrust Case Rankings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-top-issues-for-a-smooth-black-ops-4-experience/"><u>Troubleshooting Top Issues for a Smooth Black Ops 4 Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-surface-device-if-it-remains-uncharged-despite-being-connected-to-power/"><u>Troubleshooting Your Surface Device If It Remains Uncharged Despite Being Connected to Power</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-overcoming-challenges-when-your-dhcp-server-is-offline/"><u>Understanding and Overcoming Challenges When Your DHCP Server Is Offline</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Diagnostics Policy Service' Failure Issue
-date: 2024-08-28T00:23:39.518Z
-updated: 2024-08-29T00:23:39.518Z
+date: 2025-01-18T17:08:57.356Z
+updated: 2025-01-25T18:27:54.659Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/3c7adb8361f107e7e2513d0c6a87960b8e0bf54d4
 
 3\. Restart the PC and connect the device to the USB port.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 2: Uninstall the USB Driver in Device Manager**
 
 Follow these steps:
@@ -57,9 +61,6 @@ Follow these steps:
 
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## **Method 3 : Update the USB Driver**
 
  The problem can be caused by a faulty USB driver. In this case, updating the driver would fix the problem.
@@ -77,18 +78,13 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3\. Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 4: Disable Fast Startup**
 
  If Windows is booting quickly, the external device may not be detected before the boot is completed, then the problem will occur. In this case, disabling the fast boot option in Power Options can resolve the problem.
@@ -99,6 +95,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde28fa83dc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. View by Large Icons and click on**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
@@ -107,9 +107,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde37b21df1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5\. Click on**Change settings that are corrently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde3ce2afe1.png)
@@ -120,6 +117,10 @@ Follow these steps:
 
  7\. Restart your PC and see if the problem resolves. Note your PC will boot a little slower.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 5: Change the USB Selective Suspend Settings**
 
 Follow these steps:
@@ -129,8 +130,9 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2\. Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb15c69d9.jpg)
@@ -139,26 +141,28 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click on**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde9507f19b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. Click on**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb95133af.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  6\. Locate**USB settings** and expand it.
 
  7\. Expand**USB selective suspend setting** . Disable both**On battery** and**Plugged in** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdec39ba7fd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8\. Click the**Apply** button and restart your computer.
 
  After using the methods in this post, you must resolve the Device Descriptor Request Failed error for Windows 10.
@@ -169,8 +173,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +180,23 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dribbble-artwork-aspect-ratio-guide/"><u>[New] 2024 Approved Dribbble Artwork Aspect Ratio Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-capture-the-season-wardrobe-top-5-winter-yt-scenes-for-2024/"><u>[Updated] Capture the Season' Wardrobe Top 5 Winter YT Scenes for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-podcasters-playbook-writing-and-editing-for-engaging-audio-for-2024/"><u>[Updated] The Podcaster's Playbook Writing & Editing for Engaging Audio for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-overcome-windows-update-error-0x8024002e-quickly/"><u>Expert Solutions to Overcome Windows Update Error 0X8024002E Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correctly-operating-your-usb-combined-device-with-usb-30-technology/"><u>Expert Tips for Correctly Operating Your USB Combined Device With USB 3.0 Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-mic-issues-solutions-when-your-microphone-fails-in-windows-11/"><u>Fixing Mic Issues: Solutions When Your Microphone Fails in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-the-unresponsive-volume-control-in-windows-10/"><u>Guide to Fixing the Unresponsive Volume Control in Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-content-creation-on-facebook-aspect-ratio-choice/"><u>In 2024, Content Creation on Facebook Aspect Ratio Choice</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ative-approaches-to-youtube-teaser-trailblazing-for-2024/"><u>Innovative Approaches to YouTube Teaser Trailblazing for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-social-media-marketing-a-step-by-step-guide/"><u>Mastering Social Media Marketing A Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-audio-visual-connection-top-music-picks-that-elevate-your-diverse-video-projects-for-2024/"><u>New The Audio-Visual Connection Top Music Picks That Elevate Your Diverse Video Projects for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-strategies-for-controlling-and-evaluating-monthly-data-use/"><u>Smart Strategies for Controlling and Evaluating Monthly Data Use</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-fix-when-steam-wont-update-correctly/"><u>Step-by-Step Solutions to Fix When Steam Won't Update Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-resolve-your-livekernelevent-117-issue-today/"><u>Step-by-Step Troubleshooting: Resolve Your 'LiveKernelEvent 117' Issue Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-non-functional-built-in-webcams-on-windows-systems/"><u>Troubleshooting Tips: Resolving Issues with Non-Functional Built-In Webcams on Windows Systems</u></a></li>
+</ul></div>
 

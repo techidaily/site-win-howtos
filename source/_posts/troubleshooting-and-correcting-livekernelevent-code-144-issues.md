@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2025-01-14T16:41:34.343Z
-updated: 2025-01-19T20:28:53.870Z
+date: 2025-01-23T18:27:16.731Z
+updated: 2025-01-25T16:06:01.622Z
 tags:
   - win11
   - win10
@@ -60,11 +60,19 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -76,21 +84,17 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
@@ -99,10 +103,6 @@ To make sure you’ve this setting disabled:
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -113,16 +113,12 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
@@ -131,6 +127,10 @@ To make sure you’ve this setting disabled:
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -156,20 +156,21 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-12-live-video-streaming-app-for-watching-and-streaming-videos/"><u>[New] 12 Live Video Streaming App for Watching and Streaming Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[New] In 2024, Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhance-video-conferencing-with-a-blend-of-skype-and-zoom/"><u>[Updated] In 2024, Enhance Video Conferencing with a Blend of Skype & Zoom</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-halo-4s-unreal-engine-4-ue4-fatal-error-a-step-by-step-guide/"><u>Fixing Halo 4'S Unreal Engine 4 (UE4) Fatal Error : A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/how-to-create-and-grow-an-online-space-for-beauty-product-reviews-for-2024/"><u>How To Create and Grow an Online Space for Beauty Product Reviews for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x9b-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor X9b by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/online-video-to-mp3-converter-convert-videos-with-haal-audio-anytime-everywhere/"><u>Online Video to MP3 Converter: Convert Videos with Haal Audio Anytime, Everywhere</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-browser-barriers-a-user-friendly-guide-for-safari-cannot-load-page-issues/"><u>Overcoming Browser Barriers - A User-Friendly Guide for 'Safari Cannot Load Page' Issues</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/prime-techniques-to-salvage-problematic-vids/"><u>Prime Techniques to Salvage Problematic Vids</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tricks-to-successfully-connect-your-microsoft-wireless-display-adapter-with-a-compatible-configuration-in-windows-10/"><u>Top Tricks to Successfully Connect Your Microsoft Wireless Display Adapter with a Compatible Configuration in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-airpods-on-windows-11-guide-updated/"><u>Troubleshoot Your AirPods on Windows 11 (Guide Updated )</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-bright-white-screens-on-your-laptop/"><u>Troubleshooting Guide: Fixing a Bright White Screens on Your Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209472926-troubleshooting-offline-steam-services-solutions-at-hand/"><u>Troubleshooting Offline Steam Services – Solutions at Hand</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/ultimate-guide-to-share-your-igtv-story-with-ease/"><u>Ultimate Guide to Share Your IGTV Story with Ease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-image-ingenuity-funnyflick-studio/"><u>[Updated] Image Ingenuity FunnyFlick Studio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-flac/"><u>使用 MOVAVI 將音樂文件流式更改成 FLAC - 資料顯示無限制下載</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mts-mp4movavi-mtsmp4/"><u>完美的MTS MP4转换方法：Movavi教程解析 - 如何无丝头地将MTS文件转换为高效MP4格式</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-avid-a-asf-gratuitamente-online-movavi/"><u>Conversion AVID a ASF Gratuitamente Online - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargue-y-convierte-archivos-rmvb-a-formato-mp4-de-manera-gratuita-con-el-servicio-online-mas-eficiente/"><u>Descargue Y Convierte Archivos RMVB a Formato MP4 De Manera Gratuita Con El Servicio Online Más Eficiente</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-sony-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Sony .</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-your-craft-expert-tutorials-in-youtube-studio-editor/"><u>In 2024, Streamline Your Craft Expert Tutorials in YouTube Studio Editor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kostenloze-online-omzetting-voor-gif-bestandjes-met-movavi-asnemen/"><u>Kostenloze Online Omzetting Voor Gif-Bestandjes Met Movavi Asnemen</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/navigating-tech-trends-at-toms-hardware-the-ultimate-source-for-savvy-shoppers/"><u>Navigating Tech Trends at Tom's Hardware: The Ultimate Source for Savvy Shoppers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quick-start-saving-videos-of-your-switch-experiences-for-2024/"><u>Quick Start Saving Videos of Your Switch Experiences for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-performance-lags-in-rainbow-six-siege-a-comprehensive-guide/"><u>Resolving Performance Lags in Rainbow Six Siege - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-groundbreaking-garmin-ultra-30-action-camera-reviewed/"><u>The Groundbreaking Garmin Ultra 30 Action Camera Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-free-websites-for-downloading-high-quality-audio-effects-for-video-editing/"><u>Top Free Websites for Downloading High-Quality Audio Effects for Video Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlinking-from-twitch-a-comprehensive-tutorial-on-how-to-erase-your-account/"><u>Unlinking From Twitch: A Comprehensive Tutorial on How to Erase Your Account</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1728477569333-m2-ssd/"><u>スピーディM.2 SSDバックアップ手順解説 - トップレベルソフトウェア使い方ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-and-mac/"><u>プロフェッショナルなビデオコンバータを求める方へ：Windows & Mac両用の最もおすすめ無料ダウンロードソフトで、スピーディ映像変換が可能！</u></a></li>
 </ul></div>
 

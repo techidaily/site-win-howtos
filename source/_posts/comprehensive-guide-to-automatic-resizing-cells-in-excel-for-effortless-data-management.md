@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Automatic Resizing Cells in Excel for Effortless Data Management
-date: 2024-08-28T00:18:54.424Z
-updated: 2024-08-29T00:18:54.424Z
+date: 2025-01-21T17:06:29.304Z
+updated: 2025-01-25T18:22:12.062Z
 tags:
   - excel
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Add Space Between Text and Cell Borders in Excel](https://instagram-clips.techidaily.com/updated-2024-approved-dual-dimensions-in-display-the-instagram-guide-to-effortless-image-turns/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use AutoFit for Specific Columns or Rows in Excel
 
  To increase or decrease the size of specific rows or columns, use this method.
@@ -36,6 +40,10 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 
 ![Select the "Home" tab at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2-excel-home-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the "Home" tab, in the "Cells" section, click the "Format" option.
 
 ![Choose "Format" in the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/3-excel-format-menu.png) 
@@ -44,15 +52,16 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 
 ![Select an AutoFit option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/4-autofit-row-column-excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Excel will increase or decrease your rows or columns' sizes to ensure the full content is visible.
 
 ![Autofit column in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/5-column-autofit-excel.png) 
 
  You're all set.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  Use AutoFit for an Entire Worksheet in Excel
 
  If you have a large spreadsheet containing many rows and columns, you can apply AutoFit to your entire worksheet at once.
@@ -61,39 +70,32 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 
 ![Choose a worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/6-choose-worksheet-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Once your worksheet opens, select the entire worksheet. Do so by clicking the "Select All" icon (a diagonally-pointed triangle) in the worksheet's top-left corner. Alternatively, press Ctrl+A (Windows) or Command+A (Mac).
 
  If your keyboard shortcut only selects an area in the worksheet, press it again to select the entire worksheet.
 
 ![Click the &quot;Select All&quot; option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/7-select-entire-worksheet-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Now that your full worksheet is selected, in Excel's ribbon at the top, click the "Home" tab.
 
 ![Access the "Home" tab in the ribbon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/8-home-tab-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the "Home" tab, in the "Cells" section, click the "Format" menu.
 
 ![Open the "Format" menu on the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/9-format-menu-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you'd like to resize the columns in your worksheet, then from the "Format" menu, choose "AutoFit Column Width." To resize all your rows, choose the "AutoFit Row Height" option.
 
 ![Autofit an entire worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/10-autofit-all-rows-columns-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  And Excel will make the requested changes to your spreadsheet. You're all done.
 
 ---
@@ -108,8 +110,6 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +117,21 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-total-data-usage-24-hour-videography-in-gbs/"><u>[New] In 2024, Total Data Usage 24-Hour Videography in GBs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-guide-to-outstanding-hdr-cameras-for-2024/"><u>A Guide to Outstanding HDR Cameras for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detailed-solutions-for-when-you-cant-find-d3dx9nineteen-twentysevendll-on-your-system/"><u>Detailed Solutions for When You Can't Find d3dx9_nineteen-twentyseven.dll on Your System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-execute-a-memory-write-when-encountered-with-an-invalid-0xreferenced-location-error/"><u>How to Correctly Execute a Memory Write When Encountered with an Invalid 0Xreferenced Location Error</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a18-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A18</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-craft-contagious-instagram-visuals/"><u>In 2024, How to Craft Contagious Instagram Visuals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-premium-budget-friendly-screen-grabber-toolkit/"><u>In 2024, Premium Budget-Friendly Screen Grabber Toolkit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-using-file-explorer-in-windows-10-a-beginners-guide/"><u>Master the Art of Using File Explorer in Windows 10 - A Beginner's Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-destiny-2-post-broccoli-meltdown-the-ultimate-fix-for-gamer-season-2024/"><u>Mastering Destiny 2 Post-Broccoli Meltdown: The Ultimate Fix for Gamer Season 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-troubleshooting-a-comprehensive-solution-for-the-livekernelevent-117-dilemma/"><u>Mastering TroubleShooting: A Comprehensive Solution for the ‘LiveKernelEvent 117’ Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-inactive-usb-ports-on-your-windows-computer-windows-1011/"><u>Step-by-Step Guide: Repairing Inactive USB Ports on Your Windows Computer (Windows 10/11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-elusive-d3dxwindowsdll-error-and-how-to-fix-it/"><u>Step-by-Step Solutions for the Elusive D3DXWINDOWS.dll Error and How to Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-overcoming-windows-10s-endless-airplane-mode-problem/"><u>The Ultimate Guide to Overcoming Windows 10'S Endless Airplane Mode Problem</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unable-to-detect-no-support-for-amd-video-card-in-winxpvista/"><u>Unable to Detect: No Support for AMD Video Card in WinXP/Vista</u></a></li>
+</ul></div>
 

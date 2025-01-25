@@ -1,7 +1,7 @@
 ---
 title: Unprintable PDF Woes? Masterful Shortcuts to Make Them Work
-date: 2024-08-28T00:23:44.911Z
-updated: 2024-08-29T00:23:44.911Z
+date: 2025-01-22T17:41:44.887Z
+updated: 2025-01-25T16:07:23.283Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 
  It can be very frustrating if you**can’t print your PDF files** on Adobe. No error messages; each time you click Print on Adobe, it just doesn’t print at all. Don’t worry. This guide is going to help you solve this problem step by step. Read on to find out how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before we go…
 
  The problems of your printer, your PDF files, and your Adobe software all can cause you can’t print a PDF file. First things first, **figure out if the problem is due to your printer, your PDF file, or your Adobe software** .
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Troubleshoot problems with your printer](#printer)**
@@ -39,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot problems with your printer
 
  Either a USB-connected printer or a network one you’re using, make sure your printer is set as the default printer and your printer driver is up-to-date.
@@ -51,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 2. Type**control** and click**OK** .”  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
@@ -75,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 2. Click **Scan Now** . It will quickly detect all driver’s problems with your computer. Your printer driver is no exception.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
@@ -87,8 +90,9 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Repair or recreate your PDF file
 
  If there were any corrupted or incompatible data in your PDF file, your file wouldn’t be printed successfully. Here we give you two methods to try:
@@ -100,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03f2e27b7d.png)
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Recreate a new PDF file
 
 1. Choose a way to recreate a new PDF file:  
@@ -109,9 +117,6 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -141,8 +146,9 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -165,9 +171,6 @@ sfc /scannow
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -202,6 +205,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -210,22 +217,7 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
 ---
@@ -240,8 +232,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -249,4 +239,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-4k-all-in-one-touch-screen-desktops/"><u>[New] Best 4K All-in-One Touch Screen Desktops</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-smile-more-using-emojis-in-youtube-conversations/"><u>[New] In 2024, Smile More Using Emojis in YouTube Conversations</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-up-display-lag-error-code-0x887a0006-in-windows/"><u>Clearing Up Display Lag (Error Code 0X887A0006) in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-problems-and-fixes-for-windows-11-update-failure-in-version-1607/"><u>Common Problems and Fixes for Windows 11 Update Failure in Version 1607</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-redmi-note-13-pro-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Redmi Note 13 Pro 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itels-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Itels Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-detection-problems-with-your-wd-my-passport-ultra-on-windows-computers/"><u>Overcoming Detection Problems with Your WD My Passport Ultra on Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-your-windows-11-slow-shutdown-problem-a-step-by-step-guide/"><u>Resolving Your Windows 11 Slow Shutdown Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-speakers-now-harmonious-with-their-laptop/"><u>Silent Speakers, Now Harmonious with Their Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplify-your-experience-essential-tips-for-using-file-explorer-on-windows-10/"><u>Simplify Your Experience: Essential Tips for Using File Explorer on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-nonfunctioning-hp-laptop-cameras-in-windows-11-devices/"><u>Step-by-Step Solutions for Nonfunctioning HP Laptop Cameras in Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-missing-key-erasure-functionality/"><u>Steps to Resolve Missing Key Erasure Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/text-duplication-anomaly-in-win-11/"><u>Text Duplication Anomaly in Win 11</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-google-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Google .</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solutions-for-persona-4-goldens-stability-issues/"><u>Troubleshooting and Solutions for Persona 4 Golden's Stability Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-monitor-without-video-output-problem/"><u>Troubleshooting Tips: How to Fix a Monitor Without Video Output Problem</u></a></li>
+</ul></div>
 

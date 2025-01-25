@@ -1,7 +1,7 @@
 ---
 title: How To Lock Down Workbooks & Worksheets for Safe Sharing on Excel
-date: 2024-08-28T00:19:16.783Z
-updated: 2024-08-29T00:19:16.783Z
+date: 2025-01-18T17:01:00.296Z
+updated: 2025-01-25T16:33:36.662Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 ---
 
 ## How To Lock Down Workbooks & Worksheets for Safe Sharing on Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -49,25 +53,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![confirm password and click ok](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  You'll be returned to your Excel sheet. But, after you close it, the next time you open it, Excel will prompt you to enter the password.
 
 ![type password and click ok](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you ever want to remove the password protection from the file, open it up (which of course requires you to provide the current password), and then follow the same steps you used for assigning the password. Only this time, make the password field blank and then click "OK."
 
 ![use a blank password to clear password protection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Make a Workbook Read-Only
 
  Making a workbook open as read-only is super simple. It doesn't offer any real protection because anyone who opens the file can enable editing, but it can serve as a suggestion to be careful about editing the file.
@@ -75,6 +76,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To set it up, open your Excel file and head to the File menu. You'll see the "Info" category by default. Click the "Protect Workbook" button and then choose "Encrypt with Password" from the dropdown menu.
 
 ![click protect workbook and choose the always open read only command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, whenever anyone (including you) opens the file, they get a warning stating that the file's author would prefer they open it as read-only unless they need to make changes.
 
@@ -102,36 +107,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![structural commands are unavailable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-16.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If someone knows the password, they can get access to those commands by switching over to the "Review" tab and clicking the "Protect Workbook" button.
 
 ![on the review tab, click protect workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-17.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  They can then enter the password.
 
 ![type your password](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And the structural commands become available.
 
 ![structural commands are now available](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-19.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It's important to understand, however, that this action removes the workbook structure protection from the document. To reinstate it, you must go back to the file menu and protect the workbook again.
 
 ##  Protect a Worksheet from Editing
@@ -143,22 +138,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![switch to the review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b07e60661.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "Protect Sheet."
 
 ![click protect sheet button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b0ed6d7e1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Enter the password you would like to use to unlock the sheet in the future.
 
 ![type your password](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b149edb46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the permissions you would like users to have for the worksheet after it is locked. For example, you might want to allow people to format, but not delete, rows and columns.
 
 ![choose permissions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b174369ed.png) 
@@ -167,13 +157,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![click OK](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b194ba4fa.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Re-enter the password you made to confirm that you remember it and then click "OK."
 
 ![confirm your password](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b1c307ca8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need to remove that protection, head to the "Review" tab and click the "Unprotect Sheet" button.
 
 ![on review tab, click unprotect sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-20.png) 
@@ -182,9 +173,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![type your password](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2019-02-12-21.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your sheet is now unprotected. Note that the protection is entirely removed and that you'll need to protect the sheet again if you want.
 
 ##  Protect Specific Cells From Editing
@@ -199,30 +187,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![right-click selected cells and choose format cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b4fa1ce35.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the Format Cells window, switch to the "Protection" tab.
 
 ![switch to the protection tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b6115a4a3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Untick the "Locked" checkbox.
 
 ![Untick the Locked checkbox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b6392e62b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  And then click "OK."
 
 ![click ok](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b35b6660383f.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you've selected the cells for which you want to allow editing, you can lock the rest of the worksheet by following the instructions in the previous section.
 
  Note that you can lock a worksheet first and then select the cells you want to unlock, but Excel can be a little flaky about that. This method of selecting the cells you want to stay unlocked and then locking the sheet works better.
@@ -233,8 +217,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +224,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-find-your-perfect-match-the-top-10-online-converters-list-for-2024/"><u>[Updated] Find Your Perfect Match The Top 10 Online Converters List for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-best-of-the-best-8-mirrorless-cameras-for-live-streaming/"><u>[Updated] The Best of the Best 8 Mirrorless Cameras for Live Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-review-insights-acevideo-editor-2023-edition/"><u>2024 Approved Full Review Insights AceVideo Editor, 2023 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-windows-10-cannot-read-container-contents-issue/"><u>Comprehensive Solution for 'Windows 10 Cannot Read Container Contents' Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-update-your-toshiba-laptops-drivers-on-microsoft-windows-today/"><u>Find and Update Your Toshiba Laptop's Drivers on Microsoft Windows - Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-problem-of-windows-update-error-0x8024401c-in-recent-windows-versions/"><u>How to Overcome the Persistent Problem of Windows Update Error 0X8024401c in Recent Windows Versions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone XR to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-valorants-screen-tearing-issue-effectively/"><u>How To Resolve Valorant's Screen Tearing Issue Effectively</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100i-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100i to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-disk-usage-for-microsoft-telemetry-services-under-windows-11/"><u>Optimizing Disk Usage for Microsoft Telemetry Services Under Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-redmi-k70-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi Redmi K70 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-14-ferramentas-inovadoras-para-a-producao-de-contenido-de-video-a-formula-do-sucesso-na-criatividade-digital/"><u>Top 14 Ferramentas Inovadoras Para a Produção De Contenido De Video: A Fórmula Do Sucesso Na Criatividade Digital</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-correcting-the-missing-d3dx9nn-dll-error-message/"><u>Troubleshooting Steps for Correcting the Missing D3dx9_nN Dll Error Message</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unreal-engine-under-threat-the-d3d-device-crisis/"><u>Unreal Engine Under Threat: The D3D Device Crisis</u></a></li>
+</ul></div>
 

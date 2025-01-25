@@ -1,7 +1,7 @@
 ---
 title: "Redeem Space: Increase Your Game's Performance on PC with Larger Pagefile Settings"
-date: 2024-08-28T00:20:24.525Z
-updated: 2024-08-29T00:20:24.525Z
+date: 2025-01-18T16:22:22.578Z
+updated: 2025-01-25T17:46:03.889Z
 tags:
   - win11
   - win10
@@ -31,9 +31,17 @@ thumbnail: https://thmb.techidaily.com/3d2f504c7a28917e2aef95be2fd0b9c5130c134ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Check on Automatically detect settings
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -70,8 +78,9 @@ Find and click to open Command Prompt from Start menu.
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -90,9 +99,6 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -102,6 +108,10 @@ Double-click on your active Network Adapter.
  **Note:** That’s Google’s public DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -117,16 +127,10 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
@@ -142,8 +146,9 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
@@ -151,13 +156,18 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -165,14 +175,11 @@ After the fixes above, Windows Update should be good to go now.
 
 * [Windows Update](/tag-search/?tagId=62)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +188,26 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-use-the-instagram-green-screen-effect/"><u>[New] 2024 Approved How to Use the Instagram Green Screen Effect ？</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>[New] In 2024, How to Choose the Background Music for the Trailer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-premier-editing-software-for-mobile-app-creation/"><u>[New] In 2024, Premier Editing Software for Mobile App Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-photos-via-iphone-size-adjustment/"><u>[New] Streamline Photos via iPhone Size Adjustment</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-media-marketing-essential-ig-video-editors/"><u>2024 Approved Mastering Media Marketing Essential IG Video Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deciphering-intermittent-stoppages-in-photobooth-videos/"><u>Deciphering Intermittent Stoppages in Photobooth Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-conversion-techniques-from-mp4-to-flv-video-file-types/"><u>Effortless Conversion Techniques From MP4 to FLV Video File Types</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-dvd-to-psp-movie-transfers-your-guide-to-enjoying-dvd-content-on-ps4/"><u>Effortless DVD-to-PSP Movie Transfers: Your Guide to Enjoying DVD Content on PS4</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-video-reach-optimize-tags-for-600esplus-growth-for-2024/"><u>Elevate Video Reach Optimize Tags for $6,00Es+ Growth for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-techniques-to-separate-singing-voices-from-background-music/"><u>Free Techniques to Separate Singing Voices From Background Music</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-no-cost-dvd-decoding-tool-for-modern-windows-systems/"><u>Get Your No-Cost DVD Decoding Tool for Modern Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshooting-video-playback-problems-on-ipads/"><u>Guide to Troubleshooting Video Playback Problems on iPads.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-easily-post-gifs-across-facebooks-platform-comments-statuses-and-chat/"><u>How to Easily Post GIFs Across Facebook's Platform – Comments, Statuses, & Chat</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-free-downgrade-proofly-retrieve-sound-tracks-from-matroska-videos-in-simple-ways/"><u>How to Free Downgrade-Proofly Retrieve Sound Tracks From Matroska Videos in Simple Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-keyboard-malfunction-where-keys-get-stuck/"><u>How to Resolve Windows Keyboard Malfunction Where Keys Get Stuck</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-turn-any-video-file-into-an-easy-fun-gif-using-the-free-vlc-software/"><u>How to Turn Any Video File Into an Easy, Fun GIF Using the Free VLC Software!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4amp3windows-11/"><u>M4AからMP3への変換:Windows 11で効率的な方法</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/understanding-vivas-video-experience/"><u>Understanding Viva's Video Experience</u></a></li>
+</ul></div>
 

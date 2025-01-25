@@ -1,7 +1,7 @@
 ---
 title: Mastering Chart Layering Techniques for Enhanced Data Visualization in Excel
-date: 2024-08-28T00:19:46.738Z
-updated: 2024-08-29T00:19:46.738Z
+date: 2025-01-18T18:06:33.230Z
+updated: 2025-01-25T16:49:22.727Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Mastering Chart Layering Techniques for Enhanced Data Visualization in Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,11 +34,19 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 
 ![Column chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ColumnChart-ExcelOverlayCharts.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If we use a custom combo chart, we can change the Total series to a line on our column chart.
 
 **Change your chart**: If you already have a chart you want to change, select it and go to the Chart Design tab. Click "Change Chart Type" on the right side of the ribbon.
 
 ![Click Change Chart Type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ChangeChartType-ExcelOverlayCharts.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Change Chart Type window, select Combo on the left and Custom Combination on the right.
 
@@ -53,22 +65,21 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 ![Select the chart type for the series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/LineComboChart-ExcelOverlayCharts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As you make your selections, you'll see a preview at the top so you can see if it's what you want. When you're happy with your selections, click "OK."
 
 ![Click OK to insert the chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/CreatedCustomComboChart-ExcelOverlayCharts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now we have a combo chart that displays our divisions as columns and our totals as a line. This gives us a much better picture of the data we're trying to convey.
 
 ![Custom Combo Chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/InsertedCustomComboChart-ExcelOverlayCharts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Overlap the Series in Excel
 
  Maybe it's not different types of graphs you want to overlap but certain data in a chart. You can overlay a chart in Excel by [customizing a series](https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-huawei-p60-drfone-by-drfone-virtual-android/).
@@ -88,15 +99,13 @@ Related: [How to Rename a Data Series in Microsoft Excel](https://android-pokemo
 ![Confirm or select the series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/SelectSeries-ExcelOverlayCharts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the Series Options tab. Then, move the slider for Series Overlap all the way to the right or enter 100 percent in the box.
 
 ![Set the Series Overlap](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/SeriesOverlap-ExcelOverlayCharts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the Fill & Line tab and adjust the following settings:
 
 * **Fill**: Choose No Fill.
@@ -108,9 +117,6 @@ Related: [How to Rename a Data Series in Microsoft Excel](https://android-pokemo
 
 ![Change the Fill and Line settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FillLine-ExcelOverlayCharts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you finish, click the X on the top right of the sidebar to close it.
 
  Now you can see that our chart has overlapping data for a clearer way to show the differences between our Before and After. And the legend we're using also updates to the border with no fill for that data series.
@@ -125,8 +131,6 @@ Related: [How to Rename a Data Series in Microsoft Excel](https://android-pokemo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +138,20 @@ Related: [How to Rename a Data Series in Microsoft Excel](https://android-pokemo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-channel-confidence-tips-for-trending-on-youtube/"><u>[New] Channel Confidence Tips for Trending on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-combine-audio-streams-into-powerpoint-flow/"><u>[New] Combine Audio Streams Into PowerPoint Flow</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-beyond-the-basics-advanced-insights-into-snapchat-filters-for-2024/"><u>[Updated] Beyond the Basics Advanced Insights Into Snapchat Filters for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-get-loved-fast-essential-bio-hacks-that-work-on-every-version-of-tinder/"><u>2024 Approved Get Loved, Fast Essential Bio Hacks that Work on Every Version of Tinder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-get-your-twitter-video-feed-ready-aspect-ratio-key/"><u>2024 Approved Get Your Twitter Video Feed Ready Aspect Ratio Key</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-language-barriers-with-easy-online-and-autonomous-learning-options/"><u>Break Language Barriers with Easy Online & Autonomous Learning Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-the-persistent-error-0x80072efd-on-windows-11-effective-fix-methods-revealed/"><u>Conquering the Persistent Error 0X80072EFD on Windows 11 - Effective Fix Methods Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-ps4-network-errors-an-in-depth-stepwise-strategy-for-nat-success/"><u>Defeating PS4 Network Errors: An In-Depth Stepwise Strategy for NAT Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hard-drive-is-not-detected-solved/"><u>Hard Drive Is Not Detected [SOLVED]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-identifying-and-fixing-windows-update-db-issues-on-windows-10/"><u>Resolved: Identifying and Fixing Windows Update DB Issues on Windows 10</u></a></li>
+<li><a href="https://discover-able.techidaily.com/the-ultimate-guide-to-wmv-files-everything-you-need-to-know-for-easy-access/"><u>The Ultimate Guide to WMV Files: Everything You Need to Know for Easy Access</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Getting Back on Track: Troubleshooting My Minecraft Server’s LAN Issues"
-date: 2024-08-23T14:10:29.505Z
-updated: 2024-08-24T14:10:29.505Z
+date: 2025-01-22T17:03:01.025Z
+updated: 2025-01-25T17:27:25.472Z
 tags:
   - win11
   - win10
@@ -44,9 +44,17 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -60,9 +68,6 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -70,8 +75,9 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -81,30 +87,27 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -127,8 +130,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +137,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-clickbait-title-generator/"><u>[New] Best Clickbait Title Generator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-leading-the-pack-in-multi-media-posting-on-instagram/"><u>[New] Leading the Pack in Multi-Media Posting on Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-potential-in-social-media-storytelling-fb-slideshows/"><u>[Updated] Unlock Potential in Social Media Storytelling FB Slideshows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-elite-collection-top-10-sites-for-professional-icons/"><u>2024 Approved The Elite Collection Top 10 Sites for Professional Icons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4b-aac-movavi/"><u>自由下載 M4B 到 AAC 格式转换器 - 使用 Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-nvidia-geforce-drivers-compatible-with-games-windows-version/"><u>Download the Newest Nvidia GeForce Drivers Compatible with Games - Windows Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-conversao-de-video-online-mp4-para-m2ts-com-a-ferramenta-mais-ampla-do-mundo/"><u>Gratuito: Conversão De Vídeo Online - MP4 Para M2TS Com a Ferramenta Mais Ampla Do Mundo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-free-tools-and-tricks-for-easy-person-removal-from-images-explore-movavi/"><u>Guide: Free Tools & Tricks for Easy Person Removal From Images - Explore Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-free-audio-file-converter-effortless-switch-from-m4a-to-wav/"><u>Movavi's Free Audio File Converter – Effortless Switch From M4A to WAV</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-of-windows-11-installation-error-80240020-a-comprehensive-fix/"><u>Overcoming the Hurdle of Windows 11 Installation Error 80240020 - A Comprehensive Fix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-python24dll-file-missing-dilemma-a-step-by-step-guide/"><u>Solving the 'Python24.dll File Missing' Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-launching-command-prompt-across-various-windows-versions/"><u>Step-by-Step Tutorial for Launching Command Prompt Across Various Windows Versions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-10-causes-of-iphone-voicemail-issues-and-comprehensive-solutions/"><u>Top 10 Causes of iPhone Voicemail Issues and Comprehensive Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-10-gratis-programas-de-llenado-de-formularios-pdf-compatibles-con-windows-y-mac/"><u>Top 10 Gratis Programas De Llenado De Formularios PDF Compatibles Con Windows Y Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-free-video-editors-compare-the-best-software-for-pc-and-mobile/"><u>Top Free Video Editors: Compare the Best Software for PC and Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-rechargeable-power-packs-the-ultimate-2024-guide-zdnet/"><u>Top-Rated Rechargeable Power Packs: The Ultimate 2024 Guide - ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-speech-in-a-music-video-ultimate-guide-to-using-a-voice-changer/"><u>Transform Your Speech in a Music Video: Ultimate Guide to Using a Voice Changer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformando-videos-em-pcs-com-passos-diretos-e-eficientes-dicas-essenciais-da-movavi/"><u>Transformando Vídeos Em PCs Com Passos Diretos E Eficientes – Dicas Essenciais Da Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-video-flv-in-mp4-liberamente-on-line-utilizzando-lestensione-di-movavi/"><u>Trasforma I Video FLV in MP4 Liberamente On-Line Utilizzando L'Estensione Di Movavi</u></a></li>
+</ul></div>
 

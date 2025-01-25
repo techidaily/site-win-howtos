@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Dell Laptop Keyboard Not Working"
-date: 2024-08-28T00:25:52.130Z
-updated: 2024-08-29T00:25:52.130Z
+date: 2025-01-24T17:15:56.493Z
+updated: 2025-01-25T17:50:49.676Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -73,8 +77,9 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -94,8 +99,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -111,10 +117,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -128,23 +130,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -170,8 +170,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +177,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-logitechs-4k-webcam-masterclass-a-complete-review/"><u>[New] In 2024, Logitech’s 4K Webcam Masterclass - A Complete Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-optimized-obs-options-for-low-end-systems-for-2024/"><u>[New] Optimized OBS Options for Low-End Systems for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-excellent-camcorders-with-facing-panel/"><u>[Updated] Excellent Camcorders with Facing Panel</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-evolution-of-color-formats-from-rgb-to-srgb/"><u>2024 Approved The Evolution of Color Formats From Rgb to Srgb</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209817150-beat-error-0x800f0922-in-windows-10-updates-with-these-proven-fixes/"><u>Beat Error 0X800f0922 in Windows 10 Updates with These Proven Fixes</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/guide-simple-changer-facilement-un-fichier-mp4-en-ogv-sans-cout-sur-le-site-web-de-movavi/"><u>Guide Simple: Changer Facilement Un Fichier MP4 en OGV Sans Coût Sur Le Site Web De Movavi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/euroscience-insights-enhance-effective-corporate-governance/"><u>How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-mousepad-problems-solved-tips-for-restoring-functionality-on-windows-platforms/"><u>Laptop Mousepad Problems Solved! Tips for Restoring Functionality on Windows Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-updates-a-comprehensive-guide-to-fixing-the-0x800705b4-error-for-good/"><u>Mastering Windows 10 Updates: A Comprehensive Guide to Fixing the 0X800705b4 Error for Good</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/moments-made-perfect-expert-techniques-for-iphone-photo-editing-for-2024/"><u>Moments Made Perfect Expert Techniques for iPhone Photo Editing for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/premium-hd-screensaver-graphics-for-your-pc-authentic-audi-imagery-collection-from-yl-computings-creations/"><u>Premium HD Screensaver Graphics for Your PC: Authentic Audi Imagery Collection From YL Computing's Creations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-random-shutdown-malfunctions-in-computers-proven-fixes-inside/"><u>Resolving Random Shutdown Malfunctions in Computers - Proven Fixes Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-unresponsive-external-mouse-connectivity-with-this-guide/"><u>Troubleshoot and Repair Unresponsive External Mouse Connectivity with This Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-registered-classes-in-windows-10-easy-steps-for-a-smooth-solution/"><u>Troubleshooting Non-Registered Classes in Windows 10 – Easy Steps for a Smooth Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-fixing-unresponsive-touchpad-scroll-issues/"><u>Troubleshooting Windows 10: Fixing Unresponsive Touchpad Scroll Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successful-implementation-after-failed-d3d-device-instantiation/"><u>Troubleshooting: Successful Implementation After Failed D3D Device Instantiation</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990711114-twitch-no-audio-problem-heres-the-ultimate-fix-that-works/"><u>Twitch No Audio Problem? Here's the Ultimate Fix That Works</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-errconnectionrefused-errors-a-picture-perfect-guide/"><u>Understanding and Fixing ERR_CONNECTION_REFUSED Errors – A Picture-Perfect Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nary-storytelling-for-video-viewers-growth-for-2024/"><u>Visionary Storytelling for Video Viewers' Growth for 2024</u></a></li>
+</ul></div>
 

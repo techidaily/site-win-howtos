@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Device Manager Error Code 28 for Windows Users
-date: 2024-08-28T00:20:41.541Z
-updated: 2024-08-29T00:20:41.541Z
+date: 2025-01-18T17:43:43.283Z
+updated: 2025-01-25T17:36:13.319Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Below you will get to know all possible fixes to solve your boot error 0xc0000098\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 4. **[Run System File Checker](#f4)**
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Rebuild BCD manually
 
@@ -54,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Download the installation media and save it on your computer.
 
 3) Double-click the Media Creation Tool to launch the tool.
@@ -65,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
  6) Choose your preferred media. If you choose a USB flash drive, make sure you have a blank USB flash drive with at least 8GB of space.
@@ -102,8 +104,9 @@ thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
 
 bootrec /scanos
@@ -152,9 +155,6 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -167,6 +167,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -177,15 +181,19 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -222,8 +230,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
 ##### 3\. Download from the manufacturer’s website
@@ -246,21 +255,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance or have any questions, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -276,8 +274,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +281,19 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-dissecting-facebook-short-videos-a-comprehensive-overview/"><u>[New] 2024 Approved Dissecting Facebook Short Videos A Comprehensive Overview</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transforming-ordinary-footage-to-ig-masterpieces/"><u>[New] 2024 Approved Transforming Ordinary Footage to IG Masterpieces</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-efficient-editing-for-quick-youtube-content-for-2024/"><u>[New] Efficient Editing for Quick YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-humor-weaver-androids-in-chains/"><u>[New] Humor Weaver Androids in Chains</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782775-9781620553008-aspects-in-astrology/"><u>Aspects in Astrology | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-best-luts-for-lightroom-enthusiasts-for-2024/"><u>Explore the Best LUTs for LightRoom Enthusiasts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-streaming-vob-movies-and-shows-from-dvds-to-your-android-lg-or-samsung-tv/"><u>Guide: Successfully Streaming VOB Movies & Shows From DVDs to Your Android, LG or Samsung TV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enjoy-dvd-movie-playback-on-your-nintendo-wii-a-guide-to-the-best-compatible-discs/"><u>How to Enjoy DVD Movie Playback on Your Nintendo Wii: A Guide to the Best Compatible Discs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s23-tactical-edition-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S23 Tactical Edition to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-mystery-of-free-graphic-imagery/"><u>In 2024, Unveiling the Mystery of Free Graphic Imagery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-walkthrough-recording-footage-with-chrome-browser/"><u>In-Depth Walkthrough: Recording Footage with Chrome Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/iphoneipadfc2/"><u>IPhone/iPadでのFC2動画の安全なダウンロード・セキュリティ対策つき保存方法</u></a></li>
+</ul></div>
 

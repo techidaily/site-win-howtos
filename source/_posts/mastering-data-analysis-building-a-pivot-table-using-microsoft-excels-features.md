@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Analysis: Building a Pivot Table Using Microsoft Excel's Features"
-date: 2024-08-28T00:19:19.107Z
-updated: 2024-08-29T00:19:19.107Z
+date: 2025-01-20T17:45:13.636Z
+updated: 2025-01-25T17:48:29.054Z
 tags:
   - excel
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ad5f66753b5e5db396a2d95dd125beb1ea4eecb0f
 
  If you're like many spreadsheet application users, you might feel intimidated by pivot tables. But if you start with the basics and learn how to build a pivot table in Microsoft Excel, it can become your favorite feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Are PivotTables in Excel?
 
  A pivot table provides an interactive way for you to arrange, group, calculate, and analyze data. You can manipulate the same data several different ways to view exactly what you need. Pivot tables give you a robust way to work with a data set to spot patterns, review summaries, and calculate counts, averages, or totals.
@@ -30,9 +34,6 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 
  Microsoft uses "PivotTables" as a single word in its documentation and interfaces surrounding "pivot tables." So, you may see both terms as you use the application, and we'll include both in this tutorial as applicable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Make a Basic Pivot Table in Excel
 
  To get started, [select your data](https://buynow-tips.techidaily.com/exploring-a-ravaged-world-on-motorcycle-in-days-gone-our-comprehhavis-review/). You can create a pivot table from a range of cells or an existing table structure. Just make sure that you have a row of headers at the top and no empty columns or rows.
@@ -47,45 +48,39 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 
 ![Click Recommended PivotTables](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/InsertRecommendedPivotTables-ExcelCreatePivotTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the window opens, you'll see several pivot tables on the left. Select one to see a preview on the right. If you see one you want to use, choose it and click "OK."
 
 ![Recommended pivot tables](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/RecommendedPivotTables-ExcelCreatePivotTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A new sheet will open with the pivot table you picked. You'll also see the PivotTable Fields sidebar on the right which allows you to edit the table, which we explain below.
 
 ![Inserted recommended pivot table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/UseRecommendedPivotTable-ExcelCreatePivotTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ###  Make Your Own Pivot Table
 
  If you want to dive right in and create your own pivot table instead, go to the Insert tab and pick "PivotTable" in the ribbon.
 
 ![Click PivotTable to make your own](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/InsertPivotTable-ExcelCreatePivotTable.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see a window appear for PivotTable From Table or Range. At the top, confirm the data set in the Table/Range box. Then, decide if you want the table in a new worksheet or your existing one. For analyzing multiple tables, you can check the box to add it to the Data Model. Click "OK."
 
 ![Pivot table setup box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/PivotTableFromRange-ExcelCreatePivotTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll then see the pivot table and the PivotTable Fields sidebar, ready for you to build your table or edit the recommended table you inserted.
 
 ![Pivot table sidebar to build the table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/BuildPivotTable-ExcelCreatePivotTable.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Build or Edit the Pivot Table
 
@@ -98,8 +93,9 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 ![Fields available for the pivot table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ChooseFields-ExcelCreatePivotTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on the type of data in your sheet, you'll see things like numbers in the Values box, [dates and times](https://video-capture.techidaily.com/new-from-playback-to-printout-top-five-methods-of-documenting-minecraft-on-a-mac-for-2024/) in the Columns box, and textual data in the Rows box. These are the defaults for those types of data, but you can move them where you want them.
 
 Related: [How to Change Date Formats in Microsoft Excel](https://video-capture.techidaily.com/new-from-playback-to-printout-top-five-methods-of-documenting-minecraft-on-a-mac-for-2024/) 
@@ -107,6 +103,10 @@ Related: [How to Change Date Formats in Microsoft Excel](https://video-capture.t
  As an example, we want to see our Months as columns instead of rows. You simply drag that field from the Rows box to the Columns box and your table will update accordingly. Alternatively, you can use the drop-down arrows next to the fields to move them.
 
 ![Field moved to a different box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/MoveMonthField-ExcelCreatePivotTable.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have more than one field in a box, the order determines the placement in the pivot table as well. In this example, we have Department first and Location second in the Rows box which is how they're grouped in the table.
 
@@ -116,12 +116,13 @@ Related: [How to Change Date Formats in Microsoft Excel](https://video-capture.t
 
 ![Rows box order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/RowOrder-ExcelCreatePivotTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  Because you can move the fields between the boxes with simple drag-and-drop actions, this allows you to easily find the best fit for your [data analysis](https://youtube-docs.techidaily.com/-of-wisdom-youtube-tvs-unique-selling-points-for-2024/).
 
 Related: [How to Use Excel's "Quick Analysis" to Visualize Data](https://youtube-docs.techidaily.com/-of-wisdom-youtube-tvs-unique-selling-points-for-2024/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Filter or Sort the Pivot Table
 
@@ -131,19 +132,10 @@ Related: [How to Use Excel's "Quick Analysis" to Visualize Data](https://youtube
 
 ![Filter a column in the pivot table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/FilterColumn-ExcelCreatePivotTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To sort, click the button and select a sort option.
 
 ![Sort a pivot table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/Sort-ExcelCreatePivotTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Add a Table Filter
 
  You can also [apply a filter](https://instagram-video-recordings.techidaily.com/new-how-to-hit-the-airwaves-with-instagram-lives/) to the top level of the table. Using our example, we want to filter the entire table to see each Department, one at a time. Drag the field you want to use as the filter into the Filters box in the PivotTable Fields sidebar.
@@ -153,6 +145,10 @@ Related: [How to Use Excel's "Quick Analysis" to Visualize Data](https://youtube
  You'll see your table update to place this filter at the top. Then, click the filter button to apply the one you want at the time.
 
 ![Table filter applied](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/FilterTable-ExcelCreatePivotTable.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To remove this higher-level table filter, simply drag the field out of the Filter box in the sidebar.
 
@@ -166,8 +162,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +169,18 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-resolving-social-media-puzzle-zippy-fb-videos-not-in-view/"><u>[New] Resolving Social Media Puzzle Zippy FB Videos Not in View</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-best-free-and-paid-drawing-apps-for-android-os-for-2024/"><u>[Updated] Best Free and Paid Drawing Apps for Android OS for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transform-your-virtual-meetings-using-zoom-within-the-gmail-platform/"><u>[Updated] Transform Your Virtual Meetings Using Zoom Within the Gmail Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>[Updated] Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defrost-your-digital-life-quick-fixes-for-a-computer-thats-too-cold/"><u>Defrost Your Digital Life: Quick Fixes for a Computer That's Too Cold</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/filmeditingsuite-assessment-detailed-insights-for-2024/"><u>FilmEditingSuite Assessment – Detailed Insights for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-open-markets-close-plans-strategy-inception/"><u>In 2024, Open Markets, Close Plans Strategy Inception</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-overcome-smartaudio-setup-problems-a-comprehensive-fix/"><u>Successfully Overcome SmartAudio Setup Problems - A Comprehensive Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-video-input-errors-with-this-comprehensive-step-by-step-guide/"><u>Troubleshoot Video Input Errors with This Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-why-is-my-mouses-right-click-malfunctioning/"><u>Troubleshooting Windows 10 - Why Is My Mouse's Right Click Malfunctioning?</u></a></li>
+</ul></div>
 

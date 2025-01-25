@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2025-01-13T16:23:07.629Z
-updated: 2025-01-19T19:13:20.399Z
+date: 2025-01-19T18:12:41.361Z
+updated: 2025-01-25T16:32:33.098Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  The methods below have helped other users solve the problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
@@ -62,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -90,10 +94,6 @@ Follow these steps to reset your Winsock Catalog:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your video card driver
 
  You could probably encounter this error if the video card driver on your computer is outdated, incompatible or corrupt. So you should**update your video card driver** to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -108,7 +108,7 @@ Follow these steps to reset your Winsock Catalog:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
@@ -131,7 +131,7 @@ Follow these steps to reset your Winsock Catalog:
 4. Click View installed updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
@@ -140,6 +140,10 @@ Follow these steps to reset your Winsock Catalog:
 Restart your computer to see if the error has gone.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -155,10 +159,6 @@ Restart your computer to see if the error has gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -184,19 +184,14 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-learn-and-master-io-screen-recording-today-for-2024/"><u>[New] Learn and Master IO Screen Recording Today for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-advanced-text-finessing-guide/"><u>[Updated] In 2024, Advanced Text Finessing Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-live-streaming-made-easy-expert-reviews-of-top-obs-tools/"><u>2024 Approved Live Streaming Made Easy Expert Reviews of Top OBS Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-realme-note-50-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme Note 50 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fixes-to-overcome-the-troubling-0xc0000112f-hurdle-on-windows-systems/"><u>Effortless Fixes to Overcome the Troubling 0xC00001^12F Hurdle on Windows Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-asus-motherboard-drivers-on-your-windows-pc-comprehensive-download-and-install-instructions/"><u>Get the Latest ASUS Motherboard Drivers on Your Windows PC – Comprehensive Download & Install Instructions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hardware-havoc-ultimate-system-failure/"><u>Hardware Havoc: Ultimate System Failure</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-realme-c53-by-drfone-android/"><u>How to Bypass FRP on Realme C53?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-magic-v2-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Magic V2 Phone Screen?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-miracast-setup-expert-advice-on-resolving-unsupported-device-errors/"><u>Mastering Miracast Setup: Expert Advice on Resolving Unsupported Device Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-installation-hurdles-for-the-latest-windows-10-features-v1803-resolved/"><u>Overcoming Installation Hurdles for the Latest Windows 10 Features (v1803 Resolved)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-pc-with-sfc-and-dism-tools-top-fixes-for-windows-10-issues/"><u>Reviving Your PC with SFC & DISM Tools: Top Fixes for Windows 10 Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-fixing-the-issue-that-interrupted-your-programs-performance/"><u>Solved: Fixing the Issue That Interrupted Your Program's Performance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-high-fidelity-4k-laptops-for-gamers/"><u>Top 10 High-Fidelity 4K Laptops for Gamers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-beginners-approach-to-audio-enhancement-in-audition/"><u>[New] 2024 Approved A Beginner's Approach to Audio Enhancement in Audition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-scrolling-on-touchpad-not-working-on-windows-10/"><u>[Solved] Scrolling on Touchpad Not Working on Windows 10</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/automated-with-cookiebot-boosting-your-online-marketing-success/"><u>Automated with Cookiebot: Boosting Your Online Marketing Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-incomplete-or-corrupted-hardware-configuration-solve-the-dvdcd-rom-driver-error-code-19-on-windows-10-pcs/"><u>Fix Incomplete or Corrupted Hardware Configuration - Solve the DVD/CD-Rom Driver Error (Code 19) on Windows 10 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-wacom-tablet-malfunction-and-get-back-on-track/"><u>How to Resolve Wacom Tablet Malfunction and Get Back on Track</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721979969333-meet-the-future-of-mobile-assistants-chatgpt-now-roams-in-apples-world/"><u>Meet the Future of Mobile Assistants: ChatGPT Now Roams in Apple's World!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-troublesome-0x80072f8f-issue-on-windows-operating-systems/"><u>Step-by-Step Fixes for the Troublesome 0X80072F8F Issue on Windows Operating Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweeting-videos-to-tweenish-animations-for-no-fee/"><u>Tweeting Videos to Tweenish Animations for No Fee</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-dvd-not-playing-errors-in-windows-operating-systems/"><u>Understanding and Resolving 'DVD Not Playing' Errors in Windows Operating Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Launch Splash Pages in Microsoft Office Suite: Word, Excel & PowerPoint Solutions"
-date: 2024-08-28T00:19:57.443Z
-updated: 2024-08-29T00:19:57.443Z
+date: 2025-01-23T18:45:51.354Z
+updated: 2025-01-25T17:33:46.165Z
 tags:
   - excel
 categories:
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
 
 ![Smile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2012/01/wlEmoticon-smile3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Word
 
  Right-click on the your desktop and select new, then click on shortcut.
@@ -52,13 +56,18 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2012/01/image31.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Excel
 
  Right-click on the your desktop and select new, then click on shortcut.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2012/01/image_thumb.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now paste the following into the location box and then click next.
 
@@ -71,44 +80,34 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2012/01/image_thumb1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Powerpoint
 
  Right-click on the your desktop and select new, then click on shortcut.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2012/01/image_thumb2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Now paste the following into the location box and then click next.
 
 > "C:\\Program Files (x86)\\Microsoft Office\\Office14\\POWERPNT.EXE" /s
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2012/01/image36.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  Now give your shortcut a name and click finish.
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2012/01/image37.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +116,16 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-engaging-verbal-communicator-study-part-8/"><u>[Updated] Engaging Verbal Communicator Study, Part 8</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-art-of-attraction-top-20-fonts-for-impactful-youtube-thumbnails/"><u>In 2024, The Art of Attraction Top 20 Fonts for Impactful YouTube Thumbnails</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-pitfalls-how-to-tell-if-a-friend-request-is-real-or-fake/"><u>Navigating the Pitfalls: How to Tell if a Friend Request Is Real or Fake</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-missing-desktop-icons-on-your-windows-11-system-step-by-step-fix/"><u>Revive Missing Desktop Icons on Your Windows 11 System: Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-windows-10-computer-stops-responding/"><u>Solutions for When Your Windows 10 Computer Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-stop-windows-10-from-frequently-rebooting/"><u>Step-by-Step Guide: Stop Windows 10 From Frequently Rebooting</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook/"><u>Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-quick-fixes-for-error-1053-service-delayed-response/"><u>Troubleshooting Quick Fixes for 'Error 1053' - Service Delayed Response</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solutions: How to Repair Non-Functional Keys on Windows 10/11 Keyboards"
-date: 2024-08-28T00:20:31.968Z
-updated: 2024-08-29T00:20:31.968Z
+date: 2025-01-21T18:19:25.088Z
+updated: 2025-01-25T17:27:03.781Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 ## Keyboard Malfunctions? Resolve Non-Working Keys in Windows 10 and 11 Quickly
 
  Did you find that some keys on your keyboard don’t work? Are you typing but the letters are not appearing on the screen? Well don’t worry, you’re not alone. This post could help you fix this vexing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -60,8 +64,9 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -73,9 +78,9 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -105,15 +110,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
@@ -131,18 +138,11 @@ OR
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Tips: Keyboard maintenance
 
 1. Try not to eat, smoke or drink on top of the keyboard to keep it clean.
@@ -161,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +168,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-final-word-on-vegaspro-2019/"><u>[New] 2024 Approved The Final Word on VegasPro 2019</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-the-blueprint-best-practices-for-social-media-video-publishing/"><u>[New] In 2024, Unveiling the Blueprint Best Practices for Social Media Video Publishing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-snap-share-and-shine-your-guide-to-dynamic-gif-creation/"><u>[New] Snap, Share & Shine Your Guide to Dynamic GIF Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-dynamic-dimensions-designing-text-in-three-dimension/"><u>[Updated] Dynamic Dimensions Designing Text in Three-Dimension</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-stills-to-movement-examining-the-action-potential-of-camplus/"><u>From Stills to Movement Examining the Action Potential of Cam+</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-demystifying-the-math-of-youtube-ratio-perfection/"><u>In 2024, Demystifying the Math of YouTube Ratio Perfection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/is-it-possible-to-capture-your-screen-with-windows-media-player-step-by-step-tutorial/"><u>Is It Possible to Capture Your Screen with Windows Media Player? Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994838148-master-guide-for-resolving-the-perplexing-exit-code-0-glitch-in-your-favorite-game-minecraft/"><u>Master Guide for Resolving the Perplexing Exit Code 0 Glitch in Your Favorite Game, Minecraft!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-video-orientation-changes-with-google-photos-across-pcs-and-smartphones/"><u>Mastering Video Orientation Changes with Google Photos Across PCs and Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/most-efficient-dvd-to-mp4-software-for-windows-users/"><u>Most Efficient DVD to MP4 Software for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-aac-4/"><u>MP4 形式から AAC への自由なコンバーター4つ、あなたに最適なもの選びましょう!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc2024ts/"><u>PC上にて2024年版TSファイルの再生法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-conversion-of-videos-into-mp3-format-a-step-by-step-guide/"><u>Seamless Conversion of Videos Into MP3 Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamlessly-change-your-pictures-to-sound-a-step-by-step-guide-for-mp3-creation-from-imgs/"><u>Seamlessly Change Your Pictures to Sound: A Step-by-Step Guide for MP3 Creation From IMGs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-voice-recording-on-windows-11-pcs/"><u>Step-by-Step Guide to Voice Recording on Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-capturing-and-saving-twitter-video-clips-everywhere/"><u>Step-by-Step Tutorial: Capturing and Saving Twitter Video Clips Everywhere</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-imagination-drought-hindering-vr-development-for-2024/"><u>The Imagination Drought Hindering VR Development for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-here-weve-selected-some-of-the-best-online-video-compressors-for-compressing-webm-videos-with-best-quality/"><u>Updated 2024 Approved Here Weve Selected some of the Best Online Video Compressors for Compressing WebM Videos with Best Quality</u></a></li>
+</ul></div>
 

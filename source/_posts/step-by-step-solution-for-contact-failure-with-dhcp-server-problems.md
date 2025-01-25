@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for 'Contact Failure with DHCP Server' Problems
-date: 2025-01-17T20:22:54.520Z
-updated: 2025-01-19T20:39:08.377Z
+date: 2025-01-23T18:45:51.584Z
+updated: 2025-01-25T16:38:00.846Z
 tags:
   - win11
   - win10
@@ -38,15 +38,15 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -99,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -113,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -125,11 +113,19 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -148,19 +144,11 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -169,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -179,6 +171,10 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -197,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,22 +225,22 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-behind-the-scenes-insights-for-instagram-story-audience/"><u>[New] 2024 Approved Behind the Scenes Insights for Instagram Story Audience</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-bringing-heartwarmth-to-the-winter-5-snug-cinematographic-tips/"><u>[New] In 2024, Bringing Heartwarmth to the Winter 5 Snug Cinematographic Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-clever-circumventions-for-edgenuity-video-course-skipping/"><u>[New] In 2024, Clever Circumventions for Edgenuity Video Course Skipping</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-samsungs-latest-bd-edition-k850-update/"><u>[New] Samsung's Latest BD Edition - K850 Update</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-all-inclusive-rundown-whats-behind-the-google-podcast-app/"><u>2024 Approved All-Inclusive Rundown What's Behind the Google Podcast App?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/148712-9780687083329-addiction/"><u>Addiction | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-troubleshooting-error-code-0x800f0922-in-windows-10-updates/"><u>Easy Fixes for Troubleshooting Error Code 0X800f0922 in Windows 10 Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211913941-error-resolution-overcoming-the-0x887a0006-issue-with-simple-steps/"><u>Error Resolution - Overcoming the 0X887A0006 Issue with Simple Steps!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/how-the-hisense-50h8f-delivers-quality-4k-viewing-without-breaking-the-bank-tv-review/"><u>How the Hisense 50H8F Delivers Quality 4K Viewing Without Breaking the Bank: TV Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-c12-plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on C12 Plus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-system-diagnostics-service-not-active-a-comprehensive-fix/"><u>Overcoming 'System Diagnostics Service Not Active' - A Comprehensive Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-updating-missing-widevine-cdm-on-your-windows-system/"><u>Step-by-Step Guide: Updating Missing Widevine CDM on Your Windows System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-overcoming-common-minecraft-opengl-errors/"><u>Step-by-Step Solutions: Overcoming Common Minecraft OpenGL Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-basics-of-net-neutrality-simplified-for-everyone/"><u>The Basics of Net Neutrality Simplified for Everyone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-class-not-found-problems-in-windows-11/"><u>Troubleshooting and Solving 'Class Not Found' Problems in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-your-orgs-influence-managing-windows-setup-parameters/"><u>Understanding Your Org's Influence: Managing Windows Setup Parameters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win-10-shutdown-woes-here-are-effective-solutions/"><u>Win 10 Shutdown Woes? Here Are Effective Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevate-your-visuals-music-integration-for-vimeo-films/"><u>[New] 2024 Approved Elevate Your Visuals Music Integration for Vimeo Films</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-brightness-slider-missing-windows-1110/"><u>[SOLVED] Brightness Slider Missing Windows 11/10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-podcast-writing-tips-and-free-template-samples/"><u>[Updated] In 2024, Mastering Podcast Writing Tips & Free Template Samples</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-windows-error-code-successfully-overcoming-werfaultexe-problems-discover-6-key-techniques/"><u>Bypass Windows Error Code: Successfully Overcoming werFault.exe Problems – Discover 6 Key Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-with-people-virtually-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Connecting with People Virtually: The Power of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-it-detailed-guide-on-restoring-function-key-operations/"><u>Fix It! Detailed Guide on Restoring Function Key Operations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-resolve-non-sending-videos-on-facebooks-social-network-apps-for-iphonesandroid-for-2024/"><u>How to Resolve Non-Sending Videos on Facebook's Social Network Apps for iPhones/Android for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-linux-software-best-choices-for-snaps-and-shots/"><u>In 2024, Essential Linux Software Best Choices for Snaps & Shots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-keeping-your-device-alert-no-more-interruptions/"><u>Master the Art of Keeping Your Device Alert: No More Interruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-at-a-click-top-tips-for-win11-mouse-settings/"><u>Mastery at a Click: Top Tips for Win11 Mouse Settings</u></a></li>
+<li><a href="https://article-files.techidaily.com/precision-engineering-for-dvd-production-in-macos-for-2024/"><u>Precision Engineering for DVD Production in macOS for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-and-simple-fix-laptop-display-vertical-alignment/"><u>Quick & Simple Fix: Laptop Display Vertical Alignment</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-port-reset-failed-on-windows-11-when-connected-to-an-unknown-usb-device/"><u>Step-by-Step Fix for 'Port Reset Failed' On Windows 11 When Connected to an Unknown USB Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210044303-troubleshooting-minecraft-crashes-due-to-outdated-video-card-drivers-on-windows-now-resolved/"><u>Troubleshooting Minecraft Crashes Due To Outdated Video Card Drivers On Windows - Now Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/typing-triumph-surface-cured/"><u>Typing Triumph: Surface Cured</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-my-dvd-play-on-windows-and-how-to-fix-it-successfully/"><u>Why Won't My DVD Play on Windows and How to Fix It Successfully</u></a></li>
 </ul></div>
 

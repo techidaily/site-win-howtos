@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solution for OBS Game Capture's Persistent Black Screen Problem
-date: 2025-01-10T17:06:38.978Z
-updated: 2025-01-13T17:13:53.662Z
+date: 2025-01-21T16:21:43.807Z
+updated: 2025-01-25T18:29:49.382Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -64,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -71,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -86,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `` Click **Yes**  when prompted by User Account Control.
@@ -105,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -141,16 +141,12 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -165,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -184,10 +184,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Disable iCloud
 
  Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
@@ -197,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,22 +225,17 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-healthcare-marketing-mastering-fb-ad-strategies/"><u>[New] Healthcare Marketing Mastering FB Ad Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-masterful-moments-the-top-10-apps-to-boost-your-account-for-2024/"><u>[New] Masterful Moments The Top 10 Apps to Boost Your Account for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-profitability-in-the-world-of-youtube-shorts-for-2024/"><u>[Updated] Boosting Profitability in the World of Youtube Shorts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-cartooncraft-master-guide-24-report/"><u>[Updated] CartoonCraft Master Guide '24 Report</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-optimize-your-video-consumption-the-guide-to-auto-play-youtube-on-facebook/"><u>[Updated] Optimize Your Video Consumption The Guide to Auto-Play Youtube on Facebook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-proper-techniques-to-snag-free-secure-vlc-on-a-mac-device-for-2024/"><u>[Updated] Proper Techniques to Snag Free, Secure VLC on a Mac Device for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-lag-in-pubg-a-comprehensive-guide-to-addressing-connectivity-issues/"><u>Eliminating Lag in PUBG: A Comprehensive Guide to Addressing Connectivity Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-87-encountered-mastering-the-solutions-for-incorrect-parameter-issues-in-loadlibrary/"><u>Error 87 Encountered? Mastering the Solutions for Incorrect Parameter Issues in LoadLibrary</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/fix-whea-uncorrectable-errors-on-your-windows-10-pc-top-5-solutions/"><u>Fix WHEA Uncorrectable Errors on Your Windows 10 PC - Top 5 Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-the-missing-device-warning-windows-versions-11-8-and-7/"><u>How to Correctly Address the Missing Device Warning - Windows Versions 11, 8 and 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-windows-10-update-issue-0x80240034-error-solution-explained/"><u>How to Overcome the Windows 10 Update Issue – 0X80240034 Error Solution Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-quick-and-simple-ways-to-take-a-capture-of-your-screen/"><u>How To: Quick & Simple Ways to Take a Capture of Your Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-crc-data-mismatches-solutions-for-flawless-transmission/"><u>Overcoming CRC Data Mismatches – Solutions for Flawless Transmission</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210782325-resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-firefox-secure-connection-error-secerrorunknownissuer-with-ease/"><u>Solve Firefox Secure Connection Error (SEC_ERROR_UNKNOWN_ISSUER) with Ease</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/tech-tips-discovering-missing-files-on-usb-a-4-step-guide-to-track-them-down/"><u>Tech Tips: Discovering Missing Files on USB - A 4-Step Guide to Track Them Down!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-update-failure-code-0xc1900208-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Update Failure Code 0xC1900208: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-streamline-your-storage-with-these-30-great-android-video-compressors/"><u>[New] In 2024, Streamline Your Storage with These 30 Great Android Video Compressors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-revolutionizing-mobile-media-6-leading-video-apps-without-periscope/"><u>[Updated] 2024 Approved Revolutionizing Mobile Media 6 Leading Video Apps without Periscope</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-boosting-view-speed-for-instagram-media-content/"><u>2024 Approved Boosting View Speed for Instagram Media Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-conversion-guide-for-avi-media-to-web-ready-gif-in-filmora/"><u>2024 Approved Comprehensive Conversion Guide for AVI Media to Web-Ready GIF in Filmora</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/astro-a40-microphone-not-working-heres-how-to-fix-it/"><u>Astro A40 Microphone Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beating-isolation-harnessing-chatgpts-power/"><u>Beating Isolation: Harnessing ChatGPT's Power</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-steam-write-errors-an-easy-diy-fix-for-gamers-everywhere/"><u>Bypassing Steam Write Errors: An Easy DIY Fix for Gamers Everywhere</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-speaker-distortion-in-windows-117-easy-steps-inside/"><u>How to Solve Speaker Distortion in Windows 11/7 – Easy Steps Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/organizing-an-interactive-quiz-or-game-based-activity-that-reinforces-the-students-knowledge-of-periodic-trends-particularly-focabulary-related-to-reactivit91/"><u>Organizing an Interactive Quiz or Game-Based Activity that Reinforces the Students' Knowledge of Periodic Trends, Particularly Focabulary Related to Reactivity Series, and Allows Them to Apply This Information in a Fun and Competitive Environment.</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/sing-your-heart-out-at-the-holiday-gala-why-karaoke-cloud-pro-is-your-ultimate-party-solution/"><u>Sing Your Heart Out at the Holiday Gala - Why Karaoke Cloud Pro Is Your Ultimate Party Solution!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-non-responsive-mousepads-in-windows-versions-10-8-and-7/"><u>Solutions for Non-Responsive Mousepads in Windows Versions (10, 8, and 7)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor Magic V2? | Dr.fone</u></a></li>
 </ul></div>
 

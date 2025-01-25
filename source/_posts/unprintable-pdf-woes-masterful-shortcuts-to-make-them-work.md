@@ -1,7 +1,7 @@
 ---
 title: Unprintable PDF Woes? Masterful Shortcuts to Make Them Work!
-date: 2024-08-28T00:21:06.893Z
-updated: 2024-08-29T00:21:06.893Z
+date: 2025-01-21T16:35:36.983Z
+updated: 2025-01-25T18:10:18.223Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. [**Reinstall Oddworld: Soulstorm and the launcher**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets the minimum specifications for Oddworld: Soulstorm
 
  Oddworld: Soulstorm has a set of hardware and system requirements in order for it to be played smoothly. If your copy of Oddworld: Soulstorm crashes a lot on your PC, it’s worth checking if your PC meets the requirements.
@@ -49,6 +53,11 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display.png)
@@ -70,20 +79,20 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-your-device-drivers.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Launch Oddworld: Soulstorm and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Run Epic Games Launcher as administrator
 
  Oddworld: Soulstorm requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may encounter crash. So you should make sure to run Epic Games Launcher as administrator to see if it fixes the issue.
@@ -92,24 +101,13 @@ Here’s how:
 
 1. On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , type**epic** , then right-click on**Epic Games Launcher** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/epic.png)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Yes** when UAC promots for permissions to proceed.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  After that, launch Oddworld: Soulstorm game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify game integrity on Epic Games Launcher
 
@@ -117,10 +115,6 @@ Here’s how:
 
  Wait a bit until the process finishes. After that, re-launch Oddworld: Soulstorm to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try**Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 5: Allow Epic Games Launcher through firewall
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow the launcher through the firewall to make sure that the connection isn’t lost.
@@ -134,9 +128,11 @@ Here’s how:
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Run the game in the launcher and see if it still crashes. If it’s still on-going, please move on to**Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
@@ -147,11 +143,6 @@ Here’s how:
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to**Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 7: Perform a clean boot
 
  Oddworld: Soulstorm may crash because of software conflict. In this case, you should perform a clean boot. A clean boot restarts Windows with a minimal set of drivers and startup programs, allowing you to narrow down the programs and servicies so that you could potentially pinpoint the offender.
@@ -165,8 +156,17 @@ Here are the steps to perform a clean boot:
 3. Browse through the full list of services, make sure to **check the boxes for the items that belong to your hardware manufacturers** (such as Intel, AMD, and Qualcomm) and**uncheck the boxes for the rest** . Once finished, click**OK** to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12-2.png)
 4. Restart your computer, then test to see if the game still crashes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **If Oddworld: Soulstorm stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Oddworld: Soulstorm still crashes** , please continue to**Fix 8** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Oddworld: Soulstorm and the launcher
 
@@ -184,8 +184,6 @@ Here are the steps to perform a clean boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +191,18 @@ Here are the steps to perform a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-from-fragmented-to-flawless-mastering-kinemaster-edits/"><u>[New] In 2024, From Fragmented to Flawless Mastering Kinemaster Edits</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tiktoks-voyage-to-twitter-success-stories/"><u>[Updated] 2024 Approved TikTok's Voyage to Twitter Success Stories</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/hddlan/"><u>「外付けHDDの複製作業を容易に行うイーサネット・LANケーブル使用ガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc4k/"><u>「PC上での4K解像度動画記録術 - 最新トップレコーダー推薦ガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/iuwlleeuuplusobqplusmthewkmplusockus4juobioociplusodleocoplusodqplusocvplusodvowkueaendrml6xmnkzoqp7niyjjgrxjgqtjg4jjgafjgyrjgznjgznjgohjgi0i/"><u>動画に魅力を与えるフィルター効果:日本語版サイトでおすすめ」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/isomkv/"><u>簡単な手順でISOファイルからMKVへの変換方法を学ぶ</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-motorola-razr-40-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Motorola Razr 40 Ultra For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-cracking-the-code-knowing-your-posts-spectators-on-instagram/"><u>In 2024, Cracking The Code Knowing Your Post's Spectators on Instagram</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-6windowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 6/Windows/Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m2ts-and-mkv/"><u>M2TS & MKVファイル間の最高品質無傷変換</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/oggmp36/"><u>Oggファイルを無料でMP3に変換するためのトップソフトウェア6選</u></a></li>
+</ul></div>
 

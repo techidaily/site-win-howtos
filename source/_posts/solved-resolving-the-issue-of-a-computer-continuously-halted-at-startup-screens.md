@@ -1,7 +1,7 @@
 ---
 title: "Solved: Resolving the Issue of a Computer Continuously Halted at Startup Screens"
-date: 2024-08-28T00:20:42.733Z
-updated: 2024-08-29T00:20:42.733Z
+date: 2025-01-21T16:15:15.751Z
+updated: 2025-01-25T16:52:52.147Z
 tags:
   - win11
   - win10
@@ -51,12 +51,25 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -80,13 +93,17 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -95,9 +112,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Check USB peripherals
 
  If the LiveKernelEvent 144 error is seen with a blue screen of death error, then it should relate to your USB devices. To see if this is your case, you can do the following:
@@ -111,15 +125,14 @@ To do so, first visit the website of your GPU manufacturer:
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
 8. Restart your computer afterward.
@@ -132,9 +145,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Make sure the PSU works well for your machine
 
  The LiveKernelEvent with code 144 error can sometimes relate to your insufficient power supply for all your hardware components, especially when the LiveKernelEvent 144 is seen after your computer shuts down unexpectedly or freezes whenever you’re running resource-hungry programs.
@@ -161,11 +171,13 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  (Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) ! )
@@ -174,9 +186,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Consider a system reinstall
 
  If the LiveKernelEvent with code 144 error still remains after all the above, the next thing you should consider is a Windows reinstall, given the time and energy spent already.
@@ -188,6 +197,10 @@ To do so, first visit the website of your GPU manufacturer:
 Then see if the LiveKernelEvent 144 error is still seen.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Seek help from a hardware technician
 
@@ -207,8 +220,6 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +227,26 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-advanced-techniques-for-simplifying-screen-capture-in-os-x/"><u>[New] In 2024, Advanced Techniques for Simplifying Screen Capture in OS X</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-creative-video-editing-for-fb-techniques-of-lc-and-bb-overlay-for-2024/"><u>[Updated] Creative Video Editing for FB Techniques of LC and BB Overlay for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-video-metrics-the-role-of-thumbnail-size-for-2024/"><u>[Updated] Mastering Video Metrics The Role of Thumbnail Size for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-seamless-sound-changes-with-premiere-pro/"><u>[Updated] Seamless Sound Changes with Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stand-out-design-and-customize-professional-logos-via-free-templates/"><u>[Updated] Stand Out Design and Customize Professional Logos via Free Templates</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-guide-to-keeping-preview-graphics-intact-in-your-word-files/"><u>A Comprehensive Guide to Keeping Preview Graphics Intact in Your Word Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ace-google-meet-selecting-ideal-video-call-bgs/"><u>Ace Google Meet Selecting Ideal Video Call BGs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-google-pixel-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Google Pixel 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-swf-files-to-wmv-format-with-no-cost-two-simple-methods/"><u>Convert SWF Files to WMV Format with No Cost: Two Simple Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-your-social-media-sounds-for-free-leak-free-mp3s-from-facebook-without-any-bothering-ads-or-signs/"><u>Convert Your Social Media Sounds for FREE: Leak-Free MP3s From Facebook without Any Bothering Ads or Signs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cprmdvd/"><u>CPRM保護が解除されたDVDから容易にコピー・リッピングする方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-9-anime-the-latest-facts-uncovered/"><u>Decoding 9 Anime: The Latest Facts Uncovered!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-mp4-to-flv-file-format-transformation-tips-and-tricks/"><u>Easy MP4 to FLV File Format Transformation Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-downloading-and-saving-online-content-tutorial-on-youtube-facebook-vimeo-and-liveleak-videos/"><u>Easy Steps for Downloading and Saving Online Content: Tutorial on Youtube, Facebook, Vimeo, and Liveleak Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-downloading-videos-from-forum-discussions/"><u>Effective Strategies for Downloading Videos From Forum Discussions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-mp4mp3-format-conversion-with-windows-media-player-explained/"><u>Effortless MP4/MP3 Format Conversion with Windows Media Player Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-save-godzilla-2014-on-dvd-with-no-data-degradation/"><u>Guide: Save Godzilla 2014 on DVD with No Data Degradation</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+</ul></div>
 

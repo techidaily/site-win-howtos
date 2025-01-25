@@ -1,7 +1,7 @@
 ---
 title: "Unstick Your PC: Effective Tips for Handling the 'Configuring Windows' Hang-Up"
-date: 2025-01-08T17:15:00.642Z
-updated: 2025-01-13T16:48:39.343Z
+date: 2025-01-20T18:46:15.484Z
+updated: 2025-01-25T18:29:52.496Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before we go…
 
  The problems of your printer, your PDF files, and your Adobe software all can cause you can’t print a PDF file. First things first, **figure out if the problem is due to your printer, your PDF file, or your Adobe software** .
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Troubleshoot problems with your printer](#printer)**
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 4. **[Troubleshoot problems with your Acrobat Reader](#reader)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot problems with your printer
 
@@ -63,7 +59,11 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
@@ -90,12 +90,12 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Repair or recreate your PDF file
@@ -117,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03f2e27b7d.png)
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Recreate a new PDF file
 
 1. Choose a way to recreate a new PDF file:  
@@ -128,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Scan your computer to detect issues
 
@@ -210,10 +218,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -222,10 +226,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
 
@@ -252,19 +252,16 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-fuel-the-spark-essential-themes-for-youtube-success/"><u>[New] In 2024, Fuel the Spark Essential Themes for YouTube Success</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-avoid-bots-manual-linking-between-spotify-and-discord-works-for-2024/"><u>[Updated] Avoid Bots? Manual Linking Between Spotify & Discord Works for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-determining-the-top-2023-action-camera-champion-for-2024/"><u>[Updated] Determining the Top 2023 Action Camera Champion for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-vocalizing-your-visual-content-a-complete-tiktok-manual/"><u>[Updated] Vocalizing Your Visual Content A Complete TikTok Manual</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-pop-7-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Pop 7 Pro Unlock Without Password</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battlefield-2042-and-pc-compatibility-troubleshooting-to-avoid-crashing-issues/"><u>Battlefield 2042 and PC Compatibility: Troubleshooting to Avoid Crashing Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-still-coming-soon-discover-exceptional-open-source-counterparts-now/"><u>ChatGPT Desktop Still Coming Soon? Discover Exceptional Open Source Counterparts Now!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/drone-vfx-essentials-free-luts-for-dji-drones-available/"><u>Drone VFX Essentials - Free LUTS for DJI Drones Available</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-resolving-silent-screens-fixing-your-netflix-audio-problems/"><u>Easy Solutions for Resolving Silent Screens: Fixing Your Netflix Audio Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-optimal-speed-a-comprehensive-guide-to-overcome-minecraft-lags/"><u>Mastering Optimal Speed: A Comprehensive Guide to Overcome Minecraft Lags</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-pcs-windows-updates-a-step-by-step-guide-to-restarting-the-service/"><u>Revive Your PC's Windows Updates – A Step-by-Step Guide to Restarting the Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-10-glitches-using-system-file-checker-sfc-and-deployment-image-servicing-and-management-dism/"><u>Troubleshoot Windows 10 Glitches Using System File Checker (SFC) and Deployment Image Servicing and Management (DISM)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-error-code-24-missing-devices-on-windows-1187/"><u>Troubleshooting Guide: Resolving Error Code 24 - Missing Devices on Windows 11/8/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-easy-advanced-techniques-for-windows-11-file-explorer/"><u>Troubleshooting Made Easy: Advanced Techniques for Windows 11 File Explorer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-screen-snag-reviewed-in-depth-analysis/"><u>[Updated] 2024 Approved Screen Snag Reviewed In-Depth Analysis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-community-builders-gamer-youtubers/"><u>[Updated] Community Builders Gamer YouTubers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-make-money-fast-on-reddit-top-13-easy-strategies-for-beginners/"><u>[Updated] Make Money Fast on Reddit Top 13 Easy Strategies for Beginners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ce-34878-0-error-in-ps4-solved/"><u>CE-34878-0 Error in PS4 [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-repairing-a-failing-huion-art-pen-in-minutes/"><u>Expert Tips: Repairing a Failing Huion Art Pen in Minutes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-your-usb-device-constantly-dropping-connection-problems/"><u>How To Solve Your USB Device Constantly Dropping Connection Problems</u></a></li>
+<li><a href="https://discover-best.techidaily.com/how-to-2023-convert-and-burn-your-files-to-dvd-with-handbrake-for-both-pc-and-mac-users/"><u>How-To 2023: Convert and Burn Your Files to DVD with HandBrake for Both PC and Mac Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/rank-your-download-preferences-with-our-top-5-list/"><u>Rank Your Download Preferences with Our Top 5 List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-the-headphones-not-detected-issue-on-windows-11-pcs/"><u>Resolving the 'Headphones Not Detected' Issue on Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-troubleshooting-completed-for-non-responsive-igfxem-component/"><u>Solution Found: Troubleshooting Completed for Non-Responsive IGFX_em Component</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-choosing-the-best-explainer-video-software-for-2024/"><u>The Ultimate Guide to Choosing the Best Explainer Video Software for 2024</u></a></li>
 </ul></div>
 

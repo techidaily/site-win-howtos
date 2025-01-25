@@ -1,7 +1,7 @@
 ---
 title: Fixing 0X80070490 Error Codes for Seamless Windows Update Experience
-date: 2024-08-28T00:22:49.513Z
-updated: 2024-08-29T00:22:49.513Z
+date: 2025-01-20T17:42:00.526Z
+updated: 2025-01-25T18:30:13.895Z
 tags:
   - win11
   - win10
@@ -36,30 +36,35 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 
 1. On your keyboard, press**the Windows logo key** and type**troubleshoot** . In the list of search results, select **Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap392-1.png)
 2. In the pop-up window, select**Windows Update** and click**Run the troubleshooter** . You’ll be prompted for permission. Click**Yes** to run**Windows Update troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap393.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Restart the Windows Update service**
 
  You may see the error code 0xc1900208 if there is something wrong with the Windows Update service. Try restarting the Windows Update service to see if you can resolve this problem. Here’s how to do it:
 
 1. On your keyboard, press **the Windows Logo key**   and **R**   at the same time to open the Run dialog, then type **services.msc** and press **Enter**   to open the Services window.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap396.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
 4. **Delete** all the files in the folder **DataStore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap399.png)  
  When all the files are deleted, you shall see “This folder is empty”.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.**`C:\Windows\SoftwareDistribution\Download`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
@@ -68,9 +73,6 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  When all the files are deleted, you shall see “This folder is empty”.
  Perform a Windows update again. If it still doesn’t work, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Run the DISM tool**
 
  The error code 0xc1900208 can also be triggered by the corrupted Windows update files. In this case, running **the Deployment Image Servicing and Management (DISM) tool**  may resolve this issue. Just follow the step-by-step instructions below to run the DISM tool:
@@ -93,8 +95,9 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 4: Running System File Checker**
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. When you see the error code 0xc1900208, it may be caused by some corruption error. Running System File Checker may help you resolve this issue. Here is how to do it:
@@ -105,14 +108,12 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  It may take some time for the command operation to be completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
 3. When this command operation is completed, close **Command Prompt** .
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
 
  You can try downloading the updates you failed to install from[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx)  and install them manually. Here is how to do it:
@@ -122,28 +123,35 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 3. Before you download the update, follow the instructions below to view your system type:  
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
-    “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+    “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
 6. In the list of search results, select right update for your operating system and click **Download** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Pro tip: Want us to fix the problem for you?**
 
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you.  All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
@@ -161,8 +169,6 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +176,22 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-understanding-2023s-push-for-shorter-more-impactful-facebook-videos/"><u>[New] In 2024, Understanding 2023'S Push for Shorter, More Impactful Facebook Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outubes-premier-guide-to-top-notch-gear/"><u>[New] YouTube’s Premier Guide to Top-Notch Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-changing-user-numbers-on-tiktok/"><u>[Updated] Expert Guide to Changing User Numbers on TikTok</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ignite-interest-captivate-views-elevate-likes-on-your-unboxings/"><u>[Updated] Ignite Interest, Captivate Views Elevate Likes on Your Unboxings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-avoid-stress-with-these-easy-to-follow-ipad-screen-saving-methods/"><u>2024 Approved Avoid Stress with These Easy-to-Follow iPad Screen Saving Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-ii-resurrected-fixes-for-the-game-that-wont-start/"><u>Diablo II: Resurrected - Fixes for the Game That Won't Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/elucrante-the-importance-of-xinput13dll-in-devices/"><u>Elucrante: The Importance of XINPUT1_3.dll in Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/embark-on-a-metaverse-adventure-with-these-top-8-helmets-and-headsets/"><u>Embark on a Metaverse Adventure with These Top 8 Helmets & Headsets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x80004005-in-email-clients-identifying-and-correcting-the-hidden-undefined-problems-successfully/"><u>Error Code 0X80004005 in Email Clients - Identifying and Correcting the Hidden Undefined Problems Successfully</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-xcover-7-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy XCover 7 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-optimize-your-pc-cutting-down-high-gpu-usage-from-desktop-window-manager-windows-10-and-11/"><u>How to Optimize Your PC: Cutting Down High GPU Usage From Desktop Window Manager (Windows 10 & 11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-voice-communication-problems-in-overwatch-simple-solutions/"><u>Overcoming Voice Communication Problems in Overwatch - Simple Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-adobe-shockwave-flash-support-for-a-smooth-experience-on-chrome/"><u>Reviving Adobe Shockwave Flash Support for a Smooth Experience on Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-mystery-of-the-dead-astro-a40-microphone-diagnosis-and-remedies/"><u>Solve the Mystery of the Dead Astro A40 Microphone: Diagnosis & Remedies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-how-to-restore-touchpad-scrolling-functionality/"><u>Troubleshooting Windows 11: How to Restore Touchpad Scrolling Functionality</u></a></li>
+</ul></div>
 

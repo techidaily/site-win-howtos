@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Emoji Insertion in Excel: A Step-by-Step Guide to Enhance Your Spreadsheets"
-date: 2024-08-28T00:18:01.335Z
-updated: 2024-08-29T00:18:01.335Z
+date: 2025-01-18T16:11:47.245Z
+updated: 2025-01-25T17:05:42.373Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ---
 
 ## Dynamic Emoji Insertion in Excel: A Step-by-Step Guide to Enhance Your Spreadsheets
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  You can [use Conditional Formatting in Excel](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) to add symbols or colors based on a cell's value, but, unfortunately, this doesn't offer the use of emojis. So, to get around this rather annoying shortcoming, let's look at [how to use the IF function](https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-huawei-phone-by-drfone-android/) to do just that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Know the IF Function
 
  First, let's briefly explore Excel's IF function, which performs a logical test on a cell value to result in an outcome, and has the following syntax:
@@ -39,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ![Table in Excel containing three columns. The first is employee names, the second is their profit, and the third is blank.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/employee-table-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To do this for Peter, we would type
 
 =IF(B2>=$C$1,"Yes","No")
@@ -54,9 +63,14 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 ![A table in Excel displaying Yes or No depending on the outcome of the IF logical test.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/if-with-yes-or-no.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  But instead of the result being a word like Yes or No, you might want to use an emoji.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use Emojis With the IF Function
 
@@ -74,16 +88,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![An Excel spreadsheet with a formula half-typed and the Symbol icon grayed out.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/if-function-start-with-symbols-greyed-out.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  So, we need to use an alternative way to bring up the emoji that we want to add to our formula. If you're using a Windows computer, press Windows+. (the Windows key and the period key). If you're using a Mac, press Ctrl+Cmd+Space. This will bring up a list of emojis you can use within your formula.
 
 ![Emoji keyboard in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/emoji-keyboard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Search for and single-click the emoji you want to show if the logical test is true, close the quotation marks, add a comma, and open the next quotation marks.
 
 =if(B2>=$C$1,"😁","
@@ -96,16 +104,10 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![An Excel worksheet containing an emoji based on a logical IF-function test.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/emoji-in-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Finally, use the AutoFill function to complete the rest of your results.
 
 ![A table in Excel with the rightmost column containing emojis based on the logical IF test.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/completed-emoji-table.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  What's more, if your data changes, the emojis will automatically update to reflect whether the logical test has been met.
 
 ---
@@ -118,8 +120,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,24 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-a-lifetime-love-affair-with-top-15-classic-stop-motion-movies/"><u>[Updated] 2024 Approved A Lifetime Love Affair with Top 15 Classic Stop-Motion Movies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-zoom-mastery-for-selfie-success-in-instagram-stories-for-2024/"><u>[Updated] Zoom Mastery for Selfie Success in Instagram Stories for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-itel-p55-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Itel P55 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-windows-shell-dll-crash-your-ultimate-troubleshooting-manual/"><u>Beat the 'Windows Shell DLL Crash': Your Ultimate Troubleshooting Manual</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dominate-the-galaxy-with-offworld-trading-company-insights-and-tips-for-budding-entreprnopreneurs/"><u>Dominate the Galaxy with Offworld Trading Company: Insights and Tips for Budding Entreprnopreneurs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tech-must-haves-laptops-mobile-devices-and-book-collections/"><u>Essential Tech Must-Haves: Laptops, Mobile Devices & Book Collections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-for-the-failed-to-initialize-network-error-in-dragon-ball-fighterz-explained/"><u>Fix for the 'Failed to Initialize Network' Error in Dragon Ball FighterZ Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-10-dvdcd-rom-error-windows-cannot-start-this-hardware-device-because-its-configuration-information-in-the-registry-is-incomplete-or-damaged-code129/"><u>Fix Windows 10 DVD/CD-ROM Error: Windows Cannot Start This Hardware Device because Its Configuration Information (in the Registry) Is Incomplete or Damaged. (Code 19)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-site-cannot-be-reached-issue-in-chrome-comprehensive-guide/"><u>Fixing the 'Site Cannot Be Reached' Issue in Chrome - Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-the-failure-of-right-click-on-a-mouse-within-windows-10-system/"><u>Guide To Repairing the Failure of Right-Click on a Mouse Within Windows 10 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-logitech-mouse-scrolling-again-after-it-stopped-working/"><u>How To Get Your Logitech Mouse Scrolling Again After It Stopped Working</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-lava-storm-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Lava Storm 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximizing-gaming-power-a-guide-to-faster-windows-11-performance/"><u>Maximizing Gaming Power: A Guide to Faster Windows 11 Performance</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-exploring-the-leading-podcast-editing-programs-comprehensive-guide-to-free-and-premium-options/"><u>New 2024 Approved Exploring the Leading Podcast Editing Programs Comprehensive Guide to Free & Premium Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-why-isnt-my-usb-to-hdmi-adaptor-working/"><u>Solution Guide: Why Isn't My USB to HDMI Adaptor Working?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210875637-9781608688845-three-minutes-a-day/"><u>Three Minutes a Day | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-to-overcome-iphone-image-management-hurdles-practical-solutions-inside/"><u>Tips to Overcome iPhone Image Management Hurdles – Practical Solutions Inside</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Locating and Installing Critical Media Drivers for Seamless Operation"
-date: 2025-01-14T18:12:39.322Z
-updated: 2025-01-19T18:51:00.194Z
+date: 2025-01-20T17:44:11.756Z
+updated: 2025-01-25T18:24:03.188Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ the picture was taken by: Article\_86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## End the process
 
  Yes, clicking the “**X** ” button to close the page is the first reaction for most people. But the page like this scam uses our reaction to get permission to infect our devices. So they could let the page pop up again.  
@@ -41,10 +37,14 @@ the picture was taken by: Article\_86
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -56,10 +56,6 @@ the picture was taken by: Article\_86
 3. [**Uninstall suspicious add-ons**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
 
@@ -74,6 +70,10 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -86,16 +86,16 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -108,6 +108,10 @@ the picture was taken by: Article\_86
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
@@ -122,10 +126,6 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
@@ -171,18 +171,19 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-between-gopro-and-yi/"><u>[New] 2024 Approved The Ultimate Guide to Choosing Between GoPro and Yi</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-legality-of-recording-on-youtube-platform-for-2024/"><u>[Updated] Legality of Recording on YouTube Platform for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-skyrocket-engagement-with-youtubes-powerful-featured-channels-strategy-for-2024/"><u>[Updated] Skyrocket Engagement with Youtube’s Powerful Featured Channels Strategy for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-blueprint-for-channel-empowerment-via-studio-mastery-for-2024/"><u>[Updated] The Blueprint for Channel Empowerment via Studio Mastery for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-instructions-turning-on-your-devices-bluetooth-feature-on-windows/"><u>Comprehensive Instructions: Turning on Your Device's Bluetooth Feature on Windows</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-issue-when-mass-effect-legendary-edition-wont-start/"><u>Fixing the Issue When Mass Effect Legendary Edition Won't Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-unexpected-system-shutdowns-during-pc-gaming-on-windows-versions/"><u>Fixing Unexpected System Shutdowns During PC Gaming on Windows Versions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-cell-replication-a-comprehensive-tutorial-on-cloning-formulas-in-excel/"><u>Mastering Cell Replication: A Comprehensive Tutorial on Cloning Formulas in Excel</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-adobe-premiere-pros-secret-weapons-top-15-plugins-you-need-free-and-paid-for-2024/"><u>New Adobe Premiere Pros Secret Weapons Top 15 Plugins You Need (Free & Paid) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/revolutionize-your-videography-workflow-recordingediting-on-adobe-connect-for-2024/"><u>Revolutionize Your Videography Workflow Recording/Editing on Adobe Connect for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-complete-repaired-keyboard-typing-errors/"><u>Troubleshooting Complete: Repaired Keyboard Typing Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-system-check-utility/"><u>Troubleshooting Steps for a Non-Responsive System Check Utility</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-proven-methods-to-record-your-favorite-streaming-hulu-shows/"><u>[Updated] Proven Methods to Record Your Favorite Streaming Hulu Shows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-the-features-and-functionality-of-the-dell-inspiron-3671-model/"><u>Analyzing the Features and Functionality of the Dell Inspiron 3671 Model</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-and-fixing-incompatible-input-warnings-on-your-screen-display/"><u>Deciphering and Fixing Incompatible Input Warnings on Your Screen Display</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209393341-how-to-restore-astro-a40-mic-functionality-simple-solutions/"><u>How to Restore Astro A40 Mic Functionality - Simple Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-skype-talk-improvement-silence-the-surroundings/"><u>In 2024, Skype Talk Improvement Silence the Surroundings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-itel-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Itel Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-wireless-connections-a-step-by-step-guide-to-activate-bluetooth-on-modern-windows/"><u>Mastering Wireless Connections: A Step-by-Step Guide to Activate Bluetooth on Modern Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211025140-remote-server-connectivity-problems-heres-how-to-restore-access/"><u>Remote Server Connectivity Problems? Here's How to Restore Access</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-sound-synthesis-inshots-audio-guide/"><u>Seamless Sound Synthesis InShot's Audio Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-tech-troubles-resolve-your-unstable-mouse-issues-today/"><u>Tackling Tech Troubles: Resolve Your Unstable Mouse Issues Today</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-slow-down-the-10-best-video-players-for-smooth-playback/"><u>Updated 2024 Approved Slow Down The 10 Best Video Players for Smooth Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210260372-windows-users-rejoice-solve-your-bluetooth-mouse-malfunction-dilemma-today/"><u>Windows Users Rejoice: Solve Your Bluetooth Mouse Malfunction Dilemma Today!</u></a></li>
 </ul></div>
 

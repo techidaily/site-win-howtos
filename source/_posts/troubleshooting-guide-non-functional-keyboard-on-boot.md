@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Non-Functional Keyboard on Boot"
-date: 2024-08-28T00:21:39.678Z
-updated: 2024-08-29T00:21:39.678Z
+date: 2025-01-19T16:10:07.880Z
+updated: 2025-01-25T18:25:14.137Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update the driver
 
  Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
@@ -65,27 +73,15 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Perform a system restore
 
  If the keyboard stopped working after you updated Windows or installed some software, performing a system restore would solve the problem. Note you need to have[restore points](https://tools.techidaily.com/drivereasy/download/) created.
@@ -97,8 +93,9 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
@@ -108,15 +105,13 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
@@ -125,9 +120,6 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  7) Click**Finish** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
@@ -149,8 +141,6 @@ If you have no idea how to do a system restore, refer steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +148,24 @@ If you have no idea how to do a system restore, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-stop-automated-post-proposals-on-instagram/"><u>[Updated] 2024 Approved Stop Automated Post Proposals on Instagram</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-effortless-estimation-of-digital-gains/"><u>[Updated] In 2024, Effortless Estimation of Digital Gains</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-solving-vlcs-trouble-with-mkv-a-comprehensive-guide/"><u>1. Solving VLC's Trouble with MKV: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-superior-wmv-merger-ultimate-guide-to-fusing-various-wmv-videos-into-a-single-file/"><u>1. Superior WMV Merger: Ultimate Guide to Fusing Various WMV Videos Into a Single File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-k70-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi K70 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026294858-dvd/"><u>一般的DVDバックアップにおけるエラー解析とトラブルシューティング</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026577681-aviutl/"><u>AviUtlでシンプルに動画のカラーコレクト技術</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-top-tier-electronics-a-detailed-look-by-toms-technology-insights/"><u>Discover Top-Tier Electronics - A Detailed Look by Tom's Technology Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-winx-dvd-author-suite-premium-free-disc-burner-with-ultimate-editing-tools-for-windows-latest-versions/"><u>Download WinX DVD Author Suite | Premium, Free Disc Burner with Ultimate Editing Tools for Windows Latest Versions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-visual-clarity-fixes-previously-blurry-screenshots-of-outriders/"><u>Enhanced Visual Clarity Fixes Previously Blurry Screenshots of Outriders</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidiaintel-gpu-cooperation-new-era-for-win11-users/"><u>Nvidia/Intel GPU Cooperation - New Era for Win11 Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-pova-5-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Pova 5 has been deleted.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-apples-latest-characters-the-surprising-release-of-bold-new-gadgets-last-week-insights-from-zdnet/"><u>Unveiling Apple's Latest Characters: The Surprising Release of Bold New Gadgets Last Week - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vobwmvwindows/"><u>VOBファイルをWMV形式に変換するためのWindows対応ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watch-your-avi-videos-effortlessly-on-roku-the-ultimate-no-cost-tutorial/"><u>Watch Your AVI Videos Effortlessly on Roku: The Ultimate No-Cost Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webm-aviwmv/"><u>WebM ファイルの AVI/WMV への変換手順ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windowsimgiso/"><u>Windows環境でIMGファイルをISO形式に変換する手順</u></a></li>
+</ul></div>
 

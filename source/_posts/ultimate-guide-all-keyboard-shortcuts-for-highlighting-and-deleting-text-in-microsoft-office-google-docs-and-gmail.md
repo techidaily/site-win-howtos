@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: All Keyboard Shortcuts for Highlighting and Deleting Text in Microsoft Office, Google Docs, and Gmail"
-date: 2024-08-28T00:18:42.592Z
-updated: 2024-08-29T00:18:42.592Z
+date: 2025-01-24T18:03:21.517Z
+updated: 2025-01-25T17:00:03.485Z
 tags:
   - excel
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
 
  Applying the strikethrough effect (which adds a line crossing your text) in popular apps like Word, Excel, PowerPoint, Outlook, Google's online office suite, and Gmail is as easy as pressing a key combination. Let us show you what those keyboard shortcuts are for the Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Strikethrough in MS Word, Excel, PowerPoint, and Outlook
 
  If you're looking to [apply the strikethrough effect in your Word document](https://media-tips.techidaily.com/a-comprehensive-guide-on-the-inner-workings-of-3d-sound-and-trusted-platforms-for-downloads/) on a Windows PC, simply select your text in the document and press Alt+H+4\. (You don't have to press all these keys at once; it's okay to press one after another.). On a Mac, you'll press Command+Shift+X.
@@ -34,16 +38,17 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
 ![Press Alt+H+4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/1-alt-h-4-windows-keyboard-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [If you're an Excel user](https://review-topics.techidaily.com/does-tecno-camon-20-premier-5g-have-find-my-friends-drfone-by-drfone-virtual-android/) on Windows or Mac, you'll strikethrough your text by first selecting your text and then pressing Ctrl+5\. The shortcut is the same for both Windows and Mac machines.
 
 ![Press Ctrl+5.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/2-ctrl-5-keyboard-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In PowerPoint's Windows version, you'll [apply the strikethrough effect](https://extra-hints.techidaily.com/understanding-your-macs-capabilities-in-big-sur/) by first highlighting your text and then pressing Alt+H+4\. On a Mac, you'll press Command+T, then choose "Strikethrough" and select "OK."
 
  In Outlook's Windows version, you'll select your text and press Ctrl+D followed by Alt+K and Enter. On a Mac, you'll press Command+T, choose "Strikethrough," and select "OK."
@@ -51,8 +56,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 Related: [How to Strikethrough in Microsoft Excel](https://review-topics.techidaily.com/does-tecno-camon-20-premier-5g-have-find-my-friends-drfone-by-drfone-virtual-android/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Strikethrough Text in Google Docs, Sheets, and Slides
 
  If you're a user of Google's online office suite, which includes Docs, Sheets, and Slides, use the following shortcuts to [strikethrough your text](https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-6-plus-to-ipad-drfone-by-drfone-transfer-from-ios/).
@@ -65,16 +71,14 @@ Related: [How to Strikethrough in Microsoft Excel](https://review-topics.techida
 
 ![Press Command+Shift+X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/4-command-shift-x-mac-keyboard-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Apple
 
  And that's it.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Apply Strikethrough in Gmail on the Web
 
 [Adding a line crossing your text](https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-v2-drfone-by-drfone-virtual-android/) in your Gmail emails is also easy.
@@ -83,9 +87,6 @@ Apple
 
 ![Strikethrough text in Gmail.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/5-strikethrough-text-gmail.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Gmail will strikethrough your highlighted text.
 
  And that's how you cancel out parts of your text in your favorite apps. Enjoy!
@@ -98,8 +99,6 @@ Related: [How to Strikethrough in Microsoft Outlook](https://pokemon-go-android.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +106,21 @@ Related: [How to Strikethrough in Microsoft Outlook](https://pokemon-go-android.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-budget-friendly-backdrops-a-journey-through-tiktoks-visual-wonderland/"><u>[New] In 2024, Budget-Friendly Backdrops A Journey Through TikTok's Visual Wonderland</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-high-definition-vision-saving-tech/"><u>[New] In 2024, High Definition Vision Saving Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-economical-hardware-peak-performance-via-obs/"><u>[Updated] Economical Hardware - Peak Performance via OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevating-your-win11-capture-experience-with-top-tools-for-2024/"><u>[Updated] Elevating Your Win11 Capture Experience with Top Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-understanding-and-utilizing-claude-2/"><u>A Comprehensive Guide to Understanding and Utilizing Claude 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212036439-dell-usb-connection-issues-heres-how-to-get-it-working-again/"><u>Dell USB Connection Issues? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-fix-for-windows-pc-when-it-fails-to-mirror-screen-or-project-video-output/"><u>Fast Fix for Windows PC When It Fails to Mirror Screen or Project Video Output</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gadget-glitch-gone/"><u>Gadget Glitch Gone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210734782-google-chrome-freezing-problems-now-fixed/"><u>Google Chrome Freezing Problems – Now Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-troubleshooting-guide-to-reviving-your-drained-laptop-battery/"><u>Quick & Easy Troubleshooting Guide to Reviving Your Drained Laptop Battery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-geforce-experience-failure-to-launch-dilemma/"><u>Resolving the GeForce Experience Failure to Launch Dilemma</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-resolution-for-missing-dnssddll-files-on-your-pc/"><u>Troubleshooting and Resolution for Missing dnssd.dll Files on Your PC</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-download-vn-video-editor-for-mac-or-explore-mac-friendly-alternatives/"><u>Updated In 2024, Download VN Video Editor for Mac or Explore Mac-Friendly Alternatives</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-want-to-turn-a-photo-into-a-cartoon-but-dont-know-how-here-are-some-of-the-best-online-websites-which-allow-you-to-turn-pictures-into-cartoons-witho/"><u>Updated Want to Turn a Photo Into a Cartoon but Dont Know How? Here Are some of the Best Online Websites Which Allow You to Turn Pictures Into Cartoons without Downloading Any Software</u></a></li>
+</ul></div>
 

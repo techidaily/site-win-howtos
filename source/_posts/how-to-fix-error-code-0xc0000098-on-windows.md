@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0Xc0000098 on Windows
-date: 2025-01-08T16:09:56.854Z
-updated: 2025-01-13T17:34:44.153Z
+date: 2025-01-20T16:53:19.000Z
+updated: 2025-01-25T17:09:56.694Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 4. **[Reset TCP/IP on your Windows](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable the auto tuning feature](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Why does the error 651 occur?**
 
 **Note** : If you have already known something about the error 651, you can skip to[**Method 1**](https://tools.techidaily.com/drivereasy/download/)
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
  Error 651 is a common error for Windows users. It occurs when we try to connect using**PPPoE connection** . PPPoE stands for**Point to Point Protocol over Ethernet** , and it remotely connects multiple PC users on an Ethernet local area network.
 
  Error 651 occurs because of various reasons, such as the incorrect **Internet and IP configuration or the network card driver issue** . Although you may not be able to locate the exact cause of this problem, you can try the following methods to troubleshoot the problem and solve it step by step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 1: Restart your computer and modem**
 
@@ -65,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
  5) Re- plug your modem with the power source, and turn it on.
 
  6) Turn on your PC.  After everything are working normally, try to connect again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 2: Update your network card driver**
 
@@ -89,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a00cda6fc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the network device to download the correct driver (you can do that with the**FREE** version).
@@ -101,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
  4) After updating the driver, restart your computer, then try to connect again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 3: Troubleshoot settings in Network and Sharing Center**
 
@@ -121,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
  3) Right click your network connection, then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fa9aa7bb5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Uncheck the box next to**Internet Protocol Version 6 (TCP/IPv6)** . Then c  lick**OK** to save the settings.
 
@@ -144,25 +140,25 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right click the dial up connection, and click select**Create Copy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a982ef43d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right click the**original dial up connection** , and select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fb3ac0375.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Try connecting to the network again to see if it works.
 
@@ -172,9 +168,17 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Set up a new connection or network** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309a6f1dad8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select**Connect to the Internet** in the popup wizard, then click**Next** .
 
@@ -188,17 +192,9 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309bc071482.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Enter the**username** and**password** provided by your Internet Service Provider (ISP), and click**Connect** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309c351a71b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 4: Reset TCP/IP on your Windows**
 
@@ -217,7 +213,7 @@ netsh int ip reset reset.log
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309c9ae8874.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) After the command completed, restart your PC and try to connect again.
@@ -229,6 +225,10 @@ netsh int ip reset reset.log
  1) Type**cmd** in the search box of the task bar. Right click**Command Prompt** (If you are using Windows 7, right click**cmd** ) to select**Run as administrator** . Then click**Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e42f5624fb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Copy the command below and paste it in your Command Prompt, then press**Enter** on your keyboard:
 
@@ -257,22 +257,17 @@ Netsh interface tcp set global autotuning=disabled
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elite-methods-to-broadcast-and-record-sporting-events/"><u>[New] In 2024, Elite Methods to Broadcast and Record Sporting Events</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-definitive-guide-to-crafting-videos-on-youtube/"><u>[New] The Definitive Guide to Crafting Videos on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-spacebar-not-working-on-windows-11/"><u>[Solved] Spacebar Not Working on Windows 11</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-moziscreen-recording-solutions/"><u>[Updated] 2024 Approved MoziScreen Recording Solutions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-insightful-guide-on-the-best-gopro-headsets-6-and-beyond/"><u>2024 Approved Insightful Guide on The Best GoPro Headsets #6 & Beyond</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-windows-10-cast-to-device-malfunctions-solutions-inside/"><u>Effective Remedies for Windows 10 Cast To Device Malfunctions – Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-fixes-for-overcoming-windows-persistent-update-error-code-0x80amelioration-of-update-malfunction/"><u>Fast Fixes for Overcoming Window's Persistent Update Error: Code 0X80amelioration of Update Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-unable-to-print-to-pdf-on-windows-11/"><u>Fixing the Issue: Unable to Print to PDF on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-frozen-google-chrome-and-reboot-successfully/"><u>How to Fix a Frozen Google Chrome and Reboot Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-maintain-constant-connection-for-your-wireless-mouse/"><u>How to Maintain Constant Connection for Your Wireless Mouse</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/identifying-and-resolving-common-windows-network-issues-a-step-by-step-guide-by-yl-computing/"><u>Identifying & Resolving Common Windows Network Issues: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-preserving-your-virtual-sessions-gotomeeting-tips/"><u>In 2024, Preserving Your Virtual Sessions GoToMeeting Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-am08-pro-enhancing-real-magic-playtime/"><u>Is AM08 Pro Enhancing Real Magic Playtime?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-windows-1011-acer-laptop-keys-please/"><u>Revive Windows 10/11 Acer Laptop Keys, Please!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-eliminating-noise-from-your-arctis-7-headset-on-pc/"><u>Step-by-Step Troubleshooting: Eliminating Noise From Your Arctis 7 Headset on PC</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlined-technique-converting-vimeo-videos-to-animated-gifs/"><u>Streamlined Technique Converting Vimeo Videos to Animated GIFs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-successful-fixes-on-warframe-patch-errors/"><u>Troubleshooting Successful Fixes on Warframe Patch Errors</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhance-learning-on-the-go-podcast-tips-and-tricks-for-2024/"><u>[New] Enhance Learning on the Go Podcast Tips & Tricks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-essential-10-fcp-plugins/"><u>[New] The Ultimate Guide to Essential 10 FCP Plugins</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-green-filmmaking-made-simple-with-smart-tech/"><u>[Updated] In 2024, Green Filmmaking Made Simple with Smart Tech</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/anzeige-geloschter-youtube-videos-schritt-fur-schritt-anleitung-zur-wiederherstellung/"><u>Anzeige Gelöschter YouTube-Videos: Schritt-Für-Schritt Anleitung Zur Wiederherstellung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-unresponsive-usb-connections-on-windows-11-systems/"><u>Diagnosing and Repairing Unresponsive USB Connections on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-resolving-windows-notorious-error-0x800704cf/"><u>Effective Strategies for Resolving Windows' Notorious Error 0X800704CF</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-excessive-disk-space-used-by-microsofts-telemetry-in-windows-11/"><u>Fixing the Issue of Excessive Disk Space Used by Microsoft's Telemetry in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-epson-wf-3520-printing-software-for-windows-compatible-with-all-versions/"><u>Get the Newest Epson WF 3520 Printing Software for Windows - Compatible with All Versions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-if-you-want-to-replace-or-delete-the-sky-pictures-or-background-media-then-give-a-quick-read-to-this-article-for-effective-solutions/"><u>New 2024 Approved If You Want to Replace or Delete the Sky Pictures or Background Media, Then Give a Quick Read to This Article for Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-ultimate-guide-to-troubleshooting-the-red-screen-of-error-on-your-device/"><u>Resolved: Ultimate Guide to Troubleshooting the 'Red Screen of Error' On Your Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-power-to-revive-your-windows-10-taskbar-expert-tips-and-tricks/"><u>Unlock the Power to Revive Your Windows 10 Taskbar - Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-search.techidaily.com/usb-data-recovery-and-repair-guide-save-your-files-before-reformatting/"><u>USB Data Recovery & Repair Guide: Save Your Files Before Reformatting!</u></a></li>
 </ul></div>
 

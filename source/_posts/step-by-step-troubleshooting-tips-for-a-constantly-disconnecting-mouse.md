@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Troubleshooting Tips for a Constantly Disconnecting Mouse
-date: 2024-08-28T00:25:17.048Z
-updated: 2024-08-29T00:25:17.048Z
+date: 2025-01-19T17:12:45.764Z
+updated: 2025-01-25T16:23:49.716Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Your computer gets stuck on the boot screen? This is very annoying – and quite scary. You’re probably thinking, I can’t even access the desktop! How am I supposed to fix it? But no worries, you can fix this. Here’s what you can do…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix the PC Stuck on Boot Screen Issue
 
 * [Solution 1: Boot your PC without Peripherals](#h-solution-1-boot-your-pc-without-peripherals)
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 * [Solution 6: Perform a Fresh Install](#h-solution-6-perform-a-fresh-install)
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 1: Boot your PC without Peripherals
 
@@ -60,14 +68,15 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Reset BIOS Settings
 
@@ -85,9 +94,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
@@ -105,40 +111,29 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 4) Follow the on-screen instructions to finish the restore.
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 5: Repair Corrupted System Files
 
  Computer boot issues are likely to occur when certain system files get corrupted somehow. To see if there’s any broken or missing system files, there are two tool you can use：
@@ -181,13 +176,6 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Solution 6: Perform a Fresh Install
 
  If none of the solutions works for you, you may have to[**do a clean reinstallation of Windows 10**](https://tools.techidaily.com/drivereasy/download/) . Note that this will wipe all files and data that you’ve stored on the computer.
@@ -200,8 +188,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +195,23 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-exploring-the-capabilities-of-yuneecs-typhoon-uav/"><u>[New] Exploring the Capabilities of Yuneec’s Typhoon UAV</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-17-transformative-metaverse-trials-explained/"><u>[New] In 2024, 17 Transformative Metaverse Trials Explained</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-influencer-insight-essential-hashtags-for-maximum-impact-for-2024/"><u>[New] Influencer Insight Essential Hashtags for Maximum Impact for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-harmonious-hues-recording-with-a-mac/"><u>[Updated] In 2024, Harmonious Hues Recording with a Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-creating-high-quality-gopro-vlogs/"><u>[Updated] Mastering The Art Creating High-Quality Gopro Vlogs</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-12-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 12 mini without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-master-the-art-of-pairing-devices-with-windows-10/"><u>Bluetooth Woes? Master the Art of Pairing Devices with Windows 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/economical-pc-screen-grab-utilities-for-2024/"><u>Economical PC Screen Grab Utilities for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expanding-access-to-secure-sign-ins-configuring-windows-hello-functionality-on-excluded-devices-within-the-windows-11-ecosystem/"><u>Expanding Access to Secure Sign-Ins: Configuring Windows Hello Functionality on Excluded Devices Within the Windows 11 Ecosystem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-the-constant-flicker-stop-your-cursor-from-blinking/"><u>Fix the Constant Flicker: Stop Your Cursor From Blinking</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-13-pro-max-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 13 Pro Max to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-update-recovery-techniques-for-smooth-operations/"><u>Mastering Windows Update Recovery Techniques for Smooth Operations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-gameplay-experience-by-correcting-screen-distortion-in-valorant/"><u>Optimizing Your Gameplay Experience by Correcting Screen Distortion in Valorant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-keyboards-stubborn-silence-on-windows-platforms-win10-win7-win8/"><u>Resolve Your Keyboard's Stubborn Silence on Windows Platforms (Win10, Win7, Win8)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-print-screen-issues-on-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Print Screen Issues on Windows 11 & 10</u></a></li>
+</ul></div>
 

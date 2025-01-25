@@ -1,7 +1,7 @@
 ---
 title: Securing Permission From TrustedInstaller to Alter Windows System Files
-date: 2025-01-18T17:56:38.458Z
-updated: 2025-01-19T18:33:20.565Z
+date: 2025-01-24T18:17:58.767Z
+updated: 2025-01-25T16:58:10.062Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ The good news is, you can fix it easily!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  All the fixes below work in**Windows 10** . And just work your way down the list until your volume control not working issue is resolved.
@@ -42,7 +38,7 @@ The good news is, you can fix it easily!
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your sound driver
@@ -67,7 +63,7 @@ The good news is, you can fix it easily!
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
@@ -83,16 +79,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. **Restart** your PC and check if your volume control icon works as it should.
 
@@ -107,6 +95,10 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
@@ -117,7 +109,7 @@ To run SFC:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
@@ -128,6 +120,14 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 
@@ -158,21 +158,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/parkle-with-screenshots-vlogging-for-value-creation/"><u>[New] Sparkle with Screenshots Vlogging for Value Creation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-and-defeating-the-werfaultexe-error-in-windows-a-comprehensive-guide/"><u>Decoding and Defeating the werFault.exe Error in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-keeping-your-pc-awake-and-alert-at-all-times/"><u>Effective Solutions: Keeping Your PC Awake and Alert at All Times</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-chat-anonymity-a-guide-to-xbox-games/"><u>Ensuring Chat Anonymity: A Guide to Xbox Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-infinix-zero-5g-2023-turbo-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Infinix Zero 5G 2023 Turbo to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-non-functioning-ps4-headset-audio-problems/"><u>How to Quickly Resolve Non-Functioning PS4 Headset Audio Problems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>In 2024, Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intels-latest-leap-panther-lake-and-clearwater-forest-cpus-preparing-for-cutting-edge-lithographic-node-upgrades/"><u>Intel's Latest Leap: Panther Lake & Clearwater Forest CPUs Preparing for Cutting-Edge Lithographic Node Upgrades</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-malfunctioning-windows-update-processes-in-windows-10/"><u>Step-by-Step Guide: Repairing Malfunctioning Windows Update Processes in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-0x-memory-reference-issues-in-computing-systems/"><u>Troubleshooting and Solving 0X Memory Reference Issues in Computing Systems</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/troubleshooting-cmd-input-problems-your-complete-handbook/"><u>Troubleshooting CMD Input Problems: Your Complete Handbook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-repair-a-malfunctioning-cddvd-drive-on-windows-pcs/"><u>Troubleshooting Steps to Repair a Malfunctioning CD/DVD Drive on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-your-non-functional-usb-to-hdmi-converter/"><u>Troubleshooting Tips: Fixing Your Non-Functional USB-to-HDMI Converter</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/vidcap-quality-check-top-choices-for-capturing-action/"><u>VidCap Quality Check Top Choices for Capturing Action</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-guide-to-pinpoint-your-cpus-gen-status-8-ways/"><u>Windows Guide to Pinpoint Your CPU's Gen Status (8 Ways)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-does-youtube-pay-you/"><u>[New] 2024 Approved How Does YouTube Pay You?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-snapchat-to-social-upload-videos-on-twit/"><u>[Updated] In 2024, From Snapchat to Social Upload Videos on Twit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-basic-how-hdr-transforms-video-editing-processes-for-2024/"><u>Beyond Basic How HDR Transforms Video Editing Processes for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comment-convertir-des-videos-mkv-en-flv-sur-internet-sans-frais-avec-le-logiciel-movavi/"><u>Comment Convertir Des Vidéos MKV en FLV Sur Internet Sans Frais Avec Le Logiciel Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-ts-a-formatos-wmv-online-gratuitamente-con-herramientas-de-conversion-expertas/"><u>Cómo Convertir Archivos TS a Formatos WMV Online Gratuitamente Con Herramientas De Conversión Expertas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertis-vos-fichiers-m4a-au-format-ogv-gratuitement-sur-le-web-movavi/"><u>Convertis Vos Fichiers M4A Au Format OGV Gratuitement Sur Le Web - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-conversor-online-de-caf-para-flac-pelo-movavi/"><u>Gratuito Conversor Online De CAF Para FLAC Pelo Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-t2-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo T2 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-top-5-mkv-players-for-mac/"><u>In 2024, Top 5 MKV Players for Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-gratis-raw-bild-in-jpg-konvertieren-mit-movavi-kostenlose-raw-zu-jpeg-konverter/"><u>Online Gratis RAW Bild in JPG Konvertieren Mit Movavi - Kostenlose RAW-Zu-JPEG-Konverter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/riconverti-filets-mkv-in-formato-mov-web-gratuita-softoni-video/"><u>Riconverti Filets MKV in Formato MOV Web Gratuita - Softoni Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-mxf-to-avi-file-upload-and-conversion-access-premium-quality-for-free/"><u>Seamless MXF to AVI File Upload and Conversion - Access Premium Quality for Free!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-intelamd-driver-missing-from-premiere-pro/"><u>Solved: Intel/AMD Driver Missing From Premiere Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techs-elite-showdown-googles-gemini-versus-openais-chatgpt/"><u>Tech's Elite Showdown: Google's Gemini Versus OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-tips-for-capturing-sporting-events-live-online/"><u>Ultimate Tips for Capturing Sporting Events Live Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/your-path-to-perfect-captures-the-complete-guide-to-netflix-on-mac/"><u>Your Path to Perfect Captures The Complete Guide to Netflix on Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effectively Embedding or Linking Excel Data in Your Presentations with These Easy Steps
-date: 2024-08-28T00:19:05.670Z
-updated: 2024-08-29T00:19:05.670Z
+date: 2025-01-18T16:44:02.458Z
+updated: 2025-01-25T18:09:06.137Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 ---
 
 ## Effectively Embedding or Linking Excel Data in Your Presentations with These Easy Steps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,8 +38,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
  So, with all that in mind, let's take a look at how to link and embed an Excel Sheet in Microsoft PowerPoint.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Link or Embed an Excel Worksheet in Microsoft PowerPoint
 
  Linking or embedding an Excel worksheet into a PowerPoint presentation is actually pretty straightforward, and the process for doing either is almost identical. Start by opening both the Excel worksheet and the PowerPoint presentation you want to edit at the same time.
@@ -44,23 +49,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![Image 002](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-002.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Copy those cells by pressing CTRL+C in Windows or Command+C in macOS. You can also right-click any selected cell, and then choose the "Copy" option on the context menu.
 
 ![Image 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, switch to your PowerPoint presentation and click to place the insertion point where you would like the linked or embedded material to go. On Home tab of the Ribbon, click the down arrow beneath the "Paste" button, and then choose the "Paste Special" command from the dropdown menu.
 
 ![Image 002](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-002.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This opens the Paste Special window. And it's here where you'll find the only functional different in the processes of linking or embedding a file.
 
  If you want to embed your spreadsheet, choose the "Paste" option over on the left. If you want to link your spreadsheet, choose the "Paste Link" option instead. Seriously, that's it. This process is otherwise identical.
@@ -74,17 +78,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 ![Image 005](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-005-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you linked the Excel data, you can't edit it directly in PowerPoint, but you can double-click anywhere on it to open the original spreadsheet file. And any updates you make to that original spreadsheet are then reflected in your PowerPoint presentation.
 
  If you embedded the Excel data, you can edit it directly in PowerPoint. Double-click anywhere in the spreadsheet and you'll stay in the same PowerPoint window, but the PowerPoint Ribbon gets replaced by the Excel Ribbon and you can access all the Excel functionality. It's kind of cool.
 
 ![Image 004](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/07/Image-004-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  And when you want to stop editing the spreadsheet and go back to your PowerPoint controls, just click anywhere outside the spreadsheet.
 
 <ins class="adsbygoogle"
@@ -93,8 +95,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +102,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-perfect-pairings-blending-tracks-with-cubase-essentials/"><u>[New] 2024 Approved Perfect Pairings Blending Tracks with Cubase Essentials</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-open-source-chill-beats/"><u>[New] Open Source Chill Beats</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1-ultimate-guide-to-saving-your-zoho-emails-simple-methods-to-securely-back-up-your-data/"><u>1. Ultimate Guide to Saving Your Zoho Emails: Simple Methods to Securely Back Up Your Data</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-musical-mastery-in-micro-storytelling/"><u>2024 Approved Musical Mastery in Micro Storytelling</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-strategies-eliminating-video-freeze/"><u>Efficient Strategies Eliminating Video Freeze</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/eliminate-backdrop-in-affinity/"><u>Eliminate Backdrop in Affinity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-reno-11-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Reno 11 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-y27-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo Y27 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pivotal-moments-top-20-anime-themes/"><u>Pivotal Moments Top 20 Anime Themes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reconnect-to-the-internet-practical-advice-on-solving-wi-fi-disconnection-issues/"><u>Reconnect to the Internet: Practical Advice on Solving Wi-Fi Disconnection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-kickstarting-a-stalled-hosted-connection-in-windows-10-environment/"><u>Step-by-Step Fix for Kickstarting a Stalled Hosted Connection in Windows 10 Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-non-responsive-clipboard-features-in-windows-11/"><u>Troubleshooting Steps for Non-Responsive Clipboard Features in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/western-digital-my-passport-ultra-detection-errors-on-pc-solutions-and-tips/"><u>Western Digital My Passport Ultra Detection Errors on PC: Solutions and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204950503-windows-media-player-server-execution-failed-error-on-windows-solved/"><u>Windows Media Player “Server Execution Failed” Error on Windows [Solved]</u></a></li>
+</ul></div>
 

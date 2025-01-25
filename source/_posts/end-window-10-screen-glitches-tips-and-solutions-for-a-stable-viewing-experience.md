@@ -1,7 +1,7 @@
 ---
 title: "End Window 10 Screen Glitches: Tips and Solutions for a Stable Viewing Experience"
-date: 2024-08-28T00:25:54.551Z
-updated: 2024-08-29T00:25:54.551Z
+date: 2025-01-19T18:02:38.750Z
+updated: 2025-01-25T16:27:05.776Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
 No game can be immune to bugs and glitches, and this is particularly true with**Apex Legends** . Ever since its launch in early 2019, the game has had quite a plethora of bugs – the**Easy Anti-Cheat error** is one of them. What happens is that the game crashes with an Easy Anti-Cheat error, making it completely unplayable.
 
  If you’re plagued by the error, don’t worry. While it’s frustrating, it is fixable…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Apex Legends Easy Anti-Cheat Error
 
@@ -48,6 +52,10 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Repair Apex Legends in Origin
 
  You may run into the Easy Anti-Cheat error if the game files are faulty or corrupt. Luckily, Origin has built the repair feature into the launcher itself, allowing you to fix little glitches on your own.
@@ -58,13 +66,11 @@ Here are the steps to repair Apex Legends in Origin:
 2. Click **My Game Library** , then right-click on **Apex Legends** and select **Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-14.png)
 3. Wait until the repair process finishes.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run Apex Legends and Origin as Administrator
@@ -73,9 +79,6 @@ Here are the steps to repair Apex Legends in Origin:
 
  After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Verify connectivity to Easy Anti-Cheat
 
  You may encounter this error is Easy Anti-Cheat isn’t properly connected. To verify your connectivity to Easy Anti-Cheat, navigate to these two sites:
@@ -87,6 +90,10 @@ Here are the steps to repair Apex Legends in Origin:
 
 **If you’re not presented with the message** , then something is blocking your Internet connection. You can move on to**Fix 5** to check if your firewall is the culprit, if not, you should contact your Internet Service Provider to locate the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow Easy Anti-Cheat and Apex Legends through the firewall to make sure that the connection isn’t lost.
@@ -96,14 +103,13 @@ Here are the steps to repair Apex Legends in Origin:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**control firewall.cpl** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run.png)
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
@@ -118,13 +124,11 @@ Here are the steps to repair Apex Legends in Origin:
 2. Navigate to**My Game Library** , then **right-click** on **Apex Legends** and select **Update Game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.png)
 3. Wait until you see the following message. Then click **Close** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends and Origin
@@ -137,9 +141,6 @@ Here are the steps to repair Apex Legends in Origin:
 2. Go to **My Game Library** , then **right-click** on **Apex Legends** and select **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-3.png)
 3. Download and reinstall Apex Legends.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Launch the game to see if you can play without error.
 
 **Here’s how to reinstall Origin:**
@@ -151,6 +152,11 @@ Here are the steps to repair Apex Legends in Origin:
 3. Double-click **Origin** to uninstall it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
 
@@ -166,8 +172,6 @@ Here are the steps to repair Apex Legends in Origin:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +179,26 @@ Here are the steps to repair Apex Legends in Origin:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/remnant-from-the-ashes-overcoming-game-crash-dilemma/"><u>'Remnant: From the Ashes - Overcoming Game Crash Dilemma</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-maximize-your-visuals-10-free-image-editing-tools-for-smartphones-for-2024/"><u>[New] Maximize Your Visuals 10 Free Image Editing Tools for Smartphones for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-lannister-line-up-top-list-of-websites-for-game-ringtones/"><u>[New] The Lannister Line-Up Top List of Websites for Game Ringtones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rise-above-the-noise-nine-strategies-for-instagram-prominence/"><u>2024 Approved Rise Above the Noise Nine Strategies for Instagram Prominence</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/asus-laptops-diagnosing-and-solving-functional-shortcom-on-keyboard-buttons/"><u>ASUS Laptops: Diagnosing and Solving Functional Shortcom on Keyboard Buttons</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-the-surface-hidden-post-factors-on-fb/"><u>Beyond the Surface: Hidden Post Factors on FB</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decided-no-driver-shows-favour-to-opengl/"><u>Decided: No Driver Shows Favour to OpenGL</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-itel-p40plus-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Itel P40+ Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-history-best-theme-songs-in-anime/"><u>In 2024, Harmonizing History Best Theme Songs in Anime</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-zoom-mastery-in-microsoft-teams-sessions/"><u>In 2024, Precision Zoom Mastery in Microsoft Teams Sessions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instant-remedy-steps-to-fix-detected-no-power-source-error/"><u>Instant Remedy Steps to Fix 'Detected No Power Source' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-system-deficit-msvcr71/"><u>Overcoming System Deficit - MSVCR71</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-resolutions-for-rapid-cs-go-software-failures/"><u>Quick Resolutions for Rapid CS: GO Software Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-issues-with-your-hp-laptops-camera-in-windows-10-a-step-by-step-guide/"><u>Solving Issues with Your HP Laptop's Camera in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-the-interruptions-solve-your-pcs-unintended-sleep-problems-now/"><u>Stop the Interruptions: Solve Your PC's Unintended Sleep Problems Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-svchostexes-excessive-cpu-consumption-on-your-windows-11-pc/"><u>Troubleshoot Svchost.exe's Excessive CPU Consumption on Your Windows 11 PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-itel-a70-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Itel A70 Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-display-problems-get-your-screen-saver-working/"><u>Windows 11 Display Problems? Get Your Screen Saver Working</u></a></li>
+</ul></div>
 

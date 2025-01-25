@@ -1,7 +1,7 @@
 ---
 title: Ethical Living and Community
-date: 2025-01-13T18:17:05.644Z
-updated: 2025-01-19T18:30:15.589Z
+date: 2025-01-23T18:21:05.026Z
+updated: 2025-01-25T16:34:42.438Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ the picture was taken by: Article\_86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## End the process
 
  Yes, clicking the “**X** ” button to close the page is the first reaction for most people. But the page like this scam uses our reaction to get permission to infect our devices. So they could let the page pop up again.  
@@ -44,7 +40,7 @@ the picture was taken by: Article\_86
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -70,10 +66,6 @@ the picture was taken by: Article\_86
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -85,13 +77,13 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -102,17 +94,25 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -131,7 +131,7 @@ the picture was taken by: Article\_86
 6. Relaunch Chrome to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -171,22 +171,19 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-acer-laptop-keyboard-not-working-windows-1011/"><u>[Solved] Acer Laptop Keyboard Not Working Windows 10/11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-reclaiming-one-headphone-harmony/"><u>[Updated] 2024 Approved Reclaiming One-Headphone Harmony</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-staying-above-copyright-infringement-insta-watermarks-explained/"><u>[Updated] In 2024, Staying Above Copyright Infringement Insta Watermarks Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flawlessai-imager-perfected-photo-processes/"><u>2024 Approved FlawlessAI Imager Perfected Photo Processes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-g23-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-a-laptop-battery-that-wont-charge-easy-solutions-for-immediate-results/"><u>Fix a Laptop Battery That Won't Charge: Easy Solutions for Immediate Results</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/mastering-visual-planning-learn-the-art-of-creating-an-effective-storyboard-in-just-7-simple-steps/"><u>Mastering Visual Planning: Learn the Art of Creating an Effective Storyboard in Just 7 Simple Steps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-choices-with-toms-expert-analysis/"><u>Navigating Hardware Choices with Tom's Expert Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-stuttering-screens-just-gameplay/"><u>No More Stuttering Screens, Just Gameplay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-your-wow-experience-overcoming-framerate-dips-and-lag/"><u>Optimizing Your WoW Experience: Overcoming Framerate Dips and Lag</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-dauntless-stutter-and-crashes-in-your-pc-adventure/"><u>Overcoming Dauntless Stutter and Crashes in Your PC Adventure</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-unsupported-hardware-alerts-in-your-software-suite-a-step-by-step-solution/"><u>Resolve 'Unsupported Hardware' Alerts in Your Software Suite – A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210859162-solution-steps-for-lenovos-stuck-fn-key-fast-and-simple-fixes/"><u>Solution Steps for Lenovo's Stuck FN Key - Fast and Simple Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamlining-epson-communication-a-step-by-step-approach/"><u>Streamlining Epson Communication: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-port-reset-failures-with-usb-devices-in-windows-11/"><u>Troubleshooting Port Reset Failures with USB Devices in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-the-molecular-pathogenesis-of-thyroid-cancer-is-crucial-for-developing-personalized-medicine-approaches-including-targeted-therapy-and-precisi58/"><u>Understanding the Molecular Pathogenesis of Thyroid Cancer Is Crucial for Developing Personalized Medicine Approaches, Including Targeted Therapy and Precision Oncology Strategies.</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-12-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 12 is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-lift-the-tab-listen-up-fb-music-secrets-for-2024/"><u>[New] Lift the Tab, Listen Up FB Music Secrets for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-psychology-of-persuasion-in-subscription-growth/"><u>[New] The Psychology of Persuasion in Subscription Growth</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list/"><u>[Updated] Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-reno-11f-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo Reno 11F 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-problem-caused-the-program-to-stop-working-correctly-solved/"><u>A Problem Caused the Program to Stop Working Correctly [SOLVED]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/choose-folder-for-stored-mac-screenshots/"><u>Choose Folder for Stored Mac Screenshots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-top-13-best-youtube-to-mp3-converters-in-202/"><u>Discover the Top 13 Best YouTube to MP3 Converters in 202</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-your-missing-or-broken-windows-11-start-menu-features/"><u>Expert Tips to Restore Your Missing or Broken Windows 11 Start Menu Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-1110s-constant-reboot-issue-effective-strategies/"><u>Fixing Windows 11/10'S Constant Reboot Issue: Effective Strategies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-why-teredo-cant-meet-requirements/"><u>Resolving the Issue: Why Teredo Can't Meet Requirements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-when-your-graphics-processor-module-stops-responding/"><u>Solution Steps for When Your Graphics Processor Module Stops Responding</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-eliminating-lag-issues-in-resident-evil-village-on-your-gaming-pc/"><u>Ultimate Guide to Eliminating Lag Issues in Resident Evil Village on Your Gaming PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-elite-15-notebooks-of-2ecivlfhtn-2024-in-depth-analysis-and-comparisons/"><u>Ultimate Guide to the Elite 15 Notebooks of 2E|civlfhtn 2024: In-Depth Analysis and Comparisons</u></a></li>
 </ul></div>
 

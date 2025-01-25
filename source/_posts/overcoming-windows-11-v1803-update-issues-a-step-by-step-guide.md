@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows 11 v1803 Update Issues: A Step-by-Step Guide"
-date: 2024-08-28T00:25:42.512Z
-updated: 2024-08-29T00:25:42.512Z
+date: 2025-01-21T17:17:05.595Z
+updated: 2025-01-25T18:08:26.946Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92aafe0cad.jpg)
 
  To connect your Bluetooth device (headphones, mouse, etc.), or to transfer files from your iPhone to your PC via Bluetooth, you need to [**turn on Bluetooth on Windows 10**](#turnon) first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn on Bluetooth on Windows 10  (and how to fix it if it won’t turn on)
 
@@ -41,11 +45,19 @@ In this guide you’ll learn:
 3. Click the switch (currently set to **Off** ) to turn on Bluetooth. (The status will change to **On**  .**)**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92afe0a1d0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Windows 11
 
 1. Press the **Windows logo + I keys**  simultaneously to open Settings
 2. Select **Bluetooth & devices** from the left panel. Then make sure **Bluetooth**  is toggled **On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Bluetooth-and-devices-Bluetooth-On.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But if you don’t see the switch and your screen looks like the one below, there’s a problem with Bluetooth on your computer.
 
@@ -55,9 +67,6 @@ In this guide you’ll learn:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### What to do if you can’t turn Bluetooth on in Windows 10/11
 
  Here are the top three ways to fix Bluetooth issues in Windows 10\. Just work your way down the list until you find the one that works for you.
@@ -74,6 +83,11 @@ In this guide you’ll learn:
 1. On your desktop, right-click on the Start button to select   **Device Manager.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92c4740356.jpg)
 2. In Device Manager, check to see if there’s a**Bluetooth section** or if there’s any**Bluetooth adapter** located in the**Network adapters** section. The Bluetooth adapter could also be listed under the**Other devices** section due to some errors.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92f6f87b46.jpg)
 
  a) If you**do** find one or more Bluetooth adapters in Device Manager, your computer supports Bluetooth. Move on to the solutions to continue to  solve your problem.
@@ -94,22 +108,22 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 2. Click **Scan Now** .  It will detect all of your computer’s driver issues (including your Bluetooth driver) in less than a minute.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45e1f433396.jpg)
 3. If you have the **[Free version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, click the **Update**  button next to the flagged Bluetooth driver to automatically download the correct driver, then you can manually install it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  But if you have the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  you can click **Update All**  to automatically download and install all of the missing or outdated drivers on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45e220bb3e1.jpg)  
  (If you click the**Update All**  button in the Free version you’ll be asked if you want to upgrade to the Pro version.)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer.
 5. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Do you see the option to switch Bluetooth on now? If you do, great. You’ve fixed the problem. But if it’s still not there, there’s something else you can try…
 
 #### Fix 2: Re-enable the Bluetooth driver software in Device Manager
@@ -117,17 +131,15 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 1. **Right-click** on the Start button. and select **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45b69056faf.png)
 2. Right-click on your Bluetooth device in the Bluetooth section, and choose**Disable device** . (If you’re asked to confirm, click **Yes** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 3. Right-click on the device again and click **Enable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 4. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Is the Bluetooth switch appearing now? If it’s not, we have something else you can try…
 
@@ -137,9 +149,6 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 2. Type**services.msc** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 3. Right-click **Bluetooth Support Service** , then click **Start** . (If the Start option grayed out, then click **Restart** .)  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 4. Right-click on**Bluetooth Support Service**  again, and this time click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
@@ -149,8 +158,9 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ## What to do if the above suggestions don’t work: Switch to ChromeOS
@@ -192,8 +202,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +209,19 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-efficient-movie-file-management-in-windows-11-six-approaches/"><u>2024 Approved Efficient Movie File Management in Windows 11 Six Approaches</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/windows-113/"><u>宛先ディレクトリアクセスを回復する：Windows 11での3つの方法</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-samsungs-55-inch-ru7300-does-the-curve-matter-for-quality/"><u>Comprehensive Analysis of Samsung's 55-Inch RU7300: Does the Curve Matter for Quality?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212112327-diy-tech-support-for-oculus-gear-navigating-and-fixing-errors-in-2-groovy-24/"><u>DIY Tech Support for Oculus Gear: Navigating and Fixing Errors in 2 Groovy 24</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-fans-access-more-from-your-twitch-channel/"><u>Facebook Fans Access More From Your Twitch Channel</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-flac-format-converter-movavi/"><u>FREE Online FLAC Format Converter - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-setup-aborted-due-to-access-denied-when-executing-files-locally/"><u>Guide to Fixing 'Setup Aborted Due To Access Denied' When Executing Files Locally</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-apex-legends-easy-anti-cheat-problem-in-minutes/"><u>How to Resolve Apex Legends Easy Anti-Cheat Problem in Minutes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-sites-to-propel-youtube-content-reach/"><u>Prime Sites to Propel YouTube Content Reach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-sandboxs-zero-error-hypervisor-missing/"><u>Steps to Resolve Windows Sandbox's Zero Error Hypervisor Missing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-or-unresponsive-fn-keys-on-an-asus-device/"><u>Troubleshooting Stuck or Unresponsive Fn Keys on an ASUS Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11s-malfunctioning-screen-brightness-feature/"><u>Troubleshooting Windows 11'S Malfunctioning Screen Brightness Feature</u></a></li>
+</ul></div>
 

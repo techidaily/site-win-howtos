@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your Dell Computer's USB Port Stops Working
-date: 2025-01-14T18:49:13.561Z
-updated: 2025-01-19T17:07:51.749Z
+date: 2025-01-22T18:17:05.168Z
+updated: 2025-01-25T16:12:26.377Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Oddworld: Soulstorm Crashing On PC
 
  Here are eight fixes that have helped other players resolve the Oddworld: Soulstorm Crashing on PC issue. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 8. [**Reinstall Oddworld: Soulstorm and the launcher**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the minimum specifications for Oddworld: Soulstorm
@@ -59,19 +63,27 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display.png)
 4. Close DirectX.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
  If your PC specs are up to the mark but Oddworld: Soulstorm still crashes, please move on to**Fix 2** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -89,12 +101,12 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-your-device-drivers.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Oddworld: Soulstorm and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run Epic Games Launcher as administrator
 
@@ -104,10 +116,6 @@ Here’s how:
 
 1. On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , type**epic** , then right-click on**Epic Games Launcher** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/epic.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. Click**Yes** when UAC promots for permissions to proceed.
 
@@ -120,7 +128,7 @@ Here’s how:
  Wait a bit until the process finishes. After that, re-launch Oddworld: Soulstorm to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try**Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Allow Epic Games Launcher through firewall
@@ -136,30 +144,22 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Run the game in the launcher and see if it still crashes. If it’s still on-going, please move on to**Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
  The crashing issue may be an unintended bug ensconced in the patches of the game. If this is the case, the developers would respond to this and address the issue with a new patch. So you can check out the latest patch to see if it helps fix the issue.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -205,14 +205,15 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-self-powering-conundrum-of-a-windows-11-system-a-step-by-step-solution/"><u>Fixing the Self-Powering Conundrum of a Windows 11 System - A Step by Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210540412-gadget-glitch-gone/"><u>Gadget Glitch Gone!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-keyboard-failure-effective-ways-to-restore-functionality/"><u>Laptop Keyboard Failure: Effective Ways to Restore Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/onikuma-microphone-malfunction-resolved-a-comprehensive-fix-guide/"><u>Onikuma Microphone Malfunction Resolved: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/solving-the-issue-of-windows-11-locked-in-sleep-state-6-effective-methods-to-restart-your-pc/"><u>Solving the Issue of Windows 11 Locked in Sleep State: 6 Effective Methods to Restart Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-mordhau-from-crashing-essential-solutions-for-a-smooth-gaming-experience/"><u>Stop Mordhau From Crashing: Essential Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-audio-settings-solutions-for-non-functioning-volume-control/"><u>Troubleshooting Windows 10 Audio Settings: Solutions for Non-Functioning Volume Control</u></a></li>
-<li><a href="https://win-studio.techidaily.com/ultimate-tutorial-steps-for-securely-backing-up-your-hyper-v-vms/"><u>Ultimate Tutorial: Steps for Securely Backing Up Your Hyper-V VMs</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-stop-motion-animation-made-easy-top-software-for-mac-and-pc/"><u>Updated Stop Motion Animation Made Easy Top Software for Mac and PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>[New] 2024 Approved The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-premium-performance-in-a-package-that-pleases-your-pocket-for-2024/"><u>[New] Premium Performance in a Package That Pleases Your Pocket for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughlenslab-pixelpunchers/"><u>[Updated] LaughLensLab PixelPunchers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-securing-privacy-encryption-and-security-tips-in-zoom-for-windows-11/"><u>[Updated] Securing Privacy Encryption and Security Tips in Zoom for Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-transformative-new-functions-in-final-cut-pro-x-for-ipad-unleash-creativity-insights-from-an-independent-film-producer-zdnet/"><u>1. Transformative New Functions in Final Cut Pro X for iPad Unleash Creativity: Insights From an Independent Film Producer - ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-video-quality-in-zoom-conferences/"><u>2024 Approved Maximizing Video Quality in Zoom Conferences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203675679-5-effective-techniques-to-unfreeze-a-stubborn-windows-10-taskbar/"><u>5 Effective Techniques to Unfreeze a Stubborn Windows 10 Taskbar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-restore-asus-webcam-functionality-in-windows-10/"><u>Effective Solutions to Restore ASUS Webcam Functionality in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-touchpads-scroll-bar-woes-with-these-simple-steps/"><u>Solve Your Touchpad's Scroll Bar Woes with These Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206716872-usb-to-hdmi-bridge-malfunction-heres-how-to-solve-it/"><u>USB to HDMI Bridge Malfunction? Here's How to Solve It!</u></a></li>
 </ul></div>
 

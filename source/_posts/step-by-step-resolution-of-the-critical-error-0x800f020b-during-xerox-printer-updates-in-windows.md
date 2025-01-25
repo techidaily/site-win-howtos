@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Resolution of the Critical Error 0X800F020b During Xerox Printer Updates in Windows
-date: 2024-08-28T00:24:23.576Z
-updated: 2024-08-29T00:24:23.576Z
+date: 2025-01-19T16:41:08.434Z
+updated: 2025-01-25T18:09:56.201Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ When you fail to access another computer of the same network, or when you cannot
 * **[Bonus tips: Update your network driver](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 0x800704cf error when connecting to a network PC**
 
@@ -57,9 +61,17 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Uncheck**Client for Microsoft Networks** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your device and check if the 0x800704cf goes away. If not, continue with the next fix below.
 
@@ -73,9 +85,6 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-1-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click**Yes** when you’re prompted to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-3-2.jpg)
@@ -96,9 +105,6 @@ netsh int ip reset
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Reinstall the network adapter
 
  If all the methods above ended nowhere, you should reinstall the network adapter in case it’s corrupted and causes the 0x800704cf error.
@@ -108,8 +114,9 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Select the**View** tab, and click**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-8.jpg)
@@ -118,9 +125,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Right-click a device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-5-1.jpg)
@@ -129,31 +133,26 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Delete all the devices one by one under Network adapters.
 
  After completing the steps above, restart your machine, and Windows will automatically reinstall the network adapters. The 0x800704cf error should be gone now and you can connect to another network PC without hassle.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 0x800704cf error when accessing the Microsoft Store**
 
 ![Fix 0x800704cf error when accessing the Microsoft Store on Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/08/error-case-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you fail to access the Microsoft Store on Windows 10 or 11, this 0x800704cf error will appear. It implies you’re not connected to the Internet, even though you are, as you can use the browser and other applications normally. But don’t worry; here’s a list of fixes that can help.
 
 1. **[Sign in with Microsoft account](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Run the Windows troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Sign in with Microsoft account
 
  The 0x800704cf error can arise when you’re logged in using a local account. Try signing in to your Microsoft account and see if the issue is resolved.
@@ -166,9 +165,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Select**Your info** in the left pane. Then, click**Sign in with a Microsoft account instead** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
@@ -179,9 +175,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  Follow the on-screen instruction to verify your identity. Then, open your Microsoft Store and see whether the 0x800704cf code still pops up or not. If this method isn’t helpful, don’t despair. Have a look at more fixes below.
 
 ---
@@ -195,8 +188,9 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-3.jpg)
@@ -204,6 +198,10 @@ netsh int ip reset
 **3)** Select**All network adapters** , and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Wait for the troubleshooting process to complete, and close the troubleshooter.
 
@@ -216,13 +214,9 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Follow the on-screen instruction to fix any detected issues. Then, launch the Microsoft Store and check if it works without error. If not, please try the Fix 3 below.
 
 ---
@@ -235,17 +229,10 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3-2.jpg)
@@ -255,11 +242,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-5-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open your Microsoft Store, and the 0x800704cf error won’t be disturbing you anymore.
 
@@ -289,9 +281,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -312,8 +301,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -321,4 +308,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed/"><u>[New] In 2024, Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-summit-series-of-ultimate-4k-touch-screens/"><u>[New] Summit Series of Ultimate 4K Touch Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/0x800705b4-error-in-windows-update-in-windows-10-solved/"><u>0X800705b4 Error in Windows Update in Windows 10 [Solved]</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-14-plus-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 14 Plus? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/m2-ssdhdd/"><u>簡易指南：如何成功地在M.2 SSD上快速複製HDD的檔案</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlights-from-the-lg-bp350-monitor-user-experience-review-for-2024/"><u>Highlights From the LG BP350 Monitor User Experience Review for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-resolve-when-a-required-module-cannot-be-located/"><u>How to Correctly Resolve When a Required Module Cannot Be Located</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-13-mini-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 13 mini</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-xiaomi-redmi-note-13-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Xiaomi Redmi Note 13 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-free-online-tool-mudar-aac-para-mp4-em-segundo-plano-sem-custo-algum/"><u>Movavi's Free Online Tool: Mudar AAC Para MP4 Em Segundo Plano Sem Custo Algum</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-troubleshooting-tips-for-common-window-setup-problems/"><u>Quick Troubleshooting Tips for Common Window Setup Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207549646-steam-store-not-working-heres-how-to-restore-access/"><u>Steam Store Not Working? Here’s How to Restore Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-desktop-icon-dilemma-solved-a-comprehensive-guide/"><u>Windows 10 Desktop Icon Dilemma [SOLVED]: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207753082-xbox-one-controller-not-working-heres-how-you-can-establish-a-successful-connection/"><u>Xbox One Controller Not Working? Here's How You Can Establish a Successful Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-earphones-malfunction-heres-how-to-fix-them/"><u>Xbox One Earphones Malfunction? Here's How to Fix Them!</u></a></li>
+</ul></div>
 

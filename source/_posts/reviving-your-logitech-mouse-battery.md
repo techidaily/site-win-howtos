@@ -1,7 +1,7 @@
 ---
 title: Reviving Your Logitech Mouse Battery
-date: 2024-08-28T00:23:07.758Z
-updated: 2024-08-29T00:23:07.758Z
+date: 2025-01-23T18:30:18.891Z
+updated: 2025-01-25T18:35:33.998Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
  Recently, many laptop users have reported that they have an issue with their battery. **When they view their battery information, they notice that their battery is not charging.** If you also run into this issue, don’t worry! we’ve put together some useful fixes to help you resolve this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fixes to try:**
 
  You don’t have to try them all; just try each one in turn until your battery is charging again.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 5. **[Update the driver for your battery management device](#f5)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -46,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -69,13 +73,11 @@ The ultimate burning program for all your needs!</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you turn off the battery charge threshold feature, your battery should be charging.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Perform a power reset on your laptop
 
 **Try performing a power reset on your laptop** to see if the battery not charging issue persists. Here is how to do it:
@@ -88,8 +90,9 @@ The ultimate burning program for all your needs!</a>
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -106,9 +109,6 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Shut down your laptop and **disconnect the AC adapter** .
 
  5) Remove your laptop battery, **press and hold the power button for 30 seconds** and then release the power button.
@@ -122,8 +122,9 @@ The ultimate burning program for all your needs!</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
@@ -150,9 +151,6 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
@@ -167,6 +165,10 @@ Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
 * [laptop](https://tools.techidaily.com/drivereasy/download/)
@@ -178,8 +180,6 @@ Your battery should then be charging.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +187,20 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-methods-for-capturing-and-streaming-sports-gems-for-2024/"><u>[Updated] Expert Methods for Capturing and Streaming Sports Gems for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1-resolving-lag-and-frame-rate-issues-in-black-myth-wukong-gameplay-on-windows-pc/"><u>1. Resolving Lag and Frame Rate Issues in Black Myth Wukong Gameplay on Windows PC</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-play-8t-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor Play 8T System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-windows-10-brightness-dialing-issues-successfully/"><u>How To Repair Windows 10 Brightness Dialing Issues Successfully</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-mini-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 mini Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Samsung Galaxy A24</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-note-12-4g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi Note 12 4G FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-correct-a-non-responsive-mozilla-thunderbird-launcher/"><u>Step-by-Step Guide to Correct a Non-Responsive Mozilla Thunderbird Launcher</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-tips-for-resolving-high-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Tips for Resolving High GPU Consumption by the Desktop Window Manager on Windows 10 & 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-airtag-companions-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated AirTag Companions : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-repair-manual-how-to-restore-functionality-to-your-lagging-gamepad/"><u>Ultimate Repair Manual: How to Restore Functionality to Your Lagging Gamepad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-7-bluetooth-activation-simple-steps-and-troubleshooting-solutions/"><u>Windows 7 Bluetooth Activation - Simple Steps and Troubleshooting Solutions</u></a></li>
+</ul></div>
 

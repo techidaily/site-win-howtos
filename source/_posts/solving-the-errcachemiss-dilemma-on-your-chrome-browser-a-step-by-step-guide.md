@@ -1,7 +1,7 @@
 ---
 title: "Solving the ERR_CACHE_MISS Dilemma on Your Chrome Browser: A Step-by-Step Guide"
-date: 2025-01-14T18:51:35.247Z
-updated: 2025-01-19T16:49:08.471Z
+date: 2025-01-23T18:21:58.920Z
+updated: 2025-01-25T18:09:01.522Z
 tags:
   - win11
   - win10
@@ -41,24 +41,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
@@ -78,12 +70,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -95,12 +95,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
@@ -109,13 +109,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -150,18 +150,19 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-boosting-video-impact-on-tiktok-via-sound-change/"><u>[New] Boosting Video Impact on TikTok via Sound Change</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-blueprint-for-virtual-business-growth/"><u>[Updated] 2024 Approved The Blueprint for Virtual Business Growth</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-comprehensive-breakdown-sony-fdr-x1000-video-gear/"><u>[Updated] In 2024, Comprehensive Breakdown Sony FDR-X1000 Video Gear</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr-for-2024/"><u>[Updated] Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202666896-dells-guide-to-restoring-usb-port-functionality-solved/"><u>Dell's Guide to Restoring USB Port Functionality - Solved</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effective-solutions-to-stop-dark-souls-3-from-crashing-frequently/"><u>Effective Solutions to Stop Dark Souls 3 From Crashing Frequently</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-eye-catching-aesthetics-of-the-new-galaxy-tab-s9-series-are-they-worth-their-cost/"><u>Exploring the Eye-Catching Aesthetics of the New Galaxy Tab S9 Series - Are They Worth Their Cost?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lwjgl-exception-handling-correcting-non-accelerated-pixel-formats-efficiently/"><u>LWJGL Exception Handling: Correcting Non-Accelerated Pixel Formats Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-airdrop-problems-now-resolved/"><u>Quick Fixes for Common AirDrop Problems – Now Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-problem-of-windows-7-update-download-failures/"><u>Resolving the Problem of Windows 7 Update Download Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-no-sound-output-problems-in-windows-os/"><u>Step-by-Step Guide: Correcting 'No Sound Output' Problems in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-for-successfully-pairing-devices-via-bluetooth-on-windows-n-11/"><u>Top Strategies for Successfully Pairing Devices via Bluetooth on Windows N 11</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/understanding-screen-color-distortion-insights-from-yl-computings-expert-analysis/"><u>Understanding Screen Color Distortion: Insights From YL Computing's Expert Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-complete-guide-to-slow-down-a-video-on-snapchat/"><u>[New] Complete Guide to Slow Down a Video on Snapchat</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-8-video-transformation-tools-from-iphone-to-file/"><u>[New] Top #8 Video Transformation Tools From iPhone to File</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unveiling-lgs-cutting-edge-monitor-technology-in-detail/"><u>[Updated] 2024 Approved Unveiling LG’s Cutting-Edge Monitor Technology in Detail</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-discovering-androids-and-ioss-best-rated-wedding-clock-apps/"><u>[Updated] Discovering Android's and iOS's Best-Rated Wedding Clock Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-embarking-on-the-online-world-starting-a-facebook-life/"><u>[Updated] In 2024, Embarking on the Online World Starting a Facebook Life</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-video-gathering-made-easy-top-5-no-cost-online-downloaders-for-2024/"><u>[Updated] Video Gathering Made Easy Top 5 No-Cost, Online Downloaders for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flac-m4a-movavi/"><u>在網路上無限制自由轉換 FLAC到 M4A - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversione-immagini-webp-online-libera-con-movavi-tutto-quanto-devo-sapere/"><u>Conversione Immagini WEBP Online Libera Con Movavi: Tutto Quanto Devo Sapere!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-descubra-os-melhores-programas-de-edicao-de-som-para-pcs-com-windowsmac-top-15-destacados/"><u>Grátis: Descubra Os Melhores Programas De Edição De Som Para PCs Com Windows/Mac – Top 15 Destacados</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v11-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.1 File</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-capturing-classroom-talks-on-a-mac/"><u>In 2024, Capturing Classroom Talks on a Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-there-a-global-glitch-in-microsoft-teams-or-are-connectivity-woes-to-blame/"><u>Is There a Global Glitch in Microsoft Teams, or Are Connectivity Woes to Blame?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-facilement-votre-audio-flac-au-format-mp3mp4-gratuitement-sur-la-plateforme-de-conversion-en-ligne-movavi/"><u>Transformez Facilement Votre Audio FLAC Au Format MP3/MP4 Gratuitement Sur La Plateforme De Conversion en Ligne Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-immagini-bmp-in-gif-senza-costo-con-il-convertitore-online-di-movavi/"><u>Trasforma Immagini BMP in GIF Senza Costo Con Il Convertitore Online Di Movavi</u></a></li>
 </ul></div>
 

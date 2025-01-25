@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2025-01-17T19:53:21.953Z
-updated: 2025-01-19T20:43:05.001Z
+date: 2025-01-20T18:53:08.033Z
+updated: 2025-01-25T18:47:27.492Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -51,10 +43,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -64,6 +52,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -84,7 +76,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -111,15 +103,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -134,6 +126,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -145,6 +141,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,20 +184,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-key-role-of-youtube-trailers-in-enhancing-revenue/"><u>[New] In 2024, The Key Role of YouTube Trailers in Enhancing Revenue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-cxfreeze-fatal-error-easily/"><u>[SOLVED] Cx_Freeze Fatal Error Easily</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-premiere-pro-template-guide-no-cost/"><u>[Updated] Ultimate Premiere Pro Template Guide - No Cost</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-asus-webcam-issues-with-no-display-on-windows-nix-11/"><u>Diagnosing and Fixing ASUS Webcam Issues with No Display on Windows Nix-11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-best-performance-download-up-to-date-nvidia-drivers-for-geforce-gtx-1650-super-supports-windows-10-and-11/"><u>Get the Best Performance: Download Up-to-Date NVIDIA Drivers for GeForce GTX 1650 SUPER – Supports Windows 10 & 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 13 Pro Max without Password?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/netflix-outage-guide-identifying-and-resolving-service-disruptions/"><u>Netflix Outage Guide - Identifying & Resolving Service Disruptions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-gpu-requirement-not-met-issue-resolved/"><u>Overwatch: GPU Requirement Not Met, Issue Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-solving-your-chromecast-connection-issues/"><u>Quick Fix: Solving Your Chromecast Connection Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-event-id-1000-on-your-pc-windows-7810/"><u>Resolving Event ID 1000 on Your PC (Windows 7/8/10)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-problem-of-dragon-age-origins-game-crashing-on-windows-10-a-complete-guide/"><u>Resolving the Problem of Dragon Age: Origins Game Crashing on Windows 10 - A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-how-to-get-back-windows-that-have-vanished-off-screen/"><u>Step by Step: How to Get Back Windows That Have Vanished Off-Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-the-volume-is-dirty-error-code-0x80071ac3/"><u>Step-by-Step Guide: Correcting the 'Volume Is Dirty' (Error Code 0X80071AC3)</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/stop-losing-your-data-on-usb-sticks-learn-how-to-retrieve-deleted-files-effectively/"><u>Stop Losing Your Data on USB Sticks! Learn How to Retrieve Deleted Files Effectively</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unraveling-the-secrets-to-captivating-asmr-scenarios-and-effects/"><u>[New] In 2024, Unraveling the Secrets to Captivating ASMR Scenarios and Effects</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/windows-10-version-22h2/"><u>最高效解決 Windows 10 Version 22H2更新失敗方案</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-steps-to-fix-warframe-cannot-complete-the-update-process-alerts/"><u>Comprehensive Steps to Fix 'Warframe Cannot Complete the Update Process' Alerts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-lenovos-malfunctioning-secure-access-system/"><u>DIY Fixes for Lenovo's Malfunctioning Secure Access System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-cant-find-appropriate-printer-driver-error-easily/"><u>Fixing 'Windows Can't Find Appropriate Printer Driver' Error Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-integrity-of-system-files-on-windows-1011-expert-advice/"><u>How to Restore Integrity of System Files on Windows 10/11 - Expert Advice</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/low-cost-deal-on-blinks-4-camera-security-system-with-floodlight-bundle-only-80-this-labor-day-according-to-zdnet/"><u>Low-Cost Deal on Blink's 4-Camera Security System with Floodlight Bundle - Only $80 This Labor Day, According to ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mobile-video-to-audio-conversion-made-easy-top-apps-reviewed/"><u>New In 2024, Mobile Video to Audio Conversion Made Easy Top Apps Reviewed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/obtain-and-implement-the-newest-dell-wd19-printer-or-scanner-drivers/"><u>Obtain and Implement the Newest Dell WD19 Printer or Scanner Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-device-reports-no-battery-easy-steps-inside/"><u>Quick Fixes for When Your Device Reports No Battery – Easy Steps Inside!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-a14-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y77t | Dr.fone</u></a></li>
 </ul></div>
 

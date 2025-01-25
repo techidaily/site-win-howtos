@@ -1,7 +1,7 @@
 ---
 title: "Fix a Broken Connection: How to Get Your USB Mouse Working Again"
-date: 2025-01-09T16:26:34.719Z
-updated: 2025-01-13T17:18:44.459Z
+date: 2025-01-18T16:38:17.264Z
+updated: 2025-01-25T18:22:52.041Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 fixes for **Mouse keeps disconnecting**
 
 Here are 3 fixes that have helped other users resolve the mouse keeps disconnecting problem. Just work your way down the list until the problem is resolved.
@@ -37,7 +33,7 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -47,10 +43,6 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
@@ -59,7 +51,11 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
@@ -67,12 +63,20 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -89,10 +93,6 @@ You can update your drivers automatically with either the [**Free**](https://too
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -120,18 +120,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-apparition-editing-in-slow-motion/"><u>[New] 2024 Approved Apparition Editing in Slow-Motion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-explore-the-benefits-turning-on-auto-hdr-in-windows-11/"><u>[New] 2024 Approved Explore the Benefits Turning On Auto HDR in Windows 11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagram-storytelling-infuse-your-videos-and-stories-with-tunes/"><u>[New] Instagram Storytelling Infuse Your Videos & Stories with Tunes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-magic-vs-2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor Magic Vs 2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-overcome-laptop-touchpad-not-responding-glitches/"><u>Expert Solutions to Overcome 'Laptop Touchpad Not Responding' Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-non-responsive-customization-options-issue/"><u>How To Resolve Non-Responsive Customization Options Issue</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-magic-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor Magic 5 to iPod | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/leading-the-video-conversion-game-with-ipv-strategies/"><u>Leading the Video Conversion Game with IPV Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-video-memory-crashes-in-hogwarts-legacy-windows-edition/"><u>Remedying Video Memory Crashes in 'Hogwarts: Legacy' Windows Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-steam-store-loading-problems-in-minutes-expert-tips-for-gamers/"><u>Resolving Steam Store Loading Problems in Minutes: Expert Tips for Gamers</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/story-1-the-misunderstanding-of-esophageal-involvement/"><u>Story 1: The Misunderstanding of Esophageal Involvement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-repair-driver-related-power-interruptions-on-pc/"><u>Troubleshooting Tips to Repair Driver-Related Power Interruptions on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-of-the-ce-34878-0-code-on-your-playstation-4-solutions-inside/"><u>Unraveling the Mystery of the CE-34878-0 Code on Your PlayStation 4 - Solutions Inside!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tactics-to-make-fb-videos-attractive-and-effective-for-2024/"><u>[New] Tactics to Make FB Videos Attractive and Effective for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728502369716-google3/"><u>🕵️‍♂️ Googleフォトに保存されている写真が見つからず、3つの回収法を教えます</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-select-guide-17-chosen-software-for-smooth-image-cleanup/"><u>2024 Approved Select Guide 17 Chosen Software for Smooth Image Cleanup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clear-and-fix-windows-appstore-cache-problems-top-strategies/"><u>Clear and Fix Windows Appstore Cache Problems: Top Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertir-videos-de-alta-calidad-sin-costo-transformar-3gp-en-wmv-con-herramientas-web-gratuitas/"><u>Convertir Videos De Alta Calidad Sin Costo: Transformar 3GP en WMV Con Herramientas Web Gratuitas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issue-in-windows-11-solution-steps/"><u>Desktop Icon Disappearance Issue in Windows 11 - Solution Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-visual-performance-adaptive-refresh-rates-for-todays-displays/"><u>Enhancing Visual Performance: Adaptive Refresh Rates for Today’s Displays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208779606-expert-tips-for-getting-your-dells-usb-port-up-and-running-again/"><u>Expert Tips for Getting Your Dell's USB Port Up & Running Again!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-differences-between-nlp-and-ml-in-artificnial-intelligence/"><u>Exploring the Differences Between NLP and ML in Artificnial Intelligence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-timer-accessories-transform-your-gopro-experience-for-2024/"><u>First-Timer Accessories - Transform Your GoPro Experience for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/frequency-hopping-spread-spectrum-fhss/"><u>Frequency Hopping Spread Spectrum (FHSS):</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-crystal-clear-images-by-eliminating-screen-line-flaws/"><u>Guide to Restoring Crystal Clear Images by Eliminating Screen Line Flaws</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-googles-enhanced-nest-thermostat-comprehensive-review-of-specs-cost-and-advanced-functionalities-cnet/"><u>In-Depth Analysis of Google's Enhanced Nest Thermostat: Comprehensive Review of Specs, Cost and Advanced Functionalities | CNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/teredos-struggle-with-eligibility-criteria-insights-and-solutions/"><u>Teredo's Struggle with Eligibility Criteria - Insights and Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-poco-c51-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-surface-pro-4-stylus-issues/"><u>Troubleshooting Guide: Fixing Surface Pro 4 Stylus Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/why-are-my-videos-flipped-on-instagram/"><u>Why Are My Videos Flipped On Instagram?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-stop-alerts-taming-the-cpu-overload/"><u>Windows Stop Alerts: Taming the CPU Overload</u></a></li>
 </ul></div>
 

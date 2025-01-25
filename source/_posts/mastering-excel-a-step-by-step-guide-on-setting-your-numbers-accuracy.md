@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel: A Step-by-Step Guide on Setting Your Number's Accuracy"
-date: 2024-08-28T00:19:22.610Z
-updated: 2024-08-29T00:19:22.610Z
+date: 2025-01-18T16:56:31.484Z
+updated: 2025-01-25T16:54:36.067Z
 tags:
   - excel
 categories:
@@ -21,19 +21,35 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  This feature also works on a per-workbook basis, meaning you can enable it for some workbooks and not others. You must enable it for an entire workbook, though; you can't enable it only for specific sheets within a workbook.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Where to Find the "Set Precision As Displayed" Option
 
  Navigate to the "File" menu.
 
 ![open the file menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/excel-set-precision-01.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the "Options" menu.
 
 ![select the options menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/excel-set-precision-02.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Excel Options window that appears, click the "Advanced" category on the left.
 
 ![select the advanced category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/excel-set-precision-03-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the right, scroll all the way to the bottom. You'll find the "Set Precision As Displayed" option in the "When Calculating This Workbook" section. You can select different currently-opened workbooks using the drop-down.
 
@@ -47,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
 ![click OK to exit the options window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/excel-set-precision-06-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can set how many digits are kept by altering how numbers are displayed in the "Home" menu's "Number" group.
 
 <ins class="adsbygoogle"
@@ -55,8 +75,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +82,18 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-android-capture-king-spam-free-edition/"><u>2024 Approved Android Capture King Spam-Free Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>2024 Approved Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/screen-grabber-gadgets-for-youtube-channels/"><u>Best Screen Grabber Gadgets for YouTube Channels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-typography-in-ae-top-10-sets-of-texts/"><u>Cutting-Edge Typography in AE Top 10 Sets of Texts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205957602-dealing-with-touchless-screens-learn-quick-fixes-for-activating-interactive-controls/"><u>Dealing with Touchless Screens? Learn Quick Fixes for Activating Interactive Controls</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs35-microphone-functional-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS35 Microphone Functional on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209243917-how-to-overcome-unexpected-shutdown-error-1067-on-your-windows-pc-now-solved/"><u>How to Overcome Unexpected Shutdown (Error 1067) on Your Windows PC - Now Solved!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-aural-accessories-for-screen-entertainment/"><u>Premium Aural Accessories for Screen Entertainment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-on-distributing-your-samsung-image-collection-to-others/"><u>Simple Guide on Distributing Your Samsung Image Collection to Others</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-error-code-39-in-optical-drives-easy-fixes-for-a-smooth-run/"><u>Troubleshooting and Resolving 'Error Code 39' In Optical Drives – Easy Fixes for a Smooth Run</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-failed-to-enumerate-objects-on-windows-11/"><u>Troubleshooting Guide: Resolving 'Failed to Enumerate Objects' On Windows 11</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

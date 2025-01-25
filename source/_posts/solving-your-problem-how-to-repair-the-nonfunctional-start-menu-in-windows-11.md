@@ -1,7 +1,7 @@
 ---
 title: "Solving Your Problem: How to Repair the Nonfunctional Start Menu in Windows 11"
-date: 2024-08-28T00:21:31.871Z
-updated: 2024-08-29T00:21:31.871Z
+date: 2025-01-23T17:08:48.738Z
+updated: 2025-01-25T18:24:54.211Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -52,9 +56,9 @@ The good news is, you can fix it easily!
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
  Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
@@ -66,14 +70,18 @@ To do so:
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
@@ -90,17 +98,13 @@ To run SFC:
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -110,16 +114,14 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -135,8 +137,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +144,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-apex-of-scripting-soundscapes/"><u>[Updated] Apex of Scripting Soundscapes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/e/"><u>「高品質動画エンコードの方法をお探しですか？ 最新技術によるビデオ圧縮解説をご提�eください。」</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-impact-with-every-second-in-a-youtube-short/"><u>In 2024, Maximizing Impact with Every Second in a YouTube Short</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/optimal-positioning-guide-setting-up-your-ps4-webcam/"><u>Optimal Positioning Guide: Setting Up Your PS4 Webcam</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/phoenix-software-by-stellar-your-mac-based-jpeg-savior/"><u>Phoenix Software by Stellar - Your Mac-Based JPEG Savior</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-go-2023-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark Go (2023) Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/turning-photos-into-cartoon-online/"><u>Turning Photos Into Cartoon Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-top-8-complimentary-mkv-video-editors-for-windowsmac-users/"><u>Ultimate Guide: Top 8 Complimentary MKV Video Editors for Windows/Mac Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-mobile-device-security-and-media-conversion-apps-compatible-with-iosandroid/"><u>Ultimate Mobile Device Security & Media Conversion Apps Compatible with iOS/Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-techniques-to-enhance-mp4-sound-quality-across-all-platforms/"><u>Ultimate Techniques to Enhance MP4 Sound Quality Across All Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-quick-access-a-guide-to-dodging-movie-excerpts-promotions-and-cautionary-notices-on-blu-raydvds/"><u>Unlock Quick Access: A Guide to Dodging Movie Excerpts, Promotions & Cautionary Notices on Blu-Ray/DVDs</u></a></li>
+</ul></div>
 

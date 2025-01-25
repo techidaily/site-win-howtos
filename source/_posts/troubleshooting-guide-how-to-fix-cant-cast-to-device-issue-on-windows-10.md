@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix 'Can't Cast to Device' Issue on Windows 10"
-date: 2025-01-14T18:07:00.100Z
-updated: 2025-01-19T16:26:35.256Z
+date: 2025-01-24T16:26:33.915Z
+updated: 2025-01-25T17:55:17.324Z
 tags:
   - win11
   - win10
@@ -35,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -72,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -79,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -105,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -118,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
@@ -132,10 +140,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -175,10 +175,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -197,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,19 +225,14 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-10-epic-adventures-game-editions-greatest-hits/"><u>[New] 2024 Approved Top 10 Epic Adventures Game Edition's Greatest Hits</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-get-your-youtube-video-seen-6-easy-steps/"><u>[New] In 2024, How to Get Your YouTube Video Seen - 6 Easy Steps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-game-masters-youtube-money-hacks-for-2024/"><u>[Updated] Game Masters YouTube Money Hacks for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-unfreezing-the-windows-10-taskbar-effectively/"><u>Expert Tips for Unfreezing the Windows 10 Taskbar Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fortnite-fixes-for-gaming-without-supported-visuals-windows-edition/"><u>Fortnite Fixes for Gaming Without Supported Visuals: Windows Edition</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-basics-of-asmr-video-content/"><u>In 2024, Mastering the Basics of ASMR Video Content</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-your-path-to-youtube-prominence-effective-tactics-unveiled/"><u>In 2024, Your Path to YouTube Prominence Effective Tactics Unveiled</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f54-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F54 5GFRP Lock</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leveraging-windows-10s-photos-app-a-guide-to-adding-text-to-visual-content/"><u>Leveraging Windows 10'S Photos App A Guide to Adding Text to Visual Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-the-windows-update-0x80070652-issue/"><u>Quick Solutions for Resolving the Windows Update 0X80070652 Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-stalled-google-chrome-a-step-by-step-solution/"><u>Reviving Your Stalled Google Chrome: A Step-by-Step Solution</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-reimagines-mac-12v-data-retrieval-software/"><u>Stellar Reimagines Mac 12v Data Retrieval Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-dell-computer-fixing-non-functional-usb-ports/"><u>Troubleshooting Dell Computer: Fixing Non-Functional USB Ports</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-update-failure-code-0x8024401c-on-microsoft-windows-systems/"><u>Understanding & Solving Update Failure: Code 0X8024401c on Microsoft Windows Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-time-capsule-transformation-step-by-step-guide-to-digitalize-old-printed-photographs/"><u>[New] A Time-Capsule Transformation Step-By-Step Guide to Digitalize Old Printed Photographs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-visualize-and-save-premium-free-screen-capture-software-on-pcmac/"><u>[New] In 2024, Visualize and Save - Premium Free Screen Capture Software on PC/Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-gameplay-optimizing-pc-settings-for-ultimate-windows-11-gaming-experience/"><u>Boost Your Gameplay: Optimizing PC Settings for Ultimate Windows 11 Gaming Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-realme-11-5g-frp-by-drfone-android/"><u>How Can We Bypass Realme 11 5G FRP?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-driver-power-state-failure-on-windows/"><u>How to Fix Driver Power State Failure on Windows</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/locating-your-pcs-security-a-guide-on-monitoring-windows-defender-activity-insights-from-yl-computing/"><u>Locating Your PC's Security: A Guide on Monitoring Window's Defender Activity - Insights From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-non-working-print-screen-problem-in-windows-11-and-windows-10-computers/"><u>Solving the Non-Working Print Screen Problem in Windows 11 and Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-wifi-connectivity-problems-a-guide-for-windows-10-and-7-users/"><u>Solving WiFi Connectivity Problems: A Guide for Windows 10 and #7 Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-removing-your-pics-photos-and-images-from-icloud-securely/"><u>Step-by-Step Guide: Removing Your Pics, Photos & Images From iCloud Securely</u></a></li>
 </ul></div>
 

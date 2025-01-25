@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 11 USB Connection Problems: Fixing 'Unknown USB Device (Port Reset Failed)"
-date: 2024-08-28T00:23:43.837Z
-updated: 2024-08-29T00:23:43.837Z
+date: 2025-01-24T16:35:56.853Z
+updated: 2025-01-25T16:55:55.901Z
 tags:
   - win11
   - win10
@@ -35,9 +35,17 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -48,32 +56,32 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -82,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
@@ -95,9 +107,6 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Solution 3: Reinstall your Bluetooth driver
 
  Always, if your Bluetooth driver is outdated or corrupted, it will cause errors. In most such cases, updating your Bluetooth driver can fix the error.
@@ -124,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
@@ -134,8 +140,9 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -143,14 +150,6 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 * [Bluetooth](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -162,8 +161,6 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +168,26 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fix-reclaim-your-devices-efficiency-direct-steps-to-resolve-high-system-load-from-shell-infrastructures/"><u>[Fix] Reclaim Your Device’s Efficiency: Direct Steps To Resolve High System Load From Shell Infrastructures!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-new-wave-on-youtube-and-fb-discover-the-hottest-8-trends-for-2024/"><u>[New] The New Wave on YouTube & FB Discover the Hottest 8 Trends for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comparing-metaverse-to-multiplemetasa-highlighting-their-variance/"><u>[Updated] Comparing Metaverse to MultipleMetasa Highlighting Their Variance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-hero5-black-vs-yis-new-tech-action-cam-showdown-update/"><u>[Updated] In 2024, Hero5 Black Vs. Yi's New Tech Action Cam Showdown Update</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-optimal-mp4-extractor-from-tiktok-videos/"><u>[Updated] In 2024, Optimal MP4 Extractor From TikTok Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/6-essential-steps-for-dealing-with-werfaultexe-application-hiccups-in-windows/"><u>6 Essential Steps for Dealing with WerFault.exe Application Hiccups in Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 6 | Stellar</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-database-recovery-aid/"><u>Celestial Database Recovery Aid</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-hindi-learning-mondly-unveils-top-8-reasons-online/"><u>Embrace Hindi Learning: Mondly Unveils Top 8 Reasons Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/essential-drone-motors-guide-for-optimal-flight/"><u>Essential Drone Motors Guide for Optimal Flight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-installation-error-of-windows-11s-version-1607-feature-update/"><u>Fixing the Installation Error of Windows 11'S Version 1607 Feature Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-a-stable-secured-browser-session-after-ssl-handshake-problems/"><u>How to Restore a Stable Secured Browser Session After SSL Handshake Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-windows-from-repeatedly-rebooting-fixes-for-version-11-and-10-systems/"><u>How to Stop Windows From Repeatedly Rebooting - Fixes for Version 11 & 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-file-explorer-on-windows-11-quick-tips-and-solutions/"><u>Mastering File Explorer on Windows 11: Quick Tips and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-broken-numbers-making-every-key-count-again/"><u>Solution for Broken Numbers - Making Every Key Count Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207507319-stop-nier-automata-from-freezing-or-crashing-on-your-computer-solutions-here/"><u>Stop Nier: Automata From Freezing or Crashing on Your Computer - Solutions Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-phablets-insights-on-samsungs-latest-creation-the-galaxy-z-fold-7-with-potential-specs-and-info/"><u>The Future of Phablets: Insights on Samsung's Latest Creation - The Galaxy Z Fold 7 with Potential Specs & Info</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/yac560-yamahaaturbosound-ii-sound-module-based-on-the-ymf794eplusymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-108/"><u>YAC560 - Yamaha'aturboSound II Sound Module Based on the YMF794E+/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Excel Trick for Seamless Selection: How to Selectively Copy & Paste Non-Displayed Cells Efficiently"
-date: 2024-08-28T00:19:10.254Z
-updated: 2024-08-29T00:19:10.254Z
+date: 2025-01-21T17:29:27.211Z
+updated: 2025-01-25T17:00:34.747Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 ---
 
 ## Excel Trick for Seamless Selection: How to Selectively Copy & Paste Non-Displayed Cells Efficiently
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 ![Hidden rows in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/HiddenRows-ExcelCopyVisibleOnly.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When we select the visible cell range, use the Copy action, and then Paste, those hidden cells appear.
 
 ![Hidden rows appear by default when you paste](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/HiddenRowsAppear-ExcelCopyVisibleOnly.png) 
 
  If this isn't what you want, read on for how to avoid it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Copy Visible Cells Only in Excel
 
  This nifty hidden feature is available in Microsoft Excel on both Windows and Mac. And luckily, it works exactly the same way.
@@ -46,39 +51,33 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 ![On the Home tab, click Find & Select and pick Go To Special](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/FindSelectGoToSpecial-ExcelCopyVisibleOnly.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the window that appears, pick "Visible Cells Only" and click "OK."
 
 ![Select Visible Cells Only](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/VisibleCellsOnly-ExcelCopyVisibleOnly.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  With the cells still selected, use the Copy action. You can press Ctrl+C on Windows, Command+C on Mac, right-click and pick "Copy," or click "Copy" (two pages icon) in the ribbon on the Home tab.
 
 ![On the Home tab, click Copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/HomeCopy-ExcelCopyVisibleOnly.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  Now move where you want to paste the cells and use the Paste action. You can press Ctrl+V on Windows, Command+V on Mac, right-click and pick "Paste," or click "Paste" in the ribbon on the Home tab.
 
 ![On the Home tab, click Paste](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/HomePaste-ExcelCopyVisibleOnly.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You should then see only the visible cells from your cell selection pasted.
 
 ![Only visible cells are pasted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PastedOnlyVisible-ExcelCopyVisibleOnly.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you perform actions like this in Word often, be sure to check out our how-to for [cutting, copying, and pasting in Microsoft Word](https://instagram-video-files.techidaily.com/new-2024-approved-how-instagram-new-algorithm-update-will-affect-you/).
 
 <ins class="adsbygoogle"
@@ -87,8 +86,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +93,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-color-correction-techniques/"><u>[New] Mastering Color Correction Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-solutions-to-get-your-hp-laptops-webcam-working-again-on-windows-11/"><u>Essential Solutions to Get Your HP Laptop's Webcam Working Again on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-8-leading-applications-to-simplify-handling-multiple-cellphone-contacts/"><u>Explore the 8 Leading Applications to Simplify Handling Multiple Cellphone Contacts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969143520-get-your-nexiq-usb-connection-up-and-running-with-the-latest-drivers/"><u>Get Your Nexiq USB Connection Up and Running with the Latest Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-pioneering-profit-navigating-the-path-to-money-making-on-vimeo/"><u>In 2024, Pioneering Profit Navigating the Path to Money-Making on Vimeo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keep-your-laptop-awake-longer-with-these-quick-tips/"><u>Keep Your Laptop Awake Longer with These Quick Tips!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-skype-microphone-trouble-discover-proven-techniques-to-get-it-working-again/"><u>Overcoming Skype Microphone Trouble? Discover Proven Techniques to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-stuck-navigation-issues-on-your-portable-pc/"><u>Overcoming Stuck Navigation Issues on Your Portable PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-your-systems-essential-windows-update-features/"><u>Resolving Issues with Your System's Essential Windows Update Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-airpods-connection-issue-on-your-pc-comprehensive-guide/"><u>Solving the AirPods Connection Issue on Your PC: Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforma-tus-fotos-en-video-gratis-los-5-mejores-tacticas-para-convertir-avi-a-mp4/"><u>Transforma Tus Fotos en Video Gratis: Los 5 Mejores Tácticas Para Convertir AVI a MP4</u></a></li>
+</ul></div>
 

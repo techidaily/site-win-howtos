@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Assistance: Streamlining the Use of File Explorer in Windows 10"
-date: 2025-01-14T17:20:45.504Z
-updated: 2025-01-19T18:21:18.887Z
+date: 2025-01-18T18:24:42.112Z
+updated: 2025-01-25T16:47:46.811Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Access violation error
 
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
@@ -52,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
@@ -78,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this case, you should**completely cut off the power** of your computer, and then**remove** the RAM(s) from your computer or**replace** them with other RAMs.
 
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
 
@@ -110,6 +110,10 @@ To resolve this error, you can try the methods below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In fact, Driver Easy Pro has also other advanced features like**driver removal or restore** . Plus upgrading to Pro version can get you its**experienced technical support** and**30-day money back guarantee** .
 
 **c)** The 0xc0000005 error can also come from**improper registry modification** . You can[**restore your registry to a backup**](#d) . Or you can find the defective entry and repair it on your own if you are a professional. (Please remember you need to**back up your Registry** before doing any modification to prevent any unexpected damages.)
@@ -128,6 +132,10 @@ To resolve this error, you can try the methods below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows 10/11, click**Create a restore** **point** ,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
@@ -139,10 +147,6 @@ To resolve this error, you can try the methods below.
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **e)** You may also get this error because your**BCD (Boot Configuration Data)** file is corrupted. You can try repairing it and see if you can fix this error.
 
@@ -161,7 +165,7 @@ To repair BCD:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a019b37dab.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **iii.** In Command Prompt, type the following lines and press**Enter** on your keyboard after each (press the**Y** key followed by**Enter** after you enter the final line):
@@ -181,7 +185,7 @@ bootrec /rebuildbcd
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Windows installation error
@@ -189,10 +193,6 @@ bootrec /rebuildbcd
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
@@ -215,16 +215,17 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/1723204135970-fix-immediately-reduce-high-cpu-usage-of-your-device-targeted-solutions-for-tackling-excessive-shell-induced-heat/"><u>[Fix] Immediately Reduce High CPU Usage of Your Device – Targeted Solutions for Tackling Excessive Shell-Induced Heat</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-beginners-ultimate-list-of-must-have-video-tech/"><u>[New] 2024 Approved Beginner's Ultimate List of Must-Have Video Tech</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-optimizing-tasks-in-teams-with-these-8-social-media-apps/"><u>[New] In 2024, Optimizing Tasks in Teams with These 8 Social Media Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sprint-through-slow-videos-best-8-android-choices/"><u>[New] Sprint Through Slow Videos Best 8 Android Choices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-14-youtube-adsense-earnings-how-much-does-adsense-pay-per-1000-view/"><u>2024 Approved 14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 View</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-geforce-settings-retrieval-error-on-your-pc/"><u>How to Overcome GeForce Settings Retrieval Error on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-energy-icon-for-efficient-power-management-in-windows-11/"><u>How to Restore the Energy Icon for Efficient Power Management in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-c32-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia C32 Through Google Earth?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a56s-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A56s 5G FRP</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/simple-guide-on-enhancing-video-quality-by-increasing-resolution-with-ease/"><u>Simple Guide on Enhancing Video Quality by Increasing Resolution with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-startup-issues-how-to-get-your-start-menu-working-again/"><u>Windows 11 Startup Issues: How to Get Your Start Menu Working Again</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-delving-into-the-advantages-and-disadvantages-of-youtube-premium/"><u>[New] 2024 Approved Delving Into the Advantages and Disadvantages of YouTube Premium</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-picks-of-the-year-premium-google-cardboard-vr-gaming/"><u>[New] Picks of the Year Premium Google Cardboard VR Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-polity-playground-quintessential-politic-simulators-review-for-2024/"><u>[Updated] Polity Playground Quintessential Politic Simulators Review for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-record-pc-sounds-effortlessly-with-x-recorder-for-2024/"><u>[Updated] Record PC Sounds Effortlessly with X-Recorder for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movaviswf/"><u>無料 - 直感的かつ簡単! MovaviでSWFファイルをオンライン上で変更する方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-videos-for-the-web-change-mov-and-mp4-files-to-webm-free/"><u>Convert Videos for the Web - Change MOV and MP4 Files to WebM (Free)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-grayscale-to-glamour-professional-color-adjustment/"><u>From Grayscale to Glamour Professional Color Adjustment</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vid-virtuoso-for-2024/"><u>MicroVid Virtuoso for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3aacogg-wma-movavi/"><u>MP3/AAC/OGG 等多樣文件型式直接在線上轉換成 WMA - 簡便電子影音編輯器 Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-solving-phantom-lines-and-structures-in-3d-printed-models/"><u>Ultimate Guide: Solving Phantom Lines and Structures in 3D Printed Models</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unificazione-multimediali-su-windows-n-top-8-tecniche-del-2024/"><u>Unificazione Multimediali Su Windows N° - Top 8 Tecniche Del 2024!</u></a></li>
 </ul></div>
 

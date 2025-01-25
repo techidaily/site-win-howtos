@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Bluetooth Troubleshooting Tips for Smooth Device Connection (Guide)
-date: 2024-08-28T00:21:05.655Z
-updated: 2024-08-29T00:21:05.655Z
+date: 2025-01-21T18:01:16.150Z
+updated: 2025-01-25T18:15:44.473Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Running Windows Update Troubleshooter**
 
  Windows Update troubleshooter is a built-in tool that can help you analyze and resolve issues related to Windows update. Try running Windows Update troubleshooter to see if you can resolve this issue. Here is how to do it:
@@ -39,10 +43,19 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 2. In the pop-up window, select **Windows Update**   and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes**   to run Windows Update troubleshooter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap789.png)
 3. Click **Apply this fix**   to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap790.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
 
  Perform a Windows update again to see if you can install the update. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Restarting Windows Update service**
 
@@ -54,13 +67,19 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap792.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **`C:\Windows\SoftwareDistribution\DataStore`**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap794.png)
 4. Delete all the files in the folder **DataStore**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap795.png)  
  When all the files are deleted, you shall see “This folder is empty”.
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.  
@@ -71,15 +90,9 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 6. Delete all the files in the folder   **Download**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap797.png)  
  When all the files are deleted, you shall see “This folder is empty”.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap798.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Check Windows Update again to see whether you can install the update. If not, try the next fix, below.
 
 ### **Fix 3: Setting the TrustedInstaller service to auto start**
@@ -89,21 +102,17 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Ctrl** ,**Shift** and**Enter** at the same time to**run Command Prompt as administrator** . You’ll be prompted for permission. Click**Yes** to open Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)
 2. In Command Prompt, type the command line below and press enter:  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **SC config trustedinstaller start=auto**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap800.png)
 3. Close Command Prompt and restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  Perform Windows Update again after your restart your PC. See if you can install the update KB4056892\. If you can install it, congratulations! You’ve fixed this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Running System File Checker**
 
 **System File Checker**  can scan for corruptions in Windows system files and restore corrupted files. When you fail to install Windows updates, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -114,16 +123,14 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 **sfc /scannow**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap801.png)  
  It may take some time for the command operation to be completed.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. When this command operation is completed, close Command Prompt.
 
 Run Windows Update  again to check whether this fix works or not. If you still fail to install the update KB4056892 for your Windows system, try downloading it from Microsoft Update Catalog manually.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 5: Downloading the update KB4056892 from Microsoft Update Catalog manually**
 
  You can try downloading the updates you failed to install from **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  and install them manually. Here is how to do it:
@@ -132,9 +139,11 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap802.png)  
     “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 2. Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
@@ -144,14 +153,16 @@ Run Windows Update  again to check whether this fix works or not. If you still f
  If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap806.png)
 5. In the pop-up window, click the link to start downloading the updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap807.png)
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 See if you can install the update. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### **Pro tip: Want us to fix the problem for you?**
 
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you.
@@ -171,8 +182,6 @@ See if you can install the update. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +189,20 @@ See if you can install the update. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-simple-strategies-for-smooth-underwater-moviemaking/"><u>[New] In 2024, Simple Strategies for Smooth Underwater Moviemaking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-creating-seamless-zoom-experiences/"><u>[Updated] Creating Seamless Zoom Experiences</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>[Updated] In 2024, The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-best-text-animation-presets/"><u>2024 Approved Best Text Animation Presets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-reference-to-non-existent-token-errors-in-win11/"><u>Correcting “Reference to Non-Existent Token” Errors in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-firmware-modernization-techniques-on-surfaces/"><u>Efficient Firmware Modernization Techniques on Surfaces</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-b-roll-value-essential-techniques/"><u>Maximizing B-Roll Value Essential Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-adding-the-q-sports-extension-in-kodi-version-194/"><u>Step-by-Step Guide to Adding the Q Sports Extension in Kodi Version 19.4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-recording-high-quality-wav-audio-on-windows-11/"><u>Step-by-Step Guide: Recording High-Quality WAV Audio on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/title-compare-and-contrast-the-key-differences-between-dvd-r-disc-and-dvdplusr-disc/"><u>Title: Compare & Contrast: The Key Differences Between DVD-R Disc and DVD+R Disc</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-effortlessly-adding-tunes-to-your-powerpoint-presentations/"><u>Top Strategies for Effortlessly Adding Tunes to Your PowerPoint Presentations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transfer-your-work-with-ease-guide-to-exporting-and-importing-webm-files-in-adobe-premiere-pro/"><u>Transfer Your Work with Ease - Guide to Exporting and Importing WebM Files in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-free-tools-and-techniques-for-cutting-webm-videos-offline-or-online/"><u>Ultimate Guide: Free Tools & Techniques for Cutting WebM Videos Offline or Online</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cut Down Windows 11 CPU Overuse with WMI Fixes
-date: 2024-08-28T00:21:35.544Z
-updated: 2024-08-29T00:21:35.544Z
+date: 2025-01-24T16:31:16.098Z
+updated: 2025-01-25T17:59:15.033Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -57,18 +61,34 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change boot order in BIOS
 
 **Changing boot order in BIOS** turns out to be another effective solution to your computer-won’t-shut-down problem. Here’s how we do it:
@@ -78,14 +98,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -94,9 +108,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -104,16 +115,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -128,8 +136,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +143,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-discover-10-free-high-quality-live-stream-apps-for-iphones-and-androids/"><u>[New] Discover 10 Free, High-Quality Live Stream Apps for iPhones and Androids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-vlogging-techniques-for-stellar-gopro-content/"><u>[New] In 2024, Top Vlogging Techniques for Stellar GoPro Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-design-mastery-creating-flawless-3d-structures-in-mc/"><u>[Updated] Design Mastery Creating Flawless 3D Structures in MC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-best-compact-audio-capturers-for-ipads-and-macs/"><u>[Updated] The Best Compact Audio Capturers for iPads and Macs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-system-prerequisites-for-running-big-sur-on-macs/"><u>2024 Approved System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-tips-to-restore-your-plex-streaming-experience-on-different-screens/"><u>Easy Troubleshooting Tips to Restore Your Plex Streaming Experience on Different Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-ways-to-stream-mkv-video-formats-on-ios-devices/"><u>Easy Ways to Stream MKV Video Formats on iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-converting-big-files-into-mp4-format/"><u>Effective Techniques for Converting Big Files Into MP4 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficiently-convert-your-dvds-to-high-quality-avi-files-using-the-leading-programs-for-pcs-windows-1011/"><u>Efficiently Convert Your DVDs to High-Quality AVI Files Using the Leading Programs for PCs (Windows 10/11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-high-quality-dvd-extraction-no-transcoding-needed/"><u>Effortless High-Quality DVD Extraction: No Transcoding Needed!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elevate-canva-creations-with-these-10-secrets/"><u>Elevate Canva Creations with These 10 Secrets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-capture-screen-movements-in-windows-1011-top-3-methods-explained/"><u>How to Capture Screen Movements in Windows 10/11 - Top 3 Methods Explained</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-a70-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel A70</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/imgburn/"><u>ImgBurnを始める - セットアップから日本語化:初心者にぬくもりあふれるチュートリアル</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-file-transfer-with-webex-a-step-by-step-tutorial-for-on-the-go-usage/"><u>Mastering File Transfer with WebEx - A Step-by-Step Tutorial for On-the-Go Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mic-free-audio-capture-techniques-for-your-computer-a-guide/"><u>Mic-Free Audio Capture Techniques for Your Computer: A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-indispensable-tech-collection-nine-items-every-schoolgoer-should-own/"><u>The Indispensable Tech Collection: Nine Items Every Schoolgoer Should Own</u></a></li>
+<li><a href="https://driver-error.techidaily.com/touchpad-driver-rediscovered-with-easy-solutions/"><u>Touchpad Driver Rediscovered with Easy Solutions</u></a></li>
+</ul></div>
 

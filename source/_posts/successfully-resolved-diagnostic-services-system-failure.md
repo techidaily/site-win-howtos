@@ -1,7 +1,7 @@
 ---
 title: "Successfully Resolved: Diagnostic Services System Failure"
-date: 2025-01-11T16:43:22.151Z
-updated: 2025-01-13T16:37:56.398Z
+date: 2025-01-18T18:37:36.821Z
+updated: 2025-01-25T18:05:41.178Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Read on this small guide and follow to solve the problem on your Windows.
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix the Diagnostics Policy Service is not running issue?
 
  Here’re 3 easy and helpful solutions you can try. You may not have to try them all; Just start from the top and work your way down the list until your problem is solved.
@@ -58,10 +62,6 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f83f0ff4.jpg)
@@ -71,6 +71,10 @@ Follow these steps：
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
 
 6) Run the Network Diagnostics and see if it goes well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
 
@@ -94,10 +98,14 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Reinstall your network adapters
@@ -110,25 +118,13 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d609d065a4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60ec552a4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Run the Network Diagnostics to see if it goes well. If it keeps giving you the error, install the latest driver for your network adapter then.
 
@@ -143,6 +139,10 @@ net localgroup Administrators /add localservice
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad30f1e3ff8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
@@ -169,24 +169,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-discover-the-elite-live-streaming-platforms/"><u>[New] 2024 Approved Discover the Elite Live Streaming Platforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-tales-of-trial-by-fire-vs-innovative-challenges/"><u>[New] 2024 Approved Tales of Trial by Fire Vs. Innovative Challenges</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-rhythm-and-reel-incorporating-tunes-on-instagram/"><u>[New] Rhythm & Reel Incorporating Tunes on Instagram</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-simplify-storytelling-transform-vimeo-into-captivating-gifs-for-2024/"><u>[New] Simplify Storytelling Transform Vimeo Into Captivating GIFs for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressed-halt-error-of-print-driver-host-while-using-32-bit-application/"><u>Addressed: Halt Error of Print Driver Host While Using 32-Bit Application</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/audio-disruption-in-win-10-rectified/"><u>Audio Disruption in Win 10 Rectified</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-internal-power-malfunction-in-windows-10-devices/"><u>Effective Solutions for Internal Power Malfunction in Windows 10 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-wdf-implementation-lowering-high-cpu-consumption-in-windows-systems/"><u>Efficient WDF Implementation - Lowering High CPU Consumption in Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-converter-web-service-transform-wmv-files-into-asf-format/"><u>Free Converter Web Service - Transform WMV Files Into ASF Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-usb-terminal-voltage-problems-on-windows-11-devices/"><u>Guide to Fixing USB Terminal Voltage Problems on Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-11-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 11 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-challenges-when-your-dhcp-server-is-not-responding-solution/"><u>How to Overcome Challenges When Your DHCP Server Is Not Responding (Solution)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/inside-virtuality-metaverse-vs-omniverse-in-focus-for-2024/"><u>Inside Virtuality Metaverse Vs. Omniverse in Focus for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/left-click-not-responding-heres-how-you-can-resolve-the-issue-quickly/"><u>Left Click Not Responding? Here's How You Can Resolve the Issue Quickly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-your-information-against-potential-leaks-in-custom-gpt-applications-including-chatgpt/"><u>Securing Your Information Against Potential Leaks in Custom GPT Applications Including ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-restoring-audio-on-your-acer-notebook/"><u>Troubleshooting Steps: Restoring Audio on Your Acer Notebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fallout-4-performance-tips-say-goodbye-to-lag/"><u>Ultimate Fallout 4 Performance Tips - Say Goodbye to Lag!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-storage-solution-for-sony-a7s-ii/"><u>Ultimate Storage Solution for Sony A7S II</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-taskbar-not-hiding-solved/"><u>Windows 10 Taskbar Not Hiding [Solved]</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unmatched-pixels-the-exclusive-advantages-of-hp-envy-27/"><u>[New] In 2024, Unmatched Pixels The Exclusive Advantages of HP Envy 27</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-adventure-gear-debate-gopro-hero5-black-and-garmin-virb-2e-for-2024/"><u>[Updated] Adventure Gear Debate GoPro Hero5 Black & Garmin VIRB (2E) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capture-every-moment-exploring-free-high-quality-cameras/"><u>[Updated] In 2024, Capture Every Moment – Exploring Free, High-Quality Cameras</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-google-pixel-fold-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Google Pixel Fold</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crafting-the-podcast-intros-captivating-your-audience-from-the-start/"><u>Crafting the Podcast Intros Captivating Your Audience From the Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-nonfunctional-function-fn-keys-on-computers/"><u>Effective Remedies for Nonfunctional Function (Fn) Keys on Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enable-windows-10-to-recognize-dual-screens/"><u>Enable Windows 10 to Recognize Dual Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-laptop-typing-back-to-normal-on-windows-fixes-for-10-8-7/"><u>Get Your Laptop Typing Back to Normal on Windows: Fixes for 10, 8, 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-fixed-the-unchangeable-screen-settings-issue-step-by-step/"><u>How I Fixed the Unchangeable Screen Settings Issue - Step by Step</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-muted-sound-capture-obs-studio-guide-on-win-11/"><u>How to Unlock Muted Sound Capture: OBS Studio Guide on Win 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-exploring-automatic-aspect-ratios-in-imovie/"><u>In 2024, Exploring Automatic Aspect Ratios in iMovie</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repair-corrupt-mov-and-mp4-video-files-using-quicktime-player/"><u>Repair Corrupt MOV and MP4 Video Files Using QuickTime Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-techniques-for-resolving-non-pairing-bluetooth-problems-in-windows-10-2024-edition/"><u>Top Techniques for Resolving Non-Pairing Bluetooth Problems in Windows 10 - 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-selecting-high-performance-wireless-mice-in-202-cuisine-best-picks-for-productivity-comfort-and-ease/"><u>Ultimate Guide to Selecting High-Performance Wireless Mice in 202 Cuisine - Best Picks for Productivity, Comfort, and Ease</u></a></li>
 </ul></div>
 

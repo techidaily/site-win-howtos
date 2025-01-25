@@ -1,7 +1,7 @@
 ---
 title: "Automating the Launch of Specific Workbooks at Excel's Startup: A Step-by-Step Guide"
-date: 2024-08-28T00:19:44.358Z
-updated: 2024-08-29T00:19:44.358Z
+date: 2025-01-19T17:19:08.692Z
+updated: 2025-01-25T18:05:13.911Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 ---
 
 ## Automating the Launch of Specific Workbooks at Excel's Startup: A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 
 ![02_clicking_options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/02_clicking_options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The “Excel Options” dialog box displays. Click “Trust Center” in the list of items on the left.
 
 ![03_clicking_trust_center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/03_clicking_trust_center.png) 
@@ -37,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
  In the “Microsoft Excel Trust Center” section, click “Trust Center Settings”.
 
 ![04_clicking_trust_center_settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/04_clicking_trust_center_settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the “Trust Center” dialog box, click “Trusted Locations” in the list of items on the left.
 
@@ -65,29 +77,23 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 ![10_file_pasted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/10_file_pasted.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Option Two: Use Your Own Folder
 
  If you would rather Excel scan a different folder to open files at start--say, a folder you created in your Documents--you can do so. Access the “Excel Options” dialog box as described earlier in this article and click “Advanced” in the list of items on the left.
 
 ![11_clicking_advanced](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/11_clicking_advanced.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll down to the “General” section, and enter the full path to the folder you want to use in the “At startup, open all files in” edit box. Click “OK” to accept the change and close the “Excel Options” dialog box.
 
 ![12_at_startup_open_all_files_in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/12_at_startup_open_all_files_in.png) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, when you start Excel, any files you placed in the XLSTART folder and the alternate folder you defined are opened automatically, even when you double-click on another Excel file to open the program. The files in the XLSTART and the alternate folders will open first, and then the file you double-clicked.
 
  If you don’t want to open the files in these folders automatically anymore, simply move the files out of these folders. For example, you may want to replace your time sheet file with a current one at the beginning of each pay period so you always have access to your current time sheet.
@@ -98,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +111,24 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-crafting-your-perfect-minecraft-shelter/"><u>[New] Crafting Your Perfect Minecraft Shelter</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-capturing-the-whole-picture-not-just-slices-of-it/"><u>[New] In 2024, Capturing the Whole Picture, Not Just Slices of It</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-top-8-ios-and-pc-tools-for-effortlessly-altering-your-videos/"><u>[Updated] 2024 Approved Top 8 iOS & PC Tools for Effortlessly Altering Your Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-best-freefire-youtube-hashtags-and-tips-for-youtube-gaming-videos/"><u>[Updated] Best FreeFire YouTube Hashtags and Tips For YouTube Gaming Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-demystifying-macos-capture-feature-for-professional-use-for-2024/"><u>[Updated] Demystifying macOS Capture Feature for Professional Use for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-swiftswirl-momentmirror-recording-for-2024/"><u>[Updated] SwiftSwirl MomentMirror Recording for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-freezing-issues-on-your-desktop-machine/"><u>Bypass Freezing Issues on Your Desktop Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/debugging-tips-overcoming-write-failures-on-referenced-memory-addresses/"><u>Debugging Tips: Overcoming Write Failures on Referenced Memory Addresses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-disappearing-taskbar-in-windows-11-top-4-icon-troubleshooting-solutions/"><u>How to Fix a Disappearing Taskbar in Windows 11: Top 4 Icon Troubleshooting Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-cannot-play-file-error-224003-on-videos/"><u>How to Overcome the 'Cannot Play File: Error #224003' On Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-video-input-failure-on-your-display-step-by-step-instructions/"><u>How to Repair Video Input Failure on Your Display - Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-spot-a-chatgpt-phishing-siteand-what-to-do-if-you-spot-one/"><u>How to Spot a ChatGPT Phishing Site—And What to Do if You Spot One</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-typography-in-after-effects-with-premium-plug-ins/"><u>In 2024, Transform Typography in After Effects With Premium Plug-Ins</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-uniting-conversations-across-platforms-twitter-vids-on-whatsapp/"><u>In 2024, Uniting Conversations Across Platforms Twitter Vids on WhatsApp</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203932336-keyboard-numeric-key-malfunction-heres-how-you-fixed-it/"><u>Keyboard Numeric Key Malfunction? Here's How You Fixed It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-overwatch-voice-communication-problems-fast/"><u>Troubleshoot and Resolve Overwatch Voice Communication Problems Fast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-tackle-non-responsive-file-explorer-problems-in-windows-10/"><u>Troubleshoot and Tackle Non-Responsive File Explorer Problems in Windows 10</u></a></li>
+</ul></div>
 

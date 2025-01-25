@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Laptop's Trackpad When It Fails to Work with Windows OS
-date: 2025-01-18T18:49:06.011Z
-updated: 2025-01-19T18:11:16.130Z
+date: 2025-01-18T17:48:16.456Z
+updated: 2025-01-25T16:40:52.617Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 6. **[Enable Legacy USB Support in BIOS](#solution6)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 1: Unplug the keyboard and the mouse then plug it back**
 
@@ -77,12 +81,16 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On your keyboard, press the **Del** key (It could be**Delete** on some keyboards).
@@ -91,14 +99,10 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e3212f01c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click the **OK** button to confirm the uninstall.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **After uninstalling the drivers, update the drivers.**
@@ -116,7 +120,7 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -125,15 +129,7 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7eb6058aa.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 5: Disable the Third Party services**
 
@@ -150,6 +146,10 @@ Follow the steps below:
  3) Go to the **Services** tab. Check the box next to**Hide all Microsoft services** then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **OK** button.
 
@@ -176,7 +176,7 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d4218d51d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note if you don’t find  Legacy USB Support in BIOS, it is possible that the BIOS does not provide this option and this solution does not work for you. If you are still not sure how to do this, contact the PC manufacturer for further assistance.
@@ -200,24 +200,16 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>[New] In 2024, Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-seamlessly-navigating-ifunnys-meme-space-for-2024/"><u>[New] Seamlessly Navigating iFunny's Meme Space for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-visual-alchemy-compact-set-of-best-afx-samples-for-free/"><u>[New] Visual Alchemy Compact Set of Best AFX Samples for Free</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs-for-2024/"><u>[Updated] Unleash Your Potential Detailed Guide for PS4 Recordings with OBS for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capture-life-in-motion-using-ipad-filming-techniques/"><u>Capture Life in Motion Using iPad Filming Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-resolve-lack-of-sound-device-in-windows-10-or-11/"><u>Effective Ways to Resolve Lack of Sound Device in Windows 10 or 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-techniques-for-repairing-a-broken-camera-on-your-lenovo-device/"><u>Expert Techniques for Repairing a Broken Camera on Your Lenovo Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-dota-2-change-rendering-api-error-code-2024-in-minutes/"><u>Fix Your Dota 2 'Change Rendering API' Error Code 2024 in Minutes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-recurring-problems-with-unrecognized-external-devices-on-pc-expert-advice/"><u>Fixing Recurring Problems with Unrecognized External Devices on PC – Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-total-war-rome-remastered-game-crashes-complete-solution/"><u>Fixing Total War: Rome Remastered Game Crashes – Complete Solution</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c67-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme C67 4G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-dilemma-when-skype-microphone-fails-to-work/"><u>Resolving the Dilemma: When Skype Microphone Fails to Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-why-your-wd-my-passport-ultra-may-not-appear-on-windows/"><u>Resolving the Issue: Why Your WD My Passport Ultra May Not Appear on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-overcoming-chrome-obstacles/"><u>Seamless Gaming Experience: Overcoming Chrome Obstacles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-non-functional-scroll-wheel-issues-on-synaptics-trackpads-post-windows-11-update/"><u>Solving Non-Functional Scroll Wheel Issues on Synaptics Trackpads Post-Windows 11 Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-restoring-healthy-file-integrity-for-windows-11-systems/"><u>Step-by-Step Tutorial: Restoring Healthy File Integrity for Windows 11 Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-realme-11-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Realme 11 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-your-ultimate-fan-experience-with-applesports-a-complimentary-mobile-app/"><u>Unlock Your Ultimate Fan Experience with AppleSports - A Complimentary Mobile App!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-stop-video-preview-on-all-platforms-with-yt/"><u>[Updated] 2024 Approved Stop Video Preview on All Platforms with YT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-giggle-garage-gratuitous-tools-to-tickle-your-brain/"><u>[Updated] Giggle Garage Gratuitous Tools to Tickle Your Brain</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-aif-gratis-a-linea-con-movavi-sin-problemas/"><u>Cómo Convertir Archivos AIF Gratis a Línea Con Movavi Sin Problemas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-sin-coste-transforma-tu-vob-directamente-en-mjpeg-usando-el-servicio-web-de-movavi/"><u>Conversión Sin Coste: Transforma Tu VOB Directamente en MJPEG Usando El Servicio Web De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descubre-el-secreto-del-redimensionador-para-imagenes-eficaz-que-cambia-tamano-a-todas-tus-fotos-juntos/"><u>Descubre El Secreto Del Redimensionador Para Imágenes Eficaz Que Cambia Tamaño a Todas Tus Fotos Juntos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-file-transformation-by-movavi-download-and-upload-for-free-from-3gp-to-mov-converter/"><u>Easy File Transformation by Movavi: Download and Upload for Free - From 3GP to MOV Converter</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-vivo-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Vivo with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-vip-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30 VIP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/passo-a-passo-para-fazer-clipes-de-aulas-com-o-vlc-um-manual-detalhado/"><u>Passo a Passo Para Fazer Clipes De Aulas Com O VLC - Um Manual Detalhado</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wat-het-zijn-en-de-procedure-voor-vervolg-te-laten-van-een-storyboard-uitgebreide-7-stappenverklaring/"><u>Wat Het Zijn En De Procedure Voor Vervolg Te Laten Van Een Storyboard: Uitgebreide 7-Stappenverklaring</u></a></li>
 </ul></div>
 

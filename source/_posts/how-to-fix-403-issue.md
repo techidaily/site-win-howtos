@@ -1,7 +1,7 @@
 ---
 title: How to Fix 403 Issue
-date: 2024-08-28T00:23:17.441Z
-updated: 2024-08-29T00:23:17.441Z
+date: 2025-01-23T17:52:47.084Z
+updated: 2025-01-25T18:10:06.279Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6bc5e95188.jpg)
 
  If you run into the **Astro A40** **mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
 
@@ -43,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -60,9 +61,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -72,27 +70,28 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
@@ -112,8 +111,9 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
@@ -141,8 +141,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +148,20 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-soundwaves-flow-into-imovie-effortlessly/"><u>[New] In 2024, YouTube Soundwaves Flow Into iMovie Effortlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-leveraging-screencastifys-advanced-features/"><u>[New] Leveraging Screencastify's Advanced Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-wrapping-the-world-in-one-frame-not-two-sides-for-2024/"><u>[New] Wrapping the World in One Frame, Not Two Sides for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-visibility-with-youtube-branding-techniques/"><u>[Updated] 2024 Approved Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-harness-the-art-of-visual-storytelling-on-snapchat/"><u>2024 Approved Harness the Art of Visual Storytelling on Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-correcting-app-start-up-error-error-code-0xc000007b/"><u>Comprehensive Guide to Correcting App Start-Up Error [Error Code 0xC000007B]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-oven-to-screen-cooking-videos-unveiled/"><u>From Oven to Screen Cooking Videos Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-huion-stylus-working-again-5-rapid-repair-techniques/"><u>Get Your Huion Stylus Working Again: 5 Rapid Repair Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-restoring-healthy-system-files-for-your-windows-11-device/"><u>Mastering the Art of Restoring Healthy System Files for Your Windows 11 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-a-step-by-step-guide-to-fixing-google-chromes-black-screen-dilemma/"><u>Resolving the Issue: A Step-by-Step Guide to Fixing Google Chrome's Black Screen Dilemma</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-accessing-the-windows-control-panel-tips-and-tricks-by-yl-computing/"><u>Step-by-Step Guide: Accessing the Windows Control Panel - Tips & Tricks by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tips-for-addressing-spikes-in-cpu-usage-due-to-windows-audio-graph-component/"><u>Tips for Addressing Spikes in CPU Usage Due to Windows Audio Graph Component</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-warframe-game-updates-that-wont-install/"><u>Troubleshooting Tips: Fixing 'Warframe' Game Updates That Won't Install</u></a></li>
+</ul></div>
 

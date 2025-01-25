@@ -1,7 +1,7 @@
 ---
 title: "Unstuck From Sticky Keys: Restoring Backspace Key Functionality"
-date: 2025-01-17T17:40:46.130Z
-updated: 2025-01-19T17:20:41.364Z
+date: 2025-01-21T18:41:15.756Z
+updated: 2025-01-25T17:23:15.986Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -39,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -69,19 +69,15 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
@@ -105,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -118,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 1. On your keyboard, press the**Windows logo key + Ctrl + O** at the same time to turn on the**On-Screen Keyboard** .
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
 
@@ -131,11 +127,15 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
@@ -148,12 +148,12 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -176,22 +176,22 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-mastering-youtube-shorts-key-facts/"><u>[New] 2024 Approved Mastering YouTube Shorts Key Facts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-navigating-your-phones-podcast-landscape-for-2024/"><u>[New] Navigating Your Phone's Podcast Landscape for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-achieve-balance-in-visuals-through-aspect-choices/"><u>2024 Approved Achieve Balance in Visuals Through Aspect Choices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/disrupting-high-cpu-usage-in-windows-11/"><u>Disrupting High CPU Usage in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dissecting-the-oneplus-9-a-critical-performance-assessment/"><u>Dissecting the OnePlus 9: A Critical Performance Assessment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-for-endless-load-time-in-valorant-get-back-into-battle/"><u>Fixes for Endless Load Time in Valorant - Get Back Into Battle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-android-phone-not-powering-up-despite-being-connected-to-charger/"><u>Fixing Android Phone Not Powering Up Despite Being Connected to Charger</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-shortcuts-in-windows-10-a-step-by-step-guide/"><u>How to Restore Vanished Desktop Shortcuts in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-charging-issues-on-your-pc-with-windows-os-version-7-and-10/"><u>How to Solve Charging Issues on Your PC with Windows OS (Version 7 and 10)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/image-alchemy-converting-ordinary-into-extraordinary/"><u>Image Alchemy Converting Ordinary Into Extraordinary</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477366152-navigating-iphone-13-difficulties-discover-these-6-and-their-quick-fixes/"><u>Navigating iPhone 13 Difficulties? Discover These 6 & Their Quick Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-your-microsoft-stores-local-cache-on-windows/"><u>Resolving Issues with Your Microsoft Store's Local Cache on Windows</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/simplifying-canon-printer-wireless-connection/"><u>Simplifying Canon Printer Wireless Connection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-overcoming-common-software-stoppages-effectively/"><u>Solution Found: Overcoming Common Software Stoppages Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/sounds-of-silence-mute-non-interactive-apps/"><u>Sounds of Silence: Mute Non-Interactive Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/stabilizing-your-gameplay-overcoming-pc-collapses-in-formula-one-2021/"><u>Stabilizing Your Gameplay: Overcoming PC Collapses in Formula One 2021</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-eliminating-obs-game-capture-black-screen-glitch/"><u>Ultimate Solution: Eliminating OBS Game Capture Black Screen Glitch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-enhanced-viewing-experience-apply-filters-on-videos/"><u>[New] 2024 Approved Enhanced Viewing Experience Apply Filters on Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-perfect-timeline-control-with-top-20-tweet-management-apps/"><u>[New] Perfect Timeline Control with Top 20 Tweet Management Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-monetization-changes-500-subscribers-now-eligible-for-2024/"><u>[New] YouTube Monetization Changes 500 Subscribers Now Eligible for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-framework-for-fullscreen-proficiency-in-premiere/"><u>[Updated] 2024 Approved The Ultimate Framework for Fullscreen Proficiency in Premiere</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>2024 Approved Tips to Develop Captivating Vlogs A Scriptwriting Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-mpegwav/"><u>立即無限制下載Movavi MPEG到WAV格式的自由轉換工具 - 在線上</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavimpegwav/"><u>隨時隨地利用Movavi網路轉化器，讓MPEG音效迅速成功轉WAV形式免費下載</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/balancing-cloud-space-and-local-memories-how-to-delete-photos-from-icloud-without-losing-them-on-your-iphone/"><u>Balancing Cloud Space & Local Memories: How to Delete Photos From iCloud Without Losing Them on Your iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/exploring-ntsc-versus-pal-standards-identifying-advantages-and-variations/"><u>Exploring NTSC versus PAL Standards – Identifying Advantages and Variations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-swf-to-wav-format-by-movavi-start-immediately/"><u>Free Online Converter: SWF to WAV Format by Movavi - Start Immediately!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-converter-online-para-wmv-em-aac-com-o-movavi/"><u>Gratuito: Converter Online Para WMV Em AAC Com O Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c32-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia C32 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-your-game-from-freezing-fixing-metro-exodus-on-pcs-step-by-step/"><u>How to Stop Your Game From Freezing? Fixing Metro Exodus on PCs Step by Step</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-diy-guide-for-building-powerful-youtube-ad-videos/"><u>In 2024, The Ultimate DIY Guide for Building Powerful YouTube Ad Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-versus-mkv-detailed-insights-for-selecting-your-preferred-video-codec-and-container/"><u>MP4 versus MKV: Detailed Insights for Selecting Your Preferred Video Codec and Container</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-ferramentas-de-animacao-livres-mais-inovadoras-em-2024-acelerando-o-design-de-animes/"><u>Top 12 Ferramentas De Animação Livres Mais Inovadoras Em 2024 - Acelerando O Design De Animês</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-8-calidad-gratis-streaming-sites-para-ver-television-movavi/"><u>Top 8 Calidad Gratis Streaming Sites Para Ver Televisión - Movavi</u></a></li>
 </ul></div>
 

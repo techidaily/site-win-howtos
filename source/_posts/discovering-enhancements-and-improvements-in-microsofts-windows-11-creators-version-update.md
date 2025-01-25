@@ -1,7 +1,7 @@
 ---
 title: Discovering Enhancements and Improvements in Microsoft’s Windows 11 Creator’s Version Update
-date: 2024-08-28T00:17:58.929Z
-updated: 2024-08-29T00:17:58.929Z
+date: 2025-01-22T16:16:15.181Z
+updated: 2025-01-25T17:22:42.376Z
 tags:
   - excel
 categories:
@@ -54,6 +54,10 @@ Related: [Should You Use the Windows 10 Insider Previews?](https://win11.techida
 
 ![img_5810fbda76f77](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/img_5810fbda76f77.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [Oculus Rift vs. HTC Vive: Which VR Headset Is Right for You?](https://facebook-video-footage.techidaily.com/new-audio-perfection-achieved-expert-tips-without-a-microphone-for-2024/) 
 
  Mixed Reality---which includes Augmented Reality, Virtual Reality, and Holographic computing, according to Microsoft---is another big focus. "Windows Mixed Reality" is the new name for "Windows Holographic", and it works hand in hand with the 3D support. Microsoft's own [HoloLens headset](https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-note-50-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/), for example, is a mixed reality headset. It allows you to see through the headset to the real world, and digital images are superimposed on that image of the real world.
@@ -66,9 +70,6 @@ Related: [Oculus Rift vs. HTC Vive: Which VR Headset Is Right for You?](https://
 
 ![img_5810ff576d10c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/img_5810ff576d10c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Most excitingly, though: Microsoft is partnering with Acer, Asus, Dell, HP, and Lenovo to create mainstream mixed reality headsets. They'll work without any additional tracking hardware that needs to be placed in the room. "Zero need for a separate room. Zero need for a complicated setup", as Microsoft put it. These headsets will include cameras so they're capable of mixed reality---think Pokémon Go, but in a headset. Best of all, headset prices will start at $299, so they'll be much more affordable than Microsoft's own $3000 HoloLens hardware. They're also much cheaper than [the Oculus Rift and HTC Vive](https://facebook-video-footage.techidaily.com/new-audio-perfection-achieved-expert-tips-without-a-microphone-for-2024/) virtual reality headsets, which start at $599 and $799, respectively.
 
  These headsets won't need a very expensive PC, either. The minimum specifications are much lower than what an Oculus Rift or HTC Vive requires. These headsets will even work with Intel integrated graphics, as long as you have the Kaby Lake series of Intel graphics or newer. Here are the minimum specs Microsoft [announced](http://thenextweb.com/microsoft/2016/12/08/microsoft-unveils-surprisingly-low-spec-requirements-vr-window-holographic/):
@@ -84,12 +85,13 @@ Related: [Oculus Rift vs. HTC Vive: Which VR Headset Is Right for You?](https://
 
  Windows 10 now includes a new "Mixed Reality" icon on the main page of the Settings app to manage settings for virtual reality and augmented reality devices, too. There's also a new "Mixed Reality Portal" application included with Windows 10\. This application provides a demo of Windows 10's Mixed Reality features.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  Night Light
 
 ![img_58a366100131d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/02/img_58a366100131d.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows 10 now has a "Night Light" feature, which was known as "Blue Light" in earlier builds of the Creators Update.
 
@@ -101,9 +103,6 @@ Related: [Oculus Rift vs. HTC Vive: Which VR Headset Is Right for You?](https://
 
 ![img_58a361b908ae4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/02/img_58a361b908ae4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows 10 is gaining a "Game Mode" that claims to improve the performance of games using both Microsoft's new UWP (Windows Store) application platform and older Win32 (desktop) application platform.
 
  To enable Game Mode, open the Game Bar by pressing Windows+G while in a game. Click the settings icon on the Game Bar and check the "Use Game Mode for this game" option.
@@ -113,16 +112,17 @@ Related: [Oculus Rift vs. HTC Vive: Which VR Headset Is Right for You?](https://
  These features are now much more accessible, too. Gaming related settings are now available at Settings > Gaming. You no longer have to open the Xbox app and sign in with a Microsoft account to [disable the Game Bar or Game DVR features](https://extra-tips.techidaily.com/updated-adding-accurate-dates-to-photographic-records/).
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Game Broadcasting for Windows 10 and Xbox One
 
 ![img_5810fd2959d8f](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/img_5810fd2959d8f.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](https://tech-recovery.techidaily.com/guide-to-diagnose-and-repair-when-system-search-cant-locate-mss32dll/) 
 
 [Microsoft's Game DVR feature](https://tech-recovery.techidaily.com/guide-to-diagnose-and-repair-when-system-search-cant-locate-mss32dll/), which already can record a video of your gameplay in the background and upload it to social services, is gaining a "Broadcast" button. It'll be able to stream your gameplay to Xbox Live in real time, and your Xbox Live friends will receive a notification that you're broadcasting. This will be built into both the Xbox One and Windows 10 PCs. It's powered by Beam, a service Microsoft purchased in August.
@@ -133,18 +133,6 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 
 ![img_585712e7aed99](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/img_585712e7aed99.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Augmented reality and broadcasting aren't the only gaming improvements arriving with Windows 10.
 
  Microsoft is partnering with Dolby to bring Doly Atmos positional sound to PC and Xbox One. You don't even need hardware that supports Atmos---Windows 10 will allow you to create virtual Dolby Atmos positional sound with "virtually any pair of headphones". [Microsoft's blog post](http://news.xbox.com/2016/12/14/dolby-atmos-xbox-one-windows-10/) uses Overwatch as an example, promising a tactical advantage when you can more easily hear where other characters are in the game world.
@@ -163,9 +151,6 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 
 ![img_58754c102f274](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/img_58754c102f274.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  Edge now offers a tab preview bar that shows you a visual preview of every tab you have open. Click the little down arrow icon to the right of your tabs to view it. It looks a little similar to the tab bar in Windows 8's "Modern" version of Internet Explorer. Another new tab management feature allows you to "set tabs aside" for later and view tabs you've set aside and even "Share" them to other apps on your PC. Two new buttons for this are located at the left side of the tab bar.
 
  Microsoft Edge has always been a multi-process web browser, but Microsoft redesigned its architecture. Long story short, Edge should be more stable, more responsive to input, and more resistant to slow or frozen web pages.
@@ -183,6 +168,10 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 ##  New Cortana Features
 
 ![img_5857384a51107](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/img_5857384a51107.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft's virtual assistant knows some new [voice commands](https://youtube-lab.techidaily.com/024-approved-learn-youtube-editing-tricks-for-flawless-shortening/) in the Creator's Update. Cortana can now turn off your computer, restart your PC, lock your screen, or put it to sleep with just a voice command. It can also raise or lower your system volume. Cortana now supports voice playback controls for the iHeartRadio and TuneIn apps. You can also ask Cortana what song is playing, and it will tell you.
 
@@ -202,16 +191,10 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 
  There's also a feature that appears to allow unlocking your PC with a phone. Perhaps you'll be able to use a phone running the Cortana app along with [Windows Hello](https://facebook-clips.techidaily.com/2024-approved-maximizing-tv-viewership-for-facebook-live-events/) to unlock your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  More Control Over Windows Update (Mostly)
 
 ![img_587575de8b86a](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/img_587575de8b86a.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows Update will see some huge changes, with Microsoft adding options many Windows users have been begging for.
 
  You can now pause updates for up to 35 days. You'll find this option at Settings > Update & Security > Windows Update > Advanced Options > Pause Updates. This setting is only available on the Professional, Enterprise, and Education editions of Windows 10---not Windows 10 Home.
@@ -241,8 +224,9 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 ![img_5857379e33f31](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/img_5857379e33f31.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Only the geekiest of Windows users will notice these new features:
 
 * **A Location Bar in the Registry Editor**: [The Registry Editor](https://fox-boxes.techidaily.com/updated-2024-approved-elevating-media-output-xml-to-text-to-speech-srt-format/) finally includes a location bar, allowing you to easily copy-paste addresses rather than being forced to painstakingly navigate to them.
@@ -259,12 +243,13 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 * **Windows Hello for Active Directory**: Organizations that use an on-premises Active Directory will now be able to [use Windows Hello](https://facebook-clips.techidaily.com/2024-approved-maximizing-tv-viewership-for-facebook-live-events/) to unlock their PCs, if they like.
 * **Green Screen of Death**: If you're using an Insider build of Windows 10 and Windows crashes, you'll now see a "Green Screen of Death" instead of the usual blue screen of death. This helps identify that the problem may have occured because you were using an Insider build of Windows with bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Other New Features
 
 ![img_58573944e9716](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/img_58573944e9716.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Creators update includes a variety of other important features:
 
@@ -276,9 +261,6 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 
 ![img_58a368d35b06d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/02/img_58a368d35b06d.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **Storage Sense**: Windows 10 can now automatically free up disk space, although this feature is off by default. Enable the Storage Sense feature under Settings > System > Storage and Windows will automatically erase your temporary files and empty your recycle bin to free up space.
 * **Dynamic Lock**: Windows 10 can now automatically lock your PC when you step away. Pair a Bluetooth-enabled phone and enable Dynamic Lock under Settings > Accounts > Sign-in Options. If you step away from your PC for 30 seconds and take the phone with you, Windows will automatically lock your PC. Microsoft's blog post says this is for "Bluetooth phones", but it appears it may work with other devices, like Bluetooth-enabled wristbands.
 * **Troubleshooters in the Settings App**: The [troubleshooters built into Windows](https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-play-40c-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/) can find and automatically fix common system problems. They're now accessible at Settings > Update & security > Troubleshoot.
@@ -299,8 +281,9 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 ![img_587551d009dc0](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/img_587551d009dc0.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * **Start Menu Folders**: Windows 10 now allows you to group the tiles on your Start menu into folders. Drag and drop a tile onto another tile to create a tile folder that can contain two or more tiles. Click or tap the tile folder and it will expand to display its contents.
 * **Start Menu Customization**: A new option at Settings > Personalization > Start allows you to hide the All Apps list, which always appears at the left side of the Start menu in the Anniversary Update.
 * **More Interface Color Options**: The Personalization screen now has a color picker, allowing you to choose any interface and [window title bar color](https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-12r-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/). On the earlier versions of Windows 10, you can just select from a handful of available colors. It also shows a list of recent colors, so you can quickly choose between your favorite colors.
@@ -308,6 +291,10 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 * **Smoother Window Resizing**: It's minor, but Microsoft has improved performance when resizing application windows so it will look smoother. This applies to both new UWP apps and desktop applications---but only desktop applications that use the Windows Graphics Device Interface, or GDI.
 
 ![img_587571deae2ca](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/img_587571deae2ca.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Theme Management**: You can now manage and select desktop themes from Settings > Personalization > Themes. This previously required the Control Panel. Themes are now [available in the Windows Store](http://aka.ms/themesinstore), too.
 * **Desktop Icon Placement Improvements**: Windows now more intelligently rearranges and scales desktop icons when you switch between different monitors and scaling settings, seeking to preserve your custom icon layout rather than scrambling them.
@@ -317,14 +304,15 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 
 ![img_585739d2eda33](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/img_585739d2eda33.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * **Office Hub**: There's a new version of [the "Get Office" app](https://win11-tips.techidaily.com/unraveling-issues-from-a-recent-windows-system-upgrade/), which originally just pointed you at the Office 365 website. Get Office 2.0, also known as "Office Hub", is much more capable. This app still guides you through how to sign up to [Office 365](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-huawei-nova-y71-drfone-by-drfone-virtual/), but it also provides direct download links for Office applications, a list of Office documents you've recently used, and other useful features.
 * **Photos App Improvements**: Keeping with the "Creators Update" theme, Microsoft is [improving the Photos app](https://blogs.windows.com/windowsexperience/2016/12/13/new-features-arrive-microsoft-photos-windows-10/). You can now use a stylus or your finger on a touchscreen to draw directly on your photos or videos. Write on a video and what you've scribbled will appear when you get to that place in the video. The Photos app offers a new set of filters and redesigned editing interface for better photo editing, too. Microsoft is also releasing a Photos app for the Xbox One, so you can view those same photos in your living room. There's also a new light theme for the app, so you don't have to use the old dark theme if you'd prefer a brighter look.
 * **Sticky Notes Insights**: The Sticky Notes app offers [more "Insights"](https://blogs.windows.com/windowsexperience/2016/11/09/announcing-windows-10-insider-preview-build-14965-for-mobile-and-pc/). For example, it can detect stocks, flights numbers, email addresses, web addresses, phone numbers, and times and automatically provide more information. This now works for many more languages. Sticky Notes also received various performance, reliability, and interface improvements.
 
 ![img_58a35f3e9e0a8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/02/img_58a35f3e9e0a8.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Books in the Windows Store**: The Windows Store now offers eBooks in a "Books" section that appears alongside Apps, Games, Music, and Movies & TV at the top of the Store window. Windows 10 doesn't contain an eBook reader app, however, so these eBooks open in Microsoft Edge after you buy them. Tap the menu button in Edge and you'll see a new eBook library section alongside your favorites, downloads, and history. Edge can also read eBooks aloud.
 * **Windows Ink Improvements**: [Windows Ink](https://techidaily.com/is-your-itel-p55-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/), introduced in the Anniversary Update, has seen quite a bit of polish. Screen sketches can now be resumed and the cursor will be hidden while you're drawing on the screen. A new rounded protractor combines the protector and compass into a single tool, making it easier to draw a complete circle or an arc. The protractor can be resized with a two-finger pinch. The ruler also shows the numerical value of the angle it's positioned at. You can now erase only parts of an ink stroke. The pen, pencil, and highlighter control menu now visually indicates which colors you have selected.
@@ -333,9 +321,6 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 
  As usual, there are many other smaller changes and bug fixes. We'll keep watching the Insider Preview builds and updating this post as Microsoft adds more new features.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Missing in Action: Promised Features That Have Vanished
 
 ![img_5810fe151d834](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/10/img_5810fe151d834.jpg) 
@@ -351,9 +336,6 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
 
 ![img_587546973d817](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/img_587546973d817.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We know about some other features that Microsoft is working on, but which won't be ready for the Creators Update. These features are slated for "Redstone 3", the next update after the Creators Update (which is codenamed "Redstone 2").
 
 * **Full Office in the Windows Store**: Microsoft will reportedly bring the full Microsoft Office suite to the Windows Store via the [desktop app converter](https://instagram-video-recordings.techidaily.com/new-in-2024-quick-and-simple-instagram-plus-facebook-integration-tips/) sometime after the release of the Creators Update. As part of this, Microsoft will shift its focus away from the Office Mobile UWP apps for desktop PCs, which are currently available in the Windows Store. This news comes from [MSPowerUser](https://mspoweruser.com/microsoft-bringing-full-office-suite-windows-store/).
@@ -373,8 +355,6 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -382,4 +362,20 @@ Related: [How to Record PC Gameplay With Windows 10’s Game DVR and Game Bar](h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-lens-legends-best-video-cameras-for-professional-use/"><u>[New] In 2024, Lens Legends Best Video Cameras for Professional Use</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-art-of-speech-interpretation-via-googles-technology-for-2024/"><u>[Updated] The Art of Speech Interpretation via Google's Technology for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/10-freepaid-luts-for-canon-camera-for-2024/"><u>10 Free/Paid LUTs for Canon Camera for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-android-tips-flipping-video-images/"><u>2024 Approved Android Tips Flipping Video Images</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/explore-the-hd-landscape-youtube-twitters-and-more/"><u>Explore the HD Landscape YouTube, Twitters, and More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-elite-selection-of-2023s-premier-macos-utilities-insights/"><u>Exploring the Elite Selection of 2023'S Premier macOS Utilities - Insights</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-x100-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo X100 Pro FRP Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-freezes-and-lag-a-step-by-step-guide-to-a-smooth-file-explorer-on-windows/"><u>Overcoming Freezes and Lag: A Step-by-Step Guide to a Smooth File Explorer on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-display-flicker-problems-in-windows-10-operating-system/"><u>Resolving Display Flicker Problems in Windows 10 Operating System</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-access-periscope-on-desktop-for-real-time-broadcasts/"><u>Step-by-Step Guide: Access Periscope on Desktop for Real-Time Broadcasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-desktop-icons-on-windows-11-solved/"><u>Troubleshooting Missing Desktop Icons on Windows 11 – Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-update-failure-cracking-the-0xc1900208-barrier-a-comprehensive-fix/"><u>Windows 10 Update Failure - Cracking the 0xC1900208 Barrier: A Comprehensive Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208232763-windows-11-file-explorer-guide-enhance-your-organization-and-efficiency-skills/"><u>Windows 11 File Explorer Guide: Enhance Your Organization & Efficiency Skills</u></a></li>
+</ul></div>
 

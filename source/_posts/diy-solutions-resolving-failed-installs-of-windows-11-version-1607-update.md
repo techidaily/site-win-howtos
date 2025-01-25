@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions: Resolving Failed Installs of Windows 11 Version 1607 Update"
-date: 2025-01-15T17:25:38.829Z
-updated: 2025-01-19T18:09:27.495Z
+date: 2025-01-21T17:35:35.450Z
+updated: 2025-01-25T17:20:47.668Z
 tags:
   - win11
   - win10
@@ -34,9 +34,17 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
@@ -45,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -58,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -127,19 +127,11 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -148,19 +140,23 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -169,6 +165,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -225,22 +225,18 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-innovate-or-stagnate-the-must-know-fb-ad-trends-for-24/"><u>[New] 2024 Approved Innovate or Stagnate – The Must-Know FB Ad Trends for '24</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-obs-toolkit-for-flawless-instagram-streams/"><u>[New] In 2024, The Complete OBS Toolkit for Flawless Instagram Streams</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-x100-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo X100 Pro</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/sionary-beauticians-poised-success-for-2024/"><u>10 Visionary Beauticians Poised Success for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-street-saga-best-gaming-matches-to-gta-v/"><u>2024 Approved Street Saga Best Gaming Matches to GTA V</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-crash-gameplay-of-oddworld-soulstorm-on-pc-issues-resolved/"><u>Beat the Crash Gameplay of Oddworld: Soulstorm on PC [Issues Resolved]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/controlling-metrics-on-your-windows-11-wifi-networks/"><u>Controlling Metrics on Your Windows 11 Wifi Networks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-msdia80dll-why-its-essential-and-how-to-handle-it/"><u>Deciphering msdia80.dll: Why It's Essential and How to Handle It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-cwindowssystemprofiledesktop-not-available-error/"><u>How to Overcome the C: Windows SystemProfile Desktop Not Available Error</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to Android? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-the-notorious-stop-error-0xc0000005-in-microsoft-windows-systems/"><u>Master the Fix for the Notorious 'STOP' Error 0xC0000005 in Microsoft Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-interruptions-ultimate-guide-to-stop-buffering-in-kodi/"><u>No More Interruptions: Ultimate Guide to Stop Buffering in Kodi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/smooth-sailing-post-nvidia-installer-troubles/"><u>Smooth Sailing Post-NVIDIA Installer Troubles</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-12-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Realme 12 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-to-stop-screen-tearing-while-playing-valorant/"><u>Troubleshooting and Fixes to Stop Screen Tearing While Playing VALORANT</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fix-shift-plus-windows-key-shortcut-issues-on-windows-1011/"><u>Troubleshooting Guide: Fix 'Shift + Windows Key' Shortcut Issues on Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-is-my-ps4-so-loud-uncovering-reasons-and-implementing-solutions-for-quieter-gameplay/"><u>Why Is My PS4 So Loud? Uncovering Reasons and Implementing Solutions for Quieter Gameplay</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-live-to-legacy-preserving-facebook-events/"><u>[Updated] From Live to Legacy Preserving Facebook Events</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads-for-2024/"><u>[Updated] Nifty Steps to Generate Timely Captions and Text for FB Video Uploads for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chuckle-craft-ranking-the-top-10-memes-by-wow-factor/"><u>2024 Approved Chuckle Craft Ranking the Top 10 Memes by Wow Factor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726223732738-f4vflv-movavi/"><u>無料で高速F4VおよびFLV動画形式の安全なオンライン変換 - Movavi 利用方法ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-libre-en-ligne-convertissez-votre-fichier-qt-en-mp3-a-laide-de-la-solution-movavi/"><u>Conversion Libre en Ligne : Convertissez Votre Fichier QT en MP3 À L'aide De La Solution Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/data-protection-during-sd-card-reformatting-expert-tips-for-windows-users/"><u>Data Protection During SD Card Reformatting: Expert Tips for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-tga-images-into-editable-gif-format-movavi/"><u>Free Online Converter: Transform TGA Images Into Editable GIF Format - Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-150-2023-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia 150 (2023) to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pokud-chcete-vice-zisk-5-nahrobku-konvalentu-vide-na-macos/"><u>Pokud Chcete Více Zisk - 5 Náhrobků Konvalentu Vide Na macOS</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-15-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 15 Plus | Stellar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-compact-battery-stations-comprehensive-testing-and-reviews-by-tech-experts-pcmag/"><u>Top-Rated Compact Battery Stations : Comprehensive Testing & Reviews by Tech Experts | PCMag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-audiolibri-m4a-in-mp3m4b-via-web-scopri-il-metodo-di-conversione-libero/"><u>Trasforma I Tuoi Audiolibri M4A in MP3/M4B Via Web: Scopri Il Metodo Di Conversione Libero!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-master-list-of-prime-audio-time-reverse-software-ranked-for-desktop-laptop-and-smartphone-use-for-2024/"><u>Updated Master List of Prime Audio Time-Reverse Software Ranked for Desktop, Laptop, and Smartphone Use for 2024</u></a></li>
 </ul></div>
 

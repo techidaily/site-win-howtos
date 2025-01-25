@@ -1,7 +1,7 @@
 ---
 title: Understanding and Applying Dollar Sign Notation in Excel Worksheets
-date: 2024-08-28T00:20:07.018Z
-updated: 2024-08-29T00:20:07.018Z
+date: 2025-01-23T17:27:31.465Z
+updated: 2025-01-25T18:34:29.181Z
 tags:
   - excel
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Use Mixed References in Excel](https://screen-mirror.techidaily.com/how-realme-note-50-mirror-screen-to-pc-drfone-by-drfone-android/)
 * [How to Switch Between Different Types of Cell References in Excel](https://visual-screen-recording.techidaily.com/in-2024-capturing-clarity-a-look-at-screensnapelite/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Excel cell references can be relative, absolute, or mixed to achieve specific outcomes in formulas.
@@ -27,9 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  When dealing with lots of data in Excel, you can use relative, absolute, or mixed references to save repetitive manual work, ensure your formulas work correctly, and capture large volumes of data in just a few quick actions. Let's explore how to use these Excel reference types.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Are Excel Cell References?
 
  You use a cell reference when you want to capture information that is contained within another cell or range of cells. For example, the following formula references cells A1 and A2, and will add their contents together to produce a result.
@@ -63,8 +64,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Microsoft Excel sheet containing all results for each month after using relative referencing and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/relative-autofilled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As you can see here, the formula in cell H11 is:
 
 =SUM(E11+E21+E31)
@@ -106,11 +108,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Microsoft Excel sheet containing all results for each employee after using absolute referencing and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/absolute-autofilled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  How to Use Mixed References in Excel
 
  There may be occasions when you need to lock the row but not the column within your formula, or vice versa. For example, in this case, the accountant wants to work out how much tax each employee has to pay based on their individual tax rates.
@@ -118,8 +118,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Microsoft Excel sheet showing data relating to several employees and blank 'tax payable' tables where their total tax bill will be calculated using mixed references.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/mixed-blank-results.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Therefore, we need to lock the values in column E (the tax rates), but not the rows, as they are different for each employee, and not the references to the years, as they need to be adaptable.
 
  Click the cell where you want the first calculation to be made (in this case, cell G2) and input your formula. In the example above, the accountant wants to begin by working out Arjun's 2021 tax payable, so they would type the following formula:
@@ -134,24 +135,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Microsoft Excel sheet showing the formula and result after mixed referencing has been applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/mixed-first-formula.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We can now use the AutoFill function to complete Arjun's tax payable totals, knowing that column E will remain locked in our calculations, whilst the totals for each year will move relative to where the formula is placed.
 
 ![Microsoft Excel sheet containing all results for Arjun after using mixed referencing and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/mixed-autofilled-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Because we have locked column E but left the rows relative within our formula, we can confidently complete the remaining employees' totals based on their individual tax rates. Remember, you can click any cell within your results and see the formula in the formula bar to check the correct cells are referenced.
 
 ![Microsoft Excel sheet containing all results for all employees after using mixed referencing and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/mixed-autofilled-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  How to Switch Between Different Types of Cell References in Excel
 
  If you want to easily toggle between relative, absolute, and mixed references in your Excel sheet, you don't need to type the dollar symbol each time. Instead, click the cell you want to amend and then, in the formula bar, click the part of the formula you want to switch (clicking directly before the reference, in the middle of the reference, or directly after the reference will work).
@@ -159,6 +158,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In this case, we want to toggle between the cell reference types for cell G11, so we need to make sure to click somewhere on or next to that cell reference.
 
 ![Excel workbook showing the formula bar and the reference to cell G11 highlighted with an arrow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/switching.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, press F4 and you will see the cell reference type change.
 
@@ -190,8 +193,6 @@ G11
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +200,16 @@ G11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-choose-folder-for-stored-mac-screenshots-for-2024/"><u>[New] Choose Folder for Stored Mac Screenshots for 2024</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/clearing-your-printers-job-queue-a-step-by-step-guide-yl-computing-solutions/"><u>Clearing Your Printer's Job Queue: A Step-by-Step Guide - YL Computing Solutions</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100i-power-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100i Power 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-waiting-successful-fixes-for-the-preparing-to-configure-windows-issue/"><u>No More Waiting: Successful Fixes for the 'Preparing to Configure Windows' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-disappearing-cursor-issue-in-windows-11s-touchpad/"><u>Solving the Disappearing Cursor Issue in Windows 11'S Touchpad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-audio-output-not-found-error-in-windows-operating-systems/"><u>Step-by-Step Solutions for the 'Audio Output Not Found' Error in Windows Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-for-mastering-video-editing-skills-and-tools/"><u>Ultimate Tutorial for Mastering Video Editing Skills and Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-how-to-fix-when-your-mouse-cursor-keeps-disappearing/"><u>Windows 11: How to Fix When Your Mouse Cursor Keeps Disappearing</u></a></li>
+</ul></div>
 

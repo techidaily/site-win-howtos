@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering Cell Splitting Techniques in Microsoft Excel"
-date: 2024-08-28T00:19:40.168Z
-updated: 2024-08-29T00:19:40.168Z
+date: 2025-01-24T16:47:43.115Z
+updated: 2025-01-25T18:40:26.861Z
 tags:
   - excel
 categories:
@@ -24,18 +24,6 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 * **[Split Cells in Excel With Flash Fill](https://hardware-tips.techidaily.com/transforming-3d-printing-industry-with-micronics-desktop-sls-printer-an-affordable-option-at-299eplus06-price-point/)**
 * **[Split Cells in Excel With Text to Columns](https://facebook-video-recording.techidaily.com/vidstreamer-for-social-platforms/)**
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Split Cells in Excel With Flash Fill
 
  A quick way to split the values in your cells into multiple cells is by using [Excel's Flash Fill feature](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/). This automatically extracts the values from your cells and puts them into separate multiple cells. To use this feature, you must be running Excel 2013 or later.
@@ -44,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
 ![Multiple values in a single cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/1-split-cell-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  First, click the C2 cell and manually type the name that appears in the B2 cell. In this case, it will be "Mahesh."
 
 ![Click the C2 cell and manually enter the first value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2-type-first-value.png) 
@@ -55,23 +40,14 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
 ![Click the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/3-excel-data-tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Data" tab, from the "Data Tools" section, select "Flash Fill."
 
 ![Select "Flash Fill" in the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/4-excel-flash-fill.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And instantly, Excel will split the names from all the B column records and add those to the C column.
 
 ![The result of Flash Fill for the first value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/5-automatic-first-value-extraction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To split the obtained marks, click the D2 cell and manually type the marks for the B2 cell. In this case, it will be "80."
 
 ![Click the D2 cell and manually enter the second value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/6-type-second-value.png) 
@@ -80,12 +56,13 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
 ![The result of Flash Fill for the second value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/7-flash-fill-second-value.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You're all set. If you're doing a lot of cell splitting, and you often have to scroll back and forth across your spreadsheet, consider using [Excel's split-screen feature](https://video-screen-grab.techidaily.com/updated-2024-approved-perfecting-sims-4-live-action-for-videographers/).
 
 Related: [How to Use Excel's Split Screen Function](https://video-screen-grab.techidaily.com/updated-2024-approved-perfecting-sims-4-live-action-for-videographers/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Split Cells in Excel With Text to Columns
 
@@ -99,20 +76,29 @@ Related: [How to Use Excel's Split Screen Function](https://video-screen-grab.te
 
 ![Select all data in the Excel spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/8-select-data.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While your cells are selected, in Excel's ribbon at the top, click the "Data" tab.
 
 ![Click the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/9-data-tab-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In the "Data" tab, from the "Data Tools" section, select the "Text to Columns" option.
 
 ![Click "Text to Columns" in the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/10-text-to-columns.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Excel will open a "Text to Columns Wizard" window. Here, choose the "Delimited" option and then click "Next" at the bottom.
 
 ![Select "Delimited" and click "Next" on the "Text to Columns Wizard" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/11-delimited-excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the next screen, in the "Delimiters" section, select the character or characters that separate the values in your cells. In our example, the values are separated by a comma and a space, so we'll enable both "Comma" and "Space" options.
 
@@ -128,21 +114,26 @@ Related: [How to Use Excel's Split Screen Function](https://video-screen-grab.te
 
 ![Click the C2 cell and then click the down-arrow icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/14-select-destination.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Back on the "Text to Columns Wizard" window, at the bottom, click "Finish."
 
 ![Click "Finish" on the "Text to Columns Wizard" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/15-finish-text-to-column.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And your single-cell values are now split into multiple cells.
 
 ![Single cell data split into multiple cells in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/16-text-to-column-result.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you've got all your data organized how you want it, you may want get insights on it using [Excel's built-in Data Analyzer tool](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/).
 
 Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/)
@@ -153,8 +144,6 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +151,24 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-easy-guide-start-audio-capture-on-windows-10/"><u>[New] 2024 Approved Easy Guide Start Audio Capture on Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-creative-potential-tips-and-tricks-for-filming-with-logitech-cam/"><u>[New] Unleash Creative Potential Tips and Tricks for Filming with Logitech Cam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-wmi-provider-host-high-cpu-usage-on-windows-1011-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 10/11 | Quickly & Easily!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-cutting-edge-techniques-for-game-capture-specialists/"><u>[Updated] Cutting-Edge Techniques for Game Capture Specialists</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-precision-in-panorama-steadying-the-gopro-sight/"><u>[Updated] In 2024, Precision in Panorama Steadying the GoPro Sight</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-benefits-of-tubebuddy-manage-your-youtube-channel/"><u>[Updated] In 2024, The Benefits of TubeBuddy | Manage Your YouTube Channel</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-essentials-of-hosting-a-zoom-event-via-android/"><u>[Updated] In 2024, The Essentials of Hosting a Zoom Event via Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-0x80070490-glitch-in-windows-update-expert-tips-and-solutions/"><u>Beating the 0X80070490 Glitch in Windows Update - Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-overcome-the-windows-update-failure-error-0x80070652/"><u>Effortless Ways to Overcome the Window's Update Failure (Error 0X80070652)</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-cloud-access-windows-drive-letters-for-dropbox-google-drive/"><u>Exploring Cloud Access: Windows Drive Letters for Dropbox, Google Drive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-expert-a-complete-guide-to-srt-creation-for-2024/"><u>From Novice to Expert A Complete Guide to SRT Creation for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-solving-error-code-0x800f0922-during-windows-11-updates-top-8-fixes/"><u>Guide to Successfully Solving Error Code 0X800f0922 During Windows 11 Updates (Top 8 Fixes)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-weak-signature-algorithm-warning-in-browsers-a-comprehensive-guide-to-resolve-neterrcertweaksignaturealgorithm-error/"><u>Overcome the Weak Signature Algorithm Warning in Browsers: A Comprehensive Guide to Resolve NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-enable-device-pairing-for-bluetooth-on-windows-11-computers/"><u>Resolved! How to Enable Device Pairing for Bluetooth on Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-rapidly-improving-your-sluggish-keyboard-reaction-time/"><u>Simple Solutions for Rapidly Improving Your Sluggish Keyboard Reaction Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-keyboard-buttons-in-windows-systems-w10w8w7-fixes/"><u>Troubleshooting Non-Functional Keyboard Buttons in Windows Systems - W10/W8/W7 Fixes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/video-perfection-a-comprehensive-strategy-for-seamless-subtitle-and-cc-integration-on-youtube/"><u>Video Perfection A Comprehensive Strategy for Seamless Subtitle & CC Integration on YouTube</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Speed Up Sluggish Keyboard Performance
-date: 2025-01-08T17:07:46.904Z
-updated: 2025-01-13T17:46:42.000Z
+date: 2025-01-24T18:34:31.019Z
+updated: 2025-01-25T16:39:01.673Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -53,6 +57,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -68,7 +76,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -76,7 +84,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -84,6 +92,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -102,10 +114,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -138,17 +146,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,24 +184,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-making-online-gaming-more-intimate-via-xbox-zoom-for-2024/"><u>[Updated] Making Online Gaming More Intimate via Xbox Zoom for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-prime-video-editors-for-youtube-enthusiasts/"><u>2024 Approved Prime Video Editors for YouTube Enthusiasts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-new-normal-for-vr-industry-insights/"><u>2024 Approved The New Normal for VR Industry Insights</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-11-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 11 How to Bypass?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-blockade-a-step-by-step-guide-to-solve-windows-10-couldnt-be-installed-error-code-aturality-80240020/"><u>Bypassing the Blockade: A Step-by-Step Guide to Solve Windows 10 Couldn't Be Installed - Error Code Aturality | 80240020</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/could-the-loss-of-d3d-devices-kill-unreal/"><u>Could the Loss of D3D Devices Kill Unreal?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhancing-link-quality-between-epson-devices/"><u>Enhancing Link Quality Between Epson Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-ce-34878-0-error-code-on-your-playstation-4-a-comprehensive-guide/"><u>How to Fix the CE-34878-0 Error Code on Your PlayStation 4: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-lost-invisible-desktop-windows-back/"><u>How To Get Your Lost, Invisible Desktop Windows Back!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-g2-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo G2 Data? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-master-the-art-of-archiving-with-these-13-key-techniques/"><u>In 2024, Master the Art of Archiving with These 13 Key Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-10-excellent-free-movie-editors-for-mov-files/"><u>New In 2024, 10 Excellent Free Movie Editors for MOV Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211775888-pubg-2024-master-the-art-of-fixing-game-launch-issues-and-start-enjoying-now/"><u>PUBG 2024: Master the Art of Fixing Game Launch Issues and Start Enjoying Now</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/solving-the-issue-of-your-xbox-ones-failure-to-read-discs-a-step-by-step-guide-updated-march-2024/"><u>Solving the Issue of Your Xbox One's Failure to Read Discs: A Step-by-Step Guide (Updated March 2024)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-future-is-here-discover-the-price-release-date-and-cutting-edge-specs-of-google-tv-streaming-device/"><u>The Future Is Here! Discover The Price, Release Date & Cutting-Edge Specs of Google TV Streaming Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transform-microsoft-windows-settings-dollar-to-euro-conversion-tutorial/"><u>Transform Microsoft Windows Settings - Dollar to Euro Conversion Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-optimize-your-computer-addressing-the-low-on-memory-warning-on-windows-10/"><u>Troubleshoot and Optimize Your Computer: Addressing the Low on Memory Warning on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-keyboard-fixing-non-working-directional-buttons/"><u>Troubleshoot Your Keyboard: Fixing Non-Working Directional Buttons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/warframe-update-issues-troubleshooting-failed-installation-errors/"><u>Warframe Update Issues - Troubleshooting Failed Installation Errors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-free-cam-screen-recorder-review-and-best-alternative/"><u>[New] 2024 Approved Free Cam Screen Recorder Review and Best Alternative</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-steps-to-saving-fb-status-video-memories/"><u>[New] Steps to Saving Fb Status Video Memories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-keeping-balance-in-the-world-of-immersive-virtuality/"><u>2024 Approved Keeping Balance in the World of Immersive Virtuality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-windows-11-v1803-update-failures-a-comprehensive-solution-guide/"><u>Bypassing Windows 11 (v1803) Update Failures: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-persistent-usb-errors-a-guide-to-fixing-device-unrecognized-messages/"><u>Eliminate Persistent USB Errors: A Guide to Fixing 'Device Unrecognized' Messages</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-deal-on-mobvoi-ticwatch-e2-cheap-price-but-how-about-quality/"><u>Exploring the Deal on Mobvoi TicWatch E2 - Cheap Price, But How About Quality?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976940966-get-the-latest-windows-7-wi-fi-driver-software-free-now/"><u>Get the Latest Windows 7 Wi-Fi Driver Software Free Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-recover-from-the-sfc-service-failure-on-your-pc/"><u>How to Successfully Recover From the Sfc Service Failure on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211140726-hp-keyboard-issue-fix-unresponsive-buttons-on-your-laptop-fast/"><u>HP Keyboard Issue? Fix Unresponsive Buttons on Your Laptop Fast</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-deathloop-gameplay-on-pc-by-fixing-stuttering-problems-strategies-revealed/"><u>Improve Your Deathloop Gameplay on PC by Fixing Stuttering Problems - Strategies Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-video-creation-on-windows-10-a-step-by-step-guide-for-2024/"><u>Mastering Video Creation on Windows 10 A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/monitor-and-source-mismatch-error-incorrect-display-timing-configuration/"><u>Monitor and Source Mismatch Error - Incorrect Display Timing Configuration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-file-explorer-freezing-issues-on-windows-10-a-complete-guide/"><u>Resolving File Explorer Freezing Issues on Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-4-methods-zum-erstellen-einer-windows-10-sicherung-auf-einem-nas-speichergerat-synology-and-qnap/"><u>Top 4 Methods Zum Erstellen Einer Windows 10 Sicherung Auf Einem NAS-Speichergerät - Synology & QNAP</u></a></li>
 </ul></div>
 

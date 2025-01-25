@@ -1,7 +1,7 @@
 ---
 title: How to Resolve a Malfunctioning Corsair Keyboard Quickly and Effectively
-date: 2025-01-14T17:41:41.380Z
-updated: 2025-01-19T20:20:36.360Z
+date: 2025-01-23T17:02:22.682Z
+updated: 2025-01-25T17:18:12.144Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -43,29 +47,17 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -74,11 +66,11 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
@@ -112,11 +104,19 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
 
@@ -153,21 +153,24 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-examining-performance-lg-bp350-screen-review/"><u>[New] 2024 Approved Examining Performance LG BP350 Screen Review</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-10-essential-tools-for-pro-ig-video-editors/"><u>[New] In 2024, Top 10 Essential Tools for Pro IG Video Editors</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-smart-8-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Smart 8 FRP</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-zoom-failures-immediate-resolution-for-error-1132/"><u>Avoiding Zoom Failures - Immediate Resolution for Error 1132</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208767616-end-irritating-cursor-blink-with-these-simple-solutions/"><u>End Irritating Cursor Blink with These Simple Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-hps-accelerometer-issues-in-windows-expert-tips-and-techniques/"><u>Fixing Your HP's Accelerometer Issues in Windows: Expert Tips and Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-requested-operation-failed-on-windows-protection-service/"><u>How to Fix 'Requested Operation Failed' On Windows Protection Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-hanging-window-10-system-step-by-step-guide/"><u>How To Fix a Hanging Window 10 System: Step-By-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-repair-a-damaged-system-registry-in-windows-expert-guide-by-yl-computing/"><u>How to Repair a Damaged System Registry in Windows - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-quickvision-w11-simple-desktop-capture-tool/"><u>In 2024, QuickVision W11 Simple Desktop Capture Tool</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/managing-system-resources-addressing-wsappxs-elevated-memory-and-cpu-usage/"><u>Managing System Resources: Addressing WSAPPX's Elevated Memory and CPU Usage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dllfetcherror-step-by-step-guide-on-handling-windows-error-code-0xc00000e9/"><u>Solving the DllFetchError: Step-by-Step Guide on Handling Windows Error Code 0xC00000E9</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-repairing-a-malfunctioning-corsair-hs50-mic/"><u>Step-by-Step Solution for Repairing a Malfunctioning Corsair HS50 Mic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-video-production-with-clear-sound-effects-for-2024/"><u>Streamlining Video Production with Clear Sound Effects for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/symphony-on-your-phone-best-tone-acquisition-websites/"><u>Symphony on Your Phone Best Tone Acquisition Websites</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-operating-system-lacks-visual-brightness-tool/"><u>Windows Operating System Lacks Visual Brightness Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unleashing-clarity-the-ultimate-video-enhancer-22-techniques/"><u>[New] 2024 Approved Unleashing Clarity The Ultimate Video Enhancer 2.2 Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-learn-to-record-high-quality-audio-with-audacity-mac-for-2024/"><u>[New] Learn to Record High-Quality Audio with Audacity, Mac for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>[Updated] 2024 Approved Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-image-improvement-masterclass-top-apps-decoded/"><u>[Updated] In 2024, Image Improvement Masterclass - Top Apps Decoded</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adding-personal-touch-the-art-of-typeface-integration-in-ae-for-2024/"><u>Adding Personal Touch The Art of Typeface Integration in AE for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-best-a-comprehensive-comparison-of-m1-vs-m2-ipad-pro-models-insights/"><u>Choosing the Best: A Comprehensive Comparison of M1 Vs. M2 iPad Pro Models Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cracking-the-silent-gameplay-of-forza-horizon-4-audiophiles-guide-to-restoring-audio/"><u>Cracking the Silent Gameplay of Forza Horizon 4: Audiophile's Guide to Restoring Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-blackout-hardware-catastrophe/"><u>Error Blackout: Hardware Catastrophe</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-stuttered-sound-problems-on-your-pc-running-windows-10-or-7/"><u>How to Resolve Stuttered Sound Problems on Your PC Running Windows 10 or 7</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-personalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>In 2024, Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-aftershokz-aeropex-exceptional-bone-conduction-audio-quality-and-enduring-power-supply-expert-review-by-techzdnet/"><u>In-Depth Analysis of the AfterShokz Aeropex: Exceptional Bone Conduction Audio Quality & Enduring Power Supply - Expert Review by TechZDNet</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-voice-in-2024/"><u>New What Is AI Voice, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-troubleshooting-guide-how-to-eliminate-error-code-0x887a0006/"><u>Quick Troubleshooting Guide: How to Eliminate Error Code 0X887A0006!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-hello-device-compatibility-issues-in-windows-11/"><u>Resolving Windows Hello Device Compatibility Issues in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-guide-to-prevent-and-repair-your-csgo-crashing-issues-fast/"><u>Simple Guide To Prevent and Repair Your CSGO Crashing Issues Fast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-netflix-how-to-identify-and-resolve-streaming-issues/"><u>Trouble with Netflix? How to Identify and Resolve Streaming Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-why-is-my-dell-laptops-keyboard-failing/"><u>Troubleshooting Fixes: Why Is My Dell Laptop's Keyboard Failing?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-uncover-your-windows-10-taskbar-no-more-hidden/"><u>Troubleshooting Tips: Uncover Your Windows 10 Taskbar (No More Hidden)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206851400-windows-update-glitch-beat-error-8007000e-now-with-simple-fixes/"><u>Windows Update Glitch? Beat Error 8007000E Now with Simple Fixes</u></a></li>
 </ul></div>
 

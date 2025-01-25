@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Converting Excel Charts to Picture Format for Easy Sharing and Editing
-date: 2024-08-28T00:19:37.863Z
-updated: 2024-08-29T00:19:37.863Z
+date: 2025-01-22T17:50:17.890Z
+updated: 2025-01-25T17:54:49.672Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Step-by-Step Tutorial on Converting Excel Charts to Picture Format for Easy Sharing and Editing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Export an Excel Chart as an Image
 
  Open your spreadsheet in Excel and right-click the chart you want to save as an image. Select "Save as Picture" from the shortcut menu.
@@ -34,12 +42,16 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
 
 ![Choose a location, name, and file type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/SaveAsPictureDialog-ExcelSaveChartImage.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Save" and your chart is now a reusable image. If you're making a presentation, you may want to [add the image to a Powerpoint presentation](https://fox-boxes.techidaily.com/simplified-steps-for-photo-motion-blur-in-photoshop/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Saving Charts as Images in Excel for the Web
 
  The above instructions work in Microsoft Excel on both Mac and Windows. Unfortunately, [Excel for the web](https://www.office.com/launch/excel) doesn't currently offer this ability. One option is to copy the chart by right-clicking and selecting "Copy," and then paste it into another application.
@@ -47,8 +59,9 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
 ![Copy a chart in Excel for the web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Copy-ExcelSaveChartImage.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the application you're using doesn't accept the chart as an image, another option is to capture a screenshot of the chart in the Excel sheet. Take a look at how to [take a screenshot on Windows 10](https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-f54-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/) or [Windows 11](https://techtrends.techidaily.com/diy-tech-support-overcoming-the-frequent-hurdles-with-your-tv/) as well as [capture a screenshot on Mac](https://youtube-tips.techidaily.com/-color-correction-for-youtube-beauty-for-2024/).
 
 <ins class="adsbygoogle"
@@ -57,8 +70,6 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,4 +77,19 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/approved-exploring-t-series-youtube-profit-strategy/"><u>2024 Approved Exploring T-Series YouTube Profit Strategy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-with-a-fisheye-lens/"><u>2024 Approved Navigating the World with a Fisheye Lens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202768284-easy-fixes-for-windows-11-pc-reset-errors-learn-how-to-resolve-them-today/"><u>Easy Fixes for Windows 11 PC Reset Errors - Learn How to Resolve Them Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-boot-guide-overcoming-slow-startups-in-windows-7-systems/"><u>Fast Boot Guide: Overcoming Slow Startups in Windows 7 Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208017909-huion-pen-issues-heres-how-to-restore-functionality-quickly/"><u>Huion Pen Issues? Here's How to Restore Functionality Quickly!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-nord-3-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Nord 3 5G Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-depth-look-at-facetune-complete-app-revision-for-2024/"><u>In-Depth Look at Facetune Complete App Revision for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/macx-pro-top-rated-mkv-to-mp4-converter-advanced-features-and-free-download/"><u>MacX Pro: Top-Rated MKV to MP4 Converter - Advanced Features and Free Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-sudden-sleep-problems-with-simple-fixes/"><u>Resolve Your PC's Sudden Sleep Problems with Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-resolving-the-serious-google-chrome-bug-alert/"><u>Step-by-Step Solution for Resolving the Serious Google Chrome Bug Alert</u></a></li>
+<li><a href="https://video-capture.techidaily.com/superior-mac-hd-recorders-with-in-built-sound-capture/"><u>Superior Mac HD Recorders with In-Built Sound Capture</u></a></li>
+</ul></div>
 

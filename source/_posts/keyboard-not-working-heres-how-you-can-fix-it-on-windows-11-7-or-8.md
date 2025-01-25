@@ -1,7 +1,7 @@
 ---
 title: Keyboard Not Working? Here's How You Can Fix It on Windows 11, 7, or 8
-date: 2024-08-23T14:10:46.353Z
-updated: 2024-08-24T14:10:46.353Z
+date: 2025-01-18T18:35:46.477Z
+updated: 2025-01-25T17:45:18.317Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 1: Try the keyboard on another computer**
 
  If the keyboard is broken, this issue would occur. If possible, use the keyboard on another computer. If it doesn’t work on another computer, the issue is caused by the keyboard. You might need to replace it with a new keyboard.
@@ -34,8 +38,9 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Method 3: Plug the keyboard to another USB port** (for USB keyboard only)
 
  The USB port that you are using may be having problem. Try plugging the keyboard to another USB port and see if the error persists.
@@ -66,13 +71,14 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-driver-scan-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a keyboard or wireless adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-driver-update-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **IMPORTANT** :[Driver Easy](https://tools.techidaily.com/drivereasy/download/) is a tool fixing any driver issues. If your Logitech keyboard not working issue is not caused by faulty drivers, Driver Easy won’t be able to fix it. If Driver Easy Pro doesn’t help you fix the problem, you can ask for a full refund. Alternatively, you can contact our technical support for further assistance. You just need to**send us the URL of this article** and the detailed information about the problem.
 
  We would try our best effort to help you fix the problem. In this case, you don’t need to spend more time on searching further solutions.
@@ -98,8 +104,9 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db5cdb2d390.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Click on**Apply** button then**OK** button.
 
 ---
@@ -116,9 +123,6 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db6655aa8f2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Change account type** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db6699eb94c.jpg)
@@ -127,16 +131,14 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db66af713c8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  5) Click**Add** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db6701387b9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then you just need to follow the on-screen instructions to create an administrator account.
 
 ---
@@ -151,8 +153,6 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +160,16 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expand-audiences-quickly-using-short-form-content/"><u>[Updated] Expand Audiences Quickly Using Short Form Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/oma-movavi/"><u>完全無料のOMAファイルオンラインコンバーター - Movaviプロジェクト</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crest-of-crafts-review-pinnacle-studio-evaluation/"><u>Crest of Crafts Review Pinnacle Studio Evaluation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/jpeg-vers-png-enligne-et-gratuit-changement-de-format-image-avec-movavi/"><u>JPEG Vers PNG: Enligne Et Gratuit Changement De Format Image Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-digital-world-a-guide-by-toms-hardware-experts/"><u>Navigating the Digital World: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-21-gratis-ip-camera-software-di-settembre-2024-revisione-comparativa-con-movavi/"><u>Top 21 Gratis IP Camera Software Di Settembre 2024 - Revisione Comparativa Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transforma-tus-dvd-en-mp4-con-estos-5-mejores-programas-soluciones-tanto-para-computadoras-como-online-recomendadas-por-movavi/"><u>Transforma Tus DVD en MP4 Con Estos 5 Mejores Programas: Soluciones Tanto Para Computadoras Como Online Recomendadas Por Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-innovations-with-toms-hardware-your-guide-to-cutting-edge-pc-components/"><u>Unveiling Innovations with Tom's Hardware - Your Guide to Cutting-Edge PC Components</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Setbacks in Windows 10 Version 1607 Upgrade Process
-date: 2025-01-07T16:29:48.874Z
-updated: 2025-01-13T16:25:21.251Z
+date: 2025-01-18T18:34:11.053Z
+updated: 2025-01-25T16:05:52.474Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -42,7 +38,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)  
@@ -51,6 +47,10 @@ Then click **Device Manager**  to open it.
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)  
 
@@ -66,7 +66,7 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -82,7 +82,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,24 +119,21 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-make-every-snap-count-with-these-top-tips/"><u>[Updated] Make Every Snap Count with These Top Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-essence-of-unaltered-audio-ffmpegs-precision-for-2024/"><u>[Updated] The Essence of Unaltered Audio FFmpeg’s Precision for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/practices-for-adding-content-enhancements-cards-for-2024/"><u>Best Practices for Adding Content Enhancements (Cards) for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/canine-capers-puzzles-for-two/"><u>Canine Capers: Puzzles for Two</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-guide-screenflow-pro-on-macos-for-2024/"><u>Comprehensive Guide ScreenFlow Pro on macOS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-game-disruptions-solving-valorants-screen-tearing-problem-efficiently/"><u>Eliminate Game Disruptions: Solving Valorant's Screen Tearing Problem Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-error-driver-not-found-for-wacom-pen-and-touchpad-on-windows-10/"><u>Fixing the Error: 'Driver Not Found' For Wacom Pen & Touchpad on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-when-your-screen-doesnt-accept-certain-inputs/"><u>Fixing the Issue When Your Screen Doesn’t Accept Certain Inputs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-exceptional-online-tv-services-featuring-community-broadcasts/"><u>In 2024, Exceptional Online TV Services Featuring Community Broadcasts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-12-mini-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 12 mini Passcode without a Computer</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-search-of-next-level-video-streaming-alternatives-for-2024/"><u>In Search of Next-Level Video Streaming Alternatives for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-keyboards-failing-top-tips-and-tricks-to-restore-your-typing-experience/"><u>Lenovo Keyboards Failing? Top Tips and Tricks to Restore Your Typing Experience</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-to-fixed-kernel32-crashes/"><u>Quick Guide to Fixed Kernel32 Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-input-not-recognized-issues-displayed-on-monitors/"><u>Resolving 'Input Not Recognized' Issues Displayed on Monitors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-failed-feature-updates-for-windows-10-v1607-a-step-by-step-guide/"><u>Resolving Failed Feature Updates for Windows 10 v1607: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-non-functional-brightness-settings-on-windows-11-devices/"><u>Step-by-Step Solutions for Non-Functional Brightness Settings on Windows 11 Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mlining-monetization-strategies-on-youtube/"><u>Streamlining Monetization Strategies on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-unexpected-crashes-in-directx-applications/"><u>Troubleshooting Guide: Overcoming Unexpected Crashes in DirectX Applications</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-real-time-broadcasting-softwares-edge-over-gear/"><u>2024 Approved Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-hurdle-effective-ways-to-tackle-windows-camera-error-0xa00f4292/"><u>Bypassing the Hurdle: Effective Ways to Tackle Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-ways-to-address-windows-11-touchpad-cursor-malfunction/"><u>Effective Ways to Address Windows 11 Touchpad Cursor Malfunction</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-no-sound-problem-a-step-by-step-chromecast-solution/"><u>Fixing No Sound Problem: A Step-by-Step Chromecast Solution</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-x50i-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor X50i FRP Locks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-overcome-sony-a6400-video-viewing-failure-for-2024/"><u>How to Overcome Sony A6400 Video Viewing Failure for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-all-you-need-to-know-about-upgrading-to-macos-11-big-sur/"><u>In 2024, All You Need to Know About Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-honor-x9a-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Honor X9a Phone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtube-movie-maker-from-beginner-to-pro-edition/"><u>In 2024, YouTube Movie Maker From Beginner to Pro Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-requested-operation-unsuccessful-by-wrp-troubleshooting-guide/"><u>Overcome 'Requested Operation Unsuccessful by WRP': Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-dxgi-device-hang-issues-easily-effective-strategies-revealed/"><u>Overcome DXGI Device Hang Issues Easily: Effective Strategies Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-laptop-wont-charge-solve-it-now/"><u>Quick Fixes for When Your Laptop Won't Charge – Solve It Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-driver-power-state-failure-error-a-comprehensive-guide/"><u>Resolving the Driver Power State Failure Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-reasons-to-switch-to-firefox-browser-app-on-android-smartphones-and-tablets/"><u>Top Reasons to Switch to Firefox Browser App on Android Smartphones and Tablets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-call-of-duty-wwii-overcoming-error-4220/"><u>Troubleshooting Guide for Call of Duty WWII - Overcoming Error 4220</u></a></li>
 </ul></div>
 

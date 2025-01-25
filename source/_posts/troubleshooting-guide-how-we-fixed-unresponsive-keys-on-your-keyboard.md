@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - How We Fixed Unresponsive Keys on Your Keyboard
-date: 2025-01-18T18:14:45.071Z
-updated: 2025-01-19T18:55:11.300Z
+date: 2025-01-20T17:56:53.846Z
+updated: 2025-01-25T17:19:13.744Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -35,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -62,12 +66,12 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
@@ -88,22 +92,18 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -116,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
@@ -131,6 +131,10 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
@@ -144,15 +148,11 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -176,20 +176,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-guide-top-10-gratis-mmo-rpgs-for-2024/"><u>[New] Ultimate Guide Top 10 Gratis MMO RPGs for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-compress-iphone-videos-how-to-shorten-without-quality-loss/"><u>[Updated] In 2024, Compress iPhone Videos How to Shorten Without Quality Loss</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimal-voice-modification-software-for-video-makers/"><u>[Updated] Optimal Voice Modification Software for Video Makers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-secrets-to-proficient-mobile-and-desktop-film-recording/"><u>[Updated] Secrets to Proficient Mobile and Desktop Film Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-snipers-essential-windows-cutting-software-for-2024/"><u>[Updated] Top 5 Snipers Essential Windows Cutting Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-a-non-responsive-steam-store-page-error/"><u>Easy Fixes for a Non-Responsive Steam Store Page Error</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/effortless-energy-top-20-calming-country-songs-to-boogie-down-and-release-stress-tiktok/"><u>Effortless Energy Top 20 Calming Country Songs to Boogie Down and Release Stress (TikTok)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolved-fix-for-semaphore-error-code-0x80070079-now-available/"><u>Error Resolved: Fix for Semaphore Error Code 0X80070079 Now Available</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-d3d-device-failure-issues-on-windows-platforms-efficiently/"><u>How To Resolve D3D Device Failure Issues on Windows Platforms Efficiently</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-computer-security-securing-your-pc-in-five-ways-on-windows/"><u>Mastering Computer Security: Securing Your PC in Five Ways on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-system-restore-challenges-in-windows-10-a-step-by-step-guide/"><u>Overcoming System Restore Challenges in Windows 10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-pink-hue-dilemma-in-your-windows-11-interface/"><u>Overcoming the Pink Hue Dilemma in Your Windows 11 Interface</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reinstating-the-vanished-speaker-icon-on-windows-11-a-picture-perfect-guide/"><u>Reinstating the Vanished Speaker Icon on Windows 11 - A Picture Perfect Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/restoring-sounds-in-skyrim-fixes-for-muted-gameplay-experience/"><u>Restoring Sounds in Skyrim: Fixes for Muted Gameplay Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-faulty-hp-laptop-cameras-under-windows-11-operating-system/"><u>Troubleshooting Guide for Faulty HP Laptop Cameras Under Windows 11 Operating System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-finale-101-insider-tricks-for-successful-outros/"><u>[New] 2024 Approved Channel Finale 101 Insider Tricks for Successful Outros</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-efficient-audio-documentation-in-academia-using-macs/"><u>[New] In 2024, Efficient Audio Documentation in Academia Using Macs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-swiftly-upgrade-your-videos-with-top-tips-for-adding-youtube-closed-captions/"><u>[New] In 2024, Swiftly Upgrade Your Videos with Top Tips for Adding YouTube Closed Captions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-instagrams-new-features-for-2024/"><u>[New] The Ultimate Guide to Instagram's New Features for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-run-a-sports-youtube-chain-on-macos/"><u>[Updated] 2024 Approved How to Run a Sports YouTube Chain on MacOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-video-dimensions-aspect-ratio-standards/"><u>[Updated] 2024 Approved Twitter Video Dimensions Aspect Ratio Standards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-m4vmp3-movavi/"><u>免費在線Movavi 影片編解碼器，改變M4V到MP3 - 學名: Movavi 動手嘗試</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4mpeg/"><u>網路無限MP4到MPEG自由轉換 - 百視達錄像格式變更器</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-convertir-un-archivo-de-video-mov-a-formato-flv-sin-coste-guia-completa/"><u>Cómo Convertir Un Archivo De Video MOV a Formato FLV Sin Coste: Guía Completa</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/entendiendo-los-terminos-y-condiciones-de-la-aplicacion-gratis-de-descuentos-moovvi/"><u>Entendiendo Los Términos Y Condiciones De La Aplicación Gratis De Descuentos Moovvi</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-recurring-disk-full-issues-in-windows/"><u>How to Stop Recurring Disk Full Issues in Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 6s Plus</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtube-stardom-made-easy-essential-editing-strategies-explored/"><u>In 2024, YouTube Stardom Made Easy Essential Editing Strategies Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-video-editing-software-for-enterprises-professional-screen-recording-and-movie-editing-tool/"><u>Movavi Video Editing Software for Enterprises: Professional Screen Recording & Movie Editing Tool</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-wax-video-editing-software-tips-tricks-and-tutorials-for-2024/"><u>New Wax Video Editing Software Tips, Tricks, and Tutorials for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/onlinelastig-vormpje-mpg-in-flv-format-wiskunde-convertiteasy/"><u>Onlinelastig Vormpje MPG in FLV Format Wiskunde - ConvertItEasy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revolucao-em-edicao-de-video-mastering-loops-e-guias-no-movavi-video-editor/"><u>Revolução Em Edição De Vídeo: Mastering Loops E Guias No Movavi Video Editor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-m1v-videos-into-mpeg-format-instantly-complimentary-solutions-by-movavi/"><u>Transform Your M1V Videos Into MPEG Format Instantly - Complimentary Solutions by Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726222406623-mp3-mp4/"><u>オンラインでも簡単MP3ファイルを変換するための無料ツール - MP4グッド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'USB Device Not Detected' Issue Once and For All
-date: 2024-08-28T00:22:58.924Z
-updated: 2024-08-29T00:22:58.924Z
+date: 2025-01-23T17:43:42.442Z
+updated: 2025-01-25T16:57:36.804Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 
  Before you set out to try the fixes below, please check on the**game server status** first. Because if the Valorant is in the middle of server maintenance, you won’t be able to load into the game. For your Valorant server maintenance information, head to **[Riot Games Service Status](https://status.riotgames.com/)**  or **[Twitter of Riot Games Support](https://twitter.com/riotsupport?lang=en)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here’re the fixes to try
 
  You may not need to try them all; just walk your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check for network connection
 
@@ -41,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
  If network connection is not where the problem is, try the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Run your game as administrator
 
  In some cases, the game can’t be opened properly because it lacks higher permission from your PC, so try running Valorant as administrator is a possible method to solve the infinite loading problem.
@@ -50,11 +59,13 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 1. Right-click the**VALORANT icon** and select**Properties** at the button of the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -87,17 +98,15 @@ OR
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
 If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Reinstall Valorant
 
  Install files of Valorant may somehow become corrupted in your computer and could not function properly, leading to the infinite loading error. So to get new and intact Install files, you should uninstall the Valorant from your computer first and then reinstall it.
@@ -111,15 +120,9 @@ If this doesn’t solve your problem, move on to the next fix.
 4. Click**Uninstall** again in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Delete Manifest txt files
 
  Manifest files usually contain info about resources stored as well as settings for loading those resources. In this sense, the Manifest txt files in the Valorant install file may have something to do with the loading trouble. So we could try to delete those Manifest txt files to see if it helps with the problem.
@@ -142,8 +145,6 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +152,17 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-top-15-innovative-snapchat-ideas/"><u>[New] In 2024, The Ultimate Guide Top 15 Innovative Snapchat Ideas</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-effortless-transition-free-onlineoffline-text-animation-for-2024/"><u>[Updated] Effortless Transition Free Online/Offline Text Animation for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-frame-rate-in-valheim-top-2024-solutions/"><u>Boosting Your Frame Rate in Valheim: Top 2024 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-rescuing-a-stuck-laptop-mouse-from-malfunction/"><u>Comprehensive Fixes: Rescuing a Stuck Laptop Mouse From Malfunction</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-guide-transferring-iso-files-onto-a-usb-type-c-device-your-quick-reference-for-secure-data-access/"><u>Easy Guide: Transferring ISO Files Onto a USB Type-C Device - Your Quick Reference for Secure Data Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-loading-player-no-playable-sources-found-on-windows-solved/"><u>Error Loading Player: No Playable Sources Found on Windows [Solved]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/masterful-14-textual-movement-illustrations/"><u>Masterful 14 Textual Movement Illustrations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-failed-hosted-network-setup-on-windows-11/"><u>Resolved: Troubleshooting Failed Hosted Network Setup on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/e-steps-for-incorporating-videos-into-articles/"><u>Simple Steps for Incorporating Videos Into Articles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-microsoft-error-0x800f0831-with-windows-patches/"><u>Step-by-Step Solution for Microsoft Error 0X800F0831 with Windows Patches</u></a></li>
+</ul></div>
 

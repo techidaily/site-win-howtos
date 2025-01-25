@@ -1,7 +1,7 @@
 ---
 title: PrintScreen Problems Solved? A Guide to Restoring Snipping Features on Modern Windows OS
-date: 2025-01-17T17:01:28.211Z
-updated: 2025-01-19T17:12:21.328Z
+date: 2025-01-20T17:47:10.344Z
+updated: 2025-01-25T16:57:39.680Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 4. [**Clear the SoftwareDistribution folder**](#d)
 5. [**Update your device drivers**](#e)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Run Windows Update troubleshooter
 
  Windows has a built-in troubleshooter that can check and fix issues with Windows Update. You should run it when an error occurs on your Windows Update. To do so:
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 **2)** Select**Update & Security** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Windows-10-Update-and-Security.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click**Troubleshoot > Additional troubleshooters** .
 
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click on the**Run** button next to**Windows Update** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
@@ -86,15 +82,15 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 **6)** Run your Windows Update again and see if your error is fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Check for malicious software
 
  Your error may occur because of interference from malicious software. You should run a scan on your computer for any malicious program.
 
  You can use the **[Malicious Software Removal Tool](https://www.microsoft.com/en-us/download/malicious-software-removal-tool-details.aspx)**  released by Microsoft. Download the tool and run it on your computer. Then follow its instructions to complete the scanning process. If this method works for you, you won’t see the error on your Windows Update again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Restart your Windows Update associated services
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb31524505e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
@@ -117,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 **5)** Double click**Cryptographic Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
@@ -127,21 +131,17 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb327c20a47.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Clear the SoftwareDistribution folder
@@ -158,6 +158,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3bc020986.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Open_File Explorer_ (press the**Windows logo** key and**E** on your keyboard at the same time), then go to **C:\\Windows\\SoftwareDistribution** and**delete** all the files and folders there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3da65b40b.jpg)
@@ -166,10 +170,14 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Update your device drivers
@@ -188,17 +196,9 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9e7d372aa0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update**  button next to your each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
 
@@ -219,24 +219,20 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlocking-classroom-potential-with-simple-methods-to-record-mac-lectures/"><u>[New] Unlocking Classroom Potential with Simple Methods to Record Mac Lectures</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-to-clear-your-default-podcast-listings-on-spotify-for-2024/"><u>[Updated] How to Clear Your Default Podcast Listings on Spotify for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fifa-highlights-and-trends-charting-on-youtube/"><u>[Updated] In 2024, FIFA Highlights & Trends Charting on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-blueprint-for-brilliant-broadcasts-dos-and-donts-unveiled/"><u>[Updated] In 2024, The Blueprint for Brilliant Broadcasts Do's & Don'ts Unveiled</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-combination-discover-5-advanced-webcams-for-clear-sound-for-2024/"><u>[Updated] Ultimate Combination Discover 5 Advanced Webcams for Clear Sound for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-closer-look-at-immersive-virtual-reality-tech/"><u>A Closer Look at Immersive Virtual Reality Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-non-functional-gadget-alert-in-windows-11/"><u>Addressing Non-Functional Gadget Alert in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207468610-arctis-5-gaming-headset-mic-not-working-heres-how-to-fix-it/"><u>Arctis 5 Gaming Headset Mic Not Working? Here's How to Fix It!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211855603-easy-steps-to-resolve-your-cs-go-game-crashes-fast/"><u>Easy Steps to Resolve Your CS: GO Game Crashes Fast!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-digital-file-to-physical-disc-mastering-the-art-of-dvd-burning-for-downloaded-series-and-films/"><u>From Digital File to Physical Disc: Mastering the Art of DVD Burning for Downloaded Series and Films</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-to-quietly-dismiss-youtube-video-teasers/"><u>How to Quietly Dismiss YouTube Video Teasers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-cwindowssystem32configsystemprofiledesktop-unavailable-problems/"><u>How to Resolve C: Windows system32 config systemprofile Desktop Unavailable Problems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-tecno-spark-20-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Tecno Spark 20 Pro Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-and-fixing-opengl-errors-for-a-smooth-minecraft-experience/"><u>Navigating and Fixing OpenGL Errors for a Smooth Minecraft Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-system-performance-how-to-tackle-high-cpu-utilization-by-svchostexe-in-windows-11/"><u>Optimizing System Performance: How to Tackle High CPU Utilization by svchost.exe in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-steam-api-file-discrepancy/"><u>Resolving Steam API File Discrepancy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-restore-network-connection-via-ethernet-in-windows-11-and-7-systems/"><u>Step-by-Step Instructions to Restore Network Connection via Ethernet in Windows 11 and 7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-for-windows-update-issue-decode-and-solve-error-0x80070n1f/"><u>Ultimate Solution for Windows Update Issue - Decode and Solve Error 0X80070n1f</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210417752-usb-to-hdmi-connection-issues-heres-how-you-can-resolve-them/"><u>USB to HDMI Connection Issues? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unraveling-asmr-for-mental-and-physical-health/"><u>[New] In 2024, Unraveling ASMR for Mental and Physical Health</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-elevating-content-sharing-link-instagram-and-tiktok-for-2024/"><u>[Updated] Elevating Content Sharing Link Instagram & TikTok for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ice-easy-online-video-text-conversion/"><u>1 Choice Easy Online Video Text Conversion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x800f081f-resolved-a-step-by-step-guide-to-installing-net-framework-35-successfully/"><u>Error Code 0X800F081F Resolved: A Step-by-Step Guide to Installing .NET Framework 3.5 Successfully</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-ultra-slim-design-how-do-008-inches-change-the-game-for-latest-ipads-zdnet/"><u>Exploring the Ultra-Slim Design: How Do 0.08 Inches Change the Game for Latest iPads? | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-11s-dark-dilemma-a-users-handbook-for-black-screen-issues/"><u>Fixing Windows 11'S Dark Dilemma: A User's Handbook for Black Screen Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reduce-the-impact-of-wudfhostexe-on-your-windows-11-systems-performance/"><u>How to Reduce the Impact of wudfhost.exe on Your Windows 11 System's Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-10-leading-vr-devices-for-your-pc-for-2024/"><u>Identifying 10 Leading VR Devices for Your PC for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1726223795632-movavi-2024/"><u>Movavi วิเทจใจผูกคอย: 2024 มื้อน ถึง หลายปี</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/netflix-streaming-now-smooth-and-uninterrupted-solve-your-pcmac-buffering-issues/"><u>Netflix Streaming Now Smooth & Uninterrupted - Solve Your PC/Mac Buffering Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/obs-video-recording-overcoming-the-troublesome-black-screen-dilemma/"><u>OBS Video Recording - Overcoming the Troublesome Black Screen Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimized-wdf-usage-reducing-cpu-load-on-your-system/"><u>Optimized WDF Usage: Reducing CPU Load on Your System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-wireless-display-connection-problems-under-windows-11/"><u>Resolving Microsoft Wireless Display Connection Problems Under Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-giants-a-look-into-facebook-twitter-instagram-and-youtubes-influence/"><u>Social Media Giants: A Look Into Facebook, Twitter, Instagram & Youtube's Influence</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/update-6-best-voice-changers-you-cant-miss/"><u>Update 6 Best Voice Changers You Cant Miss</u></a></li>
 </ul></div>
 

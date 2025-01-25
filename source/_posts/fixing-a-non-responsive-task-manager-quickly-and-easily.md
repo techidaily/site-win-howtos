@@ -1,7 +1,7 @@
 ---
 title: Fixing a Non-Responsive Task Manager Quickly and Easily
-date: 2024-08-28T00:24:58.606Z
-updated: 2024-08-29T00:24:58.606Z
+date: 2025-01-24T17:39:18.859Z
+updated: 2025-01-25T16:36:26.651Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable Sleep Mode
 
  If you have this problem right after waking up your PC from Sleep Mode, you should consider disabling the mode. The reason is similar to that of Fix 1 – your device driver may temporarily stop working when the computer swaps from Sleep Mode to the normal working state.
@@ -67,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-634.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  2) On the**Power & sleep** tab, in the results pane, under**Related settings** , click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
@@ -95,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
@@ -106,26 +94,31 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Tick the “Support TabletPC” option
 
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -155,9 +148,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -176,17 +177,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
@@ -201,9 +200,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -212,9 +208,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
 
@@ -226,9 +230,6 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
 4) Restart Photoshop and test whether your pen works properly or not.
@@ -245,8 +246,6 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -254,4 +253,20 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-gratitude-archive-complete-collection-freepaid/"><u>[New] Gratitude Archive Complete Collection (Free/Paid)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-selection-of-no-cost-image-transformers-for-ios-and-android/"><u>[Updated] 2024 Approved The Ultimate Selection of No-Cost Image Transformers for iOS and Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illustrating-brilliance-the-most-trusted-vector-tools-reviewed/"><u>2024 Approved Illustrating Brilliance The Most Trusted Vector Tools Reviewed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effective-strategies-to-download-and-update-microsoft-drivers-on-windows-7-8-or-10/"><u>Effective Strategies to Download and Update Microsoft Drivers on Windows 7, 8, or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-your-windows-store-cache-when-its-actual-damage/"><u>Expert Tips to Restore Your Windows Store Cache When It's Actual Damage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-0-to-million-views-the-ultimate-content-blueprint-for-2024/"><u>From 0 to Million Views The Ultimate Content Blueprint for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-sticky-keyboard-keys-on-your-windows-pc-a-comprehensive-guide/"><u>How to Fix Sticky Keyboard Keys on Your Windows PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-your-stuck-or-dead-shift-key-fail-proof-methods/"><u>How to Restore Functionality to Your Stuck or Dead Shift Key (FAIL-PROOF Methods)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-18-unveiled-top-6-groundbreaking-ai-enhancements-for-iphones-and-a-sneak-peek-at-future-updates-techexplorer/"><u>IOS 18 Unveiled: Top 6 Groundbreaking AI Enhancements for iPhones and a Sneak Peek at Future Updates | TechExplorer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-broken-f-keys-techniques-for-reactivating-special-buttons/"><u>Reviving Broken F-Keys: Techniques for Reactivating Special Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205747806-solution-for-mic-problems-on-windows-10-computers-quick-fixes-inside/"><u>Solution for Mic Problems on Windows 10 Computers - Quick Fixes Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-restoring-functionality-of-numeric-keys-stuck-or-non-responsive/"><u>Solved! Restoring Functionality of Numeric Keys Stuck or Non-Responsive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-causes-behind-usb-attachment-failure-in-virtualbox/"><u>Unraveling the Causes Behind 'USB Attachment Failure' In VirtualBox</u></a></li>
+</ul></div>
 

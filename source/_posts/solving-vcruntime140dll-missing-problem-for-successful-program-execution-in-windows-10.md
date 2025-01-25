@@ -1,7 +1,7 @@
 ---
 title: Solving VCRUNTIME140.dll Missing Problem for Successful Program Execution in Windows 10
-date: 2024-08-28T00:22:01.990Z
-updated: 2024-08-29T00:22:01.990Z
+date: 2025-01-23T17:59:03.470Z
+updated: 2025-01-25T17:25:08.397Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a4cc32918e39c53ac0181d3e14c0cb7c5573f6c68
 
 You will be very annoyed when you get this update error. Your Windows Update keeps installing the 1607 feature update but can’t stop failing, which is quite troublesome. Also, this prevents you from enjoying the new version of Windows 10 and its new features. What’s more, it can occupy a lot of system resources and slow down your computer. But don’t worry. This issue can be fixed. You still can install the version 1607 update on your computer. The following are the methods that have helped many Windows 10 users to resolves this problem. You can give them a try: Method 1:[**Install the update with Windows 10 Update Assistant**](https://tools.techidaily.com/drivereasy/download/)Method 2:[**Reset the Windows Update components**](https://tools.techidaily.com/drivereasy/download/)Method 3:[**Run the DISM utility**](https://tools.techidaily.com/drivereasy/download/)Method 4:[**Temporarily disable your antivirus software**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Install the update with Windows 10 Update Assistant
 
 Microsoft has released an update installation tool named**Windows 10 Update Assistant**for Windows 10 users. It can help you update your Windows 10 to the latest version. If you get stuck in installing the 1607 update, you can try updating your system with this tool instead of Windows Update. To download and run Windows 10 Update Assistant:**1)**Go to the[**Microsoft software download website**](https://www.microsoft.com/en-us/software-download/windows10).**2)** Click the**Update Now**button. This will download Windows 10 Update Assistant.
@@ -31,13 +35,25 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002e5ecc61b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
@@ -55,32 +71,18 @@ You may fail to install the 1607 update because the**Windows Update components**
 * _**net start cryptsvc**_
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 4: Temporarily disable your antivirus software
 
 Sometimes your system can’t install new updates due to the interference from your**antivirus software**. You can temporarily disable your antivirus and check if the problem persists. (Consult your antivirus program documentation for instructions on disabling it.) If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different solution.**IMPORTANT:**Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
@@ -94,8 +96,6 @@ Sometimes your system can’t install new updates due to the interference from y
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +103,18 @@ Sometimes your system can’t install new updates due to the interference from y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-authorized-streaming-systems/"><u>[Updated] Advanced Authorized Streaming Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-eliminate-clutter-on-tweet-feed-with-top-20-apps/"><u>[Updated] Eliminate Clutter on Tweet Feed with Top 20 Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-optimal-energy-solutions-official-and-third-party-hero5-batteries-for-2024/"><u>[Updated] Optimal Energy Solutions - Official & Third-Party Hero5 Batteries for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-strategies-for-scaling-your-instagram-tv-content/"><u>[Updated] Top Strategies for Scaling Your Instagram TV Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvd-unlocking-made-easy-mastering-dvd-decrypter-and-exploring-top-alternatives/"><u>DVD Unlocking Made Easy: Mastering DVD Decrypter and Exploring Top Alternatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-insert-captions-into-mx-player-a-complete-tutorial/"><u>Easily Insert Captions Into MX Player - A Complete Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-methods-to-transform-3gpp-videos-into-mp4-format/"><u>Easy Methods to Transform 3GPP Videos Into MP4 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-converting-wave-waveform-audio-file-format-to-wav-windows-audio-video-intermixing/"><u>Easy Steps for Converting WAVE (Waveform Audio File Format) to WAV (Windows Audio Video Intermixing)</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/protecting-your-crypto-investments-expert-tips-from-yl-software/"><u>Protecting Your Crypto Investments: Expert Tips From YL Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sculpting-light-and-shadow-the-photoshop-hdr-way-for-2024/"><u>Sculpting Light and Shadow The Photoshop HDR Way for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-google-pixel-7a-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Google Pixel 7a for Streaming | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Unfreeze and Restart Your Laptop Efficiently
-date: 2025-01-13T18:33:18.256Z
-updated: 2025-01-19T17:49:34.401Z
+date: 2025-01-21T16:20:31.501Z
+updated: 2025-01-25T17:32:21.947Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -48,7 +52,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -81,6 +85,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -99,19 +107,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -121,6 +121,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -134,21 +138,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,19 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-detailed-overview-of-lightroom-on-android-devices-for-2024/"><u>[Updated] Detailed Overview of Lightroom on Android Devices for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-android-video-editor-app-roundup/"><u>[Updated] The Ultimate Android Video Editor App Roundup</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-best-websites-for-securing-snappy-soundtracks/"><u>5 Best Websites for Securing Snappy Soundtracks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/a-day-in-the-life-on-facebook-enhancing-participation/"><u>A Day in the Life on Facebook Enhancing Participation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-honor-magic-6-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Honor Magic 6</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cyberpower-cp685avrg-uninterruptible-power-supply-reliable-backup-solution-overview/"><u>Cyberpower CP685AVRG Uninterruptible Power Supply - Reliable Backup Solution Overview</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-targus-displaylink-driver-support-for-your-windows-11-8-or-7/"><u>Get the Newest Targus DisplayLink Driver Support for Your Windows (11, 8, or 7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-high-disk-utilization-by-microsoft-compatibility-telemetry-on-windows-11/"><u>How to Fix High Disk Utilization by Microsoft Compatibility Telemetry on Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-zonder-kosten-converteer-je-swf-naar-flv-graag-probeer-movavi/"><u>Online Zonder Kosten: Converteer Je SWF Naar FLV Graag? Probeer Movavi!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guided-overcoming-laptop-keyboard-issues-at-logon/"><u>Solution Guided: Overcoming Laptop Keyboard Issues at Logon</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-implemented-for-malfunctioning-keyboard-keys/"><u>Solution Implemented for Malfunctioning Keyboard Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-mpengineexe-from-hogging-your-cpu-resources-a-winning-strategy-for-windows-11-users/"><u>Stop MPengine.exe From Hogging Your CPU Resources: A Winning Strategy for Windows 11 Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-the-limitations-of-non-hdcp-certified-displays/"><u>Understanding the Limitations of Non-HDCP Certified Displays</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>[Updated] The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-spectrum-physical-action-review/"><u>2024 Approved Full Spectrum Physical Action Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flvavi-movavi/"><u>無料オンライン動画変換:FLVからAVIへのステップバイステップガイド - Movavi</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/beheben-des-onedrive-fehlers-0x8004def7-in-windows-11-eine-schritt-fur-schritt-anleitung/"><u>Beheben Des OneDrive-Fehlers 0X8004def7 in Windows 11: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/comment-fabriquer-une-cle-usb-demarrable-a-laide-de-norton-ghost-sur-les-systemes-dexploitation-windows-1187-un-guide-pratique/"><u>Comment Fabriquer Une Clé USB Démarrable À L'aide De Norton Ghost Sur Les Systèmes D'exploitation Windows 11/8/7 : Un Guide Pratique</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-de-fichiers-audio-convertir-mp3-en-aiogg-gratuitement-en-ligne-chez-movavi/"><u>Conversion De Fichiers Audio: Convertir MP3 en AI/OGG Gratuitement en Ligne Chez Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-dng-files-to-jpeg-for-free-with-movavi-image-editor-online-tool/"><u>Convert DNG Files to JPEG for Free with Movavi Image Editor Online Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-analysis-the-leading-mac-screenshots-and-recorders-ranked/"><u>Expert Analysis The Leading Mac Screenshots & Recorders Ranked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transforming-vob-files-into-wav-format-moveave/"><u>Free Online Converter: Transforming VOB Files Into WAV Format - Moveave</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-rapida-para-reducir-el-tamano-de-videos-en-youtube-con-facilidad/"><u>Guía Rápida Para Reducir El Tamaño De Vídeos en YouTube Con Facilidad</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-install-and-use-periscope-for-live-streaming-on-your-computer/"><u>How to Install and Use Periscope for Live Streaming on Your Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-oppo-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Oppo Without Password?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/i-migliori-10-servizi-online-per-la-realizzazione-di-banner-youtube-in-italia-2024/"><u>I Migliori 10 Servizi Online per La Realizzazione Di Banner YouTube in Italia - 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4ogg-movavi/"><u>MP4免費線上改版為OGG格式- 使用 Movavi 視頻換寫器進階功能。</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-desktop-no-overlaps/"><u>Streamline Your Desktop: No Overlaps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-out-of-windows-11-and-10s-s-constraints/"><u>The Pathway Out of Windows 11 and 10'S S Constraints</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726226663032-flvasf-movavi/"><u>オンラインで使いやすく移行: FLVとASFフォーマットの免責コスト自動変換 - Movavi</u></a></li>
 </ul></div>
 

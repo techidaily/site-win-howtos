@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Index Function: A Step-by-Step Guide to Extract Data in Microsoft Excel"
-date: 2024-08-28T00:19:26.082Z
-updated: 2024-08-29T00:19:26.082Z
+date: 2025-01-19T17:08:30.560Z
+updated: 2025-01-25T16:41:05.344Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 ---
 
 ## Mastering the Index Function: A Step-by-Step Guide to Extract Data in Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,19 +25,24 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
  You might be creating a complex formula or have values that change often. By using the INDEX function, you designate the cell range along with a [row number](https://howto.techidaily.com/play-store-not-working-on-motorola-razr-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/) and column number. Excel locates the value at that intersection and provides the result from the formula.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The INDEX Function in Excel
 
  You can use the INDEX function two different ways in Excel: Array Form and Reference Form.
 
 ![INDEX function forms in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SelectType-ExcelINDEXFunction.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Array Form provides the value of a certain cell range, or array. Reference Form provides a reference to specific cells and is useful when working with nonadjacent cells.
 
  Let's look at how to use both.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use INDEX in Array Form
 
  The syntax for the function in Array Form is 
@@ -55,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 ![INDEX in Array Form for a row](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ArrayRow-ExcelINDEXFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To find the value in the third row and fifth column for the cell range A1 through E10, you would use this formula.
 
 =INDEX(A1:E10,3,5)
@@ -65,14 +75,8 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
 ![INDEX in Array Form for an intersection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ArrayIntersection-ExcelINDEXFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/play-store-not-working-on-motorola-razr-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use INDEX in Reference Form
 
  The syntax for the function in Reference Form is `INDEX(reference, row_number, column_number, area_number)` where the first two arguments are required and second two are optional.
@@ -91,9 +95,6 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
 
 ![INDEX in Reference Form for area one](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReferenceFirstArea-ExcelINDEXFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To find the value using the same cell ranges, row number, and column number, but in the second area instead of the first, you would use this formula:
 
 =INDEX((A1:E4,A7:E10),3,4,2)
@@ -103,8 +104,9 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
 ![INDEX in Reference Form for area two](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReferenceSecondArea-ExcelINDEXFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The INDEX function in Excel is a handy one to keep in mind. If you plan to use lookup and reference functions often, be sure to check out how to [use VLOOKUP for a range of values](https://win-able.techidaily.com/1723001670706-troubleshooting-genshin-impact-fix-stability-issues-and-stop-pc-crashes/) and how to [use XLOOKUP in Excel](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -119,8 +121,6 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +128,21 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ustom-coverage-made-simple-fast-track-your-youtube-shorts-design-for-2024/"><u>[New] Custom Coverage Made Simple Fast-Track Your YouTube Shorts Design for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-hooked-easy-ways-to-loop-any-youtube-video-for-2024/"><u>[New] Get Hooked Easy Ways to Loop Any YouTube Video for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-turning-views-into-revenue-mastering-youtubes-financial-landscape/"><u>[Updated] Turning Views Into Revenue Mastering YouTube's Financial Landscape</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-decoding-youtubes-best-video-editing-practices/"><u>2024 Approved Decoding YouTube's Best Video Editing Practices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226901977-cr2/"><u>線上免費移除影像文件錯誤的CR2翻譯器 - 視覺大師</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-unlock-achieved-revised-security-configuration-allows-file-retrieval/"><u>Download Unlock Achieved: Revised Security Configuration Allows File Retrieval</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-usb-slots-on-your-pc-running-windows-1011/"><u>How to Fix Unresponsive USB Slots on Your PC Running Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-accelerometer-troubleshooting-in-windows-effective-methods-to-restore-full-functionality/"><u>HP Accelerometer Troubleshooting in Windows: Effective Methods to Restore Full Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-s23-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy S23 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-touchscreen-glitches-on-windows-11-learn-5-strategies/"><u>Mastering the Art of Fixing Touchscreen Glitches on Windows 11 - Learn 5 Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-through-managed-system-settings-in-windows-environments/"><u>Navigating Through Managed System Settings in Windows Environments</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-syncing-your-iphone-with-a-philips-smart-tv/"><u>Step-by-Step Guide: Syncing Your iPhone with a Philips Smart TV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-windows-unable-to-reach-system-event-alerts-service/"><u>Understanding and Resolving 'Windows Unable to Reach System Event Alerts Service'</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-superior-search-with-perplexity-ai/"><u>Unlock Superior Search with Perplexity AI</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Methods of Gaining Permission From TrustedInstaller for File Edits
-date: 2024-08-28T00:21:33.131Z
-updated: 2024-08-29T00:21:33.131Z
+date: 2025-01-20T18:27:16.964Z
+updated: 2025-01-25T18:07:18.350Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 But don’t worry. We’ll help you fix your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions that have helped people resolve the error. You don’t have to try them all, just work your way down the list until everything’s working again.
@@ -36,8 +40,9 @@ But don’t worry. We’ll help you fix your problem.
 3. [Update your monitor driver and graphics card driver](#F3)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot the monitor connection
 
  You may see the ‘**Input Not Supported** ‘ error if there’s something wrong with the monitor connection. So you should check the monitor cable to make sure it works properly. Or you can switch to a new monitor cable.
@@ -59,49 +64,40 @@ Here’s what you can do:
 2. Scroll down and find the**Scale and layout** section, then choose the**recommended resolution** for your display. If you’re on Windows 11, it’ll be**Display resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946559c00e.jpg)
 3. If you see a popup to confirm the change, click Keep changes to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94693c702d.jpg)
 4. Then click**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946c1e8119.jpg)
 5. Under the monitor name that is having the Input Not Supported error, click**Display adapter properties for Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9472de63ac.jpg)
 6. In the popup pane, click the**Monitor** tab. In the**Screen refresh rate** , choose the**recommended** or**default** **rate** in the drop down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94769aa3f3.jpg)
 7. Save the changes and restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you’re using Windows 8 and Windows 7:
 
 1. Right click on any**empty area** on your desktop, and select**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f17a6508.jpg)
 2. If you have multiple displays, select the display that is having the error. Then choose the**recommended resolution** , and click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f74c12c9.jpg)  
  If your current screen resolution is not proper, you’ll see a notification like this:  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fc52735d.jpg)
 3. On the same pane, click**Advanced** **settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fec42db3.jpg)
 4. Click the**Monitor** tab, then choose the**recommended or default refresh rate setting** in the**Screen refresh rate** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd945d0dd649.jpg)
 5. Save the changes and restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should fix the error and boot your computer as normal.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your monitor driver and graphics card driver
 
  The missing or corrupted device drivers (especially the monitor driver and graphics card driver) will cause the “Input Not Supported” error on monitors. So you should update these drivers in your computer.
@@ -122,11 +118,17 @@ You should fix the error and boot your computer as normal.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9478ba7d6a.jpg)
 3. Click the**Update** button next to the flagged monitor and graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd947aa82f4c.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So there you have it – three easy methods to fix**monitor input not supported** issue. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
@@ -140,8 +142,6 @@ You should fix the error and boot your computer as normal.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +149,16 @@ You should fix the error and boot your computer as normal.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-metric.techidaily.com/guia-paso-a-paso-para-restaurar-la-tabla-de-particion-en-windows-10-o-11/"><u>Guía Paso a Paso Para Restaurar La Tabla De Partición en Windows 10 O 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-chromebook-friendly-video-editors-a-2023-comparison/"><u>In 2024, Chromebook-Friendly Video Editors A 2023 Comparison</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/losungsansatze-fur-den-windows-fehlercode-0xc000021a-zwei-effiziente-methoden-und-ein-wertvoller-ratschlag/"><u>Lösungsansätze Für Den Windows-Fehlercode 0xC000021A - Zwei Effiziente Methoden Und Ein Wertvoller Ratschlag</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1730675-9780600627883-the-shamanism-bible/"><u>The Shamanism Bible | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-avi-video-plays-on-android-devices-fixing-common-problems/"><u>Troubleshooting AVI Video Plays on Android Devices - Fixing Common Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overwolf-solutions-when-it-wont-record/"><u>Troubleshooting Overwolf: Solutions When It Won't Record</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-mastering-ipod-video-converter-factory-pro/"><u>Ultimate Guide to Mastering iPod Video Converter Factory Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-cropping-videos-with-vlc-a-step-by-step-tutorial/"><u>Ultimate Guide: Cropping Videos with VLC - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978072391-up-to-date-geforce-gt-710-video-card-driver-windows-get-your-free-copy-now/"><u>Up-to-Date GeForce GT #710 Video Card Driver (Windows) - Get Your Free Copy Now!</u></a></li>
+</ul></div>
 

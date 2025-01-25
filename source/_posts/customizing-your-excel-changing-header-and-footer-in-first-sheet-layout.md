@@ -1,7 +1,7 @@
 ---
 title: "Customizing Your Excel: Changing Header & Footer in First Sheet Layout"
-date: 2024-08-28T00:17:57.730Z
-updated: 2024-08-29T00:17:57.730Z
+date: 2025-01-24T17:41:49.558Z
+updated: 2025-01-25T17:29:18.786Z
 tags:
   - excel
 categories:
@@ -61,8 +61,6 @@ You can add text, such as page numbers, filename, worksheet name, and date, to t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +68,25 @@ You can add text, such as page numbers, filename, worksheet name, and date, to t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-canvascartoons-detailed-scrutiny-and-handbooks-24/"><u>[New] CanvasCartoons Detailed Scrutiny & Handbooks '24</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-watching-with-edge-free-youtube-content/"><u>[New] Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-critique-on-splitcam-does-it-top-video-tech/"><u>[Updated] 2024 Approved Critique on SplitCam Does It Top Video Tech?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-hackers-handbook-navigating-anonymous-instagram-streaming/"><u>[Updated] The Hacker’s Handbook Navigating Anonymous Instagram Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-with-ease-mastering-the-art-of-photo-text-editing/"><u>2024 Approved Unleash Creativity with Ease Mastering the Art of Photo Text Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoiding-tech-headaches-how-sfc-and-dism-can-quickly-fix-your-windows-10-system-errors/"><u>Avoiding Tech Headaches: How SFC & DISM Can Quickly Fix Your Windows 10 System Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211487783-fixing-windows-10-update-failures-get-your-updates-rolling/"><u>Fixing Windows 10 Update Failures - Get Your Updates Rolling!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-overheating-issue-on-your-hp-spectre-x360-laptop/"><u>How to Resolve the Overheating Issue on Your HP Spectre X360 Laptop</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-path-to-apple-podcast-acceptance/"><u>In 2024, Navigating the Path to Apple Podcast Acceptance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-gratis-trasforma-tu-video-wmv-en-formato-mp4-con-el-mejor-convertidor-libre/"><u>Mac Gratis: Trasforma Tu Video WMV en Formato MP4 Con El Mejor Convertidor Libre</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-infinite-load-screen-problems-in-valorant-a-complete-guide/"><u>Resolving the Infinite Load Screen Problems in VALORANT - A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-fn-keys-in-dell-laptops-effective-strategies-and-fixes/"><u>Troubleshooting Non-Responsive Fn Keys in Dell Laptops: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-full-potential-of-your-file-explorer-in-windows-10/"><u>Unlock the Full Potential of Your File Explorer in Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-nubia-red-magic-8s-proplus-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nubia Red Magic 8S Pro+? Fixed | Dr.fone</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

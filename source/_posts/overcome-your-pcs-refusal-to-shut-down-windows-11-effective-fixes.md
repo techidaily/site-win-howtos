@@ -1,7 +1,7 @@
 ---
 title: "Overcome Your PC's Refusal to Shut Down Windows 11: Effective Fixes"
-date: 2024-08-28T00:20:26.918Z
-updated: 2024-08-29T00:20:26.918Z
+date: 2025-01-18T17:09:10.360Z
+updated: 2025-01-25T18:04:58.121Z
 tags:
   - win11
   - win10
@@ -40,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 [**4: Troubleshoot Windows Updates issues**](#4)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
@@ -49,9 +50,9 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **2: Disable certain svchost.exe services**
 
  Faulty svchost.exe services can also be the cause of the abnormally high CPU usage in your PC. To fix it:
@@ -64,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
@@ -82,24 +80,19 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
 9) See if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## **3: Empty event viewer log**
 
  Large log files in Windows event viewer could cause excessively high usage of CPU or memory. To fix that, you can clear Event Viewer’s log:
@@ -108,24 +101,23 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  4) Restart your computer after this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4: Troubleshoot Windows Updates issues**
 
@@ -139,9 +131,21 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **PRO TIP**
 
@@ -165,16 +169,11 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +182,23 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-picture-perfection-picart-guide-to-pristine-image-editing/"><u>[New] In 2024, Picture Perfection PicArt Guide to Pristine Image Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-graphical-grandeur-radeons-return/"><u>[Updated] In 2024, Graphical Grandeur Radeon's Return</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-making-sense-of-mukbangs-crafting-foodie-streams/"><u>[Updated] Making Sense of Mukbangs Crafting Foodie Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>[Updated] Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5yuv55s744gl44kj54us56ul44gx44gf6zplusz5aow5oq95ye65pa55rov77ya44or44k944kz44oz5l255so44ks44kk44oj44cn/"><u>「動画から独立した音声抽出方法：パソコン使用ガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/46ver/"><u>「乃木坂46」楽曲フルver.無料ダウンロード方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/42024windows11/"><u>4最も効果的な2024年のWindows11画面録画手段</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030670934-3/"><u>連続して3枚のビデオを効果的に一画面表示するテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5a6m5ywo44k544kv44oq44o844oz44os44kz44o844oh44kj44oz44kw44gn44gn44ga44cb44gd44gu5y6f5zug44ks6kqs5pio44gx44gplus44gz/"><u>完全スクリーンレコーディングできず、その原因を説明します</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-4650-comprehensive-driver-downloads-for-windows-users-update-now/"><u>HP OfficeJet 4650: Comprehensive Driver Downloads for Windows Users - Update Now!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-narzo-n55-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme Narzo N55 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/no-cost-top-quality-premiere-pro-designs/"><u>No-Cost, Top-Quality Premiere Pro Designs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/top-8-high-definition-5k-display-options-for-you-for-2024/"><u>Top 8 High-Definition 5K Display Options for You for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030393316-youtube/"><u>YouTube動画のサムネイルアイコンを取得する究極ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030030122-youtubeiphone/"><u>YouTubeからiPhoneへ: 個人用動画保存とダウンロードの手順</u></a></li>
+</ul></div>
 

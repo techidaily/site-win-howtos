@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Protecting Your Spreadsheets - How to Lock and Unlock Cells in Excel Easily
-date: 2024-08-28T00:19:45.544Z
-updated: 2024-08-29T00:19:45.544Z
+date: 2025-01-23T17:48:01.006Z
+updated: 2025-01-25T16:38:08.515Z
 tags:
   - excel
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ## Master the Art of Protecting Your Spreadsheets - How to Lock and Unlock Cells in Excel Easily
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Why Lock Cells in a Spreadsheet?](https://vimeo-videos.techidaily.com/updated-2024-approved-skyrocketing-video-performance-on-vimeo/)
@@ -19,13 +23,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  When you're working on a spreadsheet in [Microsoft Excel](https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a54-5g-by-drfone-android/), locking your cells is crucial to protecting data, preventing mistakes, and more. Today, we'll show you how to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Lock Cells in a Spreadsheet?
 
  If you collaborate with others on a workbook, you might want to protect a cell by locking---especially if you want to make any changes or adjustments later. Locked cells can't be reformatted, altered, or deleted. Locking cells works in conjunction with protecting the workbook. To change data within the cells, they need to be unlocked, and the sheet must be unprotected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Locking Cells in an Excel Spreadsheet
 
  You can lock individual cells or multiple cells using this method. Here's how to do it with multiple cells.
@@ -42,24 +51,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![In the &quot;Format&quot; menu, select &quot;Lock Cell&quot; to lock the cells you previously selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/Lockcellformatmenu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  An alternative way to lock cells is to select your cells, then right-click them to bring up a menu. In that menu, select "Format Cells." In the "Format Cells" box, click the "Protection" tab.
 
 ![In the &quot;Format Cells&quot; box, navigate to the &quot;Protection&quot; tab and click on it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/protectformat.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  In the "Protection" tab, click the checkbox that says "Locked" to enable cell locking. This performs the exact same function as locking cells in the format tab.
 
 ![In the &quot;Protection&quot; tab, click on the box labelled &quot;Locked&quot; and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/formatlocked.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, your cells are locked. If you ever need to unlock them, perform the steps above in reverse. Once you've finished locking your cells, you need to protect your workbook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Protecting the Sheet
 
@@ -71,16 +79,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![In the ribbon under the &quot;Review&quot; tab, click on &quot;Protect Sheet.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/protectsheet.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  In the "Protect Sheet" menu, you can create a password to protect the sheet and select a number of different parameters. For now, check the box marked "Protect worksheet and contents of locked cells." Make any other adjustments you wish and click "OK" to protect the sheet.
 
 ![In the ribbon under the &quot;Review&quot; tab, click on &quot;Protect Sheet.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/protectsheet.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Among the other options on the list, you can prevent other users from deleting/inserting rows and columns, altering the formatting, or generally messing with the document by clicking on them in the protection menu. Once the [sheet is fully protected](https://screen-recording.techidaily.com/updated-essential-tips-for-gameplay-screen-captures-on-xbox-one-for-2024/), no one can access the locked cells without using a password to unlock them first.
 
  If you need to unlock the worksheet later, revisit the Review > Protect Sheet menu and uncheck "Protect worksheet and contents of locked cells." Now that you know how to lock cells, you can sleep safely knowing your spreadsheets and workbooks won't be altered without being unlocked first. Happy locking!
@@ -93,8 +95,6 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +102,21 @@ Related: [How to Protect Workbooks, Worksheets, and Cells From Editing in Micros
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-cinematic-crafts-win8-for-2024/"><u>[New] Cinematic Crafts Win8 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-leading-edge-top-16-best-freeware-media-players/"><u>[New] In 2024, Leading Edge Top 16 Best Freeware Media Players</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-essence-of-personal-branding-top-pfps-for-tiktok-success-for-2024/"><u>[New] The Essence of Personal Branding Top PFPs for TikTok Success for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-tier-visual-data-vaults/"><u>[Updated] Top-Tier Visual Data Vaults</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/download-memories-from-google-photos-safeguarding-cherished-moments/"><u>Download Memories From Google Photos: Safeguarding Cherished Moments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-when-your-acer-laptop-loses-its-speaker-volume/"><u>Expert Solutions for When Your Acer Laptop Loses Its Speaker Volume</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-3-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord 3 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-computer-freezes-at-the-bios-or-boot-screen/"><u>How to Resolve When Your Computer Freezes at the BIOS or Boot Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208783216-is-your-netflix-not-working-heres-what-to-do/"><u>Is Your Netflix Not Working? Here's What To Do!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/octobers-premier-vr-deal-alert-meta-drops-the-512gb-oculus-quest-3-on-a-steep-discount-for-prime-shoppers-expert-rundown/"><u>October's Premier VR Deal Alert: Meta Drops the 512GB Oculus Quest 3 on a Steep Discount for Prime Shoppers | Expert Rundown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-startup-problems-with-minecraft-in-windows/"><u>Troubleshooting Guide: Resolving Startup Problems with Minecraft in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unlocking-the-fix-for-constant-reboot-on-windows-1011-systems/"><u>Troubleshooting: Unlocking the Fix for Constant Reboot on Windows 10/11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-the-0x80072efd-glitch-in-windows-11-proven-strategies-and-solutions/"><u>Winning Against the 0X80072EFD Glitch in Windows 11: Proven Strategies and Solutions</u></a></li>
+</ul></div>
 

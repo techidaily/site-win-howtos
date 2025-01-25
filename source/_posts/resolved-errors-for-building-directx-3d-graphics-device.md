@@ -1,7 +1,7 @@
 ---
 title: Resolved Errors for Building DirectX 3D Graphics Device
-date: 2024-08-28T00:23:40.627Z
-updated: 2024-08-29T00:23:40.627Z
+date: 2025-01-23T16:58:53.862Z
+updated: 2025-01-25T16:39:45.865Z
 tags:
   - win11
   - win10
@@ -51,19 +51,35 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5932c4650.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)** Click on **Clear browsing data** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a02deb5a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Click **Clear browsing data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a4277ce0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And on **Mozilla Firefox** :
 
 **a)**  Click the**Menu** button of Firefox, and then select**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c7cb124c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c93bf987.png)
 
@@ -87,21 +103,20 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f642024598.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 **b)**  For **Firefox** ,type “ _**about:addons**_ ” in the address bar, press **Enter** , and then select**Extensions** . You will see all the extensions for Firefox is listed here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f6496cf6c6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can **disable all the extensions** to see if this fix the problem. If it does, you can enable**one extension at a time** to identify the one that causes the trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4) Correct your system date and time
 
  Usually you meet the ERR\_TOO\_MANY\_REDIRECTS error due to the incorrect or outdated date and time settings on your system. To correct your system date and time.
@@ -110,9 +125,6 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f827608c6c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **b)** In Control Panel, select**Date and Time** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f82d4f3a5d.png)
@@ -122,15 +134,13 @@ Here are the examples of checking extensions in Chrome and Firefox.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f83de02494.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **d)** In Internet Time Settings, tick **Synchronize with an Internet time server** and select a**time server** . Then click on**Update now** , and hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f84b23c29a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The date and time on your system is now updated.
 
 ## You may also want to read…
@@ -146,8 +156,6 @@ The date and time on your system is now updated.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +163,22 @@ The date and time on your system is now updated.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unmatched-audio-changer-applications-for-smartphones-for-2024/"><u>[New] Unmatched Audio Changer Applications for Smartphones for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-enlightened-approach-to-youtube-titles-with-ai/"><u>[Updated] 2024 Approved Enlightened Approach to YouTube Titles with AI</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-downloading-of-pioneer-dj-ddj-sx2-software-step-by-step-tutorial/"><u>Easy Downloading of Pioneer DJ DDJ-SX2 Software - Step by Step Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-word-2023-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a Word 2023</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-an-unavailable-wi-fi-signal-indicated-by-a-red-x-icon/"><u>How to Address an Unavailable Wi-Fi Signal Indicated by a Red 'X' Icon</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-c33-2023-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme C33 2023</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-your-windows-11-systems-shutdown-process-a-comprehensive-guide/"><u>How to Speed Up Your Windows 11 System's Shutdown Process - A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-6-plus-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 6 Plus? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-comprehensive-analysis-free2x-cam-recording-apps/"><u>In 2024, Comprehensive Analysis Free2X Cam Recording Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-preserving-energy-in-your-gaming-controllers/"><u>Master the Art of Preserving Energy in Your Gaming Controllers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-apex-legends-hiccup-straightforward-solutions-for-anti-cheat-errors/"><u>Overcoming the Apex Legends Hiccup: Straightforward Solutions for Anti-Cheat Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-the-parameter-is-incorrect-error-error-code-groovy-when-loading-libraries/"><u>Resolved: Overcoming 'The Parameter Is Incorrect' Error (Error Code Groovy) When Loading Libraries</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-simple-how-to-tackle-and-correct-0x80070652-errors-in-windows-update/"><u>Troubleshooting Made Simple: How to Tackle and Correct 0X80070652 Errors in Windows Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-vanished-desktop-icons-on-windows-10-solutions-proven-effective/"><u>Troubleshooting Vanished Desktop Icons on Windows 10: Solutions Proven Effective</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211151291-windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help!</u></a></li>
+</ul></div>
 

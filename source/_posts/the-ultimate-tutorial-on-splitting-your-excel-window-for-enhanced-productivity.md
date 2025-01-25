@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Splitting Your Excel Window for Enhanced Productivity
-date: 2024-08-28T00:19:39.036Z
-updated: 2024-08-29T00:19:39.036Z
+date: 2025-01-23T17:24:54.601Z
+updated: 2025-01-25T16:06:28.916Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ---
 
 ## The Ultimate Tutorial on Splitting Your Excel Window for Enhanced Productivity
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,11 +31,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Split screen in View tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/Split-screen-in-View-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That said, there are a few ways to use this feature to split the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Creating Four Equal Quadrants
 
  Excel lets you split the screen into four equal quadrants. This gives you four copies of your current worksheet, all on the same screen! To do this, first, make sure that you've got the A1 cell selected.
@@ -39,22 +44,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![A1 cell selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/A1-cell-selected.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, head back over to the “View” tab and click the “Split” button. This will split your screen into four equal worksheets.
 
 ![four equal screens Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/four-equal-screens-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also tweak where the split is by clicking and dragging either side of one of the worksheets, or the center section.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/GIF.gif) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Vertical and Horizontal Splits
 
  If you don't need four copies of the worksheet, you can split the screen in two instead. You can split the screen horizontally or vertically, depending on what you need.
@@ -63,20 +67,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![horizontal split in excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/horizontal-split-in-excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Splitting the screen vertically is just as easy. Select a cell from any column (except column A) in row 1 and click the “Split” button.
 
 ![split screen vertically](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/split-screen-vertically.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You don’t have to follow these rules exactly. Selecting any cell from any row will split the spreadsheet. The only thing to remember is that, unless you select a cell from the first row or from column A, the screen will be split into four instead of two.
 
 ![uneven screen split](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/uneven-screen-split.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  Once you’re finished with the feature and are ready to get the screen back to a single worksheet, simply click the “Split” option again to turn it off. Alternatively, you can drag the sides of the split screen bars to the edge of the window to disable the feature.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/04/GIF.gif)
@@ -87,8 +89,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +96,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-wolfenstein-2-could-not-write-crash-dump/"><u>[Fixed] Wolfenstein 2 Could Not Write Crash Dump</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-simplified-steps-to-documenting-fb-chats-and-calls/"><u>[New] In 2024, Simplified Steps to Documenting FB Chats and Calls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazons-social-stardom-liking-and-viewing-leaderships/"><u>[Updated] 2024 Approved Amazon's Social Stardom Liking and Viewing Leaderships</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-ingenious-techniques-for-voice-transformation-at-zero-price/"><u>2024 Approved Explore Ingenious Techniques for Voice Transformation at Zero Price</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-game-glitches-eliminate-fifa-20-crashing-issues-on-pc-for-good/"><u>Conquer Game Glitches: Eliminate FIFA 20 Crashing Issues on PC for Good</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dsss-spreads-the-signal-across-a-wide-band-using-a-pseudorandom-noise-code-enhancing-resistance-to-jamming/"><u>DSSS Spreads the Signal Across a Wide Band Using a Pseudorandom Noise Code, Enhancing Resistance to Jamming.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-bluetooth-keypad-connection-issue-on-windows-or-mac-devices/"><u>How to Fix a Bluetooth Keypad Connection Issue on Windows or Mac Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-lenovo-webcam-drivers-for-windows-7-users/"><u>How to Install the Latest Lenovo Webcam Drivers for Windows 7 Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-firmware-lasting-sound-quality/"><u>Instant Firmware, Lasting Sound Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/interface-issue-keyboard-revived/"><u>Interface Issue: Keyboard Revived</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-game-hiccups-how-to-stop-them/"><u>Nvidia RTX 3080 Game Hiccups - How to Stop Them</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stabilizing-high-cpu-windows-systems/"><u>Stabilizing High-CPU Windows Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/superior-choice-of-8-free-uhd-software-for-pc-and-macos/"><u>Superior Choice of 8 Free UHD Software for PC & MacOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-2024-strategies-resolving-bluetooth-connectivity-issues-on-your-windows-10-pc/"><u>Top 2024 Strategies: Resolving Bluetooth Connectivity Issues on Your Windows 10 PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-strategies-for-in-depth-nba-game-watching/"><u>Top Strategies for In-Depth NBA Game Watching</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-wwe-2k-battlegrounds-level-100-directx-11-glitches/"><u>Troubleshooting Guide: Resolving WWE 2K Battlegrounds' Level 10.0 DirectX 11 Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-service-failed-errors-on-your-windows-1011-account-login/"><u>Troubleshooting Steps for 'Service Failed' Errors on Your Windows 10/11 Account Login</u></a></li>
+</ul></div>
 

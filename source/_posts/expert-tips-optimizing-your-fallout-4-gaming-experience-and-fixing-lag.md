@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Optimizing Your Fallout 4 Gaming Experience & Fixing Lag"
-date: 2025-01-09T16:23:30.063Z
-updated: 2025-01-13T16:45:25.990Z
+date: 2025-01-19T17:17:58.149Z
+updated: 2025-01-25T16:17:58.952Z
 tags:
   - win11
   - win10
@@ -28,37 +28,33 @@ You may encounter an error with a code of **1603** when you are attempting to in
 
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2) Completely uninstall the same program installed
 
 If you have previously installed the same program (or its earlier version), the error can occur when you try to install the application again. If you want to install your program successfully, you need to perform a **clean uninstall** of the one installed on your computer. This means you need to remove all the temporary files and preferences it leaves in addition to the major program. Sometimes you may lose the desktop shortcut of a program due to some reasons and therefore you may forget that you have installed it. In this case you can go to**Control Panel**to check if it is still on your computer: Press**Win + R**, and enter “ _**control**_“;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then you can check if the application is listed here. If it is, uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
 
 There may be something going wrong with**Microsoft Installer service**and therefore resulting in error 1603\. You can fix the problem by (re)starting and re-registering Microsoft Installer service. To**start**Windows Installer service:**a)** Press**Win + R**and enter “_**services.msc**_“;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **b)** Find and double click on**Windows Installer**;
 
@@ -77,11 +73,7 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -90,13 +82,25 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb123f210b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
 
@@ -105,10 +109,6 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 **e)** Click on**Change Permissions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **f)** On**Permissions**tab, double click on**Administrators**.
 
@@ -119,7 +119,7 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
@@ -145,16 +145,20 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-discover-top-ios-video-downloads-facebook-edition/"><u>[New] Discover Top iOS Video Downloads Facebook Edition</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-best-practices-in-extracting-youtube-media/"><u>[Updated] In 2024, Best Practices in Extracting YouTube Media</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-black-screen-problem-in-obs-recording/"><u>Resolved: How to Fix the Black Screen Problem in OBS Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-unsupported-monitor-displays-and-incompatible-input-timings/"><u>Resolved! Unsupported Monitor Displays & Incompatible Input Timings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-macs-webcam-in-minutes-with-these-easy-fixes/"><u>Revive Your Mac's Webcam in Minutes with These Easy Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-xp-pen-driver-update-techniques-explained/"><u>Seamless XP-Pen Driver Update Techniques Explained</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-restoring-lost-volumes-on-your-pc-using-windows-10-features/"><u>Step-by-Step Guide: Restoring Lost Volumes on Your PC Using Windows 10 Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-repairing-oculus-tech-malfunctions-as-of-2024/"><u>Step-by-Step Solutions for Repairing Oculus Tech Malfunctions as of 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-overcoming-the-notorious-2024-fatal-error-crash-in-halo-4-using-ue4-fixes/"><u>Ultimate Solution: Overcoming the Notorious 2024 Fatal Error Crash in Halo 4 Using UE4 Fixes</u></a></li>
-<li><a href="https://win-help.techidaily.com/wie-man-nicht-erkannte-usb-datentrager-wiederherstellt/"><u>Wie Man Nicht Erkannte USB-Datenträger Wiederherstellt</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-concise-content-the-best-url-cutter-tools-for-youtubers/"><u>[Updated] In 2024, Concise Content The Best URL Cutter Tools for Youtubers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-masterclass-flawless-powerpoint-screen-recordings-for-2024/"><u>[Updated] Masterclass Flawless PowerPoint Screen Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-mac-gif-videographer-for-2024/"><u>[Updated] Ultimate Mac Gif Videographer for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-guide-to-mastering-zero-cost-timer-functionality/"><u>2024 Approved Expert Guide to Mastering Zero Cost Timer Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-bootmgr-not-found-error-step-by-step-guide-includes-screenshots/"><u>Effortless Fix for Bootmgr Not Found Error - Step-by-Step Guide Includes Screenshots</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-bingchatgpts-fraudulent-cryptocurrency-tokens-a-compreh/"><u>Identifying BingChatGPT's Fraudulent Cryptocurrency Tokens: A Compreh</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-glowing-with-hd-does-it-serve-the-scope-of-hdr-well/"><u>In 2024, Glowing with HD Does It Serve the Scope of HDR Well?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimized-wdf-implementation-reducing-excessive-cpu-usage/"><u>Optimized WDF Implementation: Reducing Excessive CPU Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repair-broken-usb-connectivity-in-windows-operating-systems/"><u>Step-by-Step Guide: Repair Broken USB Connectivity in Windows Operating Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tirez-parti-de-movavi-transformez-votre-fichier-swf-gratuitement-en-image-gif-sur-internet/"><u>Tirez Parti De Movavi : Transformez Votre Fichier SWF Gratuitement en Image GIF Sur Internet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209999377-troubleshooting-windows-audio-issues-stop-high-cpu-consumption-now/"><u>Troubleshooting Windows Audio Issues: Stop High CPU Consumption Now!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/k-youtube-monetization-with-500-subscribers/"><u>Unlock YouTube Monetization with 500 Subscribers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-correct-the-unwanted-radiant-red-issue-on-your-windows-10-device/"><u>Winning Strategies to Correct the Unwanted Radiant Red Issue on Your Windows 10 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-fix-unresponsive-bluetooth-connections-on-windows-11-2024-tips/"><u>Winning Strategies to Fix Unresponsive Bluetooth Connections on Windows 11 (2024 Tips)</u></a></li>
 </ul></div>
 

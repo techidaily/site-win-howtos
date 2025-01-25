@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Enumeration Error and Access Denied Problem on Your Windows 10 PC
-date: 2024-08-28T00:24:35.675Z
-updated: 2024-08-29T00:24:35.675Z
+date: 2025-01-21T18:09:57.736Z
+updated: 2025-01-25T16:00:29.031Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
 3\. Restart the PC and connect the device to the USB port.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 2: Uninstall the USB Driver in Device Manager**
 
 Follow these steps:
@@ -73,16 +77,18 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## **Method 4: Disable Fast Startup**
 
  If Windows is booting quickly, the external device may not be detected before the boot is completed, then the problem will occur. In this case, disabling the fast boot option in Power Options can resolve the problem.
@@ -93,9 +99,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde28fa83dc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. View by Large Icons and click on**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
@@ -104,12 +107,13 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde37b21df1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5\. Click on**Change settings that are corrently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde3ce2afe1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6\. Under**Shutdown settings** , uncheck the box next to**Turn on fast startup (recommended)** . Then click on the**Save changes** button.
 
@@ -117,9 +121,6 @@ Follow these steps:
 
  7\. Restart your PC and see if the problem resolves. Note your PC will boot a little slower.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 5: Change the USB Selective Suspend Settings**
 
 Follow these steps:
@@ -128,28 +129,30 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2\. Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb15c69d9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Select **High performance** and click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4\. Click on**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde9507f19b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5\. Click on**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb95133af.png)
@@ -170,8 +173,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +180,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-immersion-tools-top-ten-innovative-vr-accessories-for-2024/"><u>[New] Immersion Tools Top Ten Innovative VR Accessories for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-perfecting-iphone-timelapse-techniques/"><u>[Updated] Perfecting iPhone Timelapse Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/comparative-overview-of-googles-ar-stickers-and-its-counterparts/"><u>Comparative Overview of Google's AR Stickers & Its Counterparts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-eliminating-intermittent-mouse-disconnecting-woes/"><u>Comprehensive Fixes: Eliminating Intermittent Mouse Disconnecting Woes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972482843-corsair-void-pro-windows-driver-download-and-installation-made-simple/"><u>Corsair Void Pro Windows Driver Download & Installation Made Simple!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dismay-over-d3d-devices-may-lead-to-unreals-exit/"><u>Dismay over D3D Devices May Lead to Unreal's Exit</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-windows-11-wont-run-issues-expert-advice-and-solutions/"><u>Fixing Windows 11 Won't Run Issues: Expert Advice & Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-steam-connectivity-challenges-a-comprehensive-guide/"><u>Overcoming Steam Connectivity Challenges: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactive-techniques-when-your-laptops-touchpad-stops-responding-what-to-do/"><u>Reactive Techniques: When Your Laptop's Touchpad Stops Responding, What to Do?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-windows-network-error-code-0x800704cf-comprehensive-guide/"><u>Solving the Windows Network Error Code 0X800704CF: Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-your-wireless-keyboard-seamlessly/"><u>Step-by-Step Guide: Setting Up Your Wireless Keyboard Seamlessly</u></a></li>
+</ul></div>
 

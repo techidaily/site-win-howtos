@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips
-date: 2025-01-16T18:18:27.707Z
-updated: 2025-01-19T17:57:07.309Z
+date: 2025-01-24T18:03:01.061Z
+updated: 2025-01-25T16:34:49.457Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -49,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
@@ -66,10 +74,6 @@ To make sure the volume is audible:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -83,10 +87,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
@@ -99,7 +99,7 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -117,7 +117,7 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -156,22 +156,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-audioadventurers-venturing-without-dacast/"><u>[New] 2024 Approved AudioAdventurers Venturing Without DaCast</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-cloud-savings-showdown-top-costs/"><u>[New] Cloud Savings Showdown Top Costs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/acquiring-mastery-in-spanish-greetings-10-key-expressions/"><u>Acquiring Mastery in Spanish Greetings: 10 Key Expressions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apples-fall-lineup-comprehensive-guide-to-new-iphone-ipad-mac-ai-innovations-uncovered-by-tech-gurus-at-zdnet/"><u>Apple's Fall Lineup: Comprehensive Guide to New iPhone, iPad, Mac AI Innovations Uncovered by Tech Gurus at ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolution-incompatible-data-entry-showing-up-on-screen/"><u>Error Resolution: Incompatible Data Entry Showing Up on Screen</u></a></li>
-<li><a href="https://facebook.techidaily.com/fake-followers-or-real-friends-unmask-deceit-online/"><u>Fake Followers or Real Friends? Unmask Deceit Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-connection-issues-with-a-malfunctioning-dell-keyboard/"><u>Fixing Connection Issues with a Malfunctioning Dell Keyboard</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guia-passo-a-passo-para-transferir-filmes-de-dvd-para-disco-rigido-no-windows-e-mac-computers/"><u>Guia Passo-a-Passo Para Transferir Filmes De DVD Para Disco Rígido No Windows E Mac Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-smooth-play-a-guide-to-resolving-wow-latency-issues/"><u>Mastering Smooth Play: A Guide to Resolving WoW Latency Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-sound-issues-a-comprehensive-guide-to-reviving-your-volume-controls/"><u>Mastering Windows 10 Sound Issues: A Comprehensive Guide to Reviving Your Volume Controls</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/personalization-controls-restored-previous-glitch-cleared-up/"><u>Personalization Controls Restored - Previous Glitch Cleared Up</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/premier-live-tv-service-showdown-a-comparative-look-for-2024/"><u>Premier Live TV Service Showdown A Comparative Look for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-auto-gpt-integration-into-your-ubuntu-step-by-step-walkthrough/"><u>Seamless Auto-GPT Integration Into Your Ubuntu - Step by Step Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-no-audio-output-device-problem-on-windows-11-a-step-by-step-guide/"><u>Solving the 'No Audio Output Device' Problem on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-user-profile-service-failed-errors-in-windows-1011/"><u>Step-by-Step Guide: Overcoming 'User Profile Service Failed' Errors in Windows 10/11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-2023-laptop-reveals-ifa-edition/"><u>Top 2023 Laptop Reveals - IFA Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-non-functional-keyboard-on-boot/"><u>Troubleshooting Guide: Non-Functional Keyboard on Boot</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>[New] Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-the-mechanics-an-introduction-to-gopro-time-lapse/"><u>[New] In 2024, Mastering the Mechanics An Introduction to GoPro Time-Lapse</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-inshot-app-how-to-integrate-external-songs-easily-for-2024/"><u>[New] InShot App How to Integrate External Songs Easily for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essential-guide-to-integrating-voice-over-in-ppts/"><u>[Updated] 2024 Approved The Essential Guide to Integrating Voice Over in PPTs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-castcritique-report-for-2024/"><u>[Updated] CastCritique Report for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-techniques-of-capturing-emotion-in-digital-gif-formats/"><u>[Updated] Techniques of Capturing Emotion in Digital GIF Formats</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-connectivity-woes-ultimate-guide-to-pairing-airpods-with-windows-computers/"><u>Beat Connectivity Woes: Ultimate Guide to Pairing AirPods with Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dxgierrordevicehung-solved-in-a-jiffy-proven-techniques-for-smooth-performance/"><u>DXGI_ERROR_DEVICE_HUNG Solved in a Jiffy: Proven Techniques for Smooth Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-cant-open-geforce-experience-problems-step-by-step-solutions/"><u>Fixing 'Can't Open GeForce Experience' Problems - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-no-device-found-error-on-your-computer-step-by-step-guide/"><u>Fixing the 'No Device Found' Error on Your Computer - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-webcam-malfunctions-on-windows-10-a-comprehensive-fix-guide/"><u>Overcoming HP Laptop Webcam Malfunctions on Windows 10: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-overcoming-windows-10-keyboard-responsiveness-issues/"><u>Solution Guide: Overcoming Windows 10 Keyboard Responsiveness Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-fixing-loudspeaker-problems-in-windows-10/"><u>Troubleshooting Audio Issues: Fixing Loudspeaker Problems in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-bluetooth-mouse-on-windows-pc/"><u>Troubleshooting Guide: How to Fix a Non-Functional Bluetooth Mouse on Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-laptop-power-failure-windows-7-and-10-solutions/"><u>Troubleshooting Laptop Power Failure: Windows 7 and 10 Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-upgraded-widget-choice-interface-in-win11/"><u>Unlocking Upgraded Widget Choice Interface in Win11</u></a></li>
 </ul></div>
 

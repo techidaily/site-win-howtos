@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Successfully Detecting Devices via Bluetooth on Windows 10"
-date: 2025-01-14T16:40:04.331Z
-updated: 2025-01-19T16:10:49.469Z
+date: 2025-01-22T18:34:04.647Z
+updated: 2025-01-25T17:05:19.819Z
 tags:
   - win11
   - win10
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587457ec45cf7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Advanced** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58748718cdfdb.png)
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
  7) Click the **Next** button. Then the troubleshoot will detect the problems and fix them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874588bebf3f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8) Check to see if you see the 0x800705b4 error in Windows Update.
 
@@ -83,10 +91,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745b19a3f8e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer.
 
 5) Open the Windows Update Settings window again (If you’re not sure how to open this window, refer the Step 1). Click **Check for updates** .
@@ -100,7 +104,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745f4d8fdcd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Go back to**Check for Updates** again. Then the updates should download successfully this time.
@@ -116,7 +120,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746e74d3054.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click**Background Intelligent Transfer Service** then select**Stop** .
@@ -124,28 +128,24 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746f3a14981.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click **Windows Update**  then select**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746fbb6d514.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Open **Windows Explorer** and navigate to “**C:\\Windows\\SoftwareDistribution** “.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874704edc0c2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Delete all the content in this folder. (Some files may not be deleted, in this case, go back to Step 3 and try again. Just ensure to delete “Download” and “DeliveryOptimation”.)
 
  6) Restart your PC and check to see if the error persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4:** Repair system files
 
@@ -169,10 +169,18 @@ There are 2 ways to solve it. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -185,10 +193,6 @@ There are 2 ways to solve it. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
@@ -196,12 +200,16 @@ There are 2 ways to solve it. Here’s how:
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to [Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 5: Perform a Clean Boot then Install the Updates Again
 
  If you are not sure how to perform a clean boot, see [How to Perform a Clean Boot in Windows 10](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 6: Update the Drivers
@@ -218,19 +226,11 @@ There are 2 ways to solve it. Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-440.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-441.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully methods here will help you resolve the 0x800705b4 error. If you have any questions, please feel free to leave your comments. I’d love to hear of any suggestions or ideas.
 
@@ -251,21 +251,22 @@ There are 2 ways to solve it. Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-battle-of-screen-capture-supremacy-obs-vs-fraps/"><u>[New] In 2024, The Battle of Screen Capture Supremacy OBS vs Fraps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-distinguished-crafters-superior-online-instagram-hlv-creators-for-2024/"><u>[Updated] Distinguished Crafters Superior Online Instagram HLV Creators for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/abbyy-m-files-highlights-der-neuesten-ki-integrationstechnologien/"><u>ABBYY M-Files: Highlights Der Neuesten KI-Integrationstechnologien</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-stubborn-windows-update-glitch-eliminate-error-0x80240017-now/"><u>Bypassing the Stubborn Windows Update Glitch: Eliminate Error 0X80240017 Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-frozen-windows-updates-that-wont-finish/"><u>Diagnosing and Repairing Frozen Windows Updates That Won't Finish</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-dissection-gpt-vs-bingbots-10-key-dichotomies/"><u>Dialogue Dissection: GPT Vs. BingBot's 10 Key Dichotomies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-buttons-in-windows-a-step-by-step-guide/"><u>Fixing Sticky Keyboard Buttons in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-spotify-crashing-when-you-lock-your-iphone/"><u>How to Stop Spotify Crashing When You Lock Your iPhone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo Reno 11F 5G?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y100withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y100with/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-y02t-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo Y02T to Another | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ps4-charger-troubles-heres-how-to-get-your-dualshock-working-again/"><u>PS4 Charger Troubles? Here's How to Get Your Dualshock Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-keypad-performance-in-windows-operating-systems-win-1187-effective-remedies/"><u>Restoring Keypad Performance in Windows Operating Systems (Win 11/8/7): Effective Remedies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-for-windows-10-mutevolume-issues-resolved/"><u>Step-by-Step Repair for Windows 10 Mute/Volume Issues - Resolved</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-of-authorities-in-controlling-and-guiding-ai-innovations/"><u>The Role of Authorities in Controlling and Guiding AI Innovations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-bluetooth-mouse-on-windows-pc/"><u>Troubleshooting Guide: Fixing a Non-Responsive Bluetooth Mouse on Windows PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-adjusting-sound-settings-gently-in-windowsmacos/"><u>[New] 2024 Approved Adjusting Sound Settings Gently in Windows/macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-techniques-for-exceptional-audio-recording-without-a-mic/"><u>[New] Techniques for Exceptional Audio Recording without a Mic</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-monetization-mastery-elevating-your-youtube-earning-strategy/"><u>[Updated] 2024 Approved Monetization Mastery Elevating Your YouTube Earning Strategy</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-complete-breakdown-of-downloading-status-videos-on-fb/"><u>[Updated] The Complete Breakdown of Downloading Status Videos on Fb</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-online-sources-for-3d-glitter-text-designs-for-2024/"><u>[Updated] Top Online Sources for 3D Glitter Text Designs for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-innovative-approaches-to-refine-gpt-interaction-quality/"><u>7 Innovative Approaches to Refine GPT Interaction Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-improving-keyboard-response-time/"><u>Easy Fixes for Improving Keyboard Response Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-unresponsive-windows-10-file-explorer-effective-solutions-explored/"><u>Fix Unresponsive Windows 10 File Explorer – Effective Solutions Explored</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-desktop-orientation-backward-problem/"><u>Fix: Desktop Orientation Backward Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-update-0x80070490-error-a-comprehensive-guide/"><u>Fixing the Windows Update 0X80070490 Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/how-to-fix-your-unresponsive-mouse-with-tips-by-yl-software-experts/"><u>How to Fix Your Unresponsive Mouse with Tips by YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-application-if-it-fails-to-find-a-necessary-module/"><u>How To Repair an Application if It Fails to Find a Necessary Module</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-sharpen-your-gpt-interactions-without-mistakes/"><u>How to Sharpen Your GPT Interactions Without Mistakes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-diagnostics-resolving-non-functional-numeric-keys/"><u>Keyboard Diagnostics: Resolving Non-Functional Numeric Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208008775-the-ultimate-fixes-for-kodis-glitches-say-goodbye-to-playback-issues/"><u>The Ultimate Fixes for Kodi's Glitches: Say Goodbye to Playback Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-notorious-ce-34878-0-glitch-in-playstation-4-consoles/"><u>Troubleshooting and Correcting the Notorious CE-34878-0 Glitch in PlayStation 4 Consoles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-failed-feature-updates-in-windows-10-v1803-now-solved/"><u>Winning the Battle Against Failed Feature Updates in Windows 10 v1803 - Now Solved</u></a></li>
 </ul></div>
 

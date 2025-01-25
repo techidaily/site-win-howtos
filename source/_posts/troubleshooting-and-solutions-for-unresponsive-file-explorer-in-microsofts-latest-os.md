@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solutions for Unresponsive File Explorer in Microsoft's Latest OS
-date: 2024-08-28T00:21:54.698Z
-updated: 2024-08-29T00:21:54.698Z
+date: 2025-01-18T16:39:11.266Z
+updated: 2025-01-25T17:35:58.789Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
  Check if the microphone is still not working. If yes, then great. But if it’s not working, move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
 
@@ -58,8 +66,9 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -69,25 +78,23 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
@@ -106,9 +113,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
@@ -136,8 +140,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +147,24 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-elevate-with-ig-stories-constructing-an-impactful-marketing-strategy/"><u>[New] Elevate with IG Stories Constructing an Impactful Marketing Strategy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mobile-laughs-and-memes/"><u>[New] Mobile Laughs & Memes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-intersection-of-real-and-virtual-defining-mixed-reality/"><u>[New] The Intersection of Real and Virtual Defining Mixed Reality</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-best-youtube-video-ideas-to-spark-inspiration/"><u>[Updated] 2024 Approved Best YouTube Video Ideas to Spark Inspiration</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevating-your-channels-ranking-simple-strategies-unveiled/"><u>[Updated] Elevating Your Channel's Ranking Simple Strategies Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-mixed-realitys-impact-on-interaction/"><u>[Updated] Understanding Mixed Reality's Impact on Interaction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3-leading-tools-for-swiftly-downloading-videos-from-facebook-with-ease/"><u>3 Leading Tools for Swiftly Downloading Videos From Facebook with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5ris5a6a5zmo44ko44od44k444gn6zplusz5aow6lui5yaz6yyy6zplusz44gu44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj/"><u>測定器エッジで音声転写録音のステップバイステップガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/6ksh5pww44gu5a2x5bmv44oi44op44od44kv44gu5lplusd5a2y5oml6acg44ks5a2m44g2/"><u>複数の字幕トラックの保存手順を学ぶ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/6auy5zob5l2n6kej5p6q44ot44oh44kq5asj5oplusbic0g5bcc6zaa44oe44o844or44go54sh5paz44ox44ot44kw44op44og44gu5l244ge5pa5/"><u>高品位解析ビデオ変換 - 専門ツールと無料プログラムの使い方</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-features-free-vs-premium-mpeg-video-converter-factory-against-factory-pro/"><u>Comparing Features: Free vs Premium - MPEG Video Converter Factory Against Factory Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crafting-charming-and-humorous-emoji-clips-effortlessly-using-top-rated-emoji-editors/"><u>Crafting Charming & Humorous Emoji Clips Effortlessly Using Top-Rated Emoji Editors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-best-free-mkv-editing-tools-your-ultimate-guide/"><u>Discover the Best Free MKV Editing Tools - Your Ultimate Guide!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixing-dead-paper-output-in-hp-printers/"><u>Fixing Dead Paper Output in HP Printers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y78-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y78 5G Device</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/uncovering-vintage-memories-a-guide-to-locating-old-photos-on-facebook/"><u>Uncovering Vintage Memories: A Guide to Locating Old Photos on Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030692203-telasa/"><u>テラサ(Telasa)動画キャプチャと保存:詳細ガイド</u></a></li>
+</ul></div>
 

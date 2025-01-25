@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Nonfunctional Microphone on Your Laptop - Solved"
-date: 2025-01-14T18:01:13.557Z
-updated: 2025-01-19T18:30:10.733Z
+date: 2025-01-23T18:47:43.032Z
+updated: 2025-01-25T16:31:21.412Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Restart your computer
 
  Restarting computer could resolve many hardware issues instantly. So it’s recommended you try this simple fix first before moving on.
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update the driver
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
@@ -77,15 +77,15 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -105,13 +105,13 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Next** .
 
@@ -122,7 +122,7 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Click**Finish** .
@@ -155,16 +155,16 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-record-a-gotomeeting-session-on-pcs-and-smartphones/"><u>[New] In 2024, How to Record a GoToMeeting Session on PCs and Smartphones?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-shooting-top-10-high-definition-dslr-stands/"><u>[Updated] In 2024, Ultimate Shooting Top 10 High-Definition DSLR Stands</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-resolve-the-windows-10-intermittent-rebooting-dilemma/"><u>Effective Solutions to Resolve the Windows 10 Intermittent Rebooting Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-device-descriptor-request-failed-successful-usb-fixes-unveiled/"><u>Fix Your 'Device Descriptor Request Failed' - Successful USB Fixes Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-0x80072efd-microsoft-store-error-in-windows-11-and-windows-10/"><u>How to Fix the 0X80072EFD Microsoft Store Error in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-update-and-solve-device-driver-mismatch-issues/"><u>How to Update and Solve Device Driver Mismatch Issues</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing/"><u>In 2024, 7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211294971-present-evidence-such-as-studies-or-expert-opinions-to-support-this-point/"><u>Present Evidence Such as Studies or Expert Opinions to Support This Point</u></a></li>
-<li><a href="https://win11.techidaily.com/samsungs-dex-breakthrough-control-your-phone-on-windows-with-ease/"><u>Samsung’s DeX Breakthrough: Control Your Phone on Windows with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-overcoming-the-windows-update-issue-error-0x8024002e/"><u>Step-by-Step Solutions for Overcoming the Windows Update Issue (Error 0X8024002E)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-lenovo-ideapad-laptop-examined-featuring-a-sturdy-framework-and-easy-to-navigate-interface/"><u>The Lenovo IdeaPad Laptop Examined: Featuring a Sturdy Framework and Easy-to-Navigate Interface</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-finding-chrome-companions-custom-melodies/"><u>[New] Finding Chrome Companion's Custom Melodies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-top-10-screen-recorders-for-mac/"><u>[New] Premium Top 10 Screen Recorders for Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-direct-linkage-bridging-youtube-and-imovie-with-music/"><u>[Updated] Direct Linkage Bridging YouTube and iMovie with Music</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-sites-for-downloading-text-aesthetics/"><u>2024 Approved Pioneering Sites for Downloading Text Aesthetics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ftdisk-system-alert-driver-compatibility-issues-lead-to-memory-integrity-offline/"><u>FTDisk System Alert: Driver Compatibility Issues Lead to Memory Integrity Offline</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-tackling-and-disabling-google-chromes-persistent-critical-error-trickery/"><u>Guide to Tackling and Disabling Google Chrome's Persistent Critical Error Trickery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-overcoming-issues-with-launching-minecraft-on-a-windows-pc/"><u>Solution: Overcoming Issues with Launching Minecraft on a Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-fixing-activation-error-of-snip-and-sketch-shortcut-windows-plus-shift-plus-s-in-windows-1011/"><u>Step-by-Step Solution for Fixing Activation Error of Snip & Sketch Shortcut (Windows + Shift + S) in Windows 10/11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/techniques-for-effective-siri-voice-use-in-tiktok-for-2024/"><u>Techniques for Effective Siri Voice Use in TikTok for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-connection-issues-for-your-microsoft-wireless-display-adapter-on-windows-11/"><u>Troubleshooting and Fixing Connection Issues for Your Microsoft Wireless Display Adapter on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-wireless-button-tuning-guide-reverting/"><u>Xbox Wireless Button Tuning Guide (Reverting)</u></a></li>
 </ul></div>
 

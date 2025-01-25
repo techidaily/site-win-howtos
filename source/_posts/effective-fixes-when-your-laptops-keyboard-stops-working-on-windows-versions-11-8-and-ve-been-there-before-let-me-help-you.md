@@ -1,7 +1,7 @@
 ---
 title: "Effective Fixes When Your Laptop's Keyboard Stops Working on Windows Versions: 11, 8, and Ve Been There Before! Let Me Help You."
-date: 2025-01-14T16:37:20.148Z
-updated: 2025-01-19T19:39:18.558Z
+date: 2025-01-19T18:41:56.441Z
+updated: 2025-01-25T16:34:52.369Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,10 +59,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -68,14 +68,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
@@ -86,6 +86,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Change boot order in BIOS
 
 **Changing boot order in BIOS** turns out to be another effective solution to your computer-won’t-shut-down problem. Here’s how we do it:
@@ -94,10 +98,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
@@ -105,7 +105,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -125,7 +125,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -154,14 +154,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-amplifying-instagram-video-reach-and-traffic-for-2024/"><u>[Updated] Amplifying Instagram Video Reach & Traffic for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-blur-the-borders-enhancing-your-videos-appeal-on-yt/"><u>[Updated] In 2024, Blur the Borders Enhancing Your Video's Appeal on YT</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-wu-and-orchestrator-integration/"><u>Deciphering WU & Orchestrator Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-device-connection-overcoming-casting-errors-on-windows-10/"><u>Mastering Device Connection: Overcoming Casting Errors on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-when-adjusting-screen-brightness-in-windows-10-systems/"><u>Resolving Issues When Adjusting Screen Brightness in Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-overcome-windows-11-update-obstacles-effortlessly/"><u>Step-by-Step Solution to Overcome Windows 11 Update Obstacles Effortlessly</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-picks-the-ultimate-christmas-card-creation-apps-for-stunning-holiday-images-2022-edition/"><u>Top Picks: The Ultimate Christmas Card Creation Apps for Stunning Holiday Images - 2022 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-persistent-scarlet-hue-error-in-windows-10-systems/"><u>Troubleshooting the Persistent Scarlet Hue Error in Windows 10 Systems</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1728480851794-windows-10/"><u>Windows 10でパーティションを安全かつ無料で回復する方法</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-ae-essentials-the-most-loved-templates/"><u>[New] 2024 Approved Instagram AE Essentials The Most Loved Templates</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-transitioning-saved-snaps-from-social-networks-to-personal-archive/"><u>[New] Transitioning Saved Snaps From Social Networks to Personal Archive</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-y27-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo Y27 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-restoring-access-to-steam-digital-assets-and-servers/"><u>Expert Tips on Restoring Access to Steam Digital Assets and Servers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-persistent-keyboard-delay-issues-on-windows-11/"><u>How to Fix Persistent Keyboard Delay Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-when-windows-10-ignores-your-bluetooth-connections-expert-tips-inside/"><u>Master the Fix for When Windows 10 Ignores Your Bluetooth Connections: Expert Tips Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-hurdles-advanced-methods-to-fix-airpods-syncing-in-202e/"><u>Overcoming Window's Hurdles: Advanced Methods to Fix AirPods Syncing in 202E</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-convert-large-files-from-avi-to-mp4-online/"><u>Ultimate Guide: Convert Large Files From AVI to MP4 Online</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-12-pro-max-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728488890868-windows-11-hdd/"><u>Windows 11 システムのスムーズな移行:新HDDへの絶妙な設定手順</u></a></li>
 </ul></div>
 

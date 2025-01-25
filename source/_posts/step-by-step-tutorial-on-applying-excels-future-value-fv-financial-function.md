@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Applying Excel's Future Value (FV) Financial Function
-date: 2024-08-28T00:18:40.246Z
-updated: 2024-08-29T00:18:40.246Z
+date: 2025-01-23T18:39:02.943Z
+updated: 2025-01-25T16:04:17.956Z
 tags:
   - excel
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ## Step-by-Step Tutorial on Applying Excel's Future Value (FV) Financial Function
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The FV Function in Excel](https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-g24-power-to-your-pcmac-drfone-by-drfone-android/)
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  If you use Microsoft Excel for keeping track of your money, you might use it for [calculating loan amounts](https://article-tips.techidaily.com/2024-approved-deciphering-the-world-of-augmented-reality-stickers-googles-role/) or [budgeting your finances](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-pro-5g-phone-that-is-locked-by-drfone-android/). To go along with these, you might track your investments too, which means using the FV function.
 
  In Excel, the FV function calculates the future value of an investment. With just a few pieces of data, you can obtain this amount to easier work toward your goal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The FV Function in Excel
 
@@ -35,27 +43,21 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
  To determine the future [value of your investment](https://screen-recording.techidaily.com/2024-approved-ultimate-guide-cost-effective-pc-screen-recording-apps/), make sure you have the annual interest rate, the total number of payments, and the payment amount each period.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use the FV Function
 
  As an example, we have our rate in cell B2, number of payments in cell B3, and payment amount in cell B4\. Note that you must enter the payment amount as a negative number when using the FV function.
 
 ![Investment data in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/InvestmentData-ExcelFVFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Select the cell to display the result. This is where you'll enter the formula for the function. To find the future value of our investment with the data you see, you'd use the following formula:
 
 =FV(B2/12,B3,B4)
 
 ![FV function formula with required arguments only](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaRequiredArguments-ExcelFVFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The interest rate is divided by 12 because it's an annual interest rate.
 
  Easy, right? Now let's add in those optional arguments. Here, we'll add a `pv` (present value) of 100 which must also be a negative number. You can use either the value or a cell reference in the formula.
@@ -64,10 +66,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![FV function formula with present value argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaPVArgument-ExcelFVFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  Now, let's add a 1 for the last optional argument of `type` to indicate payments are due at the beginning of the period. Again, you can enter the value or use a cell reference in the formula:
 
 =FV(B2/12,B3,B4,-100,1)
@@ -75,8 +73,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![FV function formula with all arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaAllArguments-ExcelFVFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to use the `type` argument without the `pv` argument, you can do this by entering nothing between the commas inside the formula as:
 
 =FV(B2/12,B3,B4,,1)
@@ -84,8 +83,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![FV function formula with type argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaTypeArgument-ExcelFVFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you want to find out how much your investment is worth in the end, the FV function in Excel comes through. For additional help with your finances, take a look at [how to use Microsoft's Money in Excel](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -100,8 +100,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +107,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-strategies-the-guide-to-biz-marketing-mastery/"><u>[New] 2024 Approved Snapchat Strategies The Guide to Biz Marketing Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-new-world-wont-launch-easy-anti-cheat-error/"><u>[SOLVED] New World Won't Launch Easy Anti-Cheat Error</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts/"><u>[Updated] Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-steps-to-become-a-live-spectator-on-tiktok-for-2024/"><u>[Updated] Steps to Become a Live Spectator on TikTok for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/bypassing-edgenuity-a-guide-to-focused-self-study-for-2024/"><u>Bypassing Edgenuity A Guide to Focused Self-Study for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-fix-your-steam-disk-write-issues-instantly/"><u>Effortless Ways to Fix Your Steam Disk Write Issues Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-ps4-controller-charging-issues-solved/"><u>Fixing Your PS4 Controller Charging Issues - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-your-microsoft-wireless-screen-mirroring-problems-on-windows-11/"><u>How to Troubleshoot and Resolve Your Microsoft Wireless Screen Mirroring Problems on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/interactive-screen-update-now-fully-interoperable-with-hid/"><u>Interactive Screen Update: Now Fully Interoperable with HID</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/movavis-web-based-tool-convert-your-mpeg-stream-files-ts-to-movie-file-format-mov-at-no-cost/"><u>Movavi's Web-Based Tool: Convert Your MPEG Stream Files (.ts) to Movie File Format (MOV) at No Cost</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-top-pc-intro-makers-a-beginners-guide-to-getting-started-for-2024/"><u>New The Top PC Intro Makers A Beginners Guide to Getting Started for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971580328-quick-fix-for-gamers-xbox-adapter-drivers-grab-them-now/"><u>Quick Fix for Gamers: Xbox Adapter Drivers - Grab Them Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-a-non-responsive-keyboard-during-system-startup/"><u>Resolved: Fixing a Non-Responsive Keyboard During System Startup</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nsiders-guide-to-on-screen-text-in-youtube-media/"><u>The Insider's Guide to On-Screen Text in YouTube Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-critical-application-startup-error-error-0xc000007b/"><u>Understanding and Repairing the Critical Application Startup Error (Error 0Xc000007B)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/standing-satire-building-parodies-online-for-2024/"><u>Understanding Satire Building Parodies Online for 2024</u></a></li>
+</ul></div>
 

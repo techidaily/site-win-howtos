@@ -1,7 +1,7 @@
 ---
 title: "Resolving Steam Download Failures: Effective Fixes & Solutions"
-date: 2024-08-28T00:23:33.964Z
-updated: 2024-08-29T00:23:33.964Z
+date: 2025-01-21T17:36:26.066Z
+updated: 2025-01-25T16:40:13.713Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
  Surprisingly, this is quite a common problem. But although it’s quite frustrating, it’s usually not that hard to fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -27,6 +31,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -46,6 +54,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -57,31 +69,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change boot order in BIOS
 
 **Changing boot order in BIOS** turns out to be another effective solution to your computer-won’t-shut-down problem. Here’s how we do it:
@@ -89,11 +85,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 5. Click**Restart** .
@@ -104,6 +102,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -113,6 +115,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -127,8 +134,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +141,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-paper-trail-windows-1087-snapshot-techniques/"><u>[New] Paper Trail Windows 10/8/7 Snapshot Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-guide-to-gathering-creative-themes-using-google-trends/"><u>[Updated] In 2024, A Guide to Gathering Creative Themes Using Google Trends</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-assembling-an-eye-catching-movie-miniature/"><u>[Updated] In 2024, Assembling an Eye-Catching Movie Miniature</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-photo-edits-made-simple-pro-techniques/"><u>2024 Approved Instagram Photo Edits Made Simple Pro Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-moments-of-quietude-top-idle-smartphone-games/"><u>2024 Approved Moments of Quietude Top Idle Smartphone Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-art-of-digital-cinema-a-detailed-analysis-of-lgs-31mu97-b-monitor/"><u>2024 Approved The Art of Digital Cinema - A Detailed Analysis of LG’s 31MU97-B Monitor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solutions-for-fixing-media-not-recognized-in-windows-environment/"><u>DIY Solutions for Fixing Media Not Recognized in Windows Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208810066-eradicate-your-valorant-screen-shake-or-tear-problem-now/"><u>Eradicate Your Valorant Screen Shake or Tear Problem Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-eliminating-the-dreaded-fatal-error-and-ensuring-stability-in-halo-4-ue4-throughout-2024/"><u>Expert Tips for Eliminating the Dreaded 'Fatal Error' & Ensuring Stability in Halo 4 UE4 Throughout 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-keyboard-glitch-how-to-restore-spacebar-functionality-in-windows-11/"><u>Fixing the Keyboard Glitch: How to Restore Spacebar Functionality in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-not-detected-errors-in-your-realtek-network-adapter/"><u>How to Resolve 'Not Detected' Errors in Your Realtek Network Adapter</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-look-with-raspberry-pis-top-executive-on-the-game-changing-70-artificial-intelligence-kit/"><u>Inside Look with Raspberry Pi's Top Executive on the Game-Changing $70 Artificial Intelligence Kit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-challenge-access-filepath-errors-in-windows-without-a-hitch/"><u>Overcome the Challenge: Access File/Path Errors in Windows Without a Hitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-access-denied-issues-in-windows-files-and-folders-quickly/"><u>Resolve 'Access Denied' Issues in Windows Files & Folders Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/searching-for-windows-hello-camera-fit/"><u>Searching for Windows Hello Camera Fit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-your-childs-online-experience-top-5-tips-for-safe-chatgpt-interaction/"><u>Securing Your Child's Online Experience: Top 5 Tips for Safe ChatGPT Interaction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silencing-netflixs-noise-issues-simple-steps-to-perfect-playback/"><u>Silencing Netflix's Noise Issues: Simple Steps to Perfect Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206405765-you-dont-have-permission-to-access-solved/"><u>You Don't Have Permission to Access [SOLVED]</u></a></li>
+</ul></div>
 

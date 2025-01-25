@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Guide: Adding, Modifying, and Deleting Page Breaks in Excel"
-date: 2024-08-28T00:17:52.792Z
-updated: 2024-08-29T00:17:52.792Z
+date: 2025-01-21T17:52:01.374Z
+updated: 2025-01-25T17:04:31.413Z
 tags:
   - excel
 categories:
@@ -36,11 +36,19 @@ Related: [How to Print a Worksheet with Comments in Excel](https://android-locat
 
 ![Automatic vs. manual breaks in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/AutomaticVSManual-ExcelPageBreaks.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In addition:
 
 * If you move an automatic page break, it becomes a manual break.
 * You cannot delete an automatic page break.
 * If you delete all manual page breaks, this resets the spreadsheet to display automatic breaks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Insert a Page Break in Excel
 
@@ -50,21 +58,20 @@ Related: [How to Print a Worksheet with Comments in Excel](https://android-locat
 
 ![Click Breaks, Insert Page Break](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/InsertPageBreak-ExcelPageBreaks.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see the break display with its solid blue line.
 
 ![Inserted page break in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/InsertedPageBreak-ExcelPageBreaks.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Continue the same process to insert additional page breaks as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Edit or Move a Page Break
 
  You can edit a page break by moving it to include more or less of your sheet and use additional or fewer pages. Remember, if you move an automatic page break, this changes it to a manual break.
@@ -73,16 +80,10 @@ Related: [How to Print a Worksheet with Comments in Excel](https://android-locat
 
 ![Move a page break](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/MovePageBreak-ExcelPageBreaks.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  If you want to [include the row and column headings or gridlines](https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-zte-blade-a73-5g-phone-now-with-these-tips-by-drfone-android/), you do that outside of this process. What you see here is simply for the sheet's cell data.
 
 Related: [How to Print the Gridlines and Row and Column Headings in Excel](https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-zte-blade-a73-5g-phone-now-with-these-tips-by-drfone-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Remove a Page Break
 
  You can remove a manual page break that you insert easily. Select the column to the right or row below the break you want to delete.
@@ -95,13 +96,14 @@ Related: [How to Print the Gridlines and Row and Column Headings in Excel](https
 
 ![Removed a page break](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/RemainingPageBreaks-ExcelPageBreaks.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to remove all of the page breaks you've inserted instead of just one, click the Breaks drop-down box and choose "Reset All Page Breaks." Or, right-click and pick "Reset All Page Breaks."
 
 ![Click Breaks, Reset All Page Breaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ResetPageBreaks-ExcelPageBreaks.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your sheet will then update to display only automatic breaks.
 
 ![Page breaks in Excel reset](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ResetAllPageBreaks-ExcelPageBreaks.png) 
@@ -114,8 +116,6 @@ Related: [How to Print the Gridlines and Row and Column Headings in Excel](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +123,26 @@ Related: [How to Print the Gridlines and Row and Column Headings in Excel](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-bluetooth-not-detecting-devices-on-windows-10/"><u>[Fixed] Bluetooth Not Detecting Devices on Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-solo-creators-path-to-dynamic-animation-art/"><u>[New] 2024 Approved The Solo Creator’s Path to Dynamic Animation Art</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-change-your-virtual-rooms-palette-with-google-meet-for-2024/"><u>[New] Change Your Virtual Room's Palette with Google Meet for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-downloading-made-simple-discover-the-4-aces/"><u>[Updated] In 2024, Downloading Made Simple Discover the 4 Aces</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-audiovisual-expertise-selecting-top-video-minds/"><u>2024 Approved Audiovisual Expertise Selecting Top Video Minds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-world-of-podcast-rss-formatting/"><u>2024 Approved Navigating the World of Podcast RSS Formatting</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-1011usb-3/"><u>如何自由地为Windows 10/11设置修复磁盘或USB: 3个方法的指南</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-technicalities-of-claude-pro-versus-chatgptplus/"><u>Dissecting the Technicalities of Claude Pro Versus ChatGPT+</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-address-twitchs-error-4/"><u>Effective Strategies to Address Twitch's Error 4 #</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-on-windows-how-to-recover-when-no-playback-source-is-available-solution-inside/"><u>Error on Windows: How to Recover When No Playback Source Is Available (Solution Inside)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-for-keyboards-with-non-working-numeric-buttons-repair-tips/"><u>Expert Advice for Keyboards with Non-Working Numeric Buttons – Repair Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-installation-failed-fast-solutions/"><u>Fixing 'Windows Installation Failed' – Fast Solutions!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raw-footage-to-youtube-perfection-premiere-pro-techniques-for-2024/"><u>From Raw Footage to YouTube Perfection - Premiere Pro Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/jumpstart-valorant-fixing-processes-with-startup/"><u>Jumpstart Valorant Fixing Processes With Startup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fixes-and-tips-for-easy-installation-of-the-latest-gtx-1660-graphics-card-drivers/"><u>Quick Fixes & Tips for Easy Installation of the Latest GTX 1660 Graphics Card Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-guide-to-tackling-windows-1astererror-0xc1900208-during-updates/"><u>Resolved Guide to Tackling Windows 1asterError 0Xc1900208 During Updates</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-chromatic-chameleons-playbook-for-masters-for-2024/"><u>The Chromatic Chameleon's Playbook for Masters for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212128151-troubleshooting-endless-loads-how-to-unstick-your-valorant-gameplay/"><u>Troubleshooting Endless Loads - How to Unstick Your Valorant Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-restore-windows-10-brightness-functionality/"><u>Troubleshooting Steps: How to Restore Windows 10 Brightness Functionality</u></a></li>
+</ul></div>
 

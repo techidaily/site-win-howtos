@@ -1,7 +1,7 @@
 ---
 title: Restore Your Touchpad's Scroll Function - A Complete Solution for Stuck Buttons
-date: 2024-08-28T00:22:14.425Z
-updated: 2024-08-29T00:22:14.425Z
+date: 2025-01-24T17:40:22.447Z
+updated: 2025-01-25T16:40:26.283Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -39,6 +43,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)  
 
  Choose to view on**Driver** pane.  
@@ -46,15 +54,16 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -68,8 +77,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -79,8 +89,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
  That’s all there is to it. Any questions please feel free to let us know by leaving comments below, thanks.
@@ -94,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +112,16 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-analytics-mastery-measuring-success-on-your-instagram-videos/"><u>2024 Approved Analytics Mastery Measuring Success on Your Instagram Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vob/"><u>複数VOBファイル統合：最適な方法とテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wonderfox-dvd-video-converter/"><u>高性能ビデオ再生：WonderFox DVD Video Converterでシームレスな変換</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessing-status-bt-a-great-deal-at-a-cost-to-quality/"><u>Assessing Status BT: A Great Deal at a Cost to Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bare-bones-budget-friendly-best-5-windows-10-recording-apps/"><u>In 2024, Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026892367-mp3/"><u>MP3への変換ガイド：グルーヴミュージックの曲を保存する</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-clarity-connoisseurs-guide-top-tips-for-perfecting-pc-displays/"><u>The Clarity Connoisseur's Guide: Top Tips for Perfecting PC Displays</u></a></li>
+<li><a href="https://some-skills.techidaily.com/turbo-faster-window-photo-editor-for-2024/"><u>Turbo Faster Window Photo Editor for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wonderfoxs-wayward-pages-recovered-no-more-not-found-errors-here/"><u>WonderFox's Wayward Pages Recovered - No More 'Not Found' Errors Here</u></a></li>
+</ul></div>
 

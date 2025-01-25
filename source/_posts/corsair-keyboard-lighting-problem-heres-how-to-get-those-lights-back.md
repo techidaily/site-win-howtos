@@ -1,7 +1,7 @@
 ---
 title: Corsair Keyboard Lighting Problem? Here’s How to Get Those Lights Back!
-date: 2024-08-28T00:23:00.178Z
-updated: 2024-08-29T00:23:00.178Z
+date: 2025-01-23T17:58:20.077Z
+updated: 2025-01-25T17:37:47.645Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/3f596754b304b70bbb49c94051d7f942eb048636f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a067818b6a47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Windows 11
 
 1. Press the **Windows logo key**  and **R**  simultaneously to open Settings.
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/3f596754b304b70bbb49c94051d7f942eb048636f
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key2.jpg)
 
  Your backspace key should work now. Check to see if it works. If unfortunately not, please try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Reinstall your keyboard
 
@@ -67,15 +75,16 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066acd62fb2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on your keyboard software in the Keyboards section. Then click **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066e71dd09a.png)
 
  4) Reboot your computer; Windows should then reinstall your keyboard automatically. Then check to see if your backspace key works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Solution 3: Update your keyboard driver
 
  The solutions above could solve your problem, but if they don’t, please update your keyboard driver. Because a corrupted, wrong or missing keyboard driver could make your backspace key not function.
@@ -91,8 +100,9 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a06730e567d8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) If you try the Free version, click **Update**  next to your flagged keyboard driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.
@@ -100,8 +110,9 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0673b1aeb6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Reboot your computer and check to see if your backspace key works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -113,8 +124,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +131,21 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieving-youtube-apex-with-smart-management-tools/"><u>[New] In 2024, Achieving YouTube Apex with Smart Management Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-download-setup-and-utilize-ez-grabber-in-no-time/"><u>[Updated] In 2024, Download, Setup & Utilize EZ Grabber in No Time</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-samsung-galaxy-a24-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Samsung Galaxy A24.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-repair-your-lenovo-keyboard-when-it-stops-responding/"><u>Fixes & Solutions: How to Repair Your Lenovo Keyboard When It Stops Responding</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-online-mp4-to-apple-m4a-conversion-fast-and-reliable-with-movavi/"><u>Free Online MP4 to Apple M4A Conversion - Fast and Reliable with Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-the-print-screen-feature-back-on-your-pc-tips-for-windows-11-and-10-users/"><u>Getting the Print Screen Feature Back on Your PC - Tips for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-beginners-path-to-filming-with-macbook-webcam/"><u>In 2024, Beginner's Path to Filming with MacBook Webcam</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/manage-characteristics-through-edit-feature-options-window/"><u>Manage Characteristics Through Edit Feature Options Window</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-windows-11-performance-fixing-svchostexe-high-cpu-drain-issue/"><u>Optimizing Windows 11 Performance: Fixing svchost.exe High CPU Drain Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-tutorial-on-using-handbrake-for-video-conversion-and-dvd-ripping/"><u>Step-by-Step Tutorial on Using Handbrake for Video Conversion and DVD Ripping</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-dell-camera-issues-in-windows-a-comprehensive-solution/"><u>Troubleshooting Dell Camera Issues in Windows - A Comprehensive Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-success-how-to-resolve-twitch-error-code-4000/"><u>Troubleshooting Success: How to Resolve Twitch Error Code 4000</u></a></li>
+</ul></div>
 

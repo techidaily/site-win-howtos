@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Connectivity: Solutions for a Malfunctioning USB Keyboard & Mouse in Win7"
-date: 2025-01-13T19:27:00.271Z
-updated: 2025-01-19T16:30:21.426Z
+date: 2025-01-24T18:07:42.783Z
+updated: 2025-01-25T17:26:02.636Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 1: Uninstall Keyboard Driver in Device Manager**
 
  The keyboard would not work correctly if there’s a problem with the keyboard driver. Try to have the driver reloaded and see if the problem resolves.  
@@ -35,7 +39,7 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd39ed6472.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Windows will prompt you to confirm the uninstallation. Click**OK**  button to continue.
@@ -64,7 +68,7 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6e699f9b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
@@ -73,19 +77,11 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fc095f3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your laptop, and check to see if your keyboard works.
 
 **IMPORTANT** :[Driver Easy](https://tools.techidaily.com/drivereasy/download/) is a tool fixing any driver issues. If your Logitech keyboard not working issue is not caused by faulty drivers, Driver Easy won’t be able to fix it. If Driver Easy Pro doesn’t help you fix the problem, you can ask for a full refund. Alternatively, you can contact our technical support for further assistance.**You just need to send us the URL of this article** and the detailed information about the problem.  
   
  We would try our best effort to help you fix the problem. In this case, you don’t need to spend more time on searching further solutions.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 3: Restart the HID Human Interface Service**
 
@@ -99,13 +95,17 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd7d0f3270.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. In the**Name** list of services in the Details pane, double-click**Human Interface Device Access** , and then make sure that the Startup type is set to Automatic.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd8aec4887.png) ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd93f7da33.png)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. If you change the setting, restart the computer for the change to take effect.
@@ -129,22 +129,22 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-top-free-sources-discovering-copyright-free-soundtracks/"><u>[Updated] The Top Free Sources Discovering Copyright-Free Soundtracks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unveiling-secret-youtube-clips-a-step-by-step-guide/"><u>2024 Approved Unveiling Secret YouTube Clips A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ngs-update-navigating-youtube-monetization/"><u>Earnings Update Navigating YouTube Monetization</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-resolving-the-mystery-of-backspace-key-malfunctions/"><u>Expert Advice: Resolving the Mystery of Backspace Key Malfunctions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-handling-destiny-2s-persistent-initializing-error-at-startup/"><u>Expert Tips for Handling Destiny 2'S Persistent 'Initializing' Error at Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-issue-of-vanishing-icons-on-your-windows-11-desktop-solved/"><u>How to Fix the Issue of Vanishing Icons on Your Windows 11 Desktop – Solved!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-become-a-spotify-ad-expert-in-no-time/"><u>In 2024, Become a Spotify Ad Expert in No Time</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>In 2024, The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-epson-wf-7710-printer-drivers-for-windows-11-complete-guide/"><u>Install Epson WF-7710 Printer Drivers for Windows 11: Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-airpod-compatibility-solving-non-connection-woes-on-your-windows-machine/"><u>Mastering AirPod Compatibility: Solving Non-Connection Woes on Your Windows Machine</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-c55-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco C55 Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/new-realm-persistent-frosts-and-chilling-dilemmas-how-to-address-them/"><u>New Realm: Persistent Frosts and Chilling Dilemmas - How to Address Them?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-freeze-just-fortnite-play/"><u>No More Freeze, Just Fortnite Play</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/snoozing-systems-no-wake-in-windows-1011/"><u>Snoozing Systems, No Wake in Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-correcting-no-sound-devices-installed-errors-in-windows-11/"><u>Step-by-Step Guide to Correcting 'No Sound Devices Installed' Errors in Windows 11</u></a></li>
-<li><a href="https://solve-news.techidaily.com/transforma-rapidamente-tus-fotos-del-formato-jpg-al-png-sin-costo-alguno-en-linea-con-el-servicio-de-conversion-por-internet-movavi/"><u>Transforma Rápidamente Tus Fotos Del Formato JPG Al PNG Sin Costo Alguno en Línea Con El Servicio De Conversión Por Internet - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-fuzzy-fonts-in-windows-10-effective-solutions-for-clearer-readability/"><u>Troubleshoot Fuzzy Fonts in Windows 10 – Effective Solutions for Clearer Readability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hero5-black-meets-yi-4k-the-ultimate-update-for-action-camera-fans/"><u>[New] Hero5 Black Meets Yi 4K - The Ultimate Update for Action Camera Fans</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-be-unique-in-conversation-customized-whatsapp-tones-for-ios-android-users/"><u>2024 Approved Be Unique in Conversation Customized WhatsApp Tones for iOS, Android Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-best-overlooked-free-speech-tools-for-mac/"><u>2024 Approved Unveiling Best Overlooked Free Speech Tools for Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208059335-dota-2-change-rendering-api-error-2024-quick-fix/"><u>Dota 2 ‘Change Rendering API’ Error 2024 [Quick Fix]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-officejet-pro-8720-drivers-on-windows-free-guide/"><u>Download & Update HP OfficeJet Pro 8720 Drivers on Windows - Free Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-seamlessly-upgrade-your-system-downloading-and-setting-up-sandisk-drivers-in-windows-11/"><u>How to Seamlessly Upgrade Your System: Downloading and Setting up SanDisk Drivers in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212222274-optimizing-system-performance-by-reducing-msmpengineexe-cpu-drainage-in-windows-10/"><u>Optimizing System Performance by Reducing MsMpEngine.exe CPU Drainage in Windows 10.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/puzzle-paradise-10-amazing-e-commerce-sites-for-box-enigmas/"><u>Puzzle Paradise 10 Amazing E-Commerce Sites for Box Enigmas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-video-file-unplayable-mistake-fixing-error-code-224003/"><u>Resolving the 'Video File Unplayable' Mistake: Fixing Error Code 224003</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-vanishing-mouse-pointer-in-windows-11-a-comprehensive-guide/"><u>Resolving the Issue of Vanishing Mouse Pointer in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-initialization-problem-of-windows-11-configurations-step-by-step-tips/"><u>Solving the Initialization Problem of Windows 11 Configurations: Step-by-Step Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-pubg-fix-how-to-solve-building-load-failures/"><u>Successful PUBG Fix: How to Solve Building Load Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-excessive-cpudisk-usage-by-ntoskrnlexe/"><u>Tackling Excessive CPU/Disk Usage by ntoskrnl.exe</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-high-dpi-display-scaling-on-pcs/"><u>Troubleshooting High DPI Display Scaling on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-livekernelevent-error-117/"><u>Troubleshooting Techniques for LiveKernelEvent Error 117</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-gecata-analyzer-report-for-2024/"><u>Ultimate GECATA Analyzer Report for 2024</u></a></li>
 </ul></div>
 

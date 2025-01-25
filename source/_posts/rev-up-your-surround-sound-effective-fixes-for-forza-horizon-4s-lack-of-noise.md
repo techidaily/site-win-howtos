@@ -1,7 +1,7 @@
 ---
 title: "Rev Up Your Surround Sound: Effective Fixes for Forza Horizon 4'S Lack of Noise"
-date: 2024-08-28T00:20:55.250Z
-updated: 2024-08-29T00:20:55.250Z
+date: 2025-01-20T17:03:47.627Z
+updated: 2025-01-25T16:52:08.974Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 ## Sound Troubleshooting for Forza Horizon 4: Your Ultimate Solution
 
 When you launch the game you can hear the intro music but right after that, all sound is disabled. You have no audio at all. Playing the game without sound? that’s awful! Don’t worry, this problem can be easy to fix. Read on to find how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -34,13 +38,20 @@ When you launch the game you can hear the intro music but right after that, all 
 1. In the right-bottom toolbar, right-click on the volume icon.
 2. Click**Sounds** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the**Playback** tab, choose the device you’re using and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the**Enhancements** tab, uncheck “**Disable all sound effects** “.![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply > OK** .
 6. Reboot your computer and check then your game sound.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Run the Windows audio troubleshooter
 
  Windows system has in-built troubleshooter to solve common problems.  
@@ -52,10 +63,6 @@ When you launch the game you can hear the intro music but right after that, all 
 4. Follow the on-screen instructions.
 5. Reboot your computer and check whether the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Method 3: Update your audio driver
 
  The outdated or missing drivers may be the reason for the “Forza Horizon 4 no sound” problem. You can update your audio driver to solve the problem.
@@ -70,9 +77,6 @@ There are two ways you can update your audio drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-515.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 #### **Option 2 – Automatically update your audio drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -89,8 +93,9 @@ There are two ways you can update your audio drivers.
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Reinstall your audio driver
 
  If Method 3 doesn’t help, reinstall your audio driver might be a good choice. It might be caused by the corrupted file which needs a clean uninstall to clear. So reinstall your driver may solve the “Forza Horizon 4 no sound” problem.
@@ -98,20 +103,20 @@ There are two ways you can update your audio drivers.
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type “devmgmt.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-1.jpg)
 3. Click**Sound, video and game controllers** , right-click on the**Realtek(R) Audio** and click**Uninstall device** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
-5. Use Method 3 to install the driver.
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
-6. Reboot your computer to check whether the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+5. Use Method 3 to install the driver.
+6. Reboot your computer to check whether the problem is resolved.
+
 ### Method 5: Update your Windows system
 
  An audio problem may occur because you don’t have the latest Windows system. So update the system to the latest version may help you solve the problem.
@@ -119,6 +124,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Press the**Windows logo key + I** together. Click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4.1.jpg)
 2. In the Windows Update tab, click**Check for updates** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-3.jpg)
 3. Install the updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Reboot your computer and check the problem is solved or not.
 
  Thanks for reading. Hope this article meets your needs. And you are welcome to leave comments below.
@@ -131,8 +141,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +148,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-auditory-allure-finding-perfect-background-sounds/"><u>[New] Auditory Allure Finding Perfect Background Sounds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-seamless-sharing-linking-youtube-to-insta-stories/"><u>[Updated] In 2024, Seamless Sharing Linking YouTube to Insta Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-moto-g84-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Moto G84 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-perfect-edits-navigating-psxs-eraser-feature/"><u>2024 Approved Perfect Edits Navigating PSX's Eraser Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/weband/"><u>最新のWeb動画ダウンロード&保存ツール、無料オンラインリファレンスガイド</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-windows-11s-detailed-battery-analysis-tips-and-tricks/"><u>Deciphering Windows 11'S Detailed Battery Analysis: Tips & Tricks</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/identifying-us-as-a-specific-dvd-region-what-zone-does-it-belong-to/"><u>Identifying U.S. as a Specific DVD Region: What Zone Does It Belong To?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steady-silence-decreasing-volume-in-logic-pro-projects/"><u>In 2024, Steady Silence Decreasing Volume in Logic Pro Projects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-best-ipads-for-children-in-2er-2022-expert-reviews-and-picks-zdnet/"><u>The Ultimate List: Best iPads for Children in 2Er 2022 - Expert Reviews and Picks (ZDNet)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-top-10-free-media-player-apps-compatible-with-all-platforms-windows-macos-android-and-ios/"><u>Ultimate Guide: Top 10 Free Media Player Apps Compatible with All Platforms (Windows, macOS, Android & iOS)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-step-by-step-tutorial-discreetly-capturing-screenshots-on-bereal-no-notifications-required-updated/"><u>Ultimate Step-by-Step Tutorial: Discreetly Capturing Screenshots on BeReal (No Notifications Required) - Updated !</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watching-avi-files-with-chromecast-three-easy-techniques/"><u>Watching AVI Files with Chromecast: Three Easy Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-disc-error-troubleshooting-latest-solutions-for-reading-problems-as-of-april-2024/"><u>Xbox One Disc Error Troubleshooting - Latest Solutions for Reading Problems as of April 2024</u></a></li>
+</ul></div>
 

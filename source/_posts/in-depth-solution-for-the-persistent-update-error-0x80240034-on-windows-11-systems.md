@@ -1,7 +1,7 @@
 ---
 title: In-Depth Solution for the Persistent Update Error (0X80240034) on Windows 11 Systems
-date: 2025-01-18T19:54:54.411Z
-updated: 2025-01-19T19:22:03.158Z
+date: 2025-01-22T18:12:45.388Z
+updated: 2025-01-25T16:00:13.682Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 1\. Enable Automatic Detect Settings**
 
  If your computer is not sure how it should connect to the Internet, it would cause Windows Update Error 0x8024402c. In this case, enable Automatic Detect Settings could fix it.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Check on Automatically detect settings
 
@@ -59,7 +67,7 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
@@ -67,10 +75,6 @@ Now try to install Windows Updates now.
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -93,7 +97,7 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Now Internet Connection window is open.
@@ -103,10 +107,6 @@ Double-click on your active Network Adapter.
  Then click **Properties**  and double-click on **Internet Protocol Version 4 (TCP/IPv4)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
 
@@ -118,11 +118,11 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
-Now try to install Windows Updates now.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Now try to install Windows Updates now.
 
 ## Fix 4\. Configure Updates Client
 
@@ -135,6 +135,10 @@ If the fixes above didn’t serve you, try this one.
  Click **Yes**  when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
@@ -155,7 +159,7 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
@@ -163,10 +167,6 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
@@ -195,15 +195,15 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-explore-the-potential-of-photos-through-radial-distortion-techniques-ps/"><u>[New] Explore the Potential of Photos Through Radial Distortion Techniques PS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>[New] Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-itel-s23plus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Itel S23+ Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-warframe-patch-failures-step-by-step-solution-guide/"><u>Dealing with Warframe Patch Failures: Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fix-screen-stuttering-problems-in-your-windows-prise/"><u>Guide to Fix Screen Stuttering Problems in Your Windows Prise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209638916-laptop-microphone-problems-heres-how-to-get-it-working-again/"><u>Laptop Microphone Problems? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maximizing-your-machines-potential-how-to-end-overbearing-system-load-from-shell-infrastructures/"><u>Maximizing Your Machine’s Potential – How to End Overbearing System Load From Shell Infrastructures</u></a></li>
-<li><a href="https://extra-support.techidaily.com/nikon-z6i-vs-d7500-in-depth-comparison-for-2024/"><u>Nikon Z6I vs D7500 In-Depth Comparison for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-lava-storm-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Lava Storm 5G has been deleted.</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-google-chrome-black-screen-problem/"><u>[Solved] How to Fix Google Chrome Black Screen Problem</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expertise-in-quick-creation-professional-valorant-thumbnail-art/"><u>[Updated] 2024 Approved Expertise in Quick Creation Professional Valorant Thumbnail Art</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-decoding-tseries-monetary-strategies-on-youtube-video-platforms/"><u>[Updated] Decoding TSeries’ Monetary Strategies on YouTube Video Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>[Updated] Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/p-by-step-guide-to-forming-effective-youtube-partner-relationships-for-2024/"><u>A Step-by-Step Guide to Forming Effective YouTube Partner Relationships for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-ethernet-malfunctions-on-your-windows-laptop-or-desktop/"><u>Easy Fixes for Ethernet Malfunctions on Your Windows Laptop or Desktop</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-find-x6-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo Find X6? Try These Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-interruptions-the-ultimate-fixes-for-kodis-buffering-glitches/"><u>No More Interruptions: The Ultimate Fixes for Kodi's Buffering Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-ethernet-connectivity-problems-in-windows-11-and-windows-7/"><u>Troubleshooting Ethernet Connectivity Problems in Windows 11 and Windows 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/your-trusted-source-for-cutting-edge-pc-and-laptop-reviews-at-toms-hardware/"><u>Your Trusted Source for Cutting-Edge PC & Laptop Reviews at Tom's Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of COUNT Functions in Excel Spreadsheets
-date: 2024-08-28T00:18:25.515Z
-updated: 2024-08-29T00:18:25.515Z
+date: 2025-01-18T18:33:02.501Z
+updated: 2025-01-25T16:10:39.588Z
 tags:
   - excel
 categories:
@@ -42,11 +42,19 @@ Related: [How to Count Colored Cells in Microsoft Excel](https://facebook-video-
 
 ![COUNT result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountResult-ExcelCountCells.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To count the number of cells in two separate ranges B2 through B7 and D2 through D7 that contain numbers, you would type the following and press Enter:
 
 =COUNT(B2:B7,D2:D7)
 
 ![COUNT formula for ranges](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountRangesFormula-ExcelCountCells.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you'll see the total count of numbers for both of those cell ranges.
 
@@ -55,8 +63,9 @@ Related: [How to Count Colored Cells in Microsoft Excel](https://facebook-video-
 Related: [How to Use the COUNT Function in Microsoft Excel](https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-12t-pro-for-free-drfone-by-drfone-virtual-android/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Count Blank Cells: The COUNTBLANK Function
 
  Maybe what you want to find is the number of blank cells you have in a particular range. You'll use a variation of the COUNT function, COUNTBLANK. The syntax for the formula is: `COUNTBLANK(value1)` where `value1` contains the cell references and is required.
@@ -71,10 +80,11 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
 
 ![COUNTBLANK result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountBlankResult-ExcelCountCells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For additional COUNTBLANK examples and uses, check out our tutorial for [counting blank or empty cells in Excel](https://fox-blue.techidaily.com/2024-approved-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Count Nonblank Cells: The COUNTA Function
 
@@ -88,15 +98,20 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
 
 ![COUNTA formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountAFormula-ExcelCountCells.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, the COUNTA function counts cells containing any type of data. This includes numbers, text, errors, and empty text or strings. For example, the error in cell C7 is counted.
 
 ![COUNTA result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountAResult-ExcelCountCells.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If an error is giving you trouble, it's easy to [hide error values in your spreadsheets](https://instagram-videos.techidaily.com/updated-cut-and-paste-success-enhancing-videos-for-instagram-shares/).
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Count Cells With Specific Criteria: The COUNTIF Function
 
  If you would like to count the number of cells containing specific data, you would use the COUNTIF function. The syntax for the formula is `COUNTIF(value1, criteria)` where both `value1` and `criteria` are required.
@@ -109,25 +124,16 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
 
 ![COUNTIF text formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountIfFormulaText-ExcelCountCells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Notice that if your criterion is a word, you must surround it in double quotes.
 
 ![COUNTIF text result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountIfResultText-ExcelCountCells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  To count the number of cells in the range B2 through C6 that contain what's in cell B2, you would type the following and press Enter:
 
 =COUNTIF(B2:C6,B2)
 
 ![COUNTIF cell reference formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountIfFormulaRef-ExcelCountCells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  In this case, you would not place the B2 cell reference in double quotes.
 
 ![COUNTIF cell reference result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/CountIfResultRef-ExcelCountCells.png) 
@@ -144,8 +150,6 @@ Related: [How to Highlight Blanks or Errors in Microsoft Excel](https://ios-unlo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +157,23 @@ Related: [How to Highlight Blanks or Errors in Microsoft Excel](https://ios-unlo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-nokia-130-music-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Nokia 130 Music.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-the-fatal-error-bug-from-your-halo-4-ue4-experience/"><u>Eliminating the 'Fatal Error' Bug From Your Halo 4 UE4 Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208022699-how-i-fixed-my-non-booting-pc-after-a-windows-10-update-learn-the-easy-methods/"><u>How I Fixed My Non-Booting PC After a Windows 10 Update – Learn the Easy Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-steamuidll-not-found-deadly-steam-bug-easily/"><u>How to Overcome the 'SteamUI.DLL Not Found' Deadly Steam Bug Easily</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-record-your-games-with-diverse-software-solutions/"><u>How to Record Your Games with Diverse Software Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c02-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C02 PC | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fix-guide-for-windows-11-update-error-code-0x8024401c/"><u>Resolved: Fix Guide for Windows 11 Update Error Code 0X8024401C</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-icue-no-device-found-error-with-easy-troubleshooting-steps/"><u>Resolving the 'ICUE - No Device Found' Error with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-when-your-dell-device-ignores-the-usb/"><u>Step-by-Step Solutions for When Your Dell Device Ignores the USB</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/streamlining-social-signals-with-tiktok-and-linktree-bio-mix/"><u>Streamlining Social Signals with TikTok and Linktree Bio Mix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-monitor-errors-without-video-output/"><u>The Ultimate Fixes for Monitor Errors Without Video Output</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-notch-laptop-bargains-in-july-2024-find-your-perfect-match-on-zdnet/"><u>Top Notch Laptop Bargains in July 2024: Find Your Perfect Match on ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-damaged-files-in-windows-11/"><u>Troubleshooting and Repairing Damaged Files in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-application-startup-failure-error-code-0xc000007b/"><u>Troubleshooting Guide: Overcoming Application Startup Failure (Error Code 0XC000007B)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-iphone-video-editing-showdown-top-5-apps-compared/"><u>Updated 2024 Approved IPhone Video Editing Showdown Top 5 Apps Compared</u></a></li>
+</ul></div>
 

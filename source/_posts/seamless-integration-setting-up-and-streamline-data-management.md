@@ -1,7 +1,7 @@
 ---
 title: Seamless Integration, Setting up, and Streamline Data Management.
-date: 2024-08-28T00:18:30.862Z
-updated: 2024-08-29T00:18:30.862Z
+date: 2025-01-21T16:13:21.119Z
+updated: 2025-01-25T17:51:52.753Z
 tags:
   - excel
 categories:
@@ -24,11 +24,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  However, if your Microsoft Form is still live, and you want to analyze the data as entries build up in the same way as you would when [using Google Forms alongside Google Sheets](https://some-techniques.techidaily.com/updated-freescape-extraction-revisited-a-look-at-the-latest-update/), Microsoft lets you do this through Excel for the web.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step 1: Create and Share Your Microsoft Form
 
  Start by [creating your form](https://some-skills.techidaily.com/updated-unlocking-visual-potential-perfect-aspect-ratios-revealed/) in the usual way through [Microsoft Forms](https://forms.office.com/). Make sure you give your form a title, a description, and then choose from the various question types as you develop your form.
 
 ![Image shows an example Microsoft Form being created.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/creating-a-form.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you add information and type the questions, your form will save automatically.
 
@@ -40,9 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A Microsoft Forms developer window showing how to share the form and the different ways of doing so.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/collect-responses.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  Step 2: View, Edit, and Use the Responses in Excel for the Web
 
  When you have started to receive entries, you'll see a number appear next to the Responses tab in the ribbon at the top of your Microsoft Forms editing window.
@@ -52,8 +57,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Image showing where to access the entry results for the Microsoft Form, and where to click to open the results in Excel for the web.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/view-responses.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have closed entries to your Microsoft Form, and would prefer to analyze the results in Microsoft Excel 365, click the drop-down arrow next to "Open Results In Excel," and select "Download A Copy." This will produce the results in an Excel 365 workbook, which you can access through your device's downloads.
 
  Your Internet browser will then open Excel for the web in a new tab, and your results will appear in a table. If your Microsoft Form is still open for new entries, they will appear automatically as additional rows at the bottom of your table as soon as they're submitted.
@@ -61,24 +67,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An Excel for the web window displaying the results from the Microsoft Form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/synced-results.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can now [amend your table](https://screen-sharing-recording.techidaily.com/new-2024-approved-basic-win10-screen-save-program/) to display the data you want to see in the format that works best for you. For example, in our table, we don't need to know the start or completion times, or the email addresses for each entry. We want the headers to be clearer, and we want to center-align the text in each cell.
 
  You can undo (Ctrl+Z) any actions you perform on your results table, but once you close the window, any changes you have made will be irreversible. When you re-open the spreadsheet, the changes you have made will remain in place.
 
 ![An Excel for the web window containing a formatted table of results of Microsoft Forms entries.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/formatted-results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, with the data still coming in, you can [add charts](https://mondly-stories.techidaily.com/introduccion-al-control-de-reloj-digital-en-espanol/) to your Excel for the web workbook as you would in Excel 365\. Highlight the data or the column(s) you want to display in a chart, click "Insert" on the ribbon, and use the drop-down option to choose the appropriate one.
 
 ![An Excel for the web window showing the data highlighted and the different charts options available to select.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/add-charts.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The beauty of this feature is that, whenever a new entry is submitted to your Microsoft Form, any charts you have created that link to the data will update automatically. This means you can dynamically analyze your data without having to manually change anything within your Excel for the web spreadsheet.
 
 ---
@@ -91,8 +96,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +103,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/pubg-journey-to-stability-dxgidll-restored/"><u>[PUBG] Journey to Stability - Dxgi.dll Restored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglegraphs-imagejesterhub/"><u>2024 Approved GiggleGraphs ImageJesterHub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cursor-continuous-display-troubles-learn-how-to-fix-it-now/"><u>Cursor Continuous Display Troubles? Learn How to Fix It Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-high-quality-ipad-screenshots/"><u>Essential Tips for High-Quality iPad Screenshots</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playing-to-puzzle-dismantling-xbox-s-controllers/"><u>From Playing to Puzzle: Dismantling Xbox S Controllers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-make-thumbnails/"><u>How to Make Thumbnails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-remedies-to-restore-sound-in-your-favorite-steam-games-hassle-free/"><u>Immediate Remedies to Restore Sound in Your Favorite Steam Games | HASSLE-FREE</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-14-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 14? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-conquering-twitchs-notorious-error-4ntry/"><u>Step-by-Step Strategies: Conquering Twitch's Notorious Error 4Ntry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-desktop-symbols-on-windows-10-solved/"><u>Troubleshooting Missing Desktop Symbols on Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-persistent-bluetooth-compatibility-challenges-on-windows-10/"><u>Ultimate Fixes for Persistent Bluetooth Compatibility Challenges on Windows 10</u></a></li>
+</ul></div>
 

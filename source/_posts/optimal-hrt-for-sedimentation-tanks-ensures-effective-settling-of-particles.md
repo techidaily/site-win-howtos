@@ -1,7 +1,7 @@
 ---
 title: Optimal HRT for Sedimentation Tanks Ensures Effective Settling of Particles.
-date: 2024-08-28T00:20:11.546Z
-updated: 2024-08-29T00:20:11.546Z
+date: 2025-01-20T16:57:24.306Z
+updated: 2025-01-25T17:23:54.531Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for LiveKernelEvent with Code 144 error
 
  You don’t have to try all the following methods: simply work your way down the list until you find the one that does the trick to fix the LiveKernelEvent 144 error for you.
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update graphics card driver
 
  The LiveKernelEvent 144 error is, in many cases, related to a faulty or missing graphics card driver. So making sure that you have the latest and the correct graphics card driver installed is one of the first things you should do.
@@ -51,22 +59,22 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -89,6 +97,11 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -98,9 +111,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check USB peripherals
 
  If the LiveKernelEvent 144 error is seen with a blue screen of death error, then it should relate to your USB devices. To see if this is your case, you can do the following:
@@ -110,6 +120,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 3. On the menu bar, select**View** , then **Show hidden devices.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-13.png)
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
@@ -117,14 +131,8 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. Restart your computer afterward.
 9. Then plug the USB devices back into your computer one by one, preferably into the USB outputs on your computer rather than USB hubs or docks.
 10. Pay extra attention to any computer glitches you notice with your computer after plugging each USB device back in.
@@ -143,9 +151,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 4\. Update your computer BIOS and system firmware
 
  Please note that wrongly updating BIOS could cause server computer problems, even brick the computer in some extreme cases. So please do not attempt the BIOS update if you’re not confident in doing it.
@@ -157,13 +162,9 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Repair damaged system files
 
 **Corrupted or damaged system files** could also relate to problems like LiveKernelEvent with code 144 error. By repairing the core Windows system files, it may resolve conflicts, missing DLL issues, registry errors, and other problems that contribute to the instability of your computer performance. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process by scanning system files and replacing corrupted ones.
@@ -172,14 +173,8 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  (Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) ! )
@@ -187,6 +182,10 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent 144 error happens again. If so, please move further.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Consider a system reinstall
 
@@ -218,8 +217,6 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +224,24 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-of-nintendo-switch-fighting-apps-guide-max-156/"><u>[New] Best of Nintendo Switch Fighting Apps Guide (Max 156)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-step-by-step-guide-to-achieving-the-perfectly-loops-youtube-videos/"><u>2024 Approved Step-By-Step Guide to Achieving the Perfectly Loops YouTube Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-15-pro-max-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 15 Pro Max for Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-dilemma-decoded-restoring-connection-between-your-keyboard-and-pc/"><u>Bluetooth Dilemma Decoded: Restoring Connection Between Your Keyboard & PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/constructive-learning-over-quick-responses-from-gpt/"><u>Constructive Learning Over Quick Responses From GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-5-on-minecraft-here-are-your-fixes/"><u>Error Code 5 on Minecraft? Here Are Your Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-lenovo-mouse-pad-troubleshooting-tips-for-windows-users/"><u>Fix Your Lenovo Mouse Pad - Troubleshooting Tips for Windows Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/gear-vr-compatibility-the-definitive-mobile-device-list-2023-edition-for-2024/"><u>Gear VR Compatibility The Definitive Mobile Device List - 2023 Edition for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-11-cant-be-installed-error-code-80240020-with-ease/"><u>How to Overcome 'Windows 11 Can’t Be Installed Error Code 80240020' With Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-gameplay-with-obs-for-2024/"><u>How to Record Gameplay with OBS for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-uninstall-geforce-experience-easily/"><u>How to Uninstall Geforce Experience [Easily]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ey-beyond-reality-the-best-of-youtubes-virtual-worlds/"><u>Journey Beyond Reality The Best of YouTube’s Virtual Worlds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203811582-regain-bluetooth-connectivity-in-windows-10-fast-and-straightforward-methods/"><u>Regain Bluetooth Connectivity in Windows 10: Fast & Straightforward Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-kernel-data-inpage-fault-issues-efficiently/"><u>Step-by-Step Guide: Resolving Kernel Data Inpage Fault Issues Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-crackling-sound-problems-with-speakers-in-windows-operating-systems/"><u>Troubleshooting and Fixing Crackling Sound Problems with Speakers in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-the-0xc19e0208-error-during-windows-10-updates-tips-and-tricks/"><u>Troubleshooting and Resolving the 0xC19e0208 Error During Windows 10 Updates: Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-when-your-internet-explorer-isnt-working/"><u>Troubleshooting: When Your Internet Explorer Isn't Working</u></a></li>
+</ul></div>
 

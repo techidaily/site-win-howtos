@@ -1,7 +1,7 @@
 ---
 title: "Stop Your Device From Falling Asleep: Simple Solutions"
-date: 2024-08-23T14:10:55.725Z
-updated: 2024-08-24T14:10:55.725Z
+date: 2025-01-21T17:05:03.844Z
+updated: 2025-01-25T16:21:10.821Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the power settings
 
  If your power settings are configured to sleep in a short time, for example, 5 minutes, you’ll experience the computer keeps going to sleep issue. To fix the problem, the first thing to do is check the power settings, and change the settings if necessary. To do so:
@@ -36,6 +40,11 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 2. Type**control panel** and press Enter.  
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 3. **View by** **Large icons** , and click **Power Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1370b5c7879.jpg)
 4. Click**Change when the computer sleeps** in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13709ea5614.jpg)
@@ -45,6 +54,11 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
  4b) Change the**Put the computer to sleep** setting to whatever value you desire. It’s recommended to set it to**Never** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1371d25d798.jpg)
 6. Click**Save changes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Check to see if the computer still keeps going to sleep.
 
 ---
@@ -67,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Solution 3: Disable the screen saver
 
  The screen saver is the utility built in Windows. It will be activated after a certain period of Windows inactivity. If the screen saver is set to blank, and the wait time is 5 minutes, it’ll look like your screen has turned off or gone to sleep mode. So you can disable the screen saver and see if the problem persists.
@@ -84,9 +95,11 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 3. Click**Screen saver settings** at the bottom of the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -98,8 +111,17 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 3. Click the**Change screen saver** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -115,25 +137,25 @@ thumbnail: https://thmb.techidaily.com/2a9cc8bf4d555df620abafcb570dcc2752e8e2040
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Exit the Registry Editor.
 
 **Secondly, reset the System unattended sleep timeout period.**
@@ -142,15 +164,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
@@ -169,8 +185,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +192,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-enticing-instagram-followers-a-puzzle-post-primer/"><u>[New] The Art of Enticing Instagram Followers A Puzzle Post Primer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cross-border-tech-assessment-by-experts/"><u>[Updated] In 2024, Cross-Border Tech Assessment by Experts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-leveraging-branding-skills-skyrocketing-your-youtube-subscriber-base/"><u>2024 Approved Leveraging Branding Skills Skyrocketing Your YouTube Subscriber Base</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reinstate-crystal-clear-zoom-sound/"><u>2024 Approved Reinstate Crystal-Clear Zoom Sound</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-beginners-guide-to-inshot-and-laptop-editing/"><u>A Beginner's Guide to Inshot and Laptop Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-convertir-audiovideo-ogg-al-codec-ogv-facilmente-y-sin-costo-por-medio-de-movavi/"><u>Cómo Convertir Audio/Video OGG Al Códec OGV Fácilmente Y Sin Costo Por Medio De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-en-ligne-convertissez-votre-video-mpeg-en-m4a-pour-rien-solutions-facile-dacces-de-movavi/"><u>Conversion en Ligne : Convertissez Votre Vidéo MPEG en M4A Pour Rien - Solutions Facile D'accès De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-facil-de-transformar-archivos-mov-en-mp4-usando-vlc-tutorial-para-windows-y-macos/"><u>Guía Fácil De Transformar Archivos MOV en MP4 Usando VLC: Tutorial Para Windows Y MacOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-accurate-is-chatgpts-health-related-guidance/"><u>How Accurate Is ChatGPT's Health-Related Guidance?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-tips-acquiring-unparalleled-photos-for-free/"><u>In 2024, Essential Tips Acquiring Unparalleled Photos for Free</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-15-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 15 Pro and iPad</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-f54-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy F54 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-company-overview-essential-corporate-info-and-seo-optimized-content-for-google-searches/"><u>Movavi Company Overview: Essential Corporate Info & SEO Optimized Content for Google Searches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-trp-format-converter-at-no-cost-use-movavi/"><u>Online TRP Format Converter at No Cost - Use Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tecnicas-faciles-de-transformar-el-tono-de-voz-en-videos-digitales/"><u>Técnicas Fáciles De Transformar El Tono De Voz en Videos Digitales</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-movavi-video-suite-get-your-free-version-today/"><u>Top-Rated Movavi Video Suite: Get Your FREE Version Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/w64-online/"><u>W64 파일을 쉽게 이동하는 방법 - Online 무료 변환 서비스</u></a></li>
+</ul></div>
 

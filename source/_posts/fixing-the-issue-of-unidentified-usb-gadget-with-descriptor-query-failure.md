@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue of Unidentified USB Gadget with Descriptor Query Failure
-date: 2024-08-28T00:22:37.191Z
-updated: 2024-08-29T00:22:37.191Z
+date: 2025-01-23T16:08:00.713Z
+updated: 2025-01-25T17:06:10.083Z
 tags:
   - win11
   - win10
@@ -39,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot problems with your printer
 
  Either a USB-connected printer or a network one you’re using, make sure your printer is set as the default printer and your printer driver is up-to-date.
@@ -53,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Make sure your printer driver is up-to-date
 
@@ -75,11 +82,13 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 2. Click **Scan Now** . It will quickly detect all driver’s problems with your computer. Your printer driver is no exception.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -87,8 +96,9 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Repair or recreate your PDF file
 
  If there were any corrupted or incompatible data in your PDF file, your file wouldn’t be printed successfully. Here we give you two methods to try:
@@ -109,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -140,9 +147,6 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -155,9 +159,6 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -168,9 +169,6 @@ sfc /scannow
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -213,10 +211,17 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
 ---
@@ -231,8 +236,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +243,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-broadcast-showdown-the-faceoff-between-obs-and-shadowtoolkit/"><u>[New] In 2024, Broadcast Showdown The Faceoff Between OBS & ShadowToolKit</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elevate-your-playthroughs-secrets-of-ps3-video-capture/"><u>[Updated] In 2024, Elevate Your Playthroughs Secrets of PS3 Video Capture</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-laptop-fan-pad-a-comprehensive-look-at-topmates-model-c302/"><u>Budget-Friendly Laptop Fan Pad: A Comprehensive Look at TopMate's Model C302</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/configuration-complete-one-resource-still-silent/"><u>Configuration Complete; One Resource Still Silent</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-enhance-your-keyboards-responsiveness/"><u>Effortless Ways to Enhance Your Keyboard's Responsiveness</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/end-screen-flicker-on-monitors/"><u>End Screen Flicker on Monitors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-y17s-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Vivo Y17s Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/in-depth-analysis-of-the-logitech-g-x-series-casamania-mini-standup-desk-impressive-typing-experience-and-accurate-tracker-pad-with-subpar-protection/"><u>In-Depth Analysis of the Logitech G X Series Casamania Mini Standup Desk - Impressive Typing Experience & Accurate Tracker Pad with Subpar Protection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-interruptions-easily-resolve-your-csgo-crash-issues/"><u>No More Interruptions: Easily Resolve Your CSGO Crash Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-yellow-tint-restore-true-color-on-windows/"><u>Overcoming Yellow Tint: Restore True Color on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-for-enabling-hosted-networks-in-windows-11/"><u>Resolved: Troubleshooting Steps for Enabling Hosted Networks in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-touchpad-scrolls-in-windows-11-solutions-and-fixes/"><u>Troubleshooting Unresponsive Touchpad Scrolls in Windows 11 - Solutions & Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-a-non-functioning-backspace-key/"><u>Troubleshooting: How to Fix a Non-Functioning Backspace Key</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-creativity-in-character-design-using-our-ultimate-list-of-11-chatgpt-writing-hacks/"><u>Unleash Creativity in Character Design Using Our Ultimate List of 11 ChatGPT Writing Hacks</u></a></li>
+</ul></div>
 

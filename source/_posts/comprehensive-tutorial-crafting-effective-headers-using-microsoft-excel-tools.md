@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Tutorial: Crafting Effective Headers Using Microsoft Excel Tools"
-date: 2024-08-28T00:17:56.547Z
-updated: 2024-08-29T00:17:56.547Z
+date: 2025-01-24T16:28:07.983Z
+updated: 2025-01-25T17:09:18.760Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
 ---
 
 ## Comprehensive Tutorial: Crafting Effective Headers Using Microsoft Excel Tools
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/25f2a05c8be60260f4d2e250cf565b20fcb8e042f
  By [inserting a header](https://phone-solutions.techidaily.com/bypassreset-pop-8-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/), you can display the page number, page title, date, or even custom text at the top of your spreadsheets. It's easy to add headers in Microsoft Excel, and we'll show you two ways to do it.
 
 Related: [How to Add Headers or Footers in Google Sheets](https://phone-solutions.techidaily.com/bypassreset-pop-8-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Two Ways to Make a Header in Excel
 
@@ -38,15 +46,13 @@ Related: [How to Add Headers or Footers in Google Sheets](https://phone-solution
 ![Choose a worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/1-excel-select-worksheet.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In [Excel's ribbon at the top](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-play-40c-to-mac-drfone-by-drfone-android/), click the "Insert" tab.
 
 ![Click Excel's &quot;Insert&quot; tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/2-excel-insert-tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Insert" tab, click Text > Header & Footer.
 
 ![Select Text > Header & Footer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-excel-add-header.png) 
@@ -65,16 +71,10 @@ Related: [How to Add Headers or Footers in Google Sheets](https://phone-solution
 
 ![Select a dynamic item to add to the header.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/5-dynamic-header-items.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Similarly, if you'd like a different header for the first page, or different headers for the odd and the even pages, use the "Different First Page" and "Different Odd & Even Pages" options at the top.
 
 ![Use different headers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/6-different-header.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  To go back to Excel's default viewing mode, in the ribbon at the top, click View > Normal.
 
 ![Select View > Normal from Excel's ribbon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/7-excel-normal-view.png) 
@@ -94,8 +94,9 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 ![Select worksheets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/8-excel-select-multiple-worksheets.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While your worksheets are selected, in Excel's ribbon at the top, click the "Page Layout" tab.
 
 ![Click the "Page Layout" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-excel-page-layout.png) 
@@ -103,6 +104,10 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
  On the "Page Layout" tab, in the bottom-right corner of the "Page Setup" section, click the arrow icon.
 
 ![Click the arrow icon in the bottom-right corner of the "Page Setup" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/10-excel-page-setup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the "Page Setup" dialog box, click the "Header/Footer" tab.
 
@@ -112,9 +117,6 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 
 ![Click the "Custom Header" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/12-excel-custom-header.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  A "Header" box will open. Here, click the left, middle, and right sections and specify the header content for each section. If you'd like to add dynamic items like page numbers and dates, click the appropriate icons.
 
  When you are finished, click "OK" in the box.
@@ -122,15 +124,13 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 ![Edit the header.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/13-excel-edit-header.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You will be back on the "Page Setup" box. Here, click "OK" to add your custom header to your worksheets.
 
 ![Click "OK" in the "Page Setup" box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/14-finish-adding-header.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And your selected worksheets now have your specified custom header. Enjoy customizing the top of your spreadsheets!
 
 ---
@@ -145,8 +145,6 @@ Related: [How to Add a Header or Footer to a Word Document](https://extra-suppor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +152,26 @@ Related: [How to Add a Header or Footer to a Word Document](https://extra-suppor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-tips-on-acquiring-profitable-yt-channels/"><u>[New] 2024 Approved Essential Tips on Acquiring Profitable YT Channels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-crafting-a-profitable-channel-in-your-first-youtube-steps/"><u>[Updated] 2024 Approved Crafting a Profitable Channel in Your First Youtube Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-perfected-in-depth-on-the-t5-camera-for-2024/"><u>Action Perfected In-Depth on the T5 Camera for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/compatibility-achieved-how-to-get-your-miracast-working-with-updated-drivers/"><u>Compatibility Achieved: How to Get Your Miracast Working with Updated Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-making-your-external-device-work-again-on-pcmac-systems/"><u>Diagnosis and Repair: Making Your External Device Work Again on PC/Mac Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/directx-boot-problem-heres-your-step-by-step-guide-to-easy-installation-fixes/"><u>DirectX Boot Problem? Here's Your Step-by-Step Guide to Easy Installation Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-overcome-problems-when-printing-pdf-files/"><u>Easy Fixes to Overcome Problems when Printing PDF Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-the-not-enough-system-resources-problem-with-proven-fixes-and-optimizations/"><u>Eliminating the 'Not Enough System Resources' Problem with Proven Fixes and Optimizations</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-optimize-your-pc-managing-dwms-high-graphics-load-on-windows-11/"><u>How to Optimize Your PC: Managing DWM's High Graphics Load on Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ensure-flawless-slack-conversations-best-10-free-recorder-apps/"><u>In 2024, Ensure Flawless Slack Conversations Best 10 Free Recorder Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-marvels-spider-man-miles-morales-intimate-storytelling-with-great-outcomes/"><u>In-Depth Analysis of Marvel's Spider-Man: Miles Morales - Intimate Storytelling with Great Outcomes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-teleport-command-a-comprehensive-guide-for-minecraft-players/"><u>Mastering the Teleport Command: A Comprehensive Guide for Minecraft Players</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rectified-initialization-mishap-of-the-display-engine-with-latest-fixes-year-2pressure-on-rendering-engines-we-can-create-titles-that-communicate-a-successf140/"><u>Rectified Initialization Mishap of the Display Engine with Latest Fixes (Year 2Pressure on Rendering Engines, We Can Create Titles that Communicate a Successful Resolution to an Initial Problem While Still Hinting at Improvements or Fixes Made :</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-drive-scan-problems-a-step-by-step-guide-to-repair-and-recovery/"><u>Resolving Windows 11 Drive Scan Problems: A Step-by-Step Guide to Repair and Recovery</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-y56-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo Y56 5G FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-entry-point-unknown-mistakes-within-windows-os/"><u>Understanding and Repairing ‘Entry Point Unknown’ Mistakes Within Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-dvrs-unveiling-the-digital-video-recorder/"><u>Understanding DVRs: Unveiling the Digital Video Recorder</u></a></li>
+</ul></div>
 

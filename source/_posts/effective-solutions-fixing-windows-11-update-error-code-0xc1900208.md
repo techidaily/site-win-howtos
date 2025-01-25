@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions: Fixing Windows 11 Update Error Code 0xC1900208"
-date: 2024-08-28T00:26:06.413Z
-updated: 2024-08-29T00:26:06.413Z
+date: 2025-01-19T16:22:56.908Z
+updated: 2025-01-25T16:11:36.951Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Restart the Windows Update service**
 
  You may see the error code 0xc1900208 if there is something wrong with the Windows Update service. Try restarting the Windows Update service to see if you can resolve this problem. Here’s how to do it:
@@ -46,44 +50,59 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press **the Windows Logo key**   and **R**   at the same time to open the Run dialog, then type **services.msc** and press **Enter**   to open the Services window.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap396.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Delete** all the files in the folder **DataStore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap399.png)  
  When all the files are deleted, you shall see “This folder is empty”.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.**`C:\Windows\SoftwareDistribution\Download`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. **Delete** all the files in the folder   **Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap401.png)  
  When all the files are deleted, you shall see “This folder is empty”.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  Perform a Windows update again. If it still doesn’t work, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 3: Run the DISM tool**
 
  The error code 0xc1900208 can also be triggered by the corrupted Windows update files. In this case, running **the Deployment Image Servicing and Management (DISM) tool**  may resolve this issue. Just follow the step-by-step instructions below to run the DISM tool:
 
 1. On your keyboard, press **the Windows Logo Key**  and **R**  at the same time to open the Run dialog. Type **cmd** and then press **Ctrl** , **Shift** , and **Enter** on your keyboard   at the same time to **run Command Prompt as administrator** . You will be prompted for permission. Click **Yes**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap402.png)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    1. **Dism /Online /Cleanup-Image /ScanHealth**  
     When you run command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap403.png)  
     It may take several minutes for this command operation to be completed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    2. **Dism /Online /Cleanup-Image /CheckHealth**  
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
@@ -92,36 +111,28 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
     The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 4: Running System File Checker**
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. When you see the error code 0xc1900208, it may be caused by some corruption error. Running System File Checker may help you resolve this issue. Here is how to do it:
 
 1. On your keyboard, press **the Windows Logo Key**  and then type **cmd**  in the search box. When you see **Command Prompt**  in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **OK**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap407.png)
 2. On your keyboard, type the following command and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 **sfc /scannow**  
  It may take some time for the command operation to be completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
 3. When this command operation is completed, close **Command Prompt** .
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
 
@@ -139,9 +150,6 @@ Run Windows Update  again to check whether this fix works or not. If you still f
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
 
@@ -162,8 +170,6 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +177,24 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-advanced-rendering-with-srgb-technology-for-2024/"><u>[Updated] Advanced Rendering with Srgb Technology for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-wallet-friendly-microphones-for-social-media-stars/"><u>[Updated] Wallet-Friendly Microphones for Social Media Stars</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mastery-in-missed-tips-on-bypassing-edgenuity-video-instructions-efficiently/"><u>2024 Approved Mastery in Missed Tips on Bypassing Edgenuity Video Instructions Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-10-spacebar-malfunction-problems/"><u>Diagnosing and Solving Windows 10 Spacebar Malfunction Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-the-403-forbidden-error-challenge/"><u>Effective Solutions for Overcoming the '403 Forbidden Error' Challenge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-ways-to-fix-the-windows-11-0x80-groove-error-during-updates/"><u>Effective Ways to Fix the Windows 11 0X80 Groove Error During Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-overwatch-not-working-voice-chat-issues-instantly/"><u>Expert Tips for Fixing 'Overwatch Not Working' Voice Chat Issues Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209354271-fix-pc-stuck-on-getting-windows-ready/"><u>Fix PC Stuck on “Getting Windows Ready”</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-narzo-60-5g-lock-screen-password-by-drfone-android/"><u>How To Change Realme Narzo 60 5G Lock Screen Password?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/insiders-guide-to-efficient-phone-recording-for-2024/"><u>Insider's Guide to Efficient Phone Recording for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/miracast-troubles-correct-your-graphics-driver-for-seamless-screen-mirroring/"><u>Miracast Troubles? Correct Your Graphics Driver for Seamless Screen Mirroring</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-fresh-renderer-launch-issues-apply-the-latest-fix/"><u>Overcome Fresh Renderer Launch Issues - Apply the Latest Fix!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-your-iphone-dilemma-with-these-effective-methods-for-fixing-hey-siri-not-responding/"><u>Overcome Your iPhone Dilemma with These Effective Methods for Fixing 'Hey Siri' Not Responding</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-to-changing-epub-books-into-pdf-documents-with-calibre-software/"><u>Step-by-Step Guide to Changing EPUB Books Into PDF Documents with Calibre Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-getting-your-lenovos-fn-keys-working-again-easily/"><u>Step-by-Step Tutorial: Getting Your Lenovo's FN Keys Working Again Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-401-authentication-errors-on-your-website/"><u>Troubleshooting 401 Authentication Errors on Your Website</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-motorola-defy-2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Defy 2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

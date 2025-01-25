@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the KB4056892 Error for Smooth Windows 10 Updates - Solved
-date: 2025-01-15T19:36:04.167Z
-updated: 2025-01-19T20:33:14.823Z
+date: 2025-01-23T17:52:14.920Z
+updated: 2025-01-25T18:47:35.164Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Running Windows Update Troubleshooter**
 
  Windows Update troubleshooter is a built-in tool that can help you analyze and resolve issues related to Windows update. Try running Windows Update troubleshooter to see if you can resolve this issue. Here is how to do it:
@@ -50,8 +46,16 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap789.png)
 3. Click **Apply this fix**   to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap790.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perform a Windows update again to see if you can install the update. If not, try the next fix, below.
 
@@ -64,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap792.png)
@@ -76,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 4. Delete all the files in the folder **DataStore**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap795.png)  
@@ -90,14 +94,14 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 6. Delete all the files in the folder   **Download**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap797.png)  
  When all the files are deleted, you shall see “This folder is empty”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
@@ -114,16 +118,12 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 2. In Command Prompt, type the command line below and press enter:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **SC config trustedinstaller start=auto**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap800.png)
 3. Close Command Prompt and restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Perform Windows Update again after your restart your PC. See if you can install the update KB4056892\. If you can install it, congratulations! You’ve fixed this issue.
 
@@ -134,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Ctrl** ,**Shift** and**Enter** at the same time to**run Command Prompt as administrator** . You’ll be prompted for permission. Click**Yes** to open Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)
 2. In Command Prompt, type the following command and press **Enter**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **sfc /scannow**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap801.png)  
@@ -156,11 +152,15 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap802.png)  
     “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
@@ -205,19 +205,20 @@ See if you can install the update. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-compreenhensive-guide-for-youtube-short-video-creators/"><u>[New] In 2024, Compreenhensive Guide for YouTube Short Video Creators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-seamless-techniques-to-share-your-screen-on-google-meet/"><u>[New] In 2024, Seamless Techniques to Share Your Screen on Google Meet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-inspiration-in-frames-top-20-creative-instagrams-for-2024/"><u>[Updated] Inspiration in Frames Top 20 Creative Instagrams for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-review-best-camcorders-to-try/"><u>[Updated] Ultimate Review Best Camcorders to Try</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-v29-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo V29</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-your-tiktok-unboxing-video-popularity-a-guide/"><u>Elevating Your TikTok Unboxing Video Popularity A Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-hp-laptop-camera-not-working-in-windows-11/"><u>How To Fix HP Laptop Camera Not Working In Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-skyrims-perpetual-preloading-problem-on-your-system/"><u>How to Resolve Skyrim's Perpetual Preloading Problem on Your System</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-easy-route-to-altering-clownfish-vocal-pattern-in-windoze/"><u>In 2024, Easy Route to Altering Clownfish Vocal Pattern in Windoze</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-organization-managed-settings-on-your-windows-pc-a-step-by-step-tutorial/"><u>Mastering Organization-Managed Settings on Your Windows PC: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/mute-high-contrast-mode-on-your-pc-windows/"><u>Mute High Contrast Mode on Your PC, Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-error-code-0x80072f8f-a-comprehensive-guide-for-windows-11-and-10-users/"><u>Resolving Error Code 0X80072F8F: A Comprehensive Guide for Windows 11 & 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-overcoming-user-settings-driver-failed/"><u>Troubleshooting Steps for Overcoming 'User Settings - Driver Failed'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-issues-with-effective-sfc-and-dism-strategies/"><u>Troubleshooting Windows 11 Issues with Effective SFC and DISM Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-mobile-photography-boosters-iphone-vs-android/"><u>[New] In 2024, Essential Mobile Photography Boosters IPhone vs Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-stuck-in-airplane-mode/"><u>[SOLVED] Windows 10 Stuck In Airplane Mode</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-key-insights-on-market-research-for-effective-business-decisions/"><u>[Updated] Key Insights on Market Research for Effective Business Decisions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-fixing-launch-problems-with-rainbow-six-siege/"><u>Expert Tips on Fixing Launch Problems with Rainbow Six Siege</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reduce-desktop-window-managers-gpu-drain-5-effective-solutions-for-windows-users/"><u>How To Reduce Desktop Window Manager's GPU Drain: 5 Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-connection-stability-tips-to-eliminate-the-network-lag-problem-in-pubg-battles/"><u>Mastering Connection Stability: Tips to Eliminate the Network Lag Problem in PUBG Battles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-miracast-unsupported-errors-by-updating-your-graphic-cards-driver/"><u>Overcoming Miracast Unsupported Errors by Updating Your Graphic Card's Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-videodxgkrnlfatalerror-a-comprehensive-fix-for-windows-operating-systems/"><u>Overcoming Video_Dxgkrnl_Fatal_Error: A Comprehensive Fix for Windows Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-change-rendering-api-error-2024-on-your-dota-2-game/"><u>Quick Fixes for 'Change Rendering API' Error 2024 on Your Dota 2 Game</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/social-media-mastery-enhancing-cross-platform-engagement-on-facebook-linkedin-and-youtube/"><u>Social Media Mastery: Enhancing Cross-Platform Engagement on Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211247369-9781507209677-the-little-book-of-self-care-for-taurus/"><u>The Little Book of Self-Care for Taurus | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-hidden-details-roblox-closeup-secrets-for-2024/"><u>Unlocking Hidden Details Roblox Closeup Secrets for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204698046-windows-11-wi-fi-not-showing-here-are-the-fixes-for-missing-connections/"><u>Windows 11 Wi-Fi Not Showing? Here Are the Fixes for Missing Connections!</u></a></li>
 </ul></div>
 

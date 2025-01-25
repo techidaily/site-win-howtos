@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Working USB Flash Drive: Simple and Effective Methods"
-date: 2025-01-12T19:00:38.750Z
-updated: 2025-01-19T20:09:47.114Z
+date: 2025-01-19T18:17:38.337Z
+updated: 2025-01-25T18:12:51.051Z
 tags:
   - win11
   - win10
@@ -49,19 +49,11 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -69,6 +61,10 @@ the picture was taken by: Article\_86
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -82,16 +78,16 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -102,17 +98,21 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -127,12 +127,12 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -171,19 +171,20 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-access-facebooks-just-watched-video-list/"><u>[New] In 2024, How To Access Facebook’s Just-Watched Video List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>2024 Approved Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminated-visual-glitches-in-dell-ultrabook/"><u>Eliminated Visual Glitches in Dell Ultrabook</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-correct-system-file-checker-errors-on-windows-systems/"><u>Expert Tips to Correct System File Checker Errors on Windows Systems</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/high-definition-animal-wallpaper-collections-premium-nature-scenes-and-wildlife-photography-by-yl-computing/"><u>High-Definition Animal Wallpaper Collections: Premium Nature Scenes & Wildlife Photography by YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-gpt-3-with-python/"><u>How to Use GPT-3 With Python</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-recording-power-20plus-best-practices-for-skype-chats-on-windowsmac-pcs/"><u>In 2024, Recording Power 20+ Best Practices for Skype Chats on Windows/Mac PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-index-function-a-step-by-step-guide-to-extract-data-in-microsoft-excel/"><u>Mastering the Index Function: A Step-by-Step Guide to Extract Data in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-technique-of-cutting-out-images-without-backgrounds-using-excel-tools/"><u>Mastering the Technique of Cutting Out Images Without Backgrounds Using Excel Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-uniqueness-a-guide-to-identifying-and-organizing-distinct-data-with-microsoft-excel/"><u>Mastering Uniqueness: A Guide to Identifying and Organizing Distinct Data with Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/potential-threats-when-using-microsoft-office-on-apples-macos-platform/"><u>Potential Threats when Using Microsoft Office on Apple's macOS Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revolutionary-upgrade-new-features-in-the-latest-version-of-microsoft-excel-web-app/"><u>Revolutionary Upgrade: New Features in the Latest Version of Microsoft Excel Web App</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solutions-for-troubleshooting-and-resolving-hp-officejet-pro-6978-printer-drivers/"><u>Solutions for Troubleshooting and Resolving HP Officejet Pro 6978 Printer Drivers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-maximizing-efficiency-in-rl-video-recordings/"><u>[New] 2024 Approved Maximizing Efficiency in RL Video Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-essentials-of-screen-capture-with-fraps/"><u>[Updated] 2024 Approved The Essentials of Screen Capture with Fraps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-much-video-can-64gb128gb-hold-for-2024/"><u>[Updated] How Much Video Can 64GB/128GB Hold for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-shorts-a-guide-to-music-videos/"><u>[Updated] Mastering YouTube Shorts A Guide to Music Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mxfmpg/"><u>無料で楽に変換: MXFフォーマットからMPGへの簡単なステップバイステップガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/androidioswindows/"><u>最佳無限語音到文字翻譯器：釋放Android、iOS及Windows上的潛力！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-dal-formato-mka-a-ogg-con-moveave-tecniche-e-guide-online/"><u>Conversione Gratuita Dal Formato MKA a OGG Con Moveave - Tecniche E Guide Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973836495-download-the-microsoft-wireless-mouse-5000-driver-in-a-snap-easy-steps-inside/"><u>Download the Microsoft Wireless Mouse 5000 Driver in a Snap – Easy Steps Inside</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/experts-insight-efficiently-using-mobizen-for-capturing-screens-for-2024/"><u>Expert's Insight Efficiently Using Mobizen for Capturing Screens for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-flv-to-ogg-konverteren-online-efficient-en-beslist/"><u>Gratis Flv-To-Ogg Konverteren Online - Efficiënt en Beslist</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p55plus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel P55+ Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-konvertor-voor-mp4-naar-3gp-gratis-dienst-moet-aan-movavi-herleiden/"><u>Online Konvertor Voor MP4 Naar 3GP: Gratis Dienst, Moet Aan Movavi Herleiden!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-mic-for-seamless-zoom-meetings-a-step-by-step-solution-for-windows-11-and-10-users/"><u>Reviving Your Mic for Seamless Zoom Meetings: A Step-by-Step Solution for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rmvb-movavi/"><u>RMVBファイルを手軽なオンラインツールで無料変換: 動画編集マスター – Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wma-3gpp-movavi/"><u>WMAファイルの即時無料変換 - 3GPP形式に移行: Movaviサービス</u></a></li>
 </ul></div>
 

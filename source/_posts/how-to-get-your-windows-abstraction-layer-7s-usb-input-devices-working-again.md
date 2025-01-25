@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Windows Abstraction Layer 7'S USB Input Devices Working Again
-date: 2024-08-28T00:21:34.308Z
-updated: 2024-08-29T00:21:34.308Z
+date: 2025-01-23T17:28:40.279Z
+updated: 2025-01-25T16:55:13.996Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -60,18 +64,17 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -81,30 +84,32 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -127,8 +132,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +139,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-incorporating-visual-media-into-free-writings/"><u>[New] 2024 Approved Incorporating Visual Media Into Free Writings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-green-frameworks-30plus-downloads-that-transform-your-videography-skills/"><u>[New] Green Frameworks 30+ Downloads That Transform Your Videography Skills</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-innovative-approach-to-revamping-your-videos-cover-images-on-fb/"><u>[New] In 2024, Innovative Approach to Revamping Your Videos' Cover Images on FB</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-prime-collection-of-pc-screen-capture-tools-win11/"><u>[Updated] 2024 Approved The Prime Collection of PC Screen Capture Tools (Win11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/naver-seo/"><u>簡単ガイド: NAVER動画ダウンロード＆録画方法 - お気軽で学ぶSEO</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bring-back-your-chatgpt-moments-expert-tips-on-accessing-erased-conversation-histories/"><u>Bring Back Your ChatGPT Moments: Expert Tips on Accessing Erased Conversation Histories</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-charm-of-high-quality-thermal-label-printing-fall-in-love-with-efficiency/"><u>Discover the Charm of High-Quality Thermal Label Printing - Fall in Love with Efficiency</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/evaluating-the-boundaries-of-hero5-sessions-for-2024/"><u>Evaluating the Boundaries of Hero5 Sessions for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-arf/"><u>MP4への迅速な変換: ARFファイルを簡単かつ有効に</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mswmmwmvmp4avimov/"><u>MSWMMファイルの変換：WMV、MP4、AVI、MOVへ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rotating-videos-using-windows-movie-maker-a-step-by-step-guide-and-other-options/"><u>Rotating Videos Using Windows Movie Maker: A Step-by-Step Guide and Other Options</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/safety-evaluation-of-second-hand-electricity-providers-a-discussion-with-yl-software/"><u>Safety Evaluation of Second-Hand Electricity Providers: A Discussion with YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-integrating-sound-into-your-pcs-screen-captures/"><u>Simple Steps: Integrating Sound Into Your PC's Screen Captures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-techniques-for-shrinking-your-quicktime-media-files/"><u>Simplified Techniques for Shrinking Your QuickTime Media Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sneak-peek-into-upcoming-videos-preview-features-explained/"><u>Sneak Peek Into Upcoming Videos: Preview Features Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-converting-your-videos-for-idevice-compatibility-iphone-ipad-ipod/"><u>Step-by-Step Instructions for Converting Your Videos for iDevice Compatibility (iPhone, iPad, iPod)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-no-cost-wmv-to-flv-transformers-seamless-online-and-offline-video-format-switching/"><u>Top 5 No-Cost WMV to FLV Transformers: Seamless Online and Offline Video Format Switching</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unresolved-problem-viewing-videos-on-sony-a6400-for-2024/"><u>Unresolved Problem Viewing Videos on Sony A6400 for 2024</u></a></li>
+</ul></div>
 

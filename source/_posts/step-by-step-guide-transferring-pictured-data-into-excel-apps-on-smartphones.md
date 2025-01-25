@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transferring Pictured Data Into Excel Apps on Smartphones"
-date: 2024-08-28T00:19:36.690Z
-updated: 2024-08-29T00:19:36.690Z
+date: 2025-01-19T18:09:14.010Z
+updated: 2025-01-25T17:31:47.617Z
 tags:
   - excel
 categories:
@@ -45,28 +45,34 @@ Related: [options-remote](https://www.reviewgeek.com/27131/new-microsoft-office-
 
 ![Data From Picture icon in Excel on Mobile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/DataFromPicture-ExcelMobile.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're using a tablet, use the Insert tab at the top and choose "Data From Picture."
 
 ##  Step 2: Insert the Data
 
  You have two options for inserting data using Excel's Data From Picture feature. The first is to take a picture using your device's camera. The second is to insert the data from an image that you've already saved to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Insert Data Using Your Device's Camera
 
  Once you tap the Data From Picture option, your device screen will transform into a camera viewfinder. Line up the table that you want to capture. When you're happy with the capture, tap the Shutter button at the bottom to snap the photo.
 
 ![Tap the Shutter button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/CapturePicture-ExcelMobile.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, you can crop the image by dragging the edges or corners. Take your time to focus on the data and eliminate any unnecessary background objects or text. When you finish, tap "Continue" on Android or "Confirm" on iPhone and iPad to use the image.
 
 ![Data From Picture icon in Excel on Mobile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/DataFromPicture-ExcelMobile.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  **Note:** To start over, tap "Retake" on Android or "Cancel" on iPhone or iPad and capture the image again.
 
  You'll see a progress message as Excel extracts the data from the image for you to work with.
@@ -77,17 +83,18 @@ Related: [options-remote](https://www.reviewgeek.com/27131/new-microsoft-office-
 
 ![Select a Picture for the Data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/InsertPicture-ExcelMobile.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the image and it will display in the viewfinder window where you can crop it, like with the camera capture above. Tap "Continue" or "Confirm" to use the image.
 
 ![Data From Picture icon in Excel on Mobile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/DataFromPicture-ExcelMobile.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
+
 ##  Step 3: Review and Insert the Data
 
  When the process completes, you'll see a two-part screen in Excel. The top portion shows the image, while the bottom part contains the data that Excel has extracted from it. Now, it's time to review the data before inserting it into your spreadsheet.
@@ -98,20 +105,10 @@ The ultimate burning program for all your needs!</a>
 
 ![Data From Picture icon in Excel on Mobile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/DataFromPicture-ExcelMobile.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  You can also review all of the items one by one in a cleaner interface. Choose a highlighted item, tap "Edit," and then select "Review All." You'll also see the total number of items that Excel expects you to review.
 
 ![Data From Picture icon in Excel on Mobile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/DataFromPicture-ExcelMobile.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  To edit the data, tap inside the text box and make the change. Then, tap "Done." To accept the data without changes, tap "Ignore."
 
 ![Data From Picture icon in Excel on Mobile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/DataFromPicture-ExcelMobile.png) 
@@ -119,6 +116,10 @@ No advertising on the website.
  When you finish reviewing all of the items in question, the data will no longer contain highlights. You can then tap "Open" on Android or "Insert" on iPhone and iPad to put the data into your spreadsheet.
 
 ![Data From Picture icon in Excel on Mobile](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/DataFromPicture-ExcelMobile.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the data is in your Excel sheet, you can work with it as you would with any other data.
 
@@ -132,8 +133,6 @@ Related: [What's the Difference Between Microsoft Office's Desktop, Web, and Mob
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +140,19 @@ Related: [What's the Difference Between Microsoft Office's Desktop, Web, and Mob
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-nba-live-your-ultimate-guide-to-15-streaming-methods/"><u>[New] NBA Live Your Ultimate Guide to 15 Streaming Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-fix-cache-miss-error-errcachemiss-on-google-chrome/"><u>Expert Tips to Fix 'Cache Miss' Error (ERR_CACHE_MISS) on Google Chrome</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-get-your-discord-webcam-functioning-again/"><u>Fixing the Issue: How to Get Your Discord Webcam Functioning Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-11-freezing-and-update-problems/"><u>How to Resolve Windows 11 Freezing and Update Problems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-income-patterns-in-the-podcast-industry/"><u>In 2024, Income Patterns in the Podcast Industry</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-business-strategy-game-guide-mobilepc/"><u>In 2024, The Ultimate Business Strategy Game Guide (Mobile/PC)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-fb-video-sizes-understanding-ratios-and-adjustments-for-2024/"><u>Mastering FB Video Sizes Understanding Ratios and Adjustments for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-your-folder-management-a-users-guide-to-file-explorer-in-windows-11/"><u>Optimize Your Folder Management: A User's Guide to File Explorer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedy-for-windows-uninitialized-disk-issue/"><u>Quick Remedy for Windows 'Uninitialized' Disk Issue</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stop-video-break-at-error-code-cx0d36c4/"><u>Stop Video Break at Error Code Cx0d36c4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201119149-troubleshooting-tips-for-an-unresponsive-xbox-one-contoller-quick-fixes/"><u>Troubleshooting Tips for an Unresponsive Xbox One Contoller - Quick Fixes</u></a></li>
+</ul></div>
 

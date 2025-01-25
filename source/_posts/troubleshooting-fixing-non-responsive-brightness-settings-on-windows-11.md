@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing Non-Responsive Brightness Settings on Windows 11"
-date: 2024-08-28T00:20:23.275Z
-updated: 2024-08-29T00:20:23.275Z
+date: 2025-01-20T18:36:22.414Z
+updated: 2025-01-25T18:14:02.569Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -66,18 +74,12 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -97,8 +99,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -106,8 +109,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -117,16 +121,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -168,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +177,26 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-content-creator-your-youtube-journey-begins/"><u>[New] 2024 Approved From Novice to Content Creator Your YouTube Journey Begins</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-gaming-history-told-by-top-video-makers/"><u>[New] 2024 Approved Gaming History Told by Top Video Makers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dodge-the-high-costs-lowest-price-cloud-storage-options-2024/"><u>[New] Dodge the High Costs Lowest Price Cloud Storage Options, 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-recording-skype-meetings-on-modern-operating-systems/"><u>[Updated] 2024 Approved Recording Skype Meetings on Modern Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4mkvmov/"><u>複数種フォーマットビデオ効率的な一括変換テクニック: MP4、MKV、MOVへのチェインコンバータ</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-definitive-guide-to-live-tweeting-with-reactions/"><u>In 2024, The Definitive Guide to Live Tweeting with Reactions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-ultimate-spots-for-discovering-rich-gold-text-effects/"><u>In 2024, Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-media-an-intuitive-approach-to-pc-mac-and-mobile-movies/"><u>Mastering Media An Intuitive Approach to PC, Mac & Mobile Movies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pick-the-perfect-flv-editor-discover-our-top-10-choices-for-windows-users-and-online-platforms/"><u>Pick the Perfect FLV Editor: Discover Our Top 10 Choices for Windows Users and Online Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-successfully-viewing-iso-images-using-an-android-phone/"><u>Quick Guide: Successfully Viewing ISO Images Using an Android Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-adding-the-sirius-satellite-radio-channel-pack-to-your-kodi-matrix/"><u>Step-by-Step Guide to Adding the Sirius Satellite Radio Channel Pack to Your Kodi Matrix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-editing-and-merging-footage-with-imovie/"><u>Step-by-Step Tutorial on Editing and Merging Footage with iMovie</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-configuring-chains-of-darkness-for-kodi-with-matrix-support/"><u>Step-by-Step Tutorial: Configuring Chains of Darkness for Kodi with Matrix Support</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-recording-flawless-minecraft-sessions-with-optimal-video-quality/"><u>Step-by-Step Tutorial: Recording Flawless Minecraft Sessions with Optimal Video Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamline-your-audio-conversion-how-to-transform-flv-videos-into-mp3-format-in-minutes/"><u>Streamline Your Audio Conversion: How to Transform FLV Videos Into MP3 Format in Minutes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tailor-your-experience-a-guide-to-optimizing-account-preferences-and-settings/"><u>Tailor Your Experience: A Guide to Optimizing Account Preferences and Settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-excel-workflow-with-these-3-ingenious-applications-of-chatgpt/"><u>Transform Your Excel Workflow with These 3 Ingenious Applications of ChatGPT</u></a></li>
+</ul></div>
 

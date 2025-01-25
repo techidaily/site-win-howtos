@@ -1,7 +1,7 @@
 ---
 title: "Device Demise: System Error Out of Control"
-date: 2024-08-28T00:25:49.717Z
-updated: 2024-08-29T00:25:49.717Z
+date: 2025-01-24T16:54:29.570Z
+updated: 2025-01-25T17:48:44.771Z
 tags:
   - win11
   - win10
@@ -29,9 +29,17 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 4. [ Set Windows Photo Viewer as a default image viewer ](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 4. Set Windows Photo Viewer as a default image viewer)
 5. [ Disable iCloud](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 5. Disable iCloud) ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
@@ -67,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
 ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -75,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 ` ``
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` Click **Yes**  when prompted by User Account Control.
 
@@ -100,14 +116,15 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -115,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -129,9 +143,6 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
@@ -139,8 +150,9 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ``
 
  2) Click **System** .
@@ -149,9 +161,6 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -171,8 +180,9 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Disable iCloud
 
  Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
@@ -201,8 +211,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +218,21 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapshot-savvy-the-gif-journey-on-snapchat/"><u>[New] In 2024, Snapshot Savvy The GIF Journey on Snapchat</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>[Updated] 2024 Approved Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-amp-up-your-media-get-free-soundtracks-for-2024/"><u>[Updated] Amp Up Your Media Get Free Soundtracks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hasten-your-windows-doc-analysis-process/"><u>[Updated] Hasten Your Windows Doc Analysis Process</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-your-xbox-experience-with-advanced-screen-capture-methods/"><u>[Updated] Optimizing Your Xbox Experience with Advanced Screen Capture Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-shooter-showdown-our-best-picks/"><u>[Updated] Ultimate Shooter Showdown - Our Best Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-and-tips-for-resolving-wacom-drawing-pad-issues/"><u>Effective Fixes and Tips for Resolving Wacom Drawing Pad Issues</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-steps-in-picking-out-a-new-tv-screen/"><u>Essential Steps in Picking Out a New TV Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y200e-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y200e 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/league-of-legends-boost-trick-get-your-game-running-faster-now/"><u>League of Legends Boost Trick - Get Your Game Running Faster Now!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-the-best-free-srt-translation-services-for-2024/"><u>Navigating the Best FREE SRT Translation Services for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-msvcr71-absence/"><u>Overcoming MSVCR71 Absence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-shutting-down-windows-11-on-your-computer-effective-fixes/"><u>Resolving Issues with Shutting Down Windows 11 on Your Computer – Effective Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-overcoming-microsoft-wireless-display-adapter-connection-hurdles-on-windows-10/"><u>Success Story: Overcoming Microsoft Wireless Display Adapter Connection Hurdles on Windows 10</u></a></li>
+</ul></div>
 

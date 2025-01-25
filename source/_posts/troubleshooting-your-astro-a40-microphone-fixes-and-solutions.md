@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Astro A40 Microphone: Fixes & Solutions"
-date: 2024-08-28T00:25:13.060Z
-updated: 2024-08-29T00:25:13.060Z
+date: 2025-01-23T16:20:31.032Z
+updated: 2025-01-25T18:30:15.780Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 ## Troubleshooting Stuck Personalization Features: Solutions Found
 
 If you’re greeted with a dark screen with this **Personalized Settings (Not Responding)** box in the upper left after**Windows Update** , don’t panic. Many users have reported the same. But luckily they’ve solved this woe with the fixes below. So read on and check them out…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Fixes for Personalized Settings (Not Responding)
 
@@ -46,30 +50,27 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the airplane mode icon![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a54a1f6ef.png)**  
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. In the middle of your computer screen, click**Sign out** .
 4. Log in your computer and see if you get your desktop back this time. If the**Personalized Settings (Not Responding)** still lingers on, you should try **Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Re-launch Windows explorer
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time, then click**Task Manager** .
 2. Right-click on**Windows Explorer** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a86cad1b3.jpg)
 3. Click**File** \>**Run new task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
@@ -79,27 +80,31 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Run SFC Command
 
 1. On your keyboard, press the **Windows logo key**  and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click**Yes** when prompted to confirm.
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete a file in regedit
 
@@ -112,9 +117,11 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 2. Locate and double-click on **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \> **Microsoft** \> **Active Setup** \> **Installed Components** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b61a4971d.jpg)
 3. Right-click on**the last file** and click**Export** to back up the file.  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
  If this fix doesn’t help with the situation, you might want to import the file to restore the backup. Check out **[this link](https://tools.techidaily.com/drivereasy/download/)**  for further information.
 4. Right-click on**the last file** and click**Delete** .
@@ -138,8 +145,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +152,24 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-insufficient-system-resources-exist-to-complete-the-requested-service/"><u>[Fixed] Insufficient System Resources Exist to Complete the Requested Service</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-small-scale-startups-guide-to-trustworthy-video-tools-for-2024/"><u>[Updated] Small-Scale Startups' Guide to Trustworthy Video Tools for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-choreographing-a-stellar-tiktok-wrap-up/"><u>2024 Approved Choreographing a Stellar TikTok Wrap-Up</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-pristine-visionary-storytelling-system/"><u>2024 Approved Pristine Visionary Storytelling System</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionized-action-recording-with-tomtoms-newest-bandit/"><u>2024 Approved Revolutionized Action Recording with TomTom's Newest Bandit</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/nvme/"><u>安全かつスマートなアカシスNVMeディスクのクローニングガイド：実践編</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/best-10-anti-cyberattack-tools-for-both-windows-and-android-devices-a-comprehensive-guide/"><u>Best 10 Anti-Cyberattack Tools for Both Windows & Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bringing-your-lenovo-mouse-pad-back-to-life-comprehensive-solutions-for-windows-10-8-and-7/"><u>Bringing Your Lenovo Mouse Pad Back to Life – Comprehensive Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-when-night-light-wont-turn-on-in-windows-1011-systems/"><u>Expert Fixes for When Night Light Won't Turn On in Windows 10/11 Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfectly-prepared-videos-a-guide-to-instagram-fitness/"><u>Perfectly Prepared Videos A Guide to Instagram Fitness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/redefining-education-with-chatgpt-top-5-applications-in-the-schooling-space/"><u>Redefining Education with ChatGPT: Top 5 Applications in the Schooling Space</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-device-not-found-error-error-code-24-on-windows-1087/"><u>Resolving 'Device Not Found' Error (Error Code #24) on Windows 10/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-no-supported-hardware-devices-detected-error-for-a-smooth-windows-7-installation-experience/"><u>Resolving 'No Supported Hardware Devices Detected' Error for a Smooth Windows 7 Installation Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-steps-to-repair-windows-failed-to-boot-problem/"><u>Solving the Dilemma: Steps to Repair 'Windows Failed to Boot' Problem</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformez-vos-audio-aac-en-aiff-sans-frais-via-le-web-guide-complet-pour-movavi/"><u>Transformez Vos Audio AAC en AIFF Sans Frais via Le Web - Guide Complet Pour Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-update-error-0x8024402c-a-complete-solution/"><u>Troubleshooting Tips for Windows Update Error 0X8024402C - A Complete Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-connection-woes-fixing-unknown-device-issues-and-port-resets-on-windows-10-made-easy/"><u>USB Connection Woes? Fixing Unknown Device Issues & Port Resets on Windows 10 Made Easy</u></a></li>
+</ul></div>
 

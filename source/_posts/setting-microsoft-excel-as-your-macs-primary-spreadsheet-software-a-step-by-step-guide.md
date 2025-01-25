@@ -1,7 +1,7 @@
 ---
 title: "Setting Microsoft Excel as Your Mac's Primary Spreadsheet Software: A Step-by-Step Guide"
-date: 2024-08-28T00:19:31.832Z
-updated: 2024-08-29T00:19:31.832Z
+date: 2025-01-18T16:18:48.876Z
+updated: 2025-01-25T17:47:35.564Z
 tags:
   - excel
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 * [Quickly Open Spreadsheet Files in Another App](https://instagram-video-files.techidaily.com/in-2024-the-ultimate-strategies-for-leveraging-the-question-sticker-on-instagram/)
 * [How to Open Numbers Files in Excel](https://fox-helps.techidaily.com/updated-2024-approved-strategizing-success-the-open-door-approach/)
 * [Don't Forget About Google Sheets](https://facebook-video-recording.techidaily.com/new-2024-approved-organize-and-download-fb-links-optimized-tools-for-23/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,22 +43,21 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 ![Choose "Get Info" in Finder's context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/finder_get_info.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  An information window will appear, and towards the bottom you will see a section titled "Open with:" which you should expand if it isn't already. The current default application will be listed.
 
 ![Change the "Open With" application for your chosen file type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/open_with.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  From the drop-down box, select the application you want to use instead. In the below example, we've replaced Numbers with Excel.
 
 ![Change the "Open With" application for your chosen file type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/open_with.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Finally, click "Change All..." followed by "Continue" in the dialog box that pops up.
 
 ![Confirm your changes with "Change All" followed by "Continue"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/change_all.png) 
@@ -62,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
  If the application you want to use (in this case, Excel) isn't listed in the box, you can click "Other" and then navigate to the Excel app in your Applications file. Be aware that this is often a sign that your chosen file type is not compatible with the app you have chosen.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Quickly Open Spreadsheet Files in Another App
 
  You can also access "Open With" options using the standard right-click (Control+click) context menu. The difference here is that selecting an application won't change the default app.
@@ -73,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
  This is handy if you want to open a file (like a spreadsheet) in a particular app without changing the default setting.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Open Numbers Files in Excel
 
  Numbers is Apple's spreadsheet app. Though it's convenient, free, and pre-installed on new Mac purchases, the app lacks many of the features found in Excel. When you save a Numbers file it will be stored in Apple's own Numbers format by default.
@@ -85,9 +90,6 @@ Related: [How to Convert Apple Numbers to Microsoft Excel](https://screen-captur
 
  If you can't use these methods, you will need to use a file converter like [CloudConvert](https://cloudconvert.com/) to get the job done.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Don't Forget About Google Sheets
 
  Excel is a powerful spreadsheet tool that is much more powerful than Apple's offering, while Numbers is approachable, lightweight, and free. Google Sheets is a third option that offers the best of both worlds, but you'll be limited to using it in a browser.
@@ -100,8 +102,6 @@ Related: [How to Convert Apple Numbers to Microsoft Excel](https://screen-captur
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +109,21 @@ Related: [How to Convert Apple Numbers to Microsoft Excel](https://screen-captur
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-a-step-by-step-strategy-to-design-engaging-youtube-teasers/"><u>[New] 2024 Approved A Step-by-Step Strategy to Design Engaging YouTube Teasers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevating-your-entertainment-game-on-roku-and-facebook-live-for-2024/"><u>[Updated] Elevating Your Entertainment Game on Roku and Facebook LIVE for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-virtual-reality-terms-you-should-know/"><u>[Updated] Virtual Reality Terms You Should Know</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-commercial-free-android-vision-capturer/"><u>2024 Approved Commercial-Free Android Vision Capturer</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y27-4g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y27 4G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/execution-prohibited-by-system/"><u>Execution Prohibited by System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-what-to-do-if-internet-explorer-has-stopped-working/"><u>Fixing the Issue: What To Do If Internet Explorer Has Stopped Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-black-phenomenon-explained-and-resolved-step-by-step-guide/"><u>Google Chrome Black Phenomenon Explained and Resolved - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guaranteed-fix-for-windows-update-error-code-0x80070002-simple-solutions/"><u>Guaranteed Fix for Windows Update Error: Code 0X80070002 | Simple Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-sierra-icloud-document-and-desktop-guide/"><u>In 2024, The Ultimate Sierra iCloud Document & Desktop Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-securing-modification-permissions-from-trustedinstaller/"><u>Mastering the Art of Securing Modification Permissions From TrustedInstaller</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/no-watermark-no-problem-top-video-merger-tools-for-2024/"><u>No Watermark, No Problem Top Video Merger Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-video-recording-on-ios-and-android-select-the-best-apps/"><u>Seamless Video Recording on iOS & Android Select the Best Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-wi-fi-connectivity-how-to-fix-lenovo-pad-problems-on-pcs/"><u>Winning Over Wi-Fi Connectivity - How to Fix Lenovo Pad Problems on PCs</u></a></li>
+</ul></div>
 

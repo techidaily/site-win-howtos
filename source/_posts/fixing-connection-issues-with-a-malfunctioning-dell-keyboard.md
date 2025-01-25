@@ -1,7 +1,7 @@
 ---
 title: Fixing Connection Issues with a Malfunctioning Dell Keyboard
-date: 2024-08-28T00:21:45.929Z
-updated: 2024-08-29T00:21:45.929Z
+date: 2025-01-19T17:05:05.301Z
+updated: 2025-01-25T17:27:18.390Z
 tags:
   - win11
   - win10
@@ -54,21 +54,27 @@ thumbnail: https://thmb.techidaily.com/d1b957d75a545d4bf761b1ab71e56a83f74f572b9
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your keyboard driver
 
  If you’re using a faulty or outdated keyboard driver, you’re likely to encounter the arrow keys not working issue. To see if that’s the case, you should update your keyboard driver to the latest version. If you don’t have the time, patience, or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -79,9 +85,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -91,6 +94,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -103,8 +110,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this method didn’t work for you, check out the last fix.
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -116,18 +124,18 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -136,9 +144,6 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
@@ -154,8 +159,6 @@ If this method didn’t work for you, check out the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +166,24 @@ If this method didn’t work for you, check out the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-10-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video-in-2024/"><u>[New] 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-focussnap-recorder-for-screen-masters-for-2024/"><u>[New] FocusSnap Recorder for Screen Masters for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-assessing-inshot-a-thorough-comparative-study/"><u>[Updated] Assessing InShot A Thorough Comparative Study</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-premium-steadicam-brands-for-drones-and-camera-work-for-2024/"><u>[Updated] Premium Steadicam Brands for Drones and Camera Work for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm44km44kn44ow5lik44gu44ot44oh44kq44ks6kiy6yyy44gz44kl5yq55p6c55qe44gq5oml5q6144cn/"><u>「ウェブ上のビデオを記録する効果的な手段」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm44ol44kz44ol44kz5yuv55s744gl44kj44kq44oz44oq44o844oc44kk44k544ks6kiy6yyy44gz44kl5pya6ygp44gq5oml5q6144cn/"><u>「ニコニコ動画からオンリーボイスを記録する最適な手段」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5lia44gk44gu44ob44oj44oz44on44or44gl44kj5lqm44gk44g45asj44gi44kl5pa55rov77ya44k544og44os44kq5yyw44ox44ot44k744k544oe44ol44ol44ki44or/"><u>一つのチャンネルから二つへ変える方法：ステレオ化プロセスマニュアル</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030521373-mp3/"><u>知らなければ誤解：簡単にMP3形式へ変換できるオーディオ録音の手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aviutl-youtubevimeo/"><u>AviUtlでビデオ解像度調整ガイド - YouTube、Vimeo用</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-camon-30-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Camon 30 Pro 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/clearsky-top-notch-photo-background-cleaner/"><u>ClearSky Top-Notch Photo Background Cleaner</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-tutorial-on-adding-and-configuring-a-matrix-ready-daemon-plugin-for-your-kodi-device/"><u>Complete Tutorial on Adding and Configuring a Matrix-Ready Daemon Plugin for Your Kodi Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-handbrake-lessons-effortless-video-conversion-and-troubleshooting-tips/"><u>Comprehensive HandBrake Lessons: Effortless Video Conversion & Troubleshooting Tips</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-personalization-with-cutting-edge-insights-from-cookiebot-solutions/"><u>Elevate Personalization with Cutting-Edge Insights From Cookiebot Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevating-social-media-stardom-with-dji-drones-livestreams/"><u>Elevating Social Media Stardom with DJI Drones' Livestreams</u></a></li>
+<li><a href="https://games-able.techidaily.com/script-writing-revolution-chatgpt/"><u>Script Writing Revolution: ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030650239-wmv/"><u>WMVファイル統合手順：初心者に最適な、品質保持編集方法</u></a></li>
+</ul></div>
 

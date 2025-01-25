@@ -1,7 +1,7 @@
 ---
 title: Xbox One Won't Connect to Xbox Live [SOLVED]
-date: 2024-08-28T00:20:39.110Z
-updated: 2024-08-29T00:20:39.110Z
+date: 2025-01-20T18:06:55.142Z
+updated: 2025-01-25T17:00:06.677Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -38,11 +42,12 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
@@ -50,9 +55,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
@@ -65,9 +67,11 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -77,6 +81,10 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -85,17 +93,20 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
@@ -110,14 +121,12 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus tip
 
 A missing or outdated graphics driver may also stop items from appearing properly on PC. You should make sure your graphics card driver is up to date. There are two ways to update your graphics driver: **manually** and **automatically**.
@@ -134,9 +143,6 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,8 +158,6 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +165,18 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-guide-to-srgb-and-rgb/"><u>[Updated] Comprehensive Guide to Srgb & Rgb</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-calculating-clickers-contribution-to-youtube-earnings/"><u>[Updated] In 2024, Calculating Clickers' Contribution to YouTube Earnings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-direct-route-uploading-from-youtube-to-dailymotion/"><u>[Updated] In 2024, Direct Route Uploading From YouTube to Dailymotion</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-data-purging-on-mac-the-reliable-standard-protocol-of-stellar-file-deletion-tools/"><u>Effortless Data Purging on Mac: The Reliable Standard Protocol of Stellar File Deletion Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-imperfections-exposed-discovering-5-times-users-faced-letdowns/"><u>Facebook's Imperfections Exposed: Discovering 5 Times Users Faced Letdowns</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-epson-wf-3540-printer-drivers-on-your-windows-machine/"><u>Installing the Latest Epson WF- 3540 Printer Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-non-playable-tweets-a-comprehensive-guide/"><u>Solving the Issue of Non-Playable Tweets: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adding-subtitles-on-mx-player/"><u>Step-by-Step Guide: Adding Subtitles on MX Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-wma-files-into-mp3-format-using-vlc-media-player/"><u>Step-by-Step Guide: Transforming WMA Files Into MP3 Format Using VLC Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-utilizing-the-advanced-features-of-swf-video-converter-factory-pro/"><u>Step-by-Step Tutorial on Utilizing the Advanced Features of SWF Video Converter Factory Pro</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-150-2023-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia 150 (2023).</u></a></li>
+</ul></div>
 

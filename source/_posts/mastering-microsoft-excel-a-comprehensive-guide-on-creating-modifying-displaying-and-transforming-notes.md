@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Comprehensive Guide on Creating, Modifying, Displaying & Transforming Notes"
-date: 2024-08-28T00:19:23.776Z
-updated: 2024-08-29T00:19:23.776Z
+date: 2025-01-21T18:04:40.904Z
+updated: 2025-01-25T16:29:09.189Z
 tags:
   - excel
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 
  If you want to take advantage of the note feature in Excel, let's look at how to add a note and the actions you can take to manage notes in your sheet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Add a Note in Excel
 
  You can add a note to a cell in Excel in a couple of different ways. One way is to go to the Review tab and select the Notes drop-down arrow. Your other option is to simply [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) the cell and choose "New Note."
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 
 ![New Notes in the Notes menu on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NewNote-ExcelNotes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Change How Notes Display
 
  To change how the notes display, whether upon clicking or hovering your cursor, go to File > Options. Select "Advanced" on the left and scroll to the Display section on the right.
@@ -48,14 +56,8 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 
 ![Note and comment settings in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NoteSettings-ExcelNotes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Keep in mind that adjusting this setting affects [comments in your sheet](https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/) as well as notes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Edit a Note
 
  You can add, edit, or remove text you've typed into a note. Select the cell to display the note, go to the Review tab, and select "Edit Note" in the Notes drop-down menu. Alternatively, right-click the cell and pick "Edit Note."
@@ -67,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 Related: [How to Change Your Microsoft Account Name](https://some-approaches.techidaily.com/new-the-anglers-companion-best-action-cams-for-fishing/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Show and Hide Notes
 
  There may be a time when you want to display all notes in your sheet if you have more than one. You can enable a setting to keep one or more notes visible.
@@ -77,30 +80,16 @@ Related: [How to Change Your Microsoft Account Name](https://some-approaches.tec
 
 ![Show/Hide Note in the Notes menu on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ShowHideNote-ExcelNotes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To display all notes in your sheet, pick "Show All Notes" in the drop-down menu instead.
 
 ![Show All Notes in the Notes menu on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ShowAllNotes-ExcelNotes.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To hide your notes again, open the Notes drop-down menu and deselect "Show/Hide Note" or "Show All Notes."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Move Between Notes
 
  Whether you decide to keep your notes visible or select the cell to view the note, you can move through each note one at a time if needed.
@@ -116,8 +105,9 @@ Related: [How to Change Your Microsoft Account Name](https://some-approaches.tec
 ![Delete in the Comment section of the ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/DeleteNote-ExcelNotes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Convert Notes to Comments
 
  Maybe you added several notes to your sheet before sharing it and want to turn those notes into comments you can use [to collaborate](https://instagram-video-files.techidaily.com/2024-approved-a-step-by-step-approach-for-flawless-instagrams/). This lets you take advantage of comment features like [mentions](https://win-able.techidaily.com/fixing-the-endless-loop-solve-your-anthem-games-unending-load-screens/) and resolving comments.
@@ -132,9 +122,17 @@ Related: [Everything You Need to Know About Co-Authoring in Excel](https://insta
 
 ![Convert to Comments confirmation message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ConvertToCommentsConfirm-ExcelNotes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your notes then turn into comments that you can view and take action on, either yourself or with your collaborators. Also, the red note indicator on the cell changes to a purple comment indicator.
 
 ![Notes converted to comments in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ConvertedToComments-ExcelNotes.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By using notes in Excel, you can remind yourself to update the data in a cell, include a reference for the original source, or log a specific detail pertaining to the cell. Keep this handy feature in mind!
 
@@ -146,8 +144,6 @@ Related: [Everything You Need to Know About Co-Authoring in Excel](https://insta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +151,24 @@ Related: [Everything You Need to Know About Co-Authoring in Excel](https://insta
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-elite-10-of-tiktok-game-stars/"><u>[New] In 2024, The Elite 10 of TikTok Game Stars</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-expert-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>2024 Approved Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/driving-change-whats-behind-the-global-shift-to-electric-cars/"><u>Driving Change: What's Behind the Global Shift to Electric Cars?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolved-overcoming-invalid-directory-name-issues-efficiently/"><u>Error Resolved: Overcoming 'Invalid Directory Name' Issues Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-fixes-for-apex-legends-cheating-issues-no-more-errors/"><u>Fast Fixes for Apex Legends' Cheating Issues - No More Errors!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-airpod-windows-sync-problems-tips-and-tricks/"><u>Fixing AirPod-Windows Sync Problems: Tips and Tricks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>In 2024, Smart Selections Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-asus-zephyrus-g14-analysis-the-ultimate-compromise-free-gaming-machine/"><u>In-Depth Asus Zephyrus G14 Analysis: The Ultimate Compromise-Free Gaming Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insufficient-disk-space-resolving-not-enough-storage-errors/"><u>Insufficient Disk Space: Resolving 'Not Enough Storage' Errors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-g42-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia G42 5G Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-with-ease-in-win-89/"><u>Navigating with Ease in Win 8/9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/taking-control-how-your-organization-manages-windows-devices-and-settings/"><u>Taking Control: How Your Organization Manages Windows Devices and Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-vcruntimenont-found-error-on-your-computer-guide/"><u>The Ultimate Fix for 'VCRUNTIMENoNT Found' Error on Your Computer [GUIDE]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-miniature-tablet-computers-thoroughly-assessed-by-tech-gurus-zdnet/"><u>Top-Rated Miniature Tablet Computers - Thoroughly Assessed by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-handling-event-id-1000-across-various-windows-versions/"><u>Troubleshooting Steps for Handling Event ID #1000 Across Various Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-hp-officejet-pro-6970-softwaredrivers-free-for-pc-get-install-and-guide/"><u>Updated HP Officejet Pro 6970 Software/Drivers Free for PC: Get, Install & Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-picture-in-picture-video-editing-in-final-cut-pro/"><u>Updated The Ultimate Guide to Picture-in-Picture Video Editing in Final Cut Pro</u></a></li>
+</ul></div>
 

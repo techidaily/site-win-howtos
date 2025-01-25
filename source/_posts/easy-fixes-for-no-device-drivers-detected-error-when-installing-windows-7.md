@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for 'No Device Drivers Detected' Error When Installing Windows 7
-date: 2024-08-23T14:10:35.788Z
-updated: 2024-08-24T14:10:35.788Z
+date: 2025-01-19T16:54:58.822Z
+updated: 2025-01-25T17:58:21.292Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-40-32.jpg)
 
  If you’re looking for a solution to the**No battery detected** error on your Windows device, you’ve come to the right place! We’ll guide you through how to fix this issue easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -51,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 **1)** On your keyboard, press the**Windows logo** key and the**R** key at the same time to open the Run dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Type**devmgmt.msc** and click**OK** .
 
@@ -80,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**System and Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
@@ -92,11 +98,16 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-53.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the process to be complete. If your computer fails to fix your problem, check **[fix 4](https://tools.techidaily.com/drivereasy/download/)**  to see if it can help.  
 
@@ -107,15 +118,13 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Click**Power,** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
 
 ### Fix 4: Update your battery driver
@@ -133,15 +142,13 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click the**Update button** next to the battery driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 5: Update your BIOS
@@ -154,17 +161,10 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 **2)** Type **msinfo32** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
@@ -190,8 +190,6 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +197,24 @@ thumbnail: https://thmb.techidaily.com/e52d2b220bf33233df1f453020b7bd5deb6b55f7c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-guidelines-to-help-you-change-windows-11-wallpaper/"><u>[New] Guidelines to Help You Change Windows 11 Wallpaper</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-yt-marketing-essential-tips-for-higher-rankings/"><u>[New] In 2024, Elevate Your YT Marketing Essential Tips for Higher Rankings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3-wma/"><u>使用電子化工具輕鬆簡易更換音頻文件 - MP3, WMA 等多種格式的快速切換方法</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-motorola-moto-g34-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-tutorial-how-to-broadcast-your-screen-on-discord-for-windowsmac-and-iosandroid-devices/"><u>Easy Tutorial: How To Broadcast Your Screen on Discord for Windows/Mac and iOS/Android Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/facile-conversion-swf-vers-3gp-enligne-sans-frais-movavi/"><u>Facile Conversion SWF Vers 3GP Enligne Sans Frais - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-ape-files-to-wma-format-using-movavi/"><u>Free Online Converter: Change APE Files to WMA Format Using Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-c53-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme C53 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-12-pro-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 12 Pro Without Passcode Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-online-konvertalas-ezrede-klein-allamkor-vikon-rekam-online-halozat-operamacintosh/"><u>MP4 Online Konvertálás Ezrede Klein Államkör - Víkon Rekám Online Hálózat [Opera/Macintosh]</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-linguistic-landscapes-smoothly-via-keyboard-shortcuts-in-win1011/"><u>Navigate Linguistic Landscapes Smoothly via Keyboard Shortcuts in Win10/11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nalized-melodies-made-easy-building-a-youtube-music-collection-on-webmobile/"><u>Personalized Melodies Made Easy Building a YouTube Music Collection on Web/Mobile</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/resolving-scanner-issues-a-step-by-step-guide-from-yl-computing-software-solutions/"><u>Resolving Scanner Issues: A Step-by-Step Guide From YL Computing Software Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-smart-tv-tips-and-tricks-how-to-efficiently-remove-apps/"><u>Samsung Smart TV Tips & Tricks: How to Efficiently Remove Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11da-cevrimse-ustune-sessizligi-yanitlanmasinin-4-tarzi/"><u>Windows 11'Da Çevrimse Üstüne Sessizliği Yanıtlanmasının 4 Tarzı</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726221050563-wmvwav-movavi/"><u>무료 WMV/WAV 대화형 변환 서비스 - Movavi 솔루션임</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aac-wav/"><u>오피니 공간에서 제공되는 무가지 AAC 파일을 WAV로 변환: 모바이비</u></a></li>
+</ul></div>
 

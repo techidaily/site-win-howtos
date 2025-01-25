@@ -1,7 +1,7 @@
 ---
 title: Windows 11 No Speakers Error? Here's How You Can Fix It!
-date: 2025-01-18T17:59:17.019Z
-updated: 2025-01-19T17:54:19.152Z
+date: 2025-01-23T17:29:30.120Z
+updated: 2025-01-25T16:49:19.820Z
 tags:
   - win11
   - win10
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/no-audio-output-device-update-driver-automatically2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Find**Sound, video, and game controllers** , then double-click on it to expand the list. Right-click on your audio device and select**Uninstall device** .
@@ -94,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Add-legacy-hardware.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2b) Click **Next**  to start the Add Hardware wizard. (If the Add Hardware wizard doesn’t display at all, you can try [Method 3](https://tools.techidaily.com/drivereasy/download/) .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-2.png)
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  2c) Select **Search for and install hardware automatically (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2d) If the wizard tells you it can’t find any new hardware, click **Next** .
 
@@ -114,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2f) Select the manufacturer and model of your sound card, then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-6.png)
@@ -126,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-check-which-sound-card-youre-using.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2g) Click **Next**  to install the device, then when the installation is complete, click **Finish** .
 
  3) Expand the**Sound, video and game controllers** category, right-click on your audio device, and select**Disable device** .
@@ -133,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Disable-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once again, right-click your audio device and select**Enable device** .
@@ -141,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2015/08/win11-Device-Manager-Enable-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making the changes, restart your device and check if the error still occurs.
@@ -163,22 +163,24 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-tech-review-dji-phantom-3-professional-drone/"><u>[New] The Ultimate Tech Review DJI Phantom 3 Professional Drone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[Updated] In 2024, Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-navigating-to-youtubes-video-editor-interface-for-2024/"><u>[Updated] Navigating to YouTube's Video Editor Interface for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-sounds-of-laughter-top-ringtones-downloaders/"><u>2024 Approved Sounds of Laughter Top Ringtones Downloaders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/baffled-by-sticky-keys-successfully-reinitialize-any-keyboard-in-no-time/"><u>Baffled by Sticky Keys? Successfully Reinitialize Any Keyboard in No Time</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-device-migration-issues-on-windows-10-a-step-by-step-guide/"><u>Bypassing Device Migration Issues on Windows 10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/el-name-genius-brainstorming-like-a-pro/"><u>Channel Name Genius Brainstorming Like a Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-safari-page-loading-problems-simple-steps-for-success/"><u>Fixing Safari Page Loading Problems - Simple Steps for Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209101959-how-to-restore-the-missing-d3dx939dll-file-and-fix-related-issues-quickly/"><u>How To Restore The Missing D3DX9_39.dll File & Fix Related Issues Quickly!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205290979-lost-in-no-sense-fix-your-sd-card/"><u>Lost in No-Sense: Fix Your SD Card!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/official-driver-installers-for-logitech-speakers-on-windows-pcs-windows-1078/"><u>Official Driver Installers for Logitech Speakers on Windows PCs (Windows 10/7/8)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-speeding-up-your-league-of-legends-installation/"><u>Quick Guide: Speeding Up Your League of Legends Installation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-laptops-experiencing-constant-whiteblack-screens/"><u>Step-by-Step Solutions for Laptops Experiencing Constant White/Black Screens</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-complimentary-online-platforms-for-live-sports/"><u>Top 5 Complimentary Online Platforms for Live Sports</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/transform-your-content-3-effective-techniques-for-youtube-reaction-magic-for-2024/"><u>Transform Your Content 3 Effective Techniques for YouTube Reaction Magic for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unveiling-cookiebots-role-in-crafting-a-tailored-web-journey/"><u>Unveiling Cookiebot's Role in Crafting a Tailored Web Journey</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208583632-winning-against-the-incorrect-side-by-side-config-error-on-windows-11-solutions-within/"><u>Winning Against the 'Incorrect Side by Side Config' Error on Windows 11 - Solutions Within</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-make-a-splash-impressive-video-edits-with-windows-10s-tools/"><u>[New] Make a Splash Impressive Video Edits with Windows 10'S Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-secrets-of-hosting-no-cost-seminars-on-the-worlds-largest-video-platform/"><u>[Updated] 2024 Approved Secrets of Hosting No-Cost Seminars on the World’s Largest Video Platform</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlocking-the-potential-of-ez-grabber/"><u>[Updated] 2024 Approved Unlocking the Potential of EZ Grabber</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-revolutionize-your-audio-pazera-free-extractor-insights-for-2024/"><u>[Updated] Revolutionize Your Audio Pazera Free Extractor Insights for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-ethics-and-legal-responsibility/"><u>AI Ethics & Legal Responsibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-talent-at-mixing-the-chatgpt-challenge/"><u>AI’s Talent at Mixing: The ChatGPT Challenge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bk-faces-backlash-twice-over-customer-disputes-the-surprising-drama-at-burger-king/"><u>BK Faces Backlash Twice Over Customer Disputes – The Surprising Drama at Burger King</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-generative-pre-trained-transformers-unveiling-the-distinctions-between-gpt-4-gpt-4-turbo-and-gpt-4o/"><u>Comparing Generative Pre-Trained Transformers: Unveiling the Distinctions Between GPT-4, GPT-4 Turbo & GPT-4o</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertidor-de-archivos-gratuito-en-la-web-png-a-jpeg-por-movavi-sin-costo-adicional/"><u>Convertidor De Archivos Gratuito en La Web: PNG a JPEG Por Movavi Sin Costo Adicional</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/dive-into-apods-an-uncomplicated-download-guide/"><u>Dive Into APods An Uncomplicated Download Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-non-fullscreen-windows-11-on-monitors/"><u>Fixing Non-Fullscreen Windows 11 on Monitors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-drive-dropbox-voc-wav/"><u>Google Drive, Dropbox 사용자에게 VOC 파일을 WAV로 쉽게 변환: 무료 도구를 사용하는 방법</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-konvertieren-von-voc-dateien-mit-online-tool-movavi/"><u>Gratis Konvertieren Von VOC-Dateien Mit Online Tool - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kostenloos-aanpakken-van-m4a-tot-wma-online-met-movavi-konverter-gratis/"><u>Kostenloos Aanpakken Van M4A Tot WMA Online Met Movavi Konverter - Gratis!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kostenloos-ogg-vorm-naar-wav-convertieeren-via-internet-movavi/"><u>Kostenloos Ogg-Vorm Naar Wav Convertieeren via Internet - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mac-movavi/"><u>Macユーザー専用: Movaviソフトウェアライセンス承認手順ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revolutionize-your-beauty-photography-with-makeup-editing-tools-from-moveai/"><u>Revolutionize Your Beauty Photography with Makeup Editing Tools From Move.ai</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-file-mxf-a-formato-wav-senza-costi-movavi/"><u>Trasforma File MXF a Formato WAV Senza Costi - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-mp4-in-mjpeg-online-senza-costi-convertitore-di-video-fast-e-affidabile/"><u>Trasforma MP4 in MJPEG Online Senza Costi - Convertitore Di Video Fast E Affidabile</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Unshutdown Windows 11 on Your Laptop or Desktop
-date: 2025-01-18T19:22:27.321Z
-updated: 2025-01-19T16:29:02.383Z
+date: 2025-01-19T16:09:16.018Z
+updated: 2025-01-25T16:37:12.060Z
 tags:
   - win11
   - win10
@@ -48,19 +48,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -74,25 +78,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -101,10 +101,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
@@ -119,6 +115,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -154,20 +154,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unmatched-experience-with-hexacopters-10/"><u>[New] 2024 Approved Unmatched Experience with HexaCopters #10</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>[New] 2024 Approved Unveiling the Magic Transforming Scenes with GoPro Timelapse</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-comparing-easy-flexible-recording-tools-for-mac-users-for-2024/"><u>[New] Comparing Easy, Flexible Recording Tools for Mac Users for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-best-practices-for-boosting-views-on-freefire-gaming-channels/"><u>2024 Approved Best Practices for Boosting Views on FreeFire Gaming Channels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-solve-group-policy-client-failure-on-logon-a-comprehensive-guide/"><u>Effective Strategies to Solve Group Policy Client Failure on Logon - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixservice-corruption-in-windows-10-diagnosis-and-restoration-techniques/"><u>FixService Corruption in Windows 10: Diagnosis and Restoration Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-an-unresponsive-aoc-display-on-windows-10-quick-guide/"><u>How to Fix an Unresponsive AOC Display on Windows 10 - Quick Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-fallout-4-from-stopping-responsively-while-running-on-your-computer/"><u>How to Stop Fallout 4 From Stopping Responsively While Running on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210394555-hp-laptop-keyboard-issue-solved-fix-unresponsive-buttons-fast/"><u>HP Laptop Keyboard Issue Solved? Fix Unresponsive Buttons Fast</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-bypassing-vimeo-top-10-editing-software-choices/"><u>In 2024, Bypassing Vimeo Top 10 Editing Software Choices</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-windows-drivers-for-brother-mfc-l27n40-printers-made-easy/"><u>Installing Windows Drivers for Brother MFC-L27n40 Printers Made Easy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-installing-the-missing-drivers-for-seamless-media-playback/"><u>Quick Guide: Installing the Missing Drivers for Seamless Media Playback</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/schritt-fur-schritt-anleitung-zur-dateiubertragung-zwischen-zwei-pcs/"><u>Schritt-Für-Schritt-Anleitung Zur Dateiübertragung Zwischen Zwei PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211228393-troubleshooting-guide-dealing-with-chromes-ssl-protocol-error-now-solved/"><u>Troubleshooting Guide: Dealing with Chrome's SSL Protocol Error - Now Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/urgent-fixes-how-to-get-your-laptops-charging-back-on-track/"><u>Urgent Fixes: How to Get Your Laptop's Charging Back on Track</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-effortless-conversion-youtube-videos-to-mac-ratio/"><u>[Updated] Effortless Conversion Youtube Videos to Mac Ratio</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-upgrading-your-cinematic-story-with-video-edges-for-2024/"><u>[Updated] Upgrading Your Cinematic Story with Video Edges for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webmmkvmovavi/"><u>免費直接WEBM轉MKV在線上，如何運用Movavi轉換工具</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-mp3webm/"><u>如何利用 Movavi 在線免費換算MP3成WEBM格式 - 高效率指南</u></a></li>
+<li><a href="https://win-dash.techidaily.com/best-source-for-downloading-epson-artisan-1430-drivers-supported-by-windows-11108/"><u>Best Source for Downloading Epson Artisan 1430 Drivers: Supported by Windows 11/10/8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambia-tus-archivos-de-video-mp4-a-3g2-por-nada-el-procesador-en-linea-de-movavi-para-convertir-facilmente/"><u>Cambia Tus Archivos De Video MP4 a 3G2 Por Nada: El Procesador en Línea De Movavi Para Convertir Fácilmente</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertire-gratuita-si-directa-in-mp4-converting-videos-with-conversia-mov-to-mp4-online/"><u>Convertire Gratuita Și Directă in MP4: Converting Videos with Conversia - MOV to MP4 Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/create-professional-valorant-thumbnails-in-no-time-for-2024/"><u>Create Professional Valorant Thumbnails in No Time for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-privacy-protection-when-leveraging-chatgpt-in-a-work-setting/"><u>Ensuring Privacy Protection When Leveraging ChatGPT in a Work Setting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-guide-to-generating-ideal-youtube-titles-on-a-shoestring/"><u>In 2024, The Ultimate Guide to Generating Ideal YouTube Titles on a Shoestring</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/seamless-tweet-to-facebook-video-transfers-users-for-2024/"><u>Seamless Tweet-to-Facebook Video Transfers Users for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secure-pathway-making-steam-play-kid-friendly/"><u>The Secure Pathway: Making Steam Play Kid-Friendly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726221939362-gsmmp4-movavi/"><u>オンラインで簡単なGSMMP4形式のファイル変換:無料ツール - Movavi</u></a></li>
 </ul></div>
 

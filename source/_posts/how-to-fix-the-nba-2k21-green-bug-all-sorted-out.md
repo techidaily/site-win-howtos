@@ -1,7 +1,7 @@
 ---
 title: How to Fix the NBA 2K21 Green Bug - All Sorted Out
-date: 2025-01-08T17:38:20.463Z
-updated: 2025-01-13T16:45:53.018Z
+date: 2025-01-20T18:27:14.574Z
+updated: 2025-01-25T17:49:16.100Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
    * [PlayStation](https://tools.techidaily.com/drivereasy/download/)  
    * [Steam](https://tools.techidaily.com/drivereasy/download/)  
    * [Xbox One](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Make sure your PC meets the specs
 
@@ -76,10 +72,6 @@ Recommended System Requirements
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-2-3.png)
@@ -87,10 +79,6 @@ Recommended System Requirements
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update your graphics drivers
 
@@ -107,7 +95,7 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
@@ -115,17 +103,9 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  4) Restart your computer and start the game again to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Fixes on different gaming platforms
 
@@ -134,6 +114,10 @@ Here’s how to update drivers with Driver Easy:
 [PlayStation](https://tools.techidaily.com/drivereasy/download/)
 [Steam](https://tools.techidaily.com/drivereasy/download/)
 [Xbox One](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### PlayStation: download files from MyCAREER
 
@@ -145,15 +129,15 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-2-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) After uploading your data, go back to**Saved Data in Online Storage** and click**Download to System Storage** . Then download everything from**MyCAREER** (Only from**MyCAREER** files and nothing else).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steam
 
@@ -165,9 +149,17 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
 ![disable steam overlay NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the change, exit Steam and play your game again to see if the issue is fixed. If not, try verifying your game files.
 
@@ -195,9 +187,17 @@ To do this, simply follow the instructions below:
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/language-set-to-English-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -221,22 +221,21 @@ To do this, simply follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-monster-hunter-world-pc-disconnect-problem/"><u>[Fixed] Monster Hunter World PC Disconnect Problem</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-deciphering-the-skies-with-yuneecs-typhoon-uav/"><u>[New] Deciphering the Skies with Yuneec’s Typhoon UAV</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-three-streamlined-techniques-for-extracting-youtubes-image-files/"><u>2024 Approved Three Streamlined Techniques for Extracting Youtube’s Image Files</u></a></li>
-<li><a href="https://win-blog.techidaily.com/vob-mjpeg-movavi/"><u>網路直接無障礙 VOB 到 MJPEG 轉換 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-invalid-input-alerts-on-your-visual-interface-device/"><u>Dealing with Invalid Input Alerts on Your Visual Interface Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciphering-false-social-bonds-how-to-tell-real-friends-from-imposters-in-the-digital-world/"><u>Deciphering False Social Bonds: How to Tell Real Friends From Imposters in the Digital World</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208396498-disregarded-sd-card-dont-despair-solutions-await/"><u>Disregarded SD Card, Don't Despair! Solutions Await!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-prevent-and-resolve-csgo-system-crashes/"><u>Easy Steps to Prevent and Resolve CS:GO System Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-blackout-solutions-for-obs-recording-glitches-in-games/"><u>Fixing the Blackout - Solutions for OBS Recording Glitches in Games</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-guide-to-creating-content-top-10-inclusive-video-ideas-for-anyone/"><u>In 2024, Guide to Creating Content Top 10 Inclusive Video Ideas for Anyone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-paper-artistry-building-harmonious-collages/"><u>In 2024, Paper Artistry Building Harmonious Collages</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nba-2k19-review/"><u>NBA 2K19 Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-hp-deskjet-3755-inkjet-all-in-one-printer-driver-installation-guide-for-windows-1087/"><u>New HP DeskJet 3755 Inkjet All-in-One Printer Driver Installation Guide for Windows 10/8/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pdf-printer-problems-quick-fixes-for-immediate-relief/"><u>PDF Printer Problems: Quick Fixes for Immediate Relief</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-a-non-responsive-huion-pen-with-these-five-effective-tips/"><u>Troubleshoot a Non-Responsive Huion Pen with These Five Effective Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207576089-uncover-your-missing-wi-fi-adapter-choices-in-windows-11-now-solved/"><u>Uncover Your Missing Wi-Fi Adapter Choices in Windows 11 - Now Solved!</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-s-best-video-editors-for-mac-pinnacle-studio-alternates/"><u>Updated In 2024, S Best Video Editors for Mac Pinnacle Studio Alternates</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-all-you-need-to-know-about-mobizens-screen-capture-for-2024/"><u>[New] All You Need to Know About Mobizen's Screen Capture for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-harnessing-the-power-of-zooms-video-features-on-youtube-platform/"><u>[New] Harnessing the Power of Zoom's Video Features on YouTube Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-vloggers-ultimate-guide-to-best-gaming-microphones/"><u>[New] Vloggers' Ultimate Guide to Best Gaming Microphones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-cutting-edge-8-streaming-selectors/"><u>[Updated] Cutting-Edge 8 Streaming Selectors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exclusive-review-of-top-mp4-players-for-2024/"><u>Exclusive Review of Top MP4 Players for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-recovering-invisible-bluetooth-in-device-manager/"><u>Guide: Recovering Invisible Bluetooth in Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-update-error-0x80070541-step-by-step-guide/"><u>How to Fix Windows 11 Update Error 0X80070541: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-address-windows-update-getting-stuck-on-0-barrier/"><u>How to Quickly Address Windows Update Getting Stuck on 0% Barrier</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-extract-and-play-fb-soundtracks/"><u>In 2024, Extract and Play FB Soundtracks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-tecno-pova-5-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Tecno Pova 5 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-matrix-universe-how-to-watch-all-movies-in-their-original-release-order/"><u>Master the Matrix Universe: How To Watch All Movies In Their Original Release Order</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ps4-controller-not-holding-charge-solve-that-problem-now/"><u>PS4 Controller Not Holding Charge? Solve That Problem Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-ignored-usb-expert-advice-on-making-it-work-again/"><u>Revive Your Ignored USB: Expert Advice on Making It Work Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-victory-chronicles-tackling-failed-nvidia-deployments/"><u>The Victory Chronicles: Tackling Failed NVIDIA Deployments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-modules-in-your-system-expert-solutions/"><u>Troubleshooting Missing Modules in Your System – Expert Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203982046-windows-hello-isnt-available-on-this-device-on-windows-10-solved/"><u>Windows Hello Isn't Available on This Device on Windows 10 [Solved]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Steps to Detect Repeating Values in Your Excel Spreadsheet
-date: 2024-08-28T00:19:56.260Z
-updated: 2024-08-29T00:19:56.260Z
+date: 2025-01-19T17:49:51.596Z
+updated: 2025-01-25T17:30:50.160Z
 tags:
   - excel
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Highlight a Row in Excel Using Conditional Formatting](https://facebook-video-share.techidaily.com/updated-in-depth-asmr-video-insights/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Highlight Duplicate Values in Excel
 
  To highlight non-unique values, first, open your spreadsheet with Microsoft Excel.
@@ -29,6 +33,10 @@ Related: [How to Highlight a Row in Excel Using Conditional Formatting](https://
  In the spreadsheet, select the dataset which you want to check for duplicates. Make sure to include the [column headers in your selection](https://fox-http.techidaily.com/new-decoding-the-best-android-photography-software-is-picku-king-for-2024/).
 
 ![Select the dataset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/1-select-dataset.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From Excel's ribbon at the top, select the "Home" tab. Then, in the "Styles" section, choose Conditional Formatting > Highlight Cells Rules > Duplicate Values.
 
@@ -40,18 +48,22 @@ Related: [How to Highlight a Row in Excel Using Conditional Formatting](https://
 
 ![Customize formatting options and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/3-customize-duplicate-formatting.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On your spreadsheet, you'll find that [Excel has highlighted](https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/) the duplicate entries in your selected formatting style.
 
 ![Duplicates highlighted in a spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/4-duplicates-highlighted.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that's how you easily spot non-unique records in your datasets.
 
 Related: [How to Highlight Blanks or Errors in Microsoft Excel](https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Remove Duplicate Values in Excel
 
  Excel offers a feature that automatically [removes duplicate values from your datasets](https://visual-screen-recording.techidaily.com/new-precision-in-capturing-androids-best-techniques-for-2024/).
@@ -61,38 +73,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Select the dataset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/1-select-dataset.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Excel's ribbon at the top, click the "Data" tab. Then, from the "Data Tools" section, choose "Remove Duplicates" (it's an icon with an "X" on it).
 
 ![Select "Remove Duplicates" at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/5-remove-duplicates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  On the "Remove Duplicates" box, if you've included column headers in your selection, then enable the "My Data Has Headers" option. In the "Columns" section, make sure the correct column(s) are listed.
 
  Then choose "OK."
 
 ![Configure the options and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/6-remove-duplicate-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  Excel has removed duplicate entries from your dataset.
 
 ![Duplicates removed from the spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/7-duplicates-removed.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And you're all set.
 
 Related: [How to Remove Duplicate Rows in Excel](https://visual-screen-recording.techidaily.com/new-precision-in-capturing-androids-best-techniques-for-2024/)
@@ -103,8 +100,6 @@ Related: [How to Remove Duplicate Rows in Excel](https://visual-screen-recording
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +107,23 @@ Related: [How to Remove Duplicate Rows in Excel](https://visual-screen-recording
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-leaders-in-learning-top-15-online-science-hubs/"><u>[New] In 2024, Leaders in Learning Top 15 Online Science Hubs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-blank-screen-bound-logitech-mouse/"><u>[Solved] Blank Screen Bound Logitech Mouse</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effectively-repairing-fn-key-dysfunctions-in-your-computer-system/"><u>Effectively Repairing Fn-Key Dysfunctions in Your Computer System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-fixes-for-laptops-that-wont-charge-get-power-back-immediately/"><u>Fast Fixes for Laptops That Won't Charge - Get Power Back Immediately</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-razer-naga-driver-version-compatible-with-windows-pcs/"><u>Get the Newest Razer Naga Driver Version Compatible with Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/1723808290812-how-to-connect-ps4-controller-to-ps3-easily/"><u>How to Connect PS4 Controller to PS3. Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-bluetooth-keyboard-when-linking-to-a-computer/"><u>How To Fix a Non-Responsive Bluetooth Keyboard When Linking to a Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-no-signal-on-tv-a-detailed-guide/"><u>How to Resolve 'No Signal' On TV: A Detailed Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-v29e-easily-by-drfone-android/"><u>How To Unlock a Vivo V29e Easily?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-sound-directed-to-speakers-rather-than-headphones-when-plugged-in/"><u>Solution Found: Sound Directed to Speakers Rather than Headphones When Plugged In</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-cast-unable-to-locate-device-issue-in-windows-11-quick-fixes-and-explanations/"><u>Solving the 'Cast Unable to Locate Device' Issue in Windows 11 - Quick Fixes and Explanations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-unavailable-desktop-at-cwindowssystem32configsystemprofile-path/"><u>Step-by-Step Guide to Fix 'Unavailable' Desktop at C: Windows System32 Config SystemProfile Path</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion-for-2024/"><u>The Top Platform Trio Which One Triumphs – Vimeo, YouTube, Dailymotion for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-dailymotion-video-conversion-without-registration-for-2024/"><u>Updated Free Dailymotion Video Conversion without Registration for 2024</u></a></li>
+</ul></div>
 

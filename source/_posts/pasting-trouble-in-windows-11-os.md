@@ -1,7 +1,7 @@
 ---
 title: Pasting Trouble in Windows 11 OS
-date: 2024-08-28T00:24:57.397Z
-updated: 2024-08-29T00:24:57.397Z
+date: 2025-01-24T17:13:51.672Z
+updated: 2025-01-25T16:00:57.454Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/26d450fdec75a3cb5316781ad73e34df68fc7b736
  If you find the volume control bar on your computer not working, don’t worry. Many users have reported the same.
 
 The good news is, you can fix it easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -47,13 +51,19 @@ The good news is, you can fix it easily!
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
  Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
@@ -65,18 +75,12 @@ To do so:
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run SFC
 
  Another fix you can try is to run the SFC(a built-in Windows file check & repair tool) scan since the missing/corrupted system files can be the culprit for the volume control not working problem.
@@ -86,15 +90,21 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
  Click **Yes**   when prompted to confirm.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -104,13 +114,12 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -128,8 +137,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +144,26 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-maze-of-communication-features-on-snapchat-for-2024/"><u>[Updated] Navigating the Maze of Communication Features on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-stepping-stones-from-youtube-ads-to-monetary-success/"><u>[Updated] Stepping Stones From YouTube Ads to Monetary Success</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721909306646-discover-all-thats-fresh-with-apples-latest-ai-innovations-spotted-at-wwdc-2024/"><u>Discover All That's Fresh with Apple’s Latest AI Innovations - Spotted at WWDC 2024!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-unsuccessful-windows-11-installation-and-patching/"><u>Effective Fixes for Unsuccessful Windows 11 Installation and Patching</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-artificial-intelligence-mastering-dall-e-3-via-bing/"><u>Explore Artificial Intelligence: Mastering DALL-E 3 via Bing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-applied-for-dragon-ball-fighterzs-network-startup-failure/"><u>Fixes Applied for Dragon Ball FighterZ’s Network Startup Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-how-to-resolve-a-non-functional-dell-wireless-keyboard/"><u>Fixing Issues: How to Resolve a Non-Functional Dell Wireless Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-huion-sketchpen-back-on-track-fast-fix-guide-in-5-steps/"><u>Get Your Huion Sketchpen Back on Track - Fast Fix Guide in 5 Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-when-your-minecraft-lan-isnt-working/"><u>How to Restore Functionality When Your Minecraft LAN Isn't Working</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lava-yuva-3-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Lava Yuva 3 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-next-level-3d-watching-ultimate-guide-to-blu-ray-players/"><u>In 2024, Next-Level 3D Watching Ultimate Guide to Blu-Ray Players</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/kostengunstiges-abspielen-von-dvds-mit-freiem-codec-keine-downloads-erforderlich/"><u>Kostengünstiges Abspielen Von DVDs Mit Freiem Codec, Keine Downloads Erforderlich</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-error-code-0x80072f8f-effective-strategies-for-windows-1011-users-to-get-back-online/"><u>Mastering Error Code 0X80072F8F: Effective Strategies for Windows 10/11 Users to Get Back Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-11-step-by-step-guide/"><u>Troubleshooting Non-Functional USB Ports on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unexpected-input-silence/"><u>Unexpected Input Silence</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-full-potential-of-your-browser-with-gestures-in-microsoft-edge-windows-11/"><u>Unlock the Full Potential of Your Browser with Gestures in Microsoft Edge, Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-from-the-start-quick-fixes-for-a-broken-or-slow-lenovo-keyboard/"><u>Unstuck From the Start: Quick Fixes for a Broken or Slow Lenovo Keyboard</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-turning-the-tables-on-sound-innovations-in-audio-reversal-technology-for-2024/"><u>Updated Turning the Tables on Sound Innovations in Audio Reversal Technology for 2024</u></a></li>
+</ul></div>
 

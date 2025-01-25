@@ -1,7 +1,7 @@
 ---
 title: Latest Techniques to Smooth Out Fallout 4 Performance - 2022 Guide
-date: 2024-08-28T00:23:45.975Z
-updated: 2024-08-29T00:23:45.975Z
+date: 2025-01-19T17:30:13.584Z
+updated: 2025-01-25T17:52:27.664Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
  Launched on 10 November 2015,**Fallout 4** is now with a history of around 4 years. Still, some players are complaining of lag issues that almost ruin their gaming experience in Fallout 4\. If you happen to be one of those victims, don’t worry – this post provides 5 fixes for you to solve the problem.
 
  In this post, we simply define “lag issue” as one that’s similar to “low FPS” or “stuttering.”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 fixes for Fallout 4 lagging
 
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/2d544a9f24903c4dca30f002769bbf9a409fd7c6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update your video card driver, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
@@ -77,16 +85,10 @@ To modify your video card settings, use the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-207.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the pop-up window, select**Manage 3D settings** from its left pane. Then, click**Add** to locate and choose the executable file of Fallout 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 Now you’re able to modify the settings of this program.
 
  3) Pay attention to the list below**Specify the settings for this program:** . Scroll through the list to locate these items and make the tweaks accordingly:
@@ -98,30 +100,16 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust in-game settings
 
  This is also a quick-fix when you find yourself suffering from a lag issue in Fallout 4 – adjust the in-game settings.
@@ -132,14 +120,15 @@ Now you’re able to modify the settings of this program.
 
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
  Run the game to see if it goes smoothly this time. If not, move on and check out the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uncap FPS limit
 
@@ -155,6 +144,10 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-217.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you find out the line, change**iPresentInterval=1** to**iPresentInterval=0** .
 
 4) Save the file and exit Notepad.
@@ -164,6 +157,10 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
  If this fix doesn’t work for you, you may read on and try the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Stop CPU/memory hogging applications
 
@@ -196,8 +193,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +200,22 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-future-of-computing-in-windows-11/"><u>[New] 2024 Approved The Future of Computing in Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-full-range-kinetics-review/"><u>[Updated] 2024 Approved Full Range Kinetics Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-digital-video-capturing-for-professionals-stepwise-process/"><u>[Updated] In 2024, Digital Video Capturing for Professionals - Stepwise Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-troubleshooting-solo-earbuds/"><u>2024 Approved Troubleshooting Solo Earbuds</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-icons-in-windows-10-solved/"><u>How To Restore Vanished Desktop Icons In Windows 10 (Solved!)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-wonders-of-obs-on-android-devices/"><u>Navigating the Wonders of OBS on Android Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-windows-update-issues/"><u>Resolved: How To Fix Windows Update Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211458713-sims-4-loading-woes-heres-how-you-can-fix-it/"><u>Sims 4 Loading Woes? Here's How You Can Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/starcraft-2-update-patches-graphics-hardware-access-problems/"><u>StarCraft 2 Update Patches Graphics Hardware Access Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-successful-google-gemini-utilization/"><u>Step-by-Step Instructions for Successful Google Gemini Utilization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-video-playback-sounds-dealing-with-audiorenderer-issues-in-windows-11/"><u>The Ultimate Fix for Video Playback Sounds: Dealing With AudioRenderer Issues in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-playback-problems-on-youtube-with-windows-10/"><u>Troubleshooting Audio Playback Problems on YouTube with Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-budget-breakdown-how-much-does-it-cost-to-start-a-podcast-for-2024/"><u>Ultimate Budget Breakdown How Much Does It Cost To Start a Podcast for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-correcting-error-code-28-in-windows-device-manager-for-seamless-operation/"><u>Ultimate Guide: Correcting Error Code 28 in Windows Device Manager for Seamless Operation</u></a></li>
+</ul></div>
 

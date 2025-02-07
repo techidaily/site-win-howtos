@@ -1,7 +1,7 @@
 ---
 title: Successfully Repairing Windows 11 PC Reset Errors - A Complete Guide
-date: 2024-08-23T14:03:09.708Z
-updated: 2024-08-24T14:03:09.708Z
+date: 2025-02-04T10:57:14.127Z
+updated: 2025-02-06T19:09:24.895Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 4. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Perform a Clean Boot then Install the Updates Again**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Update the Drivers](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 1: Run Windows Update Troubleshooter**
 
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745856da0c3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Click the **Next** button. Then the troubleshoot will detect the problems and fix them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874588bebf3f.png)
@@ -78,6 +86,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745b19a3f8e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer.
 
 5) Open the Windows Update Settings window again (If you’re not sure how to open this window, refer the Step 1). Click **Check for updates** .
@@ -94,9 +106,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487e7dd051.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 3: Delete Some Related Files**
 
  The error can be caused by some corrupted related files. Deleting those files may fix the Windows Update **0x800705b4** error.
@@ -109,19 +118,21 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746f3a14981.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click **Windows Update**  then select**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746fbb6d514.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Open **Windows Explorer** and navigate to “**C:\\Windows\\SoftwareDistribution** “.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874704edc0c2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Delete all the content in this folder. (Some files may not be deleted, in this case, go back to Step 3 and try again. Just ensure to delete “Download” and “DeliveryOptimation”.)
 
@@ -150,11 +161,17 @@ There are 2 ways to solve it. Here’s how:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -165,29 +182,22 @@ There are 2 ways to solve it. Here’s how:
  2) Type **cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer to check the blue screen issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to [Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 5: Perform a Clean Boot then Install the Updates Again
 
  If you are not sure how to perform a clean boot, see [How to Perform a Clean Boot in Windows 10](https://tools.techidaily.com/drivereasy/download/) .
@@ -206,14 +216,15 @@ There are 2 ways to solve it. Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-440.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-441.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully methods here will help you resolve the 0x800705b4 error. If you have any questions, please feel free to leave your comments. I’d love to hear of any suggestions or ideas.
 
@@ -225,8 +236,6 @@ There are 2 ways to solve it. Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +243,18 @@ There are 2 ways to solve it. Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-backup-your-memories-camera-roll-to-snapchat-explained/"><u>[New] 2024 Approved Backup Your Memories Camera Roll to Snapchat Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-virtual-adventures-await-in-latest-windows-10-gaming-and-apps/"><u>[Updated] 2024 Approved Virtual Adventures Await in Latest Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-knowledge-for-optimal-valheim-harvest/"><u>2024 Approved Essential Knowledge for Optimal Valheim Harvest</u></a></li>
+<li><a href="https://article-posts.techidaily.com/best-box-personalizing-online-spots-unique-heartfelt-gestures/"><u>Best Box-Personalizing Online Spots Unique, Heartfelt Gestures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/busting-the-silence-restoring-mic-functionality-on-windows-10-computers/"><u>Busting the Silence: Restoring Mic Functionality on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-not-found-when-casting-from-windows-10-computer/"><u>How to Resolve 'Device Not Found' When Casting From Windows 10 Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-8-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210673109-lenovo-mouse-pad-troubles-in-windows-87-discover-the-quick-fix/"><u>Lenovo Mouse Pad Troubles in Windows 8/7? Discover the Quick Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/persistent-usb-problem-solved-stop-seeing-device-not-recognized-alerts-forever/"><u>Persistent USB Problem Solved: Stop Seeing 'Device Not Recognized' Alerts Forever!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723200871325-troubleshooting-tips-stop-windows-10-unwanted-automatic-re-starts-now/"><u>Troubleshooting Tips: Stop Windows 10 Unwanted Automatic Re-Starts Now</u></a></li>
+</ul></div>
 

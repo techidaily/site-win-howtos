@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Overcoming Initialization Errors in the Updated Renderer"
-date: 2024-08-23T14:04:05.202Z
-updated: 2024-08-24T14:04:05.202Z
+date: 2025-02-01T10:46:43.877Z
+updated: 2025-02-06T19:05:48.700Z
 tags:
   - win11
   - win10
@@ -59,30 +59,26 @@ Here’s how to do it:
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable Exclusive Mode
 
  Third party apps can prevent Blizzard games from accessing your microphone, speakers, or headset. Disabling Exclusive Mode of your hardware may fix sound or voice-chat not working issues.
@@ -92,15 +88,30 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check your in-game audio settings
 
@@ -111,9 +122,6 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
@@ -130,8 +138,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +145,22 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-screen-sleeves-on-sony-a6400-block-video-playback/"><u>[New] In 2024, Screen Sleeves on Sony A6400 Block Video Playback</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rhythmic-repository-perfect-dj-templates-instantly-downloadable/"><u>[New] Rhythmic Repository Perfect DJ Templates, Instantly Downloadable</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ingenious-tactics-to-elevate-customer-feedback-visual-content-for-2024/"><u>[Updated] Ingenious Tactics to Elevate Customer Feedback Visual Content for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-error-0x887a0006-easily-and-swiftly-with-our-proven-fixes/"><u>Bypassing Error 0X887A0006 Easily & Swiftly with Our Proven Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-to-use-bluetooth-driver-software-for-zexmt-device-compatible-with-all-windows-os/"><u>Easy-to-Use Bluetooth Driver Software for Zexmt Device - Compatible with All Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enable-your-devices-wireless-features-a-how-to-for-windows-7-bluetooth-setup/"><u>Enable Your Device's Wireless Features: A How-To for Windows 7 Bluetooth Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/freeze-no-more-effective-solutions-for-optimizing-assassins-creed-odyssey-on-pc/"><u>Freeze No More: Effective Solutions for Optimizing Assassin's Creed Odyssey on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-accessing-unseen-wi-fi-choices-in-windows-11-settings/"><u>Guide to Accessing Unseen Wi-Fi Choices in Windows 11 Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-broken-laptop-keys-issue-in-windows-os-1087/"><u>Solve Your Broken Laptop Keys Issue in Windows OS (10/8/7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-complete-solution-for-fixing-non-pairing-bluetooth-gadgets-in-windows-10-a-2024-guide/"><u>The Complete Solution for Fixing Non-Pairing Bluetooth Gadgets in Windows 10: A 2024 Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-using-google-analytics-for-growth-for-2024/"><u>The Ultimate Guide to Using Google Analytics for Growth for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-display-output-limitations-no-hdcp-encryption-necessary/"><u>Understanding Display Output Limitations - No HDCP Encryption Necessary</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-13-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Passcode without a Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-from-a-white-screen-on-your-laptop-here-are-the-ultimate-repair-tips/"><u>Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips</u></a></li>
+</ul></div>
 

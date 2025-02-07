@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for When Windows Can't Identify Suitable Printer Drivers
-date: 2024-08-23T14:09:57.557Z
-updated: 2024-08-24T14:09:57.557Z
+date: 2025-02-03T04:12:05.147Z
+updated: 2025-02-06T17:26:35.516Z
 tags:
   - win11
   - win10
@@ -29,15 +29,27 @@ thumbnail: https://thmb.techidaily.com/107b878568a292795df7223b3d5abd69ab5019b1e
 4. [ Set Windows Photo Viewer as a default image viewer ](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 4. Set Windows Photo Viewer as a default image viewer)
 5. [ Disable iCloud](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 5. Disable iCloud) ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -48,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/107b878568a292795df7223b3d5abd69ab5019b1e
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -92,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/107b878568a292795df7223b3d5abd69ab5019b1e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -100,27 +120,18 @@ thumbnail: https://thmb.techidaily.com/107b878568a292795df7223b3d5abd69ab5019b1e
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -132,18 +143,12 @@ thumbnail: https://thmb.techidaily.com/107b878568a292795df7223b3d5abd69ab5019b1e
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ``
 
  2) Click **System** .
@@ -151,6 +156,10 @@ thumbnail: https://thmb.techidaily.com/107b878568a292795df7223b3d5abd69ab5019b1e
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -163,8 +172,9 @@ thumbnail: https://thmb.techidaily.com/107b878568a292795df7223b3d5abd69ab5019b1e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ``
 
 ``
@@ -201,8 +211,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +218,20 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-quick-strategies-for-randomizing-youtube-tracks-across-media/"><u>[New] 2024 Approved Quick Strategies for Randomizing YouTube Tracks Across Media</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1-understanding-and-resolving-your-vanishing-pdf-problems-three-effective-solutions/"><u>1. Understanding and Resolving Your Vanishing PDF Problems - Three Effective Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-affordable-minecraft-video-graphics/"><u>2024 Approved Affordable Minecraft Video Graphics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tips-for-fixing-a-non-functional-ps4-headset-mic/"><u>Comprehensive Tips for Fixing a Non-Functional PS4 Headset Mic</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-the-corrupted-fixservice-error-in-windows-10-systems/"><u>How to Repair the Corrupted FixService Error in Windows 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-realm-of-baldurs-gate-six-strategic-fixes-to-combat-game-freezes-and-hitches/"><u>Master the Realm of Baldur’s Gate: Six Strategic Fixes to Combat Game Freezes & Hitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-when-the-steam-store-wont-load-a-step-by-step-guide/"><u>Resolving Issues When The Steam Store Won't Load: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-elevated-cpu-consumption-caused-by-wudfhostexe-on-windows-11/"><u>Resolving the Issue: Elevated CPU Consumption Caused by wudfhost.exe on Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/silent-symphony-a-compendium-of-top-speech-to-text-tools-for-2024/"><u>Silent Symphony A Compendium of Top Speech-to-Text Tools for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-win10-users-guide-to-recording-mov/"><u>The Win10 User's Guide to Recording MOV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-swiftly-solve-error-code-0x80070652-on-your-pc/"><u>Troubleshooting Guide: Swiftly Solve Error Code 0X80070652 on Your PC</u></a></li>
+</ul></div>
 

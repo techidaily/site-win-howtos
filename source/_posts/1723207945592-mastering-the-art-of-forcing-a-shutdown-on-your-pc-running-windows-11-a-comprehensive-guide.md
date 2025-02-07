@@ -1,7 +1,7 @@
 ---
 title: Mastering The Art of Forcing a Shutdown on Your PC Running Windows 11 - A Comprehensive Guide.
-date: 2024-08-23T14:10:06.972Z
-updated: 2024-08-24T14:10:06.972Z
+date: 2025-02-04T22:14:57.509Z
+updated: 2025-02-06T19:16:08.242Z
 tags:
   - win11
   - win10
@@ -44,16 +44,12 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix didn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Fix 2: Repair corrupted system files
 
  Broken Window Registry files may cause problems with the copy-and-paste keyboard shortcut. You can try to **run the System File Checker (sfc /scannow) to identify problematic Registry files** . Most of the time, this tool can fix minor issues for you.
@@ -68,11 +64,21 @@ If this fix didn’t help, try the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Clear clipboard history
 
  When your clipboard cache is full, you may not be able to copy-paste your files or texts. You can delete your clipboard history data to see if it solves the problem, and the steps are easy. Here’s how
@@ -82,13 +88,11 @@ If this fix didn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-09-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this fix didn’t help, try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -108,20 +112,9 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Bonus tip: Update your device drivers
 
  In general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -152,8 +145,6 @@ If your problem persists, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +152,21 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-apowersoft-screen-recorder-testimony/"><u>[New] In 2024, Apowersoft Screen Recorder Testimony</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-expert-advice-on-youtube-short-pitfalls/"><u>[Updated] 2024 Approved Expert Advice on YouTube Short Pitfalls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-guide-to-fixing-a-black-display-error-during-launch-of-monster-hunter-world/"><u>Detailed Guide to Fixing a Black Display Error During Launch of Monster Hunter World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-fix-a-malfunctioning-wireless-or-wired-mouse-a-step-by-nstep-guide-for-laptops/"><u>Easily Fix a Malfunctioning Wireless or Wired Mouse: A Step-by-nStep Guide for Laptops</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/effective-techniques-to-restore-lost-data-from-former-windows-11-segments/"><u>Effective Techniques to Restore Lost Data From Former Windows 11 Segments</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-veiled-realities-an-insight-into-story-viewers-world/"><u>In 2024, Veiled Realities An Insight Into Story Viewers' World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-capable-of-learning-from-user-dialogue-exchanges/"><u>Is ChatGPT Capable of Learning From User Dialogue Exchanges?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205336822-shift-key-malfunction-heres-how-you-can-resolve-it/"><u>Shift Key Malfunction? Here’s How You Can Resolve It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-solutions-to-the-couldnt-load-plugin-dilemma-in-windows-11-with-chrome-browser/"><u>Successful Solutions to the 'Couldn't Load Plugin' Dilemma in Windows 11 with Chrome Browser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-6-best-playstation-mario-adventures/"><u>The Ultimate Selection of 6 Best PlayStation Mario Adventures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-unrecognized-logitech-keyboards-on-windows-11/"><u>Troubleshooting Guide: Fixing Unrecognized Logitech Keyboards on Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-gameplay-best-4k-hdmi-21-display-for-players-for-2024/"><u>Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-11-pro-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 11 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-10-solution-restoring-built-in-printerscanner-driver-support/"><u>Windows 10 Solution: Restoring Built-In Printer/Scanner Driver Support</u></a></li>
+</ul></div>
 

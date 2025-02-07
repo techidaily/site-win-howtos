@@ -1,7 +1,7 @@
 ---
 title: "Solve Your Typing Troubles: Fix Unresponsive Letter Keys in Windows 10 and 11"
-date: 2024-08-23T14:02:44.952Z
-updated: 2024-08-24T14:02:44.952Z
+date: 2025-02-01T09:11:58.886Z
+updated: 2025-02-07T05:11:20.345Z
 tags:
   - win11
   - win10
@@ -38,8 +38,9 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -47,15 +48,21 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -71,16 +78,14 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
@@ -88,8 +93,9 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run DISM
 
  Sometimes this keyboard delay problem happens because of corruption and misconfigurations on your computer. If that’s the case, you’ll have to**run**   **DISM** to check and fix the error.
@@ -100,9 +106,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, type a few words and see if it registers as expected.
@@ -122,8 +125,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +132,22 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-free-form-funny-meme-tools-on-a-shoestring-budget/"><u>[New] Free-Form Funny Meme Tools on a Shoestring Budget</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-crafting-compelling-narratives-with-vo-in-powerpoint/"><u>[Updated] In 2024, Crafting Compelling Narratives with VO in PowerPoint</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-innovative-techniques-for-maximum-zoom-utility-on-chromebook/"><u>[Updated] In 2024, Innovative Techniques for Maximum Zoom Utility on Chromebook</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-real-time-storytelling-on-the-rise-navigating-and-thriving-in-a-social-media-world/"><u>[Updated] In 2024, Real-Time Storytelling on the Rise Navigating and Thriving in a Social Media World</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovate-your-screenshots-unveiling-ezvides-screen-casting-features/"><u>2024 Approved Innovate Your Screenshots Unveiling EZvide's Screen Casting Features</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-motorola-edge-40-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Motorola Edge 40 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-guide-to-repairing-lack-of-sound-functionality-in-acer-computers/"><u>A Guide to Repairing Lack of Sound Functionality in Acer Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-strategies-correcting-your-laptops-persistent-bright-screen-glitches/"><u>Comprehensive Strategies: Correcting Your Laptop's Persistent Bright Screen Glitches</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-the-ultimate-method-to-remove-browsing-data-like-search-history-and-cookies-on-your-ipad/"><u>Comprehensive Tutorial: The Ultimate Method to Remove Browsing Data Like Search History and Cookies on Your iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-overwatch-error-the-mystery-of-the-disappearing-rendering-device-explained/"><u>Fix Overwatch Error: The Mystery of the Disappearing Rendering Device Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202705525-solving-the-quick-jump-feature-in-windows-11-explore-stop-scroll-bar-rushing-to-top/"><u>Solving the Quick Jump Feature in Windows 11 Explore - Stop Scroll Bar Rushing to Top!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-rumored-release-schedule-for-intels-arrow-lake-s/"><u>The Future of Computing: Rumored Release Schedule for Intel's Arrow Lake-S</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-common-opengl-issues-in-minecraft/"><u>Troubleshooting Tips: Resolving Common OpenGL Issues in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tips-for-correcting-error-4000-on-your-live-stream-platform/"><u>Ultimate Tips for Correcting Error 4000 on Your Live Stream Platform</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-creativity-with-our-selection-of-18-premier-cam-recording-apps/"><u>Unleash Creativity with Our Selection of #18 Premier Cam Recording Apps</u></a></li>
+</ul></div>
 

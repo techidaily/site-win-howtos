@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Correcting the File Explorer's Fast Track Scrolling Issue"
-date: 2025-01-23T18:11:09.953Z
-updated: 2025-01-25T18:07:38.423Z
+date: 2025-02-02T09:50:31.651Z
+updated: 2025-02-07T08:15:30.270Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
@@ -69,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -89,15 +85,15 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -110,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -128,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -136,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -149,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -177,7 +177,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -225,22 +225,18 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-reconnaissance-from-above-deciphering-gopro-karmas-offering/"><u>[Updated] In 2024, Reconnaissance From Above Deciphering GoPro Karma's Offering</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>[Updated] In 2024, The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-videographers-packing-essentials-kit/"><u>[Updated] The Videographer's Packing Essentials Kit</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-full-capabilities-of-windows-11/"><u>2024 Approved Unlocking the Full Capabilities of Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-troublesome-unregistered-class-warnings-in-your-new-windows-11-system/"><u>Bypassing Troublesome Unregistered Class Warnings in Your New Windows 11 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-screen-flicker-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing Screen Flicker Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-unlock-a-password-protected-system-drive-on-windows-10/"><u>How to Unlock a Password-Protected System Drive on Windows 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100t to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-sluggish-boot-times-on-your-windows-7-pc-a-step-by-step-guide/"><u>Resolving Sluggish Boot Times on Your Windows 7 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sims-4-loading-woes-heres-how-you-can-fix-it/"><u>Sims 4 Loading Woes? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209174326-solved-shockwave-flash-no-longer-compatible-with-google-chrome-fix-now/"><u>Solved: Shockwave Flash No Longer Compatible with Google Chrome - Fix Now</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-enhance-text-readability-in-windows-11-systems/"><u>Troubleshoot and Enhance Text Readability in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-keyboard-arrows-essential-solutions/"><u>Troubleshooting Stuck Keyboard Arrows: Essential Solutions!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-diagnostics-policy-service-crashes/"><u>Understanding and Solving 'Diagnostics Policy Service' Crashes</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-ultimate-guide-how-to-live-stream-on-facebook/"><u>Updated In 2024, Ultimate Guide How to Live Stream on Facebook?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolution-tackle-unseen-threat-to-your-pcs-performance-addressing-cpu-overloads-caused-by-shell-infrastructure/"><u>(Resolution) Tackle Unseen Threat to Your PC's Performance - Addressing CPU Overloads Caused by Shell Infrastructure</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-the-intricacies-of-whatsapp-voice-calls/"><u>[New] 2024 Approved Exploring the Intricacies of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-efficient-digital-voice-alteration-for-vtubers-for-2024/"><u>[Updated] Efficient Digital Voice Alteration for VTubers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-steams-switch-pro-controllers/"><u>[Updated] Mastering Steam's Switch Pro Controllers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-vr-bikes-to-check-out/"><u>[Updated] Top VR Bikes to Check Out</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-saving-reels-made-simple-direct-and-indirect-techniques-explained/"><u>2024 Approved Saving Reels Made Simple Direct and Indirect Techniques Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-update-error-8007000e-fast-a-step-by-step-guide/"><u>Fix Windows Update Error 8007000E Fast: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-gameplay-eliminating-lags-and-boosting-fps-on-cod-black-ops-4/"><u>Fixing Your Gameplay: Eliminating Lags and Boosting FPS on COD Black Ops 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-usb-port-functionality-on-windows-1011-machines/"><u>Step-by-Step Guide: Restoring USB Port Functionality on Windows 10/11 Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-non-functional-integrated-webcams-in-windows-os/"><u>Troubleshooting Tips: Resolving Non-Functional Integrated Webcams in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fix-for-windows-11-update-problem-overcoming-0xc1900208-expert-advice/"><u>Ultimate Fix for Windows 11 Update Problem: Overcoming 0XC1900208 [Expert Advice]</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/usb-serial-converter-driver-update-tutorial-easy-steps-inside/"><u>USB Serial Converter Driver Update Tutorial – Easy Steps Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/victory-over-obs-capture-failures-say-goodbye-to-the-infamous-black-screen/"><u>Victory over OBS Capture Failures: Say Goodbye to the Infamous Black Screen</u></a></li>
 </ul></div>
 

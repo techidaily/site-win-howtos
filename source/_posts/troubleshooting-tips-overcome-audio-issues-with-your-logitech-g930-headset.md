@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcome Audio Issues with Your Logitech G930 Headset"
-date: 2024-08-23T14:08:49.404Z
-updated: 2024-08-24T14:08:49.404Z
+date: 2025-01-30T17:38:08.453Z
+updated: 2025-02-07T07:34:06.541Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/1919114fb5091365649e72fceac45a6999826335a
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. [**Reinstall Oddworld: Soulstorm and the launcher**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets the minimum specifications for Oddworld: Soulstorm
 
  Oddworld: Soulstorm has a set of hardware and system requirements in order for it to be played smoothly. If your copy of Oddworld: Soulstorm crashes a lot on your PC, it’s worth checking if your PC meets the requirements.
@@ -51,8 +55,17 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display.png)
 4. Close DirectX.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
@@ -70,17 +83,21 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-your-device-drivers.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Oddworld: Soulstorm and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Epic Games Launcher as administrator
 
  Oddworld: Soulstorm requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may encounter crash. So you should make sure to run Epic Games Launcher as administrator to see if it fixes the issue.
@@ -90,11 +107,16 @@ Here’s how:
 1. On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , type**epic** , then right-click on**Epic Games Launcher** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/epic.png)
 2. Click**Yes** when UAC promots for permissions to proceed.
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, launch Oddworld: Soulstorm game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify game integrity on Epic Games Launcher
 
@@ -102,9 +124,6 @@ Here’s how:
 
  Wait a bit until the process finishes. After that, re-launch Oddworld: Soulstorm to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try**Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Allow Epic Games Launcher through firewall
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow the launcher through the firewall to make sure that the connection isn’t lost.
@@ -116,21 +135,12 @@ Here’s how:
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Run the game in the launcher and see if it still crashes. If it’s still on-going, please move on to**Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Install the latest patch
 
  The crashing issue may be an unintended bug ensconced in the patches of the game. If this is the case, the developers would respond to this and address the issue with a new patch. So you can check out the latest patch to see if it helps fix the issue.
@@ -146,11 +156,13 @@ Here are the steps to perform a clean boot:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Type or past **msconfig**  and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services.png)
 3. Browse through the full list of services, make sure to **check the boxes for the items that belong to your hardware manufacturers** (such as Intel, AMD, and Qualcomm) and**uncheck the boxes for the rest** . Once finished, click**OK** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12-2.png)
 4. Restart your computer, then test to see if the game still crashes.  
    * **If Oddworld: Soulstorm stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
@@ -172,8 +184,6 @@ Here are the steps to perform a clean boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +191,20 @@ Here are the steps to perform a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-time-lapse-with-your-samsung-phone/"><u>[New] In 2024, Mastering Time Lapse with Your Samsung Phone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-guide-to-convert-srt-to-txt-in-minutes-2023/"><u>[New] Ultimate Guide to Convert SRT to TXT in Minutes 2023</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-deciphering-high-speed-video-with-yi-4k/"><u>[Updated] 2024 Approved Deciphering High-Speed Video with Yi 4K</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-spark-20c-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Spark 20C Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-message-unsupported-input-detected-on-display-device/"><u>Error Message: Unsupported Input Detected on Display Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-player-could-not-be-loaded-issues-on-your-pc-easily/"><u>How to Solve 'Player Could Not Be Loaded' Issues on Your PC Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Yuva 2 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-troubleshooting-overcoming-windows-update-failures/"><u>Mastering Troubleshooting - Overcoming Windows Update Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reduce-high-cpu-demand-from-win11s-wmi-provider-host/"><u>Reduce High CPU Demand From Win11’s WMI Provider Host</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-what-to-do-if-internet-explorer-stops-functioning/"><u>Solving the Issue: What To Do If Internet Explorer Stops Functioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-repairing-the-sims-4-unable-to-open-error/"><u>Step-by-Step Guide to Repairing the Sims 4 Unable to Open Error</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-gif-speed-booster-best-tools-for-web-ios-and-android/"><u>Updated 2024 Approved GIF Speed Booster Best Tools for Web, iOS, and Android</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/yl-software-reveals-key-tips-for-regular-computer-optimization/"><u>YL Software Reveals Key Tips for Regular Computer Optimization</u></a></li>
+</ul></div>
 

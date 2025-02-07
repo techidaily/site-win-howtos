@@ -1,7 +1,7 @@
 ---
 title: Overcoming Library Absence - MSVCR71
-date: 2024-08-23T14:07:30.927Z
-updated: 2024-08-24T14:07:30.927Z
+date: 2025-02-03T14:43:50.875Z
+updated: 2025-02-07T04:27:46.306Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/8f41caf7d9b5e4f9d2e8bb7de69d52df6f6bccbd4
 [**Method 4: Disable Fast Startup**](#method4)
 [**Method 5: Change the USB Selective Suspend Settings**](#method5)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Remove the Power Supply**
 
  This method will fix the problem magically if the problem is caused by Power Supply.
@@ -57,6 +61,10 @@ Follow these steps:
 
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3 : Update the USB Driver**
 
  The problem can be caused by a faulty USB driver. In this case, updating the driver would fix the problem.
@@ -74,15 +82,13 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3\. Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 4: Disable Fast Startup**
 
  If Windows is booting quickly, the external device may not be detected before the boot is completed, then the problem will occur. In this case, disabling the fast boot option in Power Options can resolve the problem.
@@ -93,9 +99,17 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde28fa83dc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. View by Large Icons and click on**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Select**Choose what the power buttons do** in the left pane.
 
@@ -109,9 +123,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde41b1e60a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7\. Restart your PC and see if the problem resolves. Note your PC will boot a little slower.
 
 ## **Method 5: Change the USB Selective Suspend Settings**
@@ -122,42 +133,35 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  2\. Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb15c69d9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Select **High performance** and click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  4\. Click on**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde9507f19b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5\. Click on**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb95133af.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6\. Locate**USB settings** and expand it.
 
  7\. Expand**USB selective suspend setting** . Disable both**On battery** and**Plugged in** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdec39ba7fd.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8\. Click the**Apply** button and restart your computer.
 
@@ -169,8 +173,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +180,22 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-10-premier-online-church-service-providers/"><u>2024 Approved The 10 Premier Online Church Service Providers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-mobile-streaming-melodies-top-7-audio-playlists-for-iphone-and-galaxy-fans/"><u>Best Free Mobile Streaming Melodies: Top 7 Audio Playlists for iPhone & Galaxy Fans</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-boot-performance-efficient-solutions-for-windows-7s-slow-initialization-problems/"><u>Boost Boot Performance: Efficient Solutions for Windows 7'S Slow Initialization Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solutions-to-restore-your-asus-laptops-non-working-fn-keys-effectively/"><u>DIY Solutions to Restore Your Asus Laptop's Non-Working FN Keys Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-managing-livekernelevent-error-144/"><u>Effective Solutions for Managing LiveKernelEvent Error 144</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-silence-to-symphony-how-to-set-up-unique-ringtones-and-sounds-for-android-for-2024/"><u>From Silence to Symphony How to Set Up Unique Ringtones & Sounds for Android for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unresponsive-aoc-display-problems-when-hooked-up-to-a-windows-10-pc/"><u>How to Resolve Unresponsive AOC Display Problems When Hooked Up to a Windows 10 PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-tips-for-a-standout-instagram-groups-project/"><u>In 2024, Quick Tips for a Standout Instagram Groups Project</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/low-light-iphone-luminary-techniques/"><u>Low-Light iPhone Luminary Techniques</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/pruebe-nuestra-facil-solucion-de-respaldo-y-copia-de-seguridad-para-volumenes-de-disco-dinamico-con-version-gratuita/"><u>Pruebe Nuestra Fácil Solución De Respaldo Y Copia De Seguridad Para Volúmenes De Disco Dinámico Con Versión Gratuita</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-critical-process-died-during-boot-on-windows-11/"><u>Resolving Critical Process Died During Boot on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restart-capturing-with-these-fixes-resolving-print-screen-woes-in-windows-environments/"><u>Restart Capturing with These Fixes: Resolving Print Screen Woes in Windows Environments</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pinnacle-of-home-entertainment-lg-oled-c9-65-review-impeccable-image-quality-unveiled/"><u>The Pinnacle of Home Entertainment: LG OLED C9 65 Review - Impeccable Image Quality Unveiled.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-minecraft-local-area-network-issues/"><u>Troubleshooting Guide: Fixing Minecraft Local Area Network Issues</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-the-powerful-features-of-garmins-forerunner-945-a-detailed-guide/"><u>Unveiling the Powerful Features of Garmin's Forerunner 945 - A Detailed Guide</u></a></li>
+</ul></div>
 

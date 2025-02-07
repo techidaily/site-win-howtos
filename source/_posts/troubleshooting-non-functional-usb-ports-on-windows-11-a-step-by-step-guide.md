@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Non-Functional USB Ports on Windows 11: A Step-by-Step Guide"
-date: 2024-08-23T14:04:06.330Z
-updated: 2024-08-24T14:04:06.330Z
+date: 2025-02-04T21:59:25.406Z
+updated: 2025-02-07T06:02:44.692Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  Rest assured that you’re not alone – many people have reported the same issue. Usually it’s not that difficult to solve. Just follow this tutorial and do the troubleshooting by yourself!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dell wireless keyboard not working
 
  The first thing you should do is to pinpoint the cause of your issue. Take the steps in the following order:
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 
  You may also look at the power status light (if there is one) to determine whether your batteries are functioning well. Generally the light will turn on (solid white) for about 15 seconds and then turn off if your keyboard has received enough power.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Turn on the power
 
  If there’s a power switch on your wireless keyboard, you should check whether you’ve turned it on. Usually you can find that switch at the bottom of your keyboard so make certain that the switch is set to**ON** .
@@ -44,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-874.png)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 This is a Dell USB receiver.
 
 1. Remove the USB receiver of your wireless keyboard from the port you’re using currently. Then wait for about 10 seconds.
@@ -54,9 +63,6 @@ This is a Dell USB receiver.
 
  You should not use a USB hub because it may not be able to provide enough power for your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 4: Remove any devices that may weaken the wireless signal
 
  Chances are that some devices nearby have interrupted the wireless connection between your device and its USB receiver. In this sense, you should:
@@ -67,9 +73,6 @@ This is a Dell USB receiver.
 
  Check to see if your wireless keyboard is working properly now. If not, please proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 5: Connect your keyboard to another computer/laptop
 
  This is a crucial step to determine whether it’s your keyboard or your PC that causes the problem. After connecting your wireless keyboard to another computer/laptop, test the device and see if it works well:
@@ -78,6 +81,10 @@ This is a Dell USB receiver.
 * If not, the issue probably arises from an equipment malfunction in your wireless keyboard.
 
  In the former scenario, you may go to**Step 6** and take a closer look at your problem; in the latter however, you should visit[Dell Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fcontents%2Fus%2Fen%2F04%2Fcategory%2FContact-Information%3F%7Eck%3Dmn) for technical support or warranty options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 6: Reconnect your device
 
@@ -91,8 +98,9 @@ This is a Dell USB receiver.
 3. Test to see whether your keyboard is functioning well. If not, please move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 7: Update the device driver
 
  If you haven’t installed the driver for your Dell wireless keyboard properly, that may also lead to the keyboard-not-working issue. To solve it, you should update the corresponding driver right away.
@@ -118,8 +126,9 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_10-58-04-3.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the keyboard driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-24_12-23-35-3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -138,11 +147,13 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 2. There appears a**keyboard** icon in the notification area on your taskbar. Click the icon to invoke a virtual keyboard.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-19-38.png) ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-23-07.png)
 3. Click the**Windows logo** **icon** at the left corner of your taskbar to open the**Start** menu. Then use the virtual keyboard to type**device** into the search box and select the**Device Manager** result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-24-39.png)
 4. Click the**Keyboards** category to open its drop-down list. Right-click on the keyboard model you’re using and select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-28-38.png)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-31-04-1.png)
 6. Wait till the download and installation process finishes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click **Close** when it’s all done.
 8. Now your driver has been updated by Windows successfully. Don’t forget to restart your computer for the changes to take effect even if you’re not asked to.
 
@@ -156,13 +167,7 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 [https://www.dell.com/en-us](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fen-us)
 2. Move your mouse cursor to the**Support** option located in the upper part of the site. Then select**Drivers & Downloads** from its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-46-51.png)
 3. Type your keyboard model into the search box if you know it clearly; otherwise you could just type**wireless keyboard** . Usually, you’ll be presented with a list of search suggestions below, so go on to select one from the list according to your keyboard model. (If you don’t know how to invoke a virtual keyboard on your computer, you may refer to Option 2.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-49-45-1.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the next window, make sure you choose the correct edition of your Windows system. Then download all the drivers you need.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-58-29.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 5. Open the file where you’ve just downloaded the driver. In most situations, you’ll get a file with an**EXE** extension. Double-click on it and follow the onscreen instructions to install the driver.
 6. Don’t forget to restart your computer for the changes to take effect even if you’re not asked to.
 
@@ -181,8 +186,6 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +193,26 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-blueprint-revolutionizing-your-mobile-capture-experience-with-mobizen/"><u>[Updated] 2024 Approved Ultimate Blueprint Revolutionizing Your Mobile Capture Experience with Mobizen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-achieving-instagram-recognition-swiftly-for-2024/"><u>[Updated] Achieving Instagram Recognition Swiftly for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-makeup-trends-to-try-now/"><u>[Updated] Makeup Trends to Try Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-optimize-video-production-with-adobe-presenter/"><u>2024 Approved How to Optimize Video Production with Adobe Presenter</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-most-advanced-and-immersive-htpc-setups-reviewed/"><u>2024'S Most Advanced and Immersive HTPC Setups Reviewed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205620823-constraint-a-the-footnotes-must-be-numbered-sequentially-starting-with-1/"><u>Constraint A: The Footnotes Must Be Numbered Sequentially Starting with [^1].</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-working-usb-flash-drive-simple-and-effective-methods/"><u>Fixing a Non-Working USB Flash Drive: Simple and Effective Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-when-task-manager-wont-respond-expert-advice/"><u>Fixing the Issue When Task Manager Won't Respond - Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-issues-with-your-asus-keyboard-not-functioning-correctly/"><u>How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-turn-your-psp-into-a-game-boy-emulator/"><u>How to Turn Your PSP Into a Game Boy Emulator</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x90s-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo X90S Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-return-calls-on-secured-and-disguised-numbers/"><u>Mastering the Art of Return Calls on Secured and Disguised Numbers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connectivity-problems-making-your-wacom-pen-work-with-windows-1110/"><u>Overcoming Connectivity Problems: Making Your Wacom Pen Work with Windows 11/10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-file-explorer-freezes-and-crashes-on-windows-11-a-step-by-step-guide/"><u>Resolving File Explorer Freezes and Crashes on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/the-boxing-streaming-websites-you-cant-afford-to-miss/"><u>The Boxing Streaming Websites You Cant Afford To Miss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-module-cannot-be-found-problem-effectively/"><u>Troubleshooting the 'Module Cannot Be Found' Problem Effectively</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-top-contender-in-smart-tracking-devices-a-deep-dive-into-apple-airtags-for-iphone-users/"><u>Unveiling The Top Contender in Smart Tracking Devices: A Deep Dive Into Apple AirTags for iPhone Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208755069-why-wont-my-spacebar-work-in-windows-10-find-out-how-to-resolve-it-today/"><u>Why Won't My Spacebar Work in Windows 10? Find Out How to Resolve It Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11-strategies-for-lowering-provider-host-cpu-load/"><u>Win11: Strategies for Lowering Provider Host CPU Load</u></a></li>
+</ul></div>
 

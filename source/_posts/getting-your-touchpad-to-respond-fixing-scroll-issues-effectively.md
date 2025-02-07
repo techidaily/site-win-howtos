@@ -1,7 +1,7 @@
 ---
 title: "Getting Your Touchpad to Respond: Fixing Scroll Issues Effectively"
-date: 2024-08-23T14:07:52.076Z
-updated: 2024-08-24T14:07:52.076Z
+date: 2025-01-31T05:47:24.568Z
+updated: 2025-02-06T21:25:09.056Z
 tags:
   - win11
   - win10
@@ -32,12 +32,20 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)  
 
@@ -53,8 +61,9 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -68,8 +77,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -79,8 +89,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
  That’s all there is to it. Any questions please feel free to let us know by leaving comments below, thanks.
@@ -94,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +112,21 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-the-world-of-igs-reels-and-stories/"><u>[Updated] 2024 Approved Mastering the World of IG’s Reels and Stories</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-backgroundannihilator-professional-erase-software/"><u>[Updated] BackgroundAnnihilator Professional Erase Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unmatched-clarity-best-blu-ray-players-of-24/"><u>[Updated] In 2024, Unmatched Clarity Best Blu-Ray Players of '24</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-package-of-top-zoom-capturing-gear/"><u>[Updated] The Complete Package of Top Zoom Capturing Gear</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-windows-upgrade-maze-step-by-step/"><u>2024 Approved Navigating the Windows Upgrade Maze Step by Step</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breeze-through-fixing-error-code-0x800f0831-by-updating-windows-effortlessly/"><u>Breeze Through Fixing Error Code 0X800f0831 by Updating Windows Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-quick-and-effortless-fixes-when-windows-installs-stall/"><u>Bypass Quick and Effortless Fixes When Windows Installs Stall</u></a></li>
+<li><a href="https://win-docs.techidaily.com/expert-tips-for-effective-vmware-virtual-machine-and-storage-backup-solutions/"><u>Expert Tips for Effective VMware Virtual Machine & Storage Backup Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-correct-user-profile-service-failures-during-login-in-windows-11/"><u>Expert Tips to Correct 'User Profile Service' Failures During Login in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-overcoming-the-windows-preparing-hang-up-issue-on-laptopspcs/"><u>Expert Tips: Overcoming the 'Windows Preparing' Hang-Up Issue on Laptops/PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-network-cable-fallout-problem-for-windows-users/"><u>Fixing a Network Cable Fallout Problem for Windows Users</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-se-2020-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone SE (2020) Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-system-integrity-on-windows-10-exploring-sfc-and-dism-tools/"><u>Restoring System Integrity on Windows 10: Exploring SFC and DISM Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-restoring-data-flow-from-faulty-usb-on-windows/"><u>Steps for Restoring Data Flow From Faulty USB On Windows</u></a></li>
+</ul></div>
 

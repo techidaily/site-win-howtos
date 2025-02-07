@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Repair Tips for Non-Responsive Dell Wireless Keyboards
-date: 2024-08-23T14:06:17.800Z
-updated: 2024-08-24T14:06:17.800Z
+date: 2025-02-01T20:22:40.194Z
+updated: 2025-02-07T08:49:02.427Z
 tags:
   - win11
   - win10
@@ -84,29 +84,33 @@ In another version of BIOS, the procedure may go like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In Device Manager, double-click on the**System devices** node to expand its drop-down list. Next, locate**Lenovo PM Device** and right-click on it. From the context menu, select**Properties** .
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the option appears dimmed, that means there’s no previous driver for you to roll back to. In this case, you should try out the next method instead.
 
  4) Follow the onscreen instructions to roll back your driver. Don’t forget to reboot your computer for the changes to take effect.
@@ -114,6 +118,10 @@ In another version of BIOS, the procedure may go like this:
  Now it’s time to check whether your function keys have gone back to normal. If not, proceed to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your chipset/keyboard drivers
 
@@ -151,31 +159,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-127.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) After updating your keyboard drivers, you should now make similar changes to the chipset drivers. In Device Manager, double-click**System devices** to expand its drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
  9) Make sure all of the chipset drivers are up-to-date. Now check to see if your Fn keys are functioning well.
@@ -218,8 +217,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +224,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/rom-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>[New] From Filming to Fame Discovering the Top 10 Ladies on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-top-iphones-and-android-premium-coverage-for-your-ig-highlights-for-2024/"><u>[New] Top iPhones & Android Premium Coverage for Your IG Highlights for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-logitech-mouse-scroll-wheel-not-working/"><u>[Solved] How to Fix Logitech Mouse Scroll Wheel Not Working</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-expert-hacks-for-improved-tiktok-visuals-for-2024/"><u>[Updated] Expert Hacks for Improved TikTok Visuals for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-visual-flair-filmmaking-the-foremost-15-luts-for-gopro-videos/"><u>2024 Approved Visual Flair Filmmaking The Foremost 15 LUTs for GoPro Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/busting-common-problems-civilization-vi-not-opening-on-windows-11/"><u>Busting Common Problems: Civilization VI Not Opening on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/compact-and-sleek-protection-the-miniature-marvel-that-safeguards-your-apple-vision-pro/"><u>Compact & Sleek Protection: The Miniature Marvel That Safeguards Your Apple Vision Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-fixes-for-effective-amd-radeon-graphics-card-updates/"><u>Comprehensive Fixes for Effective AMD Radeon Graphics Card Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209451669-corsair-hs50-earset-mic-problems-quick-fixes-to-get-it-working-again/"><u>Corsair HS50 Earset Mic Problems - Quick Fixes to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-when-encountering-window-11-delays-or-crashes/"><u>Essential Fixes When Encountering Window 11 Delays or Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-freezing-or-crashing-windows-11-computer/"><u>How to Fix a Freezing or Crashing Windows 11 Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-a1-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo A1 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-10t-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme 10T 5G Without PUK Codes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-google-chromes-critical-error-menace-a-users-survival-guide-against-scams/"><u>Overcome Google Chrome's Critical Error Menace: A User’s Survival Guide Against Scams!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-printer-error-code-30-a-complete-activation-guide/"><u>Resolving Printer Error Code -30: A Complete Activation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-fixing-non-detected-bluetooth-peripherals-in-windows-11/"><u>Solution: Fixing Non-Detected Bluetooth Peripherals in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-diagnosing-and-fixing-oculus-tech-problems-insights/"><u>The Ultimate Guide to Diagnosing and Fixing Oculus Tech Problems: Insights</u></a></li>
+</ul></div>
 

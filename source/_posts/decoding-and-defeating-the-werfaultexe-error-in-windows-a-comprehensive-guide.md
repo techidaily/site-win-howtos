@@ -1,7 +1,7 @@
 ---
 title: Decoding and Defeating the werFault.exe Error in Windows - A Comprehensive Guide
-date: 2024-08-23T14:05:35.647Z
-updated: 2024-08-24T14:05:35.647Z
+date: 2025-02-05T18:31:01.830Z
+updated: 2025-02-07T14:24:40.042Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,18 +48,12 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
@@ -64,8 +62,9 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -76,17 +75,10 @@ the picture was taken by: Article\_86
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 4. Relaunch Chrome to take effect.
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -99,11 +91,18 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
@@ -120,14 +119,16 @@ the picture was taken by: Article\_86
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## TIPS: Avoid Google Chrome Critical Error
 
 #### Be careful of spam emails
@@ -154,8 +155,6 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +162,22 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-exclusive-edition-motorcyclings-top-action-cameras-of-2023-review/"><u>[New] In 2024, Exclusive Edition Motorcycling’s Top Action Cameras of 2023 Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-ig-management-made-simple-the-best-tools-reviewed/"><u>[Updated] IG Management Made Simple The Best Tools Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synthesize-sounds-and-images-in-ppts/"><u>[Updated] Synthesize Sounds and Images in PPTS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-free-download-official-winx-movie-editor-with-dvd-ripping-and-hd-video-conversion/"><u>1. Free Download: Official WinX Movie Editor with DVD Ripping & HD Video Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/6zw35oyb44gh44gz44kl5pa55rov77ya44ov44oq44od44ox44ot44oh44kq44gu5pya6ygp44gq5lplusd5a2y5oml5q61/"><u>長持ちする方法：フリップビデオの最適な保存手段</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-windows-driver-power-state-error-fixes/"><u>Easy Solutions for Windows Driver Power State Error Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-a-frozen-window-10-screen/"><u>Effective Solutions for Resolving a Frozen Window 10 Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-microsoft-surface-pen-back-in-action-common-fixes-explained/"><u>Getting Your Microsoft Surface Pen Back in Action - Common Fixes Explained</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/hpe-el-capitan-blade-harnessing-the-power-of-amds-newest-instinct-mi300a-card-for-a-world-record-speed-supercomputer-by-years-end/"><u>HPE El Capitan Blade: Harnessing the Power of AMD's Newest Instinct MI300A Card for a World Record Speed Supercomputer by Year's End</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfecting-the-art-of-screen-recording-with-step-by-step-instructions-from-adobe-captivate-for-2024/"><u>Perfecting the Art of Screen Recording with Step-by-Step Instructions From Adobe Captivate for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overload-incident-at-networking-interface/"><u>Resolved: Overload Incident at Networking Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-keyboard-arrow-keys-malfunction-effective-troubleshooting-tips/"><u>Solving Keyboard Arrow Keys Malfunction: Effective Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcome-failed-library-loading-error-1114-fixes/"><u>Step-by-Step Guide to Overcome 'Failed Library Loading' - Error 1114 Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-enabling-bluetooth-feature-on-your-windows-ebox-7-system/"><u>Troubleshoot & Fix: Enabling Bluetooth Feature on Your Windows Ebox-7 System</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+</ul></div>
 

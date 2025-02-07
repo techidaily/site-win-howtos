@@ -1,7 +1,7 @@
 ---
 title: "Origin Games: Solving Issues in Your Game Configuration"
-date: 2024-08-23T14:08:14.035Z
-updated: 2024-08-24T14:08:14.035Z
+date: 2025-02-06T09:27:25.783Z
+updated: 2025-02-07T13:08:54.529Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
 If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, try methods in this post. Try each of these methods in order. See if the keys works after each method. Move on to next method if the issue still persists. After trying all methods, the issue should resolve.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 1: Uninstall Keyboard Driver in Device Manager**
 
  The keyboard would not work correctly if there’s a problem with the keyboard driver. Try to have the driver reloaded and see if the problem resolves.  
@@ -29,10 +33,19 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd39ed6472.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Windows will prompt you to confirm the uninstallation. Click**OK**  button to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd3f6b4d25.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Reboot your PC as soon as possible. Then Windows will load the keyboard driver automatically.
 
 ###
@@ -59,6 +72,10 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fc095f3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your laptop, and check to see if your keyboard works.
 
 **IMPORTANT** :[Driver Easy](https://tools.techidaily.com/drivereasy/download/) is a tool fixing any driver issues. If your Logitech keyboard not working issue is not caused by faulty drivers, Driver Easy won’t be able to fix it. If Driver Easy Pro doesn’t help you fix the problem, you can ask for a full refund. Alternatively, you can contact our technical support for further assistance.**You just need to send us the URL of this article** and the detailed information about the problem.  
@@ -76,6 +93,11 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd7d0f3270.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. In the**Name** list of services in the Details pane, double-click**Human Interface Device Access** , and then make sure that the Startup type is set to Automatic.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd8aec4887.png) ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd93f7da33.png)
@@ -92,8 +114,6 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +121,23 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-the-complete-process-of-logging-google-meet-chats/"><u>[New] The Complete Process of Logging Google Meet Chats</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-starting-with-green-magic-an-in-depth-guide-to-the-filmmakers-color-technique/"><u>[Updated] Starting with Green Magic An In-Depth Guide to the Filmmaker’s Color Technique</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-scaling-up-on-igtv-through-powerful-hash-tagging/"><u>2024 Approved Scaling Up on IGTV Through Powerful Hash Tagging</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-resolve-frequent-reboots-on-your-windows-10-pc/"><u>Effective Strategies to Resolve Frequent Reboots on Your Windows 10 PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/high-ranking-top-5-quick-screen-recorders-for-2024/"><u>High Ranking - Top 5 Quick Screen Recorders for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/high-definition-fast-and-furious-themes-ultimate-collection-of-wallpapers-lock-screens-and-desktop-backgrounds-yl-computing/"><u>High-Definition Fast & Furious Themes: Ultimate Collection of Wallpapers, Lock Screens & Desktop Backgrounds - YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mic-troubles-overcome-in-discord/"><u>Mic Troubles Overcome in Discord</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/netflix-outage-how-to-identify-and-resolve-streaming-problems/"><u>Netflix Outage – How to Identify and Resolve Streaming Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-when-your-hp-laptops-webcam-fails-to-work-under-windows/"><u>Quick Solutions for When Your HP Laptop's Webcam Fails to Work Under Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-enable-your-pcs-graphics-card-for-optimal-gameplay-in-call-of-duty-warzone-under-windows-amoled/"><u>Solved: Enable Your PC's Graphics Card for Optimal Gameplay in Call of Duty: Warzone Under Windows Amoled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-method-to-verify-and-update-your-tiktok-age/"><u>Step-by-Step Method to Verify and Update Your TikTok Age</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-c02-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia C02 Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206221337-troubleshoot-and-restore-touch-functionality-on-windows-grope-your-touchscreen-with-these-top-5-solutions/"><u>Troubleshoot & Restore Touch Functionality on Windows Grope Your Touchscreen with These Top 5 Solutions.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steps-for-unpairing-problems-in-windows-10-tips/"><u>Ultimate Troubleshooting Steps for Unpairing Problems in Windows 10 (Tips )</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-registry-edits-in-cmd/"><u>Unveiling the Secrets of Registry Edits in CMD</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-mouse-cursor-vanishes-how-to-restore-it-effectively/"><u>Windows 11 Mouse Cursor Vanishes: How to Restore It Effectively</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

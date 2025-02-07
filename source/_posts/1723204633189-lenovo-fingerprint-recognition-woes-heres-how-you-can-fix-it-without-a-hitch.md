@@ -1,7 +1,7 @@
 ---
 title: Lenovo Fingerprint Recognition Woes? Here’s How You Can Fix It Without a Hitch
-date: 2024-08-23T14:03:58.084Z
-updated: 2024-08-24T14:03:58.084Z
+date: 2025-02-06T12:06:39.179Z
+updated: 2025-02-07T07:30:05.299Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your fingerprint reader driver
 
 This problem may occur if you are using the wrong  fingerprint reader  driver or it’s out of date. So you should update your fingerprint reader driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,12 +57,13 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/Synaptics-WBDI-Fingerprint-Reader.png)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -66,10 +71,6 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Fix 3: Uninstall Lenovo Finerprint Manager and use the default fingerprint driver
 
  If Fix 2 doesn’t work for you, then you’d probably have to uninstall the lenovo fingerprint software and the fingerprint driver (so that Windows will install the default generic one for you) to see if it works.
@@ -79,22 +80,18 @@ Here’s how:
 1. On your keyboard, press **the Windows logo key** , then type**add or remove programs** and click on**Add or remove programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/addorremoveprograms.jpg)
 2. Locate and click on**Lenovo Fingerprint Manager** (or,**Lenovo Finerprint Manager Pro** ) and click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/12.jpg)
 3. Click**Uninstall** to confirm, then follow the on-screen instructions to finish the uninstall process.![](https://images.drivereasy.com/wp-content/uploads/2018/11/12-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. On your keyboard, press**the Windows logo key** and type **devmgmt.msc** , then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4fe23bb7de.png)
 5. Double-click on**Biometric devices** and then right-click on**your Lenovo fingerprint device** and click**Uninstall device** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4ff6e683a2.png)
 6. Click **Uninstall**   to confirm.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 7. Restart your computer, then test to see if the fingerprint reader not working problem has been solved.
 
 ---
@@ -104,16 +101,19 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and type**sign-in** , then click on**Sign-in options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be40f4aee3bb.jpg)
 2. Scroll down to**Windows Hello** , and click**Set up** under the**Fingerprint** section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be5039662fee.jpg)
 3. Follow the on-screen instructions to set up the fingerprint login.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Don’t forget to test if the fingerprint reader works normally this time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Repair system files
 
  Missing, corrupt, or damaged system files may cause Lenovo fingerprint reader to stop working. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
@@ -134,14 +134,15 @@ Here’s how to use Fortect to repair system files on your PC:
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 4. To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Restart your computer for the changes to take effect.
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 Check your computer to see if the issue is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Run SFC scan
 
@@ -152,8 +153,9 @@ Check your computer to see if the issue is fixed.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
@@ -180,8 +182,6 @@ Check your computer to see if the issue is fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +189,18 @@ Check your computer to see if the issue is fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-samsungs-immersive-camera-technology/"><u>[New] Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-downloading-insta-videos-in-two-simple-ways/"><u>2024 Approved Downloading Insta Videos in Two Simple Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862737205-experience-top-tier-performance-with-the-discounted-dell-16-inch-g16-laptop-only-949/"><u>Experience Top-Tier Performance with the Discounted Dell 16-Inch G16 Laptop - Only $949</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-evolution-a-complete-breakdown-of-each-macos-release/"><u>Exploring Apple's Evolution: A Complete Breakdown of Each macOS Release</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-silence-a-boisterous-ps4-system-a-comprehensive-guide/"><u>How to Silence a Boisterous PS4 System: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-computer-overheating-solutions-with-yl-software-and-computing-techniques-for-optimal-performance/"><u>Mastering Computer Overheating Solutions with YL Software & Computing Techniques for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-failed-renderer-setup-issues-the-21-fix/"><u>Overcoming Failed Renderer Setup Issues - The 2^1 Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-stalled-windows-11-installation-and-update-problems/"><u>Resolving Stalled Windows 11 Installation and Update Problems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/secure-deletion-guide-top-advice-and-writings-from-stellar/"><u>Secure Deletion Guide: Top Advice and Writings From Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-permission-from-trustedinstaller-to-alter-windows-system-files/"><u>Securing Permission From TrustedInstaller to Alter Windows System Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-non-responsive-backlight-buttons-on-laptop-keyboards/"><u>Troubleshooting Guide: Non-Responsive Backlight Buttons on Laptop Keyboards</u></a></li>
+</ul></div>
 

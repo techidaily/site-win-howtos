@@ -1,7 +1,7 @@
 ---
 title: "Error Code 0XC00#Solved: Troubleshooting and Fixes for Windows Users"
-date: 2024-08-23T14:09:33.568Z
-updated: 2024-08-24T14:09:33.568Z
+date: 2025-02-05T04:33:46.358Z
+updated: 2025-02-07T08:59:25.609Z
 tags:
   - win11
   - win10
@@ -27,7 +27,15 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 1: Rebuild BCD manually
 
  Since this is a BSOD error, you won’t be able to access your PC normally. To repair your PC, you’ll need to use a Windows recovery drive: an installation USB media or a CD/DVD.
@@ -66,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
  6) Choose your preferred media. If you choose a USB flash drive, make sure you have a blank USB flash drive with at least 8GB of space.
@@ -83,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
  4) Save the changes and exit.
@@ -128,12 +133,13 @@ bootrec /rebuildbcd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: CHKDSK
 
@@ -153,6 +159,10 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -165,9 +175,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -178,19 +185,15 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -220,9 +223,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Type**Check for updates** in the Search box and press**Enter** .
 
 ##### 2\. Device Manager
@@ -230,8 +230,9 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
 ##### 3\. Download from the manufacturer’s website
@@ -258,9 +259,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance or have any questions, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -276,8 +274,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +281,21 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-free-youtube-comment-finder-you-should-try/"><u>[Updated] 2024 Approved Best Free YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-instantly-design-custom-coverage-for-your-short-videos/"><u>[Updated] How To Instantly Design Custom Coverage For Your Short Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-tips-to-master-camera-snap-in-zoom-calls/"><u>[Updated] In 2024, Expert Tips to Master Camera Snap in Zoom Calls</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-step-by-step-establishing-a-signature-persona-on-youtube/"><u>2024 Approved Step-by-Step Establishing a Signature Persona on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-restoring-responsiveness-to-file-explorer-in-windows-11/"><u>Comprehensive Guide: Restoring Responsiveness to File Explorer in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-get-your-minecraft-lan-up-and-running-a-step-by-step-guide/"><u>Easy Fixes to Get Your Minecraft LAN Up & Running: A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-computer-from-constantly-turning-on-and-off/"><u>How to Stop Your Computer From Constantly Turning On and Off</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-we-solved-the-igfxem-module-malfunction-issue/"><u>How We Solved the igfxEM Module Malfunction Issue</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-realme-10t-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme 10T 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/optimal-screen-capture-techniques-tunefab-style/"><u>Optimal Screen Capture Techniques - Tunefab Style</u></a></li>
+<li><a href="https://fox-access.techidaily.com/premium-setup-the-top-quality-4k-dslr-mounts-guide-for-2024/"><u>Premium Setup The Top-Quality 4K DSLR Mounts Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206625200-surface-pro-4-active-pen-malfunctions-heres-how-you-can-resolve-them-easily/"><u>Surface Pro 4 Active Pen Malfunctions? Here's How You Can Resolve Them Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshooting-your-ps4-microphone-issues/"><u>Ultimate Guide: Troubleshooting Your PS4 Microphone Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Steps to Correctly Address Error Code 0X800F081F in .NET Framework 3.5 Setup"
-date: 2024-08-23T14:09:08.129Z
-updated: 2024-08-24T14:09:08.129Z
+date: 2025-02-05T17:33:39.119Z
+updated: 2025-02-07T01:42:01.999Z
 tags:
   - win11
   - win10
@@ -22,11 +22,19 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
  Method 1:[**Configure Group Policy**](https://tools.techidaily.com/drivereasy/download/)
  Method 2:[**Install .NET Framework 3.5 using DISM**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Configure Group Policy
 
  The 0x800F081F error may occur because the component setting in Group Policy is disabled. You should enable it to see if this fixes the error. To do so:
 
 **1)** On your keyboard, press the   **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and**R** **key** at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Type “**gpedit.msc** ” and press**Enter** on your keyboard.
 
@@ -39,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 **4)** Double click **Specify settings for optional component installation and component repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8cb90d9ace.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Select**Enabled** . Then click**OK** .
 
@@ -60,6 +72,10 @@ To enable the .NET Framework 3.5 feature using DISM:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7455a57b7b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click “**Command Prompt** ” and select “**Run as administrator** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b75954000f6.png)
@@ -67,6 +83,10 @@ To enable the .NET Framework 3.5 feature using DISM:
 **4)** Type “ _**Dism /online /enable-feature /featurename:NetFx3 /All /Source:**_ **<DRIVE>** _**:\\sources\\sxs /LimitAccess**_ ” and press**Enter** on your keyboard. (Note that you need to replace the**<DRIVE>** here with the drive letter for the installation media drive or the ISO drive.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8d9fc19402.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Try installing .NET Framework 3.5 and see if the error disappears.
 
@@ -78,8 +98,6 @@ To enable the .NET Framework 3.5 feature using DISM:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,8 +105,19 @@ To enable the .NET Framework 3.5 feature using DISM:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-cut-the-clutter-advanced-techniques-with-youtube-studio-editor/"><u>[Updated] Cut the Clutter Advanced Techniques with YouTube Studio Editor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-apps-for-perfecting-picture-framing/"><u>2024 Approved Best Apps for Perfecting Picture Framing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-agni-2-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/firefox-x-pie-mode-decoded-for-everyday-users/"><u>Firefox X-Pie Mode Decoded for Everyday Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-a1x-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo A1x 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-prime-add-ons-the-best-new-filmmakers-starter-list/"><u>In 2024, Prime Add-Ons The Best New Filmmaker’s Starter List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-visuals-adding-value-with-3-strategic-video-descriptions/"><u>Instagram Visuals Adding Value with 3 Strategic Video Descriptions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-microphone-woes-find-out-how-to-get-it-working-again/"><u>Laptop Microphone Woes? Find Out How to Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-updates-correcting-error-0xc1900208-successfully/"><u>Mastering Windows 11 Updates: Correcting Error 0Xc1900208 Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-methods-to-fix-the-persistent-80072ee2-problem-in-your-windows-system/"><u>Simple Methods to Fix the Persistent 80072EE2 Problem in Your Windows System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-finding-intel-irisplus-gfx-655-drivers-for-your-windows-10-or-11-computer/"><u>Step-by-Step Guide to Finding Intel Iris+ GFX #655 Drivers for Your Windows 10 or 11 Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successfully-enabled-hosted-wi-fi-on-your-windows-11-pc/"><u>Troubleshooting Successfully Enabled Hosted Wi-Fi on Your Windows 11 PC</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->

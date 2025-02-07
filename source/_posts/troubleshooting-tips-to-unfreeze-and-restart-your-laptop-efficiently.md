@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Unfreeze and Restart Your Laptop Efficiently
-date: 2025-01-21T16:20:31.501Z
-updated: 2025-01-25T17:32:21.947Z
+date: 2025-02-02T05:05:00.008Z
+updated: 2025-02-07T08:39:05.983Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -52,7 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -75,6 +71,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -84,10 +84,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -107,11 +103,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -121,10 +125,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -147,7 +147,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -184,22 +184,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>[Updated] The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-spectrum-physical-action-review/"><u>2024 Approved Full Spectrum Physical Action Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flvavi-movavi/"><u>無料オンライン動画変換:FLVからAVIへのステップバイステップガイド - Movavi</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/beheben-des-onedrive-fehlers-0x8004def7-in-windows-11-eine-schritt-fur-schritt-anleitung/"><u>Beheben Des OneDrive-Fehlers 0X8004def7 in Windows 11: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comment-fabriquer-une-cle-usb-demarrable-a-laide-de-norton-ghost-sur-les-systemes-dexploitation-windows-1187-un-guide-pratique/"><u>Comment Fabriquer Une Clé USB Démarrable À L'aide De Norton Ghost Sur Les Systèmes D'exploitation Windows 11/8/7 : Un Guide Pratique</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-de-fichiers-audio-convertir-mp3-en-aiogg-gratuitement-en-ligne-chez-movavi/"><u>Conversion De Fichiers Audio: Convertir MP3 en AI/OGG Gratuitement en Ligne Chez Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-dng-files-to-jpeg-for-free-with-movavi-image-editor-online-tool/"><u>Convert DNG Files to JPEG for Free with Movavi Image Editor Online Tool</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-analysis-the-leading-mac-screenshots-and-recorders-ranked/"><u>Expert Analysis The Leading Mac Screenshots & Recorders Ranked</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-transforming-vob-files-into-wav-format-moveave/"><u>Free Online Converter: Transforming VOB Files Into WAV Format - Moveave</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-rapida-para-reducir-el-tamano-de-videos-en-youtube-con-facilidad/"><u>Guía Rápida Para Reducir El Tamaño De Vídeos en YouTube Con Facilidad</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-install-and-use-periscope-for-live-streaming-on-your-computer/"><u>How to Install and Use Periscope for Live Streaming on Your Computer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-oppo-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Oppo Without Password?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/i-migliori-10-servizi-online-per-la-realizzazione-di-banner-youtube-in-italia-2024/"><u>I Migliori 10 Servizi Online per La Realizzazione Di Banner YouTube in Italia - 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp4ogg-movavi/"><u>MP4免費線上改版為OGG格式- 使用 Movavi 視頻換寫器進階功能。</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-desktop-no-overlaps/"><u>Streamline Your Desktop: No Overlaps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-pathway-out-of-windows-11-and-10s-s-constraints/"><u>The Pathway Out of Windows 11 and 10'S S Constraints</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726226663032-flvasf-movavi/"><u>オンラインで使いやすく移行: FLVとASFフォーマットの免責コスト自動変換 - Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comparing-huawei-p10-with-industry-standards-of-smartphones/"><u>[New] Comparing Huawei P10 with Industry Standards of Smartphones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quintessential-quests-and-thrills-top-10-games/"><u>[Updated] 2024 Approved Quintessential Quests & Thrills – Top 10 Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-dream-houses-in-minecraft-top-6-ideas/"><u>2024 Approved Dream Houses in Minecraft Top 6 Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-muse-8-aids-from-gpt-to-content-makers/"><u>Artificial Muse: 8 Aids From GPT to Content Makers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-win10-file-explorer-lag-proven-fixes-for-improved-performance/"><u>Beat Win10 File Explorer Lag: Proven Fixes for Improved Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-itel-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Itel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-fix-keyboard-issues-on-your-hp-laptop-troubleshooting-steps-inside/"><u>Effortlessly Fix Keyboard Issues on Your HP Laptop – Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-event-141-hardware-mishaps-effectively/"><u>Fixing Event 141 Hardware Mishaps Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-restoring-right-click-functionality-on-a-windows-11-system/"><u>Guide: Restoring Right-Click Functionality on a Windows 11 System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-verified-on-instagram/"><u>How to Get Verified on Instagram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-initializing-error-in-destiny-2-a-complete-guide/"><u>How to Resolve the Persistent 'Initializing' Error in Destiny 2 - A Complete Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-10-update-issues-fixes-for-stuck-or-non-upgrading-systems/"><u>Resolve Your Windows 10 Update Issues: Fixes for Stuck or Non-Upgrading Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-the-stopped-audio-service-in-windows-7/"><u>Troubleshooting & Solutions for the Stopped Audio Service in Windows 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-cellular-connectivity-problems-after-ios-1721-upgrade-insights-by-zdnet/"><u>Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET</u></a></li>
 </ul></div>
 

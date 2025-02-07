@@ -1,7 +1,7 @@
 ---
 title: How to Fix Broken USB Input Devices on Your Windows 7 PC
-date: 2024-08-23T14:05:50.592Z
-updated: 2024-08-24T14:05:50.592Z
+date: 2025-02-06T05:36:55.918Z
+updated: 2025-02-07T06:06:11.131Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -42,6 +46,11 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 1. Right-click the**Start button** on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 If this fix didn’t help, try the next fix.
@@ -58,16 +67,14 @@ If this fix didn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Clear clipboard history
 
  When your clipboard cache is full, you may not be able to copy-paste your files or texts. You can delete your clipboard history data to see if it solves the problem, and the steps are easy. Here’s how
@@ -76,11 +83,16 @@ If this fix didn’t help, try the next fix.
 2. Click**Clear all** to delete the clipboard history.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-09-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix didn’t help, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -89,11 +101,11 @@ If this fix didn’t help, try the next one.
 2. Under the**Process** tab, find**Windows Explorer** , right-click and**restart** the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Restart RDP Clipboard Monitor
 
@@ -103,10 +115,6 @@ If your problem persists, try the next fix.
 2. Find the**RDP Clipboard Monitor** process, right-click it and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Bonus tip: Update your device drivers
 
  In general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -119,9 +127,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
@@ -140,8 +145,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +152,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-depth-guide-to-automatic-text-generation-with-google-docs-voice-recognition-for-2024/"><u>[New] In-Depth Guide to Automatic Text Generation with Google Docs Voice Recognition for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-pure-designs-erasing-backgrounds-with-canva-expertise-for-2024/"><u>[Updated] Crafting Pure Designs Erasing Backgrounds with Canva Expertise for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/angiogenesis-and-invasion/"><u>Angiogenesis and Invasion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boosting-viewership-and-fanship-through-strategic-igtv-hashtag-use-for-2024/"><u>Boosting Viewership and Fanship Through Strategic IGTV Hashtag Use for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correcting-windows-game-error-steamapi-missing/"><u>Correcting Windows Game Error: SteamAPI Missing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207086999-expert-guide-eliminate-your-pcs-driverpowerstatefailure-problem-easily/"><u>Expert Guide: Eliminate Your PC's DRIVER_POWER_STATE_FAILURE Problem Easily!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-unsuccessful-skype-phone-calls-for-windows-107-users-step-by-step-guide/"><u>How to Resolve Unsuccessful Skype Phone Calls for Windows 10/7 Users: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-resolve-windows-error-code-0x8024200d-and-restore-updates-guide/"><u>How to Successfully Resolve Windows Error Code 0X8024200D and Restore Updates [GUIDE]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-8-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 8 Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-netflix-volume-woes-simple-tweaks-for-crystal-clear-audio/"><u>Solve Your Netflix Volume Woes – Simple Tweaks for Crystal Clear Audio</u></a></li>
+<li><a href="https://solve-info.techidaily.com/step-by-step-guide-successfully-performing-a-system-upgrade-from-windows-10-to-11/"><u>Step-by-Step Guide: Successfully Performing a System Upgrade From Windows 10 to 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-handling-nospinlockavailable-errors/"><u>Step-by-Step Solution for Handling NO_SPIN_LOCK_AVAILABLE Errors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-4-benefits-of-owning-the-steam-deck/"><u>Unveiling 4 Benefits of Owning the Steam Deck</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/video-driver-crashed-and-was-reset-solved/"><u>Video Driver Crashed and Was Reset [SOLVED]</u></a></li>
+</ul></div>
 

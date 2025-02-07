@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Tips: The Problem of Unopenable NVIDIA's Graphics Software Solved"
-date: 2024-08-23T14:06:54.145Z
-updated: 2024-08-24T14:06:54.145Z
+date: 2025-01-31T10:29:15.639Z
+updated: 2025-02-07T05:56:47.548Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 **USB ports not working on HP laptop** ? You’re not alone. Many users have reported the same. But the good news is, you can fix it easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 fixes for USB ports not working on HP laptop
 
  All the fixes below work in**Windows 10** ,**8** and**7** . Just work your way down the list until your USB ports work properly again.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 **Before diving into the troubleshooting part** , make sure the USB devices you’re using are functioning.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
 
@@ -46,12 +54,9 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -59,23 +64,15 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -94,13 +91,14 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -121,8 +119,6 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +126,22 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-top-10-audio-change-tools-enhancing-virtual-presence/"><u>[Updated] Top 10 Audio Change Tools Enhancing Virtual Presence</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s23-fe-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-werfaultexe-errors-a-comprehensive-guide-for-windows-users/"><u>Bypassing WerFault.exe Errors: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-malfunction-steps-for-resolution-and-restoration/"><u>Corsair Keyboard Malfunction - Steps for Resolution and Restoration</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-steams-file-lock-error-and-fixes/"><u>Deciphering Steam’s File Lock Error and Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-user-profile-service-failed-on-windows-11/"><u>Effective Solutions for Overcoming 'User Profile Service Failed' On Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204664474-fix-windows-update-error-code-80n000e-instantly-simple-solutions/"><u>Fix Windows Update Error Code 80N000E Instantly - Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-function-keys-when-they-arent-responding/"><u>How To Restore Your Function Keys When They Aren't Responding</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-beginners-guide-to-video-production-free-course-series/"><u>In 2024, Beginner's Guide to Video Production Free Course Series</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ios-leading-ps2-game-emulation-tools/"><u>In 2024, IOS Leading PS2 Game Emulation Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-kostenlose-umdrehung-von-gifs-in-webm-durch-movavi-effizient-und-einfach/"><u>Online Kostenlose Umdrehung Von GIFs in WEBM Durch Movavi - Effizient Und Einfach!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-windows-11-update-issue-error-code-0x8020390541/"><u>Resolved: Fixing the Windows 11 Update Issue - Error Code 0X80^20390541</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-a-dead-microsoft-mouse-fixing-bluetooth-connectivity-problems-in-windows/"><u>Reviving a Dead Microsoft Mouse: Fixing Bluetooth Connectivity Problems in Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1706602-9781776533749-true-ghost-stories/"><u>True Ghost Stories | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-my-chrome-not-responding-expert-tricks-to-launch-fresh-and-fast/"><u>Why Is My Chrome Not Responding? Expert Tricks To Launch Fresh and Fast!</u></a></li>
+</ul></div>
 

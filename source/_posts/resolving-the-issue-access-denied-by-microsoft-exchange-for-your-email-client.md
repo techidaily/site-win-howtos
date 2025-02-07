@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Access Denied by Microsoft Exchange for Your Email Client"
-date: 2024-08-23T14:06:23.472Z
-updated: 2024-08-24T14:06:23.472Z
+date: 2025-02-03T05:21:09.365Z
+updated: 2025-02-07T03:04:10.201Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
  If your computer screen goes upside down and mouse travels up when you mean to direct it down, don’t panic. Rest assured – with only a few tweaks, you can**flip the screen the right side up** back again…
 
  For a more eye-friendly reading experience, you might want to read this article on other devices while trying the fixes below on the target laptop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,13 +44,9 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If the trick above doesn’t help you solve the **screen going upside down** issue, then your graphics driver is most likely at fault. So you should update your graphics driver to see if it fixes the issue. There’re two ways you can update your device drivers — manually or automatically.
@@ -59,17 +59,11 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hopefully your screen displays normally again.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Change the display settings
 
 **[I’m using Windows 10:](https://tools.techidaily.com/drivereasy/download/)**
@@ -81,13 +75,11 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 1. Right-click on the empty area of your desktop and click**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbc64a4a09.jpg)
 2. In**Orientation** , select**Landscape** from the drop-down list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbce216c6e.jpg)
 3. Hopefully you have restored your screen back to normal this time.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
   I’m using Windows 7
@@ -95,10 +87,16 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
 1. Click **the Windows logo** , type**orientation** and click**Change screen orientation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0d68dca7.jpg)
 2. In**Orientation** , select**Landscape** from the drop-down list and click the **Tab** key >**Enter** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc13732354.jpg)
 3. Hopefully you have restored your screen back to normal this time.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -113,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +118,17 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-uncovering-old-social-media-narratives-on-laptops-and-mobile-devices/"><u>[New] 2024 Approved Uncovering Old Social Media Narratives on Laptops and Mobile Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-obs-vs-shadowplay-the-streaming-software-showdown/"><u>[Updated] 2024 Approved Obs vs ShadowPlay The Streaming Software Showdown</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-webcam-wizardry-crafting-ultimate-gamer-footage/"><u>[Updated] 2024 Approved WebCam Wizardry Crafting Ultimate Gamer Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photoframe-prospectus-essential-list-of-software-sites-and-tools/"><u>In 2024, Photoframe Prospectus Essential List of Software Sites & Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-guide-to-resolving-update-failure-decode-and-fix-the-0x8024401c-bug-on-windows-11-systems/"><u>In-Depth Guide to Resolving Update Failure - Decode and Fix the 0X8024401c Bug on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-c-runtime-library-missing-error/"><u>Microsoft C Runtime Library Missing Error</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006918458-overcoming-game-jitters-how-to-eliminate-overwatch-hitching/"><u>Overcoming Game Jitters: How To Eliminate Overwatch Hitching!</u></a></li>
+<li><a href="https://win11.techidaily.com/skirting-microsofts-dism-hurdle-error-0x800f082f/"><u>Skirting Microsoft's DISM Hurdle: Error 0X800F082F</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-gamers-handbook-efficient-ways-to-restore-audio-on-your-playstation-4-console/"><u>The Gamer's Handbook: Efficient Ways to Restore Audio on Your PlayStation 4 Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-driver-power-state-issues-in-windows/"><u>Troubleshooting Guide: Resolving Driver Power State Issues in Windows</u></a></li>
+</ul></div>
 

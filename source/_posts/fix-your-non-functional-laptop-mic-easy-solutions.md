@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Non-Functional Laptop Mic: Easy Solutions"
-date: 2025-01-24T16:44:45.781Z
-updated: 2025-01-25T18:11:41.071Z
+date: 2025-01-31T05:38:11.751Z
+updated: 2025-02-07T05:56:56.862Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the**Start** button to start it if it’s not running and set the Startup type to**Automatic** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap58.jpg)
@@ -61,17 +69,9 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap52.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Run Hamachi to check the problem is still there or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Configure the LogMeIn Hamachi Tunneling Engine
 
@@ -84,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  3) Right-click on**LogMeIn Hamachi Tunneling Engine** and click the**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap47-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Set the Startup type to**Automatic** .
 
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  7) In the address box, type “C:\\Program Files (x86)\\LogMeIn Hamachi”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap51.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Right-click on**hamachi-2-ui.exe** and open**Properties** .
 
@@ -130,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Reinstall LogMeIn Hamachi
 
  The “Hamachi service stopped” error can be caused by inappropriate configuration when you installed Hamachi.  
@@ -147,17 +143,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap67-1-1024x593.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on**LogMeIn Hamachi** and click**Uninstall** .  
  Follow the on-screen instructions to finish the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap68.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Download the program from LogMeln Hamachi official website.
@@ -176,6 +168,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap70.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Copy and paste below lines into Notepad.
 
 net stop Hamachi2Svc  
@@ -193,14 +189,14 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap71.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On your keyboard, press the**Windows key** (with Windows logo on it) +**R** together to open the Run box.  
  Type**taskschd.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap74.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Click**Create Task** under the Actions menu.
 
@@ -211,6 +207,10 @@ exit
  Third, change the Configure into**Windows 10** . After that, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap77.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Click the**Triggers** tab, and click the**New…** button.
 
@@ -227,21 +227,21 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap79.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  12) Click the**Conditions** tab and unchecked everything. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  13) Next time you start your computer, Hamachi will restart the service automatically.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers by 2 clicks
 
@@ -258,10 +258,6 @@ OR
 
  You can download drivers from the manufacturer official website. Go to the website to find the correct model and choose your specific flavor of Windows system (Window 10 64-bits or etc.). Then download the driver manually.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -276,6 +272,10 @@ OR
 
  3) Click the**Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/04/network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -298,20 +298,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-video-gear-the-ultimate-12-camera-guide/"><u>[Updated] 2024 Approved Essential Video Gear The Ultimate 12 Camera Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-top-10-trending-videos-on-twitter-for-2024/"><u>[Updated] Top 10 Trending Videos on Twitter for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-evaluation-of-bifocal-lenses-with-anti-blue-light-protection/"><u>Expert Evaluation of Bifocal Lenses with Anti-Blue Light Protection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unsupported-hardware-with-the-right-device-driver-for-windows/"><u>How to Fix Unsupported Hardware with the Right Device Driver for Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-6s-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 6s You Should Try Out</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-itel-p55plus-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Itel P55+</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-15-pro-max-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 15 Pro Max for Parents | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-tips-accelerate-your-keyboards-reaction-speed-easily/"><u>Master Tips: Accelerate Your Keyboard’s Reaction Speed Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-battery-life-on-windows-10-with-built-in-reporting-features/"><u>Maximizing Battery Life on Windows 10 with Built-In Reporting Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210987321-pubg-construction-glitch-resolved-ensure-smooth-gameplay-with-these-tips/"><u>PUBG Construction Glitch Resolved – Ensure Smooth Gameplay with These Tips!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-how-to-successfully-power-off-your-computer-running-windows-10/"><u>Quick Fixes: How To Successfully Power Off Your Computer Running Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/slash-costs-snag-a-discounted-gopro-hero-11-at-200-less-exclusive-deals-inside/"><u>Slash Costs: Snag a Discounted GoPro Hero 11 at $200 Less - Exclusive Deals Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-to-fix-and-stop-automatic-repairs-in-windows-11-once-and-for-all/"><u>The Ultimate Solution to Fix and Stop Automatic Repairs in Windows 11 Once and For All</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-10-best-photo-watermarking-software-for-2024/"><u>Top 10 Best Photo Watermarking Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-pasting-issues-on-windows-10-pc/"><u>Troubleshooting Pasting Issues on Windows 10 PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-10-photo-grid-apps-to-make-your-pictures-stand-out/"><u>[New] Top 10 Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cyclic-redundancy-check-solutions-for-reliable-data-verification/"><u>Cyclic Redundancy Check: Solutions for Reliable Data Verification</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-nier-automata-pc-lagging-problems-complete-guide/"><u>Fix Your Nier Automata PC Lagging Problems – Complete Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ford-begins-distribution-of-the-revolutionary-f-150-lightning-ev-pickup/"><u>Ford Begins Distribution of the Revolutionary F-150 Lightning EV Pickup</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/gratis-progrma-de-backup-para-windows-10-8-e-7-eficiente-solucao-de-sincronizacao-de-arquivos/"><u>Grátis: Progrma De Backup Para Windows 10, 8 E 7 - Eficiente Solução De Sincronização De Arquivos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-undetected-bluetooth-devices-in-windows-10-easy-solutions/"><u>How to Fix Undetected Bluetooth Devices in Windows 10 | Easy Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Hot 30 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-future-of-wagering-vegas-pros-evolution-in-21/"><u>In 2024, The Future of Wagering Vegas Pro's Evolution in '21</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-art-of-drives-manual-tweaks-for-xp-users/"><u>The Art of Drives: Manual Tweaks for XP Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-solutions-how-to-fix-forza-horizon-4-not-starting/"><u>Top Solutions: How To Fix Forza Horizon 4 Not Starting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-right-click-not-responding-in-windows-10-computers/"><u>Troubleshoot and Fix: Right Click Not Responding in Windows 10 Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trustworthiness-of-ai-enhancements-gpt-apps-reviewed/"><u>Trustworthiness of AI Enhancements: GPT Apps Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-required-fixing-incompatible-device-drivers-on-windows-operating-systems/"><u>Update Required: Fixing Incompatible Device Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-unleashing-your-creative-potential-the-comprehensive-guide-to-volume-automation-and-ducking-with-adobe-premiere-pro-mac-edition/"><u>Updated In 2024, Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition)</u></a></li>
 </ul></div>
 

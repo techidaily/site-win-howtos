@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 0X80070#643 Update Failures - Expert Solutions
-date: 2024-08-23T14:05:14.072Z
-updated: 2024-08-24T14:05:14.072Z
+date: 2025-02-05T00:29:54.488Z
+updated: 2025-02-07T10:33:22.752Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/unreachable.jpg)
 
  When you trying to update or download a game, you may encounter this message “An error occurred while updating Deus Ex: Mankind Divided (**content servers unreachable** )”. It’s annoying. Don’t worry, you’re not alone. This problem should easy to be fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -39,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 3. In the Download tab, in the Download Region section change the region in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/un2.jpg)
 4. Restart Steam and you’re all set.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Change your proxy settings
 
  Proxy servers can be used to open the restrictions of Internet access. The proxy can track the network and provide an alternate gate for users. But this feature often becomes the boundary for Steam to connect with its servers. So, disable your proxy settings may help you solve the problem.
@@ -50,18 +51,36 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 2. Type “inetcpl.cpl” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/inetcpl.jpg)
 3. Choose the**Connections** tab and click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/lan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Uncheck “**Automatically detect settings** “. Click**OK** to finish setting.![](https://images.drivereasy.com/wp-content/uploads/2019/07/lan1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Relaunch Steam and check your download speed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Turn off your router’s safe-web
 
  The “Steam Content Servers Unreachable” can be caused by your Wi-Fi router. It’s because your Wifi router may have a setting called safe-web. This setting is designed to protect your computer by filtering websites and data that it believes are not trustworthy. But it is possible that it list Steam as untrustable. Therefore, turning off this setting may help you solve the problem.
 
  Due to the various brands in the market, you can go to your Wifi router’s official website to find a way to turn off this setting. You can also contact the manufacturer for help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Run steam://flushconfig
 
@@ -71,9 +90,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Press the**Windows logo key + R** to open the Run box.
 2. Type “steam://flushconfig” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam.jpg)
 3. Click**OK** in the jump-out window.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/cmd.jpg)
 4. Run Steam and login. Download your game again.
 
@@ -83,9 +99,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. Right-click on the Steam icon and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam-icon.jpg)
 2. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam-1.jpg)
 3. Run Steam. You should be able to download games smoothly.
 
@@ -97,9 +110,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **IMPORTANT** : Be extra careful in using the Internet after uninstalling/disabling your antivirus software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Bonus tip: Update your drivers
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter issues like crashing, freezing, or not launching. So it’s really important to keep your drivers updating to improve your gaming experience.
@@ -128,15 +138,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -152,8 +160,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +167,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-a-comprehensive-guide-to-mac-audio-recording-with-audacity/"><u>[New] In 2024, A Comprehensive Guide to Mac Audio Recording with Audacity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-elevating-systems-essential-tips-for-successful-upgrades/"><u>[New] In 2024, Elevating Systems Essential Tips for Successful Upgrades</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlock-efficiency-screen-recording-on-mac-via-keyboard-shortcuts/"><u>[New] Unlock Efficiency Screen Recording on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-immerse-slides-with-audio-harmony/"><u>[Updated] 2024 Approved Immerse Slides with Audio Harmony</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-ace-your-youtube-live-with-these-7-powerful-live-streaming-apps-iosandroid-os/"><u>2024 Approved Ace Your YouTube LIVE with These 7 Powerful Live Streaming Apps (iOS/Android OS)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automating-ai-setting-up-auto-gpt/"><u>Automating AI: Setting up Auto-GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-audio-glitches-repair-the-astro-a40s-nonfunctional-mic/"><u>Fixing Audio Glitches: Repair the Astro A40's Nonfunctional Mic</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-pcmaclaptop-easy-obs-setup-for-fb-livestreaming/"><u>In 2024, PC/Mac/Laptop Easy OBS Setup for FB Livestreaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/navigating-the-eerie-waters-of-robotic-care-with-harvards-innovative-tentacled-machine-safe-hands-for-fragile-goods/"><u>Navigating the Eerie Waters of Robotic Care with Harvard's Innovative Tentacled Machine – Safe Hands for Fragile Goods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205443789-overcoming-frequent-device-disconnection-a-comprehensive-approach-to-troubleshooting-usb-connectivity/"><u>Overcoming Frequent Device Disconnection: A Comprehensive Approach to Troubleshooting USB Connectivity.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-league-of-legends-lag-speeding-up-downloads-seamlessly/"><u>Resolve Your League of Legends Lag: Speeding Up Downloads Seamlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-steam-file-access-issues-a-comprehensive-solution-guide/"><u>Resolving Steam File Access Issues: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamline-your-files-management-on-windows-11-a-comprehensive-file-explorer-tutorial/"><u>Streamline Your Files Management on Windows 11 - A Comprehensive File Explorer Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-essence-and-recovery-methods-from-missing-xinput13dll/"><u>The Essence & Recovery Methods From Missing XINPUT1_3.dll</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-unresponsive-dns-server-top-4-quick-resolution-techniques/"><u>Troubleshoot Unresponsive DNS Server: Top 4 Quick Resolution Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-pubg-startup-issues-expert-solutions-launch-problems/"><u>Troubleshooting and Fixing PUBG Startup Issues - Expert Solutions Launch Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-resolving-opengl-issues-in-minecraft/"><u>Ultimate Guide to Resolving OpenGL Issues in Minecraft</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-updated-parrot-ar-drone-experience/"><u>Unveiling The Updated Parrot AR Drone Experience</u></a></li>
+</ul></div>
 

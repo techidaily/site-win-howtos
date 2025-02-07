@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing 'Has Occurred Error' In Windows 10, 7 & 8 Successfully
-date: 2024-08-23T14:08:58.830Z
-updated: 2024-08-24T14:08:58.830Z
+date: 2025-02-03T13:45:46.003Z
+updated: 2025-02-07T03:09:56.350Z
 tags:
   - win11
   - win10
@@ -70,6 +70,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745a21077c1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745aa5541bd.png)
@@ -77,6 +81,10 @@ Follow these steps:
  3) Clear option **Give me updates for other Microsoft products when I update Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745b19a3f8e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer.
 
@@ -94,6 +102,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487e7dd051.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Delete Some Related Files**
 
  The error can be caused by some corrupted related files. Deleting those files may fix the Windows Update **0x800705b4** error.
@@ -106,20 +118,18 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746f3a14981.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click **Windows Update**  then select**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746fbb6d514.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Open **Windows Explorer** and navigate to “**C:\\Windows\\SoftwareDistribution** “.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874704edc0c2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Delete all the content in this folder. (Some files may not be deleted, in this case, go back to Step 3 and try again. Just ensure to delete “Download” and “DeliveryOptimation”.)
 
  6) Restart your PC and check to see if the error persists.
@@ -145,16 +155,15 @@ There are 2 ways to solve it. Here’s how:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -165,27 +174,30 @@ There are 2 ways to solve it. Here’s how:
  2) Type **cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer to check the blue screen issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to [Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Method 5: Perform a Clean Boot then Install the Updates Again
 
  If you are not sure how to perform a clean boot, see [How to Perform a Clean Boot in Windows 10](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 6: Update the Drivers
 
  The steps above may resolve the problem, but if they don’t, it’s time to update the drivers. If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with Driver Easy.
@@ -200,11 +212,19 @@ There are 2 ways to solve it. Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-440.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-441.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully methods here will help you resolve the 0x800705b4 error. If you have any questions, please feel free to leave your comments. I’d love to hear of any suggestions or ideas.
 
@@ -216,8 +236,6 @@ There are 2 ways to solve it. Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +243,26 @@ There are 2 ways to solve it. Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-essential-choice-10-budget-friendly-caption-tools/"><u>[New] 2024 Approved Essential Choice 10 Budget-Friendly Caption Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-transform-your-instagram-reels-into-high-quality-mp4-files-anywhere/"><u>[New] Transform Your Instagram Reels Into High-Quality MP4 Files Anywhere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-visuals-with-precision-5-top-tips-for-pros/"><u>[Updated] Crafting Visuals with Precision 5 Top Tips for Pros</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unboxing-titans-of-youtube-the-most-popular/"><u>[Updated] In 2024, Unboxing Titans of YouTube - The Most Popular</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-onestream-playbook-for-live-streamers/"><u>[Updated] The Ultimate OneStream Playbook for Live Streamers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-virtual-wit-wizardry/"><u>2024 Approved Virtual Wit Wizardry</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/cookiebot-driven-optimization-skyrocketing-your-seo-success-overnight/"><u>Cookiebot-Driven Optimization: Skyrocketing Your SEO Success Overnight!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-the-constant-restart-problem-in-windows-10/"><u>Easy Fixes for the Constant Restart Problem in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-network-cable-unplugged-errors-in-windows/"><u>Fix Network Cable Unplugged Errors in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-audio-issue-in-forza-horizon-4-now-with-full-restored-sound/"><u>Fixed: Audio Issue in Forza Horizon 4 - Now with Full Restored Sound</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-print-screen-on-your-windows-pc-windows-1011/"><u>How to Fix a Non-Responsive Print Screen on Your Windows PC (Windows 10/11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-audio-control-in-windows-10-easy-solutions-for-non-responsive-volume-buttons/"><u>How To Restore Audio Control in Windows 10 - Easy Solutions for Non-Responsive Volume Buttons</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amp-up-your-humor-arsenal-kapwings-meme-creator/"><u>In 2024, Amp Up Your Humor Arsenal – Kapwing's Meme Creator</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-dvd-upgrading-comprehensive-tutorial-for-turning-dvds-into-crystal-clear-480p-60fps-videos/"><u>Master the Art of DVD Upgrading: Comprehensive Tutorial for Turning DVDs Into Crystal Clear 480P 60FPS Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206963731-no-signal-from-chromecast-master-these-fixes-for-seamless-streaming/"><u>No Signal From Chromecast? Master These Fixes for Seamless Streaming!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-app-openness-hurdles-in-the-admin-environment-solution/"><u>Overcoming App Openness Hurdles in the Admin Environment [Solution]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-unknown-usb-device-port-reset-failed-error-on-your-windows-11-pc-a-comprehensive-guide/"><u>Solving the 'Unknown USB Device (Port Reset Failed)' Error on Your Windows 11 PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamline-your-file-management-with-these-windows-11-explorer-hacks/"><u>Streamline Your File Management with These Windows 11 Explorer Hacks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-gionee-by-drfone-android/"><u>Three Ways to Sim Unlock Gionee</u></a></li>
+</ul></div>
 

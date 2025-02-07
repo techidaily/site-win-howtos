@@ -1,7 +1,7 @@
 ---
 title: "Guide: Successfully Repairing 'Unknown USB Device Detected - Port Reset' Problems in Windows 10"
-date: 2024-08-23T14:05:57.673Z
-updated: 2024-08-24T14:05:57.673Z
+date: 2025-02-03T09:35:58.676Z
+updated: 2025-02-06T21:50:20.199Z
 tags:
   - win11
   - win10
@@ -36,8 +36,21 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 
 1. On your keyboard, press**the Windows logo key** and type**troubleshoot** . In the list of search results, select **Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap392-1.png)
 2. In the pop-up window, select**Windows Update** and click**Run the troubleshooter** . You’ll be prompted for permission. Click**Yes** to run**Windows Update troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap393.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Restart the Windows Update service**
 
@@ -51,20 +64,24 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 4. **Delete** all the files in the folder **DataStore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap399.png)  
  When all the files are deleted, you shall see “This folder is empty”.
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.**`C:\Windows\SoftwareDistribution\Download`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. **Delete** all the files in the folder   **Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap401.png)  
  When all the files are deleted, you shall see “This folder is empty”.
  Perform a Windows update again. If it still doesn’t work, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### **Fix 3: Run the DISM tool**
 
  The error code 0xc1900208 can also be triggered by the corrupted Windows update files. In this case, running **the Deployment Image Servicing and Management (DISM) tool**  may resolve this issue. Just follow the step-by-step instructions below to run the DISM tool:
@@ -75,9 +92,11 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
     When you run command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap403.png)  
     It may take several minutes for this command operation to be completed.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    2. **Dism /Online /Cleanup-Image /CheckHealth**  
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
@@ -86,15 +105,9 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
     The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 4: Running System File Checker**
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. When you see the error code 0xc1900208, it may be caused by some corruption error. Running System File Checker may help you resolve this issue. Here is how to do it:
@@ -107,9 +120,6 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 3. When this command operation is completed, close **Command Prompt** .
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
 
  You can try downloading the updates you failed to install from[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx)  and install them manually. Here is how to do it:
@@ -119,31 +129,31 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 3. Before you download the update, follow the instructions below to view your system type:  
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
 6. In the list of search results, select right update for your operating system and click **Download** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
-8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
+See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
+
 ### **Pro tip: Want us to fix the problem for you?**
 
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you.  All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
@@ -161,8 +171,6 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +178,26 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easing-into-your-youtube-watches-3-methods-50-chars/"><u>[New] 2024 Approved Easing Into Your YouTube Watches 3 Methods (50 Chars)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-cutting-edge-techniques-for-setting-the-optimal-size-of-your-youtube-videos/"><u>[New] In 2024, Cutting-Edge Techniques for Setting the Optimal Size of Your YouTube Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-complete-testimonials-of-gecatas-recorder/"><u>[Updated] In 2024, Complete Testimonials of Gecata's Recorder</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-narzo-n53-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme Narzo N53</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-on-windows-10-heres-how-to-fix-it/"><u>Bluetooth Woes on Windows 10? Here's How to Fix It</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-gaming-experience-solve-lagging-issues-and-increase-fps-on-warzone/"><u>Boost Your Gaming Experience – Solve Lagging Issues & Increase FPS on Warzone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-xbox-and-windows-through-drivers/"><u>Bridge XBox and Windows Through Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-0x800f0922-glitch-a-guide-for-successful-windows-11-updates/"><u>Bypassing the 0X800F0922 Glitch: A Guide for Successful Windows 11 Updates</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-your-hands-on-new-dj-mixer-firmware-version-31703-by-pcdj-now-available/"><u>Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/hitting-the-high-score-in-ps4-game-capture-mastery/"><u>Hitting the High Score in PS4 Game Capture Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-windows-10-screen-saver-functionality-complete-solution/"><u>How To Restore Your Windows 10 Screen Saver Functionality - Complete Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-trick-to-keep-your-cs-go-game-running-smoothly/"><u>Master the Trick to Keep Your CS GO Game Running Smoothly</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/modern-methods-of-mixing-media-the-latest-on-adding-sound-to-ae-projects-2023s-insights-and-tips-for-2024/"><u>Modern Methods of Mixing Media The Latest on Adding Sound to AE Projects (2023S Insights and Tips) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/see-event-may-27-1940-the-united-states-raises-tariffs-again-on-many-goods-from-countries-still-in-world-war-ii-relating-to-interest-rates-as-it-shows-the-i46/"><u>See Event [May 27, 1940]: The United States Raises Tariffs Again on Many Goods From Countries Still in World War II, Relating to 'Interest Rates' As It Shows the Intersection of Fiscal and Monetary Policy Impacting Markets.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-overcoming-keyboard-input-issues-now-working/"><u>Solution Found: Overcoming Keyboard Input Issues - Now Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-role-of-msdia80dll-should-you-save-or-remove-this-file/"><u>The Role of msdia80.dll - Should You Save or Remove This File?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-12-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme 12 Pro 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-persistent-boot-failures-in-windows-11-computers/"><u>Understanding & Fixing Persistent Boot Failures in Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-missing-program-cant-start-on-windows-11-solved/"><u>VCRUNTIME140.dll Missing, Program Can't Start on Windows 11 [Solved]</u></a></li>
+</ul></div>
 

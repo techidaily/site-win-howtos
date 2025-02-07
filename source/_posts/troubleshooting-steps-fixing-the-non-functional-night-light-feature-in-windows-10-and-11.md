@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fixing the Non-Functional Night Light Feature in Windows 10 & 11"
-date: 2025-01-21T17:43:36.300Z
-updated: 2025-01-25T17:10:35.147Z
+date: 2025-02-05T11:25:37.608Z
+updated: 2025-02-07T04:12:30.679Z
 tags:
   - win11
   - win10
@@ -44,25 +44,25 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -77,20 +77,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -100,18 +96,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -137,20 +137,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-merging-youtube-soundtracks-to-cinematic-scenes/"><u>[New] Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-navigating-through-video-post-errors-on-iphoneandroid-fb-chat-platform-for-2024/"><u>[New] Navigating Through Video Post Errors on iPhone/Android FB Chat Platform for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-splendid-screenplay-strategies-for-spectaculous-lights/"><u>[New] Splendid Screenplay Strategies for Spectaculous Lights</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-exploring-virtual-speed-best-vr-treadmills-ranked/"><u>[Updated] 2024 Approved Exploring Virtual Speed Best VR Treadmills Ranked</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-aerial-imagery-crews-the-10-drones/"><u>[Updated] Premium Aerial Imagery Crews The #10 Drones</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-sparkle-in-your-ads-20-most-effective-marketing-terms-for-2024/"><u>[Updated] Sparkle in Your Ads 20 Most Effective Marketing Terms for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-mac-desktop-video-recording-app-movavi-for-macos-users/"><u>Best Mac Desktop Video Recording App - Movavi for macOS Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-no-cost-editing-programs-for-your-windows-7-pc/"><u>Best No-Cost Editing Programs for Your Windows 7 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-video-transformez-vos-fichiers-f4v-en-format-mov-avec-ease/"><u>Conversion Gratuite Vidéo : Transformez Vos Fichiers .f4v en Format .mov Avec Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easily-convert-your-mp2-audio-to-flac-using-movavis-no-cost-web-service/"><u>Easily Convert Your MP2 Audio to FLAC Using Movavi's No-Cost Web Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/een-vriendelijk-quiz-oprichten-de-twee-veilige-wegwijzen/"><u>Een Vriendelijk Quiz Oprichten: De Twee Veilige Wegwijzen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/resolving-microsoft-edge-browsing-problems-a-step-by-step-guide-by-yl-computing/"><u>Resolving Microsoft Edge Browsing Problems: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-pick-5-optimal-computer-systems-enhancing-your-video-editing-experience/"><u>Ultimate Pick: 5 Optimal Computer Systems Enhancing Your Video Editing Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/onestorage-tod-movavi/"><u>이웃의 ONESTORAGE에서 원할로잉으로 TOD 자동 변환 - MOVAVI</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715859599098-new-ultimate-recorder-select-top-12-no-timer/"><u>[New] Ultimate Recorder Select Top 12, No Timer!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-melody-matters-device-reviews/"><u>[Updated] Melody Matters Device Reviews</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-15-pro-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 15 Pro Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banishing-shadows-solutions-for-startup-screen-troubles-in-monster-hunter-world/"><u>Banishing Shadows: Solutions for Startup Screen Troubles in Monster Hunter: World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-media-connection-errors-in-windows-systems-expert-tips-and-tricks/"><u>Fixing Media Connection Errors in Windows Systems – Expert Tips and Tricks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 13 mini</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-google-chrome-not-responding-restart-tips/"><u>Resolving 'Google Chrome Not Responding' - Restart Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-keyboard-issues-spacebar-malfunction-on-microsofts-latest-operating-system/"><u>Resolving Keyboard Issues - Spacebar Malfunction on Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-steps-to-switch-from-android-contacts-to-iphone-effortlessly/"><u>Simple Steps to Switch From Android Contacts to iPhone Effortlessly</u></a></li>
 </ul></div>
 

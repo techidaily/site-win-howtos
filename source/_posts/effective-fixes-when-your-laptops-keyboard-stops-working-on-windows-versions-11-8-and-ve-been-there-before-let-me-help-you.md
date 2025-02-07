@@ -1,7 +1,7 @@
 ---
 title: "Effective Fixes When Your Laptop's Keyboard Stops Working on Windows Versions: 11, 8, and Ve Been There Before! Let Me Help You."
-date: 2025-01-19T18:41:56.441Z
-updated: 2025-01-25T16:34:52.369Z
+date: 2025-02-04T04:24:34.217Z
+updated: 2025-02-07T13:13:14.566Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,6 +51,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -67,15 +67,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
@@ -84,11 +80,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Change boot order in BIOS
 
@@ -105,7 +101,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -116,6 +112,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -125,7 +125,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -154,15 +154,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-ae-essentials-the-most-loved-templates/"><u>[New] 2024 Approved Instagram AE Essentials The Most Loved Templates</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-transitioning-saved-snaps-from-social-networks-to-personal-archive/"><u>[New] Transitioning Saved Snaps From Social Networks to Personal Archive</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-y27-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo Y27 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-restoring-access-to-steam-digital-assets-and-servers/"><u>Expert Tips on Restoring Access to Steam Digital Assets and Servers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-persistent-keyboard-delay-issues-on-windows-11/"><u>How to Fix Persistent Keyboard Delay Issues on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-when-windows-10-ignores-your-bluetooth-connections-expert-tips-inside/"><u>Master the Fix for When Windows 10 Ignores Your Bluetooth Connections: Expert Tips Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-hurdles-advanced-methods-to-fix-airpods-syncing-in-202e/"><u>Overcoming Window's Hurdles: Advanced Methods to Fix AirPods Syncing in 202E</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-convert-large-files-from-avi-to-mp4-online/"><u>Ultimate Guide: Convert Large Files From AVI to MP4 Online</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-12-pro-max-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 12 Pro Max</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728488890868-windows-11-hdd/"><u>Windows 11 システムのスムーズな移行:新HDDへの絶妙な設定手順</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>[Updated] In 2024, Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-quick-tips-for-embedding-timestamps-into-youtube-videos-for-2024/"><u>[Updated] Quick Tips for Embedding Timestamps Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/agriculture-amalgamations-best-agrigames-to-share-with-pals-for-2024/"><u>Agriculture Amalgamations Best AgriGames to Share with Pals for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cant-locate-your-sd-card-here-to-guide-you/"><u>Can't Locate Your SD Card? Here to Guide You!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-for-bose-audio-systems-that-wont-turn-on/"><u>Common Problems & Fixes for Bose Audio Systems That Won't Turn On</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-iphone-models-whats-new-in-the-iphone-15-pro-vs-iphone-14-pro-tech-insights/"><u>Comparing iPhone Models: What's New in the iPhone 15 Pro Vs. IPhone 14 Pro | Tech Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-user-profile-service-failed-to-sign-in-error-on-windows-pcs/"><u>Fixing the 'User Profile Service Failed to Sign In' Error on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-persistent-0x8024402c-error-during-your-windows-updates-complete-guide/"><u>Fixing the Persistent 0X8024402C Error During Your Windows Updates - Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-s-pc-malfunctions-heres-how-to-stabilize-and-fix-it/"><u>House Flipper S PC Malfunctions? Here's How to Stabilize and Fix It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-unresponsive-function-keys/"><u>How to Troubleshoot Unresponsive Function Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improve-scanner-connectivity-with-epson-solutions/"><u>Improve Scanner Connectivity with Epson Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-dynamic-range-magic-creating-captivating-hdr-portraits/"><u>In 2024, Dynamic Range Magic Creating Captivating HDR Portraits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210757311-netflix-not-working-diagnose-and-solve-common-streaming-problems-today/"><u>Netflix Not Working: Diagnose & Solve Common Streaming Problems Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-restore-flash-player-functionality-on-google-chrome/"><u>Resolved: How to Restore Flash Player Functionality on Google Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-dilemma-step-by-step-guide-to-overcoming-glexttexturecompression-level-compression-format-opengl-error-1281/"><u>Resolving the Dilemma: Step-by-Step Guide to Overcoming GL_EXT_texture_compression Level Compression Format OpenGL Error #1281</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/siri-takes-over-from-bing-in-apples-ecosystem-discover-how-this-shift-will-revolutionize-ai-integration/"><u>Siri Takes Over From Bing in Apple's Ecosystem – Discover How This Shift Will Revolutionize AI Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-troubleshooting-and-repairing-stuck-file-explorer-on-windows-10/"><u>Solved! Troubleshooting and Repairing Stuck File Explorer on Windows 10</u></a></li>
 </ul></div>
 

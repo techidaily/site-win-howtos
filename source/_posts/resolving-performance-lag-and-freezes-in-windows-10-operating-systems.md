@@ -1,7 +1,7 @@
 ---
 title: Resolving Performance Lag and Freezes in Windows 10 Operating Systems
-date: 2024-08-23T14:07:32.083Z
-updated: 2024-08-24T14:07:32.083Z
+date: 2025-02-02T21:03:17.343Z
+updated: 2025-02-07T10:16:49.710Z
 tags:
   - win11
   - win10
@@ -33,7 +33,15 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Virus & threat protection settings** .
 
@@ -51,16 +59,21 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
 
 1) On your keyboard, press **the**   **Windows logo key**  and**R** at the same time , then copy & paste **taskschd.msc** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
@@ -70,31 +83,34 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click the**Triggers** tab >**New…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
@@ -105,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4829b314bed.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Locate and double-click on **Computer Configuration** \>**Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
@@ -120,14 +133,12 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 5) Restart your computer and see if your computer runs normally now.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Want us to fix the problem for you?
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
@@ -142,8 +153,6 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +160,24 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigate-age-confirmation-swiftly-on-tiktok/"><u>[New] In 2024, Navigate Age Confirmation Swiftly on TikTok</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-crafting-a-balanced-narrative-with-b-roll-content/"><u>[Updated] In 2024, Crafting a Balanced Narrative with B-Roll Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-restoring-iphone-x-identity-check-reviving-face-recognition/"><u>[Updated] In 2024, Restoring iPhone X Identity Check Reviving Face Recognition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-culinary-journey-worldwide-popular-foods-and-recipes/"><u>2024 Approved Culinary Journey Worldwide Popular Foods & Recipes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-decoding-the-mysteries-of-outdated-facebook-sharing-pcmobile-style/"><u>2024 Approved Decoding the Mysteries of Outdated Facebook Sharing, PC/Mobile Style</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/6-fixes-for-werfaultexe-application-error-on-windows/"><u>6 Fixes for WerFault.exe Application Error on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-to-fix-connection-problems-with-your-microsoft-wireless-adapter-for-windows-10/"><u>A Step-by-Step Guide to Fix Connection Problems with Your Microsoft Wireless Adapter for Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/defeating-the-invalid-captcha-obstacle-in-steam/"><u>Defeating the 'Invalid CAPTCHA' Obstacle in Steam</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked On Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-store-apps-malfunction-due-to-corrupted-cache-solution-found/"><u>How to Fix Windows Store Apps Malfunction Due to Corrupted Cache - SOLUTION FOUND</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-select-proper-boot-device-error-during-windows-startup-a-simple-guide/"><u>How to Solve 'Select Proper Boot Device' Error During Windows Startup – A Simple Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-cool-climates-with-a-warm-twist-selecting-video-bgs/"><u>In 2024, Cool Climates with a Warm Twist Selecting Video Bg's</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-common-hurdles-in-windows-update-procedures/"><u>Overcoming Common Hurdles in Windows Update Procedures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-inaccessible-windows-installation-services/"><u>Overcoming The Challenge of Inaccessible Windows Installation Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-kodi-buffering-errors-with-these-simple-solutions/"><u>Say Goodbye to Kodi Buffering Errors with These Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successfully-addressing-invalid-directory-names/"><u>Troubleshooting Successfully: Addressing Invalid Directory Names</u></a></li>
+<li><a href="https://win-docs.techidaily.com/troubleshooting-windows-11-how-to-fix-backup-0-bytes-issue/"><u>Troubleshooting Windows 11 - How To Fix 'Backup 0 Bytes' Issue</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dormant Device Dilemma: Stubborn Systems on Windows"
-date: 2025-01-21T17:30:00.277Z
-updated: 2025-01-25T16:16:42.067Z
+date: 2025-01-31T11:28:48.743Z
+updated: 2025-02-06T21:10:21.395Z
 tags:
   - win11
   - win10
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0dfaa5c648.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Double-click on**Keyboards** \>**your keyboard device** .  
@@ -53,8 +53,16 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e0e0c5d00.jpg)
 3. Click**Power Management** and check**the box** before**Allow this device to wake the computer** and then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e19bdf16d.png)
 4. Repeat this fix with your other keyboard devices
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Then expand the category**Mice and other pointing devices** , and repeat the same with all your mouse devices there, including your touchpad.
 6. If you have any Bluetooth devices, please repeat the same so they don’t turn your computer off.
@@ -77,12 +85,16 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Put your machine to sleep and wake it up again to check if the issue is resolved. If yes, then congrats! If the problem persists, please move on to**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Turn off fast startup
@@ -99,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure **the box** before **Turn on fast startup (Recommended)** is **unchecked** , then click **Save changes** and close the window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Check to see if the computer wakes up issue is solved.
 
@@ -114,19 +130,15 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/cmd123.jpg)  
  Click**Yes** when prompted with a**User Account Control** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Type **powercfg.exe /hibernate off && powercfg.exe /hibernate on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/power.png)
 3. Again, try to put your PC to sleep and wake it up to see if it functions properly. If yes, then you’ve resolved the issue! If it’s still not waking up, you should try**Fix 5** , below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## Fix 5: Tweak power settings
 
@@ -134,30 +146,18 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e5db4f467.png)
 2. Click**the chosen power plan** and click**Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e616c565c.jpg)
 4. Double-click on**Sleep** , then set**Allow hybrid sleep** in**Off** and set**Allow wake timers** to**Enable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/computer-wake-up-1.png)
 5. Click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Restart your computer, test on your machine again and see if it wakes up without fail.
 
@@ -199,16 +199,24 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-getting-acquainted-with-zoom-segregated-sessions/"><u>[New] 2024 Approved Getting Acquainted with Zoom Segregated Sessions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-art-of-documenting-xbox-playtime-online/"><u>[New] 2024 Approved The Art of Documenting Xbox Playtime Online</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-effortless-webcam-recordings-on-hp-systems/"><u>[New] Effortless Webcam Recordings on HP Systems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ailored-tricks-building-a-personalized-youtube-follow-buttons-for-2024/"><u>[New] Tailored Tricks Building a Personalized YouTube Follow Buttons for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726222260753-avi-mp4-movavi/"><u>立即將 AVI 影片轉換成 MP4 的線上免費方法 - 運用 Movavi 技術</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726225772103-bmppng-movavi/"><u>網路直接無成本 BMP到PNG 轉換 - 使用Movavi的方法</u></a></li>
-<li><a href="https://win-superb.techidaily.com/como-guardar-una-copia-de-seguridad-efectiva-del-correo-hotmail-las-3-mejores-tacticas-en-un-solo-paso/"><u>Cómo Guardar Una Copia De Seguridad Efectiva Del Correo Hotmail: Las 3 Mejores Tácticas en Un Solo Paso</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/create-gifs-from-tiff-files-without-cost-discover-the-magic-of-movavis-web-based-tool/"><u>Create GIFs From TIFF Files Without Cost - Discover the Magic of Movavi's Web-Based Tool</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavimpeg3g2/"><u>Movaviアプリを使った無料MPEGから3G2への簡単なオンライン変換方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-18-best-free-video-compression-tools-of-2e24-windows-and-mac-compatible/"><u>Top 18 Best Free Video Compression Tools of 2E24 - Windows & Mac Compatible</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mpeg-vob-movavi/"><u>忙しいときもスムーズなMPEG VOBオンライン変換 – 無料Movaviサービス</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/abbyy-unveils-breakthrough-in-legal-tech-pioneering-text-analytics-for-efficient-contract-management-at-premier-corporate-counsel-conference/"><u>ABBYY Unveils Breakthrough in Legal Tech: Pioneering Text Analytics for Efficient Contract Management at Premier Corporate Counsel Conference</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-5-2500u-latest-firmware-update-fast-and-simple-installation/"><u>AMD Ryzen 5 2500U Latest Firmware Update - Fast and Simple Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-everlasting-flash-tips-and-tricks-for-controlling-your-cursor/"><u>Beat The Everlasting Flash: Tips and Tricks for Controlling Your Cursor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enrich-your-art-through-6-premier-nft-platforms-for-2024/"><u>Enrich Your Art Through 6 Premier NFT Platforms for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-word-2023-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to Word 2023</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-for-err-too-many-redirects-easy-steps-inside/"><u>Quick Fix for ERR TOO MANY REDIRECTS – Easy Steps Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-repair-a-non-functioning-huion-stylus/"><u>Quick Solutions: How To Repair A Non-Functioning Huion Stylus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-of-windows-update-failure-error-0x80240017-unraveled/"><u>Solving the Puzzle of Windows Update Failure - Error 0X80240017 Unraveled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-based-minecraft-startup-problems-a-step-by-step-guide-solved/"><u>Solving Windows-Based Minecraft Startup Problems: A Step-by-Step Guide [SOLVED]</u></a></li>
+<li><a href="https://games-able.techidaily.com/switching-futures-the-year-2024-glimpse/"><u>Switching Futures - The Year 2024 Glimpse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-for-fixing-excessive-cpu-use-by-svchostexe-on-windows-11-systems/"><u>Top Solutions for Fixing Excessive CPU Use by svchost.exe on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fix-solve-no-pen-or-touch-controls-on-your-screen/"><u>Troubleshooting Fix: Solve 'No Pen or Touch Controls' On Your Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-reactivating-wireless-connectivity-on-devices/"><u>Troubleshooting Guide: Reactivating Wireless Connectivity on Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-d3d932dll-not-found-problem/"><u>Troubleshooting Steps for the d3d9_32.dll Not Found Problem</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-guide-to-sharper-meeting-experience-with-google/"><u>Ultimate Guide to Sharper Meeting Experience with Google</u></a></li>
+<li><a href="https://fox-info.techidaily.com/years-round-showcase-of-best-zero-toll-livestream-utilities-for-2024/"><u>Year's Round Showcase of Best Zero-Toll LiveStream Utilities for 2024</u></a></li>
 </ul></div>
 

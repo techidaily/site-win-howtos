@@ -1,7 +1,7 @@
 ---
 title: Why Does My Windows 11 Computer Activate Alone and How to Fix It?
-date: 2024-08-23T14:01:58.485Z
-updated: 2024-08-24T14:01:58.485Z
+date: 2025-02-04T09:49:20.040Z
+updated: 2025-02-07T00:14:36.012Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -42,6 +46,11 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 1. Right-click the**Start button** on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 If this fix didn’t help, try the next fix.
@@ -58,12 +67,13 @@ If this fix didn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
 
@@ -76,8 +86,9 @@ If this fix didn’t help, try the next fix.
 If this fix didn’t help, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -87,18 +98,11 @@ If this fix didn’t help, try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If your problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Fix 5: Restart RDP Clipboard Monitor
 
  RDP Clipboard Monitor allows the user to share the clipboard between the local and the remote desktop. If this process is not functioning as it’s supposed to, you may encounter a copy-paste problem when you’re using a remote desktop. To fix this, you may need to restart the RDP Clipboard Monitor process:
@@ -108,8 +112,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tip: Update your device drivers
 
  In general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -126,9 +131,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 ---
@@ -143,8 +145,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +152,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-noob-to-pro-making-the-list-of-popular-fb-songs-and-videos/"><u>[New] From Noob to Pro Making the List of Popular FB Songs and Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-masterclass-guide-screen-recording-hulu-videos-effortlessly/"><u>[Updated] Masterclass Guide Screen Recording Hulu Videos Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-to-fixing-the-disc-error-in-cod-warzone-version-50-and-31-on-pc/"><u>Complete Guide to Fixing the Disc Error in COD Warzone Version 5.0 and 3.1 on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-fixed-the-problem-with-my-diagnostic-tools-currently-inactive/"><u>How I Fixed the Problem with My Diagnostic Tools Currently Inactive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211734324-how-to-reactivate-disabled-internet-connection-on-your-pc-or-mobile-step-by-step-solution/"><u>How to Reactivate Disabled Internet Connection on Your PC or Mobile - Step by Step Solution</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-x-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone X without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207956611-laptop-microphone-not-working-heres-how-to-fix-it-right-now/"><u>Laptop Microphone Not Working? Here's How to Fix It Right Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/techie-treasures-top-budget-friendly-gadgets-from-how-to-geek-for-the-festive-season-of-2021/"><u>Techie Treasures: Top Budget-Friendly Gadgets From How-To Geek for the Festive Season of 2021</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-quest-for-your-own-specialized-tiktok-hash-code/"><u>The Quest for Your Own Specialized TikTok Hash Code</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-casting-issues-in-windows-10/"><u>Troubleshooting and Fixing Casting Issues in Windows 10</u></a></li>
+</ul></div>
 

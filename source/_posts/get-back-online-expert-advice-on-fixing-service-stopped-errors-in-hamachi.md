@@ -1,7 +1,7 @@
 ---
 title: "Get Back Online: Expert Advice on Fixing 'Service Stopped' Errors in Hamachi"
-date: 2024-08-23T14:03:32.857Z
-updated: 2024-08-24T14:03:32.857Z
+date: 2025-02-05T03:52:57.249Z
+updated: 2025-02-07T12:57:05.249Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on**Windows Management Instrumentation** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap55.jpg)
@@ -60,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Method 2: Configure the LogMeIn Hamachi Tunneling Engine
 
  1) On your keyboard, press the**Windows Key** (with Windows logo on it) +**R** together to open the Run box.
@@ -71,13 +72,18 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap54-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on**LogMeIn Hamachi Tunneling Engine** and click the**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap47-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Set the Startup type to**Automatic** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap49.jpg)
@@ -91,11 +97,16 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap62.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  7) In the address box, type “C:\\Program Files (x86)\\LogMeIn Hamachi”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap51.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Right-click on**hamachi-2-ui.exe** and open**Properties** .
 
@@ -109,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Method 3: Check your antivirus software
 
  The “Hamachi service stopped” error may be caused by your antivirus software. When Hamachi was blocked by your antivirus software, the error will appear.  
@@ -135,16 +142,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap66.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) On the open window, choose to view by**Catalog** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap67-1-1024x593.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click on**LogMeIn Hamachi** and click**Uninstall** .  
  Follow the on-screen instructions to finish the process.
 
@@ -159,9 +164,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 5: Create a startup to automatically restart the Hamachi service
 
  This method will lead you to create a script that helps you restart the Hamachi service automatically.
@@ -170,9 +175,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap70.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Copy and paste below lines into Notepad.
 
 net stop Hamachi2Svc  
@@ -191,23 +193,18 @@ exit
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap71.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) On your keyboard, press the**Windows key** (with Windows logo on it) +**R** together to open the Run box.  
  Type**taskschd.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap74.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  6) Click**Create Task** under the Actions menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap81.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Under the**General** tab, set a name for the task.  
  Then go down to Security options to check it’s**Run only when the user is logged on** .  
  Third, change the Configure into**Windows 10** . After that, click**OK** .
@@ -229,20 +226,18 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap79.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  12) Click the**Conditions** tab and unchecked everything. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  13) Next time you start your computer, Hamachi will restart the service automatically.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus: Update your drivers by 2 clicks
 
  In order to improve your VPN work performance, it’s important to keep your network adapter drivers up-to-date.  
@@ -253,6 +248,10 @@ exit
 OR
 
 **[Option 2 – Automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
 
@@ -285,8 +284,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +291,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamlining-video-communication-in-laptop-using-whatsapp-desktop/"><u>[New] 2024 Approved Streamlining Video Communication in Laptop Using WhatsApp Desktop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-anonymous-engagement-how-to-watch-instagram-stories-without-profile-reveal-pc-android-iphone/"><u>[New] Anonymous Engagement How to Watch Instagram Stories without Profile Reveal [PC, Android, iPhone]</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-enhancing-zoom-meetings-with-effects-for-2024/"><u>[New] The Ultimate Guide to Enhancing Zoom Meetings With Effects for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-rookie-marketers-into-pros-with-these-five-hacks/"><u>[New] Transforming Rookie Marketers Into Pros with These Five Hacks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unlock-your-creative-potential-an-overview-of-final-cut-pro-for-2024/"><u>[New] Unlock Your Creative Potential An Overview of Final Cut Pro for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-small-company-writers-guide-to-protected-video-chats/"><u>[Updated] In 2024, Small Company' Writers’ Guide to Protected Video Chats</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-leveraging-instagrams-story-segmenting-system-for-2024/"><u>[Updated] Leveraging Instagram's Story Segmenting System for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-master-the-art-of-pairing-your-devices-with-windows-nk/"><u>Bluetooth Woes? Master the Art of Pairing Your Devices with Windows Nk</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brightening-up-your-videography-gopro-fog-free-techniques-for-2024/"><u>Brightening Up Your Videography GoPro Fog-Free Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clearing-up-the-confusion-addressing-error-code-0x8007001f-in-windows-updates/"><u>Clearing Up the Confusion: Addressing Error Code 0X8007001f in Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/function-keys-malfunctioning-heres-what-you-can-do/"><u>Function Keys Malfunctioning? Here's What You Can Do!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-blackout-heres-how-to-restore-your-browsers-display/"><u>Google Chrome Blackout? Here's How to Restore Your Browser's Display</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-file-explorer-on-windows-10-quick-tips-and-tricks/"><u>Mastering File Explorer on Windows 10: Quick Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-recovery-with-system-file-checker-sfc-and-deployment-image-servicing-dism-tools/"><u>Mastering Windows 10 Recovery with System File Checker (SFC) and Deployment Image Servicing (DISM) Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-restart-loop-on-windows-11-or-10-a-step-by-step-guide/"><u>Overcome the Endless Restart Loop on Windows 11 or 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-game-lag-how-to-prevent-ready-or-not-from-crashing-on-different-operating-systems/"><u>Overcoming Game Lag: How to Prevent 'Ready Or Not' From Crashing on Different Operating Systems</u></a></li>
+</ul></div>
 

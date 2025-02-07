@@ -1,7 +1,7 @@
 ---
 title: "Get Connected Again: Correct Driver Installation for Overcoming Lenovo's Wireless Issues"
-date: 2024-08-23T14:07:09.111Z
-updated: 2024-08-24T14:07:09.111Z
+date: 2025-02-03T01:22:36.720Z
+updated: 2025-02-07T05:32:18.622Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 * **Windows 7** users can simply click the**Start** button >**All Programs** \> right-click**Internet Explorer** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9743f37f2ea.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Tip 2: **Reset Internet Explorer**
@@ -49,14 +53,18 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 4. Under**Reset Internet Explorer settings** , click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976cde69f2c.jpg)
 5. Click**Reset** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c49cc984.jpg)
 6. Click**Close** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c985acfc.png)
 7. Try to launch Internet Explorer, and it should respond normally now.
 
@@ -64,9 +72,6 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 3: Run System File Checker
 
  As Internet Explorer is a built-in browser, corrupted system files could cause IE not responding properly. Then you can use **System File Scanner**  to run a scan.
@@ -77,14 +82,13 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 2. **Right-click**  on **Command Prompt**  and select **Run as administrator**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97754fa8fce.jpg)
 3. Click **Yes**  at the **User Account Control** prompt.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97756bba070.jpg)
 4. Once Command Prompt is open, type the **sfc /scannow**  command and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:**  There’s a space between **sfc**  and **/scannow**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977592dab5b.jpg)
 5. When the verification reaches 100%, you’ll see something like this if issues were found and corrected:  
@@ -94,9 +98,6 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 4: Disable your security software
 
  It could also be possible that some piece of your security or antivirus software, say,Trusteer Rapport,  is causing the problem. Try disabling or uninstalling it to fix the issue, as it worked for some users. Here’s how to disable security software:
@@ -106,11 +107,16 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 2. Click the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977dc8cdc2e.png)
 3. Select the program(s) you want to disable and click the**Disable** button in the bottom right corner. Then, IE should open normally.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 5: **Restore your system to a restore point**
 
@@ -119,32 +125,25 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 1. Type **restore** in the Windows search box and select **Create a restore point**  or **System Restore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977ba6da9ba.jpg)
 2. When the **System Restore**  window pops up, select **Choose a different restore point**  and click **Next**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bc3e7e53.jpg)
 3. **Check**  the box beside **Show more restore points**  , and select a point in time when you remember IE was last working properly, then click   **Next.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977be68701e.jpg)
 4. Save any open files on your PC, then click   **Finish.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bff6dfa0.jpg)
 5. Click **Yes**  , and your PC will restart.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977c223e7c1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hopefully this can help you out.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -161,6 +160,10 @@ Hopefully this can help you out.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9785a75eb28.jpg)
 3. Click the **Update** button next to your network adapter driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _**all**_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9785e720824.jpg)
 
@@ -176,8 +179,6 @@ Please do reply if you got your problem fixed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +186,20 @@ Please do reply if you got your problem fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-methods-for-recording-youtube-live-streaming/"><u>[New] Essential Methods for Recording YouTube LIVE Streaming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-complete-guide-to-customizing-your-game-characters-sound-identity-free-solution-included-for-2024/"><u>[New] The Complete Guide to Customizing Your Game Character's Sound Identity (Free Solution Included) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-guide-to-the-lg-bp350-visual-experience/"><u>[New] Ultimate Guide to the LG BP350 Visual Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-resolving-launch-errors-easy-anti-cheat-wont-start-with-new-world-game/"><u>[SOLUTION FOUND] Resolving Launch Errors: Easy Anti-Cheat Won't Start with New World Game</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-desktop-capture-the-windows-user-guide/"><u>[Updated] Desktop Capture The Windows User Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tailored-soundscapes-key-audio-setup-for-podcasters/"><u>2024 Approved Tailored Soundscapes Key Audio Setup for Podcasters</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-your-pdfs-into-editable-text-formats-at-no-cost-maintain-the-original-layout-discover-flipbuildercom/"><u>Convert Your PDFs Into Editable Text Formats at No Cost - Maintain the Original Layout [Discover FlipBuilder.com!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-opinion-on-mophies-powerstation-ac-charger-worth-every-penny-for-its-ease-of-use/"><u>Expert Opinion on Mophie's Powerstation AC Charger - Worth Every Penny for Its Ease of Use</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-implemented-for-geforce-experiences-inability-to-load-settings-correctly/"><u>Fix Implemented for GeForce Experience's Inability to Load Settings Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-non-responsive-file-explorer-problems-in-windows-11-step-by-step-solutions/"><u>How to Fix Non-Responsive File Explorer Problems in Windows 11 – Step by Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-your-pcs-display-from-randomly-twinkling-on-windows-10/"><u>How to Stop Your PC's Display From Randomly Twinkling on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-kb4056892-patch-for-windows-10-version-1903-a-step-by-step-guide-to-smooth-installation/"><u>Mastering the KB4056892 Patch for Windows 10 Version 1903 – A Step-by-Step Guide to Smooth Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-fixed-guide-to-troubleshooting-building-load-issues/"><u>PUBG: Fixed Guide to Troubleshooting Building Load Issues</u></a></li>
+</ul></div>
 

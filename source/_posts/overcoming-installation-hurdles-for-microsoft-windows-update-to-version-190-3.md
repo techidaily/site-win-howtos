@@ -1,7 +1,7 @@
 ---
 title: Overcoming Installation Hurdles for Microsoft Windows Update to Version 190 3
-date: 2025-01-22T17:27:24.113Z
-updated: 2025-01-25T16:59:39.978Z
+date: 2025-02-04T06:19:53.622Z
+updated: 2025-02-07T06:30:10.201Z
 tags:
   - win11
   - win10
@@ -52,16 +52,12 @@ You should first uninstall the printer from your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Printers** section, right click on your**printer** , and select**Remove device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155dae8d27.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)**Confirm** to delete the printer.
 
@@ -79,6 +75,10 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16c4e6d68c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Wait for your Windows to search your printer.
 
 4) After searching, select your printer, and click**Next** to install.
@@ -89,17 +89,9 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Try to have a test print to see if your error disappears.
 
  This should resolve the issue. If not, we have something else you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2\. Reinstall your printer driver
 
@@ -107,12 +99,16 @@ Now you should reinstall your printer to your computer.
 
  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16dab47de2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double click**Printers** to expand it, and right click on your printer (it may show as**Unknown device** ), and select**Uninstall device** .
@@ -148,7 +144,7 @@ Now you should reinstall your printer to your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
@@ -156,6 +152,10 @@ Now you should reinstall your printer to your computer.
  Or click **Update**  **All**   to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click _**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae1720acdb02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer, and try your printer to see if the error disappears.
 
@@ -178,22 +178,20 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-inside-acid-pro-benchmarking-alternatives/"><u>[New] Inside ACID Pro Benchmarking Alternatives</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-content-strategy-after-the-facebook-revamp-for-2024/"><u>[New] Mastering Content Strategy After the Facebook Revamp for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-instant-aspect-ratio-tuning-for-youtube-on-mac/"><u>[Updated] Instant Aspect Ratio Tuning for Youtube on Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-leading-5-high-quality-webcams-with-audio-support/"><u>[Updated] Leading 5 High-Quality Webcams with Audio Support</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-lava-blaze-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze 2 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dxgidll-quest-triumphantly-tackled-in-pubg/"><u>Dxgi.dll Quest: Triumphantly Tackled in PUBG</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-struggles-with-finding-appropriate-printer-drivers-solution/"><u>Fix: Windows Struggles with Finding Appropriate Printer Drivers - SOLUTION</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-unresponsive-keyboard-buttons-in-windows-pcs/"><u>Fixing the Issue of Unresponsive Keyboard Buttons in Windows PCs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-nord-n30-se-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change OnePlus Nord N30 SE Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-professional-motion-blur-techniques-for-digital-artists/"><u>In 2024, Professional Motion Blur Techniques for Digital Artists</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-vanishing-point-restoring-your-windows-11-touchpad-cursor/"><u>Solving the Vanishing Point: Restoring Your Windows 11 Touchpad Cursor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209605407-solving-your-non-functional-usb-mouse-issue-top-solutions-for-laptops/"><u>Solving Your Non-Functional USB Mouse Issue: Top Solutions for Laptops!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-error-0x800f0831-enhance-your-system-with-windows-update/"><u>Step-by-Step Solution for Error 0X800f0831: Enhance Your System with Windows Update</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-huawei-by-fonelab-android-recover-music/"><u>The way to get back lost music from Huawei</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-quick-solutions-for-unresponsive-lenovo-fingerprint-scanner/"><u>Troubleshooting Guide: Quick Solutions for Unresponsive Lenovo Fingerprint Scanner</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-user-profile-service-has-stopped-error-on-windows/"><u>Troubleshooting Steps for 'User Profile Service Has Stopped' Error on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-im-holding-off-on-the-new-apple-m4-mac-mini-thanks-to-an-exclusive-mac-studio-perk-insights/"><u>Why I'm Holding Off on the New Apple M4 Mac Mini Thanks to an Exclusive Mac Studio Perk - Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-archival-artifacts-radeons-revamp/"><u>[Updated] Archival Artifacts Radeon's Revamp</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-youtubes-premier-news-channels-for-subscribers-for-2024/"><u>[Updated] Exploring YouTube's Premier News Channels for Subscribers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximize-youtube-views-a-comprehensible-guide-to-collaborative-videos-for-2024/"><u>[Updated] Maximize YouTube Views A Comprehensible Guide to Collaborative Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smoothing-face-transitions-motion-blur-techniques-in-picsart/"><u>[Updated] Smoothing Face Transitions Motion Blur Techniques in Picsart</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/becoming-an-instagram-video-conversation-guru-your-ultimate-guide-for-2024/"><u>Becoming an Instagram Video Conversation Guru Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-your-corsair-keyboard-solutions-explored/"><u>Fixing Issues with Your Corsair Keyboard - Solutions Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-night-light-setting-in-windows-1011-a-step-by-step-tutorial/"><u>How to Repair a Broken Night Light Setting in Windows 10/11 – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-non-responsive-sound-issues-in-windows-11/"><u>How to Troubleshoot Non-Responsive Sound Issues in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-find-the-top-25-online-hubs-for-affordable-video-effectiveness/"><u>In 2024, Find the Top 25 Online Hubs for Affordable Video Effectiveness</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-between-games-and-systems/"><u>Incompatibility Between Games & Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-issues-with-windows-1011s-fixing-tools/"><u>Overcoming Issues with Windows 10/11'S Fixing Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-entry-point-not-located-issue-on-your-pc-a-comprehensive-guide/"><u>Resolving the 'Entry Point Not Located' Issue on Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-your-laptops-unresponsive-trackpad/"><u>Solving the Problem of Your Laptop's Unresponsive Trackpad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/undeleting-made-easy-with-recuva-an-in-depth-look-at-the-premier-data-rescue-app/"><u>Undeleting Made Easy with Recuva: An In-Depth Look at the Premier Data Rescue App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-correctly-solve-the-persistent-windows-0x8024402c-update-issue/"><u>Winning Strategies to Correctly Solve the Persistent Windows 0X8024402C Update Issue</u></a></li>
 </ul></div>
 

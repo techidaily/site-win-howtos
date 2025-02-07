@@ -1,7 +1,7 @@
 ---
 title: How to Address and Correct Unsupported Command Errors on LCD/LED Displays
-date: 2024-08-23T14:05:00.165Z
-updated: 2024-08-24T14:05:00.165Z
+date: 2025-02-05T05:56:01.602Z
+updated: 2025-02-06T21:08:38.125Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
  This error occurs to your computer because your monitor fails to synchronize the input signals from your computer, or there is something wrong with your monitor connections. But don’t worry. We’ll help you fix the error and get your monitor back on track.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions that have helped people resolve the same problem. Check it out:
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change your monitor settings
 
  As suggested in the error message, you can change your input timing to the specific resolution and refresh rate (in my case it’s**1920×1080@60Hz** ) or any other monitor listed timing as per monitor specifications. So you should change these monitor settings to match.
@@ -52,8 +60,18 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 3. Click**Keep changes** if you see the popup verification dialog.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
 4. Then click**Advanced** **display** **settings** on the same screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
 5. Click**Display** **adapter** **properties** **for** **Display** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d226ff59.jpg)
@@ -71,19 +89,30 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 3. Click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
 4. Click**Keep changes** if you see the verification message.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
 5. On the same screen, click**Advanced** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
 7. Click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer in normal mode and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update graphics card driver
 
  The video card driver corruption can also cause your input timing not supported error, so you should keep your video card driver up to date.
@@ -102,9 +131,11 @@ Restart your computer in normal mode and see if it works.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
@@ -121,9 +152,6 @@ Restart your computer in normal mode and see if it works.
 2. Press the power button to turn on your PC, then hold the power button down until PC shuts down automatically (about 5 seconds) . Repeat this more than 2 times until you see the**Preparing Automatic Repair** (see below screenshot).  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)  
  Note: This step is aim to bring up**Preparing Automatic Repair** screen. When Windows doesn’t boot properly, this screen pops up and Windows attempts to fix the problem by itself. If you’ve seen this screen at the first time when you power up the computer, skip this step.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Then wait for Windows to diagnose your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc912c08c2.png)
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
@@ -131,14 +159,13 @@ Restart your computer in normal mode and see if it works.
 4. Click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
 5. Click**Advanced** **options** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
@@ -146,8 +173,9 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then your computer will boot into the low-resolution mode and it should fix your error.
 
  **If you’re using Windows 7, Windows XP or Windows Vista:**
@@ -172,8 +200,6 @@ Restart your computer in normal mode and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +207,22 @@ Restart your computer in normal mode and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2023-insights-how-to-hunt-down-cool-vids-on-fb/"><u>[New] 2023 Insights How to Hunt Down Cool Vids on FB</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-get-more-out-of-youtube-with-8-handpicked-download-apps/"><u>[Updated] 2024 Approved Get More Out of YouTube with 8 Handpicked Download Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-imaging-insights-for-professionals/"><u>2024 Approved IPhone Imaging Insights for Professionals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breeze-through-troubleshooting-fixing-windows-update-error-0x80070002-easily/"><u>Breeze Through Troubleshooting: Fixing Windows Update Error 0X80070002 Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cyclic-redundancy-check-explained-eliminating-persistent-data-mistakes/"><u>Cyclic Redundancy Check Explained: Eliminating Persistent Data Mistakes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x800f081f-hurdle-expert-strategies-for-flawless-installation-of-the-net-framework-35-suite/"><u>Error 0X800F081F Hurdle: Expert Strategies for Flawless Installation of the .NET Framework 3.5 Suite</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-11-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 11 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easy-mp4-editing-on-windows-8-top-rated-video-editor/"><u>In 2024, Easy MP4 Editing on Windows 8 Top-Rated Video Editor</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterful-online-advertising-for-beginners-4-must-know-strategies-for-2024/"><u>Masterful Online Advertising for Beginners 4 Must-Know Strategies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206550079-overcome-fallout-4-delays-with-these-2022-optimization-hacks/"><u>Overcome Fallout 4 Delays with These 2022 Optimization Hacks!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-compatibility-making-shockwave-flash-work-again-in-google-chrome/"><u>Overcoming Compatibility: Making Shockwave Flash Work Again in Google Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/remedy-for-dxgidll-failure-in-pubg/"><u>Remedy for Dxgi.dll Failure in PUBG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ae-titles-for-striking-visual-impact-for-2024/"><u>Top AE Titles for Striking Visual Impact for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-correcting-windows-update-error-0x8007001f/"><u>Troubleshooting Steps for Correcting Windows Update Error 0X8007001F</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-streamline-your-workflow-how-to-optimize-your-macs-storage-for-fcpx/"><u>Updated In 2024, Streamline Your Workflow How to Optimize Your Macs Storage for FCPX</u></a></li>
+</ul></div>
 

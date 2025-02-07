@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Vanishing Cursor in Windows 11'S Touchpad
-date: 2025-01-19T17:17:13.564Z
-updated: 2025-01-25T16:43:10.288Z
+date: 2025-02-04T22:44:04.306Z
+updated: 2025-02-07T05:13:02.768Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -38,7 +42,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)  
@@ -48,6 +52,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)  
 
  Choose to view on**Driver** pane.  
@@ -55,14 +63,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
@@ -81,10 +85,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,24 +119,20 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-prime-nintendo-switch-fighting-game-guide-max-156/"><u>[New] In 2024, Prime Nintendo Switch Fighting Game Guide (Max 156)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-superior-avi-media-player-ideal-for-all-devices/"><u>[New] Superior AVI Media Player - Ideal for All Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-browser-capture-tools-top-picks/"><u>[Updated] 2024 Approved Best Browser Capture Tools Top Picks</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cant-access-your-phone-quick-tips-for-resetting-an-idevice-when-you-forgot-the-passcode/"><u>Can't Access Your Phone? Quick Tips for Resetting an iDevice When You Forgot the Passcode</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-tips-record-powerpoint-live-with-webcam/"><u>Essential Tips Record PowerPoint Live with Webcam</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-7-plus-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-resolve-google-chrome-hanging-issues-and-restart-promptly/"><u>Expert Tips to Resolve Google Chrome Hanging Issues and Restart Promptly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-sound-level-issues-a-comprehensive-guide/"><u>How to Fix Windows 10 Sound Level Issues – A Comprehensive Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-12-proplus-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-hp-notebook-webcam-errors-in-the-latest-windows-11-operating-system/"><u>How to Repair HP Notebook Webcam Errors in the Latest Windows 11 Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-infamous-livekernelevent-code-144-issue/"><u>How to Resolve the Infamous LiveKernelEvent Code 144 Issue</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27e-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27e Phone without PIN</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-the-0xc19n0208-error-during-windows-10-updates/"><u>Resolved: Troubleshooting the 0xC19n0208 Error During Windows 10 Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-no-audio-devices-found-issue-on-windows-10-and-11/"><u>Resolving the 'No Audio Devices Found' Issue on Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-your-aoc-monitor-to-full-functionality-in-the-latest-version-of-windows-10/"><u>Restoring Your AOC Monitor to Full Functionality in the Latest Version of Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silent-resource-in-a-fully-configured-environment/"><u>Silent Resource in a Fully Configured Environment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207568705-understanding-msdia80dll-importance-and-management/"><u>Understanding msdia80.dll: Importance & Management</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vlogging-basics-top-uncomplicated-projects/"><u>Vlogging Basics Top Uncomplicated Projects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-insta-twist-techniques-for-turning-photos-into-viral-sensations-on-social-media/"><u>[New] 2024 Approved Insta-Twist Techniques for Turning Photos Into Viral Sensations on Social Media</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-start-promoting-smart-a-beginners-guide-to-using-telegram/"><u>[Updated] 2024 Approved Start Promoting Smart A Beginner's Guide to Using Telegram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discovering-the-latest-lg-tv-trends-with-bp550-for-2024/"><u>[Updated] Discovering the Latest LG TV Trends with BP550 for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-5-video-frame-captures-for-mac/"><u>[Updated] In 2024, Top 5 Video Frame Captures for Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-understanding-the-zip-to-srt-file-transition-for-2024/"><u>[Updated] Understanding the Zip to Srt File Transition for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209292613-app-cant-open-using-built-in-administrator-account-solved/"><u>App Can't Open Using Built-In Administrator Account [Solved]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-pc-gaming-moments-6-innovative-techniques/"><u>Capturing PC Gaming Moments 6 Innovative Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-failed-feature-enhancements-on-windows-11-insights-for-build-1803/"><u>Fixing Failed Feature Enhancements on Windows 11 - Insights for Build 1803</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-windows-11-wallpaper-screensaver-functionality-comprehensive-fix/"><u>How to Restore Your Windows 11 Wallpaper Screensaver Functionality [Comprehensive Fix]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-meizu-21-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Meizu 21 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-beginners-guide-to-premium-gopro-accessories/"><u>In 2024, Beginner’s Guide to Premium GoPro Accessories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-waiting-just-gameplay-in-fortnite/"><u>No More Waiting, Just Gameplay in Fortnite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-to-get-the-sound-working-again-on-your-windows-7-pc/"><u>Quick Solutions to Get the Sound Working Again on Your Windows 7 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-stuck-keys-on-windows-desktops/"><u>Troubleshooting and Repairing Stuck Keys on Windows Desktops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cut-outs-on-logitech-wireless-headphones-g930-model/"><u>Troubleshooting Cut Outs on Logitech Wireless Headphones (G930 Model)</u></a></li>
 </ul></div>
 

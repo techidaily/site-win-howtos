@@ -1,7 +1,7 @@
 ---
 title: "Mastering Efficient Resource Usage: Control Your Desktop Window Manager's GPU Demands on Windows 10/11"
-date: 2024-08-23T14:03:07.296Z
-updated: 2024-08-24T14:03:07.296Z
+date: 2025-02-01T06:53:00.841Z
+updated: 2025-02-07T09:00:46.156Z
 tags:
   - win11
   - win10
@@ -35,13 +35,14 @@ The good news is that it can be fixed quickly and easily.
 * [Solution 3: Disable USB Root Hubs](#h-solution-3-disable-usb-root-hubs)
 * [Solution 4. Modify your network adapter properties](#h-solution-4-modify-your-network-adapter-properties)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Quick & Easy
 
  First of all, try to restart your Windows 10 computer. No kidding! A complete reboot can always fix a lot of weird issues. Thus be sure to try it at first as it’s easy enough to take.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 2: Update your device drivers
 
  If your device driver misbehaves, then the error may also occur. So you can update your drivers to try to fix the issue.
@@ -49,13 +50,11 @@ The good news is that it can be fixed quickly and easily.
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand any dialog and**right-click** on your device to choose**Update driver** . Choose**Update driver** and click**Search automatically for updated driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c88ea4cdfe.jpg)
 3. Then Windows will start to detect the update for your device.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After updating one device, check for updates on your other devices with the same steps.
@@ -71,11 +70,16 @@ The good news is that it can be fixed quickly and easily.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -89,10 +93,16 @@ The good news is that it can be fixed quickly and easily.
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
 3. After disabling your USB Root Hubs, check if the CPU usage comes down.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To check which USB Root Hub is for your keyboard and mouse:
@@ -102,9 +112,9 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 4\. Modify your network adapter properties
 
 1. Press the**Windows** logo key +**X** key to open the quick access menu. Then click**Device Manager** to open it.  
@@ -112,15 +122,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Expand the**Network adapters** category. Right-click on your network adapter (it should be the one with a manufacturer brand name like Intel, Realtek, Ralink, Qualcomm, Broadcom, etc.) and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca7c0b78a4.jpg)
 3. Choose to view on the**Advanced** pane. Then scroll down to**Wake on Magic Packet** and**Wake on pattern match** . Set their Value to be**Disabled** from the drop-down menu one by one. Click**OK** to save your settings.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
 4. See if the system interrupts still consume a high CPU usage on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 5: Repair system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it’s possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that   **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -133,9 +137,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 ## Solution 6: Consider a system reset
@@ -156,8 +157,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +164,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-beginners-guide-to-iphone-video-capture-for-2024/"><u>[New] Beginner's Guide to Iphone Video Capture for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/asy-guide-online-tools-to-save-your-youtube-videos-for-2024/"><u>[New] Easy Guide Online Tools to Save Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-handle-accidental-reflections-in-video-conversations/"><u>[Updated] How To Handle Accidental Reflections in Video Conversations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-windows-tips-for-efficient-live-tv-saving/"><u>[Updated] In 2024, Essential Windows Tips for Efficient Live TV Saving</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/better-conversations-await-which-reigns-supreme-chatgpt-plus-or-perplexity/"><u>Better Conversations Await: Which Reigns Supreme - ChatGPT Plus or Perplexity?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80072ee7-in-the-windows-store-easy-fixes-unveiled/"><u>Error 0X80072EE7 in the Windows Store: Easy Fixes Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-80240020-on-your-mind-heres-how-to-successfully-install-windows-11/"><u>Error 80240020 on Your Mind? Here's How to Successfully Install Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-dell-network-adapter-up-to-date-windows-cuhk-os-7-driver-packs/"><u>Get Your Dell Network Adapter Up-to-Date: Windows Cuhk OS 7 Driver Packs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-lunapics-essence-in-photo-editing/"><u>In 2024, Mastering Lunapic's Essence in Photo Editing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/key-factors-in-choosing-a-home-broadband-device/"><u>Key Factors in Choosing a Home Broadband Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-errors-quickly-using-system-file-check-sfc-and-deployment-imaging-service-dism/"><u>Resolving Windows Errors Quickly Using System File Check (SFC) and Deployment Imaging Service (DISM)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-disappearing-bluetooth-icon-in-windows-10-environment/"><u>Step-by-Step Fix for Disappearing Bluetooth Icon in Windows 10 Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-fortnite-gaming-for-your-discontinued-windows-graphics-card-a-fix-guide/"><u>Unlocking Fortnite Gaming for Your Discontinued Windows Graphics Card: A Fix Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208329490-windows-10-users-say-goodbye-to-keyboard-latency-issues/"><u>Windows 10 Users, Say Goodbye to Keyboard Latency Issues!</u></a></li>
+</ul></div>
 

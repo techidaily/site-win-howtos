@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Repairing Broken Files in Windows 11 Systems"
-date: 2024-08-23T14:03:24.687Z
-updated: 2024-08-24T14:03:24.687Z
+date: 2025-02-06T05:53:04.421Z
+updated: 2025-02-06T21:27:40.545Z
 tags:
   - win11
   - win10
@@ -39,6 +39,11 @@ You can try the the methods below to solve the problem.
 1. Right-click on your desktop, then select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd81b1680b.jpg)
 2. Click**Advanced scaling settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd9a6caf6a.jpg)
 3. Turn on**Let Windows try to fix apps so they’re not blurry** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badda925f9a8.jpg)
@@ -53,19 +58,17 @@ You can try the the methods below to solve the problem.
 1. Right-click on your desktop, then select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd81b1680b.jpg)
 2. Under**Scale and layout** , make sure that it is on**100 percent** and not some higher number.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badddac4d69e.jpg)
 3. Reopen the app that appears blurry to check the result.
 4. If you have two screens, try logging out and logging in, then both screens should have crisp text.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Change the high DPI settings of a specific app
 
  If only a certain app, or a few apps, appears blurry in your Windows 10, you can try changing the app’s**high DPI settings** through the**Properties** window to solve the problem. Here’s what you need to do:
@@ -74,32 +77,34 @@ You can try the the methods below to solve the problem.
 2. **Right-click** the search result, then select**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bade847d093b.jpg)
 3. **Right-click** the app, then select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bade8abd887c.jpg)
 4. Click the**Compatibility** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bade8f847164.jpg)
 5. Click the **Change high DPI settings** button.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badea24c8b60.jpg)
 6. Select the   **Use this setting to fix scaling problems for this program…**  check box.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badebdc96b2b.jpg)
 7. In the**High DPI scaling override** area, select the **Override high DPI scaling behavior** check box. And make sure**Application** is selected from the drop-down menu, which option was called **Disable display scaling on high DPI settings** in previous versions of Windows.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badeccbaf725.jpg)
-8. Click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badeda690b2c.jpg)
-9. Close and then reopen the app to check for the issue.
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badeccbaf725.jpg)
+8. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badeda690b2c.jpg)
+9. Close and then reopen the app to check for the issue.
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your graphics driver
 
@@ -113,12 +118,18 @@ You can try the the methods below to solve the problem.
 2. **Run** Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badf2f4e9700.jpg)
 3. Click the **Update** button next to your graphics driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badf36d49b5b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  Did this solve your problem? Feel free to leave a comment below to share your results.
@@ -131,8 +142,6 @@ You can try the the methods below to solve the problem.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +149,19 @@ You can try the the methods below to solve the problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-free-picture-perfection-the-finest-10-sites-reviewed/"><u>[New] Free Picture Perfection The Finest 10 Sites Reviewed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-snaptwit-sucker-snatch-social-media-vids-with-ease/"><u>[New] SnapTwit Sucker Snatch Social Media Vids with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-snapseed-a-simple-guide-for-new-users/"><u>[Updated] Exploring Snapseed A Simple Guide for New Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-interactive-av-media-collective-for-2024/"><u>[Updated] Interactive AV Media Collective for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/activation-loop-breaker-engaged/"><u>Activation Loop Breaker Engaged</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/astro-a40-headset-mic-problems-effective-fixes-that-worked-for-me/"><u>Astro A40 Headset Mic Problems: Effective Fixes That Worked for Me</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210762505-bid-farewell-to-keyboard-delays-on-your-windows-10-machine-heres-the-solution/"><u>Bid Farewell to Keyboard Delays on Your Windows 10 Machine - Here's the Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-strategies-to-address-and-correct-stop-error-0xc00000e9-in-microsoft-windows/"><u>Comprehensive Strategies to Address and Correct Stop Error 0xC00000E9 in Microsoft Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-spotlight-mac-video-experience/"><u>Customer Spotlight: Mac Video Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-revolutionizes-call-recording-with-in-built-feature-no-app-required-dive-into-the-details-on-zdnet/"><u>IOS 18 Revolutionizes Call Recording with In-Built Feature, No App Required - Dive Into the Details on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-unsuccessful-windows-11-build-1607-upgrade-issues/"><u>Troubleshooting Guide: Unsuccessful Windows 11 Build 1607 Upgrade Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-biggest-draws-in-mobile-gameplay/"><u>Unveiling the Biggest Draws in Mobile Gameplay</u></a></li>
+</ul></div>
 

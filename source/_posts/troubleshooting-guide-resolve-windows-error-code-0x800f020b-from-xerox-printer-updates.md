@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolve Windows Error Code 0X800F020B From Xerox Printer Updates"
-date: 2024-08-23T14:05:44.842Z
-updated: 2024-08-24T14:05:44.842Z
+date: 2025-02-01T22:54:18.628Z
+updated: 2025-02-07T08:29:19.240Z
 tags:
   - win11
   - win10
@@ -39,12 +39,25 @@ Here’s what you can do:
 1. Type**Troubleshoot** in the search box on your desktop, and click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the Windows Update error persists, move on to the second method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
 
@@ -53,9 +66,6 @@ If the Windows Update error persists, move on to the second method.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Copy and paste the following commands one by one in Command Prompt, and press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **net stop wuauserv**  
 **net stop cryptSvc**  
 **net stop bits**  
@@ -69,25 +79,14 @@ If the Windows Update error persists, move on to the second method.
 **pause**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Open Windows Update and see if it works properly.
 
  If your issue still persists, don’t worry, There is something else to try.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Repair corrupted system files
 
  Missing or corrupted system files can also trigger the Windows Update error 0x80240017\. To detect and fix them, you may need to perform an in-depth PC scan.
@@ -100,6 +99,11 @@ If the Windows Update error persists, move on to the second method.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -111,16 +115,17 @@ If the Windows Update error persists, move on to the second method.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Update available drivers
 
  To ensure your computer operates without problems, you should keep your devices drivers up to date. And here are two ways for you to update drivers:**manually** and**automatically** .
@@ -137,15 +142,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click**Scan Now** . Then Driver Easy will scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -160,8 +159,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +166,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-master-essential-zoom-techniques-for-iphone-users/"><u>[New] In 2024, Master Essential Zoom Techniques for iPhone Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-screen-cast-or-record-your-imacs-display-quickly/"><u>[Updated] 2024 Approved How to Screen Cast or Record Your iMac's Display Quickly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ideal-frequencies-in-podcast-launches/"><u>[Updated] 2024 Approved Ideal Frequencies in Podcast Launches</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-iphones-guide-to-spherical-videos-on-facebook-platform/"><u>[Updated] 2024 Approved IPhone's Guide to Spherical Videos on Facebook Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211465317-dell-laptop-keyboards-that-wont-work-solutions-at-your-fingertips/"><u>Dell Laptop Keyboards That Won't Work - Solutions at Your Fingertips!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-bring-back-your-missing-windows-a-step-by-step-guide/"><u>Easily Bring Back Your Missing Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-online-marketing-strategies-with-the-precision-of-cookiebot-tools/"><u>Elevate Online Marketing Strategies with the Precision of Cookiebot Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-2024-ue4-glitch-in-halo-4-steps-to-stop-unexpected-crashes/"><u>Fixing the 2024 UE4 Glitch in Halo 4: Steps to Stop Unexpected Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-11-unresponsiveness-at-boot-time/"><u>How to Overcome Windows 11 Unresponsiveness at Boot Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-usb-port-issues-for-a-smooth-windows-1011-experience/"><u>How to Repair USB Port Issues for a Smooth Windows 10/11 Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-meizu-21-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Meizu 21 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-tecno-spark-10c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Tecno Spark 10C Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-guide-for-sustainable-visual-recording/"><u>In 2024, Ultimate Guide for Sustainable Visual Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-diagnosing-and-restoring-functionality-to-unresponsive-shift-buttons/"><u>Masterclass: Diagnosing & Restoring Functionality to Unresponsive Shift Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-fixing-the-failed-cast-feature-between-your-devices-in-windows-11/"><u>Masterclass: Fixing the Failed Cast Feature Between Your Devices in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-monster-hunters-start-up-the-mysterious-all-black-screen-problem/"><u>Resolving Monster Hunter's Start-Up: The Mysterious All-Black Screen Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-finder-power-adopting-everywhereapp-techniques/"><u>Swift Finder Power: Adopting EverywhereApp Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-enable-your-devices-wi-fi-functionality/"><u>Troubleshooting Guide: Enable Your Device's Wi-Fi Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vampire-vignette-virtuoso-for-2024/"><u>Vampire Vignette Virtuoso for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving DLL Dilemma - MSVCR71
-date: 2024-08-23T14:07:54.379Z
-updated: 2024-08-24T14:07:54.379Z
+date: 2025-02-04T19:50:30.108Z
+updated: 2025-02-06T20:20:30.651Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Before start using the methods, you should check your connection first.
 5. [Use Microsoft Store troubleshoot](#m4)
 6. [Reset Microsoft Store from settings](#m5)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1\. Run Fortect to repair error
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful tool to repair and rebuild Windows, this program specializes in Windows repair which makes it becomes the easiest way to fix Windows errors. It is tailored to your specific system and is working in a private and automatic way.
@@ -40,6 +44,10 @@ Before start using the methods, you should check your connection first.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -50,20 +58,15 @@ Before start using the methods, you should check your connection first.
 
 1. Press the**Windows key** +**I** together then click**Time & Language** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
-3. Check your time and date.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
-4. Click**Region** and check your region is corrected.![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
-5. Open the Microsoft Store to check.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Check your time and date.
+4. Click**Region** and check your region is corrected.![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
+5. Open the Microsoft Store to check.
+
 ### Method 3: Use the WSReset tool
 
  This tool is made to clear and reset the Microsoft Store cache. Mostly, many problems are caused by corrupted cache files. So use the WSReset tool to clear and reset can easily solve the problem.
@@ -71,16 +74,11 @@ Before start using the methods, you should check your connection first.
 1. Press the**Windows key** +**R** together to open the Run box.
 2. Type “wsreset.exe” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 3. There will be a command window pop-up. Wait for it to close by itself, then the Microsoft Store will be launched automatically.![](https://images.drivereasy.com/wp-content/uploads/2019/06/wsreset.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
+
 ### Method 4: Disable the Proxy connection
 
  Your proxy setting may be the reason for the Microsoft Store won’t open problem. You may disable the proxy connection if it can help.
@@ -88,13 +86,12 @@ Before start using the methods, you should check your connection first.
 1. Type “internet options” in the search bar and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip0.jpg)
 2. In the Connections tab, click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip.jpg)
 3. If you see the box under the**Proxy server** is ticked, uncheck**Use a proxy server for your LAN** then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Run the Microsoft Store and check the problem is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ### Method 5: Use Microsoft Store troubleshoot
 
@@ -113,13 +110,24 @@ Before start using the methods, you should check your connection first.
 
 1. Press the**Windows key** +**I** together and click**Apps** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 2. Scroll down to find Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the**Microsoft Store** and then click**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app1.jpg)
 4. Scroll down and click**Reset** . Click**Reset** again in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : This step will permanently delete the app’s data including your sign-in details.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app2.jpg)
 5. Run the Microsoft Store to check whether the problem is solved or not.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hope this article will meet your needs. If you have any questions, please leave comments below, we’ll try our best to help.
@@ -132,8 +140,6 @@ Before start using the methods, you should check your connection first.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +147,18 @@ Before start using the methods, you should check your connection first.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-uncloaked-resolved-youtube-shorts-gone-miss/"><u>[New] In 2024, Uncloaked Resolved YouTube Shorts Gone Miss</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-and-archiving-itunes-content-effortlessly/"><u>[Updated] 2024 Approved Capturing and Archiving iTunes Content Effortlessly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-dynamic-typography-for-effects-top-10-picks/"><u>2024 Approved Dynamic Typography for Effects Top 10 Picks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-navigating-youtubes-payment-system/"><u>2024 Approved Navigating YouTube's Payment System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/compatibility-issues-lead-to-ftdi-bus-system-disabling-memory-integrity/"><u>Compatibility Issues Lead to FTDI Bus System Disabling Memory Integrity</u></a></li>
+<li><a href="https://win-webster.techidaily.com/high-definition-audi-s8-desktop-wallpaper-collection-premium-visuals-from-yl-software/"><u>High-Definition Audi S8 Desktop Wallpaper Collection: Premium Visuals From YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-printer-obstacles-troubleshoot-xerox-error-0x800f020b-in-windows-efficiently/"><u>Overcoming Printer Obstacles: Troubleshoot Xerox Error 0X800f020b in Windows Efficiently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-for-realtek-microphone-problems/"><u>Quick Solutions for Realtek Microphone Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-overcoming-driverpowerstatefailure-issues/"><u>Troubleshooting Techniques for Overcoming DRIVER_POWER_STATE_FAILURE Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-application-start-failure-problem-with-fix-code-0xc000007b/"><u>Troubleshooting the 'Application Start Failure' Problem with Fix Code 0xC000007B</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-update-woes-eliminate-error-8007000e-with-these-easy-tips/"><u>Win Update Woes? Eliminate Error 8007000E with These Easy Tips</u></a></li>
+</ul></div>
 

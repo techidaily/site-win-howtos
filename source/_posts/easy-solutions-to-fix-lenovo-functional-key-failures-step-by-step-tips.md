@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips
-date: 2025-01-24T18:03:01.061Z
-updated: 2025-01-25T16:34:49.457Z
+date: 2025-02-03T07:47:10.982Z
+updated: 2025-02-07T03:58:15.910Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
  Check if the microphone is still not working. If yes, then great. But if it’s not working, move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
 
@@ -73,6 +61,10 @@ To make sure the volume is audible:
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -91,15 +83,23 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -117,7 +117,7 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -156,22 +156,24 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>[New] Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-the-mechanics-an-introduction-to-gopro-time-lapse/"><u>[New] In 2024, Mastering the Mechanics An Introduction to GoPro Time-Lapse</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-inshot-app-how-to-integrate-external-songs-easily-for-2024/"><u>[New] InShot App How to Integrate External Songs Easily for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essential-guide-to-integrating-voice-over-in-ppts/"><u>[Updated] 2024 Approved The Essential Guide to Integrating Voice Over in PPTs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-castcritique-report-for-2024/"><u>[Updated] CastCritique Report for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-techniques-of-capturing-emotion-in-digital-gif-formats/"><u>[Updated] Techniques of Capturing Emotion in Digital GIF Formats</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-connectivity-woes-ultimate-guide-to-pairing-airpods-with-windows-computers/"><u>Beat Connectivity Woes: Ultimate Guide to Pairing AirPods with Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dxgierrordevicehung-solved-in-a-jiffy-proven-techniques-for-smooth-performance/"><u>DXGI_ERROR_DEVICE_HUNG Solved in a Jiffy: Proven Techniques for Smooth Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-cant-open-geforce-experience-problems-step-by-step-solutions/"><u>Fixing 'Can't Open GeForce Experience' Problems - Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-no-device-found-error-on-your-computer-step-by-step-guide/"><u>Fixing the 'No Device Found' Error on Your Computer - Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hp-laptop-webcam-malfunctions-on-windows-10-a-comprehensive-fix-guide/"><u>Overcoming HP Laptop Webcam Malfunctions on Windows 10: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-overcoming-windows-10-keyboard-responsiveness-issues/"><u>Solution Guide: Overcoming Windows 10 Keyboard Responsiveness Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-fixing-loudspeaker-problems-in-windows-10/"><u>Troubleshooting Audio Issues: Fixing Loudspeaker Problems in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-bluetooth-mouse-on-windows-pc/"><u>Troubleshooting Guide: How to Fix a Non-Functional Bluetooth Mouse on Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-laptop-power-failure-windows-7-and-10-solutions/"><u>Troubleshooting Laptop Power Failure: Windows 7 and 10 Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-upgraded-widget-choice-interface-in-win11/"><u>Unlocking Upgraded Widget Choice Interface in Win11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-complete-transformation-handbook-using-morphvox-tech-for-2024/"><u>[New] Complete Transformation Handbook Using MorphVOX Tech for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-fan-favorite-films-reimagined-7-replacements/"><u>[New] In 2024, Fan-Favorite Films Reimagined - #7 Replacements</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-image-illumination-the-essential-list-of-frame-enhancing-apps/"><u>[New] In 2024, Image Illumination The Essential List of Frame-Enhancing Apps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-understanding-fbs-rules-for-immediate-video-removal/"><u>[New] In 2024, Understanding FB’s Rules for Immediate Video Removal</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-screen-capture-apps-for-idevices/"><u>[Updated] In 2024, Top Screen Capture Apps for iDevices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-of-ineffective-plugins-top-6-that-fall-short-compared-to-gpt/"><u>Beware of Ineffective Plugins: Top 6 That Fall Short Compared to GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-your-pcdevice-back-to-optimal-functionality/"><u>Expert Tips for Restoring Your PC/Device Back to Optimal Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-a56s-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo A56s 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-skyward-storage-solutions-top-rated-selections/"><u>In 2024, Skyward Storage Solutions Top-Rated Selections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-a-smooth-csgo-experience-no-more-abrupt-game-shutdowns/"><u>Master the Art of a Smooth CSGO Experience: No More Abrupt Game Shutdowns</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-unknown-usb-device-hurdles-effective-solutions-for-the-port-reset-failed-problem-in-windows-nt/"><u>Overcoming 'Unknown USB Device' Hurdles: Effective Solutions for the Port Reset Failed Problem in Windows nT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-malfunctioning-typing-keys-on-your-keyboard/"><u>Resolved Issue: Malfunctioning Typing Keys on Your Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-rectifying-your-windows-10-mouses-unresponsive-right-click-feature/"><u>Solutions for Rectifying Your Windows 10 Mouse's Unresponsive Right-Click Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-why-your-usb-device-constantly-drops-connection/"><u>Solving the Issue: Why Your USB Device Constantly Drops Connection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-windows-11s-zip-dilemma-a-guide-to-restoring-compromised-compressed-files/"><u>Solving Windows 11'S ZIP Dilemma: A Guide to Restoring Compromised Compressed Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-usb-error-messages-from-popping-up-a-step-by-step-fixing-guide/"><u>Stop USB Error Messages From Popping Up: A Step-by-Step Fixing Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-top-tips-solve-black-ops-4-severe-system-failures/"><u>Troubleshooting Top Tips: Solve Black Ops 4 Severe System Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-msmpengexe-resolve-its-cpu-hogging-on-windows-10/"><u>Winning the Battle Against MsMpEng.exe: Resolve Its CPU Hogging on Windows 10</u></a></li>
 </ul></div>
 

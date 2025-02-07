@@ -1,7 +1,7 @@
 ---
 title: "Overcome Infinite Loading Loop in Valorant: Effective Solutions Inside"
-date: 2025-01-21T17:57:10.613Z
-updated: 2025-01-25T18:35:55.327Z
+date: 2025-01-31T05:21:12.353Z
+updated: 2025-02-07T09:22:36.259Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Take the ownership of the file or folder
 
  The access denied error may occur if you don’t have the ownership of the file or folder or the ownership has changed. You can try taking the ownership and see if this resolves the problem.
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
@@ -65,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your account type is not**administrator** , sign out of this account and log into an administrator account, or ask the administrator of this computer to log on for you.
 
@@ -88,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6f33e53abc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** If you want to take the ownership of all the files and subfolders in this folder, select the check box of **Replace all child object permission entries with inheritable permission entries from this object.** Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e852da485ce.jpg)
@@ -108,24 +104,16 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fa7bf0645.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the**Security** tab, and then the**Advanced** button. This will open the Advanced Security Settings for this file or folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fdb62994a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the**Owner** tab. Then click the**Edit** button to change the owner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fdc489026.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the**Other users or groups** button to choose the user manually.
@@ -140,17 +128,21 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e71f2934f14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Click**OK** to apply the changes and close the settings window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e81a3f86626.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Click**OK** to apply the changes and close the Properties dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e81aaee1354.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Check and see if the error disappears.  
   
@@ -166,20 +158,24 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e37bce76.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your account type is not**administrator** , sign out of this account and log into an administrator account, or ask the administrator of this computer to log on for you.
 
@@ -189,13 +185,13 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6d7b9e5fd1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Security** tab, and then the**Edit** button. This will open the Permissions dialog for this file or folder, which allows you to change the permissions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e822552e434.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** In the**Group or users names** box, click your name (the name you use to log into this computer). Then, in the Permissions for Users box, select the**Allow** check box of**Full control** (this will allow you to have full control to access and modify this file or folder). After that, click**OK** to apply the changes and exit this dialog.
 
@@ -207,6 +203,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 **5)**  If this method works for you, you won’t get the access denied error when you try to open or modify the file or folder.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Recover your data
 
@@ -229,21 +229,16 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-fixing-the-quake-tips-for-steadying-gopro-videos/"><u>[New] 2024 Approved Fixing the Quake Tips for Steadying GoPro Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/levate-your-video-impact-20-essential-thumbnail-fonts-for-2024/"><u>[New] Elevate Your Video Impact 20 Essential Thumbnail Fonts for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-hidden-shotsnappers-advanced-techniques-for-invisible-image-capturing-on-snapchat/"><u>[New] In 2024, Hidden ShotSnappers Advanced Techniques for Invisible Image Capturing on Snapchat</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-spark-your-creativity-with-these-free-tools/"><u>[New] Spark Your Creativity with These Free Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-ultimate-non-twitter-social-sites-of-the-year-for-2024/"><u>[New] Ultimate Non-Twitter Social Sites of the Year for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-security-prompts-navigating-user-privilege-levels-for-task-execution-on-windows-systems/"><u>Dealing with Security Prompts: Navigating User Privilege Levels for Task Execution on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-monitor-messages-insight-into-handling-non-compatible-device-signals/"><u>Decoding Monitor Messages: Insight Into Handling Non-Compatible Device Signals</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-asus-pce-ac56-network-adapter-problems-on-windows-10-8-and-7-solutions-uncovered/"><u>Fixing ASUS PCE-AC56 Network Adapter Problems on Windows 10, 8 & 7 - Solutions Uncovered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-spacebar-key-in-microsofts-latest-operating-system/"><u>How to Repair a Broken Spacebar Key in Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/premier-peaceful-music-gear-roundup-2024/"><u>Premier Peaceful Music Gear Roundup 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-plugin-load-failures-and-missing-game-files/"><u>Quick Fixes for Windows Plugin Load Failures and Missing Game Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-to-resolving-file-explorer-issues-in-windows-10-effortlessly/"><u>Quick Guide to Resolving File Explorer Issues in Windows 10 Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-d3dxt939dll-file-missing-issue-a-step-by-step-guide/"><u>Resolving the d3dxt9_39.dll File Missing Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-strategies-for-handling-directx-device-creation-issues/"><u>Successful Strategies for Handling DirectX Device Creation Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-infinix-hot-40-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Hot 40 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-proven-youtube-intra-creation-strategies-free-edition/"><u>[Updated] Proven YouTube Intra Creation Strategies, Free Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-sound-distortions-and-crackles-on-your-windows-device/"><u>Fixing Sound Distortions and Crackles on Your Windows Device</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/garageband-strategies-for-perfect-podcast-editing-for-2024/"><u>GarageBand Strategies for Perfect Podcast Editing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-connectivity-problems-dealing-with-a-non-reactive-dhcp-server/"><u>How to Resolve Connectivity Problems: Dealing with a Non-Reactive DHCP Server</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f04-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F04 Phone FRP Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-update-hurdle-tackling-the-0x80e0f0922-code-with-eight-proven-fixes/"><u>Overcome Windows Update Hurdle: Tackling the 0X80e0f0922 Code with Eight Proven Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revived-windows-audio-win-1011-troubleshooting-guide/"><u>Revived Windows Audio: Win 10/11 Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-cast-to-device-not-working-dilemma-on-your-windows-11-pc/"><u>Solving the 'Cast to Device Not Working' Dilemma on Your Windows 11 PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-no-cost-high-quality-srt-editors-for-2024/"><u>The Ultimate Guide to No-Cost, High-Quality Srt Editors for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-ideal-iphone-16pro-case-in-2-professional-insights/"><u>Ultimate Guide to Choosing the Ideal iPhone 16/Pro Case in 2지: Professional Insights</u></a></li>
 </ul></div>
 

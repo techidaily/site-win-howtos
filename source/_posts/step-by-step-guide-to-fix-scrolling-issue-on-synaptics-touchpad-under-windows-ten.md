@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fix Scrolling Issue on Synaptics Touchpad Under Windows # Ten
-date: 2024-08-23T14:02:04.874Z
-updated: 2024-08-24T14:02:04.874Z
+date: 2025-01-31T21:46:40.050Z
+updated: 2025-02-06T18:49:43.990Z
 tags:
   - win11
   - win10
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 3. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/troubleshoot.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Relaunch your computer and check the issue is resolved or not.
 
  If you fail to find Hardware and Devices Troubleshooter in Control Panel, that’s probably because your computer version is after **Windows 10 build 1809** . The version has removed the Hardware and Devices Troubleshooter. Don’t worry, you can still run the Hardware and Devices Troubleshooter in this way:
@@ -42,6 +47,11 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Relaunch your computer and check the issue is resolved or not.
@@ -50,22 +60,31 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  If fix 1 can’t help, then try to uninstall and reinstall the AOC USB monitor driver to fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Uninstall AOC USB monitor driver
 
 1. Press**Windows logo key + R** to open the Run box.
 2. Type “devmgmt.msc” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click**Monitors** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/monitor.jpg)
 4. Right-click on the AOC USB monitor and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 5. Follow the on-screen instructions to uninstall it.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Reboot your computer.
 
 ### Step 2: Download AOC USB monitor driver
@@ -86,19 +105,10 @@ OR
 2. Search for the monitor on the webpage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbf95967fd.jpg)
 3. Click **Support** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfce1bef4.jpg)
 4. Scroll down and click **Driver** in the **Drivers and Software** section.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfda9b0ca.png)
 5. Click the downloaded file and follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Option 2 – Automatically update AOC USB monitor drivers**
 
@@ -112,12 +122,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfffb0e24.jpg)
 3. Click the Update button next to your **AOC monitor** to automatically download and install the correct version of this driver (you can do this with the **FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdc1306ec3e.jpg)
 4. Reboot your computer and check the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -129,8 +140,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +147,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-windows-host-process-rundll32-has-stopped-working/"><u>[Fixed] Windows Host Process (Rundll32) Has Stopped Working</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-efficient-audio-extraction-from-youtube-top-picks-for-your-favorite-free-crackers/"><u>[New] 2024 Approved Efficient Audio Extraction From YouTube Top Picks for Your Favorite Free Crackers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-hidden-dynamics-of-live-video-images-on-youtube/"><u>[Updated] The Hidden Dynamics of Live Video Images on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-duckduckgo-a-comprehvew-on-its-functionality-and-privacy-assurance/"><u>Decoding DuckDuckGo: A Comprehvew on Its Functionality & Privacy Assurance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-guide-fixing-driver-failed-message-in-user-settings/"><u>Error Resolution Guide: Fixing 'Driver Failed' Message in User Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-black-screen-problem-in-obs-a-comprehensive-guide/"><u>Fixing the 'Black Screen' Problem in OBS - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/outlook-troubleshooting-repairing-connection-errors-with-microsoft-exchange-services/"><u>Outlook Troubleshooting: Repairing Connection Errors with Microsoft Exchange Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-sound-to-your-xbox-one-setup-effective-troubleshooting-steps/"><u>Restore Sound to Your Xbox One Setup - Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/secret-strategies-streamlining-your-stylizing-skills/"><u>Secret Strategies Streamlining Your Stylizing Skills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-the-annoying-cursor-flicker-with-easy-solutions/"><u>Stop the Annoying Cursor Flicker with Easy Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-chrome-access-problems-how-to-solve-this-site-cant-be-reached/"><u>Troubleshooting Chrome Access Problems: How To Solve 'This Site Can't Be Reached'</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleash-creativity-with-these-8-free-youtube-thumbnail-builders-for-2024/"><u>Unleash Creativity with These 8 Free YouTube Thumbnail Builders for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-a14-4g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy A14 4G Phones</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728483655766-windows-server-2022-3/"><u>Windows Server 2022向け自動保存方法 - 3つの効果的な設定手順を学ぶ</u></a></li>
+</ul></div>
 

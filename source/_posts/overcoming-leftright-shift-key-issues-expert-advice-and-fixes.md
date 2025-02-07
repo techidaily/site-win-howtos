@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Left/Right Shift Key Issues: Expert Advice and Fixes"
-date: 2024-08-23T14:09:19.034Z
-updated: 2024-08-24T14:09:19.034Z
+date: 2025-02-03T11:30:47.243Z
+updated: 2025-02-06T18:58:05.696Z
 tags:
   - win11
   - win10
@@ -24,6 +24,11 @@ thumbnail: https://thmb.techidaily.com/45524aa106a4105324652bc7bc955b6e88f7e35d5
 1. Try to print this post you’re viewing.  If you’re viewing this article on a browser like Chrome, and Microsoft Edge, click the three dots icon, then select**Print** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03dbb9284b.png)  
    1. If you**can’t**  print this page either, there are some issues with your printer, follow to **[troubleshoot problems of your printer](#printer)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    2. If you**can** print this page, go on to check:
 2. Open your PDF file in your browser, then print it in the browser.  
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
@@ -39,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/45524aa106a4105324652bc7bc955b6e88f7e35d5
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot problems with your printer
 
  Either a USB-connected printer or a network one you’re using, make sure your printer is set as the default printer and your printer driver is up-to-date.
@@ -51,14 +57,13 @@ thumbnail: https://thmb.techidaily.com/45524aa106a4105324652bc7bc955b6e88f7e35d5
 2. Type**control** and click**OK** .”  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
 
 #### 2\. Make sure your printer driver is up-to-date
@@ -81,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/45524aa106a4105324652bc7bc955b6e88f7e35d5
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -98,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/45524aa106a4105324652bc7bc955b6e88f7e35d5
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### 2\. Recreate a new PDF file
 
 1. Choose a way to recreate a new PDF file:  
@@ -109,15 +119,9 @@ thumbnail: https://thmb.techidaily.com/45524aa106a4105324652bc7bc955b6e88f7e35d5
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Scan your computer to detect issues
 
  Can’t print PDFs but worry about wasting too much time troubleshooting? You can perform a complete scan on your PC to locate the exact problem.
@@ -143,9 +147,6 @@ thumbnail: https://thmb.techidaily.com/45524aa106a4105324652bc7bc955b6e88f7e35d5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -168,9 +169,6 @@ sfc /scannow
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -206,8 +204,9 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  Restart your PC after repairing the corrupt files and test your printer.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -217,6 +216,11 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
 ---
@@ -231,8 +235,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +242,26 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-from-good-to-great-elevate-reactions-in-youtube-videos-with-these-3-strategies/"><u>[New] 2024 Approved From Good to Great Elevate Reactions in YouTube Videos with These 3 Strategies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-exclusive-top-5-drone-vr-set-matchups/"><u>[Updated] 2024 Approved Exclusive Top 5 Drone-VR Set Matchups</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-principles-of-creating-inspirational-day-to-day-visual-stories-for-2024/"><u>[Updated] Principles of Creating Inspirational Day-to-Day Visual Stories for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-step-by-step-instruction-for-wm6-install-for-2024/"><u>[Updated] Step-by-Step Instruction for WM6 Install for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-enhancing-your-gopro-cinematic-vision/"><u>2024 Approved Expert Tips for Enhancing Your GoPro Cinematic Vision</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-thriving-through-thoughts-transforming-video-into-cash/"><u>2024 Approved Thriving Through Thoughts Transforming Video Into Cash</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-windows-1eb-error-0x80072fed-a-complete-walkthrough/"><u>Comprehensive Fixes for Windows 1Eb Error (0X80072FED) – A Complete Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effectively-reducing-high-resource-demand-of-wudfhostexe-in-windows-10-systems/"><u>Effectively Reducing High Resource Demand of WUDFHost.exe in Windows 10 Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/fast-windows-quick-skim-a-step-by-step-guide/"><u>Fast Windows Quick Skim A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gaining-authorization-from-trustedinstaller-a-guide-for-safe-file-editing/"><u>Gaining Authorization From TrustedInstaller: A Guide for Safe File Editing</u></a></li>
+<li><a href="https://win-guides.techidaily.com/guide-facile-localisez-tous-vos-cliches-en-windows-11/"><u>Guide Facile : Localisez Tous Vos Clichés en Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-failed-windows-update-permanently/"><u>How to Fix Failed Windows Update Permanently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-user-profile-service-failure-during-login-a-comprehensive-guide/"><u>How to Resolve 'User Profile Service Failure During Login': A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-tug-of-war-youtube-licensing-versus-cc-principles/"><u>In 2024, The Tug-of-War Youtube Licensing Versus CC Principles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-pubg-lag-issues-how-to-fix-connection-lags-and-enhance-your-gameplay/"><u>Solving PUBG Lag Issues: How to Fix Connection Lags and Enhance Your Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-locked-system-drive-on-windows-11/"><u>Troubleshooting a Locked System Drive on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-fix-error-code-0x800f0922-on-windows-11-systems/"><u>Troubleshooting Tips to Fix Error Code 0X800f0922 on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-the-solutions-to-nvidia-installer-failures/"><u>Unveiling the Solutions to NVIDIA Installer Failures</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1728499135710-windows-11/"><u>Windows 11バックアップ・リカバリツールを使ったデータ保護:手順ガイド</u></a></li>
+</ul></div>
 

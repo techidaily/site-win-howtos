@@ -1,7 +1,7 @@
 ---
 title: How to Get Windows + Shift + S Working Again on Your PC (Windows 11/10)
-date: 2024-08-23T14:02:25.720Z
-updated: 2024-08-24T14:02:25.720Z
+date: 2025-02-03T16:56:36.794Z
+updated: 2025-02-06T19:12:45.701Z
 tags:
   - win11
   - win10
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 3. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/troubleshoot.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Relaunch your computer and check the issue is resolved or not.
 
  If you fail to find Hardware and Devices Troubleshooter in Control Panel, that’s probably because your computer version is after **Windows 10 build 1809** . The version has removed the Hardware and Devices Troubleshooter. Don’t worry, you can still run the Hardware and Devices Troubleshooter in this way:
@@ -40,6 +45,11 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 1. Right-click on the**Start** button, then click**Windows PowerShell (Admin)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
@@ -50,25 +60,26 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
  If fix 1 can’t help, then try to uninstall and reinstall the AOC USB monitor driver to fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1: Uninstall AOC USB monitor driver
 
 1. Press**Windows logo key + R** to open the Run box.
 2. Type “devmgmt.msc” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click**Monitors** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/monitor.jpg)
 4. Right-click on the AOC USB monitor and click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 5. Follow the on-screen instructions to uninstall it.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 6. Reboot your computer.
 
 ### Step 2: Download AOC USB monitor driver
@@ -91,10 +102,16 @@ OR
 3. Click **Support** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfce1bef4.jpg)
 4. Scroll down and click **Driver** in the **Drivers and Software** section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfda9b0ca.png)
 5. Click the downloaded file and follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Option 2 – Automatically update AOC USB monitor drivers**
@@ -109,15 +126,9 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfffb0e24.jpg)
 3. Click the Update button next to your **AOC monitor** to automatically download and install the correct version of this driver (you can do this with the **FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdc1306ec3e.jpg)
 4. Reboot your computer and check the issue is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -129,8 +140,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +147,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-quick-capture-audiovisual-screen-shot/"><u>[New] 2024 Approved Quick Capture Audiovisual Screen Shot</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-expert-choice-top-10-video-subtitles-editors-online-for-2024/"><u>[New] Expert Choice Top 10 Video Subtitles Editors Online for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-from-zero-to-hero-profit-on-reddit-with-no-experience-top-13/"><u>[New] In 2024, From Zero to Hero Profit on Reddit with No Experience (Top 13)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-one-screen-many-screens-the-art-of-parallel-viewing/"><u>[New] One Screen, Many Screens The Art of Parallel Viewing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-giggle-galaxy-most-shared-content-on-both-platforms/"><u>[Updated] In 2024, Giggle Galaxy Most Shared Content on Both Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-transform-dull-game-captures-into-bright-shows-with-obs-tricks/"><u>[Updated] In 2024, Transform Dull Game Captures Into Bright Shows with OBS Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breeze-through-windows-11s-persistent-restart-issue-easy-solutions-inside/"><u>Breeze Through Windows 11'S Persistent Restart Issue - Easy Solutions Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210910844-cant-print-your-pdf-these-simple-tips-will-help-you-succeed/"><u>Can't Print Your PDF? These Simple Tips Will Help You Succeed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-high-cpu-consumption-by-antivirus-on-windows-11-fixed/"><u>Dealing with High CPU Consumption by Antivirus on Windows 11 [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-not-detected-solve-code-24-mishap-on-windows-10-8-and-7-systems/"><u>Device Not Detected? Solve Code #24 Mishap on Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/follow-these-strategies-for-a-clear-noise-free-listening-experience-with-your-headsets-or-headphones/"><u>Follow These Strategies for a Clear, Noise-Free Listening Experience with Your Headsets or Headphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-update-problem-decode-error-0x8007001f/"><u>How to Resolve Windows Update Problem – Decode Error 0X8007001f</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-mouse-cursor-on-windows-11-a-step-by-step-guide/"><u>How to Restore Your Mouse Cursor on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improved-performance-addressing-high-cpu-demands-in-windows-driver-foundation/"><u>Improved Performance: Addressing High CPU Demands in Windows Driver Foundation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Note 30 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solution-for-rdr2-memory-crash-how-to-expand-page-file-size-efficiently/"><u>Quick Solution for RDR2 Memory Crash: How to Expand Page File Size Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-fixing-pc-reboot-failures-in-windows/"><u>Step-by-Step Solutions for Fixing PC Reboot Failures in Windows</u></a></li>
+</ul></div>
 

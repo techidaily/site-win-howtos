@@ -1,7 +1,7 @@
 ---
 title: "Ensure Smooth Gaming: Overcoming Nier Automata PC Freezes and Crashes"
-date: 2025-01-24T17:22:33.776Z
-updated: 2025-01-25T16:59:48.140Z
+date: 2025-02-05T01:38:11.581Z
+updated: 2025-02-07T11:51:44.836Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -80,10 +76,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -115,6 +107,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer, and see if the problem is fixed or not.
 
 #### B. Reinstall the previous driver
@@ -126,16 +122,20 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -146,7 +146,7 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Change processor affinity
@@ -160,12 +160,12 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -188,24 +188,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-complete-guide-to-toolwiz-photography-software/"><u>[New] In 2024, Complete Guide to Toolwiz Photography Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-holistic-motion-comprehensiveness-review/"><u>[New] In 2024, Holistic Motion Comprehensiveness Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-chucklecraft-constructor/"><u>2024 Approved ChuckleCraft Constructor</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tap-into-audience-desires-strategies-for-video-templates/"><u>2024 Approved Tap Into Audience Desires Strategies for Video Templates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726224234804-jpeg-movavi/"><u>迅速なJPEG形式の無料オンラインファイル変更サービス - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comparing-aiff-and-wav-audio-formats-determining-the-superior-choice-with-movavi-converter/"><u>Comparing AIFF and WAV Audio Formats - Determining the Superior Choice with Movavi Converter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detailed-guide-on-video-editing-techniques-and-how-to-use-them/"><u>Detailed Guide on Video Editing Techniques and How to Use Them</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/disable-windows-automatic-update-warnings/"><u>Disable Windows Automatic Update Warnings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-comctl32dll-error-fixes-in-windows/"><u>Effective Solutions for Comctl32.dll Error Fixes in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-video-converter-convert-wmv-and-wtv-files/"><u>Free Online Video Converter - Convert WMV and WTV Files</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-s24-ultra-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy S24 Ultra phone? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/migliora-il-tuo-audiovisivo-trasformando-i-file-mp4-in-avi-senza-costi-conversione-libera-e-facile-con-movavi/"><u>Migliora Il Tuo Audiovisivo Trasformando I File MP4 in AVI Senza Costi - Conversione Libera E Facile Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-no-cost-tool-for-easy-transformation-of-ppm-images-into-png-on-the-web/"><u>Movavi's No-Cost Tool for Easy Transformation of PPM Images Into PNG on the Web</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavivobwmv/"><u>Movaviと同等の無料VOB・WMVコンバータ - オンラインで手軽に!</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-stop-repeated-edge-toolbar/"><u>Solutions to Stop Repeated Edge Toolbar</u></a></li>
-<li><a href="https://win11.techidaily.com/the-comprerante-process-to-remove-wsl-in-win-11-pcs/"><u>The Comprerante Process to Remove WSL in Win 11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transforme-seu-video-em-wmv-para-aiff-livre-e-gratuitamente-dicas-profissionais-do-movavi-on-line/"><u>Transforme Seu Vídeo Em WMV Para AIFF Livre E Gratuitamente - Dicas Profissionais Do Movavi On-Line</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformez-votre-fichier-au-format-mp4-gratuitement-via-le-web-avec-movavi-asiste/"><u>Transformez Votre Fichier Au Format MP4 Gratuitement via Le Web Avec Movavi Asiste</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-libertycam-studios-advanced-video-capture-capabilities/"><u>[New] 2024 Approved LibertyCam Studio's Advanced Video Capture Capabilities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-step-by-step-iphone-360-degrees-and-fb-sharing/"><u>[New] 2024 Approved Step-by-Step IPhone, 360 Degrees, & FB Sharing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-open-access-to-the-masters-oeuvre/"><u>[New] In 2024, Open Access to the Masters' Oeuvre</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-enhance-well-being-and-flexibility-with-these-outstanding-channels-for-2024/"><u>[Updated] Enhance Well-Being & Flexibility with These Outstanding Channels for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crackling-audio-issues-how-to-resolve-windows-107-speaker-distortion-problems/"><u>Crackling Audio Issues: How to Resolve Window's 10/7 Speaker Distortion Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210918220-dell-wireless-keyboard-malfunction-heres-how-you-can-get-it-running-again/"><u>Dell Wireless Keyboard Malfunction? Here's How You Can Get It Running Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-surface-when-its-plugged-in-but-wont-charge-a-comprehensive-guide/"><u>How to Fix Surface When It's Plugged in But Won't Charge: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-g2-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo G2</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-pathways-to-profit-with-youtube-short-videos/"><u>Proven Pathways to Profit with YouTube Short Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-geforce-experience-launch-problems-a-comprehensive-fix-guide/"><u>Resolving GeForce Experience Launch Problems: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-overcoming-connection-issues-with-microsoft-display-adapters/"><u>Windows 10: Overcoming Connection Issues with Microsoft Display Adapters</u></a></li>
 </ul></div>
 

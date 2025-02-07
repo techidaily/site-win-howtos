@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Existent OpenCL Dynamic Libraries
-date: 2024-08-23T14:04:33.726Z
-updated: 2024-08-24T14:04:33.726Z
+date: 2025-02-06T06:45:33.869Z
+updated: 2025-02-07T03:32:47.090Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 4. **[Check the audio settings on your PC](#Method3)**
 5. **[Replace with a PS4 microphone](#Method5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Check the hardware**
 
  If others can’t hear you in the party chat, but you can hear them clearly, please check these possibilities below to troubleshoot your problem.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
  First of all, you need to check your headset’s cables and ports to see if they are working properly.
 
  Make sure that you**correctly plug the cables into the appropriate ports** . Make sure there are **no dust or obstacles** inside the ports that may prevent your device from working properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Check your mic boom**
 
@@ -53,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 3) Try your PS4 mic again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 2: Update your sound card driver**
 
  If your microphone is not working when using it on a PC, you should update the audio driver to make sure there’s no problem communicating between the PC and the mic. There are two options to update your audio driver:[manually](#Way1) and[automatically](#Way2) .
@@ -103,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a866925cb8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click**Output to Headphones** , and select**All Audio** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a87f94933c.jpg)
@@ -115,22 +117,21 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a88777dfbd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 4: Check the audio settings on your PC**
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### **Step 1**
 
 1) Plug your microphone into the microphone jack on your PC.
@@ -139,20 +140,18 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2de909d7185.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the**Sound** pane, click the **Recording**   tab, and check if your microphone is set as default (there will be a green check mark next to it and the Set Default button is grayed out).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e28617ceab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  If your mic is not the default device, click the **Set Default**   button to set it as default.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e27bd4f1bd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Note:**   The device name might not be Microphone and the icon might not be in the shape of a Microphone in your computer.
 
  4) Click **OK** to save your settings.
@@ -164,18 +163,24 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dee8cb09cc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click the **Levels**  tab. Then slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -185,17 +190,15 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/win11-System-Sound-1200x797.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Scroll down and click**More sound settings** .
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Replace with a PS4 microphone
 
@@ -214,8 +217,6 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +224,24 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-framemaker-hd-recorder-tips/"><u>[Updated] FrameMaker HD Recorder Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-revenue-war-diary-dailymotion-vs-youtube-monetization-strategies-for-2024/"><u>[Updated] Revenue War Diary Dailymotion vs YouTube Monetization Strategies for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/addressed-remote-network-driver-flaw-in-windows-vista/"><u>Addressed: Remote Network Driver Flaw in Windows Vista</u></a></li>
+<li><a href="https://program-issues.techidaily.com/critical-fix-for-ntdlldll-failures-enhance-stability-in-windows-11-and-windows-10/"><u>Critical Fix for ntdll.dll Failures: Enhance Stability in Windows 11 & Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-guide-correcting-boot-device-not-found-on-windows-pcs/"><u>Effortless Troubleshooting Guide: Correcting 'Boot Device Not Found' On Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-reactivate-your-lost-wireless-signal/"><u>How to Successfully Reactivate Your Lost Wireless Signal</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-to-utilize-yls-tech-for-instant-web-to-printer-conversion-yl-computing/"><u>How to Utilize YL's Tech for Instant Web-to-Printer Conversion - YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/printscreen-problems-solved-a-guide-to-restoring-snipping-features-on-modern-windows-os/"><u>PrintScreen Problems Solved? A Guide to Restoring Snipping Features on Modern Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-file-not-found-error-messages/"><u>Resolved: Fixing 'File Not Found' Error Messages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-lameencdll-issues-in-audacitys-mp3-encoding-feature/"><u>Resolving lame_enc.dll Issues in Audacity's MP3 Encoding Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-vanishing-cursor-in-windows-11s-touchpad/"><u>Resolving the Issue of Vanishing Cursor in Windows 11'S Touchpad</u></a></li>
+<li><a href="https://article-tips.techidaily.com/sculpting-soundtracks-for-animation-using-movie-maker-tools/"><u>Sculpting Soundtracks for Animation Using Movie Maker Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-spectrum-of-ai-analyzing-the-contrast-between-robust-strong-ai-and-basic-weak-ai/"><u>The Spectrum of AI: Analyzing the Contrast Between Robust (Strong) AI and Basic (Weak) AI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-windows-11-keyboard-responsiveness/"><u>Troubleshooting and Solutions for Windows 11 Keyboard Responsiveness</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208416053-troubleshooting-your-faulty-shift-key-now-repaired/"><u>Troubleshooting Your Faulty Shift Key - Now Repaired!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-broken-night-light-in-windows-11/"><u>Winning the Battle Against Broken Night Light in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/winning-the-battle-against-dysfunctional-windows-11-widgets-expert-tips-and-tricks/"><u>Winning the Battle Against Dysfunctional Windows 11 Widgets: Expert Tips & Tricks</u></a></li>
+</ul></div>
 

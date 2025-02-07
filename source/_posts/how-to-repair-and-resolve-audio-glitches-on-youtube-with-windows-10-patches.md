@@ -1,7 +1,7 @@
 ---
 title: How to Repair and Resolve Audio Glitches on YouTube with Windows 10 Patches
-date: 2024-08-23T14:05:11.723Z
-updated: 2024-08-24T14:05:11.723Z
+date: 2025-02-06T05:13:31.914Z
+updated: 2025-02-06T19:29:11.903Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your device drivers
 
 If you got the mic-not-working issue after having Windows Updates, it’s possible that the drivers (especially the sound card driver) you’re using currently are out-dated, missing, or incompatible with your system. In case you’re not sure whether all the drivers are working fine, you should check.
@@ -51,6 +55,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
@@ -67,6 +75,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
@@ -82,6 +94,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  5) Again, click to highlight your mic. This time, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
@@ -112,36 +128,17 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 Now check to see your mic is back on track.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -151,24 +148,23 @@ Now check to see your mic is back on track.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this fix doesn’t work, please proceed to the next one.
 
 ---
@@ -183,8 +179,6 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +186,21 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-frontline-contenders-top-7-action-fps-games/"><u>[New] In 2024, Frontline Contenders Top 7 Action FPS Games</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-iphones-loop-functionality/"><u>[New] Unlocking iPhone's Loop Functionality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-freecamx-analyzed-performance-and-usability-review/"><u>[Updated] In 2024, FreeCamX Analyzed Performance & Usability Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ingenious-ai-photo-masterclass/"><u>2024 Approved Ingenious AI Photo Masterclass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/busting-the-nba-2k21-viral-green-coin-trick-an-inside-look/"><u>Busting the NBA 2K21 Viral Green Coin Trick – An Inside Look</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-regain-the-bluetooth-icons-on-your-windows-10-system/"><u>Effective Solutions to Regain the Bluetooth Icons on Your Windows 10 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-bypassing-easy-anti-cheat-problems-during-new-world-game-launch/"><u>Expert Tips for Bypassing Easy Anti-Cheat Problems During New World Game Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-your-sticky-notes-not-syncing-on-windows-11/"><u>How to Fix Your Sticky Notes Not Syncing on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restarting-and-repairing-your-windows-7-sound-driver-issues/"><u>Restarting and Repairing Your Windows 7 Sound Driver Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-mac-compatible-video-to-mp3-transcoder-convert-avi-wmv-mov-with-easy-macx-tool/"><u>Seamless Mac Compatible Video to MP3 Transcoder - Convert AVI, WMV, MOV with Easy MacX Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tackling-photo-app-errors-in-windows-11/"><u>Tackling Photo App Errors in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-archiving-and-distributing-your-chatgpt-talks-best-apps-for-history-syncing/"><u>The Ultimate Guide to Archiving & Distributing Your ChatGPT Talks - Best Apps for History Syncing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-why-your-usb-continually-disconnects-and-how-to-fix-it/"><u>Troubleshooting Steps: Why Your USB Continually Disconnects and How to Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-my-windows-11-machine-booting-up-alone-troubleshooting-guide/"><u>Why Is My Windows 11 Machine Booting Up Alone? Troubleshooting Guide</u></a></li>
+</ul></div>
 

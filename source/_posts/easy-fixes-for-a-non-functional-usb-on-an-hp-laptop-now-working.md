@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for a Non-Functional USB on an HP Laptop - Now Working
-date: 2024-08-23T14:06:14.296Z
-updated: 2024-08-24T14:06:14.296Z
+date: 2025-01-31T22:43:30.658Z
+updated: 2025-02-07T02:28:06.892Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
 
  Sometimes this**USB ports not working** problem is only a hiccup that can be easily solved by removing all the peripherals and reseating the battery before getting your HP laptop back to where it is.
@@ -45,9 +49,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -55,25 +56,29 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update the drivers for your USB devices
 
  This problem may occur if you’re using the wrong or outdated USB drivers. So you should update the drivers for your USB devices to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,15 +94,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -118,8 +121,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +128,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mute-instagrams-personalized-posts/"><u>[New] 2024 Approved Mute Instagram's Personalized Posts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lavorful-frames-stepwise-food-film-making-for-2024/"><u>[New] Flavorful Frames Stepwise Food Film-Making for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-revolutionary-screen-technology-elite-4k-options-for-mac-enthusiasts/"><u>[New] Revolutionary Screen Technology Elite 4K Options for Mac Enthusiasts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-strategizing-an-attention-grabbing-tiktok-signoff-for-2024/"><u>[New] Strategizing an Attention-Grabbing TikTok Signoff for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-expedite-your-social-media-presence-streamlined-video-upload-methods-for-instagram-desktop/"><u>[Updated] 2024 Approved Expedite Your Social Media Presence Streamlined Video Upload Methods for Instagram Desktop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-influencer-growth-on-instagram-top-5-steps-with-real-success/"><u>[Updated] In 2024, Navigating Influencer Growth on Instagram Top 5 Steps with Real Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-the-serial-and-model-numbers-on-your-apple-laptop-easily/"><u>Discovering the Serial and Model Numbers on Your Apple Laptop Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-installation-error-802e0020-step-by-step-solution-guide/"><u>Fixing Windows 11 Installation Error 802E0020 - Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-windows-update-malfunctions-a-step-by-step-approach/"><u>Guide To Resolving Windows Update Malfunctions - A Step-By-Step Approach</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-the-art-of-search-engine-optimization-for-podcasts-for-2024/"><u>Mastering the Art of Search Engine Optimization for Podcasts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-srt-tweaks-elevating-your-computing-for-2024/"><u>Optimal SRT Tweaks Elevating Your Computing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-problem-of-receiving-a-detected-change-on-your-network-connection/"><u>Overcoming the Problem of Receiving a 'Detected Change on Your Network Connection'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-how-to-restore-function-key-usage-on-your-device/"><u>Troubleshooting Fixes: How to Restore Function Key Usage on Your Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11-speeds-up-resolving-high-wmi-cpu-consumption/"><u>Win11 Speeds Up: Resolving High WMI CPU Consumption</u></a></li>
+</ul></div>
 

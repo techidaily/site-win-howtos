@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Making A Non-Working External Component Work With Your PC Again"
-date: 2024-08-23T14:04:19.667Z
-updated: 2024-08-24T14:04:19.667Z
+date: 2025-02-05T05:03:59.544Z
+updated: 2025-02-07T09:59:19.603Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -31,6 +35,10 @@ On your keyboard, press **Windows**  key + **X**  key together to open quick-acc
 Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)  
 
@@ -46,15 +54,20 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -68,8 +81,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -78,9 +92,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
  That’s all there is to it. Any questions please feel free to let us know by leaving comments below, thanks.
@@ -94,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +112,19 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-crafting-professional-livestreams-on-youtube-and-twitch-using-obs/"><u>[Updated] 2024 Approved Crafting Professional Livestreams on YouTube and Twitch Using OBS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cutting-edge-vector-design-the-most-popular-apps-reviewed-for-2024/"><u>[Updated] Cutting-Edge Vector Design The Most Popular Apps Reviewed for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-issues-with-realtek-hd-audio-player-not-starting-up/"><u>Expert Tips for Resolving Issues with RealTek HD Audio Player Not Starting Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207612785-how-to-resolve-your-pc-cant-close-windows-10-os-successfully-fixed/"><u>How to Resolve Your PC Can't Close Windows 10 OS Successfully – FIXED!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-11-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme 11 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-your-pc-from-randomly-restarting-on-windows-11-devices-expert-advice/"><u>How to Stop Your PC From Randomly Restarting on Windows 11 Devices: Expert Advice</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-xcover-7-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy XCover 7 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/langsam-gehende-abfahrtsprache-fur-deutsche/"><u>Langsam Gehende Abfahrtsprache Für Deutsche</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reinvigorate-your-devices-internal-shield-local-security-authority-features-fully-operational-now/"><u>Reinvigorate Your Device's Internal Shield: Local Security Authority Features Fully Operational Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-techniques-to-eliminate-slowdowns-and-lag-in-your-wow-gameplay/"><u>Top Techniques to Eliminate Slowdowns and Lag in Your WOW Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-selection-of-premium-stereo-sound-systems-in-2n1ear-best/"><u>ZDNet's Ultimate Selection of Premium Stereo Sound Systems in 2#N1Ear, Best !</u></a></li>
+</ul></div>
 

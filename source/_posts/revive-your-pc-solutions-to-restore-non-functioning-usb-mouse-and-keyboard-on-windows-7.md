@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7"
-date: 2025-01-23T18:36:08.301Z
-updated: 2025-01-25T16:27:51.899Z
+date: 2025-02-05T00:07:57.290Z
+updated: 2025-02-07T09:58:19.202Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -65,7 +73,7 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -108,20 +116,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -137,18 +137,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -177,18 +177,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/orf-png-movavi/"><u>「手軽に無料で高品位ORF PNG変換 - Movavi」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/m4b-wav-movavi/"><u>無限制網路下載改變 M4B到 WAV - 使用 Movavi 音頻轉換器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-veloce-di-mkv-a-mp4-su-internet-gratuito-via-movavi-scambio-formati-senza-costo/"><u>Conversione Veloce Di MKV a MP4 Su Internet Gratuito via Movavi - Scambio Formati Senza Costo</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-daily-habits-6-tips-on-integrating-chatgpt-into-your-at-home-productivity/"><u>Enhance Your Daily Habits: 6 Tips on Integrating ChatGPT Into Your At-Home Productivity</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 8 Plus Lock Screen</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-strategies-for-seamless-integration-of-work-and-youtube/"><u>In 2024, Strategies for Seamless Integration of Work & YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photographic-advantages-with-quantum-hdr-mastery-for-2024/"><u>Photographic Advantages with Quantum HDR Mastery for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Reviews & Guides</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trier-gratuitement-un-fichier-webm-au-format-avi-convertisseur-video-en-ligne-facile/"><u>Trier Gratuitement Un Fichier WebM Au Format AVI - Convertisseur Vidéo en Ligne Facile</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210222918-9781910531525-where-in-the-world/"><u>Where in the World | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726221656347-ai-10/"><u>가장 우수하고 유용한 AI 합성도어 소프트와 프로그램: 10대 권장 목록</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wi-fi-3g3gp/"><u>웹 제공 Wi-Fi를 통해 자이저스 라이터와 사용자 친화적인 3G/3GP 파일 전환 - 무료</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-sliding-to-victory-celebrating-the-best-in-snowboard-cross-winter-games-22/"><u>[New] Sliding to Victory Celebrating the Best in Snowboard Cross, Winter Games '22</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206100989-solved-airdrop-not-working-quickly-and-easily/"><u>[SOLVED] AirDrop Not Working | Quickly & Easily.</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-feast-of-fame-top-30-show-titles-to-sizzle-viewership/"><u>[Updated] In 2024, Feast of Fame Top 30 Show Titles to Sizzle Viewership</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeting-tides-the-rising-wave-of-viral-videos/"><u>[Updated] In 2024, Tweeting Tides The Rising Wave of Viral Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-soundscapes-spectrum-music-finder-service-for-2024/"><u>[Updated] Soundscapes Spectrum Music Finder Service for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209511095-boot-loop-blues-quick-tips-to-unstick-your-pc-from-boot-screen-deadlock/"><u>Boot Loop Blues? Quick Tips to Unstick Your PC From Boot Screen Deadlock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-new-world-effective-solutions-to-the-frustrating-easy-anti-cheat-launch-error/"><u>Conquering New World: Effective Solutions to the Frustrating Easy Anti-Cheat Launch Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoded-troubleshooting-failed-writes-to-0x-pointed-out-memory-slot-0x/"><u>Decoded: Troubleshooting Failed Writes to 0X Pointed-Out Memory Slot (0X)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-rectifying-audio-device-not-found-in-microsoft-operating-systems/"><u>Guide to Rectifying 'Audio Device Not Found' In Microsoft Operating Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-se-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone SE</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v29-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V29 Lock Screen Password?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-a-non-functional-diagnostic-policy-service-solved/"><u>How to Reactivate a Non-Functional Diagnostic Policy Service (Solved)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-11-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme 11 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-your-vanished-steam-library-privileges-detailed-tutorial-inside/"><u>Master the Fix for Your Vanished Steam Library Privileges - Detailed Tutorial Inside</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-copy-paste-malfunction-heres-how-to-restore-it/"><u>Windows 11 Copy-Paste Malfunction? Here's How to Restore It</u></a></li>
 </ul></div>
 

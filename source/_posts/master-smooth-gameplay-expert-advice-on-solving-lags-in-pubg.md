@@ -1,7 +1,7 @@
 ---
 title: "Master Smooth Gameplay: Expert Advice on Solving Lags in PUBG!"
-date: 2024-08-23T14:05:19.312Z
-updated: 2024-08-24T14:05:19.312Z
+date: 2025-02-04T21:31:57.366Z
+updated: 2025-02-07T00:42:26.583Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
    * [Steam](https://tools.techidaily.com/drivereasy/download/)  
    * [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make sure your PC meets the specs
 
  In order to play NBA 2K21, you need to make sure that your PC meets the minimum system requirements. If you want to have a better gaming experience, then it’s supposed to meet the recommended system requirements.
@@ -59,9 +63,6 @@ Recommended System Requirements
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Turn off Shot Feedback
 
  Many players have tested that turning off the**Shot Feedback** fixed the green glitch. So it’s worth a shot. To do so, you can:
@@ -70,16 +71,14 @@ Recommended System Requirements
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-2-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
@@ -121,25 +120,20 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Upload to Online Storage** and upload all your data for 2K21 to the cloud.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-2-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  3) After uploading your data, go back to**Saved Data in Online Storage** and click**Download to System Storage** . Then download everything from**MyCAREER** (Only from**MyCAREER** files and nothing else).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Steam
 
  If you play NBA 2K21 on Steam and got the green glitch, you’re supposed to**disable the Steam overlay** and**verify your game files** .
@@ -149,6 +143,10 @@ Here’s how to update drivers with Driver Easy:
  1) Click on the**LIBRARY** tab, right-click on your game**NBA 2K21,** and select Properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
@@ -166,15 +164,20 @@ To do this, simply follow the instructions below:
 
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When the process is completed, restart Steam and launch your game again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Xbox One: make sure the language is set to English
 
  If you don’t set the language to English, then it’s one of the reasons you got the green glitch.
@@ -184,24 +187,13 @@ To do this, simply follow the instructions below:
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/language-set-to-English-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  So these are the fixes that have been tested working for many gamers. If none of them work for you, then you’re supposed to uninstall and reinstall your game. Also, if you have any ideas or questions, do not hesitate to leave us a comment below.
@@ -215,8 +207,6 @@ To do this, simply follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +214,24 @@ To do this, simply follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-hot-hits-huddle-the-must-have-tiktok-rap-playlists-of-2021-for-2024/"><u>[New] Hot Hits Huddle The Must-Have TikTok Rap Playlists of 2021 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/early-review-how-sourav-joshi-achieved-success-on-youtube-by-2024/"><u>[New] Yearly Review How Sourav Joshi Achieved Success on YouTube by 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-user-profile-service-sign-in-errors-on-windows-1011-computers/"><u>Effective Fixes for the User Profile Service Sign-In Errors on Windows 10/11 Computers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effortless-steps-to-restore-lost-files-from-your-sd-card/"><u>Effortless Steps to Restore Lost Files From Your SD Card</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-in-depth-analysis-of-latest-hardware-gadgets/"><u>Expert Reviews by Tom: In-Depth Analysis of Latest Hardware Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-past-windows-11-freezing-point-update-solutions-unveiled/"><u>Getting Past Windows 11 Freezing Point: Update Solutions Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-best-of-the-best-online-stop-motion-makers-reviewed/"><u>In 2024, The Best of the Best Online Stop Motion Makers , Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-windows-11s-persistent-update-problem-error-id-0x80240034/"><u>Mastering the Fix for Windows 11'S Persistent Update Problem – Error ID 0X80240034</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/replaying-rarieties-retro-gaming-in-dosbox-x/"><u>Replaying Rarieties: Retro Gaming in DOSBox-X</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-content-consumption-configuring-pip-for-youtube-on-iphone-for-2024/"><u>Seamless Content Consumption Configuring PIP for YouTube on iPhone for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-windows-setup-hanging-issues-on-your-laptop-or-desktop/"><u>Solutions for Resolving Windows Setup Hanging Issues on Your Laptop or Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-resolving-the-issue-when-your-pc-gets-stuck-during-windows-10-shutdown/"><u>Solved! Resolving the Issue When Your PC Gets Stuck During Windows 10 Shutdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-activating-bluetooth-connectivity-in-windows-7/"><u>Step-by-Step Guide: Activating Bluetooth Connectivity in Windows 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-redmi-k70-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi Redmi K70 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-failed-attempts-at-changing-display-settings-successfully-explained/"><u>Troubleshooting Failed Attempts at Changing Display Settings Successfully Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-damaged-windows-11-registry-entries/"><u>Ultimate Guide: Repairing Damaged Windows 11 Registry Entries</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Correct Error Code 0X80240017 in Your Windows Updates
-date: 2024-08-23T14:02:56.606Z
-updated: 2024-08-24T14:02:56.606Z
+date: 2025-02-05T02:25:47.282Z
+updated: 2025-02-07T10:19:45.403Z
 tags:
   - win11
   - win10
@@ -44,11 +44,19 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap5-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click **Apply this fix**  to start the update process in the background immediately.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap7.png)
 
  The troubleshooter will try to fix the issue for you. You can restart your computer and try to perform the Windows update again. If it still doesn’t work, please try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Restarting the Windows Update service
 
@@ -68,6 +76,10 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap18-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Please paste it in the address bar.
 
 **4)** Delete all the files in the folder **DataStore** .
@@ -82,6 +94,10 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap21-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Please paste it in the address bar.
 
 **6)** Delete all the files in the folder**Download** .
@@ -94,7 +110,15 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap24-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Running System File Checker
 
@@ -104,10 +128,6 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap37.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **2)** On your keyboard, type the command below and press **Enter** . **If your current operating system is Windows 7, please skip this step.**
 
 DISM.exe /Online /Cleanup-image /Restorehealth
@@ -117,17 +137,9 @@ DISM.exe /Online /Cleanup-image /Restorehealth
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap11.png)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** When this command operation is completed, on your keyboard, type the following command and press **Enter** .
 
 sfc /scannow
@@ -139,8 +151,9 @@ It may take some time for the command operation to be completed.
 **4)** When this command operation is completed, close the **Command Prompt** and run **Windows Update**  again to check whether this method works or not. If you still fail to install updates for your Windows system, please try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Downloading updates from Microsoft Update Catalog manually
 
  If all the methods mentioned above still don’t work for you, you can try to download the updates you failed to install from **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  and install them manually.
@@ -157,9 +170,6 @@ It may take some time for the command operation to be completed.
 **ii.**  Type the command line**systeminfo** and press**Enter** to view your system type.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap31-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  “**X64-based PC** ” indicates that your Windows OS is 64-bit; “**X86-based PC** ” means that your Windows OS is 32-bit.
 
 **4)** Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  .
@@ -174,17 +184,10 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap26-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **7)** In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap27.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)** Double-click the downloaded file and follow the on-screen instructions to install the update.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -196,8 +199,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +206,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-acclaimed-software-rankings-top-10-phonepc-video-calls/"><u>[Updated] 2024 Approved Acclaimed Software Rankings Top 10 Phone/PC Video Calls</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-pro-video-and-photography-harnessing-the-power-of-hero5-black/"><u>[Updated] 2024 Approved Pro Video & Photography Harnessing the Power of Hero5 Black</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-voice-to-text-conversion-using-ms-words-advanced-features/"><u>[Updated] 2024 Approved The Ultimate Guide to Voice-to-Text Conversion Using MS Word's Advanced Features</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-effortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube/"><u>[Updated] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-uncovering-your-just-watched-list-on-facebook/"><u>[Updated] Uncovering Your Just-Watched List on Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-error-code-31-in-microsoft-windows-systems/"><u>Diagnosing and Repairing Error Code 31 in Microsoft Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-diagnosing-and-repairing-lack-of-light-in-your-razer-keyboard/"><u>Expert Advice: Diagnosing and Repairing Lack of Light in Your Razer Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-understanding-and-resolving-windows-camera-error-code-0xa00f4292/"><u>Fixing the Issue: Understanding & Resolving Windows Camera Error Code 0xA00F4292</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-8-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 8 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/june-2024s-premier-discounts-at-best-buy-discover-the-deals/"><u>June 2024'S Premier Discounts at Best Buy - Discover the Deals</u></a></li>
+<li><a href="https://solve-info.techidaily.com/scott-opitz-transitions-to-key-leadership-roles-as-cto-and-cpo-at-dabbyy/"><u>Scott Opitz Transitions to Key Leadership Roles as CTO and CPO at D'Abbyy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-excessive-ps4-system-sounds-a-comprehensive-fix/"><u>Solving the Problem of Excessive PS4 System Sounds: A Comprehensive Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-restoring-missing-physxloaderdll-for-smooth-gaming/"><u>Step-by-Step Guide to Restoring Missing physxloader.dll for Smooth Gaming</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95783094-9781594779374-the-psilocybin-solution/"><u>The Psilocybin Solution | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unresponsive-support-blizzard-disconnected/"><u>Unresponsive Support: Blizzard Disconnected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211815347-windows-11-keyboard-responsiveness-issue-how-to-fix-it/"><u>Windows 11 Keyboard Responsiveness Issue - How to Fix It!</u></a></li>
+</ul></div>
 

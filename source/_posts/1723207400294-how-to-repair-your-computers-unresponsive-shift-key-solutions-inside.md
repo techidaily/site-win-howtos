@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside
-date: 2025-01-22T17:37:20.205Z
-updated: 2025-01-25T17:54:38.689Z
+date: 2025-02-01T11:17:20.637Z
+updated: 2025-02-07T13:24:17.303Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -51,6 +51,10 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -69,10 +73,6 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Press the Shift key on your keyboard to see if it works.
 
 #### on Windows 11
@@ -84,12 +84,16 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
@@ -110,7 +114,7 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
@@ -118,10 +122,6 @@ Follow these:
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -142,17 +142,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-selective-enhancements-for-optimal-gopro-use-for-2024/"><u>[Updated] Selective Enhancements for Optimal Gopro Use for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-photo-puzzles-crafted-spark-joy-and-inspiration/"><u>2024 Approved Photo Puzzles Crafted Spark Joy and Inspiration</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-se-2022-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone SE (2022) Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-bad-image-issue-in-windows-11-and-10-a-step-by-step-guide/"><u>Fixing the 'Bad Image' Issue in Windows 11 & 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-windows-games-on-an-apple-silicon-mac-using-crossover/"><u>How to Play Windows Games on an Apple Silicon Mac Using CrossOver</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-efficiency-sidelining-unproductive-gpt-apps/"><u>Redefining Efficiency: Sidelining Unproductive GPT Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-for-operating-system-not-found-issues-on-pcs-and-laptops/"><u>Step-by-Step Resolution for 'Operating System Not Found' Issues on PCs and Laptops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208761898-the-ultimate-guide-to-overcoming-laptop-charging-problems-no-tech-expertise-required/"><u>The Ultimate Guide to Overcoming Laptop Charging Problems - No Tech Expertise Required!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-connection-issues-with-your-xbox-one-controller/"><u>Troubleshooting: Fixing Connection Issues with Your Xbox One Controller</u></a></li>
-<li><a href="https://techtrends.techidaily.com/twitch-service-outage-or-individual-connection-issues-how-to-tell/"><u>Twitch Service Outage or Individual Connection Issues: How to Tell?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solutions-for-unfreezing-your-pc-or-mac/"><u>Ultimate Guide: Solutions for Unfreezing Your PC or Mac</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnets-expert-picks-for-ideal-mac-enhancement-software-in-202e-a-comprehensive-guide-to-choosing-the-best/"><u>ZDNet's Expert Picks for Ideal Mac Enhancement Software in 202E: A Comprehensive Guide to Choosing the Best</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-frozen-pleasure-recording-review-deep-dive/"><u>[New] In 2024, Frozen Pleasure Recording Review Deep Dive</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-fullscreen-image-of-page-layout-for-2024/"><u>[Updated] Fullscreen Image of Page Layout for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-monetary-gains-mr-beast-in-focus/"><u>2024 Approved Monetary Gains Mr. Beast in Focus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-for-turning-on-your-pcs-bluetooth-feature-in-windows-1110/"><u>Comprehensive Tutorial for Turning On Your PC’s Bluetooth Feature in Windows 11/10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-fixes-bypassing-itunes-for-direct-system-reset-or-backup-recovery/"><u>DIY iPhone Fixes: Bypassing iTunes for Direct System Reset or Backup Recovery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-overworked-cpus-with-wmi/"><u>Eliminate Overworked CPUs with WMI</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-tecno-spark-go-2023-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Tecno Spark Go (2023) Quickly? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-psd-free-3d-text-treasure-hunt/"><u>In 2024, Premium PSD Free 3D Text Treasure Hunt</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-email-addressing-problems-with-key-malfunctions/"><u>Resolve Your Email Addressing Problems with @ Key Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-non-responsive-usb-mouse-problems-with-proven-techniques-for-laptops/"><u>Solve Your Non-Responsive USB Mouse Problems with Proven Techniques for Laptops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-kid-friendly-mobile-devices-a-parents-guide-zdnet/"><u>Top Kid-Friendly Mobile Devices: A Parent's Guide | ZDNet</u></a></li>
 </ul></div>
 

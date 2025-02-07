@@ -1,7 +1,7 @@
 ---
 title: Solution for Windows 11 Touchpad that Won't Scroll – Detailed Guide
-date: 2024-08-23T14:10:23.324Z
-updated: 2024-08-24T14:10:23.324Z
+date: 2025-02-06T11:15:20.917Z
+updated: 2025-02-06T18:17:31.979Z
 tags:
   - win11
   - win10
@@ -32,12 +32,20 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)  
 
@@ -53,8 +61,9 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -68,8 +77,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -79,8 +89,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
  That’s all there is to it. Any questions please feel free to let us know by leaving comments below, thanks.
@@ -94,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +112,23 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/iscover-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content-for-2024/"><u>[New] Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-8-affordable-3d-videos-players-on-pcmac-for-2024/"><u>[Updated] Top 8 Affordable 3D Videos Players on PC/Mac for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-airborran-viewing-20-free-dji-drone-luts-offer/"><u>[Updated] Transform Your Airborran Viewing - 20 FREE DJI Drone LUTS Offer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-fixes-for-device-recognition-in-windows-11-systems/"><u>Bluetooth Connectivity Fixes for Device Recognition in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeat-error-code-80240020-once-and-for-all-a-practical-guide-for-windows-11-users/"><u>Defeat Error Code 80240020 Once and For All - A Practical Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-correcting-windows-update-error-0x8024401c-on-win1011-platforms/"><u>Effective Solutions for Correcting Windows Update Error 0X802#4401c on Win10/11 Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-transform-mp4-audio-files-into-wav-format-on-various-versions-of-windows/"><u>How to Transform MP4 Audio Files Into WAV Format on Various Versions of Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagining-your-message-innovative-video-concepts/"><u>In 2024, Reimagining Your Message Innovative Video Concepts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-installation-barriers-deal-with-access-denied-for-printer-drivers/"><u>Overcoming Installation Barriers: Deal with 'Access Denied' For Printer Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reviving-hd-audio-on-windows-11/"><u>Reviving HD Audio on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211632657-step-by-step-guide-fixing-broken-or-uncooperative-keys-on-your-hp-laptop-easily/"><u>Step-by-Step Guide: Fixing Broken or Uncooperative Keys on Your HP Laptop Easily!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-reasons-why-zerogpt-and-similar-ai-detectors-may-not-be-reliable-case-studies/"><u>Top Reasons Why ZeroGPT & Similar AI Detectors May Not Be Reliable: Case Studies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-hp-accelerometer-problems-on-windows-pcs-a-comprehensive-guide/"><u>Troubleshooting HP Accelerometer Problems on Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-unstick-a-laptop-when-it-freezes-during-boot-up/"><u>Troubleshooting: How to Unstick a Laptop When It Freezes During Boot Up</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to Restore Your Windows 11 Computer's Broken USB Connections
-date: 2024-08-23T14:04:13.804Z
-updated: 2024-08-24T14:04:13.804Z
+date: 2025-01-30T17:58:26.094Z
+updated: 2025-02-07T13:43:04.482Z
 tags:
   - win11
   - win10
@@ -42,17 +42,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -64,14 +73,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -86,9 +94,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -104,14 +109,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -126,8 +135,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +142,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-the-art-of-thumbnail-design-tips-and-pitfalls/"><u>[New] In 2024, Mastering the Art of Thumbnail Design Tips and Pitfalls</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-enhancing-images-the-secret-to-subtracting-backdrops-in-photopea/"><u>[Updated] 2024 Approved Enhancing Images The Secret to Subtracting Backdrops in Photopea</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-list-for-first-time-film-makers-35mm-to-pands/"><u>[Updated] The Ultimate List for First-Time Film Makers (35Mm to P&S)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-cant-connect-a-step-by-step-fix-for-initialization-errors/"><u>Dragon Ball FighterZ Can't Connect: A Step-by-Step Fix for Initialization Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/easy-entry-level-choices-for-gopro-accessories/"><u>Easy Entry-Level Choices for GoPro Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/full-fledgon-baldurs-gate-3-playing-it-smoothly-on-macos/"><u>Full-Fledgon Baldur's Gate 3: Playing It Smoothly on macOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-reactivating-screen-brightness-options-on-your-windows-10-pc/"><u>Guide: Reactivating Screen Brightness Options on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-synaptics-touchpad-when-scrolling-on-windows-11/"><u>How To Fix A Non-Responsive Synaptics Touchpad When Scrolling on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207400294-how-to-repair-your-computers-unresponsive-shift-key-solutions-inside/"><u>How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-your-microsoft-display-adapter-connectivity-problems-with-windows-10/"><u>How to Troubleshoot and Resolve Your Microsoft Display Adapter Connectivity Problems with Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-internet-based-live-audio-capture-5-key-strategies/"><u>Mastering Internet-Based Live Audio Capture 5 Key Strategies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-blurry-to-brilliant-top-video-enhancement-tools/"><u>New From Blurry to Brilliant Top Video Enhancement Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolution-understanding-issues-with-the-teredo-protocol-connection/"><u>Resolution: Understanding Issues with the Teredo Protocol Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-windows-unable-to-set-up-key-system-components-issue/"><u>Resolved: Fixing 'Windows Unable to Set Up Key System Components' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-guide-when-microsoft-store-doesnt-launch/"><u>Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-network-alteration-noticed-errors-quickly/"><u>Understanding and Solving 'Network Alteration Noticed Errors' Quickly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uphere-m201-ssd-cooler-test-report-unbeatable-nvme-heat-dissipation-for-only-5/"><u>UpHere M201 SSD Cooler Test Report: Unbeatable NVMe Heat Dissipation for Only $5</u></a></li>
+</ul></div>
 

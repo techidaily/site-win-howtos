@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Non-Responsive Backlight Buttons on Laptop Keyboards"
-date: 2025-01-22T16:26:22.554Z
-updated: 2025-01-25T16:01:53.140Z
+date: 2025-02-04T13:21:58.232Z
+updated: 2025-02-06T21:51:57.045Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -33,7 +33,7 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 3. **[Clean your keyboard with a compressed air duster](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Re-power your laptop
@@ -47,7 +47,7 @@ If somehow your Toshiba laptop keyboard gets stuck, the keys could stop working.
 Try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your keyboard driver and HID driver
@@ -59,14 +59,14 @@ An old, corrupted or missing**keyboard driver**or**HID (Human interface device) 
 3. Click **Update**  next to the flagged keyboard or HID driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baef3772a4b2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating the drivers, try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Clean your keyboard with a compressed air duster
 
@@ -94,17 +94,24 @@ Hopefully this article helps. Feel free to comment below with your own experienc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-craft-powerful-tags-for-maximum-youtube-engagement/"><u>[New] 2024 Approved How to Craft Powerful Tags for Maximum Youtube Engagement</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-incorporating-tracks-into-online-visual-narratives-for-2024/"><u>[New] Incorporating Tracks Into Online Visual Narratives for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-perfect-youtube-thumbnails-on-macos-for-2024/"><u>[Updated] Crafting Perfect YouTube Thumbnails on macOS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/webraf-to-jpeg-movavi/"><u>無償WebベースRAF to JPEGコンバーター Movaviによるシンプル変換方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/come-convertire-i-file-vob-in-formato-mkv-on-line-gratuitamente-usando-movavi-tutorial-completo-e-facilmente-comprensibile/"><u>Come Convertire I File VOB in Formato MKV On-Line Gratuitamente Usando Movavi: Tutorial Completo E Facilmente Comprensibile</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/cookiebot-powered-solutions-enhance-your-websites-seo/"><u>Cookiebot Powered Solutions – Enhance Your Website's SEO</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-team-talking-resolve-rainbow-six-sieges-voice-call-problems-now/"><u>Get Your Team Talking: Resolve Rainbow Six Siege's Voice Call Problems Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/imovie-pc-macwindows/"><u>IMovie PC バージョンダウンロード: MacとWindowsで動画編集を楽しむ方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-mp3mkv-movavi/"><u>Online MP3/MKV 크레이트로 무료 변환 - Movavi</u></a></li>
-<li><a href="https://discover-best.techidaily.com/step-by-step-tutorial-achieving-top-notch-sound-quality-in-voice-recording-on-windows-11/"><u>Step-by-Step Tutorial: Achieving Top-Notch Sound Quality in Voice Recording on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-powerhouse-trio-of-social-networks-understanding-facebook-twitter-instagram-and-youtube-dynamics/"><u>The Powerhouse Trio of Social Networks: Understanding Facebook, Twitter, Instagram, and YouTube Dynamics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avi-gif/"><u>오토바이오의 원격 AVI 티팟을 GIF으로 자유롭게 변환 - 모바비</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-flip-techniques-rotate-videos-for-max-impact/"><u>[New] In 2024, Insta-Flip Techniques Rotate Videos for Max Impact</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-sound-shaping-techniques-for-mobile-top-7-vocal-editing-app-recommendations/"><u>[New] Sound Shaping Techniques for Mobile Top 7 Vocal Editing App Recommendations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-optimize-workflow-effective-methods-of-capturing-macs-screen-via-shortcut-keys/"><u>[Updated] In 2024, Optimize Workflow Effective Methods of Capturing Mac’s Screen via Shortcut Keys</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-visual-narratives-that-speak-volumes-with-instagramcaptions-for-2024/"><u>[Updated] Visual Narratives That Speak Volumes with #InstagramCaptions for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-vuephoto-masterclass-and-evaluation-for-2024/"><u>[Updated] VuePhoto Masterclass and Evaluation for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-standout-settings-guide-for-online-events/"><u>2024 Approved Standout Settings Guide for Online Events</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banish-troublesome-glitches-proven-methods-to-correct-0x80072efd-mishaps-on-your-windows-11-machine/"><u>Banish Troublesome Glitches: Proven Methods to Correct 0X80072EFD Mishaps on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-address-fatal-installation-error-understanding-error-1603/"><u>Effective Solutions to Address Fatal Installation Error: Understanding Error 1603</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-file-explorer-problem-in-windows-10-step-by-step-solution/"><u>Fixing the Unresponsive File Explorer Problem in Windows 10 - Step by Step Solution</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-s17t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo S17t Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/magix-music-maker-review-for-2024/"><u>Magix Music Maker Review for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-touchpad-navigation-resolve-stuckunresponsive-scroll-wheel-issues/"><u>Mastering Touchpad Navigation: Resolve Stuck/Unresponsive Scroll Wheel Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-14-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 14 Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-non-responsive-file-explorer-on-windows-10/"><u>Quick Fixes for Non-Responsive File Explorer on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-10-systems/"><u>Resolve Excessive CPU Consumption Caused by wudfhost.exe on Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixes-for-unresponsive-google-chrome-browser-issues/"><u>Resolved: Fixes for Unresponsive Google Chrome Browser Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/total-sphere-camera-systems/"><u>Total Sphere Camera Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unfreezing-stuck-windows-update-on-win7-resolution-guide-helpful-tips/"><u>Unfreezing Stuck Windows Update on Win7 - Resolution Guide (Helpful Tips)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/yac539-yamahaaturbosound-ii-sound-module-based-on-the-ymf768ymu768-dsp-plus-midi-synthesizer-plus-codec-and-128-mb-of-spiram-for-sample-storage-instead-of-r145/"><u>YAC539 - Yamaha'aturboSound II Sound Module Based on the YMF768/YMU768 (DSP + MIDI Synthesizer + Codec) and 128 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

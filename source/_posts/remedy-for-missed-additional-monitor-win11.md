@@ -1,7 +1,7 @@
 ---
 title: Remedy for Missed Additional Monitor (Win11)
-date: 2024-08-23T14:05:01.322Z
-updated: 2024-08-24T14:05:01.322Z
+date: 2025-02-05T13:43:31.052Z
+updated: 2025-02-07T06:03:49.135Z
 tags:
   - win11
   - win10
@@ -48,17 +48,46 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 1. Right click on any**empty area** on your desktop, then select**Display Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ad509cbf.jpg)
 2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
 3. Click**Keep changes** if you see the popup verification dialog.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
 4. Then click**Advanced** **display** **settings** on the same screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
 5. Click**Display** **adapter** **properties** **for** **Display** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d226ff59.jpg)
 7. Click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
 
@@ -67,12 +96,22 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 1. Right click on any**empty area** on your desktop, then select**Screen** **resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3de95308b.png)
 2. Change**Resolution** to the specific resolution (in my case I choose**1080×1920** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e3dadb40.jpg)
 3. Click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
 4. Click**Keep changes** if you see the verification message.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
 5. On the same screen, click**Advanced** **settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
@@ -81,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 
 Restart your computer in normal mode and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update graphics card driver
 
  The video card driver corruption can also cause your input timing not supported error, so you should keep your video card driver up to date.
@@ -105,17 +141,13 @@ Restart your computer in normal mode and see if it works.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  This should fix your problem. Still no luck? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Boot your computer in low-resolution mode
 
  This method has been said to be working for many people who have the same error. You can try using the low resolution mode in your computer, in order to match the resolution for your monitor.
@@ -129,27 +161,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Then wait for Windows to diagnose your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc912c08c2.png)
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
 4. Click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
 5. Click**Advanced** **options** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
 
  Then your computer will boot into the low-resolution mode and it should fix your error.
@@ -162,6 +183,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. In the**Advanced** **Boot** **Options** **Menu** screen, press the**arrow up** or**arrow down** key to select**Enable VGA Mode** (or**Enable low-resolution mode** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf4111e6908.jpg)
 3. Then press**Enter** on your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer will boot into the selected VGA mode and your error message should disappears.
 
@@ -176,8 +201,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +208,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-designing-intriguing-instagram-post-thumbnails/"><u>[New] Designing Intriguing Instagram Post Thumbnails</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-iphone-hdr-mastery-a-complete-workshop-for-2024/"><u>[Updated] IPhone HDR Mastery A Complete Workshop for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-monetary-value-of-each-youtube-brand-partnership/"><u>[Updated] The Monetary Value of Each YouTube Brand Partnership?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-duckduckgo-how-secure-is-it-really/"><u>A Comprehensive Guide to DuckDuckGo - How Secure Is It Really?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fix-the-connectivity-issues-error-error-code-0x800704cf-in-windows/"><u>Comprehensive Guide to Fix the 'Connectivity Issues' Error (Error Code 0X800704CF) in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-a-broken-key-on-your-keyboard-or-smartphone/"><u>Expert Advice: Fixing a Broken '@' Key on Your Keyboard or Smartphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-windows-11-users-report-surface-pro-4-camera-malfunction/"><u>Fixing the Issue: Windows 11 Users Report Surface Pro 4 Camera Malfunction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-ftdi-driver-conflicts-restoring-memory-checks-and-data-safety/"><u>Resolving FTDI Driver Conflicts: Restoring Memory Checks and Data Safety</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-to-clear-up-the-windows-update-error-x0x800706f2-quickly/"><u>Troubleshooting Guide to Clear Up the Windows Update Error: X0x800706F2 Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-siris-capabilities-how-to-have-your-device-read-out-text-for-you/"><u>Unlocking Siri's Capabilities: How to Have Your Device Read Out Text for You</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mkvtoolnix-for-macos-a-beginners-guide-to-video-editing/"><u>Updated 2024 Approved MKVtoolnix for macOS A Beginners Guide to Video Editing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004666700-upgrade-your-borderlands-n-experience-get-rid-of-those-irritating-lags/"><u>Upgrade Your Borderlands N Experience: Get Rid of Those Irritating Lags</u></a></li>
+</ul></div>
 

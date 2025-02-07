@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Restore Proper Functionality of Special Keys on a Dell Notebook
-date: 2025-01-20T16:47:28.264Z
-updated: 2025-01-25T16:10:09.431Z
+date: 2025-02-05T01:25:32.078Z
+updated: 2025-02-07T14:50:46.886Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the problem is resolved.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 2. [**Update your audio driver**](#F2)
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -54,7 +54,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
@@ -74,8 +74,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
@@ -91,10 +99,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
@@ -103,15 +107,11 @@ To do so:
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
@@ -148,24 +148,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-download.techidaily.com/solved-xbox-acc-driver-issues-on-windows-1087/"><u>[SOLVED] XBOX ACC Driver Issues on Windows 10/8/7</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-step-by-step-to-stellar-custom-shorts-thumbnails/"><u>[Updated] In 2024, Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-next-gen-universe-expedition-metaverse-vs-omniverse-taken-into-account/"><u>[Updated] In 2024, The Next-Gen Universe Expedition Metaverse Vs. Omniverse Taken Into Account</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-smartphone-lens-creating-sweeping-panos/"><u>[Updated] The Smartphone Lens Creating Sweeping Panos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-yuva-2-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Yuva 2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detecting-and-setting-up-additional-monitors-on-windows-7-problem-free/"><u>Detecting and Setting Up Additional Monitors on Windows 7: Problem-Free</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-social-networking-sites-navigating-facebook-twitter-instagram-youtube/"><u>Essential Social Networking Sites: Navigating Facebook, Twitter, Instagram, Youtube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-getting-your-dells-usb-port-up-and-running-again/"><u>Expert Tips for Getting Your Dell's USB Port Up & Running Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-lost-sound-controls-volume-icons-on-windows-10-visual-instructions-included/"><u>How to Restore Your Lost Sound Controls (Volume Icons) on Windows 10 - Visual Instructions Included</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-the-art-of-sharing-animated-gifs-on-instagram-tips-for-your-feed-and-stories/"><u>Mastering the Art of Sharing Animated GIFs on Instagram: Tips for Your Feed & Stories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-resolving-damaged-driver-issues-instantly/"><u>Quick and Simple Guide: Resolving Damaged Driver Issues Instantly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-pick-drones-compatible-with-gopro-cameras/"><u>Top Pick Drones Compatible with GoPro Cameras</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tips-for-dealing-with-hanging-screens-in-windows-10-operating-system/"><u>Top Tips for Dealing With Hanging Screens in Windows 10 Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tips-for-fixing-no-miracast-support-on-this-device/"><u>Top Tips for Fixing 'No Miracast Support on This Device'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-essentials-effortless-solutions-for-fixing-call-of-duty-black-ops-4-bugs/"><u>Troubleshooting Essentials: Effortless Solutions for Fixing Call of Duty Black Ops 4 Bugs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-no-bootable-device-found-dilemma/"><u>Ultimate Guide: Solving the 'No Bootable Device Found' Dilemma</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-holds-off-graphics-card-use/"><u>Windows 10 Holds Off Graphics Card Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-windows-11s-troublesome-update-issue-code-0x800705b4-explained/"><u>Winning Against Windows 11'S Troublesome Update Issue: Code 0X800705b4 Explained</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-audiovisual-symphony-adding-music-to-your-youtube-masterpieces/"><u>[New] In 2024, Audiovisual Symphony Adding Music to Your YouTube Masterpieces</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/apid-fortnite-tile-making-hacks/"><u>[New] Rapid Fortnite Tile-Making Hacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-techniques-to-deactivate-auto-played-podcast-suggestions-in-spotify/"><u>[New] Techniques to Deactivate Auto-Played Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-become-an-expert-at-capturing-every-detail-on-xiaomi-mi-11/"><u>[Updated] Become an Expert at Capturing Every Detail on Xiaomi Mi 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dial-up-the-impact-with-50-free-branding-graphics/"><u>[Updated] In 2024, Dial Up the Impact with 50 FREE Branding Graphics</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-maintaining-youtube-like-video-quality-on-twitter/"><u>[Updated] Maintaining YouTube-Like Video Quality on Twitter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dells-usb-port-problem-discover-proven-strategies-to-get-it-working-again/"><u>Dell's USB Port Problem? Discover Proven Strategies to Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-fixing-unavailable-destiny-ebx-server-issues/"><u>Expert Advice on Fixing Unavailable Destiny Ebx Server Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-non-responsive-dns-server-top-4-quick-fixes/"><u>Fix a Non-Responsive DNS Server: Top 4 Quick Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-resolving-windows-10-crashes-during-launch-and-booting/"><u>Fixing the Issue: Resolving Windows 10 Crashes During Launch & Booting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unexpected-termination-of-services-overcoming-error-1067-on-your-pc/"><u>How to Resolve Unexpected Termination of Services: Overcoming Error 1067 on Your PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-hdr-camera-match-up/"><u>In 2024, The Ultimate HDR Camera Match-Up</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-f54-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy F54 5G Device</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unlock-youtubes-end-screens-easy-template-ideas-and-tutorials/"><u>In 2024, Unlock YouTube's End Screens Easy Template Ideas & Tutorials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-fix-your-pc-when-it-wont-recognize-a-usb-drive/"><u>Quick Solutions: Fix Your PC When It Won't Recognize a USB Drive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-trick-to-overcome-no-device-found-hurdle-when-setting-up-your-windows-7-system/"><u>The Ultimate Trick to Overcome No Device Found Hurdle When Setting Up Your Windows 7 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-sims-4-cannot-be-launched-problem/"><u>Troubleshooting Guide: Resolving 'Sims 4 Cannot Be Launched' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-hello-issues-making-facefingerprint-recognition-work-on-non-compatible-windows-11-machines/"><u>Troubleshooting Windows Hello Issues: Making Face/Fingerprint Recognition Work on Non-Compatible Windows 11 Machines</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unsticking Windows 11 Updates: Solutions for When Your System Freezes"
-date: 2024-08-23T14:09:46.512Z
-updated: 2024-08-24T14:09:46.512Z
+date: 2025-02-03T18:07:13.574Z
+updated: 2025-02-06T16:53:30.849Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 
  If the keypad suddenly stops working on your laptop, don’t worry. Thousands of users have reported the same. Luckily they’ve solved this woe with the one of the 3 fixes below. So read on and check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  All the fixes below work in **Windows 10** , **8** and **7** . You may not have to try them all; just work your way down the list until this**laptop keyboard not working** problem goes away.
@@ -34,24 +38,22 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 1. On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Keyboards** , then right-click on your keyboard and click **Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 3. Wait until the uninstall finishes and **Restart**   your computer so that your computer can auto-install the keyboard driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type on your laptop keyboard again and see if it works properly.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your keyboard driver
 
  Your outdated keyboard driver may very well be another reason responsible for this **keys not working in laptop** problem if**Fix 1** didn’t help with the situation. We might have to update our keyboard driver to the latest version to make sure problems don’t exacerbate.
@@ -69,19 +71,19 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Type on your keypad and test if the**laptop keypad not working** problem has been fixed.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3:  Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot this**laptop** **keyboard not working** issue. To do so:
@@ -107,8 +109,6 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,23 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-windows-cpu-load-eased-by-system-halt-signals/"><u>[FIXED] Windows CPU Load Eased by System Halt Signals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-discovering-top-5-fluids-in-virtual-playgrounds-for-2024/"><u>[Updated] Discovering Top 5 Fluids in Virtual Playgrounds for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram-for-2024/"><u>[Updated] From Novice to Experienced 6 Strategies for Quick Verification on Instagram for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unleash-creativity-premier-vimeo-editors-deliver/"><u>[Updated] In 2024, Unleash Creativity Premier Vimeo Editors Deliver</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-resolving-unrecognizable-usb-flash-drives/"><u>Effortless Solutions: Resolving Unrecognizable USB Flash Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-steelseries-arctis-5-microphone-issue-a-complete-guide/"><u>Fixing the SteelSeries Arctis 5 Microphone Issue: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/framerate-fiasco-windows-1011-games-freeze/"><u>Framerate Fiasco: Windows 10/11 Games Freeze</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gaming-triggers-unexpected-shutdowns/"><u>Gaming Triggers Unexpected Shutdowns</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-avoiding-miscommunication-on-google-meet-best-practices/"><u>In 2024, Avoiding Miscommunication on Google Meet Best Practices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-g920-software-downloads-supported-by-windows-11-10-8-and-ebxse/"><u>Logitech G920 Software Downloads: Supported by Windows 11, 10, 8 & Ebxse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-starting-the-sims-asterity-how-to-fix-it/"><u>Overcoming Issues with Starting The Sims Asterity | How To Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reveal-and-resolve-the-missing-wi-fi-menu-issue-in-windows-11/"><u>Reveal & Resolve the Missing Wi-Fi Menu Issue in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sound-blaster-audigy-fx-driver-installation-step-by-step-guide-with-images/"><u>Sound Blaster Audigy FX Driver Installation: Step-by-Step Guide with Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-ultimate-blueprint-for-telegram-marketplace-success-for-2024/"><u>The Ultimate Blueprint for Telegram Marketplace Success for 2024</u></a></li>
+</ul></div>
 

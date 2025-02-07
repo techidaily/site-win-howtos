@@ -1,7 +1,7 @@
 ---
 title: How To Repair The Sudden Stop of Your Hamachi Service - A User's Handbook
-date: 2024-08-23T14:07:39.506Z
-updated: 2024-08-24T14:07:39.506Z
+date: 2025-02-02T09:59:40.393Z
+updated: 2025-02-06T21:50:24.323Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Repair corrupted system files
 
  Windows system file corruption often leads to this issue. **If you’d like to repair all the corrupted system files ASAP** , try using **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
@@ -50,9 +54,17 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 6. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s any issue, then click the START REPAIR button on the lower-right corner, and with just one click, Fortect will start repairing the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Wait until your Windows system installed all the updates**
 
@@ -62,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 
  The time it may take depends on your hardware specifications. It is recommended that you wait for**2 hours** . 2 hours later, if the your PC still gets stuck on the screen of “Preparing to configure Windows”, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Disconnect all the external devices and perform a hard reboot**
 
  Since your PC gets stuck on the screen of “Preparing to configure Windows” when you try to shut down your Windows system, in such a case, the only thing you can do is to**disconnect all the external devices** (such as**USB flash** **drives** ,**the external hard disk drive** , etc) and**perform a hard reboot** . Follow the instruction below to perform a hard reboot:
@@ -83,17 +92,11 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 2. In the pop-up window, click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)
 3. Wait until Windows downloads and installs all the updates.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Windows to see if your PC will get stuck on the screen of “Preparing to configure Windows” again. It’s recommended that you**plug in your PC** and give your Windows system a whole night to configure all the updates. Normally, a whole night is enough for your Windows system to handle all these updates.
 
  If your PC still gets stuck when you wake up, you should **follow the instruction above to perform a hard reboot and then try the next fix** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Performing a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can **find out the problematic software that makes your game keep crashing** . Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -103,11 +106,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-4.jpg)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-4.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-5.jpg)
@@ -117,6 +122,11 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
    1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)  
    2. In the pop-up window, click**Check for updates** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)  
    3. Wait until Windows downloads and installs all the updates.
 8. Restart your PC when Windows installed all the updates to see if this issue persists.
@@ -132,33 +142,37 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press**the Windows logo key** and type**restore** , in the list of search results, select **Create a restore** **point** . You will be prompted for permission. Click **Yes**  to open the **System Protection**  settings .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-create-restore-point.jpg)
 2. Ensure **the Protection status** of the local disk drive that has your Windows system installed on is**On** . Then click**System Restore…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap13-1.jpg)  
  If**the Protection status** of the local drive that has your Windows system installed on is**Off** , it indicates that you have**disabled** the system restore feature on this drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select**Choose a different restore point**  and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-4.jpg)
 4. Check the box next to **Show more restore points** . Select the restore point that is created just**before you run into this issue** and then click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-4.jpg)
-5. Click**Finish** to confirm your restore point.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap17-3.jpg)
-6. Click**Yes** to start restoring your Windows system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-4.jpg)
+5. Click**Finish** to confirm your restore point.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap17-3.jpg)
+6. Click**Yes** to start restoring your Windows system.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
+
  After restoring your Windows system, this annoying issue should be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus tip: Update your driver to the latest version**
 
@@ -176,15 +190,9 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap19-2.jpg)
 3. Click **Update**  next to your device to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap20-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) for advice. You should attach the URL of this article so they can help you better.
@@ -201,8 +209,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +216,23 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-secure-and-save-your-sessions-a-pc-and-smartphone-recorders-haven-for-2024/"><u>[New] Secure & Save Your Sessions A PC & Smartphone Recorder's Haven for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-steps-for-effective-ipad-screen-casts-for-2024/"><u>[New] Steps for Effective iPad Screen Casts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-knowledge-keepers-premier-10-tools-to-record-teaching-sessions/"><u>[Updated] In 2024, Knowledge Keepers Premier 10 Tools to Record Teaching Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unleash-creativity-capturing-sims-4-adventures/"><u>[Updated] Unleash Creativity Capturing Sims 4 Adventures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/camera-selection-integrating-with-windows-hello/"><u>Camera Selection: Integrating with Windows Hello</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solution-for-the-persistent-0x80072efd-problem-in-windows-10/"><u>Complete Solution for the Persistent 0X80072EFD Problem in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dimming-device-sudden-blackout/"><u>Dimming Device: Sudden Blackout</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolved-managing-delayed-service-response-overcoming-error-1053/"><u>Error Resolved: Managing Delayed Service Response, Overcoming Error 1053</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-xr-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone XR</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-home-button-malfunctioning-explore-these-5-quick-fixes/"><u>Iphone Home Button Malfunctioning? Explore These 5 Quick Fixes!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-s-best-pc-video-dubbing-programs-reviews-and-downloads/"><u>New In 2024, S Best PC Video Dubbing Programs Reviews and Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connection-issues-top-strategies-for-pairing-airpods-with-windows-pcs/"><u>Resolving Connection Issues: Top Strategies for Pairing AirPods with Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-troubleshooting-a-non-operational-policy-monitoring-tool/"><u>Successfully Troubleshooting a Non-Operational Policy Monitoring Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-walkthrough-for-reinstalling-windows-11-from-scratch-using-the-built-in-recovery-tools/"><u>Ultimate Walkthrough for Reinstalling Windows 11 From Scratch Using the Built-In Recovery Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-meizu-21-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Meizu 21 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-wont-turn-off-here-are-the-fixes-to-your-computer-issue-resolved/"><u>Windows 10 Won’t Turn Off? Here Are the Fixes to Your Computer Issue - RESOLVED</u></a></li>
+</ul></div>
 

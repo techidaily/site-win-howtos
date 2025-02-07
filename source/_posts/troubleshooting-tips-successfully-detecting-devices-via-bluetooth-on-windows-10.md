@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Successfully Detecting Devices via Bluetooth on Windows 10"
-date: 2025-01-22T18:34:04.647Z
-updated: 2025-01-25T17:05:19.819Z
+date: 2025-02-06T01:52:19.590Z
+updated: 2025-02-06T16:00:53.789Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Run Windows Update Troubleshooter**
 
  Microsoft provides Windows Update troubleshooter which will detect the problem and fix it. Try using this method to fix the 0x800705b4 error and it may work for you.
@@ -51,13 +55,13 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587457ec45cf7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**Advanced** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58748718cdfdb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click**Run as administrator** .
 
@@ -67,11 +71,11 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874588bebf3f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8) Check to see if you see the 0x800705b4 error in Windows Update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 2: Change Windows Update Settings**
 
@@ -82,6 +86,10 @@ Follow these steps:
  1) Type**Windows Update** in Cortana and click**Check for updates** on the pop-up menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745a21077c1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Advanced options** .
 
@@ -99,17 +107,21 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487b4f0856.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Re-select option   **Give me updates for other Microsoft products when I update Windows**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745f4d8fdcd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Go back to**Check for Updates** again. Then the updates should download successfully this time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487e7dd051.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Delete Some Related Files**
 
@@ -119,17 +131,9 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746e74d3054.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click**Background Intelligent Transfer Service** then select**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746f3a14981.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click **Windows Update**  then select**Stop** .
 
@@ -144,7 +148,7 @@ Follow these steps:
  6) Restart your PC and check to see if the error persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4:** Repair system files
@@ -169,18 +173,14 @@ There are 2 ways to solve it. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -196,21 +196,21 @@ There are 2 ways to solve it. Here’s how:
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer to check the blue screen issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to [Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Perform a Clean Boot then Install the Updates Again
 
  If you are not sure how to perform a clean boot, see [How to Perform a Clean Boot in Windows 10](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 6: Update the Drivers
 
@@ -251,22 +251,18 @@ There are 2 ways to solve it. Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-adjusting-sound-settings-gently-in-windowsmacos/"><u>[New] 2024 Approved Adjusting Sound Settings Gently in Windows/macOS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-techniques-for-exceptional-audio-recording-without-a-mic/"><u>[New] Techniques for Exceptional Audio Recording without a Mic</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-monetization-mastery-elevating-your-youtube-earning-strategy/"><u>[Updated] 2024 Approved Monetization Mastery Elevating Your YouTube Earning Strategy</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-complete-breakdown-of-downloading-status-videos-on-fb/"><u>[Updated] The Complete Breakdown of Downloading Status Videos on Fb</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-online-sources-for-3d-glitter-text-designs-for-2024/"><u>[Updated] Top Online Sources for 3D Glitter Text Designs for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-innovative-approaches-to-refine-gpt-interaction-quality/"><u>7 Innovative Approaches to Refine GPT Interaction Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-improving-keyboard-response-time/"><u>Easy Fixes for Improving Keyboard Response Time</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-unresponsive-windows-10-file-explorer-effective-solutions-explored/"><u>Fix Unresponsive Windows 10 File Explorer – Effective Solutions Explored</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fix-desktop-orientation-backward-problem/"><u>Fix: Desktop Orientation Backward Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-update-0x80070490-error-a-comprehensive-guide/"><u>Fixing the Windows Update 0X80070490 Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/how-to-fix-your-unresponsive-mouse-with-tips-by-yl-software-experts/"><u>How to Fix Your Unresponsive Mouse with Tips by YL Software Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-an-application-if-it-fails-to-find-a-necessary-module/"><u>How To Repair an Application if It Fails to Find a Necessary Module</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-sharpen-your-gpt-interactions-without-mistakes/"><u>How to Sharpen Your GPT Interactions Without Mistakes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-diagnostics-resolving-non-functional-numeric-keys/"><u>Keyboard Diagnostics: Resolving Non-Functional Numeric Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208008775-the-ultimate-fixes-for-kodis-glitches-say-goodbye-to-playback-issues/"><u>The Ultimate Fixes for Kodi's Glitches: Say Goodbye to Playback Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-notorious-ce-34878-0-glitch-in-playstation-4-consoles/"><u>Troubleshooting and Correcting the Notorious CE-34878-0 Glitch in PlayStation 4 Consoles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-failed-feature-updates-in-windows-10-v1803-now-solved/"><u>Winning the Battle Against Failed Feature Updates in Windows 10 v1803 - Now Solved</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-essential-step-by-step-for-mac-file-formats/"><u>[New] 2024 Approved The Essential Step-by-Step for Mac File Formats</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-access-to-pinnacle-android-viewer/"><u>2024 Approved Exclusive Access to Pinnacle Android Viewer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-streamline-your-archive-broadcast-pre-recorded-videos-live-on-facebook/"><u>2024 Approved Streamline Your Archive Broadcast Pre-Recorded Videos Live on Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/diving-into-inshot-the-video-editing-leader-claimed/"><u>Diving Into InShot The Video Editing Leader Claimed?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-chrome-interruptions-in-windows-os/"><u>Eliminating Chrome Interruptions in Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-access-to-hp-software-fresh-drivers-at-your-fingertsip/"><u>Instant Access to HP Software - Fresh Drivers at Your Fingertsip!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-restoring-sound-on-netflix-streams-a-step-by-step-guide/"><u>Quick Fixes for Restoring Sound on Netflix Streams - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/recover-power-icon-in-windows-10-a-step-by-step-solution/"><u>Recover Power Icon in Windows 10: A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-pc-exploring-sfc-and-dism-tools-for-fixing-windows-10-issues/"><u>Reviving Your PC: Exploring SFC and DISM Tools for Fixing Windows 10 Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-overcome-the-challenge-of-forcing-a-shutdown-in-windows-11-systems/"><u>Solution Found! Overcome the Challenge of Forcing a Shutdown in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-installing-oddworld-soulstorm-on-your-windows-computer/"><u>Successfully Installing Oddworld: Soulstorm on Your Windows Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-issues-with-the-at-symbol-on-your-device/"><u>Troubleshooting Steps: Resolving Issues with the 'At' Symbol on Your Device</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-video-editing-software-for-mac-similar-to-pinnacle-studio/"><u>Updated In 2024, Best Video Editing Software for Mac Similar to Pinnacle Studio</u></a></li>
 </ul></div>
 

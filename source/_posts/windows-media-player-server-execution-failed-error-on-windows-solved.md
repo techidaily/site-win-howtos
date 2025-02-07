@@ -1,7 +1,7 @@
 ---
 title: Windows Media Player Server Execution Failed Error on Windows [Solved]
-date: 2024-08-23T14:05:43.729Z
-updated: 2024-08-24T14:05:43.729Z
+date: 2025-02-01T06:24:25.264Z
+updated: 2025-02-07T00:01:40.585Z
 tags:
   - win11
   - win10
@@ -30,15 +30,16 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3\
 
  On Registry Editor window, expand **HKEY\_LOCAL\_MACHINE**  \> **SYSTEM**  \> **CurrentControlSet**  \> **Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## **Step 4.**
 
  Find and**right-click** on your service with error 1067 under Services dialog.  
@@ -47,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/5-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Step 5.**
 
  Back on Registry Editor window,**right-click** on the same service.  
@@ -59,11 +57,9 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## **Step 6.**
 
  Type**cmd** in the search box.  
@@ -72,13 +68,26 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-cmd-Run-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Step 7.**
 
  Click **Yes**  when prompted by UAC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/10-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Step 8.**
 
@@ -89,8 +98,9 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/11-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Step 9.**
 
  Close the window and**restart** your computer.  
@@ -100,12 +110,6 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Step 10.**
 
  Open a Run box to type **services.msc**  in it and press **Enter**  to open Services window.
@@ -113,8 +117,9 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Step 11.**
 
  On Services window, find and right-click on your service.  
@@ -135,8 +140,6 @@ For any confusion, please feel free to leave your comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +147,20 @@ For any confusion, please feel free to leave your comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-and-save-your-desktop-free-ways-on-windows/"><u>[New] Capture & Save Your Desktop - Free Ways on Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ps4-broadcast-simplified-detailed-steps-using-obs/"><u>[New] In 2024, PS4 Broadcast Simplified Detailed Steps Using OBS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-audio-assimilation-for-inshot-projects/"><u>[Updated] Audio Assimilation for InShot Projects</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-discovering-the-most-engaging-facebook-vids/"><u>[Updated] Discovering the Most Engaging Facebook Vids</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-s24-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy S24 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/all-systems-green-issue-with-response-detected/"><u>All Systems Green: Issue with Response Detected</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-13-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 13 mini Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205548832-local-security-defenses-restored-ensure-safe-operations-today/"><u>Local Security Defenses Restored – Ensure Safe Operations Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-hassle-of-error-0x80072f8f-effective-fixes-for-modern-windows-users/"><u>Overcome the Hassle of Error 0X80072F8f - Effective Fixes for Modern Windows Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/er-the-future-of-youtube-content-with-tubebuddy/"><u>Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/scripting-significant-soliloquies-for-2024/"><u>Scripting Significant Soliloquies for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/steps-to-reduce-100-drive-consumption-in-windows-11/"><u>Steps to Reduce 100% Drive Consumption in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolving-problems-with-your-windows-system-updates/"><u>Successfully Resolving Problems with Your Windows System Updates</u></a></li>
+</ul></div>
 

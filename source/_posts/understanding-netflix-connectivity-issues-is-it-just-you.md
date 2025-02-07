@@ -1,7 +1,7 @@
 ---
 title: Understanding Netflix Connectivity Issues - Is It Just You?
-date: 2024-08-23T14:02:16.517Z
-updated: 2024-08-24T14:02:16.517Z
+date: 2025-02-05T12:51:15.937Z
+updated: 2025-02-07T07:38:38.927Z
 tags:
   - win11
   - win10
@@ -39,19 +39,31 @@ Did you have this experience? You open your computer ready to work or entertain,
 2. Type**control panel** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 3. Use the**Tab** key or the**arrow** keys to choose the position. When you see the square around**Category** , press the**Enter** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use the**arrow keys** to choose**Large icons** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-32-17.jpg)
 5. Choose**Devices and Printers** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-39-28.jpg)
 6. Choose**Add a device** and press**Enter** . Your computer will start to detect your Bluetooth mouse.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_17-57-35.jpg)
 7. Choose your Bluetooth mouse and press Enter. Follow the on-screen instructions to finish the process.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run Troubleshooter
 
  If your mouse works fine on another computer, it should be a system issue. Windows has in-built troubleshooters to diagnose and fix common problems. Try this tool to fix the Bluetooth mouse not working problem.
@@ -62,14 +74,16 @@ Did you have this experience? You open your computer ready to work or entertain,
 3. Choose**Troubleshoot** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-59-52.jpg)
 4. Select**Bluetooth** . Activate**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-01-06.jpg)
 5. Follow the instructions to finish the process.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable Bluetooth mouse Power Management
 
  It’s possible that your computer is managing the power for Bluetooth devices so that the connection is dropped. To solve it, you need to disable your Bluetooth mouse power management.
@@ -77,20 +91,20 @@ Did you have this experience? You open your computer ready to work or entertain,
 1. Press the**Windows logo key + X** to open the menu. Use the**down arrow key** to choose**Device Manager** then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-31-48.jpg)
 2. Press**Tab** key to choose**Bluetooth** . Press the**right arrow** key to open the folder.
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Choose the Bluetooth and press Enter. Go to the**Power Management** tab. Make sure**Allow the computer to turn off this device to save power** is**unchecked** . If it’s not, activate the checkbox (using the tab key) and press the**Space bar** . Move to OK and save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-48-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  If there’s something wrong with your Bluetooth adapter driver or mouse driver, you may encounter this Bluetooth mouse not working problem. There are two ways you can get drivers: manually or automatically.
@@ -105,9 +119,6 @@ Did you have this experience? You open your computer ready to work or entertain,
 2. Run Driver Easy and use Tabchoose the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -126,8 +137,6 @@ Did you have this experience? You open your computer ready to work or entertain,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +144,16 @@ Did you have this experience? You open your computer ready to work or entertain,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-mastery-manual-downloading-hd-videos-on-todays-digital-landscapes/"><u>[New] Mastery Manual Downloading HD Videos on Today's Digital Landscapes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevating-the-impact-of-your-instagram-videos/"><u>[Updated] 2024 Approved Elevating the Impact of Your Instagram Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed/"><u>2024 Approved Adobe Cloud Storage Demystified Features, Functionality, and Alternatives Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-usb-connection-on-your-dell-device-a-step-by-nstep-guide/"><u>How to Repair a Broken USB Connection on Your Dell Device – A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-your-steelseries-arctis-amoanot-working-properly-solved/"><u>How to Repair Your SteelSeries Arctis Amoanot Working Properly [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211155930-overcoming-the-challenge-unsupported-monitor-input-error-now-solved/"><u>Overcoming the Challenge: Unsupported Monitor Input Error Now Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-guide-for-black-monitor-malfunction-in-dell-laptops/"><u>Step-by-Step Fix Guide for Black Monitor Malfunction in Dell Laptops</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-transferring-your-vmware-vms-to-the-aws-cloud-platform/"><u>Step-by-Step Guide: Transferring Your VMware VMs to the AWS Cloud Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/your-ultimate-guide-to-accessing-fandango-movies-directly-on-apple-tv/"><u>Your Ultimate Guide to Accessing Fandango Movies Directly on Apple TV</u></a></li>
+</ul></div>
 

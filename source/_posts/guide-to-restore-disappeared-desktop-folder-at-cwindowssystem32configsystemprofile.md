@@ -1,7 +1,7 @@
 ---
 title: "Guide to Restore Disappeared Desktop Folder at C:\\Windows\\System32\\Config\\SystemProfile"
-date: 2025-01-24T17:29:41.832Z
-updated: 2025-01-25T17:51:16.557Z
+date: 2025-02-02T16:13:14.856Z
+updated: 2025-02-06T19:38:23.125Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 3. **[Scan for malware on your computer](#c)**
 4. **[Perform a clean boot](#d)**
 5. **[Run the Command Prompt](#e)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -70,10 +74,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check for Windows Updates
 
  Windows Updates can also address bugs related to both hardware and software. So make sure you’ve installed all the new Windows Updates to keep your computer running smoothly. Here is how to do it:
@@ -87,10 +87,6 @@ OR
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer.
 
@@ -109,6 +105,10 @@ OR
 **2)** Run**Malwarebytes,** and then click the**Scan Now button** to start scanning your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-98-1024x641.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Wait for the process to be complete. If there is any malware on your computer, follow the on-screen instructions to remove it.
 
@@ -139,6 +139,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-110.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-109.png)
@@ -150,10 +154,6 @@ OR
 **7)** Click the**Startup tab.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-121.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Uncheck the box next to the program that you want to prevent it from auto-launching, and then click**OK** .
 
@@ -175,16 +175,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-88.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
@@ -192,7 +188,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-89.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the**Services tab,** and then check the box next to**Hide all Microsoft services** .
@@ -204,7 +200,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-91.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Click**Apply** .
@@ -220,10 +216,6 @@ OR
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-724.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **9)** Restart your computer and check if this has resolved your problem.
 
@@ -241,6 +233,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the button next to**Normal startup,** and then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-148.png)
@@ -249,13 +245,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-150.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Enable all,** then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-145.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Click**Restart** .
 
@@ -272,7 +268,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Type **cmd,** then press the **Ctrl, Shift**  and **Enter** keys at the same time to run the Command Prompt as administrator.
@@ -284,6 +280,10 @@ OR
  This process could take several minutes. Please wait for it to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
 
@@ -317,20 +317,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-harnessing-the-power-of-zooms-video-filter-options/"><u>[New] Harnessing the Power of Zoom's Video Filter Options</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-decoding-youtubes-economic-strategy-the-rise-of-short-videos/"><u>[New] In 2024, Decoding YouTube’s Economic Strategy The Rise of Short Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-streamline-your-gaming-experience-with-top-tools/"><u>[Updated] In 2024, Streamline Your Gaming Experience with Top Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-superior-tools-for-downloading-vimeo-videos/"><u>[Updated] In 2024, Superior Tools for Downloading Vimeo Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/experts-guide-to-fixing-a-stuck-windows-11-taskbar-with-proven-methods/"><u>Experts' Guide to Fixing a Stuck Windows 11 Taskbar with Proven Methods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g-stylus-2023-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G Stylus (2023) Location by Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-13t-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi 13T Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-and-simple-monitor-finesse/"><u>Quick and Simple Monitor Finesse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-error-0x800f081f-during-net-framework-35-setup-a-step-by-step-guide/"><u>Resolving Error 0X800F081F During .NET Framework 3.5 Setup: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-spontaneous-computer-shutdown-troubleshooting-guide/"><u>Resolving the Issue of Spontaneous Computer Shutdown - Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-typing-problems-a-guide-for-fixing-a-broken-key/"><u>Resolving Typing Problems: A Guide for Fixing a Broken '@' Key</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-airpod-connection-issue-on-microsofts-latest-operating-systems-top-strategies/"><u>Solving the AirPod Connection Issue on Microsoft's Latest Operating Systems - Top Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-airtag-companions-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated AirTag Companions : Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202458117-unraveling-the-mystery-of-the-ce-34878-0-code-on-your-playstation-4-solutions-inside/"><u>Unraveling the Mystery of the CE-34878-0 Code on Your PlayStation 4 - Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-taskbar-troubles-discover-simple-solutions-for-a-perfect-display/"><u>Windows 11 Taskbar Troubles? Discover Simple Solutions for a Perfect Display</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-chasing-deals-on-vr-gear-in-china/"><u>[New] In 2024, Chasing Deals on VR Gear in China</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>[New] In 2024, Google's Take on AR Stickers An Overview & Beyond</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-essential-distinctions-between-metaverse-and-multimeva/"><u>[Updated] The Essential Distinctions Between Metaverse and Multimeva</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/video-to-gif/"><u>Aiseesoft Video to GIF Converter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-of-truthgpt-exposed-police-probe-into-mullvad-vpns-secrets-leading-free-pc-games-listed-and-best-practices-in-mechanical-keyboards/"><u>Behind the Scenes of TruthGPT Exposed! Police Probe Into Mullvad VPN's Secrets | Leading Free PC Games Listed & Best Practices in Mechanical Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-windows-11-media-drive-issue-incompletedamaged-configuration-information-code-19-causing-failures/"><u>How to Repair Windows 11 Media Drive Issue: Incomplete/Damaged Configuration Information (Code 19) Causing Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-missing-d3dcompiler43dll-file-issue/"><u>How to Resolve the 'Missing d3dcompiler_43.dll' File Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-android-gamers-rejoice-heres-kinemaster-unleashed/"><u>In 2024, Android Gamers Rejoice! Here's KineMaster Unleashed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolving-sluggish-keyboard-reactions-instantly/"><u>Quick Solutions: Resolving Sluggish Keyboard Reactions Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-what-to-do-if-your-windows-10-wont-respond/"><u>Step-by-Step Guide: What To Do If Your Windows 10 Won't Respond?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-a14-4g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy A14 4G Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-laptop-keyboard/"><u>Troubleshooting Guide: How to Fix a Non-Responsive Laptop Keyboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-dts-virtual-x-technology/"><u>Unveiling the Secrets of DTS Virtual X Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-to-an-rtx-4090-gaming-beast-exclusive-offer-on-alienwares-m18-r2-laptop-slash-700-from-the-price/"><u>Upgrade to an RTX 4090 Gaming Beast – Exclusive Offer on Alienware's M18 R2 Laptop, Slash $700 From the Price</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-users-overcome-your-spacebar-key-dysfunction-with-these-simple-steps/"><u>Windows 11 Users: Overcome Your Spacebar Key Dysfunction with These Simple Steps</u></a></li>
 </ul></div>
 

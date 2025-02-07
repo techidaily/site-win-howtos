@@ -1,7 +1,7 @@
 ---
 title: "Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution"
-date: 2025-01-18T17:09:12.543Z
-updated: 2025-01-25T17:12:30.927Z
+date: 2025-02-02T18:40:11.429Z
+updated: 2025-02-07T14:35:48.452Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -34,6 +30,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -45,6 +45,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -52,10 +56,6 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -77,16 +77,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -100,7 +96,7 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
@@ -109,6 +105,10 @@ To do so:
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
@@ -150,22 +150,24 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/he-path-to-precision-audio-a-no-mic-approach/"><u>[New] The Path to Precision Audio A No-Mic Approach</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/astral-tips-for-rebooting-ms-sql-databases/"><u>Astral Tips for Rebooting MS SQL Databases</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-transform-healthcare/"><u>Can ChatGPT Transform Healthcare?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-correcting-error-0x8024401c-in-widows-11/"><u>Effective Solutions for Correcting Error 0X8024401c in Widows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/elite-listing-high-quality-webcam-recorders-windows-11/"><u>Elite Listing High-Quality Webcam Recorders Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-when-the-mouse-cursor-disappears-on-windows-11-systems/"><u>Essential Fixes for When the Mouse Cursor Disappears on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-functionality-to-broken-usb-docks-on-your-hp-device/"><u>Expert Advice: Restoring Functionality to Broken USB Docks on Your HP Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-critical-process-died-for-tibrtipsexe-on-windows-versions-11-7-and-8-solved/"><u>How to Fix Critical Process Died for TIBRTIPS.EXE on Windows Versions (11, 7 & 8) - Solved!</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-7-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 7 to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-side-by-side-configuration-conflicts-and-errors-in-windows-11/"><u>How to Solve Side by Side Configuration Conflicts and Errors in Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-x50iplus-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor X50i+ ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-fixes-for-windows-access-error-to-devices-and-files-avoid-frustration/"><u>Master Fixes for Windows Access Error to Devices and Files - Avoid Frustration</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-art-of-fixing-stuck-launches-expert-advice-on-the-finals-app/"><u>Mastering the Art of Fixing Stuck Launches: Expert Advice on 'The Finals' App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/preventing-unexpected-startups-tips-for-controlling-your-windows-11-pc/"><u>Preventing Unexpected Startups: Tips for Controlling Your Windows 11 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-failed-to-initialize-network-issues-in-dragon-ball-fighterz-game/"><u>Solving 'Failed to Initialize' Network Issues in Dragon Ball FighterZ Game</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-dbghelpdll-file-not-found-a-step-by-step-guide/"><u>Solving the dBghelp.dll File Not Found: A Step-by-Step Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforming-ordinary-moments-into-viral-instagram-reels/"><u>Transforming Ordinary Moments Into Viral Instagram Reels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-laughters-launchpad-7-funny-video-frameworks-for-comedians/"><u>[Updated] Laughter's Launchpad 7 Funny Video Frameworks for Comedians</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-drone-efficiency-with-premium-lipo-units/"><u>[Updated] Maximizing Drone Efficiency with Premium LiPo Units</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/4k-video-powerhouse-panasonic-wxf991/"><u>4K Video Powerhouse: Panasonic WXF991</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/advanced-techniques-for-tiktok-video-enhancement-via-zoom/"><u>Advanced Techniques for TikTok Video Enhancement via Zoom</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-silence-solutions-for-forza-horizon-4-audio-issues/"><u>Fixing the Silence: Solutions for 'Forza Horizon 4' Audio Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-cannot-display-video-error-code-224003-for-smooth-viewing/"><u>How to Fix 'Cannot Display Video' Error Code 224003 for Smooth Viewing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-excessive-cpu-consumption-by-msmpengine-in-windows-11-solution-inside/"><u>How to Fix Excessive CPU Consumption by MsMpEngine in Windows 11 (Solution Inside)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-devices-wi-fi-connectivity-when-its-not-working/"><u>How to Restore Your Device's Wi-Fi Connectivity When It's Not Working</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-magic-6-lite-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor Magic 6 Lite FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-finding-the-central-node-of-youtube-video-management/"><u>In 2024, Finding the Central Node of YouTube Video Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/redefining-autonomy-in-development-with-non-chatgpt-software/"><u>Redefining Autonomy in Development with Non-ChatGPT Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-couldnt-install-windows-11-error-code-80240020-step-by-step-troubleshooting-guide/"><u>Resolve the 'Couldn't Install Windows 11 - Error Code 80240020': Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connection-issues-steps-to-troubleshoot-cannot-connect-to-remote-server/"><u>Resolving Connection Issues: Steps to Troubleshoot 'Cannot Connect to Remote Server'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-dimmed-led-backlights-in-corsair-keyboards-a-step-by-nstep-guide/"><u>Reviving Dimmed LED Backlights in Corsair Keyboards - A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-file-retrieval-how-to-recover-missing-game-files-effectively-solved/"><u>Steam File Retrieval: How to Recover Missing Game Files Effectively - SOLVED</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-budget-motherboards-for-gaming/"><u>The Best Budget Motherboards for Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-approach-to-enhancing-mp4-content-with-srt-captions-for-2024/"><u>Ultimate Approach to Enhancing MP4 Content with SRT Captions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-pcs-persistent-screen-lockup-problems/"><u>Ultimate Guide: Solving Your PC's Persistent Screen Lockup Problems</u></a></li>
 </ul></div>
 

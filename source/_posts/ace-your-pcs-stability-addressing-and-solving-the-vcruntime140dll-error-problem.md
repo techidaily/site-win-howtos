@@ -1,7 +1,7 @@
 ---
 title: "Ace Your PC's Stability: Addressing and Solving the VCRUNTIME140.dll Error Problem"
-date: 2024-08-23T14:05:02.467Z
-updated: 2024-08-24T14:05:02.467Z
+date: 2025-01-30T23:43:57.817Z
+updated: 2025-02-07T10:30:42.012Z
 tags:
   - win11
   - win10
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8db550cab4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **ii.** Type “_**cmd**_ “. When you see**Command Prompt** appear in the menu above, right click on it and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8dc2dcc5a2.png)
@@ -97,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a920adb952b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **v.** Find the update that is suitable for your operating**system type** (**x86-based** or**x64-based** ) and click on the**Download** button next to it.
 
 _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, please go to[**method 4**](#f) ._
@@ -117,6 +125,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37871a5b248.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Open the file you have downloaded and install the update on your computer.
 
 **iv.**  Restart your computer and then run Windows Update. Check to see if the error is gone.
@@ -126,6 +138,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
  Your antivirus software may be conflicting with the programs or Windows Update on your computer and bring about the 0x80070643 error. You can try disabling your antivirus software to see if this solves your problem. Disable all the functions of your antivirus software and then check Windows Update to see if it can update your system normally.
 
  _Hopefully one of the fixes above resolved your Windows Update issue. But if not, you may need to try [**the fixes in this post**](https://tools.techidaily.com/drivereasy/download/) ._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2) Fix the 0x80070643 error during a program installation
 
@@ -151,9 +167,17 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a917d0eff42.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click on**Windows Installer** , then**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a918b2d4c1e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iv.** If this method works for you, you will be able to install your program without the error troubling you.
 
@@ -175,6 +199,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d8364e9e9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **v.** Open the downloaded file and follow the on-screen instructions to install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d990c1845.png)
@@ -190,8 +218,6 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,8 +225,24 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-8-camera-lineup-to-elevate-streaming-success/"><u>[New] 2024 Approved Ultimate 8 Camera Lineup to Elevate Streaming Success</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-instagrams-music-ownership-standards/"><u>[New] Instagram's Music Ownership Standards</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-5-second-stories-explained-well-in-2024/"><u>[Updated] 5-Second Stories Explained Well, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-introduces-innovative-app-studio-and-advanced-ai-safeguards-at-latest-aws-event-insights-from-zdnet/"><u>Amazon Introduces Innovative App Studio & Advanced AI Safeguards at Latest AWS Event - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/arctic-acrobatics-2022s-olympians/"><u>Arctic Acrobatics 2022'S Olympians</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exceptional-uav-selection-for-optimal-gopro-footage/"><u>Exceptional UAV Selection for Optimal GoPro Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-laptop-wont-charge-when-plugged-in-windows-10-solutions/"><u>How to Fix: Laptop Won't Charge When Plugged In (Windows 10 Solutions)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-vivo-v29-by-fonelab-android-recover-music/"><u>How to recover old music from your Vivo V29</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-stay-competitive-in-business-with-these-5-essential-ai-resources/"><u>How to Stay Competitive in Business with These 5 Essential AI Resources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/managing-desktop-window-manager-five-methods-to-lower-high-gpu-use-in-windows/"><u>Managing Desktop Window Manager: Five Methods to Lower High GPU Use in WIndows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-the-recurring-reboot-problem-in-windows-10/"><u>Quick Fixes: Resolving the Recurring Reboot Problem in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/security-maintenance-complete-reactivating-community-based-protection-systems/"><u>Security Maintenance Complete: Reactivating Community-Based Protection Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/taming-the-tech-beast-a-players-manual-for-fixing-valorant-visual-glitches/"><u>Taming the Tech Beast: A Player's Manual for Fixing Valorant Visual Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-the-overwatch-cant-connect-to-server-dilemma/"><u>The Ultimate Solution for the 'Overwatch Can't Connect to Server' Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unreals-exit-in-question-amidst-d3d-shortage/"><u>Unreal's Exit in Question Amidst D3D Shortage?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-resolving-cpu-overload-from-system-stops/"><u>Windows 11: Resolving CPU Overload From System Stops</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/yearly-roundup-high-fidelity-gadget-unpackers-on-youtube/"><u>Yearly Roundup High-Fidelity Gadget Unpackers on YouTube</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Keyboard Shortcuts: Why Win+Shift+S Is Unresponsive in Windows 11 & 10"
-date: 2024-08-23T14:06:06.251Z
-updated: 2024-08-24T14:06:06.251Z
+date: 2025-01-31T08:17:49.166Z
+updated: 2025-02-06T21:50:40.239Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
  Before we dive into any advances, you can try to restart your PC first. Sometimes a quick restart can fix many random glitches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Close unnecessary programs
 
  The first fix you can try is to close the programs running in the background. When you have many apps running at the same time, they may interfere with each other and cause random system bugs. For example, some users reported that they were able to fix the copy-and-paste feature after they turned off or restarted their video players or graphics design software.
@@ -42,13 +46,19 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 1. Right-click the**Start button** on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix didn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Repair corrupted system files
 
  Broken Window Registry files may cause problems with the copy-and-paste keyboard shortcut. You can try to **run the System File Checker (sfc /scannow) to identify problematic Registry files** . Most of the time, this tool can fix minor issues for you.
@@ -66,11 +76,9 @@ If this fix didn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Fix 3: Clear clipboard history
 
  When your clipboard cache is full, you may not be able to copy-paste your files or texts. You can delete your clipboard history data to see if it solves the problem, and the steps are easy. Here’s how
@@ -91,6 +99,10 @@ If this fix didn’t help, try the next one.
 
 If your problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Restart RDP Clipboard Monitor
 
  RDP Clipboard Monitor allows the user to share the clipboard between the local and the remote desktop. If this process is not functioning as it’s supposed to, you may encounter a copy-paste problem when you’re using a remote desktop. To fix this, you may need to restart the RDP Clipboard Monitor process:
@@ -100,11 +112,9 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
+
 ## Bonus tip: Update your device drivers
 
  In general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -121,9 +131,6 @@ If your problem persists, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 ---
@@ -138,8 +145,6 @@ If your problem persists, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +152,20 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-art-of-space-arrangement-in-fostering-a-high-performing-team/"><u>[New] 2024 Approved The Art of Space Arrangement in Fostering a High-Performing Team</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-future-of-home-cinema-top-10-blu-ray-devs/"><u>[New] Future of Home Cinema Top 10 Blu-Ray Devs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-full-application-evaluation-through-az-video-logger-for-2024/"><u>[Updated] Full Application Evaluation Through AZ Video Logger for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-building-a-billion-dollar-brand-on-youtube-jake-paul/"><u>2024 Approved Building a Billion-Dollar Brand on Youtube (Jake Paul)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-enhancing-vimeo-films-with-chapters-division/"><u>2024 Approved Enhancing Vimeo Films with Chapters Division</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-free-options-10-leading-mac-artists-preferences-for-2024/"><u>Explore Free Options 10 Leading Mac Artists' Preferences for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-microsofts-print-to-pdf-on-windows-11/"><u>Fixing Issues with Microsoft's Print to PDF on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-successfully-power-off-your-pc-running-on-windows-11/"><u>Fixing the Issue: How to Successfully Power Off Your PC Running on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-network-set-up-glitch-in-dragon-ball-fighterz-game/"><u>How to Correct the Network Set-Up Glitch in Dragon Ball FighterZ Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-nvidia-setup-mishaps/"><u>Mastering the Art of Fixing NVIDIA Setup Mishaps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/see-apples-bold-move-against-top-browser-through-their-latest-intriguing-advertisement-insights-from-zdnet/"><u>See Apple's Bold Move Against Top Browser Through Their Latest Intriguing Advertisement | Insights From ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/straightforward-strategies-to-address-and-fix-windows-update-error-code-80072ee2/"><u>Straightforward Strategies to Address and Fix Windows Update Error Code: 80072EE2</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728467456541-windows-11/"><u>パーティション表の修正方法 - Windows 11ユーザー向け完全解析</u></a></li>
+</ul></div>
 

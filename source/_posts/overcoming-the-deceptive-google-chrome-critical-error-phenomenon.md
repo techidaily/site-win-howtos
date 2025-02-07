@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Deceptive Google Chrome Critical Error Phenomenon
-date: 2024-08-23T14:06:33.243Z
-updated: 2024-08-24T14:06:33.243Z
+date: 2025-02-01T12:30:17.899Z
+updated: 2025-02-07T05:10:54.189Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ the picture was taken by: Article\_86
  If your webpage went all red with white text saying**Google Chrome Critical ERROR** when you browsing on Google Chrome, don’t trust it! It’s a scam! And Google Chrome is not the only affected browser. Users have reported they’ve seen similar tech support scam popups on Yahoo and MSN homepage.
 
  If you close the webpage straight away without clicking any links, unfortunately, you’ve done the**WRONG** thing! But don’t worry, read this post and you’ll know how to get rid of it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## End the process
 
@@ -51,14 +55,19 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -70,14 +79,7 @@ the picture was taken by: Article\_86
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 4. Relaunch Chrome to take effect.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -89,16 +91,20 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -113,17 +119,15 @@ the picture was taken by: Article\_86
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## TIPS: Avoid Google Chrome Critical Error
 
 #### Be careful of spam emails
@@ -150,8 +154,6 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +161,18 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/faster-printing-in-a-flash-tips-for-slow-windows-devices/"><u>Faster Printing in a Flash: Tips for Slow Windows Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-error-0x80073cf9-ultimate-guide-to-resolve-store-issues-on-windows-11/"><u>Fixing Error 0X80073CF9: Ultimate Guide to Resolve Store Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-fatal-error-code-1603-and-complete-the-setup-successfully/"><u>How to Resolve 'Fatal Error Code 1603' And Complete the Setup Successfully</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-lite-to-your-device-top-6-downloading-tools-of-2023-revealed/"><u>In 2024, Facebook Lite to Your Device - Top 6 Downloading Tools of 2023 Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-rhythmripper-software-overview-and-testing/"><u>In 2024, RhythmRipper Software Overview & Testing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-anthropics-claude-3-ai-toolkit/"><u>Mastering Anthropic's Claude 3 AI Toolkit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-phantom-v-fold-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Phantom V Fold to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-sudden-failures-of-wireless-mouse-connectivity-in-windows-11-and-10-environments/"><u>Step-by-Step Fixes for Sudden Failures of Wireless Mouse Connectivity in Windows 11 and 10 Environments</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-world-of-grok-ai-through-elons-insights-into-its-function-and-cost/"><u>Unveiling the World of Grok AI Through Elon's Insights Into Its Function and Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-users-say-goodbye-to-that-troublesome-sticking-keyboard-problem/"><u>Windows Users, Say Goodbye to That Troublesome Sticking Keyboard Problem!</u></a></li>
+</ul></div>
 

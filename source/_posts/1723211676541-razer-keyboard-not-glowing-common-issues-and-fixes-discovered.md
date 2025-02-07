@@ -1,7 +1,7 @@
 ---
 title: "Razer Keyboard Not Glowing: Common Issues and Fixes Discovered"
-date: 2025-01-22T18:19:58.234Z
-updated: 2025-01-25T17:31:27.478Z
+date: 2025-02-06T09:19:36.270Z
+updated: 2025-02-07T11:39:07.867Z
 tags:
   - win11
   - win10
@@ -22,20 +22,24 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [**Plug your keyboard in another USB port**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
 
@@ -50,7 +54,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
@@ -59,10 +63,6 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 9. Follow the on-screen instructions to install Synapse.
 10. Launch Synapse.
 11. Plug your keyboard and check the lightening.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
 
@@ -81,14 +81,14 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
@@ -110,20 +110,22 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-examining-obss-recording-features-in-detail-for-2024/"><u>[Updated] Examining OBS's Recording Features in Detail for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/100mv-avi/"><u>「100%無料で動画をアニメーションMVに変換: オンライン専用AVIフォーマットへ」</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-potential-best-practices-for-logitech-webcam-use/"><u>2024 Approved Unlock Potential Best Practices for Logitech Webcam Use</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/enabling-or-disabling-windows-defender-in-windows-10-a-step-by-step-guide/"><u>Enabling or Disabling Windows Defender in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-convert-flv-files-to-mp4-format-with-movavi/"><u>Free Online Converter: Convert FLV Files to MP4 Format with Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-infinix-note-30-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Infinix Note 30 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-film-star-access-pass-talent-release/"><u>In 2024, Film Star Access Pass - Talent Release</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-unintended-tiktok-update-how-to-recover/"><u>In 2024, Unintended TikTok Update – How to Recover?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/risolvi-tutti-i-problemi-di-lettura-dei-file-avi-in-windows-ecco-come/"><u>Risolvi Tutti I Problemi Di Lettura Dei File AVI in Windows Ecco Come!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transforma-tus-audios-m4b-y-m4a-en-video-m4v-sin-coste-guia-detallada-con-el-utilizador-on-line-de-movavi/"><u>Transforma Tus Audios M4B Y M4A en Vídeo M4V Sin Coste: Guía Detallada Con El Utilizador On-Line De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trier-un-fichier-gif-au-format-png-gratuitement-conversion-en-ligne-rapide-avec-movavi/"><u>Trier Un Fichier GIF Au Format PNG Gratuitement - Conversion en Ligne Rapide Avec Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-av1-encoding-insights/"><u>Unlocking AV1 Encoding Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/verknopt-harmonieuze-liedjes-vergelst-met-de-movavi-mp3-linkmaker/"><u>Verknopt Harmonieuze Liedjes Vergelst Met De Movavi MP3-Linkmaker</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3gpp-3gp-movavi/"><u>무료 원조 - 3GPP 3GP 되착포를 위한 Movavi의 가상 서비스</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-storytelling-methodologies-for-the-documentarian/"><u>[Updated] 2024 Approved Storytelling Methodologies for the Documentarian</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-content-game-mastering-the-art-of-instagram-video-uploads-on-desktop-for-2024/"><u>[Updated] Elevate Your Content Game Mastering the Art of Instagram Video Uploads on Desktop for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-funnyfaces-forum-jokeye-imagez/"><u>[Updated] FunnyFaces Forum Jokeye Imagez</u></a></li>
+<li><a href="https://driver-error.techidaily.com/warning-bluetooth-mouse-not-initializing-on-pc/"><u>[Warning] Bluetooth Mouse Not Initializing on PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-class-in-live-streaming-your-pathway-to-successful-youtube-channels-via-wirecast/"><u>2024 Approved Master Class in Live Streaming Your Pathway to Successful Youtube Channels via WireCast</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-madden-19-review-exceptional-options-but-losing-freshness/"><u>Breaking Down Madden 19 Review: Exceptional Options but Losing Freshness</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-revive-your-laptops-touchpad-in-windows-10-8-and-7-no-more-frustration/"><u>Effective Solutions to Revive Your Laptop's Touchpad in Windows 10, 8 and 7 – No More Frustration!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-24-explained-ensuring-your-device-appears-in-windows-systems-ws-11-8-or-7/"><u>Error Code 24 Explained: Ensuring Your Device Appears in Windows Systems WS 11, 8 or 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-unlocking-a-stubborn-windows-presstaskbar-proven-methods/"><u>Expert Advice on Unlocking a Stubborn Windows pressTaskBar: Proven Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-back-on-track-fixes-for-when-the-windows-11-start-menu-fails/"><u>Getting Back on Track: Fixes for When the Windows 11 Start Menu Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-correcting-windows-11-sign-in-issue-caused-by-user-profile-service-malfunction/"><u>Guide to Correcting Windows 11 Sign-In Issue Caused by User Profile Service Malfunction</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-podcast-branding-a-comprehensive-logo-guidebook-for-2024/"><u>Innovating Podcast Branding A Comprehensive Logo Guidebook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/personal-settings-malfunction-solutions-to-not-resp-error/"><u>Personal Settings Malfunction – Solutions to 'Not Resp. Error'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-the-blinky-phone-dilemamo-with-our-expert-fix-1-through-7/"><u>Say Goodbye to the Blinky Phone Dilemamo with Our Expert Fix #1 Through #7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-slumbering-machine-no-awakening-on-windows-1011/"><u>The Slumbering Machine: No Awakening on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-solving-0x800704cf-network-issue-on-windows-pcs/"><u>Troubleshooting Tips for Solving 0X800704CF Network Issue on Windows PCs</u></a></li>
 </ul></div>
 

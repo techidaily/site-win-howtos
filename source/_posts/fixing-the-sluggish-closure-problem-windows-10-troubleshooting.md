@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Sluggish Closure Problem: Windows 10 Troubleshooting"
-date: 2024-08-23T14:04:26.712Z
-updated: 2024-08-24T14:04:26.712Z
+date: 2025-02-01T18:49:43.594Z
+updated: 2025-02-07T06:54:26.513Z
 tags:
   - win11
   - win10
@@ -51,21 +51,30 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -75,9 +84,9 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
@@ -86,19 +95,14 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
+
 ## Solution 3: Reinstall your Bluetooth driver
 
  Always, if your Bluetooth driver is outdated or corrupted, it will cause errors. In most such cases, updating your Bluetooth driver can fix the error.
@@ -109,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
@@ -129,8 +130,9 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
@@ -145,8 +147,9 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 * [Bluetooth](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -158,8 +161,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +168,20 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-5-second-lapses-recorder-top-pick-for-2024/"><u>[New] Best 5-Second Lapses Recorder - Top Pick for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-windows-movie-maker-6-a-download-primer/"><u>[New] Windows Movie Maker 6 A Download Primer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/"><u>2024 Approved Mastering the Art of Virtual Board Usage in Web Conferences Android, Apple & PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-methods-for-unlocking-and-converting-drm-encrypted-dvds-with-vlc-media-player-and-handbrake/"><u>Effortless Methods for Unlocking and Converting DRM-Encrypted DVDs with VLC Media Player & HandBrake</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expect-unusual-meeting-experiences-with-the-new-zoom-integration-in-vision-pro-wireless-earbuds-zdnet/"><u>Expect Unusual Meeting Experiences with the New Zoom Integration in Vision Pro Wireless Earbuds | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-high-network-consumption-by-svchostexe-netsvcs-a-complete-guide-to-troubleshooting-and-resolution/"><u>Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/invalid-path-heres-your-guide-to-fixing-the-wrong-directory-name-error/"><u>Invalid Path? Here's Your Guide to Fixing the Wrong Directory Name Error</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-7-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 7 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-setup-on-a-windows-7-machine/"><u>Mastering Bluetooth Setup on a Windows 7 Machine</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ct-your-videos-focus-with-simple-blurring-techniques-for-2024/"><u>Perfect Your Video's Focus with Simple Blurring Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactivate-your-windows-11-bluetooth-connection-quick-fixes-inside/"><u>Reactivate Your Windows 11 Bluetooth Connection - Quick Fixes Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-no-response-from-dns-server-issues-with-these-4-simple-fixes/"><u>Solve 'No Response From DNS Server' Issues with These 4 Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-how-to-correctly-install-battleye-anti-cheat-software/"><u>Troubleshooting Completed: How to Correctly Install BattlEye Anti-Cheat Software</u></a></li>
+</ul></div>
 

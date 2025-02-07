@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Invalid Directory Name' Mistake – A Step-by-Step Guide
-date: 2025-01-23T16:48:07.843Z
-updated: 2025-01-25T17:29:01.319Z
+date: 2025-02-01T18:48:27.090Z
+updated: 2025-02-07T00:09:38.165Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Apex Legends Easy Anti-Cheat Error
 
@@ -49,15 +53,15 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair Apex Legends in Origin
 
@@ -70,22 +74,18 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-14.png)
 3. Wait until the repair process finishes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Apex Legends and Origin as Administrator
 
  Apex Legends requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may receive Easy Anti-Cheat error. So you should make sure to run Apex Legends and Origin as administrator to see if it fixes the issue.
 
  After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify connectivity to Easy Anti-Cheat
 
@@ -109,7 +109,7 @@ Here are the steps to repair Apex Legends in Origin:
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
@@ -118,16 +118,12 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
@@ -139,12 +135,12 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.png)
 3. Wait until you see the following message. Then click **Close** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends and Origin
 
@@ -167,6 +163,10 @@ Here are the steps to repair Apex Legends in Origin:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
@@ -195,16 +195,22 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-pathway-including-vimeo-videos/"><u>[New] In 2024, Instagram's Pathway Including Vimeo Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wmvaiff-movavi/"><u>网上免费将WMV视频改为AIFF音效 - 使用Movavi专业解决方案</u></a></li>
-<li><a href="https://fox-access.techidaily.com/aural-elegance-selecting-high-quality-ringtones-online-for-2024/"><u>Aural Elegance Selecting High-Quality Ringtones Online for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/beat-the-blackout-a-step-by-step-fix-for-call-of-duty-wwiis-screen-issues-on-pc/"><u>Beat the Blackout! A Step-by-Step Fix for Call of Duty: WWII's Screen Issues on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comment-movavi-gere-t-il-les-achats-et-les-restitutions-decouvrez-nos-politiques-efficaces-pour-une-meilleure-experience-client/"><u>Comment Movavi Gère-T-Il Les Achats Et Les Restitutions ? Découvrez Nos Politiques Efficaces Pour Une Meilleure Expérience Client</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-de-fichiers-wma-en-formats-vob-en-ligne-utiliser-movavi/"><u>Conversion Gratuite De Fichiers WMA en Formats VOB en Ligne - Utiliser Movavi</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-explore-these-innovative-5-iphone-apps-transforming-podcasts/"><u>In 2024, Explore These Innovative 5 iPhone Apps Transforming Podcasts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://games-able.techidaily.com/pc-part-harmony-the-pre-purchase-confirmation/"><u>PC Part Harmony: The Pre-Purchase Confirmation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-oneplus-open-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock OnePlus Open Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/m4a-mov-movavi/"><u>オンラインでもらえる無料 M4A から MOVへの変換 - Movavi動画編集ツール</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-windows-11-update-error-0x80070541/"><u>[Fixed] Windows 11 Update Error 0X80070541</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-counteracting-bot-influence-for-higher-traffic-for-2024/"><u>[New] Counteracting Bot Influence for Higher Traffic for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-tips-for-powerful-podcast-openings/"><u>[New] Innovative Tips for Powerful Podcast Openings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pixel-queens-rising-youtubes-top-10/"><u>2024 Approved Pixel Queens Rising YouTube's #Top 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-for-computer-wont-stay-awake-problems/"><u>Effortless Troubleshooting for Computer Won't Stay Awake Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-no-more-a-step-by-step-solution-for-windows-camera-error-code-0xa00f4292/"><u>Error No More: A Step-by-Step Solution for Windows Camera Error Code 0Xa00f4292</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-fix-resolving-windows-failed-to-install-issues/"><u>Fast Fix: Resolving 'Windows Failed To Install' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-unresponsive-google-chrome-issue-with-simple-relaunch-steps/"><u>Fix Unresponsive Google Chrome Issue with Simple Relaunch Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hell-let-loose-pc-bug-solved-enjoy-uninterrupted-gaming/"><u>Hell Let Loose PC Bug Solved – Enjoy Uninterrupted Gaming!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-dvd-files-running-again-in-windows-operating-system/"><u>How to Get DVD Files Running Again in Windows Operating System</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/resolve-your-pcs-silence-with-yl-software-expert-tips-for-restoring-audio-functionality/"><u>Resolve Your PC's Silence with YL Software: Expert Tips for Restoring Audio Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-your-microphone-problems-in-windows-10/"><u>Step-by-Step Guide to Fixing Your Microphone Problems in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-continuous-play-in-forza-horizon-npc/"><u>Troubleshooting Tips for Continuous Play in Forza Horizon N_pC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721431154450-twitters-smileless-tweets-linuss-discoveries-unveiled-trojan-explanation-and-gpt-limitations-showcased/"><u>Twitters Smileless Tweets, Linus’s Discoveries Unveiled, Trojan Explanation, & GPT Limitations Showcased</u></a></li>
+<li><a href="https://fox-within.techidaily.com/ultimate-guide-to-setting-up-alarms-on-android-phones-and-tablets/"><u>Ultimate Guide to Setting Up Alarms on Android Phones and Tablets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-your-usb-to-hdmi-link-isnt-working-fixes-and-tips/"><u>Why Your USB to HDMI Link Isn't Working: Fixes & Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/xbox-online-is-not-working-heres-how-to-figure-out-if-its-an-actual-crash-or-just-a-local-issue/"><u>Xbox Online Is Not Working? Here's How to Figure Out If It’s an Actual Crash or Just a Local Issue</u></a></li>
 </ul></div>
 

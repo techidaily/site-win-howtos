@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the COD WW2 Bug - Fixing Error Code N4220 Efficiently
-date: 2025-01-24T17:16:27.505Z
-updated: 2025-01-25T17:38:05.224Z
+date: 2025-02-05T09:45:07.943Z
+updated: 2025-02-06T18:32:06.474Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Enable Microsoft Hosted Network Virtual Adapter](https://tools.techidaily.com/drivereasy/download/)
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
@@ -45,18 +41,22 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4)Now set your WiFi hotspot again to see if the error has been fixed.
 
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
 
@@ -95,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db867abdfc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now Microsoft will detect the update for you automatically.
 
  However, for some reason, Microsoft cannot always find the update for you. If you receive the message:**The best driver software for your device is already installed** , please try the next method to update the driver.
@@ -120,7 +120,7 @@ Now Microsoft will detect the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -150,18 +150,20 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube/"><u>[New] In 2024, Amplify Your Video Content with Precision Insights From Social Blade & YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-the-dangerous-google-chrome-warning-fraud-with-these-tips/"><u>Bypass the Dangerous Google Chrome Warning Fraud with These Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-glitches-a-step-by-step-guide-to-clearing-windows-11-startup-issues/"><u>Bypassing Glitches: A Step-by-Step Guide to Clearing Windows 11 Startup Issues</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correct-blurring-screens-in-devices/"><u>Correct Blurring Screens in Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y56-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y56 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-fix-a-computer-when-it-doesnt-recognize-your-hard-drive-solutions-by-yl-computing/"><u>How to Fix a Computer When It Doesn't Recognize Your Hard Drive - Solutions by YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-failed-startup-of-the-windows-10-configuration-mechanism/"><u>How to Fix a Failed Startup of the Windows 10 Configuration Mechanism</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-unleash-speed-edit-windows-11-photos-like-a-pro/"><u>In 2024, Unleash Speed Edit Windows 11 Photos Like a Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/rapid-resolution-how-to-manage-continuously-running-mac-cooling-systems-tech-tips-by-zdnet/"><u>Rapid Resolution: How to Manage Continuously Running Mac Cooling Systems | Tech Tips by ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-errors-in-directx-hardware-initialization/"><u>Resolved: Fixing Errors in DirectX Hardware Initialization</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-issues-with-a-non-functional-mic-on-the-corsair-hs50/"><u>Solving Issues with a Non-Functional Mic on the Corsair HS50</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-airpods-and-windows-compatibility/"><u>Troubleshooting Steps for AirPods & Windows Compatibility</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063039833-windows-10-canon-driver-get-it-now/"><u>Windows 10 Canon Driver, Get It Now!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-5-groundbreaking-advice-points-from-successful-marketers-online-for-2024/"><u>[New] 5 Groundbreaking Advice Points From Successful Marketers Online for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sonic-gold-standard-10-ways-to-elevate-home-recordings/"><u>[New] Sonic Gold Standard 10 Ways to Elevate Home Recordings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hat-drives-youtubes-content-creator-hub/"><u>[New] What Drives YouTube's Content Creator Hub?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-exploring-the-significance-of-pfp-on-tiktok-platform/"><u>2024 Approved Exploring the Significance of PFP on TikTok Platform</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube-for-2024/"><u>Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ejecutando-seleccion-de-regiones-para-screenshots-en-windows-11-como-comenzar/"><u>Ejecutando Selección De Regiones Para Screenshots en Windows 11 - Cómo Comenzar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-39-explained-effective-solutions-for-your-cd-and-dvd-player-issues/"><u>Error Code #39 Explained: Effective Solutions for Your CD and DVD Player Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-successful-installation-of-the-windows-10-version-n-to-n-solutions/"><u>Expert Tips for Successful Installation of the Windows 10 Version N to N: Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-generative-ai-on-modern-day-information-manipulation-techniques/"><u>Exploring the Impact of Generative AI on Modern-Day Information Manipulation Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-identify-and-change-management-controlled-configuration-settings-in-windows/"><u>How to Identify and Change Management-Controlled Configuration Settings in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-conundrum-solved-reactivate-corsair-led-lighting-today/"><u>Keyboard Conundrum Solved - Reactivate Corsair LED Lighting Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-a-world-of-eye-catching-imagery-at-pexels/"><u>Step Into a World of Eye-Catching Imagery at Pexels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-wacom-digitizer-drivers-missing-issue-in-windows-10/"><u>Troubleshooting Wacom Digitizer Drivers Missing Issue in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-reducing-high-cpu-usage-from-wudfhostexe-in-windows-10/"><u>Understanding and Reducing High CPU Usage From wudfhost.exe in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-the-mystery-of-inaccessible-content-is-finally-solved/"><u>Update: The Mystery of 'Inaccessible Content' Is Finally Solved</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "End the Flicker Frustration: Solutions for Stabilizing Windows 11 Screens"
-date: 2024-08-23T14:04:16.197Z
-updated: 2024-08-24T14:04:16.197Z
+date: 2025-02-06T05:54:47.421Z
+updated: 2025-02-07T05:14:42.059Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
  If there’s no problem with the HDMI port and the cable, you can try the two solutions below. Start with Solution 1, then try Solution 2 if it doesn’t solve the problem.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -34,6 +38,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
  1) Right-click your desktop and click **Personalize** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Display** .
 
@@ -43,6 +51,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can’t see your TV on the screen , follow steps below:
 
  1) On your keyboard, press the**Windows logo key**  and **P** at the same time.
@@ -50,11 +62,19 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
 After that, check to see if Windows can detect your TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
 
@@ -92,8 +112,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +119,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-content-creators-dilemma-which-site-reigns-vimeo-youtube-for-2024/"><u>[New] Content Creators' Dilemma Which Site Reigns - Vimeo, YouTube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-vcr-video-vault-extensive-reviews-and-summary-for-2024/"><u>[New] VCR Video Vault Extensive Reviews & Summary for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-tech-for-live-video-recording-webcam-with-vlc/"><u>[Updated] Innovative Tech for Live Video Recording – Webcam with VLC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-global-exploration-by-channel/"><u>[Updated] The Ultimate Guide to Global Exploration, By Channel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-your-microsoft-surface-pro-4s-touchscreen-functionality-no-more-frustration/"><u>Expert Tips to Restore Your Microsoft Surface Pro 4'S Touchscreen Functionality - No More Frustration!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-missing-location-feature-on-an-iphone-a-step-by-step-guide/"><u>Fixing the Missing Location Feature on an iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-htc-u23-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For HTC U23 Unlock Without Password</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-the-world-of-windows-11s-in-built-high-dynamic-range-feature-for-2024/"><u>Navigating the World of Windows 11'S In-Built High Dynamic Range Feature for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-10-bluetooth-disappearance-troubles-with-simple-fixes/"><u>Resolve Your Windows 10 Bluetooth Disappearance Troubles with Simple Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-locating-and-installing-critical-media-drivers-for-seamless-operation/"><u>Resolved: Locating and Installing Critical Media Drivers for Seamless Operation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-device-not-migrated-issue-on-microsoft-windows-10-computers/"><u>Resolving the 'Device Not Migrated' Issue on Microsoft Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-when-your-dell-wireless-keyboard-stops-responding/"><u>Solving the Problem When Your Dell Wireless Keyboard Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-gaining-admin-rights-for-the-requested-operation-on-windows-11107-systems/"><u>Step-by-Step Guide: Gaining Admin Rights for the Requested Operation on Windows 11/10/7 Systems</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/toshiba-canvio2/"><u>Toshiba CANVIO外接硬碟備份解決方案:最適合前2名的選擇</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-restore-night-light-functionality-on-windows-10-and-11-systems/"><u>Troubleshooting Guide: How to Restore Night Light Functionality on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-successfully-detecting-devices-via-bluetooth-on-windows-10/"><u>Troubleshooting Tips: Successfully Detecting Devices via Bluetooth on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-no-internet-connection-secured-issues-in-windows/"><u>Ultimate Guide: Resolving 'No Internet Connection (Secured)' Issues in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-f14-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy F14 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208842706-winning-against-wifi-fix-your-bluetooth-pairing-woes-on-windows-11-tips-and-tricks/"><u>Winning Against WiFi: Fix Your Bluetooth Pairing Woes on Windows 11 - Tips & Tricks !</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your Razer Keyboard Illumination Issues
-date: 2024-08-23T14:07:53.241Z
-updated: 2024-08-24T14:07:53.241Z
+date: 2025-02-04T06:29:35.740Z
+updated: 2025-02-07T09:02:45.257Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ The good news is, you can fix it easily!
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
  Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
@@ -62,15 +59,19 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
-2. Locate and double-click on**Windows Audio** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
 5. **Restart** your PC and check if your volume control icon works as it should.
@@ -89,16 +90,19 @@ To run SFC:
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run the Playing Audio troubleshooter
 
  If all else fails, then you might have to run the built-in audio troubleshooter in our Windows to solve the problem.
@@ -107,12 +111,19 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -128,8 +139,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +146,18 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-powerpoints-automatic-transcription-feature/"><u>2024 Approved Leveraging PowerPoint’s Automatic Transcription Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-black-screen-troubles-in-your-windows-11-system/"><u>Comprehensive Guide: Overcoming Black Screen Troubles in Your Windows 11 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-geforce-experience-startup-errors-solutions-and-best-practices/"><u>Dealing with GeForce Experience Startup Errors: Solutions and Best Practices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-disconnect-issue-a-comprehvew-of-mouse-troubleshooting/"><u>Fixing the Disconnect Issue: A Comprehvew of Mouse Troubleshooting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962857082-get-your-linksys-ae25n-wireless-network-up-and-running-fast-download-the-latest-drivers-here/"><u>Get Your Linksys AE25n Wireless Network Up & Running Fast – Download the Latest Drivers Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-non-functional-keyboard-led-lights-in-apple-and-microsoft-computers/"><u>Resolving Non-Functional Keyboard LED Lights in Apple and Microsoft Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-launch-of-pink-caulk-gun-application-thermal-gel-from-tim-a-game-changer-for-component-gaps/"><u>The Launch of Pink 'Caulk Gun' Application Thermal Gel From TIM: A Game-Changer for Component Gaps!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-non-charging-laptops-in-windows-7-and-10-despite-being-connected/"><u>Troubleshooting Tips for Non-Charging Laptops in Windows 7 & 10 Despite Being Connected</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-twelve-south-compass-pros-ingenious-creation-for-optimal-balance/"><u>Ultimate Guide: Twelve South Compass Pro's Ingenious Creation for Optimal Balance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-secrets-to-smooth-epson-data-transmission/"><u>Unlocking Secrets to Smooth Epson Data Transmission</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whats-the-reality-behind-prompt-engineering-as-a-profession-uncovering-9-crucial-points/"><u>What's the Reality Behind Prompt Engineering as a Profession? Uncovering 9 Crucial Points</u></a></li>
+</ul></div>
 

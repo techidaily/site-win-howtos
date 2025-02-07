@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Unreal Engine Is Exiting Due to D3D Device Being Lost"
-date: 2024-08-23T14:03:52.209Z
-updated: 2024-08-24T14:03:52.209Z
+date: 2025-02-01T16:51:04.663Z
+updated: 2025-02-07T08:08:01.276Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/547814a807b4543590f62321378a7a383eefe4ae6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/no-detect.jpg)
 
  You must be vexing when you bought a Corsair Gaming keyboard but were welcomed with a “**NO DEVICE DETECTED. PLEASE CONNECT A DEVICE** “. You are unable to customize the profiles and LEDs on the keyboard due to the device tabs both being greyed out and unclickable which was a big selling point. Don’t worry, you’re not alone. And here’s methods that can help you fix this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -36,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/547814a807b4543590f62321378a7a383eefe4ae6
 If none of these work, you can move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Redownload the firmware files
 
  For this method, you have to uninstall the software first. Because we want to make sure your computer won’t interfere with corrupted install files.
@@ -50,8 +55,9 @@ If none of these work, you can move to the next method.
 6. Install firmware.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Disable other related devices
 
  There’s one thing you can try is to shut down other programs which are related to Corsair and its iCUE. This may be because other third-party programs may interfere with Corsair and cause the problem.
@@ -63,18 +69,22 @@ If none of these work, you can move to the next method.
 4. Click**View** and choose**Show hidden devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/hidden.jpg)
 5. Expand**Keyboard** and then uninstall every hidden device below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Open Control Panel and click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall.jpg)
 7. Uninstall Corsair Utility Engine.
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Connect your keyboard back to PC.
 9. Run iCUE and the keyboard should appear.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Update your drivers
 
  If you uninstall other applications before this issue happened, it’s possible you may uninstall USB or related drivers accidentally. The outdated or missing drivers can cause problems to your computer and it’s important to keep your drivers up-to-date for a better user experience.
@@ -103,14 +113,8 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -123,8 +127,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +134,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-enhancing-social-media-engagement-with-branded-icons-on-instagram/"><u>[New] In 2024, Enhancing Social Media Engagement with Branded Icons on Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-coders-showdown-which-codec-will-dominate-video-quality-in-2024/"><u>[Updated] Coders' Showdown Which Codec Will Dominate Video Quality, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-premium-clock-selections-for-your-big-day-on-mobile/"><u>[Updated] Premium Clock Selections for Your Big Day on Mobile</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artful-expression-on-tablets-leading-ios-drawers/"><u>Artful Expression on Tablets Leading iOS Drawers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-issue-laptop-not-charging-on-windows-operating-systems/"><u>Bypassing the Issue: Laptop Not Charging on Windows Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-repair-when-your-bluetooth-mouse-wont-work-on-a-windows-machine/"><u>DIY Repair: When Your Bluetooth Mouse Won't Work on a Windows Machine</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-legacy-os-to-innovative-windows-11-for-2024/"><u>From Legacy OS to Innovative Windows 11 for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-github-desktop-on-windows-11-a-complete-guide/"><u>Mastering GitHub Desktop on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/trasforma-i-tuoi-media-con-digiarty-software-il-fornitore-italiano-di-servizi-di-conversione-dvdvideo/"><u>Trasforma I Tuoi Media Con Digiarty Software - Il Fornitore Italiano Di Servizi Di Conversione DVD/Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-compromised-files-in-your-windows-11-operating-system/"><u>Troubleshooting and Fixing Compromised Files in Your Windows 11 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-we-fixed-unresponsive-keys-on-your-keyboard/"><u>Troubleshooting Guide - How We Fixed Unresponsive Keys on Your Keyboard</u></a></li>
+</ul></div>
 

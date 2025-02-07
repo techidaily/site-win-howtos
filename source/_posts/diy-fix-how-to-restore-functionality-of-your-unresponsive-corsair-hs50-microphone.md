@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone"
-date: 2025-01-20T18:46:03.715Z
-updated: 2025-01-25T18:01:37.179Z
+date: 2025-02-04T06:04:08.897Z
+updated: 2025-02-06T19:45:31.218Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Xbox One Headset Not Working?
 
  This article covers 5 tired-and-true methods for you to try. You may not need to try them all. Just start from the top and work your way down. You Xbox One headset may work fine again.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 4. [Make sure your controller has fresh batteries](https://tools.techidaily.com/drivereasy/download/)
 5. [Try using a different controller or headset](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Make sure the headset is not muted
 
  If the mute feature is enabled by accident, you can’s hear any sound then. When you find your Xbox One headset not working, the first thing is to check if it’s muted.
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
@@ -64,7 +64,7 @@ Follow the steps here to update your Xbox One controller software.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915a7941a9b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)  
@@ -80,10 +80,6 @@ Follow the steps here to update your Xbox One controller software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now Windows will detect the update for your controller automatically.
 
  For some reasons, Microsoft cannot find the update for you. In order not to missing the update, you can try**Driver Easy** .
@@ -98,17 +94,21 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4\. Make sure your controller has fresh batteries
 
  When the batteries of your controller become weak, your headset could not work properly, either. In such case, you can try replace with new batters for you controller to see if the headset works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5\. Try using a different controller
 
@@ -131,20 +131,24 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-key-5-photo-editing-tools-iphone-x78-background-swap/"><u>[New] Key 5 Photo Editing Tools IPhone X/7/8 Background Swap</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-guide-to-beauty-channels-your-step-by-step-blueprint/"><u>[Updated] 2024 Approved The Ultimate Guide to Beauty Channels Your Step-By-Step Blueprint</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-streaming-success-secrets-unveiling-monetization-on-dm-and-yo/"><u>2024 Approved Streaming Success Secrets Unveiling Monetization on Dm & Yo</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/color-code-cracked-how-to-match-video-clips-in-powerdirector-like-a-pro-for-2024/"><u>Color Code Cracked How to Match Video Clips in PowerDirector Like a Pro for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-best-places-for-free-and-lawful-mp3-downloads-top-5-picks/"><u>Discover the Best Places for Free & Lawful MP3 Downloads: Top 5 Picks!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-missing-dlls-the-definitive-guide-for-windows-10-class-registration-issues/"><u>Fixing Missing DLLs: The Definitive Guide for Windows 10 Class Registration Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-trouble-how-to-overcome-the-errcachemiss-hurdle/"><u>Google Chrome Trouble? How to Overcome the ERR_CACHE_MISS Hurdle</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/harmonious-social-media-incorporating-soundtracks-into-fb-videos-for-2024/"><u>Harmonious Social Media Incorporating Soundtracks Into FB Videos for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-6s-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 6s?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unresponsive-function-keys-on-your-asus-device/"><u>How to Resolve Unresponsive Function Keys on Your Asus Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-a23-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy A23 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-handling-inadequate-system-resources-during-service-execution/"><u>Solution Steps for Handling Inadequate System Resources During Service Execution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-laptop-trackpad-problems-on-windows-11-8-and-7-with-these-simple-fixes/"><u>Solve Laptop Trackpad Problems on Windows 11, 8 and 7 with These Simple Fixes!</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-strategies-correcting-driver-power-loss-issues-quickly-on-a-windows-machine/"><u>Winning Strategies: Correcting Driver Power Loss Issues Quickly on a Windows Machine</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-step-by-step-journey-through-high-impact-youtube-banner-designs-for-2024/"><u>[New] A Step-by-Step Journey Through High-Impact YouTube Banner Designs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-guides-on-creating-cost-free-youtube-beginnings-and-conclusions/"><u>[Updated] Guides on Creating Cost-Free YouTube Beginnings & Conclusions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-tune-makers-for-iphone-users/"><u>[Updated] Superior Tune Makers for iPhone Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-tips-for-zooming-in-on-superior-skype-meetings/"><u>2024 Approved Top Tips for Zooming in on Superior Skype Meetings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-device-attached-to-the-system-is-not-functioning-fixed/"><u>A Device Attached to The System Is Not Functioning [Fixed]</u></a></li>
+<li><a href="https://facebook.techidaily.com/cybersecurity-concerns-with-facebook-quizzes-explored/"><u>Cybersecurity Concerns with Facebook Quizzes Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-to-gaming-fix-overwatch-voice-chat-glitches-instantly/"><u>Get Back to Gaming: Fix Overwatch Voice Chat Glitches Instantly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-itel-a60s-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Itel A60s</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-a-failing-windows-10-update-process-expert-tips-for-users-resolved/"><u>How to Correct a Failing Windows 10 Update Process - Expert Tips for Users [RESOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-destructive-fatal-glitch-causing-halo-4-ue4-game-crashes-edition/"><u>How to Fix the Destructive Fatal Glitch Causing Halo 4 UE4 Game Crashes Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lyrical-launchpads-discover-10-top-music-for-podcasts/"><u>Lyrical Launchpads Discover 10 Top Music for Podcasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mandatory-specification-run-the-engine-only-with-a-directx-11-supported-graphics-processor/"><u>Mandatory Specification: Run the Engine Only with a DirectX 11 Supported Graphics Processor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/monitor-mastery-a-complete-rundown-of-acquiring-an-eye-catching-4k-screen-for-2024/"><u>Monitor Mastery A Complete Rundown of Acquiring an Eye-Catching 4K Screen for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/persistent-file-placement-on-windows-10-understanding-how-your-files-stay-put-between-boots/"><u>Persistent File Placement on Windows 10: Understanding How Your Files Stay Put Between Boots</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/resolving-windows-hardware-induced-software-clashes-expert-advice-from-yl-computing/"><u>Resolving Windows Hardware-Induced Software Clashes: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208048641-trouble-free-fixes-for-a-laptop-that-wont-hold-a-charge-expert-advice-inside/"><u>Trouble-Free Fixes for a Laptop That Won't Hold A Charge: Expert Advice Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-no-audio-output-device-message-on-windows-11/"><u>Troubleshooting Guide: Resolving 'No Audio Output Device' Message on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-solutions-fixing-steam-server-connectivity-issues/"><u>Troubleshooting Solutions: Fixing Steam Server Connectivity Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-snapchats-my-ai-isnt-just-a-fun-gimmick-discover-its-6-unexpected-advantages/"><u>Why Snapchat's My AI Isn’t Just a Fun Gimmick – Discover Its 6 Unexpected Advantages</u></a></li>
 </ul></div>
 

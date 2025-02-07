@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Fixing the Persistent Code 80070103 in Windows Update
-date: 2025-01-23T18:35:20.829Z
-updated: 2025-01-25T16:30:12.365Z
+date: 2025-01-31T23:20:51.267Z
+updated: 2025-02-07T05:57:49.767Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![Fix 0x800704cf error when connecting to a network PC](https://images.drivereasy.com/wp-content/uploads/2020/08/case1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’s very frustrating when you want to access another network PC to share files or perform specific tasks but are interrupted by the 0x800704cf error. No worries. You can follow the guide below to put things back on track.
 
 1. **[Change adapter options](https://tools.techidaily.com/drivereasy/download/)**
@@ -58,10 +62,6 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-3-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Right-click the network you’re currently using, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-4.jpg)
@@ -82,13 +82,13 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-1-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Yes** when you’re prompted to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-3-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** In the command prompt window, type in the following commands and press the **Enter** key after each command.
 
@@ -122,10 +122,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Right-click a device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-5-1.jpg)
@@ -135,7 +131,7 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Delete all the devices one by one under Network adapters.
@@ -170,11 +166,19 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Enter your**account** and**password** to sign in.
 
 **5)** Go back to**Your info** , and click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the on-screen instruction to verify your identity. Then, open your Microsoft Store and see whether the 0x800704cf code still pops up or not. If this method isn’t helpful, don’t despair. Have a look at more fixes below.
 
@@ -187,10 +191,6 @@ netsh int ip reset
 **1)** Type**troubleshoot** in the search box and click**Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
@@ -206,10 +206,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Scroll down to click**Windows Store Apps** and click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-4-2.jpg)
@@ -217,6 +213,10 @@ netsh int ip reset
  Follow the on-screen instruction to fix any detected issues. Then, launch the Microsoft Store and check if it works without error. If not, please try the Fix 3 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Reset the Microsoft store
 
@@ -226,20 +226,20 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Scroll down and click**Reset** .
@@ -250,15 +250,15 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-5-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open your Microsoft Store, and the 0x800704cf error won’t be disturbing you anymore.
 
  Network issue like 0x800704cf error is a common PC problem but it’s insufferable. There’s so much you can’t do without the Internet, and even worse, you can’t search a solution to fix it. If you’ve frequently run into this kind of issues such as no or slow Internet access, be sure to check our bonus tips below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tips: Update your network driver
 
@@ -276,15 +276,15 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to the flagged network driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -315,17 +315,24 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-essential-tips-for-vlc-based-online-streaming/"><u>[Updated] 2024 Approved Essential Tips for VLC-Based Online Streaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-comprehensive-compilation-of-world-class-e-learning-sites-minus-udemy/"><u>[Updated] In 2024, Comprehensive Compilation of World-Class E-Learning Sites (Minus Udemy)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-elevate-your-content-perfecting-videos-on-instagram/"><u>[Updated] In 2024, Elevate Your Content Perfecting Videos on Instagram</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movvob-movavi/"><u>無料のオンラインでMOV/VOBファイル変換 – Movaviサービスガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descargar-e-imprimir-su-archivo-pgf-sin-coste-adicional-con-herramientas-de-conversion-en-linea/"><u>Descargar E Imprimir Su Archivo PGF Sin Coste Adicional Con Herramientas De Conversión en Línea</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-boost-your-slides-add-video-from-youtube-by-google/"><u>In 2024, Boost Your Slides Add Video From YouTube, by Google</u></a></li>
-<li><a href="https://fox-info.techidaily.com/resonating-with-your-device-a-comprehensive-guide-for-customizing-auditory-experience-on-android/"><u>Resonating With Your Device A Comprehensive Guide for Customizing Auditory Experience on Android</u></a></li>
-<li><a href="https://win-help.techidaily.com/the-ultimate-tutorial-on-preparing-epub-files-for-seamless-viewing-using-flippingbook/"><u>The Ultimate Tutorial on Preparing ePub Files for Seamless Viewing Using FlippingBook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-12-video-collage-apps-of-the-year-a-comprehensive-review/"><u>Top 12 Video Collage Apps of the Year: A Comprehensive Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/veilig-en-gratuite-ogg-conversie-van-m4a-movavi/"><u>Veilig en Gratuite Ogg-Conversie Van M4a - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-distrust-in-artificial-intelligence-isnt-extreme/"><u>Why Distrust in Artificial Intelligence Isn't Extreme</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-flvwma-mp4/"><u>무료 비디오 형식 바꾸기 - Online 속도를 위해 FLV/WMA를 MP4로 전환</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparative-analysis-of-the-metaverse-and-multimeva-worlds-detailed-guide/"><u>[New] Comparative Analysis of the Metaverse & Multimeva Worlds (Detailed Guide)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-legitimate-protocols-for-achieving-over-a-million-viewership/"><u>[New] Legitimate Protocols for Achieving Over a Million Viewership</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-analyzing-tseries-earnings-via-youtube-engagement/"><u>[Updated] Analyzing TSeries Earnings via YouTube Engagement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battleye-setup-overcoming-previous-failures-with-these-proven-fixes/"><u>BattlEye Setup: Overcoming Previous Failures with These Proven Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/disentangling-compact-icons-on-desktop-shelf/"><u>Disentangling Compact Icons on Desktop Shelf</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-restoring-microphone-functionality-on-windows-10-systems/"><u>Expert Tips: Restoring Microphone Functionality on Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-ensure-a-smooth-shut-down-process-in-windows-10-issues-fixed/"><u>How to Ensure a Smooth Shut Down Process in Windows 10 [ISSUES FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-connected-yet-disconnected-bluetooth-issues-on-your-windows-10-pc/"><u>How to Fix 'Connected' Yet Disconnected Bluetooth Issues on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/important-note-ensure-your-system-has-a-directx-11-gpu-before-installation/"><u>Important Note: Ensure Your System Has a DirectX 11 GPU Before Installation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-journey-from-content-creator-to-money-maker-on-youtube/"><u>In 2024, The Journey From Content Creator to Money-Maker on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-windows-connectivity-issue-fixing-error-code-0x800704cf/"><u>Resolve the Windows Connectivity Issue: Fixing Error Code 0X800704CF</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-windows-boltgun-latency-woes/"><u>Strategies to Overcome Window's Boltgun Latency Woes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-destiny-2-server-connection-failures-for-gamers/"><u>Troubleshooting Destiny 2 Server Connection Failures for Gamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/types-and-designations-in-ua-world-for-2024/"><u>Types & Designations in UA World for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ultimate-selection-8-preferred-mp3-grabbers-android/"><u>Ultimate Selection 8 Preferred MP3 Grabbers (Android)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-the-incorrect-parameter-mistake-for-windows-library-loading-error-87/"><u>Understanding and Fixing the 'Incorrect Parameter' Mistake for Windows Library Loading (Error 87)</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-advertising-in-2024/"><u>Updated What Is AI Advertising, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-usb-mouse-working-discover-simple-fixes-to-restore-functionality/"><u>Why Isn't My USB Mouse Working? Discover Simple Fixes to Restore Functionality</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/windows-10-iso-disk-burning-guide-effizientes-kopieren-mit-winx-dvd-copy-professional/"><u>Windows 10 ISO Disk Burning Guide: Effizientes Kopieren Mit WinX DVD Copy Professional</u></a></li>
 </ul></div>
 

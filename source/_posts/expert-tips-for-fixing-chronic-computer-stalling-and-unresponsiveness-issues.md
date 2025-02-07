@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing Chronic Computer Stalling and Unresponsiveness Issues
-date: 2024-08-23T14:05:49.463Z
-updated: 2024-08-24T14:05:49.463Z
+date: 2025-02-06T05:37:32.983Z
+updated: 2025-02-07T14:40:11.345Z
 tags:
   - win11
   - win10
@@ -38,6 +38,14 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update the drivers on your computer  
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -68,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Reset CMOS to the default settings  
 
  Corrupted CMOS can cause booting errors, such as the error “computer repeatedly turns on and off”. To fix the problem, you can try to reset CMOS to the default settings.
@@ -92,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/6c068dd9c7ff9ad108362423509c28dd6ffe162b7
 For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
@@ -115,12 +124,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Method 6: Check the fan  
 
  The fan is one of the key components that makes computer to run properly. If it doesn’t work, the computer can overheat easily. Computer overheating can cause serious problems. So the system will try to prevent computer overheating. If the fan doesn’t work, the computer can shut down automatically to prevent the internal heating damaging the computer.
@@ -132,17 +135,19 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 7: Clean dust  
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 8: Replace the motherboard  
 
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
@@ -150,8 +155,9 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -162,8 +168,6 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +175,23 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-the-most-reliable-youtube-downloader-apps-for-android/"><u>[New] 2024 Approved Discovering the Most Reliable YouTube Downloader Apps for Android</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-becoming-a-youtube-pro-the-ultimate-picture-post-guide/"><u>[New] In 2024, Becoming a YouTube Pro The Ultimate Picture Post Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-comprehensive-look-at-lighting-your-youtube-videos-right/"><u>[Updated] 2024 Approved A Comprehensive Look at Lighting Your YouTube Videos Right</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unveiling-the-truth-about-sharex-reviews-and-options/"><u>[Updated] 2024 Approved Unveiling the Truth About ShareX Reviews & Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/build-a-budget-oriented-chatgpt-replica-locally/"><u>Build a Budget-Oriented ChatGPT Replica Locally</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprender-los-tamanos-de-imagen-estandar-en-fotografia-guia-detallada-por-movavi/"><u>Comprender Los Tamaños De Imagen Estándar en Fotografía - Guía Detallada Por Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-tips-for-continuous-windows-10-reboots/"><u>Easy Troubleshooting Tips for Continuous Windows 10 Reboots</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-transfer-of-icloud-contacts-to-your-iphone-a-step-by-step-guide/"><u>Effortless Transfer of iCloud Contacts to Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-bluetooth-delay-fast-and-simple-solutions/"><u>Fixing Bluetooth Delay: Fast and Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-screen-shimmer-issues-on-windows-11/"><u>Fixing Persistent Screen Shimmer Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-incompatibile-ftdi-drivers-can-cause-memory-integrity-failures-in-systems/"><u>How Incompatibile FTDI Drivers Can Cause Memory Integrity Failures in Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-lan-not-connecting-expert-tips-for-a-seamless-multiplayer-experience/"><u>Minecraft LAN Not Connecting? Expert Tips for a Seamless Multiplayer Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-fallout-4-delays-with-these-2022-optimization-hacks/"><u>Overcome Fallout 4 Delays with These 2022 Optimization Hacks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/secure-your-gaming-experience-resolve-missing-steam-files-problem/"><u>Secure Your Gaming Experience: Resolve Missing Steam Files Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-the-unusual-black-out-on-google-chrome-expert-tips-and-tricks/"><u>Troubleshoot the Unusual Black Out on Google Chrome: Expert Tips and Tricks</u></a></li>
+</ul></div>
 

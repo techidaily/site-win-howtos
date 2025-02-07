@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Common Obstacles in Downloading Steam Updates Correctly
-date: 2024-08-23T14:05:53.377Z
-updated: 2024-08-24T14:05:53.377Z
+date: 2025-01-31T03:13:43.100Z
+updated: 2025-02-07T09:04:56.211Z
 tags:
   - win11
   - win10
@@ -39,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
  See if this issue persists after you wait for 2 to 3 hours. If it persists, try the next fix below to force restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Force restart your PC
 
  If Your PC gets stuck at 100% when you’re performing a Windows update, you need to force restart your PC first. If you don’t know how to do it, you can follow the instructions below:
@@ -55,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
  If you still cannot access the desktop, you can try starting your PC in safe mode with the network. When you sign into your Windows system in safe mode with the network, try the next fix below to run the Windows Update troubleshooter.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Run Windows Update troubleshooter
 
  Windows Update troubleshooter is a built-in tool that can help you analyze and resolve issues related to Windows updates. Try running Windows Update troubleshooter to see if you can resolve this issue. Here is how to do it:
@@ -66,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 1. On your keyboard, press **the Windows logo key** and type **troubleshoot** . In the list of search results, select **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap465-1.png)
 2. In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
 3. Click **Apply this fix** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
@@ -80,18 +79,22 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 2. From the left navigation panel, select**System** . Find**Troubleshoot** and click on it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
 
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reset Windows Update components
 
  If Windows Update components are corrupted, Windows Update may not work properly. Maybe that’s the reason behind this issue. To resolve it, try resetting Windows Update components. Here is how to do it:
@@ -125,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of the Windows operating system. You can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually to see if you can fix this issue.
@@ -134,11 +141,13 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 1. On your keyboard, press **the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471-1.png)
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
+
  Note: “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
 Now, you can follow the steps below to download Windows updates manually:
@@ -147,14 +156,12 @@ Now, you can follow the steps below to download Windows updates manually:
 2. Click **View update history** to check the updates you failed to install. For example, if you fail to install update KB3006137, you can download that update and install it manually.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470-1.png)
 3. Visit **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
@@ -163,9 +170,6 @@ Now, you can follow the steps below to download Windows updates manually:
 6. In the pop-up window, click the link to start downloading the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475-1.png)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
 
@@ -186,8 +190,6 @@ Now, you can follow the steps below to download Windows updates manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +197,26 @@ Now, you can follow the steps below to download Windows updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-skillset-how-to-execute-screen-recording-on-mac/"><u>[New] 2024 Approved Essential Skillset How to Execute Screen Recording on Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-techniques-for-streamlined-google-podcasts/"><u>[New] Expert Techniques for Streamlined Google Podcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-a-deeper-dive-understanding-ez-grabbers-capabilities/"><u>[New] In 2024, A Deeper Dive Understanding EZ Grabber's Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-countermoves-in-media-how-to-reverse-videos/"><u>[Updated] In 2024, Countermoves in Media How to Reverse Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfect-pick-the-best-microphones-for-all-yt-content-types/"><u>[Updated] Perfect Pick The Best Microphones For All YT Content Types</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-scaling-up-subscriber-numbers-with-savvy-strategies/"><u>[Updated] Scaling Up Subscriber Numbers with Savvy Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2022s-guide-to-seamless-gaming-eliminating-fallout-4-latency-for-a-smoother-play/"><u>2022'S Guide to Seamless Gaming: Eliminating Fallout 4 Latency for a Smoother Play</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-sources-for-embedding-text-visual-effects/"><u>2024 Approved Top Ranked Sources for Embedding Text Visual Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-your-images-true-self-a-canva-step-by-step/"><u>2024 Approved Unveiling Your Image’s True Self A Canva Step-by-Step</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-missing-class-registration-issues-on-windows-10-solutions-for-a-smooth-experience/"><u>Fixing Missing Class Registration Issues on Windows 10 - Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-when-its-stuck-on-100-a-step-by-step-guide/"><u>How to Fix Windows Update When It's Stuck on 100% – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-sound-problems-when-your-pc-says-audio-not-connected/"><u>Step-by-Step Guide: Repairing Sound Problems When Your PC Says Audio Not Connected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-correctly-resolve-service-started-failure-on-windows-login-screen/"><u>Steps to Correctly Resolve Service Started Failure on Windows Login Screen</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-5-hubs-brimming-with-freelance-projects/"><u>Top 5 Hubs Brimming with Freelance Projects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/total-number-of-individuals-surveyed-nfemale-plus-nmale-756-plus-804-1560/"><u>Total Number of Individuals Surveyed = N_female + N_male = 756 + 804 = 1,560</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-how-to-restore-functionality-to-your-non-responsive-number-keys/"><u>Troubleshooting Fixes: How to Restore Functionality to Your Non-Responsive Number Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-functionality-of-non-responsive-laptop-backlit-keyboards/"><u>Troubleshooting Guide: Restoring Functionality of Non-Responsive Laptop Backlit Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-connectivity-choosing-top-ethernets/"><u>Unbeatable Connectivity: Choosing Top Ethernets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-overcoming-the-not-loading-building-challenge-in-pubg/"><u>Winning Strategies: Overcoming the Not Loading Building Challenge in PUBG</u></a></li>
+</ul></div>
 

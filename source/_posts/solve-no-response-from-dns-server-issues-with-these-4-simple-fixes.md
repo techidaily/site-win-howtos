@@ -1,7 +1,7 @@
 ---
 title: Solve 'No Response From DNS Server' Issues with These 4 Simple Fixes
-date: 2025-01-24T16:54:02.166Z
-updated: 2025-01-25T17:29:32.163Z
+date: 2025-02-06T10:18:58.020Z
+updated: 2025-02-07T13:24:54.627Z
 tags:
   - win11
   - win10
@@ -52,17 +52,9 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c170e3799.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click **Network and Sharing Center** in **Large icons**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1287bc28f2e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Click **Change adapter settings**.  
 
@@ -72,13 +64,13 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128e6af137d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Click **Internet Protocol Version 4(TCP/IPv4)**, then **Properties**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
@@ -92,9 +84,17 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Clear your DNS cache and reset your IP
 
@@ -103,6 +103,10 @@ There may be problems with your DNS server if its cache is getting full. To see 
 1) Type **cmd** in the search box from the Start menu. Then right-click on **Command Prompt** to select **Run as administrator**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1298fb8c2d7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Click **Yes** when prompted by the User Account Control.
 
@@ -119,7 +123,7 @@ There may be problems with your DNS server if its cache is getting full. To see 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a129aa3217b1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then restart your computer and try to access the website you want to visit again and see if it succeeds.
@@ -139,25 +143,13 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)  
 **Note**: You can do it for free if you like, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After updating your network adapter driver, please restart your computer. Try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 4: Restart your modem and router
 
@@ -167,9 +159,17 @@ If your modem or router doesn’t work properly, the DNS server could stop respo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-28.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Try to access the website you want to go to again and see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why can’t I access websites when the DNS server not responding?
 
@@ -200,18 +200,18 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-the-impact-of-macos-11-big-sur-on-users/"><u>[Updated] Understanding the Impact of macOS 11 Big Sur on Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unparalleled-quality-discover-the-best-8-streamer-cameras/"><u>[Updated] Unparalleled Quality Discover the Best 8 Streamer Cameras</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/complete-restoration-of-your-lenovo-device-using-system-recovery-utility/"><u>Complete Restoration of Your Lenovo Device Using System Recovery Utility</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/cutting-edge-memes-top-ten-template-showcase-for-2024/"><u>Cutting Edge Memes Top Ten Template Showcase for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-unresponsive-wireless-mouse-compatibility-with-win11win10-os/"><u>Diagnose & Repair Unresponsive Wireless Mouse Compatibility with Win11/Win10 OS</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-your-site-with-powerful-cookiebot-features/"><u>Enhance Your Site with Powerful Cookiebot Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-80240020-on-your-pc-heres-how-to-successfully-install-windows-10/"><u>Error 80240020 on Your PC? Here's How to Successfully Install Windows 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-stop-ghostwire-tokyo-from-frequently-crashing-on-your-windows-computer/"><u>Fixes and Solutions - How to Stop Ghostwire: Tokyo From Frequently Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/geforce-experience-not-opening-heres-how-you-can-solve-it/"><u>GeForce Experience Not Opening? Here's How You Can Solve It!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/innovative-interactions-in-virtuosity-the-top-30-quotes-for-2024/"><u>Innovative Interactions in Virtuosity The Top 30 Quotes for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-your-netflix-not-working-common-issues-and-solutions-explored/"><u>Is Your Netflix Not Working? Common Issues and Solutions Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/showcase-your-touchpad-regain-control/"><u>Showcase Your Touchpad, Regain Control!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-curing-screen-glitches-in-windows-11-computers/"><u>Step-by-Step Guide to Curing Screen Glitches in Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-computer-randomly-restarts-on-windows-11/"><u>[SOLVED] Computer Randomly Restarts on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-equilibrium-between-professional-life-and-youtubing/"><u>[Updated] 2024 Approved Finding Equilibrium Between Professional Life and YouTubing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-mov-to-mpeg-4-conversion-on-win-11-for-2024/"><u>[Updated] Mastering MOV to MPEG-4 Conversion on Win 11 for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-motion-tracking-apps-for-ios-and-android/"><u>Best Motion Tracking Apps for iOS and Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-repair-a-broken-usb-connection-resolving-unknown-device-errors-on-windows-10/"><u>Effective Strategies to Repair a Broken USB Connection: Resolving 'Unknown Device' Errors on Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-the-quintessential-reasons-behind-chatgpts-swift-ascent-to-global-popularity/"><u>Examining the Quintessential Reasons Behind ChatGPT’s Swift Ascent to Global Popularity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-shot-to-showcase-smooth-video-capture-and-post-editing-with-adobe-connect/"><u>From Shot to Showcase Smooth Video Capture & Post-Editing with Adobe Connect</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-to-battle-faster-expert-advice-on-fixing-slow-download-problems-with-lol/"><u>Get Back to Battle Faster: Expert Advice on Fixing Slow Download Problems with LoL</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guiding-users-through-fixing-windows-10-copy-problems/"><u>Guiding Users Through Fixing Windows 10 Copy Problems</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/network-setup-problem-in-dragon-ball-fighterz-now-corrected/"><u>Network Setup Problem in Dragon Ball FighterZ Now Corrected</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/professional-online-broadcast-capture-methods/"><u>Professional Online Broadcast Capture Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows Hello Ready Cameras Identified
-date: 2024-08-23T14:08:52.858Z
-updated: 2024-08-24T14:08:52.858Z
+date: 2025-01-30T22:14:25.340Z
+updated: 2025-02-07T13:25:15.398Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/4a91ae3eac077409c5986958190c10004fbc3c083
 6. **[Disable ESS (Enhanced Sign-in Security)](#ess)**
 7. **[Try the Get Help app](#fix-6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1 – Ensure the feature is installed
 
  Windows Hello Face is an optional feature available in Windows 10 and 11\. To utilize it properly, You need to ensure first that it has been active and installed under the optional features. Here’s how it’s done:
@@ -39,19 +43,34 @@ thumbnail: https://thmb.techidaily.com/4a91ae3eac077409c5986958190c10004fbc3c083
 1. Press**Windows + I** keys to open the settings and then select**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Click**Optional features** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/optional-features.jpg)
 3. Check if Windows Hello Face is in the list under**Installed features** . If it isn’t, click**Add a feature** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (If it’s already installed, then you don’t do anything)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/add-a-feature.jpg)
 4. Scroll down the list and find Windows Hello Face. Tick the box near it and then click**Install** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/install-hello-faca-app.jpg)
 5. Reboot your computer and check to see if Windows Hello Face can work successfully now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t work, go on and try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2 – Update your IR camera drivers
 
  This issue may occur if you are using the wrong IR camera driver or it’s out of date. So you should update your camera driver to see if it fixes your problem. There are two ways you can get the right drivers for your camera: manually or automatically.
@@ -75,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/4a91ae3eac077409c5986958190c10004fbc3c083
 ![](https://www.drivereasy.com/wp-content/uploads/2022/08/realtek-ir-camera.png)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [**The Pro version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) comes with full technical support. If you need assistance, please contact **Driver Easy’s support** **team** at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) **.**
 
 ## Fix 3 – Install the FaceDriver file
@@ -87,16 +110,9 @@ thumbnail: https://thmb.techidaily.com/4a91ae3eac077409c5986958190c10004fbc3c083
 2. Right-click on**HelloFace.inf** and select**Install** from the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/face-dirver2.jpg)
 3. After the file is successfully installed, restart your device and check if you can use the Windows Hello Face now.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If this trick doesn’t give you luck, try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4 – Restart Windows Biometric Service
 
  The Windows Biometric Service is responsible for managing the Windows Hello feature and allowing client applications to access and handle biometric data. So resetting the Biometric Service may help with the Windows Hello Face not working issue. This is how it’s done:
@@ -104,19 +120,21 @@ If this trick doesn’t give you luck, try the next one.
 1. Press**Windows + R** keys to open the Run box, type**services.msc** in it and then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Run-services.msc_.jpg)
 2. In the Service windows, find**Windows Biometric Service** and right-click on it, then select**Restart** form the pop-up menu.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-bio-service.jpg)
 3. Right-click on the Press**Windows + I** keys to open the settings and then select**Accounts** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/setting-accounts-1.jpg)
 4. Click the**Sign-in options** in the left panel, select**Windows Hello Face** and then register the Hello Face data again.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/signin-option-hello-face.jpg)
 5. Restart your PC and check if you can use the Windows Hello Face now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Move on to the next fix if this one doesn’t work for you.
 
@@ -129,20 +147,16 @@ Move on to the next fix if this one doesn’t work for you.
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/fortect-download-page-1.jpg)
 2. Run Fortect. It will start a deep scan of your system. (This process may take a few minutes).
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. After the scan is completed, click **Start Repair** if Fortect detects any missing or broken system files or other issues.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, please contact **[Fortect support](https://www.fortect.com/company/contacts/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Disable ESS (Enhanced Sign-in Security)
 
  If you can still use your camera for other activities, and Windows Hello is the only one that’s with trouble, you can try to disable the ESS to see if it helps. To do so:
@@ -152,9 +166,6 @@ Move on to the next fix if this one doesn’t work for you.
 2. Toggle off the option for**Sign in with an external camera or fingerprint reader** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-55.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 Restart your computer and see if the Windows Hello error message is gone.
 
 ## Fix 6 – Try the Get Help app
@@ -166,9 +177,6 @@ Restart your computer and see if the Windows Hello error message is gone.
 2. Enter the problem you need to solve, then you’ll have a chat with a virtual agent who will run a troubleshooter to help you fix the Hello Face problems  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/get-help-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  That’s it – hopefully, the six fixes we have here can help you resolve your camera not compatible with the Windows Hello Face problem. If you have other solutions or ideas for this problem, please leave a comment below and share them with us!
@@ -182,8 +190,6 @@ Restart your computer and see if the Windows Hello error message is gone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +197,26 @@ Restart your computer and see if the Windows Hello error message is gone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-friends-evaporation-identify-now/"><u>[New] Instagram Friends Evaporation Identify Now</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-twitch-vs-youtube-a-complete-comparison-for-2024/"><u>[New] Twitch Vs. Youtube – A Complete Comparison for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-gaming-on-one-disabling-cross-play-and-selecting-top-platforms/"><u>2024 Approved Gaming on One Disabling Cross-Play and Selecting Top Platforms</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/4-effective-methods-to-restore-deleted-or-replaced-files-on-your-pc-or-mac/"><u>4 Effective Methods to Restore Deleted or Replaced Files on Your PC or Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/accelerate-your-pcs-startup-with-these-fixes-for-slow-windows-7-boot-issues/"><u>Accelerate Your PC's Startup with These Fixes for Slow Windows 7 Boot Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-your-ethernet-issues-on-windows-10-or-7/"><u>Diagnosing & Repairing Your Ethernet Issues on Windows 10 or 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-audiovideo-card-driver-repair-and-installation/"><u>Essential Audio/Video Card Driver Repair and Installation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-tecno-spark-20-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Tecno Spark 20 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-premiere-pro-on-your-computer-a-comprehensive-system-requirement-guide/"><u>New 2024 Approved Premiere Pro on Your Computer A Comprehensive System Requirement Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-startup-freezes-on-your-windows-10-device-proven-methods-that-work/"><u>Overcoming Startup Freezes on Your Windows 10 Device: Proven Methods That Work</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/recovering-deleted-documents-from-windowsold-directories-in-windows-10/"><u>Recovering Deleted Documents From Windows.old Directories in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-call-of-duty-wwii-issue-fix-error-code-4220/"><u>Resolving Call of Duty WWII Issue: Fix Error Code 4220</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-class-registration-issues-in-windows-10/"><u>Resolving Class Registration Issues in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/solving-high-disk-usage-woes-tips-for-windows-11-users-facing-a-full-disk-scenario/"><u>Solving High Disk Usage Woes - Tips for Windows 11 Users Facing a Full Disk Scenario</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-addressing-no-screen-issues-in-your-dell-laptop-full-guide/"><u>Step-by-Step Solution: Addressing No Screen Issues in Your Dell Laptop Full Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/svchostexe-overuse-explained-identifying-issues-with-windows-services-netsvcs/"><u>Svchost.exe Overuse Explained – Identifying Issues with Windows Services (NETsvcs)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iches-a-look-into-mr-beasts-wallet/"><u>The Riches A Look Into Mr. Beast's Wallet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transforma-tus-archivos-auditivos-conversion-gratuita-de-dts-a-aac-mediante-movavi/"><u>Transforma Tus Archivos Auditivos: Conversión Gratuita De DTS a AAC Mediante Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-clipboard-operation-enhancement-guide/"><u>Windows 10 Clipboard Operation Enhancement Guide</u></a></li>
+</ul></div>
 

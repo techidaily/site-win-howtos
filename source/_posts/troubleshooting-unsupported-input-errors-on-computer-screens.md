@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Unsupported Input Errors on Computer Screens"
-date: 2024-08-23T14:05:47.168Z
-updated: 2024-08-24T14:05:47.168Z
+date: 2025-02-03T22:49:39.567Z
+updated: 2025-02-07T05:56:23.692Z
 tags:
   - win11
   - win10
@@ -54,15 +54,24 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-813.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Remove any peripherals from your computer  
 
  If the problem was caused around the time you connected peripherals to your computer, it’s probably a hardware conflict issue. You can remove the peripherals easily. If you have connected multiple peripherals to your computer, just remove the peripherals one by one.  
@@ -94,8 +103,9 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
@@ -110,6 +120,10 @@ For example, many Dell PCs show this key like below at the first screen:
 
  5)**Restart your computer** and check to see if the problem is resolved.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Check PSU (Power Supply Unit)  
 
  If the PSU short circuits, the computer will shut down automatically for hardware safety. So check the PSU is working properly. You can replace the PSU with a good PSU and see if the problem is resolved. With the new PSU, if the problem is not resolved, it means the problem is not caused by the PSU.  
@@ -118,12 +132,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Check the fan  
 
  The fan is one of the key components that makes computer to run properly. If it doesn’t work, the computer can overheat easily. Computer overheating can cause serious problems. So the system will try to prevent computer overheating. If the fan doesn’t work, the computer can shut down automatically to prevent the internal heating damaging the computer.
@@ -135,8 +143,9 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 7: Clean dust  
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
@@ -149,9 +158,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -162,8 +168,6 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +175,23 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-wallet-friendly-digital-repository-heavyweight-file-haven-for-2024/"><u>[New] Wallet-Friendly Digital Repository Heavyweight File Haven for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tailored-techniques-for-logging-high-quality-roblox-sessions-on-a-mac/"><u>2024 Approved Tailored Techniques for Logging High-Quality Roblox Sessions on a Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solution-to-common-apex-legends-anti-cheat-errors-for-smooth-gaming/"><u>Effortless Solution to Common Apex Legends Anti-Cheat Errors for Smooth Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-opencldll-unavailability-faults/"><u>Fixing OpenCL.dll Unavailability Faults</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-xs-max-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Max Without iTunes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-se-2022-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone SE (2022) Is Unlocked</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/learn-from-the-best-youtubes-top-green-screen-techniques-for-2024/"><u>Learn From The Best Youtube’s Top Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lte-category-4-with-up-to-100-mbits-download-speeds-using-band-4-aws-5-mhz-channel-arrangement-and-up-to-50-mbits-upload-speeds-using-mtrj-also-supports-dl-73/"><u>LTE – Category 4 with up to 100 Mbit/S Download Speeds Using Band 4 (AWS) (5 MHz) Channel Arrangement and up to 50 Mbit/S Upload Speeds Using MTRJ. Also Supports DL-RevA Protocol Aggregation, but only with Other TANGO Radios on the Network</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mac-users-solved-steps-to-get-your-malfunctioning-mouse-running-again/"><u>Mac Users, Solved! Steps to Get Your Malfunctioning Mouse Running Again</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mp3-file-trimming-made-simple-top-3-free-methods-for-windows-11-users/"><u>MP3 File Trimming Made Simple: Top 3 Free Methods for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-dell-laptop-challenge-how-to-get-your-fn-keys-working-again/"><u>Overcoming the Dell Laptop Challenge: How to Get Your FN Keys Working Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issues-with-launching-maplestory-now-running-smoothly/"><u>Resolved: Issues with Launching MapleStory - Now Running Smoothly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/reveal-the-true-colors-top-10-apps-that-cleanse-blurry-shots/"><u>Reveal the True Colors Top 10 Apps that Cleanse Blurry Shots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-overcome-windows-1-nearby-as-you-go-and-it-will-be-easier-to-keep-your-balance/"><u>Step-by-Step Solution to Overcome Windows 1 Nearby as You Go, and It Will Be Easier to Keep Your Balance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-conquering-and-clearing-out-the-google-chrome-critical-error-scam/"><u>The Ultimate Fix: Conquering and Clearing Out the Google Chrome Critical Error Scam</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-steams-voice-communication-feature/"><u>Troubleshooting Guide: Resolving Issues with Steam's Voice Communication Feature</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Resolution for the High CPU Consumption by IAstorDataSvc on Your Win11 PC
-date: 2025-01-20T18:22:12.604Z
-updated: 2025-01-25T16:17:40.286Z
+date: 2025-02-03T04:37:08.874Z
+updated: 2025-02-06T23:06:40.593Z
 tags:
   - win11
   - win10
@@ -42,13 +42,13 @@ Continuously getting the error **“There is a problem with your games setup. Pl
   
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
 If that didn’t help, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear Origin game cache
 
@@ -79,6 +79,10 @@ If that didn’t help, try the next fix below.
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  6) Type or paste**%AppData%** and press Enter.  
@@ -88,6 +92,10 @@ If that didn’t help, try the next fix below.
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) In the address bar, click on**AppData** .  
   
@@ -100,10 +108,6 @@ If that didn’t help, try the next fix below.
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -120,10 +124,6 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
@@ -151,7 +151,7 @@ If you want to make Origin always run as administrator, take these steps:
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
@@ -160,6 +160,10 @@ If you want to make Origin always run as administrator, take these steps:
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Install the latest visual C++ redistributable pack
 
  Microsoft Visual C++ Redistributable is a standard distributable package of shared code that comes as part of your Windows and enables apps to run on your PC. If it’s missing or your current one is out-of-date, some apps that rely on the redistributable will fail to start or run and it will result in a total mess. Therefore, we would suggest you install the latest Visual C++ from[Microsoft](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) , both the x64 and x86 versions (you’ll find them in the**Visual Studio 2015, 2017 and 2019** section. )
@@ -167,7 +171,7 @@ If you want to make Origin always run as administrator, take these steps:
 If that didn’t help, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Download Media Feature Pack for Windows 10 N
@@ -176,10 +180,6 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
  1) On your keyboard, press the**Windows + I keys** to open Settings.
@@ -187,7 +187,7 @@ If that didn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
@@ -195,7 +195,7 @@ If that didn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -217,22 +217,20 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-diy-photography-support-systems/"><u>[New] DIY Photography Support Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-tools-for-every-videographers-kit-for-2024/"><u>[New] Essential Tools for Every Videographer's Kit for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-conquering-video-production-hurdles-essential-filmora-tips-and-tricks/"><u>[New] In 2024, Conquering Video Production Hurdles Essential Filmora Tips & Tricks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-tech-top-10-webcam-recorders-in-win-11/"><u>[New] In 2024, Essential Tech Top 10 Webcam Recorders in Win 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-speaker-crackling-problems-in-windows-11-and-7-a-comprehensive-fix-guide/"><u>Diagnosing & Correcting Speaker Crackling Problems in Windows 11 and 7 – A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/digital-dilemma-system-shutdown-during-playing-games/"><u>Digital Dilemma: System Shutdown During Playing Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fix-addressing-and-rectifying-error-1053-related-to-sluggish-service-response/"><u>Effective Fix: Addressing and Rectifying Error 1053 Related to Sluggish Service Response</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-bluetooth-to-show-up-again-heres-how-to-adjust-your-device-manager-options/"><u>Getting Bluetooth to Show Up Again? Here's How to Adjust Your Device Manager Options.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hp-laptop-usb-problems-heres-how-you-can-get-your-port-working-again/"><u>HP Laptop USB Problems? Here's How You Can Get Your Port Working Again</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-lava-storm-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Lava Storm 5G</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-time-efficient-a-comprehensive-guide-to-srt-to-txt-switching/"><u>In 2024, Time Efficient A Comprehensive Guide to SRT to TXT Switching</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-illumination-troubleshooting-for-macos-and-windows-operating-systems/"><u>Keyboard Illumination Troubleshooting for macOS and Windows Operating Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-windows-color-rich-video-landscape/"><u>Navigating Windows' Color-Rich Video Landscape</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-problem-why-your-steam-updates-arent-installing/"><u>Resolving the Problem: Why Your Steam Updates Aren't Installing</u></a></li>
-<li><a href="https://facebook.techidaily.com/sync-up-sports-facebook-twitter-unite-for-the-league/"><u>Sync-Up Sports: Facebook, Twitter Unite for the League</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-silent-twitch-channels-expert-tips-for-casters/"><u>Troubleshooting & Fixing Silent Twitch Channels - Expert Tips for Casters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-you-may-not-connect-to-windows-smartscreen-and-how-to-fix-it-soon/"><u>Why You May Not Connect to Windows SmartScreen and How to Fix It Soon</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-copypaste-on-win-11-os/"><u>[FIXED]: Copy/Paste on Win 11 OS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-ideal-soundtrack-for-unboxing-content/"><u>[New] Finding the Ideal Soundtrack for Unboxing Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-personalizing-your-profile-with-fb-slideshow-content-for-2024/"><u>[New] Personalizing Your Profile with FB Slideshow Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sprinkle-life-into-your-videos-free-text-tricks/"><u>[New] Sprinkle Life Into Your Videos Free Text Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-investment-in-top-tier-hdr-cameras-a-buyers-guide/"><u>[Updated] In 2024, Investment in Top-Tier HDR Cameras A Buyer's Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-sleeper-strikers-top-10-undetected-fb-memes/"><u>[Updated] In 2024, Sleeper Strikers Top 10 Undetected FB Memes</u></a></li>
+<li><a href="https://fox-place.techidaily.com/erstelle-dein-eigenes-automatisches-datenbackup-auf-windows-10-entdecken-sie-hier-3-einfache-ansatze/"><u>Erstelle Dein Eigenes Automatisches Datenbackup Auf Windows 10: Entdecken Sie Hier 3 Einfache Ansätze!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-service-issues-comprehensive-guide/"><u>How to Fix Windows Update Service Issues: Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-pro-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 14 Pro 3 Ways To Unlock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-bluetooth-connection-issues-on-windows-10-step-by-step-guide/"><u>Resolve Bluetooth Connection Issues on Windows 10 | Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-with-creating-a-directx-graphics-device/"><u>Resolved: Issue with Creating a DirectX Graphics Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-restoring-hearing-capabilities-in-acer-computers-with-no-volume/"><u>Solved: Restoring Hearing Capabilities in Acer Computers with No Volume</u></a></li>
+<li><a href="https://fox-http.techidaily.com/steps-to-decline-autoplayed-and-suggested-podcasts-on-spotify-for-2024/"><u>Steps to Decline Autoplayed and Suggested Podcasts on Spotify for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-text-duplication-issue/"><u>Windows 11 Text Duplication Issue</u></a></li>
 </ul></div>
 

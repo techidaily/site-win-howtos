@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Unshutdown Windows 11 on Your Laptop or Desktop
-date: 2025-01-19T16:09:16.018Z
-updated: 2025-01-25T16:37:12.060Z
+date: 2025-02-05T12:32:21.572Z
+updated: 2025-02-06T16:06:19.383Z
 tags:
   - win11
   - win10
@@ -47,25 +47,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -81,18 +73,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Change boot order in BIOS
 
@@ -105,8 +93,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -117,7 +113,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -127,6 +123,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,18 +154,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-effortless-conversion-youtube-videos-to-mac-ratio/"><u>[Updated] Effortless Conversion Youtube Videos to Mac Ratio</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-upgrading-your-cinematic-story-with-video-edges-for-2024/"><u>[Updated] Upgrading Your Cinematic Story with Video Edges for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/webmmkvmovavi/"><u>免費直接WEBM轉MKV在線上，如何運用Movavi轉換工具</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-mp3webm/"><u>如何利用 Movavi 在線免費換算MP3成WEBM格式 - 高效率指南</u></a></li>
-<li><a href="https://win-dash.techidaily.com/best-source-for-downloading-epson-artisan-1430-drivers-supported-by-windows-11108/"><u>Best Source for Downloading Epson Artisan 1430 Drivers: Supported by Windows 11/10/8</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambia-tus-archivos-de-video-mp4-a-3g2-por-nada-el-procesador-en-linea-de-movavi-para-convertir-facilmente/"><u>Cambia Tus Archivos De Video MP4 a 3G2 Por Nada: El Procesador en Línea De Movavi Para Convertir Fácilmente</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertire-gratuita-si-directa-in-mp4-converting-videos-with-conversia-mov-to-mp4-online/"><u>Convertire Gratuita Și Directă in MP4: Converting Videos with Conversia - MOV to MP4 Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/create-professional-valorant-thumbnails-in-no-time-for-2024/"><u>Create Professional Valorant Thumbnails in No Time for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-privacy-protection-when-leveraging-chatgpt-in-a-work-setting/"><u>Ensuring Privacy Protection When Leveraging ChatGPT in a Work Setting</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-guide-to-generating-ideal-youtube-titles-on-a-shoestring/"><u>In 2024, The Ultimate Guide to Generating Ideal YouTube Titles on a Shoestring</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/seamless-tweet-to-facebook-video-transfers-users-for-2024/"><u>Seamless Tweet-to-Facebook Video Transfers Users for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-secure-pathway-making-steam-play-kid-friendly/"><u>The Secure Pathway: Making Steam Play Kid-Friendly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726221939362-gsmmp4-movavi/"><u>オンラインで簡単なGSMMP4形式のファイル変換:無料ツール - Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pedagogic-practices-with-a-focus-on-visual-materials/"><u>[New] Pedagogic Practices with a Focus on Visual Materials</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-revolutionary-wearable-camera-tech-for-2024/"><u>[New] Revolutionary Wearable Camera Tech for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-advice-on-screen-casting-in-google-meet/"><u>2024 Approved Expert Advice on Screen Casting in Google Meet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-hot-30-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Hot 30 5G.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dhcp-server-unreachable-heres-the-resolved-technique/"><u>DHCP Server Unreachable? Here's the Resolved Technique</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-network-lag-detected-pubg-error/"><u>FIX Network Lag Detected PUBG Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-game-requires-a-system-restart-to-play-valorant/"><u>How to Fix Your Game Requires a System Restart to Play'' Valorant</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logitech-mouse-woes-heres-how-to-restore-your-scroll-wheel-functionality/"><u>Logitech Mouse Woes? Here’s How to Restore Your Scroll Wheel Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-screen-mirroring-woes-a-step-by-step-guide-for-windows-n-11-users/"><u>Resolve Your Screen Mirroring Woes: A Step-by-Step Guide for Windows N 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-continuous-buffering-problems-on-kodi/"><u>Resolved: How to Fix Continuous Buffering Problems on Kodi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/strategic-screen-customization-timely-adjustments-in-teams/"><u>Strategic Screen Customization Timely Adjustments in Teams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tech-tips-streamlining-your-overwatch-video-recordings-for-2024/"><u>Tech Tips Streamlining Your Overwatch Video Recordings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-and-solutions-for-stabilizing-total-war-rome-remastered/"><u>Troubleshooting Tips and Solutions for Stabilizing Total War: Rome Remastered</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-motorola-edgeplus-2023-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Motorola Edge+ (2023) Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

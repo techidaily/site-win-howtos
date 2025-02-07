@@ -1,7 +1,7 @@
 ---
 title: WinUpdate Trouble? Here's How to Fix Error 0X80240017 for Good
-date: 2025-01-19T17:20:56.849Z
-updated: 2025-01-25T16:27:22.613Z
+date: 2025-01-31T14:29:30.222Z
+updated: 2025-02-06T22:29:23.165Z
 tags:
   - win11
   - win10
@@ -45,19 +45,19 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
 
@@ -70,7 +70,7 @@ If the Windows Update error persists, move on to the second method.
 2. Copy and paste the following commands one by one in Command Prompt, and press**Enter** on your keyboard.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **net stop wuauserv**  
@@ -86,10 +86,6 @@ If the Windows Update error persists, move on to the second method.
 **pause**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Open Windows Update and see if it works properly.
 
@@ -113,6 +109,10 @@ If the Windows Update error persists, move on to the second method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  System File Checker (SFC) is a Windows built-in tool to identify and repair corrupted system files. But note that checking and restoring system files in this way might take some time and computer skills, and you may risk your personal data.
@@ -122,18 +122,18 @@ If the Windows Update error persists, move on to the second method.
 2. Type the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -178,20 +178,17 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-windows-10-screen-recording-tools-the-ultimate-selection/"><u>[New] 2024 Approved Windows 10 Screen Recording Tools - The Ultimate Selection</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-direct-engagement-broadcast-from-twitch-to-facebook-friends-for-2024/"><u>[New] Direct Engagement Broadcast From Twitch to Facebook Friends for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726226686931-bmp/"><u>BMP 이미지를 자동으로 애니メ이터 파일로 바꾸기 - 비용 부여 모바일</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/exploring-the-top-reasons-behind-graphics-card-malfunctions-insights-from-yl-computing/"><u>Exploring the Top Reasons Behind Graphics Card Malfunctions: Insights From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s24-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-online-convertir-en-video-mkv-a-partir-dun-fichier-ogm-avec-moviemaker/"><u>Gratuit Online - Convertir en Vidéo MKV À Partir D'un Fichier OGM Avec MovieMaker</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-motorola-moto-g24-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola Moto G24 Phone that is Locked?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-turn-off-youtube-sneak-peek-embrace-uninterrupted-watching/"><u>In 2024, Turn Off YouTube Sneak Peek, Embrace Uninterrupted Watching</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-bedenkenloses-wav-zu-mp3-konvertieren-auf-deutsch-kostenlose-online-dienstleistung/"><u>Movavi: Bedenkenloses WAV Zu MP3 Konvertieren Auf Deutsch - Kostenlose Online-Dienstleistung</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-no-cost-image-transformation-convert-tga-to-png-instantly/"><u>Movavi's No-Cost Image Transformation - Convert TGA to PNG Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rendrez-vous-maitre-de-vos-fichiers-videos-convertir-des-fichiers-m4v-en-fichiers-mov-sans-depense-avec-notre-service-online-convaincant/"><u>Rendrez-Vous Maître De Vos Fichiers Vidéos : Convertir Des Fichiers M4V en Fichiers MOV Sans Dépense Avec Notre Service Online Convaincant!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-guide-to-game-recording-using-obs/"><u>Step-by-Step Guide to Game Recording Using OBS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-free-sound-effects-download-websites-for-video-editing/"><u>Top Free Sound Effects Download Websites for Video Editing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-une-image-tga-en-format-jpeg-avec-movavi/"><u>Transformer Gratuitement Une Image TGA en Format JPEG Avec Movavi</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-innovative-ideas-for-images-with-professional-color-palette/"><u>[Updated] In 2024, Innovative Ideas for Images with Professional Color Palette</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-breathtaking-beijing-winter-games-of-2022/"><u>[Updated] In 2024, The Breathtaking Beijing Winter Games of 2022</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypass-propstsydll-undetectable-problem-optimized-fix-strategies-for-users/"><u>Bypass 'Propstsy.dll' Undetectable Problem – Optimized Fix Strategies for Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-bring-back-your-missing-windows-10-taskbar-icons-proven-tips-and-techniques/"><u>Guide to Bring Back Your Missing Windows 10 Taskbar Icons: Proven Tips and Techniques</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-sharing-tiktoks-via-pc-with-these-3-straightforward-techniques-quick-start-video-upload-solutions/"><u>Master the Art of Sharing TikToks via PC with These 3 Straightforward Techniques - Quick-Start Video Upload Solutions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mp3-to-mp4-converter-how-to-convert-mp3-to-mp4-in-2024/"><u>MP3 to MP4 Converter How to Convert MP3 to MP4, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-missing-d3dcompiler47dll-error-on-your-pc-easily/"><u>Resolve the Missing D3DCOMPILER_47.dll Error on Your PC Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-keyboard-functionality-for-windows-11-8-and-7-computers-expert-fixes/"><u>Revive Keyboard Functionality for Windows 11, 8 & 7 Computers: Expert Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-to-fix-a-blocked-webpage-http-403-solutions/"><u>Step-by-Step Strategies to Fix a Blocked Webpage - HTTP 403 Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-top-rated-free-video-capture-apps-ranked/"><u>The Ultimate List of Top-Rated Free Video Capture Apps - Ranked!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y78t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y78t to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

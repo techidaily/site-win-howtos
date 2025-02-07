@@ -1,7 +1,7 @@
 ---
 title: "DIY HP Laptop USB Port Troubleshooting: Step-by-Step Repair Tips"
-date: 2024-08-23T14:05:59.727Z
-updated: 2024-08-24T14:05:59.727Z
+date: 2025-02-02T02:42:04.563Z
+updated: 2025-02-06T19:42:55.390Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 **[Fix 3: Update your chipset/keyboard drivers](#fix3)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Modify BIOS settings
 
@@ -75,9 +79,6 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -86,9 +87,17 @@ In another version of BIOS, the procedure may go like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In Device Manager, double-click on the**System devices** node to expand its drop-down list. Next, locate**Lenovo PM Device** and right-click on it. From the context menu, select**Properties** .
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
@@ -99,8 +108,9 @@ In another version of BIOS, the procedure may go like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the option appears dimmed, that means there’s no previous driver for you to roll back to. In this case, you should try out the next method instead.
 
  4) Follow the onscreen instructions to roll back your driver. Don’t forget to reboot your computer for the changes to take effect.
@@ -109,9 +119,6 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your chipset/keyboard drivers
 
  Sometimes an outdated or corrupt driver may cause you trouble, like preventing the Fn keys from working properly. To cure the issue, you should consider updating both your chipset and keyboard drivers that are closely related to the normal functioning of Fn keys.
@@ -134,16 +141,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
@@ -158,9 +163,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
@@ -168,6 +170,10 @@ OR
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
@@ -191,16 +197,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
@@ -217,8 +217,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +224,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mini-magnate-ryan-kajis-staggering-income-from-video-platform/"><u>[New] 2024 Approved Mini Magnate Ryan Kaji’s Staggering Income From Video Platform</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-assessing-djis-flight-vision-tx-headset-performance/"><u>[New] Assessing DJI's Flight Vision TX Headset Performance</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-the-art-of-picsart-complete-guide-2024/"><u>[New] Mastering the Art of PicsArt (Complete Guide 2024)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-visionary-converter-peak-resolution-magic/"><u>[Updated] Visionary Converter Peak Resolution Magic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-image-management-in-google-photos/"><u>2024 Approved Simplified Image Management in Google Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-tutorial-to-correct-videodxgkrnlcritical-errors-in-windows-environments/"><u>Complete Tutorial to Correct Video_Dxgkrnl_Critical Errors in Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correcting-steam-apps-dll-deficit/"><u>Correcting Steam App's Dll Deficit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-spacebar-problems-in-windows-11-systems/"><u>Diagnosing and Resolving Spacebar Problems in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-guide-to-reviving-your-unresponsive-dell-usb-connection/"><u>DIY Guide to Reviving Your Unresponsive Dell USB Connection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-resolve-issues-with-realtek-network-adapters-on-windows-systems/"><u>Guide to Resolve Issues with Realtek Network Adapters on Windows Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-virtual-enhancer-facebook-story-sinker/"><u>In 2024, Virtual Enhancer Facebook Story Sinker</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/local-security-guardrails-reactivated-safeguarding-your-system-effectively-against-unauthorized-access/"><u>Local Security Guardrails Reactivated - Safeguarding Your System Effectively Against Unauthorized Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connection-problems-retrieving-lost-settings-from-geforce-experience/"><u>Overcoming Connection Problems: Retrieving Lost Settings From GeForce Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-qbittorrent-isnt-working-get-back-on-track-now/"><u>Quick Fixes for When qBittorrent Isn't Working – Get Back on Track Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-errgfxstate-issue-in-red-dead-redemption-2-a-step-by-step-fix/"><u>Troubleshooting the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-service-not-running-solved/"><u>Windows Update Service Not Running [SOLVED]</u></a></li>
+</ul></div>
 

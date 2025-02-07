@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving the LiveKernelEvent 117 Mistake"
-date: 2024-08-23T14:06:18.932Z
-updated: 2024-08-24T14:06:18.932Z
+date: 2025-02-06T08:30:18.169Z
+updated: 2025-02-07T02:01:17.011Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/40e0889241e76e5d59eca7143e9d07b55913d6df3
 1. **[How to turn on Bluetooth on Windows 7 easily](#howto)**
 2. **[What to do if you can’t turn on Bluetooth on Windows 7](#whattodo)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to turn on Bluetooth on Windows 7 easily
 
  Normally you can turn on Bluetooth on Windows 7 by taking these easy steps:
@@ -36,11 +40,19 @@ thumbnail: https://thmb.techidaily.com/40e0889241e76e5d59eca7143e9d07b55913d6df3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51acf5ddfb0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/TIM图片20180720165237.png)
 
  But if you don’t see the Bluetooth icon in the system tray, don’t worry, you can try the methods below to solve the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to do if you can’t turn on Bluetooth on Windows 7
 
@@ -66,9 +78,11 @@ Fortunately, this is also the easiest problem to fix.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb6f71081f36.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee. )  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb6f7884d30c.jpg)
 4. Restart your computer and check if you can turn on Bluetooth now. If you can’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
@@ -79,21 +93,19 @@ Fortunately, this is also the easiest problem to fix.
 1. Click the**Start** button, type**device manager** in the search box, and select the matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51bb20cbb94.jpg)
 2. Expand the**Bluetooth Radios** category. You’ll see the Bluetooth hardware listed there.
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don’t see the “Bluetooth Radios” category, find your Bluetooth adapter in the “Network adapters” category. It normally contains your network card that you use to connect to wireless or wired networks.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51bc632abfc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  If there is a yellow exclamation mark on the Bluetooth icon, you need to install the proper driver before the Bluetooth will work. See[How to install or update the latest Bluetooth driver as mentioned in Fix 1](#fix1) .
 
  3) Right-click on your Bluetooth device and select **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b553ee3e567e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on your device again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b553f4d7ea68.jpg)
@@ -102,32 +114,33 @@ Fortunately, this is also the easiest problem to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/TIM图片20180720182550.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Can you see the Bluetooth icon now? If you do, congratulations. You’ve fixed the problem. But if it’s still not there, try Fix 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure the Bluetooth Support Service is running
 
 1. Type**services** in the Start Search, then select**Services** to access the Windows Services Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ec80e4f62.jpg)
 2. In the list find**Bluetooth Support Service** , right-click on it and select**Start** . (If the Start option grayed out, then click**Restart** .)  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5eceb3cad6.jpg)
 3. Right-click **Bluetooth Support Service** again, and this time select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ed153af78.jpg)
 4. Set the startup type to**Automatic** . Click**Apply** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ed3843575.jpg)
 5. Now check if you find the Bluetooth icon in the Notification Area.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/TIM图片20180720182550.png)
 
 ---
@@ -145,8 +158,6 @@ Hopefully, this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +165,17 @@ Hopefully, this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixing-minecraft-crashes-caused-by-faulty-graphics-driver-in-windows-systems/"><u>Fixing Minecraft Crashes Caused by Faulty Graphics Driver in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/fuse-windows-and-tdarr-for-unrivaled-scalable-video-conversion-efficiency/"><u>Fuse Windows and Tdarr for Unrivaled, Scalable Video Conversion Efficiency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-stuck-personalization-features/"><u>How to Reactivate Stuck Personalization Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-restore-functionality-of-a-stuck-or-unresponsive-usb-mouse-on-laptops/"><u>How to Repair and Restore Functionality of a Stuck or Unresponsive USB Mouse on Laptops</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-oppo-reno-11-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo Reno 11 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-building-a-visual-story-on-facebook-with-slideshows/"><u>In 2024, Building a Visual Story on Facebook with Slideshows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Moto G84 5G</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-12-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 12 to Android | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-phasmophobia-errors-for-smooth-completion-beyond-90-loading-stage/"><u>Troubleshooting Phasmophobia Errors for Smooth Completion Beyond 90% Loading Stage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-why-is-my-lenovo-keyboard-malfunctioning/"><u>Troubleshooting Tips: Why Is My Lenovo Keyboard Malfunctioning?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Solving 'Invalid Directory Name' Issues Efficiently
-date: 2025-01-19T18:24:58.000Z
-updated: 2025-01-25T17:47:24.725Z
+date: 2025-02-02T23:18:55.888Z
+updated: 2025-02-06T16:18:39.167Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Table of contents
 
@@ -55,17 +59,13 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Run the**ipconfig /renew** in CMD again to see if the error message is resolved.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Roll back your network driver
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 6. Select the driver you’re going to restore, then click **Continue** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Wait until the restore is successful, and click**OK** .
@@ -100,12 +100,12 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/services.msc_.jpg)
 2. Locate the **DHCP Client**  service in the services list, then right-click on it and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
@@ -121,19 +121,23 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. Type **ipconfig /registerdns** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click Close to exit the window.
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4 – Reset TCP/IP Configuration
 
 1. On your keyboard, press the**Windows logo** key and type**cmd** . Right-click on**Command Prompt** as it pops up as a result, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. In the command promopt window, type the following commands and press**Enter** after each:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    * Type **netsh winsock reset** and press**Enter** .  
    * Type **netsh int ip reset** and press**Enter** .  
@@ -142,10 +146,6 @@ Here’s how:
    * Type **ipconfig /flushdns** and press**Enter** .
 3. Restart computer.
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 –**Disable IPv6 on your active connection**
 
@@ -160,7 +160,7 @@ Here’s how:
 4. Restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
@@ -184,18 +184,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-a-primer-on-aerial-robots-drone-dynamics-demystified/"><u>[New] 2024 Approved A Primer on Aerial Robots Drone Dynamics Demystified</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-elevating-visual-content-a-guide-to-adding-descriptions-on-instagram/"><u>[New] 2024 Approved Elevating Visual Content A Guide to Adding Descriptions on Instagram</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-capturing-marine-magic-pro-tips-for-filming-oceanic-scenes-using-gopro/"><u>[New] In 2024, Capturing Marine Magic Pro Tips for Filming Oceanic Scenes Using GoPro</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-unsecure-connection-alert-on-firefox-browsers-effectively/"><u>Fixing the Unsecure Connection Alert on Firefox Browsers Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-missing-media-device-driver-errors-on-your-computer/"><u>How to Fix the Missing Media Device Driver Errors on Your Computer</u></a></li>
-<li><a href="https://article-files.techidaily.com/masterful-media-panels-ideal-screens-for-editors/"><u>Masterful Media Panels Ideal Screens for Editors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-red-screen-troubleshooting-for-a-smooth-windows-11-experience/"><u>Overcoming Red Screen Troubleshooting for a Smooth Windows 11 Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/828020-9780307984951-rediscovering-life/"><u>Rediscovering Life | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-correct-livekernelevent-error-code-117/"><u>Troubleshooting Tips to Correct LiveKernelEvent Error Code 117</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/understanding-apples-audio-content-guidelines-for-2024/"><u>Understanding Apple’s Audio Content Guidelines for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleashing-the-beast-within-a-comprehensive-review-of-the-2021-ipad-pro-with-m1-for-unmatched-desktop-level-functionality/"><u>Unleashing the Beast Within: A Comprehensive Review of the 2021 iPad Pro with M1 for Unmatched Desktop-Level Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-windows-10s-constant-interruption-by-learning-how-to-avoid-unwanted-restarting/"><u>Winning Against Windows 10'S Constant Interruption by Learning How to Avoid Unwanted Restarting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unveiling-the-secrets-to-superior-gaming-recordings-for-2024/"><u>[New] Unveiling the Secrets to Superior Gaming Recordings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-overwatch-could-not-locate-resources/"><u>[Solved] Overwatch Could Not Locate Resources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-wacom-tablet-not-working-issues/"><u>[Solved] Wacom Tablet Not Working Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices/"><u>[Updated] In 2024, How to Make the Most of Your YouTube Watches GIF Magic for Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-handbook-for-saving-insta-content/"><u>2024 Approved The Ultimate Handbook for Saving Insta Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-critical-error-in-google-chrome-a-step-by-step-guide/"><u>Fixing the 'Critical Error' In Google Chrome: A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-xr-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone XR Activation Lock</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/macaus-trilingual-richness-revealed/"><u>Macau's Trilingual Richness Revealed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/nvidia-leads-with-blackwell-jensen-huang-reveals-revolutionary-chip-series-during-gtc-keynote-insights-for-tech-enthusiasts-zdnet/"><u>Nvidia Leads with Blackwell: Jensen Huang Reveals Revolutionary Chip Series During GTC Keynote - Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-s18e-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after S18e has been deleted.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-dxgkrnl-fatal-error-in-videos-under-windows/"><u>Resolve DXGKRNL Fatal Error in Videos Under Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-winning-against-kb4056892-installation-woes-in-windows-11/"><u>Step-by-Step Fix for Winning Against KB4056892 Installation Woes in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-for-nonfunctional-brightness-settings-on-windows-10/"><u>Troubleshooting Fixes for Nonfunctional Brightness Settings on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overactive-msmpengexe-eating-cpu-on-your-windows-10-system-fixed/"><u>Troubleshooting: Overactive MsMpEng.exe Eating CPU on Your Windows 10 System (FIXED)</u></a></li>
 </ul></div>
 

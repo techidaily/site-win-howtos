@@ -1,7 +1,7 @@
 ---
 title: Keyboard Trouble? Here's How You Can Get Your Number Pad Back in Action
-date: 2024-08-23T14:07:34.834Z
-updated: 2024-08-24T14:07:34.834Z
+date: 2025-02-03T09:38:17.709Z
+updated: 2025-02-07T00:03:54.582Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2e8f0ab36e-238x300.jpg)
 
  If you’re worried about your keyboard numbers not working, don’t worry, you can fix it. And the fix can be pretty fast and simple..
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### On Windows 11
 
 1. Press the**Windows + I** keys to open the Settings window.
@@ -51,21 +59,19 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
@@ -73,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  A missing or outdated keyboard driver may also stop keyboard numbers from working.
@@ -91,18 +98,16 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Use a different user profile
 
  Keyboard numbers not working might be a symptom of user profile corruption. To check for it, you can try logging in to Windows with a different user account.
@@ -113,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Check hardware issues
 
  If you’ve tried all of the steps above and the number keys on your keyboard are still not working, it’s likely that the keyboard is defective. You can connect your keyboard to a different PC to check hardware issues.
@@ -132,8 +134,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,21 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-understanding-vivas-video-experience/"><u>[New] In 2024, Understanding Viva's Video Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamlined-techniques-for-sharing-your-desktopmobile-screen/"><u>[Updated] 2024 Approved Streamlined Techniques for Sharing Your Desktop/Mobile Screen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-easy-ways-to-add-music-to-imovie-from-youtube/"><u>2024 Approved Easy Ways to Add Music to iMovie From YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-no-more-your-complete-guide-to-fixing-windows-11s-0xc1900208-issue-fixed/"><u>Error No More! Your Complete Guide to Fixing Windows 11'S 0xC1900208 Issue [FIXED]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-greatest-cell-phone-renewal-bargains-on-verizon-for-month/"><u>Explore the Greatest Cell Phone Renewal Bargains on Verizon for [Month]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-popular-digital-hubs-connect-with-facebook-twitter-instagram-and-youtube/"><u>Exploring Popular Digital Hubs: Connect with Facebook, Twitter, Instagram and Youtube!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-lite-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 Lite Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-keyboard-fix-easily-resolve-issues-with-your-function-fn-buttons/"><u>Lenovo Keyboard Fix: Easily Resolve Issues with Your Function (Fn) Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-mystery-why-your-pc-shuts-down-unexpectedly-troubleshooting-guide/"><u>Resolving the Mystery: Why Your PC Shuts Down Unexpectedly - Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionizing-streaming-in-depth-analysis-of-the-new-chromecast-with-google-tv/"><u>Revolutionizing Streaming: In-Depth Analysis of the New Chromecast with Google TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-review-alert-maximize-your-setup-with-the-gskill-trident-z5-rgb-dual-dimm-ddr5-memory-sticks-at-a-sizzling-6400mhz/"><u>Thrilling Review Alert! Maximize Your Setup with the G.SKILL Trident Z5 RGB - Dual-DIMM DDR5 Memory Sticks at a Sizzling 6400MHz</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steamdll-error-on-windows/"><u>Troubleshooting SteamDLL Error on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-and-resolving-random-computers-restarts-and-shutdowns/"><u>Unraveling and Resolving Random Computers Restarts & Shutdowns</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tip: Resolving 'Set User Settings To Driver Failed' Mistake"
-date: 2024-08-23T14:02:41.572Z
-updated: 2024-08-24T14:02:41.572Z
+date: 2025-01-31T13:07:04.036Z
+updated: 2025-02-07T11:38:14.058Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/e9dae4a6037428e8108212397cbf628f09c854831
  **2)[Fix the 0x80070643 error during a program installation](#b)**  — This is the error that can occur when you are trying to install a program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9098f95479.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1) Fix the 0x80070643 error on Windows Update
 
@@ -77,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/e9dae4a6037428e8108212397cbf628f09c854831
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8df003dfa2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **v.** Try installing the system updates. If this method works for you, you will not see the error again.
 
 #### **3\. Install the updates manually**
@@ -87,9 +95,17 @@ thumbnail: https://thmb.techidaily.com/e9dae4a6037428e8108212397cbf628f09c854831
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8f897c7bf5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **ii.** In the System window, check the System type entry to see if your operating system is**32-bit (x86-based)** or**64-bit (x64-based)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8fa2a4f246.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iii.** Open Windows Update and check the updates you have failed to install. Copy down the codes of these updates (the codes starting with “**KB** “).
 
@@ -117,6 +133,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37871a5b248.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Open the file you have downloaded and install the update on your computer.
 
 **iv.**  Restart your computer and then run Windows Update. Check to see if the error is gone.
@@ -126,6 +146,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
  Your antivirus software may be conflicting with the programs or Windows Update on your computer and bring about the 0x80070643 error. You can try disabling your antivirus software to see if this solves your problem. Disable all the functions of your antivirus software and then check Windows Update to see if it can update your system normally.
 
  _Hopefully one of the fixes above resolved your Windows Update issue. But if not, you may need to try [**the fixes in this post**](https://tools.techidaily.com/drivereasy/download/) ._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2) Fix the 0x80070643 error during a program installation
 
@@ -165,6 +189,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a91bc320988.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **ii.** Go to[**Microsoft’s .NET Framework download website**](https://www.microsoft.com/net/download/framework) .
 
 **iii.** Click on the latest version of .NET Framework.
@@ -190,8 +218,6 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,8 +225,24 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income/"><u>[New] 2024 Approved Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-finding-top-8-free-reliable-srt-translator-picks-online-for-2024/"><u>[Updated] Finding Top 8 Free, Reliable SRT Translator Picks Online for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-blues-overcoming-update-failed-hurdles-in-warframe-solved/"><u>Beating the Blues: Overcoming 'Update Failed' Hurdles in Warframe – Solved!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-cashing-in-on-creativity-the-vimeo-income-playbook/"><u>In 2024, Cashing in on Creativity The Vimeo Income Playbook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>In 2024, Premier iOS Gaming Experience Leading Emulators for PSP Enthusiasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10-best-free-mmorpg-games/"><u>In 2024, Top 10 Best Free MMORPG Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-full-potential-of-zoom-meetings-for-win10-users/"><u>In 2024, Unlock the Full Potential of Zoom Meetings for WIN10 Users</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-the-most-straightforward-guide-to-learning-how-to-clone-your-voice/"><u>New In 2024, The Most Straightforward Guide to Learning How to Clone Your Voice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-aoc-monitor-detection-errors-on-windows-11-pcs/"><u>Overcoming AOC Monitor Detection Errors on Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-problems-with-laptop-microphones/"><u>Quick Fixes for Common Problems with Laptop Microphones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quickfix-valheim-advanced-techniques-to-combat-lag-and-improve-frame-rate-now/"><u>QuickFix Valheim - Advanced Techniques to Combat Lag and Improve Frame Rate Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-dreaded-twitch-error-code-4000-a-step-by-step-guide/"><u>Resolving the Dreaded Twitch Error Code 4000: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-stuck-updates-effective-methods-unveiled/"><u>Resolving Windows 10 Stuck Updates: Effective Methods Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-nonfunctional-audio-services-on-windows-11/"><u>Step-by-Step Fixes for Nonfunctional Audio Services on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-detectives-playbook-for-scouring-secret-youtube-content-for-2024/"><u>The Detective's Playbook for Scouring Secret YouTube Content for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/world-of-warcraft-redefined-exclusive-use-of-3d-acceleration/"><u>World of Warcraft Redefined: Exclusive Use of 3D Acceleration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/write-protected-disk-fix-a-comprehensive-solution-for-usb-sd-card-and-cd-issues-in-windows-os/"><u>Write-Protected Disk Fix: A Comprehensive Solution for USB, SD Card & CD Issues in Windows OS</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->

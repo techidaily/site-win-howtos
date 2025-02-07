@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Minecraft Multiplayer Server Connection Errors"
-date: 2024-08-23T14:04:54.322Z
-updated: 2024-08-24T14:04:54.322Z
+date: 2025-02-05T16:32:34.093Z
+updated: 2025-02-07T12:25:51.831Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for Windows Firewall
 
  If Minecraft is not allowed on Firewall, the LAN not working issue can happen. You can check the Firewall settings and ensure the Minecraft executable file “javaw.exe” is allowed in the Firewall.
@@ -50,15 +54,16 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can run into the LAN not working issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update the network drivers
 
  Outdated network drivers can also cause the LAN not to work. So you can try to update the network driver to fix the problem.
@@ -81,23 +86,6 @@ thumbnail: https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  You can do it with the Free version, but it’s partly manual.
 
  After updating the network drivers, check to see if the LAN not working issue is resolved.
@@ -126,9 +114,6 @@ If this method doesn’t work for you, try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c2609a4d13ff.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Select the Version** from the Use version drop-down menu**.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26092ec00a3.jpg)
@@ -137,9 +122,6 @@ If this method doesn’t work for you, try other solutions.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Ensure everyone has a single IP address
 
  If the computer is connected to the wired and wireless at the same time, it’ll have more than one IP address. This can cause the LAN not to work. So**ensure everyone has a single IP address** . It means everyone is connected to the wired or wireless.
@@ -164,15 +146,16 @@ If this method doesn’t work for you, try other methods.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260ad5f1c53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4)**Find the IPv4 Address** which usually means the IP address for that computer.
 
  The IP address will look something like 192.168.1.\* or 10.0.0.\*. In the below example, the IP address is 192.168.64.1.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b16d6474.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Secondly** , you need to get the game port. As soon as you launch Minecraft on the host computer, you can get the game port number at the bottom of the screen as follows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b667f112.jpg)
@@ -182,20 +165,26 @@ If this method doesn’t work for you, try other methods.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b918466d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this method doesn’t work for you, try other methods.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Try to play Minecraft without Mods
 
  Mods can make the player look different in the game, but they also can cause problems, such as LAN not working. If you’re using Mods, you can try to play the game without them. Then check to see if the problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Disable AP Isolation (for WiFi only)
 
@@ -204,8 +193,9 @@ If this method doesn’t work for you, try other methods.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Try reinstalling Minecraft
 
  If the above methods don’t work for you, reinstall Minecraft and reconnect every computer to see if the problem is resolved.
@@ -225,8 +215,6 @@ You also like…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +222,24 @@ You also like…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-arcadearchive-annotator-for-2024/"><u>[New] ArcadeArchive Annotator for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-creative-minds-guide-to-preferred-mac-editors-for-2024/"><u>[Updated] Creative Minds' Guide to Preferred Mac Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads/"><u>[Updated] In 2024, Cutting-Edge Techniques A Guide to Next-Level Effectiveness in Your YouTube Ads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-influencer-marketing-5-steps-to-conquer-it-for-2024/"><u>[Updated] Instagram Influencer Marketing 5 Steps to Conquer It for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-music-infused-video-tutorials-for-enhanced-social-media-presence-fb-for-2024/"><u>[Updated] Music-Infused Video Tutorials for Enhanced Social Media Presence (FB) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-drones-on-offer/"><u>[Updated] Premium Drones on Offer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correctly-identifying-individuals-a-guide-to-managing-tag-mistakes-in-apple-photos/"><u>Correctly Identifying Individuals: A Guide to Managing Tag Mistakes in Apple Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-endless-cycle-overcome-windows-11s-constant-restart-issue-with-ease/"><u>End the Endless Cycle: Overcome Windows 11'S Constant Restart Issue with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-device-not-found-error-codes-on-windows-1187/"><u>Fixing 'Device Not Found' Error Codes on Windows 11/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-endless-load-screens-in-skyrim-a-complete-guide/"><u>Fixing Endless Load Screens in Skyrim: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-dolby-theatre-audio-working-again-on-windows-11/"><u>How To Get Your Dolby Theatre Audio Working Again on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-overcoming-windows-update-error-code-0x802c002e/"><u>Master the Fix: Overcoming Windows Update Error Code 0X802C002E</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-troubleshooting-fixing-windows-updateinstallation-issue-with-error-0x80/"><u>Mastering Troubleshooting: Fixing Windows Update/Installation Issue with Error 0X80</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pair-trouble-discover-6-effective-methods-to-reconnect-your-apple-watch/"><u>Pair Trouble? Discover 6 Effective Methods to Reconnect Your Apple Watch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-and-simple-guide-to-setting-up-home-cloud-services-under-one-hour-tips-from-zdnet/"><u>Quick and Simple Guide to Setting Up Home Cloud Services Under One Hour - Tips From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-lenovo-mouse-pad-issue-on-various-windows-systems-windows-10-8-7/"><u>Troubleshooting Your Lenovo Mouse Pad Issue on Various Windows Systems (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/two-finger-scroll-not-responding-heres-a-step-by-step-guide-to-fix-it/"><u>Two-Finger Scroll Not Responding? Here's A Step By Step Guide To Fix It</u></a></li>
+</ul></div>
 

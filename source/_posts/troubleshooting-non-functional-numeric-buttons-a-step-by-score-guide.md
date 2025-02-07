@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Non-Functional Numeric Buttons: A Step-by-Score Guide"
-date: 2024-08-23T14:08:02.429Z
-updated: 2024-08-24T14:08:02.429Z
+date: 2025-02-02T16:28:47.396Z
+updated: 2025-02-06T18:59:42.389Z
 tags:
   - win11
   - win10
@@ -34,9 +34,9 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
  You may also look at the power status light (if there is one) to determine whether your batteries are functioning well. Generally the light will turn on (solid white) for about 15 seconds and then turn off if your keyboard has received enough power.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Turn on the power
 
  If there’s a power switch on your wireless keyboard, you should check whether you’ve turned it on. Usually you can find that switch at the bottom of your keyboard so make certain that the switch is set to**ON** .
@@ -46,6 +46,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **Note** that if you’re using an all-in-one PC, the USB receiver may be preinstalled in it. In this case, you should skip this step and head to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-874.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This is a Dell USB receiver.
 
@@ -75,8 +79,9 @@ This is a Dell USB receiver.
  In the former scenario, you may go to**Step 6** and take a closer look at your problem; in the latter however, you should visit[Dell Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fcontents%2Fus%2Fen%2F04%2Fcategory%2FContact-Information%3F%7Eck%3Dmn) for technical support or warranty options.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 6: Reconnect your device
 
 * If your USB receiver doesn’t have a**Connect** button on it, you should ignore this step and proceed to the next one. Or you may look for more specific instructions in your user manual on how to reconnect the wireless keyboard to its USB receiver.
@@ -89,8 +94,9 @@ This is a Dell USB receiver.
 3. Test to see whether your keyboard is functioning well. If not, please move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 7: Update the device driver
 
  If you haven’t installed the driver for your Dell wireless keyboard properly, that may also lead to the keyboard-not-working issue. To solve it, you should update the corresponding driver right away.
@@ -116,13 +122,7 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_10-58-04-3.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the keyboard driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-24_12-23-35-3.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using**Driver Easy Pro** to update your driver, please feel free to email us at**<support@drivereasy.com>** .
@@ -137,17 +137,25 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 
 1. Right-click any empty space of the**taskbar** that locates at the bottom of your computer screen to open its context menu. Then make sure you enable the**Show touch keyboard button** option.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-13-11.png)
 2. There appears a**keyboard** icon in the notification area on your taskbar. Click the icon to invoke a virtual keyboard.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-19-38.png) ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-23-07.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the**Windows logo** **icon** at the left corner of your taskbar to open the**Start** menu. Then use the virtual keyboard to type**device** into the search box and select the**Device Manager** result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-24-39.png)
 4. Click the**Keyboards** category to open its drop-down list. Right-click on the keyboard model you’re using and select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-28-38.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-31-04-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Wait till the download and installation process finishes.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Click **Close** when it’s all done.
 8. Now your driver has been updated by Windows successfully. Don’t forget to restart your computer for the changes to take effect even if you’re not asked to.
 
@@ -163,9 +171,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Type your keyboard model into the search box if you know it clearly; otherwise you could just type**wireless keyboard** . Usually, you’ll be presented with a list of search suggestions below, so go on to select one from the list according to your keyboard model. (If you don’t know how to invoke a virtual keyboard on your computer, you may refer to Option 2.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-49-45-1.png)
 4. In the next window, make sure you choose the correct edition of your Windows system. Then download all the drivers you need.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-58-29.png)
 5. Open the file where you’ve just downloaded the driver. In most situations, you’ll get a file with an**EXE** extension. Double-click on it and follow the onscreen instructions to install the driver.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 6. Don’t forget to restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -183,8 +188,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +195,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-graph-gems-2017s-statistical-youtube-surprises/"><u>[New] In 2024, Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-camcorder-choices-of-2024-comprehensive-analysis/"><u>[Updated] Best Camcorder Choices of 2024 – Comprehensive Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mega-popular-youtube-vids-everlasting-titles/"><u>[Updated] Mega-Popular YouTube Vids Everlasting Titles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-restore-pasting-functionality-on-windows-11/"><u>Fixing the Issue: How to Restore Pasting Functionality on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/forza-horizon-n4-silent-mode-error-resolved-enjoy-racing-sounds-again/"><u>Forza Horizon N°4 Silent Mode Error Resolved! Enjoy Racing Sounds Again</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/free-download-comprehensive-bloomberg-market-insights-and-analysis-on-tech-innovations-political-developments/"><u>Free Download: Comprehensive Bloomberg Market Insights & Analysis on Tech, Innovations, Political Developments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-reducing-high-resource-demand-of-tiworkerexe-process-in-windows-11-systems/"><u>Guide: Reducing High Resource Demand of TiWorker.exe Process in Windows 11 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-build-your-own-4k-video-editing-pc-for-2024/"><u>How To Build Your Own 4K Video Editing PC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-health-communication-winning-on-social-networks/"><u>In 2024, Health Communication Winning on Social Networks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-in-steam-games-setup-and-update-quick-guide/"><u>Overcoming Challenges in Steam Games Setup & Update - Quick Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-explorers-unwanted-scroll-to-top-behavior-for-seamless-navigation/"><u>Resolving Windows 10 Explorer's Unwanted Scroll-to-Top Behavior for Seamless Navigation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-os-corrective-measures-for-corrupted-windows-11-files/"><u>Reviving Your OS: Corrective Measures for Corrupted Windows 11 Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/where-are-my-display-options-windows-11-help/"><u>Where Are My Display Options? Windows 11 Help</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208259799-windows-11-keyboard-response-slowdown-heres-how-to-address-it-effectively/"><u>Windows 11 Keyboard Response Slowdown? Here's How to Address It Effectively</u></a></li>
+</ul></div>
 

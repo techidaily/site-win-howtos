@@ -1,7 +1,7 @@
 ---
 title: "Solution Implemented: Correcting Uncooperative Keyboard Inputs"
-date: 2024-08-23T14:02:50.776Z
-updated: 2024-08-24T14:02:50.776Z
+date: 2025-02-04T22:33:18.182Z
+updated: 2025-02-06T20:49:31.245Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
    * [Steam](https://tools.techidaily.com/drivereasy/download/)  
    * [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make sure your PC meets the specs
 
  In order to play NBA 2K21, you need to make sure that your PC meets the minimum system requirements. If you want to have a better gaming experience, then it’s supposed to meet the recommended system requirements.
@@ -59,9 +63,6 @@ Recommended System Requirements
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Turn off Shot Feedback
 
  Many players have tested that turning off the**Shot Feedback** fixed the green glitch. So it’s worth a shot. To do so, you can:
@@ -78,9 +79,6 @@ Recommended System Requirements
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update your graphics drivers
 
  our graphics driver is an essential piece of software that lets your system communicate with the graphics card. If it is outdated, it would cause noticeable performance problems. While driver updates include the latest patches for security flaws, fix problems, and sometimes even provide you with completely new features, all for free. Therefore, in order to enjoy your game to the fullest, you should make sure your graphics card is up-to-date.
@@ -96,16 +94,25 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  4) Restart your computer and start the game again to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Fixes on different gaming platforms
 
@@ -116,8 +123,9 @@ Here’s how to update drivers with Driver Easy:
 [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PlayStation: download files from MyCAREER
 
  1) Go to **Settings > Application Saved Data Management > Saved Data in System Storage** .
@@ -132,14 +140,8 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Steam
 
  If you play NBA 2K21 on Steam and got the green glitch, you’re supposed to**disable the Steam overlay** and**verify your game files** .
@@ -155,8 +157,9 @@ Here’s how to update drivers with Driver Easy:
 ![disable steam overlay NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After applying the change, exit Steam and play your game again to see if the issue is fixed. If not, try verifying your game files.
 
 #### Verify your game files
@@ -169,16 +172,10 @@ To do this, simply follow the instructions below:
 
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) When the process is completed, restart Steam and launch your game again.
 
 ### Xbox One: make sure the language is set to English
@@ -193,6 +190,10 @@ To do this, simply follow the instructions below:
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/language-set-to-English-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  So these are the fixes that have been tested working for many gamers. If none of them work for you, then you’re supposed to uninstall and reinstall your game. Also, if you have any ideas or questions, do not hesitate to leave us a comment below.
@@ -206,8 +207,6 @@ To do this, simply follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +214,24 @@ To do this, simply follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-crafting-a-tiktok-twosome-film/"><u>[New] Crafting a TikTok Twosome Film</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iscover-the-most-reliable-royalty-free-audio-libraries/"><u>[New] Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-become-an-instagram-reel-guru-with-these-proven-strategies/"><u>[New] In 2024, Become an Instagram Reel Guru with These Proven Strategies</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/best-deals-alert-save-big-on-premium-benq-displays-for-prime-event/"><u>Best Deals Alert: Save Big on Premium BenQ Displays for Prime Event!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-and-eliminating-livekernelevent-error-144-challenge/"><u>Deciphering & Eliminating 'LiveKernelEvent Error #144' Challenge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-windows-10-taskbar-freezing-issues-successfully/"><u>Expert Advice on Resolving Windows 10 Taskbar Freezing Issues Successfully</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-6-platforms-for-video-localization/"><u>In 2024, Premier 6 Platforms for Video Localization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207641604-keyboard-dilemma-heres-how-to-get-your-backspace-working-again/"><u>Keyboard Dilemma? Here's How to Get Your Backspace Working Again</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-troubleshooting-for-opened-manage-interface/"><u>Navigating Windows 11 Troubleshooting for Opened Manage Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-stubborn-chrome-freeze-problems-tips-and-tricks-for-smooth-browsing/"><u>Overcoming Stubborn Chrome Freeze Problems – Tips and Tricks for Smooth Browsing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-structural-glitches-corrected-enjoy-seamless-gaming-now/"><u>PUBG Structural Glitches Corrected, Enjoy Seamless Gaming Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-address-missing-binkw32dll-error-on-your-computer/"><u>Quick Fixes to Address Missing binkw32.dll Error on Your Computer</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/recycle-bin-deleted-items-and-partial-file-restoration/"><u>Recycle Bin, Deleted Items, and Partial File Restoration.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-missing-volume-settings-icon-on-your-windows-11-pc-pictorial-evidence-included/"><u>The Ultimate Fix for Missing 'Volume' Settings Icon on Your Windows 11 PC [Pictorial Evidence Included]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-a-non-functional-dell-laptop-keyboard/"><u>Troubleshooting Tips: Fixing a Non-Functional Dell Laptop Keyboard</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-updates-in-lgs-revolutionary-360-camera-tech/"><u>Unveiling Updates in LG's Revolutionary 360 Camera Tech</u></a></li>
+</ul></div>
 

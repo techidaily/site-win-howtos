@@ -1,7 +1,7 @@
 ---
 title: Scrolling Malfunctions on Touchpad? Here's How to Resolve the Problem
-date: 2024-08-23T14:09:13.848Z
-updated: 2024-08-24T14:09:13.848Z
+date: 2025-02-03T00:39:03.570Z
+updated: 2025-02-07T04:21:32.283Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -52,23 +56,19 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -80,39 +80,15 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
 This problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -128,15 +104,17 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Once you’ve updated the driver for your Astro A40 headset,**restart** your computer and check if the**Astro A40 mic not working** problem has been resolved.
@@ -160,8 +138,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +145,21 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-revamping-your-snapchat-speech-two-straightforward-steps/"><u>[New] 2024 Approved Revamping Your Snapchat Speech Two Straightforward Steps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-leading-cloud-services-with-best-price/"><u>2024 Approved The Leading Cloud Services with Best Price</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-legal-challenge-by-doj-potential-consequences-for-iphone-enthusiasts-and-app-creators-tech-insight/"><u>Apple Legal Challenge by DOJ: Potential Consequences for iPhone Enthusiasts & App Creators | Tech Insight</u></a></li>
+<li><a href="https://techidaily.com/elevate-your-eso-adventure-with-expert-techniques-for-overcoming-low-frames-per-second-fps/"><u>Elevate Your ESO Adventure with Expert Techniques for Overcoming Low Frames Per Second (FPS)</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/fixing-issues-how-to-resolve-phone-manager-problems-on-your-iphone-or-ipad/"><u>Fixing Issues: How to Resolve 'Phone Manager' Problems on Your iPhone or iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-secure-connection-could-not-be-established-when-using-mozilla-firefox/"><u>How to Fix 'Secure Connection Could Not Be Established' When Using Mozilla Firefox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-ai-generated-content-4-essential-chatgpt-detection-apps-for-academics-and-supervisors/"><u>Identifying AI-Generated Content: 4 Essential ChatGPT Detection Apps for Academics and Supervisors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-processor-drivers-fast-and-simple-download-guide/"><u>Intel Processor Drivers: Fast & Simple Download Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2213468-9780007591466-mindfulness-weeks-1-2-of-your-8-week-plan/"><u>Mindfulness: Weeks 1-2 of Your 8-Week Plan | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-launch-issues-in-new-world-due-to-easy-anti-cheat-error/"><u>Overcoming Launch Issues in New World Due to Easy Anti-Cheat Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-preventing-crashes-when-reconnecting-in-granblue-fantasy-pc/"><u>Step-by-Step Solution: Preventing Crashes When Reconnecting in Granblue Fantasy (PC)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-your-microsoft-wireless-display-adapter-not-detecting-windows-10/"><u>The Ultimate Fix for Your Microsoft Wireless Display Adapter Not Detecting Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tip-addressed-high-voltage-issue-on-connection-point/"><u>Troubleshooting Tip: Addressed High Voltage Issue on Connection Point</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-hello-unavailability-issues-in-windows-10-systems/"><u>Troubleshooting Windows Hello Unavailability Issues in Windows 10 Systems</u></a></li>
+</ul></div>
 

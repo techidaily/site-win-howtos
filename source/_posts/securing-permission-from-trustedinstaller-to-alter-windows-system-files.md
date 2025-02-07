@@ -1,7 +1,7 @@
 ---
 title: Securing Permission From TrustedInstaller to Alter Windows System Files
-date: 2025-01-24T18:17:58.767Z
-updated: 2025-01-25T16:58:10.062Z
+date: 2025-02-02T10:02:53.711Z
+updated: 2025-02-06T20:21:55.777Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ The good news is, you can fix it easily!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  All the fixes below work in**Windows 10** . And just work your way down the list until your volume control not working issue is resolved.
@@ -36,10 +40,6 @@ The good news is, you can fix it easily!
 4. [**Run the Playing Audio troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your sound driver
 
@@ -58,12 +58,16 @@ The good news is, you can fix it easily!
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
@@ -75,9 +79,17 @@ To do so:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
@@ -95,10 +107,6 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
@@ -107,10 +115,6 @@ To run SFC:
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -121,18 +125,14 @@ Here’s how:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
@@ -158,21 +158,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-does-youtube-pay-you/"><u>[New] 2024 Approved How Does YouTube Pay You?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-snapchat-to-social-upload-videos-on-twit/"><u>[Updated] In 2024, From Snapchat to Social Upload Videos on Twit</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beyond-basic-how-hdr-transforms-video-editing-processes-for-2024/"><u>Beyond Basic How HDR Transforms Video Editing Processes for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comment-convertir-des-videos-mkv-en-flv-sur-internet-sans-frais-avec-le-logiciel-movavi/"><u>Comment Convertir Des Vidéos MKV en FLV Sur Internet Sans Frais Avec Le Logiciel Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-ts-a-formatos-wmv-online-gratuitamente-con-herramientas-de-conversion-expertas/"><u>Cómo Convertir Archivos TS a Formatos WMV Online Gratuitamente Con Herramientas De Conversión Expertas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertis-vos-fichiers-m4a-au-format-ogv-gratuitement-sur-le-web-movavi/"><u>Convertis Vos Fichiers M4A Au Format OGV Gratuitement Sur Le Web - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-conversor-online-de-caf-para-flac-pelo-movavi/"><u>Gratuito Conversor Online De CAF Para FLAC Pelo Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-t2-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo T2 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-top-5-mkv-players-for-mac/"><u>In 2024, Top 5 MKV Players for Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-gratis-raw-bild-in-jpg-konvertieren-mit-movavi-kostenlose-raw-zu-jpeg-konverter/"><u>Online Gratis RAW Bild in JPG Konvertieren Mit Movavi - Kostenlose RAW-Zu-JPEG-Konverter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/riconverti-filets-mkv-in-formato-mov-web-gratuita-softoni-video/"><u>Riconverti Filets MKV in Formato MOV Web Gratuita - Softoni Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-mxf-to-avi-file-upload-and-conversion-access-premium-quality-for-free/"><u>Seamless MXF to AVI File Upload and Conversion - Access Premium Quality for Free!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-intelamd-driver-missing-from-premiere-pro/"><u>Solved: Intel/AMD Driver Missing From Premiere Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/techs-elite-showdown-googles-gemini-versus-openais-chatgpt/"><u>Tech's Elite Showdown: Google's Gemini Versus OpenAI’s ChatGPT</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-tips-for-capturing-sporting-events-live-online/"><u>Ultimate Tips for Capturing Sporting Events Live Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/your-path-to-perfect-captures-the-complete-guide-to-netflix-on-mac/"><u>Your Path to Perfect Captures The Complete Guide to Netflix on Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-the-art-of-backward-movies-on-snapchat/"><u>[New] 2024 Approved Mastering the Art of Backward Movies on Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-new-dimensions-choose-the-best-vr-headsets-for-metaverse/"><u>2024 Approved Exploring New Dimensions Choose the Best VR Headsets for Metaverse</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effizientes-video-umwandeln-mit-winx-hd-beschleunigte-konvertierung-und-verbesserte-videobehandlung-durch-gpu-unterstutzung/"><u>Effizientes Video Umwandeln Mit WinX HD - Beschleunigte Konvertierung Und Verbesserte Videobehandlung Durch GPU Unterstützung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-handling-and-correcting-critical-directx-error-situations/"><u>Expert Tips on Handling and Correcting Critical DirectX Error Situations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-package-revelation/"><u>In 2024, The Art of Package Revelation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/kopieren-and-einfugen-in-windows-11-funktioniert-nicht-mehr-top-5-workarounds/"><u>Kopieren & Einfügen in Windows 11 Funktioniert Nicht Mehr – Top 5 Workarounds</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-top-gaming-destinations-best-sites-to-download-pc-games/"><u>New 2024 Approved The Top Gaming Destinations Best Sites to Download PC Games</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-melody-eraser-pro-craft-personalized-instrumental-compositions/"><u>New In 2024, Melody Eraser Pro Craft Personalized Instrumental Compositions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-computers-fail-to-detect-audio-devices/"><u>Troubleshooting Steps When Computers Fail to Detect Audio Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011-missing-visual-settings/"><u>Windows 10/11: Missing Visual Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-stuck-heres-how-you-can-get-your-computer-to-properly-power-off/"><u>Windows 11 Stuck? Here's How You Can Get Your Computer to Properly Power Off</u></a></li>
 </ul></div>
 

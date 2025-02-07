@@ -1,7 +1,7 @@
 ---
 title: How to Fix File Explorer Freezing on Windows 10 - Solution Guide
-date: 2024-08-23T14:10:02.276Z
-updated: 2024-08-24T14:10:02.276Z
+date: 2025-02-01T13:11:06.456Z
+updated: 2025-02-07T10:32:42.654Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -46,13 +50,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -60,17 +65,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -82,17 +85,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -101,6 +97,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -108,11 +108,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -127,8 +134,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +141,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-selecting-peak-performance-lipo-cells-for-drones-for-2024/"><u>[New] Selecting Peak Performance LiPo Cells for Drones for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-socialsound-maker-twitter-audio-for-2024/"><u>[New] SocialSound Maker Twitter Audio for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-define-new-destination-for-mac-screenshots/"><u>[Updated] 2024 Approved Define New Destination for Mac Screenshots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-command-the-clicks-mastering-engagement-tactics-for-instagram/"><u>[Updated] In 2024, Command the Clicks Mastering Engagement Tactics for Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-decoding-the-art-of-youtube-playlist-recalibration/"><u>2024 Approved Decoding the Art of YouTube Playlist Recalibration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-keeping-your-computer-mouse-connected-without-interruption/"><u>Expert Tips for Keeping Your Computer Mouse Connected without Interruption</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/exploring-the-functions-of-msdia80dll-is-keeping-it-essential-for-windows-users/"><u>Exploring the Functions of msdia80.dll - Is Keeping It Essential for Windows Users?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-an-inactive-at-symbol-steps-to-restore-proper-functionality-in-any-application/"><u>Fix an Inactive At Symbol ('@'): Steps to Restore Proper Functionality in Any Application</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gpu-insight-into-microsofts-ms-bda/"><u>GPU Insight Into Microsoft's MS BDA</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-nokia-130-music-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Nokia 130 Music Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210422881-minecraft-crash-no-more-solving-error-code-5-quickly/"><u>Minecraft Crash No More: Solving Error Code (#5) Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/monotheism-or-polytheism/"><u>Monotheism or Polytheism</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205557831-overcoming-skype-microphone-trouble-discover-proven-techniques-to-get-it-working-again/"><u>Overcoming Skype Microphone Trouble? Discover Proven Techniques to Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-stop-usb-device-not-recognized-alerts-from-disrupting-your-work/"><u>Solved! How to Stop 'USB Device Not Recognized' Alerts From Disrupting Your Work</u></a></li>
+<li><a href="https://win-dash.techidaily.com/understanding-bat-files-a-comprehensive-guide-on-what-they-are-and-steps-to-access-them/"><u>Understanding BAT Files: A Comprehensive Guide on What They Are & Steps to Access Them</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-update-error-detected-heres-how-you-can-correctly-resolve-it-now/"><u>Windows 11 Update Error Detected? Here's How You Can Correctly Resolve It Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zenith-pinnacle-design-review-for-2024/"><u>Zenith Pinnacle Design Review for 2024</u></a></li>
+</ul></div>
 

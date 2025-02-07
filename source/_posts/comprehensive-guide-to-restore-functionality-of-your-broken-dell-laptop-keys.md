@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Restore Functionality of Your Broken Dell Laptop Keys
-date: 2024-08-23T14:04:02.841Z
-updated: 2024-08-24T14:04:02.841Z
+date: 2025-02-05T07:17:01.864Z
+updated: 2025-02-07T14:35:12.249Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 ## Restore Functionality to Broken Keyboard Keys on Your HP Device: Expert Tips & Tricks
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -49,8 +53,9 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -66,8 +71,9 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -103,8 +109,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -114,9 +121,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -134,15 +138,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -168,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +177,21 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-all-inclusive-vsco-lens-manual-for-2024/"><u>[New] All-Inclusive VSCO Lens Manual for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-logitech-wireless-mouse-not-working/"><u>[Solved] Logitech Wireless Mouse Not Working</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-enhance-productivity-with-these-20-proven-cost-free-storage-services/"><u>2024 Approved Enhance Productivity With These 20 Proven, Cost-Free Storage Services</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-maximize-your-workflow-with-efficient-use-of-macs-preview-tool/"><u>2024 Approved Maximize Your Workflow with Efficient Use of Mac's Preview Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/activation-interrupted/"><u>Activation Interrupted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-tiff-images-to-jpg-for-free-using-movavis-web-tool/"><u>Convert TIFF Images to JPG for Free Using Movavi's Web Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-managed-configuration-parameters-in-microsoft-windows-environments/"><u>Decoding Managed Configuration Parameters in Microsoft Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-10-class-registration-errors-expert-tips-and-solutions/"><u>Overcome Windows 10 Class Registration Errors - Expert Tips & Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovering-graphics-options-lockout-issue/"><u>Recovering Graphics Options Lockout Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-frozen-screens-netflix-works-flawlessly-on-desktops-and-laptops/"><u>Say Goodbye to Frozen Screens: Netflix Works Flawlessly on Desktops and Laptops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-building-blocks-of-graphic-animation/"><u>The Building Blocks of Graphic Animation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tic-concepts-for-daily-vlog-content/"><u>Thematic Concepts for Daily Vlog Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-tablet-reviews-and-comparisons-zdnets-comprehensive-guide/"><u>Top Rated Tablet Reviews & Comparisons - ZDNet's Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-7-driver-problems-solutions-for-no-devices-found-alert/"><u>Winning Against Windows 7 Driver Problems: Solutions for No Devices Found Alert</u></a></li>
+</ul></div>
 

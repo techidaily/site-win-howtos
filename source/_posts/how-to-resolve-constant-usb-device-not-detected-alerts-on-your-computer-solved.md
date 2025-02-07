@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Constant 'USB Device Not Detected' Alerts on Your Computer (SOLVED)
-date: 2024-08-23T14:07:01.674Z
-updated: 2024-08-24T14:07:01.674Z
+date: 2025-02-03T07:08:20.910Z
+updated: 2025-02-06T16:24:55.155Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b07f8aafe5ebbf14ba4a69b2b5bb7f9ec0a78d9ab
 
 **Mouse keeps disconnecting** on your computer? Don’t worry, it’s often quite not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 fixes for **Mouse keeps disconnecting**
 
 Here are 3 fixes that have helped other users resolve the mouse keeps disconnecting problem. Just work your way down the list until the problem is resolved.
@@ -27,6 +31,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -34,32 +42,29 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -73,14 +78,13 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -98,8 +102,6 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +109,23 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-financial-fortune-with-facebook-video-marketing-key-strategies-explored/"><u>[New] 2024 Approved Financial Fortune with Facebook Video Marketing Key Strategies Explored</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-superior-panzoid-constructs-guide/"><u>[New] In 2024, Superior Panzoid Constructs Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-group-video-chat-apps-you-should-know-for-video-conferences-and-meetings/"><u>[New] In 2024, Top Group Video Chat Apps You Should Know [For Video Conferences and Meetings]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-funny-frenzy-discovering-the-top-tweets-for-laughter/"><u>2024 Approved Funny Frenzy Discovering the Top Tweets for Laughter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leaders-in-next-gen-sensory-devices/"><u>2024 Approved Leaders in Next-Gen Sensory Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-11-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 11 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-complication-mastering-the-fix-for-msxml3-protocol-error-0x887a0006/"><u>Bypass Complication: Mastering the Fix for Msxml3 Protocol Error (0X887A0006)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oneplus-ace-3-by-drfone-android/"><u>How to Bypass FRP from OnePlus Ace 3?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-high-resource-usage-by-iastordataservice-in-32-bit-windows-10-systems/"><u>How to Fix High Resource Usage by iaStorDataService in 32-Bit Windows 10 Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-horizons-for-filters-mondly-and-pearson-alliance/"><u>New Horizons for Filters: Mondly and Pearson Alliance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/optical-opus-the-elite-list-of-8k-cameras-for-2024/"><u>Optical Opus The Elite List of 8K Cameras for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-startup-cycle-on-your-pc-with-windows-11-or-10-solutions/"><u>Overcome the Endless Startup Cycle on Your PC with Windows 11 or 10 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-problems-with-disabled-fn-key-shortcuts-on-your-asus-notebook/"><u>Overcoming Problems with Disabled FN Key Shortcuts on Your Asus Notebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-device-not-accessible-message-on-windows/"><u>Resolved: How to Fix the 'Device Not Accessible' Message on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-vcruntime140dll-absence-error-on-windows-pcs-effortlessly/"><u>Solve Your 'VCRUNTIME140.dll' Absence Error on Windows PCs Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-resolving-undetected-hard-drive-issues-now-fixed/"><u>Step-by-Step Solutions: Resolving Undetected Hard Drive Issues (Now Fixed)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Key Stickiness on New Windows Operating Systems: A Comprehensive Fix Guide"
-date: 2024-08-23T14:06:15.457Z
-updated: 2024-08-24T14:06:15.457Z
+date: 2025-02-06T06:02:57.601Z
+updated: 2025-02-07T12:55:29.848Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 If you ever encounter this**speaker crackling** issue, don’t worry. Many users have reported this problem too.
 
  And luckily they’ve successfully tackled the noise problem with the fixes below. So check them out…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for speakers crackling
 
@@ -49,8 +53,9 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  This speaker crackling problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio  driver to see if it fixes your problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,17 +68,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -82,28 +90,15 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -121,8 +116,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +123,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>[Updated] 2024 Approved 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-missing-desktop-icon-under-systemprofile-directory/"><u>Effective Solutions for the Missing Desktop Icon Under SystemProfile Directory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-the-startup-screen-problem-in-monster-hunter-world/"><u>Expert Tips to Overcome the Startup Screen Problem in Monster Hunter: World</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-key-methods-to-customize-song-speed-on-spotify/"><u>In 2024, Key Methods to Customize Song Speed on Spotify</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96116433-9780525504283-love-for-imperfect-things/"><u>Love for Imperfect Things | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/missing-prerequisite-driver-restored-for-optimal-computer-performance/"><u>Missing Prerequisite Driver Restored for Optimal Computer Performance</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-matchmakers-finding-romance-in-diversity/"><u>Multilingual Matchmakers: Finding Romance in Diversity</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cropping-and-resizing-images-in-final-cut-pro-x-made-easy/"><u>New In 2024, Cropping and Resizing Images in Final Cut Pro X Made Easy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-brightness-control-unresponsive-errors-in-windows-11/"><u>Resolve 'Brightness Control Unresponsive' Errors in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revolutionize-your-paperwork-management-using-abbyy-finereader-14-the-comprehensive-pdf-and-scanning-software-you-need/"><u>Revolutionize Your Paperwork Management Using ABBYY FineReader 14: The Comprehensive PDF and Scanning Software You Need!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-the-persistent-0xc00n0000098-windows-malfunction/"><u>The Ultimate Fix for the Persistent 0XC00n0000098 Windows Malfunction</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-netatmo-weather-station-connectivity-and-style-combined/"><u>The Ultimate Guide to Choosing a Netatmo Weather Station: Connectivity and Style Combined</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206517999-your-sd-card-not-detected-heres-the-fix/"><u>Your SD Card Not Detected? Here's the Fix</u></a></li>
+</ul></div>
 

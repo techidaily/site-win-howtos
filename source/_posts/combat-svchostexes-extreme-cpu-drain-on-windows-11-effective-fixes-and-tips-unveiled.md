@@ -1,7 +1,7 @@
 ---
 title: "Combat svchost.exe's Extreme CPU Drain on Windows 11: Effective Fixes and Tips Unveiled"
-date: 2024-08-23T14:02:35.016Z
-updated: 2024-08-24T14:02:35.016Z
+date: 2025-02-03T22:46:38.773Z
+updated: 2025-02-07T03:13:10.057Z
 tags:
   - win11
   - win10
@@ -62,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
  The time it may take depends on your hardware specifications. It is recommended that you wait for**2 hours** . 2 hours later, if the your PC still gets stuck on the screen of “Preparing to configure Windows”, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Disconnect all the external devices and perform a hard reboot**
 
  Since your PC gets stuck on the screen of “Preparing to configure Windows” when you try to shut down your Windows system, in such a case, the only thing you can do is to**disconnect all the external devices** (such as**USB flash** **drives** ,**the external hard disk drive** , etc) and**perform a hard reboot** . Follow the instruction below to perform a hard reboot:
@@ -81,15 +78,21 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)
 2. In the pop-up window, click**Check for updates** .  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)
 3. Wait until Windows downloads and installs all the updates.
 
  Restart Windows to see if your PC will get stuck on the screen of “Preparing to configure Windows” again. It’s recommended that you**plug in your PC** and give your Windows system a whole night to configure all the updates. Normally, a whole night is enough for your Windows system to handle all these updates.
 
  If your PC still gets stuck when you wake up, you should **follow the instruction above to perform a hard reboot and then try the next fix** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performing a clean boot**
 
@@ -98,40 +101,35 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time to open the Run Dialog. Type **msconfig**  and press **Enter**  to open the   **System Configuration**  window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap6-2.jpg)
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-4.jpg)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-4.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-5.jpg)
 6. Click **Restart**  to restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-4.jpg)
 7. Perform a Windows update again after restarting Windows.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)  
    2. In the pop-up window, click**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)  
    3. Wait until Windows downloads and installs all the updates.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Restart your PC when Windows installed all the updates to see if this issue persists.
 
  If your PC won’t get stuck on the screen of “Preparing to configure Windows”, you’ve resolve this issue. Then go to the**System Configuration** window to enable the services you disabled before. After enabling each service, you need to **restart your PC to apply the changes** . If this annoying issue reappears, you may need to**restore your system** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## **Restore your Windows system**
 
  This annoying issue can be resolved by restoring your Windows system to a previous state. Follow the instructions below to restore your Windows system:
@@ -146,23 +144,28 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 3. Select**Choose a different restore point**  and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-4.jpg)
 4. Check the box next to **Show more restore points** . Select the restore point that is created just**before you run into this issue** and then click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-4.jpg)
 5. Click**Finish** to confirm your restore point.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap17-3.jpg)
 6. Click**Yes** to start restoring your Windows system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After restoring your Windows system, this annoying issue should be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Bonus tip: Update your driver to the latest version**
 
  To reduce such annoying problems, in most cases, it is a good idea to update your drivers to the latest version. There are two ways to update your drivers: **manually**  and **automatically** .
@@ -180,11 +183,16 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap19-2.jpg)
 3. Click **Update**  next to your device to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap20-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) for advice. You should attach the URL of this article so they can help you better.
@@ -201,8 +209,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +216,19 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-tie-speeches-and-music-to-slide-contents-in-ppt/"><u>[New] 2024 Approved Tie Speeches and Music to Slide Contents in PPT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-sonic-savant-archive-acquire-and-examine-tracks/"><u>[Updated] In 2024, Sonic Savant Archive Acquire & Examine Tracks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-quick-quip-cinema-script/"><u>[Updated] Quick Quip Cinema Script</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-transforming-unboxing-into-art/"><u>2024 Approved Transforming Unboxing Into Art</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-sleuths-alliance-navigate-through-4-interactive-virtual-games/"><u>AI Sleuths Alliance: Navigate Through 4 Interactive Virtual Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-steps-to-solve-your-monitors-video-signal-failure/"><u>Comprehensive Steps to Solve Your Monitor's Video Signal Failure</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-14-ultra-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi 14 Ultra? Try These Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-synaptics-touchpad-scroll-wheel-under-windows-10/"><u>How to Fix a Non-Responsive Synaptics Touchpad Scroll Wheel Under Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speedy-fixes-resolving-sluggish-startup-times-on-your-windows-7-pc/"><u>Speedy Fixes: Resolving Sluggish Startup Times on Your Windows 7 PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-a18-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo A18 Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-our-selection-top-12-free-online-phone-services/"><u>Unveiling Our Selection: Top 12 Free Online Phone Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wired-back-to-life-logitech-mouse-restsore/"><u>Wired Back to Life: Logitech Mouse Restsore</u></a></li>
+</ul></div>
 

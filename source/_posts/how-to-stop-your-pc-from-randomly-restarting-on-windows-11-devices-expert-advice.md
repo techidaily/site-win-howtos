@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your PC From Randomly Restarting on Windows 11 Devices: Expert Advice"
-date: 2025-01-22T16:19:32.611Z
-updated: 2025-01-25T17:43:14.917Z
+date: 2025-02-05T20:33:12.433Z
+updated: 2025-02-07T02:27:04.234Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -43,10 +47,6 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
  2) Click**Display** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Check if you’re able to see the TV as a second monitor.
 
@@ -60,17 +60,21 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, check to see if Windows can detect your TV.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -90,7 +94,7 @@ After that, check to see if Windows can detect your TV.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
@@ -98,10 +102,6 @@ After that, check to see if Windows can detect your TV.
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
@@ -126,19 +126,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-civics-challenge-club-leading-political-gaming-series/"><u>[New] In 2024, Civics Challenge Club Leading Political Gaming Series</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-personalize-your-youtube-watch-experience-with-alerts-and-notes/"><u>[Updated] In 2024, Personalize Your Youtube Watch Experience with Alerts & Notes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-stories-a-comprehensive-users-handbook/"><u>[Updated] Mastering Facebook Stories A Comprehensive User's Handbook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/combat-overheated-cpu-in-windows-10/"><u>Combat Overheated CPU in Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-transformar-archivos-3gpp-a-m4a-gratuitamente-en-linea-con-facilidad-movavi/"><u>Cómo Transformar Archivos 3GPP a M4A Gratuitamente en Línea Con Facilidad - Movavi</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dannys-colombian-efforts-for-disadvantaged-communities/"><u>Danny's Colombian Efforts for Disadvantaged Communities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/definitive-guide-restarting-your-windows-10-explore-function-smoothly-and-efficiently/"><u>Definitive Guide: Restarting Your Windows 10 Explore Function Smoothly and Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/harness-the-power-of-meta-ai-to-transform-your-instagram-marketing-game/"><u>Harness the Power of Meta AI to Transform Your Instagram Marketing Game</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v27-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V27 Pro Device</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mp4avi-5/"><u>MP4からAVIへ簡単な方法を覚えよう - 最新オンライン変換ツールベスト5選！ | ソフトウェアのインストール不要</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-persistent-buffering-problems-on-kodi/"><u>Resolved: How to Fix Persistent Buffering Problems on Kodi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-functionality-for-malfunctioning-usb-peripherals-in-windows-7/"><u>Restoring Functionality for Malfunctioning USB Peripherals in Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sedimentation-efficiency-is-influenced-by-particle-size-distribution-known-as-the-peclet-number-which-affects-settling-behavior-equilibrium-within-the-tank.154/"><u>Sedimentation Efficiency Is Influenced by Particle Size Distribution, Known as the Péclet Number, Which Affects Settling Behavior Equilibrium Within the Tank.</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1728493650108-windows-11onedrive/"><u>Windows 11上即時同步本地文件夹至OneDrive：两种简单方法</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-pickup-vs-competitors-an-incisive-review-of-androids-top-editor/"><u>[New] 2024 Approved PickUp Vs. Competitors An Incisive Review of Android's Top Editor</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-exploring-new-worlds-top-10-sci-fi-metaverse-movie-adventures/"><u>[Updated] In 2024, Exploring New Worlds Top 10 Sci-Fi Metaverse Movie Adventures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crackling-audio-issue-fix-your-sound-on-windows-11-and-windows-7/"><u>Crackling Audio Issue? Fix Your Sound on Windows 11 and Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-resolve-unknown-usb-device-issues-on-windows-11-pcs/"><u>Effective Solutions to Resolve Unknown USB Device Issues on Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-to-stop-frequent-reboots-in-windows-11/"><u>Effortless Solutions to Stop Frequent Reboots in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-0x80070426-on-your-windows-11-pc-expert-tips-and-solutions/"><u>How to Fix 'Error 0X80070426' On Your Windows 11 PC – Expert Tips and Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-win11s-top-5-no-cost-screen-recorders-updated-guide/"><u>In 2024, Win11's Top 5 No-Cost Screen Recorders - Updated Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-iastordatasvc-memory-and-cpu-spikes-in-windows-10-comprehensive-guide/"><u>Resolving IAStorDataSvc Memory and CPU Spikes in Windows 10 - Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-artisans-approach-expert-color-alteration-tactics-for-2024/"><u>The Artisan's Approach Expert Color Alteration Tactics for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solving-the-code-43-problem-with-your-nvidia-gpu-in-windows-10/"><u>Troubleshooting and Solving the 'Code 43' Problem with Your Nvidia GPU in Windows 10</u></a></li>
 </ul></div>
 

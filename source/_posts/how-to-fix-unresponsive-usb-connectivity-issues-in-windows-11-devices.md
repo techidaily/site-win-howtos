@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unresponsive USB Connectivity Issues in Windows 11 Devices
-date: 2024-08-23T14:03:48.626Z
-updated: 2024-08-24T14:03:48.626Z
+date: 2025-02-05T23:28:13.114Z
+updated: 2025-02-07T02:46:00.387Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -44,22 +48,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your keyboard driver
 
  This**keyboard lag** issue may also occur if you have the wrong or corrupt keyboard driver. So you should update these drivers to to see if it fixes the problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,17 +70,26 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
 
@@ -94,15 +98,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, type a few words and see if it registers as expected.
@@ -122,8 +124,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,22 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-finding-the-right-wordmark-for-your-personalized-tiktok-stream/"><u>[New] 2024 Approved Finding the Right Wordmark for Your Personalized TikTok Stream</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-understanding-t-series-youtube-business-model/"><u>[New] 2024 Approved Understanding T-Series YouTube Business Model</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-affordable-cameras-for-effective-vloggers-for-2024/"><u>[New] Affordable Cameras for Effective Vloggers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-picks-video-grabbers-on-microsofts-os-for-2024/"><u>[New] Top Picks Video Grabbers on Microsoft's OS for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-meizu-21-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/directx-hardware-renderer-initialization-issues-solutions-uncovered/"><u>DirectX Hardware Renderer Initialization Issues - Solutions Uncovered!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solutions-resolving-failed-installs-of-windows-11-version-1607-update/"><u>DIY Solutions: Resolving Failed Installs of Windows 11 Version 1607 Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-get-your-unrecognized-usb-flash-drive-working-smoothly/"><u>Expert Tips to Get Your Unrecognized USB Flash Drive Working Smoothly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-invalid-directory-name-mistake-a-step-by-step-guide/"><u>Fixing the 'Invalid Directory Name' Mistake – A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-reno-11-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Reno 11 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-excellent-alternatives-top-5-to-replace-twitter/"><u>In 2024, Excellent Alternatives Top 5 to Replace Twitter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-surface-pro-4-touchscreen-malfunction-heres-how-to-get-it-working-again/"><u>Microsoft Surface Pro 4 Touchscreen Malfunction? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/playcapture-pro-your-own-screen-recorder-free/"><u>PlayCapture Pro Your Own Screen Recorder, Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-repair-internet-explorer-has-stopped-working/"><u>Step-by-Step Guide to Repair 'Internet Explorer Has Stopped Working'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-peak-performance-for-gamers-essential-tweaks-for-windows-11-systems/"><u>Unlocking Peak Performance for Gamers: Essential Tweaks for Windows 11 Systems</u></a></li>
+</ul></div>
 

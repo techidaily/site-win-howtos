@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Unexpected Turn-Offs in Computers: A Comprehve Solution"
-date: 2025-01-21T17:17:08.536Z
-updated: 2025-01-25T16:38:53.708Z
+date: 2025-02-01T08:20:54.954Z
+updated: 2025-02-07T02:30:28.915Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Check if your computer has a virus
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  So check if your computer has a virus. You can use your anti-virus software to scan your computer and remove the virus if necessary. If you haven’t installed a anti-virus software, see[Free Virus Removal Tool](https://tools.techidaily.com/drivereasy/download/) and pick the anti-virus software you trust.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update the drivers on your computer
 
@@ -69,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
  You can do it for free if you like, but it partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Remove any peripherals from your computer
 
  If the problem was caused around the time you connected peripherals to your computer, it’s probably a hardware conflict issue. You can remove the peripherals easily. If you have connected multiple peripherals to your computer, just remove the peripherals one by one.  
@@ -76,14 +84,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  Once removing a peripheral, check to see if the problem is resolved, then you can figure out which peripheral is causing the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Reset CMOS to the default settings
 
@@ -107,10 +107,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
@@ -118,7 +114,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
@@ -137,6 +133,14 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 6: Check the fan
 
  The fan is one of the key components that makes computer to run properly. If it doesn’t work, the computer can overheat easily. Computer overheating can cause serious problems. So the system will try to prevent computer overheating. If the fan doesn’t work, the computer can shut down automatically to prevent the internal heating damaging the computer.
@@ -146,10 +150,6 @@ For example, many Dell PCs show this key like below at the first screen:
  If you find the fan stop working, take your computer to the repair store to have a further check. You may need to replace the fan with a new one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 7: Clean dust
 
@@ -182,18 +182,17 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-premier-recommendations-best-iphone-tones-designers/"><u>[New] In 2024, Premier Recommendations Best iPhone Tones Designers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[Updated] 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-discover-the-ideal-release-windows-on-youtube/"><u>[Updated] Discover the Ideal Release Windows on YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-elevating-audience-excitement-with-top-ideas/"><u>[Updated] Elevating Audience Excitement with Top Ideas</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[Updated] In 2024, How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-guide-photos-to-powerful-youtube-channel-thumbnails-in-a-flash/"><u>2024 Approved Instant Guide Photos to Powerful YouTube Channel Thumbnails in a Flash</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-huawei-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Huawei</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-screen-recordings-on-windows-10-systems-for-2024/"><u>Mastering Screen Recordings on Windows 10 Systems for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maximizing-speed-with-wheel-motion/"><u>Maximizing Speed with Wheel Motion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/swift-and-simple-guide-mastering-the-ultimate-fresh-start-with-windows-11/"><u>Swift & Simple Guide: Mastering the Ultimate Fresh Start with Windows 11</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/top-performant-simulation-de-machines-a-temps-pour-les-systemes-windows-11-10-8-et-7/"><u>Top-Performant Simulation De Machines À Temps Pour Les Systèmes Windows : 11, 10, 8 Et 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win11-proven-reducing-wmi-provider-host-cpu-load/"><u>Win11 Proven: Reducing WMI Provider Host CPU Load</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-and-bluetooth-issues-how-to-fix-unseen-or-undetected-peripherals/"><u>Windows 11 and Bluetooth Issues: How to Fix Unseen or Undetected Peripherals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-fast-fixes-streamlining-your-gotomeeting-record-keeping/"><u>[Updated] In 2024, Fast Fixes Streamlining Your GoToMeeting Record Keeping</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-final-steps-for-irreversible-tiktok-un-signup/"><u>[Updated] In 2024, Final Steps for Irreversible TikTok Un-Signup</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-leading-choices-no-fee-versatile-live-streaming-tools-for-every-device/"><u>[Updated] Leading Choices No-Fee, Versatile Live Streaming Tools for Every Device</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-c12-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia C12? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-disabled-local-authentication-layers-securely/"><u>How To Reactivate Disabled Local Authentication Layers Securely</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-installation-errors-with-windows-1ns-version-1607-upgrade/"><u>How to Resolve Installation Errors with Windows 1N's Version 1607 Upgrade</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-10-hindi-video-translators-with-step-by-step-guidance/"><u>New 2024 Approved Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-the-windows-update-halted-at-zero-percent-dilemma/"><u>Quick Fixes: Resolving the Windows Update Halted at Zero Percent Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-missing-d3dcompiler43dll-file-error-on-your-pc/"><u>Resolve 'Missing' D3DCompiler_43.dll File Error on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cache-miss-errors-errcachemiss-in-your-chrome-browser/"><u>Troubleshooting Cache Miss Errors (ERR_CACHE_MISS) in Your Chrome Browser</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-how-to-achieve-pristine-sound-quality-tactics-to-reduce-echo/"><u>Updated 2024 Approved How to Achieve Pristine Sound Quality Tactics to Reduce Echo</u></a></li>
 </ul></div>
 

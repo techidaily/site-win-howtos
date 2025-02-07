@@ -1,7 +1,7 @@
 ---
 title: Dell's Guide to Restoring USB Port Functionality - Solved
-date: 2024-08-23T14:06:30.859Z
-updated: 2024-08-24T14:06:30.859Z
+date: 2025-02-01T08:23:18.164Z
+updated: 2025-02-07T07:21:26.253Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 
  If your Dell PC can’t detect or recognize your USB device when you plug it into the USB port, here are 4 simple troubleshooting steps for you. They have worked for many people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these steps
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/85a7b59f6ebac3b02742cde59cd187960869a90ca
 
 If all your USB ports aren’t working, try Step 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -44,12 +45,13 @@ If all your USB ports aren’t working, try Step 2, below.
 1. **Disconnect** the AC adapter or power cord from your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Check your power management settings
 
@@ -59,22 +61,28 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Type devmgmt.msc and press Enter.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 ### Step 4: Update your USB driver
@@ -97,9 +105,6 @@ or
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -113,8 +118,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +125,24 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-frame-rate-considerations-for-high-quality-videos-for-2024/"><u>[New] Frame Rate Considerations for High-Quality Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-traffic-on-youtube-tips-that-actually-work/"><u>[Updated] Free Traffic on YouTube Tips That Actually Work</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-innovative-audio-dramatic-writing-for-2024/"><u>[Updated] Innovative Audio Dramatic Writing for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unleash-creativity-with-these-8-free-youtube-thumbnail-builders/"><u>[Updated] Unleash Creativity with These 8 Free YouTube Thumbnail Builders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-youtube-video-mastery-through-finalcut-pro-methods/"><u>[Updated] Unveiling YouTube Video Mastery Through FinalCut Pro Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chrome-boost-seamless-integration-for-chatgpt-prompts/"><u>Chrome Boost: Seamless Integration for ChatGPT Prompts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-laptop-keyboard-malfunction-how-to-identify-and-resolve/"><u>Dell Laptop Keyboard Malfunction – How to Identify and Resolve</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-notebook-key-issues-effective-repair-methods-for-a-malfunctioning-keyboard/"><u>Dell Notebook Key Issues: Effective Repair Methods for a Malfunctioning Keyboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-samsung-ssd-960-evo-drives-on-windows-pc-guide/"><u>Download & Install Samsung SSD 960 EVO Drives on Windows PC: Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-solve-windows-installer-package-complications-efficiently/"><u>Guide to Solve Windows Installer Package Complications Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-techniques-to-get-your-device-receiving-miracast-signals/"><u>New Techniques to Get Your Device Receiving Miracast Signals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-code-19-complete-guide-to-repairing-dvdcd-rom-issues-on-windows-11/"><u>Resolving Code 19: Complete Guide to Repairing DVD/CD-ROM Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-common-system-error-ve-on-windows-operating-systems/"><u>Step-by-Step Solutions for the Common 'System Error Ve' On Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-windows-camera-error-0xa00f4292/"><u>Step-by-Step Troubleshooting for Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nubia-red-magic-8s-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nubia Red Magic 8S Pro Device</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-mp4-video-compressor-tools-effortless-free-mp4-resizing-techniques/"><u>Top MP4 Video Compressor Tools: Effortless Free MP4 Resizing Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-failed-attempts-to-access-nvidia-geforce-preferences/"><u>Troubleshooting Failed Attempts to Access NVIDIA GeForce Preferences</u></a></li>
+</ul></div>
 

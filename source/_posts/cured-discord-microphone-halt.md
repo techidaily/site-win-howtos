@@ -1,7 +1,7 @@
 ---
 title: Cured Discord Microphone Halt
-date: 2024-08-23T14:06:03.890Z
-updated: 2024-08-24T14:06:03.890Z
+date: 2025-02-05T07:57:15.334Z
+updated: 2025-02-07T12:13:49.826Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6bc5e95188.jpg)
 
  If you run into the **Astro A40** **mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
 
@@ -44,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -55,9 +60,6 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
@@ -72,35 +74,31 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your audio driver
 
 This problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -142,8 +140,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +147,26 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-creating-the-perfect-biz-account-a-compreehsive-instagram-tutorial/"><u>[New] Creating the Perfect Biz Account A Compreehsive Instagram Tutorial</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ensuring-smooth-sailing-for-iphone-xs-face-recognition/"><u>[New] Ensuring Smooth Sailing for iPhone X's Face Recognition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in/"><u>[New] Understanding Your Best Fit in Virtual Reality Worlds Choosing Between Portable and Plugged In</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-boosting-in-game-charisma-pubg-voice-techniques/"><u>[Updated] In 2024, Boosting In-Game Charisma PUBG Voice Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-win11-treasure-trove-exclusive-apps-and-games-for-2024/"><u>[Updated] Win11 Treasure Trove Exclusive Apps and Games for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-bug-a-guide-through-fixing-update-code-0x800f0922-on-your-windows-11-device/"><u>Beat the Bug: A Guide Through Fixing Update Code 0X800f0922 on Your Windows 11 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-frozen-screen-solutions-for-windows-11-hang-ups/"><u>How to Fix a Frozen Screen: Solutions for Windows 11 Hang-Ups</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-issues-leading-to-ftdi-bus-system-memory-integrity-failure/"><u>Incompatibility Issues Leading to FTDI Bus System Memory Integrity Failure</u></a></li>
+<li><a href="https://discover-data.techidaily.com/ios-13-guide-mastering-screen-recording-techniques/"><u>IOS 13 Guide - Mastering Screen Recording Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-sound-issues-solve-unresponsive-microphone-problems-now/"><u>Laptop Sound Issues? Solve Unresponsive Microphone Problems Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-troublesome-0x800704cf-a-comprehensive-fix-for-your-windows-systems-network-issue/"><u>Overcome the Troublesome 0X800704CF: A Comprehensive Fix for Your Windows System's Network Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fix-youtube-sound-issues-after-updating-windows-10/"><u>Resolved: Fix YouTube Sound Issues After Updating Windows 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionary-background-swap-tools-frameswitch-prodigy-for-2024/"><u>Revolutionary Background Swap Tools FrameSwitch Prodigy for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-overview-fixing-malfunctioning-function-keys-on-your-dell-laptop-system/"><u>Solution Overview: Fixing Malfunctioning Function Keys on Your Dell Laptop System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-power-state-errors-linked-to-drivers-on-windows-system/"><u>Step-by-Step Solution for Power State Errors Linked to Drivers on Windows System</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tutorial-keeping-youtube-like-tweets-in-android-cache/"><u>Tutorial Keeping YouTube-Like Tweets in Android Cache</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-clear-sounds-addressing-the-audio-renderer-error-in-googles-video-platform-on-windows-10-systems/"><u>Unlock Clear Sounds: Addressing the Audio Renderer Error in Google's Video Platform on Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-shorts-vs-tiktok-which-one-is-better/"><u>YouTube Shorts Vs. TikTok Which One Is Better?</u></a></li>
+</ul></div>
 

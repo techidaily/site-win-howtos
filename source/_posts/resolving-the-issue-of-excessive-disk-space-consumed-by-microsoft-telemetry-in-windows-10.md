@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Excessive Disk Space Consumed by Microsoft Telemetry in Windows 10
-date: 2024-08-23T14:07:56.705Z
-updated: 2024-08-24T14:07:56.705Z
+date: 2025-02-02T10:19:52.288Z
+updated: 2025-02-07T07:41:34.334Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/03767135b547a749b9c8b697eb0f3d64de72d0e77
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf526e8ebcab-1024x552.jpg)
 
 If your desktop icons somehow disappear on your Windows 10 computer, don’t worry, you can try the tips below to fix the issue. Quickly and easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these tips
 
@@ -40,23 +44,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
@@ -78,6 +72,10 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -86,22 +84,17 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -110,17 +103,24 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus tip
 
 A missing or outdated graphics driver may also stop items from appearing properly on PC. You should make sure your graphics card driver is up to date. There are two ways to update your graphics driver: **manually** and **automatically**.
@@ -138,6 +138,10 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 Hopefully, this can help you out.
@@ -152,8 +156,6 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +163,22 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-discovering-instagrams-most-followed-ae-presets/"><u>[New] In 2024, Discovering Instagram's Most Followed AE Presets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ultimate-editing-software-listings/"><u>[Updated] In 2024, Ultimate Editing Software Listings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/st-sites-for-downloading-yt-template-videos/"><u>12 Best Sites for Downloading YT Template Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clockwise-conundrum-video-undo-for-iphone-users/"><u>Clockwise Conundrum Video Undo for iPhone Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/europes-romantic-rivals-a-deep-dive-into-spanish-and-portuguese/"><u>Europe’s Romantic Rivals: A Deep Dive Into Spanish and Portuguese</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instantly-overcome-error-code-8007000e-during-windows-updates/"><u>Instantly Overcome Error Code 8007000E During Windows Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-screen-capture-a-guide-to-taking-screenshots-on-dell-lenovo-and-macbooks-zdnet/"><u>Mastering Screen Capture: A Guide to Taking Screenshots on Dell, Lenovo & MacBooks - ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-cast-to-device-problems-on-windows-11-a-step-by-step-guide/"><u>Resolving 'Cast to Device' Problems on Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-how-to-restore-your-non-functional-windows-11-start-menu/"><u>Solving the Issue: How to Restore Your Non-Functional Windows 11 Start Menu</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-user-profile-service-setup-problems-for-windows-1011-users/"><u>Step-by-Step Guide to Fixing User Profile Service Setup Problems for Windows 10/11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-amazon-discounts-in-august-2024-find-the-greatest-offers/"><u>Top Amazon Discounts in August 2024 - Find the Greatest Offers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-cpu-consumption-from-audio-device-graph-in-windows-systems/"><u>Troubleshooting High CPU Consumption From Audio Device Graph in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-media-disconnected-issues-on-your-pc/"><u>Troubleshooting Steps: Resolving 'Media Disconnected' Issues on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/upgrade-cpu-power-why-you-need-enough-processing-strength-for-vanguard-utility/"><u>Upgrade CPU Power: Why You Need Enough Processing Strength for Vanguard Utility</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Crashes in Nier: Automata on Windows - Comprehensive Solutions"
-date: 2024-08-23T14:03:31.685Z
-updated: 2024-08-24T14:03:31.685Z
+date: 2025-02-02T01:20:25.066Z
+updated: 2025-02-06T16:57:43.039Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -71,9 +75,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -92,9 +93,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
 **Option 2–Manually**
 
@@ -103,16 +101,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Restart your computer, and see if the problem is fixed or not.
 
 #### B. Reinstall the previous driver
@@ -125,12 +120,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -149,15 +145,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -171,8 +169,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +176,17 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-navigating-the-complexities-of-gaming-recordings-with-obs/"><u>[New] In 2024, Navigating the Complexities of Gaming Recordings with OBS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-proactive-measures-for-managing-comments-on-educational-videos-for-2024/"><u>[Updated] Proactive Measures for Managing Comments on Educational Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-travel-guide-youtubes-best-vlogs/"><u>[Updated] The Ultimate Travel Guide YouTube's Best Vlogs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/arw-movavi/"><u>「網路免費ARW換版服務 - Movavi」</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-firewall-barriers-to-establish-a-secure-firefox-internet-session/"><u>Overcoming Firewall Barriers to Establish a Secure Firefox Internet Session</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-bootmgr-is-absent-issue-quickly-a-step-by-step-guide-with-images/"><u>Resolve 'BOOTMGR Is Absent' Issue Quickly - A Step-by-Step Guide with Images</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-12-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from 12</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-the-windows-10-update-problem-with-error-0x80240034/"><u>Step-by-Step Guide: Correcting the Windows 10 Update Problem with Error 0X80240034</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-your-pc-gets-stuck-on-the-windows-preparation-screen/"><u>Troubleshooting Tips for When Your PC Gets Stuck on the Windows Preparation Screen</u></a></li>
+</ul></div>
 

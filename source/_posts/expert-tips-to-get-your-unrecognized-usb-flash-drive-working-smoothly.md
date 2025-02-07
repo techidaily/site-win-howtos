@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Get Your Unrecognized USB Flash Drive Working Smoothly
-date: 2025-01-20T17:09:15.894Z
-updated: 2025-01-25T16:05:33.410Z
+date: 2025-02-05T21:53:11.525Z
+updated: 2025-02-07T02:49:37.329Z
 tags:
   - win11
   - win10
@@ -57,10 +57,14 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/airplane-mode-off.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If airplane mode is already set to Off, try turning off Bluetooth, waiting a few seconds, and then turning it back on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### in Windows 11
@@ -93,10 +97,6 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-scan-now-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-intel-wireless-bluetooth.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -106,7 +106,7 @@ Here’s how it works:
  Try reconnecting your Bluetooth keyboard. If the issue persists, there’s another fix to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Remove and re-pair your Bluetooth keyboard
@@ -123,12 +123,12 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/remove-keyboard.jpg)
 4. Click**Yes** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/remove-device-yes.jpg)
 5. Wait a few seconds. Then re-add your Bluetooth keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/add-bluetooth.jpg)
 
@@ -139,14 +139,14 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Bluetooth-Remove-device.jpg)
 3. After removing your device, click on**Add device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Bluetooth-Add-device.jpg)
 4. Click**Bluetooth** and choose your device.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Add-a-device-Bluetooth.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if your problem has been resolved. If not, move on to the next fix.
 
@@ -164,27 +164,15 @@ Check if your problem has been resolved. If not, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-support-service-properties.jpg)
 4. In the pop-up window, change the**Startup type** to**Automatic** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-startup-automatic.jpg)
 
  Once done, restart your computer and try connecting your Bluetooth keyboard again.
 
 If this method doesn’t work for you, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Run the Bluetooth troubleshooter
 
  If you’re having problems with your Bluetooth keyboard, running the Bluetooth troubleshooter might help find and fix problems for you. Here’s how to do it:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### in Windows 10
 
@@ -197,11 +185,15 @@ If this method doesn’t work for you, continue to the next fix.
 4. Under**Find and fix other problems** , select**Bluetooth** and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-troubleshooter.jpg)
 5. Follow the on-screen instructions to complete the troubleshooting.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-detecting-problems.jpg)
 
@@ -212,17 +204,25 @@ If this method doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Scroll down and click on the**Run** button next to**Bluetooth** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Bluetooth-Run.jpg)
 5. Wait for the on-screen instructions to troubleshoot your issues.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the process is finished, try to connect your Bluetooth keyboard to your computer. If the issue remains, try the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Test your Bluetooth keyboard on another computer
 
@@ -250,15 +250,21 @@ If this method doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-video-editing-with-w11s-movie-maker/"><u>[New] Master the Art of Video Editing with W11's Movie Maker</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zoom-meetings-effectively-utilizing-whiteboard-on-various-devices/"><u>[Updated] 2024 Approved Zoom Meetings Effectively Utilizing Whiteboard on Various Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-monetizing-mastery-comparing-streaming-giants-strategies/"><u>[Updated] Monetizing Mastery Comparing Streaming Giants' Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-orf-png/"><u>以 Movavi 專業力量快速在網路上自由地改變 ORF 成 PNG 格式 - 完美的影像數字化方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/capture-your-screens-like-a-pro-with-kop-nu-the-leading-screen-recorder/"><u>Capture Your Screens Like a Pro with Köp Nu – The Leading Screen Recorder</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/virtueel-converteren-van-mod-naar-wma-gratis-dienst-met-movavi/"><u>Virtueel Converteren Van MOD Naar WMA - Gratis Dienst Met Movavi</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/win11-elite-screen-recording-software-for-2024/"><u>Win11 Elite Screen Recording Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726220558769-mp4avi-movavi/"><u>オンライン無料コンバータ：MP4をAVIに変換する Movaviツクール</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-experts-blueprint-revolutionizing-your-screencasting-experience-with-mobizen-for-2024/"><u>[Updated] Expert's Blueprint Revolutionizing Your Screencasting Experience with Mobizen for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battle-royale-gaming-fixes-for-game-crashing/"><u>Battle Royale Gaming: Fixes for Game Crashing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-your-wacom-pen-functionality-in-modern-windows-environments/"><u>Expert Tips to Restore Your Wacom Pen Functionality in Modern Windows Environments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-grind-dissecting-chatgpt-4s-slow-shift-from-35/"><u>GPT's Grind: Dissecting ChatGPT-4's Slow Shift From 3.5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-nonfunctional-brightness-adjustment-in-windows-11/"><u>Guide to Resolving Nonfunctional Brightness Adjustment in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-true-story-of-youtube-earnings-and-viewer-volume-requirements/"><u>In 2024, The True Story of YouTube Earnings and Viewer Volume Requirements</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/navigating-free-vs-paid-the-ultimate-guide-to-downloading-videos-from-vimeo-for-2024/"><u>Navigating Free Vs. Paid The Ultimate Guide to Downloading Videos From Vimeo for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-windows-update-issue-error-code-0x802n4002e/"><u>Resolved: Fixing the Windows Update Issue - Error Code 0X802n4002E</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/shh-9-secrets-of-simple-stock-editing-for-2024/"><u>Shh! 9 Secrets of Simple Stock Editing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-problems-no-more-overcoming-frequent-computer-system-lock-ups/"><u>Silent Problems No More: Overcoming Frequent Computer System Lock-Ups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slash-high-cpu-usage-by-tackling-provider-host-issues/"><u>Slash High CPU Usage by Tackling Provider Host Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-hacks-to-stop-usb-devices-from-losing-connection/"><u>Tech Hacks to Stop USB Devices From Losing Connection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tier-photographic-archives-for-2024/"><u>Top Tier Photographic Archives for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a15-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A15 5G Users</u></a></li>
 </ul></div>
 

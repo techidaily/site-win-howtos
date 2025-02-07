@@ -1,7 +1,7 @@
 ---
 title: "Beat Winodws Update Error 0X8024401c: Effective Solutions for Windows 10 & 11 Users"
-date: 2024-08-23T14:09:40.610Z
-updated: 2024-08-24T14:09:40.610Z
+date: 2025-01-31T12:58:55.504Z
+updated: 2025-02-07T13:03:06.669Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
@@ -46,6 +50,10 @@ Now try to install Windows Updates now.
  4) Click**Advanced** while**Use a proxy server for you LAN** is ticked on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
 
@@ -59,6 +67,10 @@ Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Run the commands below one by one.
 
  a) Type **netsh winhttp reset proxy**  and hit **Enter** .
@@ -69,9 +81,6 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -82,6 +91,10 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -90,11 +103,6 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -107,9 +115,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -122,6 +127,10 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
@@ -132,9 +141,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
  a) Right-click on**Windows**  folder, then choose **New**  \> **Key** .
@@ -150,8 +156,9 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
@@ -159,23 +166,20 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
 After the fixes above, Windows Update should be good to go now.
 
 * [Windows Update](/tag-search/?tagId=62)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,4 +188,22 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ideal-echo-reapers-in-colleges/"><u>[New] 2024 Approved Ideal Echo Reapers in Colleges</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streaming-masterpieces-best-movie-directories-on-yt/"><u>[New] Streaming Masterpieces Best Movie Directories on YT</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-blueprint-to-youtube-success-top-tips-for-outstanding-shorts-for-2024/"><u>[New] Your Blueprint to Youtube Success Top Tips for Outstanding Shorts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-optimal-zero-dollar-valorant-sound-manipulator-alert/"><u>[Updated] Optimal Zero Dollar Valorant Sound Manipulator Alert</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-expert-review-ricoh-theta-s-unveiled-in-detail/"><u>2024 Approved Expert Review Ricoh Theta S Unveiled in Detail</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-xsplit-hub-centralized-download-and-evaluation/"><u>2024 Approved XSplit Hub Centralized Download & Evaluation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-0x80073712-error-proven-fixes-for-a-smooth-windows-10-experience/"><u>Beating the 0X80073712 Error: Proven Fixes for a Smooth Windows 10 Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-pixel-watch-against-apple-watch-series-9-which-smartwatch-ticks-all-the-boxes-for-you-techspot/"><u>Google Pixel Watch Against Apple Watch Series 9 - Which Smartwatch Ticks All The Boxes For You? | TechSpot</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-failed-update-issues-in-your-favorite-mmo-warframe/"><u>How to Overcome Failed Update Issues in Your Favorite MMO, Warframe</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721816290619-just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-battlefield-solutions-for-fixing-interruptions-in-online-gaming-arenas/"><u>Mastering the Battlefield: Solutions for Fixing Interruptions in Online Gaming Arenas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-a-non-functional-spacebar-keys-under-windows-10-environments/"><u>Step-by-Step Fixes for a Non-Functional Spacebar Keys Under Windows 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-connecting-airpods-with-windows-11-latest-techniques/"><u>Step-by-Step Troubleshooting for Connecting AirPods with Windows 11 - Latest Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-bluetooth-doesnt-appear-in-windows-device-manager/"><u>Troubleshooting Tips When Bluetooth Doesn't Appear in Windows Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-your-usb-to-hdmi-converter-wont-work-solutions-included/"><u>Why Your USB to HDMI Converter Won't Work - Solutions Included</u></a></li>
+</ul></div>
 

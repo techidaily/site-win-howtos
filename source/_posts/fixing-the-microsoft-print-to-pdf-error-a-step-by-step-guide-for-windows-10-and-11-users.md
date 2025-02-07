@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Microsoft Print to PDF Error: A Step-by-Step Guide for Windows 10 and 11 Users"
-date: 2024-08-23T14:02:22.266Z
-updated: 2024-08-24T14:02:22.266Z
+date: 2025-01-31T22:52:41.888Z
+updated: 2025-02-07T14:50:01.976Z
 tags:
   - win11
   - win10
@@ -35,9 +35,17 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -55,23 +63,14 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -84,23 +83,22 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 3: Reinstall your Bluetooth driver
 
  Always, if your Bluetooth driver is outdated or corrupted, it will cause errors. In most such cases, updating your Bluetooth driver can fix the error.
@@ -116,8 +114,9 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
  Alternatively, you can use a driver tool to help you. We highly recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to  automatically recognize your system and find the correct drivers for you. With its help, you can say goodbye to driver headaches and delays forever.
@@ -131,13 +130,18 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -157,8 +161,6 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +168,26 @@ thumbnail: https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-economical-drones-reviewed-best-under-a-hundred-bucks/"><u>[New] Economical Drones Reviewed Best Under a Hundred Bucks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-gamers-archive-6-innovative-approaches-for-recording-games-for-2024/"><u>[New] The Gamers' Archive 6 Innovative Approaches for Recording Games for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-access-your-favorites-anytime-the-leading-6-free-video-downloaders/"><u>[Updated] Access Your Favorites Anytime The Leading 6 Free Video Downloaders</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-video-editing-apps-for-youtube-creators/"><u>[Updated] In 2024, Essential Video Editing Apps for YouTube Creators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-power-behind-chatgpt-why-its-code-interpreter-matters/"><u>Decoding the Power Behind ChatGPT: Why Its Code Interpreter Matters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-inaccessibility-of-desktop-at-system-profile-folder-in-windows/"><u>Fixing Inaccessibility of Desktop at System Profile Folder in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-mysterious-vanishing-mouse-pointer-in-windows-10-a-step-by-step-guide/"><u>Fixing the Mysterious Vanishing Mouse Pointer in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-microsoft-store-running-again-solutions-for-persistent-launch-issues/"><u>Getting Microsoft Store Running Again: Solutions for Persistent Launch Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-a79-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo A79 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205727483-microsoft-compatibility-telemetry-eating-up-too-much-disk-space-on-windows-10-solutions-and-fixes-available-now/"><u>Microsoft Compatibility Telemetry Eating Up Too Much Disk Space on Windows 10 – Solutions and Fixes Available Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-in-a-portable-world/"><u>Navigating ChatGPT in a Portable World</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-the-topest-free-sounds-and-effects-sites/"><u>New The Ultimate Guide to the Topest Free Sounds & Effects Sites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revolutionize-your-room-strategies-to-record-clear-sound-for-2024/"><u>Revolutionize Your Room Strategies to Record Clear Sound for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/savor-playtime-the-essential-guide-to-high-quality-offline-ios-games-for-2024/"><u>Savor Playtime – The Essential Guide to High-Quality Offline iOS Games for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-restoring-functionality-to-a-non-responsive-lenovo-keyboard/"><u>Step-by-Step Solutions: Restoring Functionality to a Non-Responsive Lenovo Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-11-issues-mastering-sfc-and-dism-repair-tools-for-optimal-performance/"><u>Troubleshoot Windows 11 Issues: Mastering SFC and DISM Repair Tools for Optimal Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cache-problems-fix-errcachemiss-error-on-chrome/"><u>Troubleshooting Cache Problems - Fix ERR_CACHE_MISS Error on Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-microsoft-hdmi-wireless-dock-with-windows-10-a-step-by-step-guide/"><u>Troubleshooting Your Microsoft HDMI Wireless Dock with Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-behind-spontaneous-pc-reboots-on-windows-11/"><u>Unraveling the Mystery Behind Spontaneous PC Reboots on Windows 11</u></a></li>
+</ul></div>
 

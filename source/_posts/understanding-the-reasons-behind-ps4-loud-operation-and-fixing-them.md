@@ -1,7 +1,7 @@
 ---
 title: Understanding the Reasons Behind PS4 Loud Operation & Fixing Them
-date: 2024-08-23T14:08:30.919Z
-updated: 2024-08-24T14:08:30.919Z
+date: 2025-01-31T10:22:14.798Z
+updated: 2025-02-07T07:44:08.438Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/2e369c90b98435218baf4d297cfbe94e377c61af5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update the drivers on your computer  
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -54,11 +58,23 @@ thumbnail: https://thmb.techidaily.com/2e369c90b98435218baf4d297cfbe94e377c61af5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-813.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Remove any peripherals from your computer  
 
@@ -68,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/2e369c90b98435218baf4d297cfbe94e377c61af5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Reset CMOS to the default settings  
 
  Corrupted CMOS can cause booting errors, such as the error “computer repeatedly turns on and off”. To fix the problem, you can try to reset CMOS to the default settings.
@@ -94,22 +107,15 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
 
  3) On your keyboard,**use the narrow key** to select**Yes** to save the changes.  
@@ -118,9 +124,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
  5)**Restart your computer** and check to see if the problem is resolved.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Check PSU (Power Supply Unit)  
 
  If the PSU short circuits, the computer will shut down automatically for hardware safety. So check the PSU is working properly. You can replace the PSU with a good PSU and see if the problem is resolved. With the new PSU, if the problem is not resolved, it means the problem is not caused by the PSU.  
@@ -130,9 +133,9 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 6: Check the fan  
 
  The fan is one of the key components that makes computer to run properly. If it doesn’t work, the computer can overheat easily. Computer overheating can cause serious problems. So the system will try to prevent computer overheating. If the fan doesn’t work, the computer can shut down automatically to prevent the internal heating damaging the computer.
@@ -155,9 +158,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -168,8 +168,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +175,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-the-art-of-iphone-macro-and-micro-imaging/"><u>[New] In 2024, Mastering the Art of iPhone Macro & Micro Imaging</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-your-lenovo-display-with-ease-for-2024/"><u>[Updated] Capturing Your Lenovo Display with Ease for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/command-chatgpt-with-ease-top-5-voice-interaction-techniques/"><u>Command ChatGPT with Ease: Top 5 Voice Interaction Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-gptplus-membership-benefits/"><u>Evaluating GPT+ Membership Benefits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solution-for-error-driver-failed-due-to-incorrect-user-settings/"><u>Expert Solution for Error 'Driver Failed Due to Incorrect User Settings'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-latency-in-key-presses-a-guide-for-windows-11-users/"><u>Fixing Latency in Key Presses: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-0x8070002-trouble-during-windows-updates/"><u>How To Overcome The 0X80#70002 Trouble During Windows Updates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-convert-spoken-words-into-text-effortlessly-using-ms-word/"><u>In 2024, Convert Spoken Words Into Text Effortlessly Using MS Word</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210690800-9780760377642-in-focus-psychic-development/"><u>In Focus Psychic Development | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/recover-your-vanished-desktop-shortcuts-in-windows-nx-a-comprehensive-guide/"><u>Recover Your Vanished Desktop Shortcuts in Windows nX: A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/score-big-savings-premium-deals-on-samsung-electronics-this-prime-day/"><u>Score Big Savings: Premium Deals on Samsung Electronics This Prime Day</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-methods-to-repair-unrecognized-usb-storage-devices/"><u>Simple Methods to Repair Unrecognized USB Storage Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-fixing-your-nonfunctional-dell-bluetooth-keyboard/"><u>Solution: Fixing Your Nonfunctional Dell Bluetooth Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-techniques-to-overcome-windows-10-taskbar-hitches-an-in-depth-guide/"><u>Top Techniques to Overcome Windows 10 Taskbar Hitches: An In-Depth Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-voyages-free-thematic-tools-for-youtube-for-2024/"><u>Visual Voyages Free Thematic Tools for YouTube for 2024</u></a></li>
+</ul></div>
 

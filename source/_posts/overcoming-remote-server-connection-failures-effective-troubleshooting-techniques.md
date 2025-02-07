@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Remote Server Connection Failures: Effective Troubleshooting Techniques"
-date: 2024-08-23T14:05:21.726Z
-updated: 2024-08-24T14:05:21.726Z
+date: 2025-02-06T12:34:07.378Z
+updated: 2025-02-07T13:11:19.319Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your USB drivers
 
  This problem may occur if you are using the wrong or outdated USB drivers. So you should update your USB driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -54,18 +51,23 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -77,21 +79,22 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
@@ -112,20 +115,18 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
 ---
@@ -141,8 +142,6 @@ To make sure you’ve this setting disabled:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +149,16 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/rom-video-to-music-youtube-to-mp3-on-macos-for-2024/"><u>[New] From Video to Music YouTube to MP3 on MacOS for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-fatal-errors-a-users-manual-for-correcting-dxgkrnl-issues-on-windows/"><u>Defeating Fatal Errors: A User's Manual for Correcting DXGKRNL Issues on Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/gopro-vs-yi-who-will-lead-the-high-quality-action-race/"><u>GoPro Vs. YI Who Will Lead the High-Quality Action Race?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-shared-surface-video-chronicling/"><u>In 2024, Shared Surface Video Chronicling</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-missing-vcruntime140dll-challenge-on-windows-systems-diy-fixes/"><u>Overcoming the Missing VCRUNTIME140.dll Challenge on Windows Systems [DIY Fixes]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-scanner-printer-communication-hurdles-epson/"><u>Resolving Scanner-Printer Communication Hurdles (Epson)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/supercharge-your-chinese-processor-asus-latest-innovation-in-overclocking-boosts-the-kx-7000-series-by-an-impressive-25/"><u>Supercharge Your Chinese Processor: Asus' Latest Innovation in Overclocking Boosts the KX-7000 Series by an Impressive 25%</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-assassins-creed-mirage-failure-to-start/"><u>Troubleshooting Guide: Resolving Issues with Assassin's Creed Mirage Failure to Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-dvd-player-issues-in-windows/"><u>Troubleshooting: Fixing DVD Player Issues in Windows</u></a></li>
+</ul></div>
 

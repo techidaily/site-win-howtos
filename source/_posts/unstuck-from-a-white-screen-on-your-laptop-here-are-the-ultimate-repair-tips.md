@@ -1,7 +1,7 @@
 ---
 title: Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips
-date: 2025-01-22T17:56:02.064Z
-updated: 2025-01-25T16:08:29.816Z
+date: 2025-02-02T10:28:27.927Z
+updated: 2025-02-06T16:54:02.679Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Make sure your power icon is turned on
 
 1) Right-click on the blank area of taskbar and choose **Settings**.  
@@ -42,14 +38,14 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Make sure **Power** is on.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
@@ -57,17 +53,13 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Make sure**Power**icon is enabled.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
@@ -90,13 +82,17 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -107,6 +103,10 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -125,15 +125,21 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-harmonious-audio-pathway-guidebook-for-2024/"><u>[Updated] Harmonious Audio Pathway Guidebook for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/au-cddvd/"><u>無限量自由發佈 - AU CD/DVD移動流傳</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/m4a-movavi-3gppm4a/"><u>在線即時 M4A 轉換服務 – 以 Movavi 技術支持的 3GPP到M4A 自動化過程</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-audio-converter-mp4-to-aac-by-movavi/"><u>Free Online Audio Converter: MP4 to AAC by Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hue-adjustments-making-your-gopro-footage-pop-for-2024/"><u>Hue Adjustments Making Your GoPro Footage Pop for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y27-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y27 5G</u></a></li>
-<li><a href="https://fox-http.techidaily.com/perfecting-your-shots-top-tripods-for-content-creators-for-2024/"><u>Perfecting Your Shots Top Tripods for Content Creators for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/professional-techniques-for-mobile-and-dslr-igtv-mastery-for-2024/"><u>Professional Techniques for Mobile & DSLR IGTV Mastery for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transform-mkv-videos-into-mp4-streaming-for-free-using-movavis-website-converter/"><u>Transform MKV Videos Into MP4 Streaming for Free Using Movavi's Website Converter</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-7-unboxing-excellence-strategies/"><u>[New] 2024 Approved Top 7 Unboxing Excellence Strategies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-social-streaming-downloading-videos-and-turning-them-to-audio/"><u>[New] In 2024, Social Streaming Downloading Videos & Turning Them to Audio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-8-cam-enhancers-for-clear-broadcasting/"><u>[Updated] Premium 8 Cam Enhancers for Clear Broadcasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-switching-from-snippet-to-live-play-in-yt/"><u>[Updated] Switching From Snippet to Live Play in YT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/experience-smooth-controls-xbox-one-on-pc/"><u>Experience Smooth Controls: Xbox One on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-samsung-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-diagnostics-policy-service-not-running-problems/"><u>Guide to Fixing 'Diagnostics Policy Service Not Running' Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-razr-40-ultra-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Razr 40 Ultra Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-trouble-fixes-for-input-device-problems-at-startup/"><u>Keyboard Trouble? Fixes for Input Device Problems at Startup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-restore-battery-charging-functionality-on-your-laptop/"><u>Quick Fixes to Restore Battery Charging Functionality on Your Laptop</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-c12-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia C12 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-collection-of-the-11-most-uplifting-movies-for-a-positive-mindset/"><u>The Definitive Collection of the 11 Most Uplifting Movies for a Positive Mindset</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-itel-a60s-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Itel A60s for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210018626-troubleshooting-apex-legends-simple-fixes-for-the-anti-cheat-error-solved/"><u>Troubleshooting Apex Legends: Simple Fixes for the Anti-Cheat Error - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-nier-automata-pc-issues-for-smooth-gaming-experience/"><u>Troubleshooting Nier: Automata PC Issues for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-windows-11-on-startup-efficient-troubleshooting-tips/"><u>Unstick Your Windows 11 on Startup: Efficient Troubleshooting Tips</u></a></li>
 </ul></div>
 

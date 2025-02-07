@@ -1,7 +1,7 @@
 ---
 title: Master Your Game Security - Install and Configure BattlEye Without a Glitch
-date: 2024-08-23T14:09:38.343Z
-updated: 2024-08-24T14:09:38.343Z
+date: 2025-02-02T20:58:28.232Z
+updated: 2025-02-07T04:19:51.943Z
 tags:
   - win11
   - win10
@@ -45,6 +45,14 @@ To do so:
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then see if the Local Security Authority Protection is still off.
 
  If so, please download the installation file for KB5007651 from[here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB5007651) , then double-click the installation file to get it installed.
@@ -54,6 +62,10 @@ Then see if the Local Security Authority Protection is still off.
  If the “Local Security protection is off” notification is still there when you manually install the KB5007651 update, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Modify Registry Editor
 
@@ -65,31 +77,26 @@ Then see if the Local Security Authority Protection is still off.
 2. On your keyboard, press the**Windows** key and the**R** key together. Type**regedit** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location:`**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa**`  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
 6. Restart your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Configure Group Policy Editor
 
  You can also try to modify your Group Policy Editor for the Local Security Authority protection to be turned on again. To do so:
@@ -98,9 +105,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. On your keyboard, press the**Windows** key and the**R** key at the same time. Type**gpedit.msc** and hit**Enter** . (If you see “ _Windows cannot find ‘gpedit.msc’. Make sure you typed the name correctly, and then try again._ “, please refer to this post first:[ **\[Fixed\] gpedit.msc Not Found on Windows Home** ](https://tools.techidaily.com/drivereasy/download/)  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-30.png)
 3. Go to **Computer Configuration\\Administrative Templates\\System\\Local Security Authority** . Double-click**Configure LSASS to run as a protected process** on the right side.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
@@ -120,11 +124,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -141,8 +151,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +158,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-feature-music-on-instant-stories-for-2024/"><u>[New] How to Feature Music on Instant Stories for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-valorant-video-thumbnail-artistry-for-2024/"><u>[New] The Ultimate Guide to Valorant Video Thumbnail Artistry for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-dissecting-the-difference-360-video-and-vr-filmmaking/"><u>[Updated] In 2024, Dissecting the Difference 360 Video and VR Filmmaking</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-best-mac-video-software-alternatives-to-bandicam/"><u>2024 Approved Best Mac Video Software Alternatives to Bandicam</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-discovering-the-creme-de-la-gaming-crowd-on-tiktok/"><u>2024 Approved Discovering the Crème De La Gaming Crowd on TikTok</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-common-errors-top-5-strategies-to-restore-touchscreen-functionality-on-windows-11/"><u>Avoid Common Errors: Top 5 Strategies to Restore Touchscreen Functionality on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solution-reviving-your-hp-laptops-camera-under-windows-10-compatibility/"><u>DIY Solution: Reviving Your HP Laptop's Camera Under Windows 10 Compatibility</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-repairing-an-hp-laptop-with-a-defective-usb-port/"><u>Expert Tips on Repairing an HP Laptop with a Defective USB Port</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-malfunctioning-mic-on-windows-11/"><u>How to Fix a Malfunctioning Mic on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-11-night-mode-problems-step-by-step-solution/"><u>How to Resolve Windows 11 Night Mode Problems – Step-by-Step Solution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-y56-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-the-challenges-of-library-loading-fixing-loadlibrary-failed-and-error-code-n/"><u>Navigating the Challenges of Library Loading - Fixing 'LoadLibrary Failed' And Error Code N</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-toms-hardware-informed-reviews-for-savvy-gadget-enthusiasts/"><u>Navigating Tom's Hardware: Informed Reviews for Savvy Gadget Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-light-adjustment-in-windows-os/"><u>No Light Adjustment in Windows OS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfecting-presence-zooming-past-background-imperfections-for-2024/"><u>Perfecting Presence Zooming Past Background Imperfections for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-audio-glitches-speaker-issues-on-windows-operating-systems-solved/"><u>Resolving Audio Glitches: Speaker Issues on Windows Operating Systems Solved</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-v29e-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo V29e Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-buildings-wont-load-in-pubg-gaming-smooth-as-ever/"><u>Troubleshoot and Fix 'Buildings Won't Load' In PUBG - Gaming Smooth as Ever</u></a></li>
+</ul></div>
 

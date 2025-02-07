@@ -1,7 +1,7 @@
 ---
 title: Local Safeguard Protocols Need Activation – Action Steps Inside
-date: 2024-08-23T14:02:42.689Z
-updated: 2024-08-24T14:02:42.689Z
+date: 2025-02-04T12:54:36.531Z
+updated: 2025-02-07T12:53:06.452Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Local Security Authority Protection is off
 
  No need to worry if your Local Security Authority Protection is toggled off: in most cases, it was a UI bug with a certain Windows update patch, meaning that it’s not off, just appears to be off, and you can install another update patch to get it fixed. In other rare cases, you can change your computer settings to get it enabled again. Read on and see how you can fix the Local Security Authority Protection being off problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes to enable the Local Security Authority Protection
 
  As mentioned, in most cases, your Local Security Authority is off because of a UI bug with a Windows patch, so the first method should be enough to help. If it doesn’t, please move on to methods 2 and 3.
@@ -30,6 +34,10 @@ Local Security Authority Protection is off
 3. **[Configure Group Policy Editor](#m3)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install Windows Update patch KB5007651
 
@@ -43,6 +51,11 @@ To do so:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 Then see if the Local Security Authority Protection is still off.
@@ -55,10 +68,6 @@ Then see if the Local Security Authority Protection is still off.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 2\. Modify Registry Editor
 
  If you’re still seeing the Local Security Authority protection off message even when you’ve turned it ON, please do the following to modify your Registry Editor:
@@ -69,21 +78,12 @@ Then see if the Local Security Authority Protection is still off.
 2. On your keyboard, press the**Windows** key and the**R** key together. Type**regedit** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location:`**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa**`  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
 6. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
@@ -99,11 +99,17 @@ Then see if the Local Security Authority Protection is still off.
 3. Go to **Computer Configuration\\Administrative Templates\\System\\Local Security Authority** . Double-click**Configure LSASS to run as a protected process** on the right side.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then see if your Local Security Authority protection can be toggled back on.
 
@@ -119,12 +125,17 @@ Then see if the Local Security Authority Protection is still off.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -141,8 +152,6 @@ Then see if the Local Security Authority Protection is still off.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +159,18 @@ Then see if the Local Security Authority Protection is still off.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essentials-checklist-for-evaluating-vidma-recorder/"><u>[Updated] In 2024, Essentials Checklist for Evaluating Vidma Recorder</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-discover-which-digital-coins-are-compatible-with-our-utilitys-verification-feature-insights-by-yl-computing/"><u>1. Discover Which Digital Coins Are Compatible with Our Utility's Verification Feature - Insights by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-update-errors-on-windows-10-a-comprehensive-guide-to-overcoming-error-0xc1900208/"><u>Beating Update Errors on Windows 10: A Comprehensive Guide to Overcoming Error 0xC1900208</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-notch-pc-gear-with-toms-hardware-reviews/"><u>Discover Top-Notch PC Gear with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-rd-live-tv-streaming-on-kodi-using-the-stable-shadow-plugin-installation-tutorial/"><u>Effortless RD Live TV Streaming on Kodi Using the Stable Shadow Plugin Installation Tutorial</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/fast-fixes-removing-restrictions-from-your-lg-dvd-players-region-code/"><u>Fast Fixes: Removing Restrictions From Your LG DVD Player's Region Code</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-upgradable-windows-10-solutions-and-tips/"><u>How to Fix a Non-Upgradable Windows 10: Solutions & Tips</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-from-observing-to-involved-the-tiktok-life-journey/"><u>In 2024, From Observing to Involved The TikTok Life Journey</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Motorola Moto G14</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-reduce-svchostexe-cpu-consumption-on-windows-11-systems/"><u>Step-by-Step Solution to Reduce svchost.exe CPU Consumption on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202362511-troubleshooting-a-nonfunctional-dell-wireless-keypad-solutions-inside/"><u>Troubleshooting a Nonfunctional Dell Wireless Keypad – Solutions Inside!</u></a></li>
+</ul></div>
 

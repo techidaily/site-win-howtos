@@ -1,7 +1,7 @@
 ---
 title: How to Enhance Typing Speed by Fixing a Lazy Keyboard Quickly
-date: 2025-01-20T17:13:37.072Z
-updated: 2025-01-25T16:48:17.900Z
+date: 2025-01-31T00:51:58.535Z
+updated: 2025-02-06T16:16:37.363Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -50,10 +50,6 @@ Here’s how to reinstall the keyboard driver:
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -103,11 +99,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -118,13 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -135,7 +139,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,22 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-elevating-media-quality-from-xmlssattml-to-premium-srt-for-2024/"><u>[New] Elevating Media Quality From XML/SSA/TTML to Premium SRT for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-pioneering-film-making-skills-through-youtube-videos/"><u>[New] In 2024, Pioneering Film Making Skills Through YouTube Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-skip-unwanted-podcast-advice-on-the-spotify-app/"><u>[New] Skip Unwanted Podcast Advice on the Spotify App</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-5-leading-apps-to-create-professional-youtube-intros/"><u>[Updated] 2024 Approved 5 Leading Apps to Create Professional YouTube Intros</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-case-study-approach-learning-from-successful-market-research-examples/"><u>[Updated] Case Study Approach Learning From Successful Market Research Examples</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prevent-washed-out-iphone-hd-videos-with-effective-premiere-pro-techniques/"><u>[Updated] Prevent Washed-Out iPhone HD Videos with Effective Premiere Pro Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comment-decouper-des-clips-dans-une-video-avec-le-logiciel-vlc/"><u>Comment Découper Des Clips Dans Une Vidéo Avec Le Logiciel VLC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-opus-files-to-mp3-for-free-with-movavis-web-based-converter-service/"><u>Convert OPUS Files to MP3 for Free with Movavi's Web-Based Converter Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decouvrez-les-12-meilleures-applications-denregistrement-voip-pour-skype-sous-mac-selectionne-par-movavi/"><u>Découvrez Les 12 Meilleures Applications D'enregistrement VoIP Pour Skype Sous Mac, Sélectionné Par Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-exceptional-gratuitous-and-premium-whatsapp-emoji-design-tools-top-selections/"><u>Discover Exceptional Gratuitous & Premium WhatsApp Emoji Design Tools - Top Selections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-hangouts-ingangstappen-6-kostenloze-methoden-via-movavi/"><u>Google Hangouts Ingangstappen: 6 Kostenloze Methoden via Movavi</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-to-easily-transform-a-pdf-table-data-set-into-an-excel-spreadsheet-three-proven-strategies/"><u>How to Easily Transform a PDF Table Data Set Into an Excel Spreadsheet: Three Proven Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maximize-savings-with-movavi-kortingscode-exclusive-deals-inside/"><u>Maximize Savings with Movavi-Kortingscode – Exclusive Deals Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tapez-vous-des-idees-transformez-votre-video-rapidement-avec-les-meilleurs-logiciels-de-montage/"><u>Tapez Vous Des Idées ? - Transformez Votre Vidéo Rapidement Avec Les Meilleurs Logiciels De Montage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726223452341-mka-mp3/"><u>무료 MKA MP3 변환 - 컴퓨터, 스마트폰에서 사용하는 최고의 툴</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-beyond-ustream-an-examination-of-video-streaming-for-2024/"><u>[New] Beyond Ustream An Examination of Video Streaming for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-best-screen-record-apps-for-classroom-use/"><u>[Updated] In 2024, The Best Screen Record Apps for Classroom Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-tempo-trackers-guide-accessible-free-tools/"><u>2024 Approved The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-80-pro-straight-screen-edition-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 80 Pro Straight Screen Edition System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-a-non-responsive-left-click-on-computer-mice/"><u>Easy Fixes for a Non-Responsive Left Click on Computer Mice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-v2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic V2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/how-to-legally-save-youtube-content-tips-and-tricks-without-a-subscription/"><u>How to Legally Save YouTube Content: Tips and Tricks without a Subscription</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-professional-recommendations-superior-voice-modification-tools/"><u>In 2024, Professional Recommendations Superior Voice Modification Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209309001-livekernelevent-117-trouble-heres-how-you-can-fix-it/"><u>LiveKernelEvent 117 Trouble? Here's How You Can Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastery-over-kernel32-faults/"><u>Mastery over Kernel32 Faults</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/precision-in-upload-a-deep-dive-into-youtube-video-size-settings-for-2024/"><u>Precision in Upload A Deep-Dive Into YouTube Video Size Settings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-how-to-fix-an-unresponsive-google-chrome-instance/"><u>Resolving the Issue: How to Fix an Unresponsive Google Chrome Instance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-malfunctioning-keys-preceding-user-logon/"><u>Solution for Malfunctioning Keys Preceding User Logon</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-getting-microsoft-print-to-pdf-feature-up-and-running-on-windows-1011/"><u>Step-by-Step: Getting Microsoft Print to PDF Feature Up and Running on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-no-hardware-recognized-when-installing-windows-7/"><u>Troubleshooting: No Hardware Recognized When Installing Windows 7</u></a></li>
 </ul></div>
 

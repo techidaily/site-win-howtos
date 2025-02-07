@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Protection Settings: Unlocking Your File Downloading Capabilities After Update"
-date: 2024-08-23T14:02:39.102Z
-updated: 2024-08-24T14:02:39.102Z
+date: 2025-02-02T18:19:41.172Z
+updated: 2025-02-07T02:58:23.945Z
 tags:
   - win11
   - win10
@@ -45,6 +45,14 @@ To do so:
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then see if the Local Security Authority Protection is still off.
 
  If so, please download the installation file for KB5007651 from[here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB5007651) , then double-click the installation file to get it installed.
@@ -56,10 +64,9 @@ Then see if the Local Security Authority Protection is still off.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Modify Registry Editor
 
  If you’re still seeing the Local Security Authority protection off message even when you’ve turned it ON, please do the following to modify your Registry Editor:
@@ -74,19 +81,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
 6. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Configure Group Policy Editor
 
  You can also try to modify your Group Policy Editor for the Local Security Authority protection to be turned on again. To do so:
@@ -99,8 +104,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then see if your Local Security Authority protection can be toggled back on.
@@ -108,8 +114,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tip
 
  If turning on the Local Security Authority protection doesn’t help to fix your computer problems, you can always try to repair any damaged or corrupted system files, as**the integrity of Windows system files is** essential for proper operation and stability for your computer.
@@ -120,10 +127,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -141,8 +149,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +156,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ailoring-tags-to-achieve-six-figures-in-views/"><u>[New] Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-perfect-your-recordings-the-ultimate-guide-to-adobe-presenter/"><u>[Updated] 2024 Approved Perfect Your Recordings The Ultimate Guide to Adobe Presenter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>[Updated] 2024 Approved The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5-strategies-for-lowering-desktop-window-managers-graphics-load-on-windows-11-and-10/"><u>5 Strategies for Lowering Desktop Window Manager's Graphics Load on Windows 11 & 10</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-script-failures-civilization-v-edition/"><u>Addressing Script Failures, Civilization V Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/an-in-depth-look-at-copyright-and-sharing-tunes-on-instagram-for-2024/"><u>An In-Depth Look at Copyright and Sharing Tunes on Instagram for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clarify-your-view-fixing-fuzzy-typography-on-windows-11-systems/"><u>Clarify Your View: Fixing Fuzzy Typography on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-computer-solutions-to-the-missing-or-lost-os-problem/"><u>Fix Your Computer: Solutions to the 'Missing or Lost OS' Problem</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/german-vs-french-which-language-is-more-useful-to-learn/"><u>German Vs French: Which Language Is More Useful To Learn</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-13-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 13 Pro Max and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/leading-gallery-archive-services/"><u>Leading Gallery Archive Services</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/most-effective-wireless-range-enhancers/"><u>Most Effective Wireless Range Enhancers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-your-system-fixing-svchostexes-extreme-cpu-usage-on-windows-11/"><u>Optimize Your System: Fixing Svchost.exe's Extreme CPU Usage on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-game-interruptions-why-your-pc-powers-down-while-running-windows-11107818/"><u>Overcoming Game Interruptions: Why Your PC Powers Down While Running Windows 11/10/7/8.1/8?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-hurdles-in-microsofts-windows-1903-update-process/"><u>Resolved: Overcoming Hurdles in Microsoft's Windows 1903 Update Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revitalizing-your-pc-with-sfc-and-dism-tools-in-windows-11/"><u>Revitalizing Your PC with SFC & DISM Tools in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-windows-10-touch-screen-problems-using-these-5-essential-tips/"><u>Solve Your Windows 10 Touch Screen Problems Using These 5 Essential Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-valorant-lag-implement-system-reinitiation/"><u>Solving Valorant Lag: Implement System Reinitiation</u></a></li>
+</ul></div>
 

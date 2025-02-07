@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: Why Won't My Laptop Mouse Respond Anymore?"
-date: 2024-08-23T14:07:18.090Z
-updated: 2024-08-24T14:07:18.090Z
+date: 2025-02-02T10:57:58.144Z
+updated: 2025-02-07T07:51:12.642Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
 
  In this post, we’ll show you some easy and effective solutions to fix the USB mouse not working problem on your Windows laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause of USB Mouse Not Working
 
 * **Hardware Damage**
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
 3. [Restart your laptop](#fix3)
 4. [Update your mouse driver](#fix4)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Check for hardware damage
 
  The very first thing is to check if there’s anything cracked or missing. Check the surface of your mouse carefully and also clean it while you’re doing so.
@@ -47,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
  If you’re sure it’s caused by hardware damage, it’s time for a total replacement, rather than having them repaired, given their relatively low prices.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Replug your USB cable or USB reciever
 
  If you’re using a wired mouse or a wireless USB mouse, when it’s not working, the first thing you can do is to check if your mouse is connected correctly to your laptop. You can try to plug your USB cable or USB receiver into the same USB port or a different one to check if it works.
@@ -57,11 +59,12 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8efba92bc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 2) Wait for 1-3 minutes.
 
 3) Plug your USB cable or USB receiver into the USB port correctly.
@@ -69,15 +72,13 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
 4) Try to use your mouse to see if works.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Restart your laptop
 
  Sometimes a simple restart can help you fix a lot of computer woes, including your mouse not working issue. So if after you reconnect your mouse to the laptop, it still keeps not working, restart your laptop, please. After getting into Windows, try your mouse to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your mouse driver
 
  If you’ve tried all of the basic troubleshooting methods but still failed to fix it, don’t be frustrated. Your USB mouse not working issue could be caused by an old, incompatible, or corrupted mouse driver.
@@ -109,8 +110,9 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Update-all-drivers-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -127,8 +129,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +136,21 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-screen-capture-high-quality-snaps-with-ease-for-2024/"><u>[New] How to Screen-Capture High-Quality Snaps with Ease for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unleashing-the-potential-of-youtube-live-in-depth-insights-into-wirecast-streaming/"><u>[Updated] 2024 Approved Unleashing the Potential of YouTube Live In-Depth Insights Into WireCast Streaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools/"><u>[Updated] In 2024, Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-compilation-of-top-7-android-adblocking-apps/"><u>2024 Approved The Ultimate Compilation of Top 7 Android AdBlocking Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/game-gridlock-pc-issues-interrupt-playtime/"><u>Game Gridlock: PC Issues Interrupt Playtime</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-apologize-and-say-sorry-in-german/"><u>How To Apologize And Say Sorry In German</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-master-the-art-of-video-sending-from-youtube-to-dailymotion/"><u>In 2024, Master the Art of Video Sending From YouTube to Dailymotion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fallout-4-performance-advanced-techniques-to-combat-lag-and-enjoy-flawless-gameplay/"><u>Mastering Fallout 4 Performance: Advanced Techniques to Combat Lag and Enjoy Flawless Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/oculus-troubleshooting-masterclass-overcoming-hardware-challenges/"><u>Oculus Troubleshooting Masterclass: Overcoming Hardware Challenges</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/podcasters-playbook-submitting-to-apple-for-2024/"><u>Podcaster's Playbook Submitting to Apple for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-chrome-error-a-simple-fix-for-errnamenotresolved/"><u>Solving Your Chrome Error: A Simple Fix for ERR_NAME_NOT_RESOLVED</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/step-by-step-guide-refreshing-your-windows-graphics-drivers-efficiently-gurutech-solutions/"><u>Step-by-Step Guide: Refreshing Your Windows Graphics Drivers Efficiently - GuruTech Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-completing-windows-11-v1803-a-guide-for-overcoming-feature-update-issues/"><u>Successfully Completing Windows 11 v1803: A Guide for Overcoming Feature Update Issues</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-10-animation-software-for-creating-stunning-animated-videos/"><u>Updated In 2024, Top 10 Animation Software for Creating Stunning Animated Videos</u></a></li>
+</ul></div>
 

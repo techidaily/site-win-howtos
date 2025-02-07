@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunction? Here's the Solution!
-date: 2025-01-20T17:30:50.209Z
-updated: 2025-01-25T16:58:23.070Z
+date: 2025-02-04T10:32:23.022Z
+updated: 2025-02-07T09:49:20.599Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Read on this small guide and follow to solve the problem on your Windows.
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix the Diagnostics Policy Service is not running issue?
 
  Here’re 3 easy and helpful solutions you can try. You may not have to try them all; Just start from the top and work your way down the list until your problem is solved.
@@ -43,7 +47,7 @@ Read on this small guide and follow to solve the problem on your Windows.
 3. [Reinstall your all network adapters](#solution3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Check the Diagnostics Policy Service in the Services window
@@ -62,13 +66,13 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f83f0ff4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
 
@@ -83,6 +87,10 @@ Follow these steps：
  1) Type**cmd** in the search box from the Start menu. Then right-click on**Command Prompt** or**cmd.exe** to select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d600a418d0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type the following commands and press**Enter** after each.
 
@@ -110,25 +118,17 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d609d065a4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60ec552a4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Run the Network Diagnostics to see if it goes well. If it keeps giving you the error, install the latest driver for your network adapter then.
 
@@ -169,24 +169,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-ai-powered-virtual-patient-interactions/"><u>[New] AI-Powered Virtual Patient Interactions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discovering-8-prime-video-advancement-aids/"><u>[New] In 2024, Discovering 8 Prime Video Advancement Aids</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-influencer-insight-essential-hashtags-for-maximum-impact/"><u>[New] In 2024, Influencer Insight Essential Hashtags for Maximum Impact</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweeting-tides-the-rising-wave-of-viral-videos/"><u>[Updated] Tweeting Tides The Rising Wave of Viral Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-how-to-optimize-zoom-effectiveness-during-your-google-meet/"><u>2024 Approved How to Optimize Zoom Effectiveness During Your Google Meet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movqt-movavi-qt/"><u>手軽にフリーでMOVからQTへのデジタル変換 - Movavi QTコンバータ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/webcr2jpeg-movavi/"><u>無料WEBサービスでCR2フォーマットをJPEGへ変換する方法 - Movaviコンバーター</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambie-mov-a-avi-online-sin-coste-con-moovavi/"><u>Cambie MOV a AVI Online Sin Coste Con Moovavi</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-explore-and-review-every-application-az-screenshotters-way/"><u>In 2024, Explore & Review Every Application - AZ Screenshotter's Way</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-20-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 20 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-htc-u23-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For HTC U23</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-vivid-8-enhancements-to-transform-your-live-footage/"><u>In 2024, Vivid 8 Enhancements to Transform Your Live Footage</u></a></li>
-<li><a href="https://network-issues.techidaily.com/leap-over-delays-in-your-gaming/"><u>Leap Over Delays in Your Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-pourquoi-opter-pour-cette-solution-video/"><u>Movavi: Pourquoi Opter Pour Cette Solution Vidéo?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726227687647-mpegmp4/"><u>MPEG到MP4自由下載的移動維護 - 無限可能化</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-free-conversion-transforming-flv-and-aiff-files-without-cost-movavi/"><u>Online FREE Conversion: Transforming FLV & AIFF Files Without Cost - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/swiftly-switch-flac-audiovideo-to-mkv-using-our-complimentary-web-based-tool/"><u>Swiftly Switch FLAC Audio/Video to MKV Using Our Complimentary Web-Based Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tout-de-suite-gratuit-transformez-votre-fichier-aiff-en-format-mov-sur-linternet-avec-movieave/"><u>Tout De Suite Gratuit : Transformez Votre Fichier AIFF en Format MOV Sur L'internet Avec Movieave</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wi-fi-qt-online-movavi/"><u>무료 Wi-Fi용 QT 모항을 바꿀 수 있는 Online 도구 - Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-showdown-battle-royales-top-titles/"><u>[New] 2024 Approved Ultimate Showdown Battle Royale's Top Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-iphone-screen-exposure/"><u>[New] Perfecting iPhone Screen Exposure</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-10plus-best-instagram-video-editor-for-pc-online-android/"><u>[Updated] 10+ Best Instagram Video Editor for PC, Online, Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-vr-treadmills-review/"><u>[Updated] In 2024, Top VR Treadmills Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-resolve-your-cs-go-game-crashes-fast/"><u>Easy Steps to Resolve Your CS: GO Game Crashes Fast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-overcoming-wow-stuttering-problems/"><u>Expert Advice on Overcoming WOW Stuttering Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-audio-editing-with-ape-essential-tips-for-opening-and-manipulating-ape-files-using-an-ape-player/"><u>Exploring Audio Editing with APE: Essential Tips for Opening & Manipulating APE Files Using an APE Player</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Civi 3 Disney 100th Anniversary Edition Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-the-art-of-video-to-animation-stepwise-guide-for-efficient-gif-creation-for-2024/"><u>Learn The Art Of Video to Animation Stepwise Guide for Efficient Gif Creation for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-your-frame-rate-tips-and-tricks-for-enhanced-performance-in-ring-of-elysium/"><u>Maximizing Your Frame Rate: Tips & Tricks for Enhanced Performance in Ring of Elysium</u></a></li>
+<li><a href="https://win11.techidaily.com/neutralizing-windows-update-triggers/"><u>Neutralizing Windows Update Triggers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hdcp-limitations-on-your-display-unit-a-guide-to-enhanced-performance/"><u>Overcoming HDCP Limitations on Your Display Unit - A Guide to Enhanced Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repairing-your-lenovos-unresponsive-mouse-pad-in-different-windows-environments-1187-expert-fixes/"><u>Repairing Your Lenovo's Unresponsive Mouse Pad in Different Windows Environments (11/8/7) - Expert Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-a-computer-that-cant-close-windows-10/"><u>Solved: How to Fix a Computer That Can't Close Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-forbidden-responses-http-error-403-in-web-servers/"><u>Troubleshooting and Correcting 'Forbidden' Responses (HTTP Error ⁩ 403) in Web Servers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-power-surge-issues-in-your-usb-ports-on-windows-10/"><u>Troubleshooting Guide: Resolving 'Power Surge' Issues in Your USB Ports on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-windows-10-computer/"><u>Troubleshooting Steps for a Non-Responsive Windows 10 Computer</u></a></li>
 </ul></div>
 

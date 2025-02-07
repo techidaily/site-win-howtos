@@ -1,7 +1,7 @@
 ---
 title: How to Play Fortnite on Unsupported Graphics Cards Under Windows [Solution]
-date: 2024-08-23T14:07:19.315Z
-updated: 2024-08-24T14:07:19.315Z
+date: 2025-02-02T09:00:38.490Z
+updated: 2025-02-06T17:34:05.087Z
 tags:
   - win11
   - win10
@@ -38,15 +38,16 @@ thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7f
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 2: Disconnect the power cable for a while**
 
  First, shut down your computer. Then disconnect the power cable (If you are using a laptop computer, you can also remove the battery.). Then hold the power button down for about 10 seconds. After that, restart your computer and see if the issue resolves. This method has worked for other users who run into this problem like you.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 3: Disable driver signature enforcement**
 
 Follow the steps below:
@@ -75,27 +76,26 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) On your keyboard, press the **Del** key (It could be**Delete** on some keyboards).
 
  5) Check the box next to**Delete the driver software for this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e3212f01c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Click the **OK** button to confirm the uninstall.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **After uninstalling the drivers, update the drivers.**
 
  You can go to your PC manufacturer’s website to download the latest driver.  If you don’t have the time, patience or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -110,20 +110,18 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7eb6058aa.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 5: Disable the Third Party services**
 
  The issue can be caused by some of the Third-Party services. So disabling the Third Party services may fix the issue.
@@ -136,18 +134,23 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8db9a4f349.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  3) Go to the **Services** tab. Check the box next to**Hide all Microsoft services** then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **OK** button.
 
  5) When you are prompted to restart your computer to apply the changes, click**Restart** . Then your computer will restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dca75f671.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue resolves after the computer starts, you can try disabling the third-party services one by one to determine which service is causing the issue.
 
@@ -164,8 +167,9 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d3383654c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d4218d51d.jpg)
@@ -182,8 +186,6 @@ Follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +193,26 @@ Follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-simply-saver-top-mobile-apps-for-downloading-youtube-series-and-songs/"><u>[New] 2024 Approved Simply Saver Top Mobile Apps for Downloading YouTube Series & Songs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-a-step-by-step-approach-to-screening-on-switch/"><u>[New] A Step-by-Step Approach to Screening on Switch</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crafting-content-that-captivates-easy-to-try-videos/"><u>[New] Crafting Content That Captivates Easy-to-Try Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tactics-for-success-amidst-facebooks-algorithm-evolution/"><u>[New] In 2024, Tactics for Success Amidst Facebook’s Algorithm Evolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-icue-no-device-detected-issue/"><u>[Solved] ICUE No Device Detected Issue</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-bite-sized-content-explanation-the-lowdown/"><u>[Updated] Bite-Sized Content Explanation The Lowdown</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-brand-expression-made-simple-affordable-personalized-logo-templates-free/"><u>[Updated] Brand Expression Made Simple Affordable Personalized Logo Templates (Free)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204973628-banish-the-troublesome-0x80072efd-bug-from-your-windows-11-device-easily/"><u>Banish the Troublesome 0X80072EFD Bug From Your Windows 11 Device Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-scoop-on-prime-fire-tv-streaming-security-top-vpns-of-2024-reviewed-with-expert-insights-digital-trends/"><u>Exclusive Scoop on Prime Fire TV Streaming Security: Top VPNs of 2024 Reviewed with Expert Insights | Digital Trends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-0x80070643-windows-update-or-installation-errors-on-windows/"><u>Fix 0X80070643 Windows Update or Installation Errors on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-unresponsive-audio-settings-on-your-windows-10-pc/"><u>Guide to Fixing Unresponsive Audio Settings on Your Windows 10 PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/intuitive-tips-for-determining-your-gaming-hours-on-xbox/"><u>Intuitive Tips for Determining Your Gaming Hours on Xbox</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-update-addresses-intel-cpu-instability-rollout-begins-with-support-from-msi-and-asrock-systems/"><u>New Update Addresses Intel CPU Instability - Rollout Begins with Support From MSI and ASRock Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-restore-functionality-when-windows-1-1-volume-settings-stop-responding/"><u>Solved! How to Restore Functionality When Windows 1 1 Volume Settings Stop Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-11s-disappearing-bluetooth-fast-fixes-for-seamless-connectivity/"><u>Troubleshoot Windows 11'S Disappearing Bluetooth: Fast Fixes for Seamless Connectivity!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-msmpengineexe-excessive-resource-consumption-in-windows-11-solved/"><u>Troubleshooting MsMpEngine.exe Excessive Resource Consumption in Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-to-hdmi-connector-problems-diagnosis-and-fixes-for-common-issues/"><u>USB-to-HDMI Connector Problems - Diagnosis and Fixes for Common Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-7-startup-woes-heres-how-to-get-faster-boot-speeds/"><u>Windows 7 Startup Woes? Here's How to Get Faster Boot Speeds!</u></a></li>
+</ul></div>
 

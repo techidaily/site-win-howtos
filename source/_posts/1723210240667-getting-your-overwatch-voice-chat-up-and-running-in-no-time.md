@@ -1,7 +1,7 @@
 ---
 title: Getting Your Overwatch Voice Chat Up and Running in No Time!
-date: 2025-01-20T16:00:40.914Z
-updated: 2025-01-25T16:03:44.425Z
+date: 2025-02-03T13:09:05.513Z
+updated: 2025-02-07T06:06:59.416Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
@@ -52,10 +52,18 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
 
@@ -68,19 +76,11 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
@@ -88,13 +88,13 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -107,7 +107,7 @@ Here’s how:
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
@@ -116,11 +116,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check your in-game audio settings
 
@@ -157,24 +157,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/1716069072044-new-2024-approved-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>[New] 2024 Approved Apocalypse Arena Top 8 Zombie Games Showdown Ranked!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-dominating-search-results-essential-youtube-seo-tricks/"><u>[New] 2024 Approved Dominating Search Results Essential YouTube SEO Tricks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-preferred-options-superior-mac-video-capture-apps/"><u>[New] 2024 Approved Preferred Options Superior Mac Video Capture Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-flexistabilizer-the-ultimate-videographers-tool/"><u>[New] FlexiStabilizer The Ultimate Videographer's Tool</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-secret-to-imovies-edge-cropping/"><u>[Updated] 2024 Approved The Secret to iMovie’s Edge Cropping</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mkvwmv/"><u>全自動MKV/WMV形式のフリーウェブベース変換サービス - モバヴァイ・コンバート</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-immagine-png-a-jpeg-online-utilizzo-di-movavi/"><u>Conversione Gratuita Immagine PNG a JPEG Online - Utilizzo Di Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-mp4-audio-files-free-online-with-movavis-aac-encoder/"><u>Convert MP4 Audio Files Free Online with Movavi's AAC Encoder</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/en-ligne-convertissez-gratuitement-des-fichiers-3gp-en-fichiers-m4a-avec-ezyupload/"><u>En Ligne - Convertissez Gratuitement Des Fichiers 3GP en Fichiers M4A Avec ezyUpload</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/expert-techniques-for-enhanced-minecraft-zooms-for-2024/"><u>Expert Techniques for Enhanced Minecraft Zooms for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/high-quality-imagery-for-your-devices-premium-ferrari-fxx-k-desktop-backgrounds-from-yl-software/"><u>High-Quality Imagery for Your Devices: Premium Ferrari FXX K Desktop Backgrounds From YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-change-photoarw-files-to-jpeg-with-simple-methods-for-pc-and-mac-users/"><u>How to Change PhotoARW Files to JPEG with Simple Methods for PC and MAC Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-y27-4g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo Y27 4G Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kunt-u-een-pef-afbeelding-naar-jpeg-omzetten-dit-is-gratis-en-makkelijk-met-movavi/"><u>Kunt U Een PEF-Afbeelding Naar JPEG Omzetten? Dit Is Gratis en Makkelijk Met Movavi!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726221033902-mp4gif-movavi/"><u>MP4への変換：動画ファイル形式をGIFからスムーズに移行するための専門的なガイド - Movavi・モバビ</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/riporta-immagini-ad-alta-definizione-con-ai-di-winxvideo-a-risoluzioni-da-4k-fino-a-10k/"><u>Riporta Immagini Ad Alta Definizione Con AI Di WinxVideo a Risoluzioni Da 4K Fino a 10K</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transform-your-cr2-images-into-jpgs-a-comprehensive-guide-with-freebies/"><u>Transform Your CR2 Images Into JPGs: A Comprehensive Guide with Freebies!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-wmv-in-formato-avi-gratuitamente-online-con-convertiwmv/"><u>Trasforma I Tuoi File WMV in Formato AVI Gratuitamente Online Con ConvertiWMV</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/vlc-capture-tool-assessment-for-2024/"><u>VLC Capture Tool Assessment for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-list-top-15-affordable-online-image-enhancers/"><u>[New] 2024 Approved The Ultimate List Top 15 Affordable Online Image Enhancers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-drone-powerhouses-the-ultimate-heavy-lift-guide-for-2024/"><u>[Updated] Drone Powerhouses The Ultimate Heavy-Lift Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-guide-to-top-free-vectors-graphics-sites-worldwide/"><u>[Updated] In 2024, Guide to Top Free Vectors, Graphics Sites Worldwide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-path-to-stunning-instagram-posts-for-2024/"><u>[Updated] The Ultimate Path to Stunning Instagram Posts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-device-detection-issues-fixed-for-windows-11-users/"><u>Bluetooth Device Detection Issues Fixed for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-persistent-network-error-on-your-windows-pc-error-code-0x800704cf/"><u>How to Fix the Persistent 'Network Error' On Your Windows PC (Error Code: 0X800704CF)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-unstick-your-game-dealing-with-initialization-errors-in-destiny-2/"><u>How to Successfully Unstick Your Game: Dealing with Initialization Errors in Destiny 2</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repairing-a-corrupt-and-unreadable-filedirectory-solutions-and-tips/"><u>Repairing a Corrupt & Unreadable File/Directory: Solutions & Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-with-frame-rate-in-mass-effect-legendary-edition/"><u>Resolved: Issues with Frame Rate in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dxgkrnl-fatal-error-in-videos-on-your-pc/"><u>Solving the Dxgkrnl Fatal Error in Videos on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-broken-usb-connections-on-your-windows-10-or-11-device/"><u>Solving the Problem of Broken USB Connections on Your Windows 10 or 11 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stabilizing-windows-11-post-upgrade/"><u>Stabilizing Windows 11 Post-Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202103914-the-ultimate-fix-for-when-your-microsoft-surface-wont-charge-even-though-its-connected-step-by-step-solution/"><u>The Ultimate Fix for When Your Microsoft Surface Won't Charge Even Though It’s Connected: Step-by-Step Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-lava-storm-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Lava Storm 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/troubleshooting-and-correcting-windows-blue-screen-issues-with-tips-by-yl-computings-professional-solutions/"><u>Troubleshooting and Correcting Windows Blue Screen Issues with Tips by YL Computing's Professional Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-best-storytelling-schools-1-8-guide/"><u>Unveiling the Best Storytelling Schools - #1-#8 Guide</u></a></li>
 </ul></div>
 

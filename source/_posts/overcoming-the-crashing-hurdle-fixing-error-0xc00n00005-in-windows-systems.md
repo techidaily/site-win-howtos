@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Crashing Hurdle: Fixing Error 0Xc00n00005 in Windows Systems"
-date: 2024-08-23T14:05:45.991Z
-updated: 2024-08-24T14:05:45.991Z
+date: 2025-02-05T10:35:12.180Z
+updated: 2025-02-07T02:13:07.711Z
 tags:
   - win11
   - win10
@@ -23,11 +23,23 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098-windows-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _Error Code**0xc0000098**_  o_n Windows 7, Vista_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Download the installation media and save it on your computer.
 
 3) Double-click the Media Creation Tool to launch the tool.
@@ -79,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
  4) Save the changes and exit.
@@ -98,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
 
 bootrec /scanos
@@ -117,9 +127,6 @@ bootrec /rebuildbcd
 
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2: Startup Repair
 
  Startup Repair is a built-in tool to diagnose and repair some common problems on Windows. You may need to run Startup Repair (even 2 or 3 times).
@@ -129,6 +136,10 @@ bootrec /rebuildbcd
 2) Select**Repair your computer** and go to**Troubleshoot** \>**Advanced Options** \>**Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
@@ -152,9 +163,6 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -167,9 +175,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -180,18 +185,12 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Perform a clean install of Windows
 
  If neither of the fixes above did the trick, then you need to do a clean reinstall of Windows to fix your issues and return your PC to a cleaner state.
@@ -248,13 +247,18 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance or have any questions, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -270,8 +274,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -279,4 +281,20 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/beat-the-glitch-effective-solutions-for-fixing-cod-wwiis-code-4220-problem/"><u>Beat the Glitch: Effective Solutions for Fixing COD WWII's Code 4220 Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-not-empty-assertion-a-practical-guide-to-x80070091-fixes/"><u>Disabling 'Not Empty' Assertion: A Practical Guide to X80070091 Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-picture-clarity-on-non-hdcp-monitors-effective-strategies-and-tips/"><u>Enhancing Picture Clarity on Non-HDCP Monitors: Effective Strategies and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-a-cheating-free-gaming-experience-on-apex-legends-fix-those-errors/"><u>Expert Tips for a Cheating-Free Gaming Experience on Apex Legends - Fix Those Errors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-launching-a-graphics-career-strategies-and-steps/"><u>In 2024, Launching a Graphics Career Strategies and Steps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-laughs-ultimate-meme-creation-apps-for-2024/"><u>Leading Laughs Ultimate Meme Creation Apps for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-digital-landscape-safely-strategies-for-spotting-deceptive-chatgpt-scam-pages/"><u>Navigating the Digital Landscape Safely: Strategies for Spotting Deceptive ChatGPT Scam Pages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-laptop-lag-effective-ways-to-thaw-out-your-mouse-functionality/"><u>Overcoming Laptop Lag: Effective Ways to Thaw Out Your Mouse Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rethinking-the-need-for-an-iphone-16-insights-into-apple-innovation/"><u>Rethinking the Need for an iPhone 16? Insights Into Apple Innovation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-get-your-dolby-sound-working-perfectly-in-windows-11-pcs/"><u>Step-by-Step Solutions to Get Your Dolby Sound Working Perfectly in Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-the-unexpected-boot-up-of-your-computer-the-windows-11-phenomenon-explained/"><u>Understanding the Unexpected Boot-Up of Your Computer: The Windows 11 Phenomenon Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/k-youtube-tracks-anytime-without-spending-a-dime-the-best-audio-crackers-for-2024/"><u>Unlock YouTube Tracks Anytime, Without Spending a Dime The Best Audio Crackers for 2024</u></a></li>
+</ul></div>
 

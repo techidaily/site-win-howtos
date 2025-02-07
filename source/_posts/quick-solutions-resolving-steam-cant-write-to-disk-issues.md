@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Resolving 'Steam Can't Write to Disk' Issues"
-date: 2024-08-23T14:03:05.552Z
-updated: 2024-08-24T14:03:05.552Z
+date: 2025-02-03T19:48:03.123Z
+updated: 2025-02-07T03:25:22.535Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 
 So don’t give up hope. There is something you can do to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are solutions to try. You don’t have to try them all; just work your way down the list until it works.
@@ -45,9 +49,6 @@ So don’t give up hope. There is something you can do to fix it.
 
  Then restart your computer and try to open the website again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Create a new user profile
 
  You can also create a new user profile in Firefox to fix the error SEC\_ERROR\_UNKNOWN\_ISSUER.
@@ -58,27 +59,28 @@ To do so, follow the steps below:
  If Firefox in your computer is already closed, head to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12025bb9964.jpg)
 2. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Type**firefox.exe -P** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1202b7e8d62.jpg)
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
 5. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Re-launch Firefox and log in your new user profile.
 7. Open the website again to see if your problem has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable SSL scanning in your antivirus software
 
  Sometimes your antivirus program prevents your computer from visiting the websites without certificate issuer. If you want to open the website that’s giving you the SEC\_ERROR\_UNKNOWN\_ISSUER error, you’ll need to disable SSL scanning in your antivirus program.
@@ -88,17 +90,15 @@ No advertising on the website.
 1. Open Avast in your computer, and click**Menu** \>**Settings** on the upper right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200fecc285.jpg)
 2. Click**Components** on the left, and click**Customize** in the**Web Shield** section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200c760b7e.jpg)
 3. Uncheck the box next to**Enable HTTPS scanning** in the pop-up window. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12013f88f23.jpg)
 4. Click**OK** again to save your changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
 5. Re-open Firefox, and open the website again to see if it works now.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So that’s it. Hope this post helps in resolving the error**SEC\_ERROR\_UNKNOWN\_ISSUER** .
@@ -114,8 +114,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +121,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-airpods-alone-restoring-connection/"><u>[New] In 2024, Airpods Alone Restoring Connection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-monetary-side-of-podcasting-success/"><u>[New] The Monetary Side of Podcasting Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-first-steps-in-vector-art-exploring-kinds-applications-for-2024/"><u>[Updated] First Steps in Vector Art Exploring Kinds, Applications for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-obs-timeline-expertise-crafting-custom-countdown-features/"><u>[Updated] In 2024, Obs Timeline Expertise Crafting Custom Countdown Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-latest-hit-a-guide-to-todays-top-8-online-videos/"><u>[Updated] In 2024, The Latest Hit A Guide to Today's Top 8 Online Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-broken-shift-keys-expert-advice-for-optimal-functionality/"><u>Diagnose & Repair Broken Shift Keys: Expert Advice for Optimal Functionality</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-depth-iphone-training-from-high-speed-videos-to-sluggish-movements/"><u>In-Depth iPhone Training From High Speed Videos to Sluggish Movements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insight-into-autopilot-mode-discovering-the-reason-behind-self-starting-windows-11-systems/"><u>Insight Into Autopilot Mode: Discovering the Reason Behind Self-Starting Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-volume-control-problems-a-comprehensive-guide/"><u>Overcoming Windows 10 Volume Control Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-surface-pen-on-pro-4-effective-steps-to-get-it-running-again/"><u>Troubleshooting Your Surface Pen on Pro 4: Effective Steps to Get It Running Again</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-evaluating-the-stylish-and-powerful-netgear-nighthawk-rax80-the-ultimate-wi-fi-review/"><u>Unboxing and Evaluating the Stylish & Powerful Netgear Nighthawk RAX80 – The Ultimate Wi-Fi #Review</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-s18-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo S18 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/words-into-worlds-chatgpts-sixfold-creativity-catalyst/"><u>Words Into Worlds: ChatGPT’s Sixfold Creativity Catalyst</u></a></li>
+</ul></div>
 

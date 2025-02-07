@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Laptop's Non-Charging Issue: A Fast, Simple Solution"
-date: 2024-08-23T14:04:18.461Z
-updated: 2024-08-24T14:04:18.461Z
+date: 2025-02-01T20:01:46.619Z
+updated: 2025-02-07T09:57:42.946Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -63,18 +60,19 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you turn off the battery charge threshold feature, your battery should be charging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Perform a power reset on your laptop
 
@@ -94,6 +92,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  1) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **devmgmt.msc** and press **Enter** to open **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
@@ -120,13 +122,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update the driver for your battery management device
 
  This issue is also probably caused by a missing or outdated**driver for your battery management device** . Try updating the driver for your battery management device to see if this issue can be fixed.
@@ -147,9 +151,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
@@ -165,8 +166,9 @@ Your battery should then be charging.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
 * [laptop](https://tools.techidaily.com/drivereasy/download/)
@@ -178,8 +180,6 @@ Your battery should then be charging.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +187,26 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-parallel-screen-data-replay/"><u>[New] 2024 Approved Parallel Screen Data Replay</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-high-end-vision-booster-convert-with-clarity-for-2024/"><u>[New] High-End Vision Booster Convert with Clarity for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-efficiently-downloading-youtube-sections-in-minutes-for-2024/"><u>[Updated] Efficiently Downloading YouTube Sections in Minutes for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-11-proplus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme 11 Pro+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ethical-living-and-community/"><u>Ethical Living and Community</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-addressing-and-repairing-semaphore-timeout-expiration-error-0x80070079/"><u>Expert Guide: Addressing and Repairing Semaphore Timeout Expiration (Error 0X80070079)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-how-to-fix-the-computer-restart-problem-in-windows-10/"><u>Expert Tips: How to Fix the Computer Restart Problem in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-fit-ideal-companion-for-health-buffs/"><u>In-Depth Analysis of the Samsung Galaxy Fit – Ideal Companion for Health Buffs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-dll-errors-successfully-registering-missing-classes-on-windows-10/"><u>Overcoming DLL Errors: Successfully Registering Missing Classes on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rediscovering-discarded-chatgpt-talks/"><u>Rediscovering Discarded ChatGPT Talks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-when-windows-11-wont-start-a-hosted-virtual-wi-fi/"><u>Resolved: Troubleshooting Steps When Windows 11 Won't Start a Hosted Virtual Wi-Fi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-driver-power-errors-step-by-step-guide/"><u>Resolving Windows Driver Power Errors - Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/set-windows-calculator-display-to-dark/"><u>Set Windows Calculator Display to Dark</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-resolving-the-persistent-freezing-issue-with-netflix-streaming/"><u>Solved: Resolving the Persistent Freezing Issue with Netflix Streaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-unresponsive-mic-connections-on-windows-11/"><u>Step-by-Step Solution for Unresponsive Mic Connections on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-cod-ww2-bug-fixing-error-code-n4220-efficiently/"><u>Troubleshooting the COD WW2 Bug - Fixing Error Code N4220 Efficiently</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/unreal-engine-4-10/"><u>Unreal Engine 4で発生するクラッシュの原因と解消策: トップ10のテクニック</u></a></li>
+</ul></div>
 

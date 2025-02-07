@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Removal of Critical Errors: Your Ultimate Guide to Fixing Google Chrome Issues"
-date: 2024-08-23T14:04:34.889Z
-updated: 2024-08-24T14:04:34.889Z
+date: 2025-02-05T10:22:29.544Z
+updated: 2025-02-06T19:08:13.170Z
 tags:
   - win11
   - win10
@@ -44,15 +44,16 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
@@ -70,9 +71,11 @@ the picture was taken by: Article\_86
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Relaunch Chrome to take effect.
 
 ---
@@ -85,18 +88,18 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -109,20 +112,22 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## TIPS: Avoid Google Chrome Critical Error
 
 #### Be careful of spam emails
@@ -149,8 +154,6 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +161,20 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-impressive-book-trails-presented/"><u>[New] 2024 Approved Impressive Book Trails Presented</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-10-best-free-video-conferencing-services-with-screen-sharing/"><u>[New] In 2024, 10 Best Free Video Conferencing Services with Screen Sharing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-streamline-watching-facebook-videos-on-your-apple-tv-device/"><u>[New] In 2024, Streamline Watching Facebook Videos on Your Apple TV Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-entry-points-creating-an-account/"><u>[New] In 2024, Twitters' Entry Points Creating an Account</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-sky-eyes-on-the-action-dji-phantom-pro-vs-gopro-fusion/"><u>[Updated] In 2024, Sky Eyes on the Action DJi Phantom Pro VS GoPro Fusion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-your-laptops-keyboard-stops-working-on-windows-versions-11-8-and-ve-been-there-before-let-me-help-you/"><u>Effective Fixes When Your Laptop's Keyboard Stops Working on Windows Versions: 11, 8, and Ve Been There Before! Let Me Help You.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80070426-diagnosis-and-repair-strategies-for-windows-10-users/"><u>Error 0X80070426: Diagnosis and Repair Strategies for Windows 10 Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-list-of-premium-cost-free-webm-streaming-services-for-2024/"><u>Essential List of Premium, Cost-Free WebM Streaming Services for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-usb-device-not-recognized-error-in-windows-7-8/"><u>How to Fix USB Device Not Recognized Error in Windows 7/ 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-wd-my-passport-ultra-detection-issues-in-windows-environments/"><u>Resolving WD My Passport Ultra Detection Issues in Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204640851-solution-found-overcome-the-configuring-windows-hangaroo-scenario-easily/"><u>Solution Found: Overcome the 'Configuring Windows' Hangaroo Scenario Easily!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-nonfunctional-logitech-g230-headset-microphone/"><u>Step-by-Step Fixes for a Nonfunctional Logitech G230 Headset Microphone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-guide-to-handbrakes-gpu-enhanced-video-conversion/"><u>Ultimate Guide to Handbrake's GPU-Enhanced Video Conversion</u></a></li>
+</ul></div>
 

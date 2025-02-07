@@ -1,7 +1,7 @@
 ---
 title: Revive Your Computer's Sound - Fixes for Common Windows Audio Problems
-date: 2024-08-23T14:08:01.306Z
-updated: 2024-08-24T14:08:01.306Z
+date: 2025-01-31T11:42:00.041Z
+updated: 2025-02-07T12:13:54.561Z
 tags:
   - win11
   - win10
@@ -55,17 +55,29 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Set microphone as default device
 
  Chances are your mic has not been set as the default device, so the sound won’t be played through it. To set your mic as default, you should perform the following procedure:
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
@@ -77,11 +89,19 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
  5) Again, click to highlight your mic. This time, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
@@ -95,9 +115,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Fix 3: Re-enable microphone in Device Manager
 
  This is a quick yet useful solution when your internal microphone ran into glitches. Just follow the steps below to disable and then re-enable the mic device from Windows Device Manager:
@@ -106,40 +123,26 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 Now check to see your mic is back on track.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -147,6 +150,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to fire up the **Settings** window. Then, select **Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
@@ -172,8 +179,6 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +186,24 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-premium.techidaily.com/7-auf-einen-usb-stick/"><u>7 Auf Einen USB-Stick</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/begin-recording-webcam-via-vlc-for-2024/"><u>Begin Recording Webcam via VLC for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1155125-9781608682133-circle-of-stones/"><u>Circle of Stones | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-fixing-the-troublesome-update-error-0x8024401c-on-windows-11/"><u>Comprehensive Guide: Fixing the Troublesome Update Error 0X8024401c on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-windows-11s-notorious-red-screen-anomaly/"><u>Diagnosing and Repairing Windows 11'S Notorious Red Screen Anomaly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/forerunner-face-off-choosing-between-garmins-265-and/"><u>Forerunner Face-Off: Choosing Between Garmin's 265 And</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-se-2020-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone SE (2020) Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Xiaomi Redmi K70E?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-impact-and-innovations-in-vegaspro-a-2019-review/"><u>In 2024, The Impact and Innovations in VegasPro A 2019 Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-vimeo-vips-engaging-on-snapchat/"><u>In 2024, Vimeo VIPs Engaging on Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-reset-failed-errors-during-a-windows-11-system-recovery/"><u>Overcoming 'Reset Failed' Errors During a Windows 11 System Recovery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rev-up-your-soundscape-overcoming-sound-challenges-in-forza-horizon-4/"><u>Rev Up Your Soundscape: Overcoming Sound Challenges in Forza Horizon 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-surface-pen/"><u>Troubleshooting Guide: Fixing a Nonfunctional Surface Pen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolve-no-signal-screen-issue-detailed-steps/"><u>Troubleshooting Guide: Resolve 'No Signal' Screen Issue - Detailed Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-infamous-google-chrome-black-screen-tips-and-solutions/"><u>Troubleshooting the Infamous Google Chrome Black Screen: Tips & Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-1ers-0x80072efd-error-unravel-the-mystery-and-solve-it-today/"><u>Winning Against Windows 1Er’s 0X80072EFD Error: Unravel the Mystery and Solve It Today</u></a></li>
+</ul></div>
 

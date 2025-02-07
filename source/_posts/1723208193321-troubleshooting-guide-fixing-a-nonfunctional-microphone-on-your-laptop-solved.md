@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Nonfunctional Microphone on Your Laptop - Solved"
-date: 2025-01-23T18:47:43.032Z
-updated: 2025-01-25T16:31:21.412Z
+date: 2025-02-02T07:34:15.985Z
+updated: 2025-02-07T01:16:40.080Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Restart your computer
 
  Restarting computer could resolve many hardware issues instantly. So it’s recommended you try this simple fix first before moving on.
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update the driver
@@ -77,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -106,7 +102,7 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Click **System Restore** .
@@ -117,13 +113,13 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Click**Finish** .
 
@@ -132,6 +128,10 @@ If you have no idea how to do a system restore, refer steps below:
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
 
@@ -155,16 +155,19 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-finding-chrome-companions-custom-melodies/"><u>[New] Finding Chrome Companion's Custom Melodies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-top-10-screen-recorders-for-mac/"><u>[New] Premium Top 10 Screen Recorders for Mac</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-direct-linkage-bridging-youtube-and-imovie-with-music/"><u>[Updated] Direct Linkage Bridging YouTube and iMovie with Music</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-sites-for-downloading-text-aesthetics/"><u>2024 Approved Pioneering Sites for Downloading Text Aesthetics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ftdisk-system-alert-driver-compatibility-issues-lead-to-memory-integrity-offline/"><u>FTDisk System Alert: Driver Compatibility Issues Lead to Memory Integrity Offline</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-tackling-and-disabling-google-chromes-persistent-critical-error-trickery/"><u>Guide to Tackling and Disabling Google Chrome's Persistent Critical Error Trickery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-overcoming-issues-with-launching-minecraft-on-a-windows-pc/"><u>Solution: Overcoming Issues with Launching Minecraft on a Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-fixing-activation-error-of-snip-and-sketch-shortcut-windows-plus-shift-plus-s-in-windows-1011/"><u>Step-by-Step Solution for Fixing Activation Error of Snip & Sketch Shortcut (Windows + Shift + S) in Windows 10/11</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/techniques-for-effective-siri-voice-use-in-tiktok-for-2024/"><u>Techniques for Effective Siri Voice Use in TikTok for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-connection-issues-for-your-microsoft-wireless-display-adapter-on-windows-11/"><u>Troubleshooting and Fixing Connection Issues for Your Microsoft Wireless Display Adapter on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-wireless-button-tuning-guide-reverting/"><u>Xbox Wireless Button Tuning Guide (Reverting)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-untold-story-10-pro-vlc-tricks-for-better-playback/"><u>[New] In 2024, The Untold Story 10 Pro-VLC Tricks for Better Playback</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods/"><u>[Updated] 2024 Approved Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-silent-movies-to-sound-films-a-modern-tutorial-for-2024/"><u>[Updated] From Silent Movies to Sound Films A Modern Tutorial for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-effective-remedies-for-iphones-that-wont-exit-headphone-configuration/"><u>8 Effective Remedies for iPhones That Won't Exit Headphone Configuration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/baffled-by-sudden-computer-turnoffs-heres-how-you-can-fix-them/"><u>Baffled by Sudden Computer Turnoffs? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clear-explanation-on-how-to-overcome-livekernelevent-anomaly-sigma-117/"><u>Clear Explanation on How to Overcome LiveKernelEvent Anomaly Sigma-117</u></a></li>
+<li><a href="https://fox-place.techidaily.com/easy-guide-configuring-your-mouse-options-via-windows-control-panel-yl-computing/"><u>Easy Guide: Configuring Your Mouse Options via Windows Control Panel - YL Computing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-maximizing-video-success-on-youtube-long-term-creativity-commons-strategy/"><u>In 2024, Maximizing Video Success on YouTube Long-Term Creativity Commons Strategy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-why-your-ps4-controllers-arent-charging-and-how-to-get-them-back-on-track/"><u>Mastering the Fix: Why Your PS4 Controllers Aren't Charging (and How to Get Them Back on Track)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-laptop-mouse-stops-responding-a-comprehensive-guide/"><u>Quick Fixes for When Your Laptop Mouse Stops Responding – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-guide-to-modifying-files-with-trusty-installer-permission/"><u>The Guide to Modifying Files with Trusty Installer Permission</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-keyboards-in-windows-1178/"><u>Troubleshooting Non-Responsive Keyboards in Windows 11/7/8</u></a></li>
 </ul></div>
 

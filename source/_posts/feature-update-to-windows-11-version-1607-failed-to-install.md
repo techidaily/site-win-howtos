@@ -1,7 +1,7 @@
 ---
 title: Feature Update to Windows 11 Version 1607 Failed to Install
-date: 2024-08-23T14:02:33.990Z
-updated: 2024-08-24T14:02:33.990Z
+date: 2025-02-04T11:19:40.289Z
+updated: 2025-02-06T23:49:51.979Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 ## Keyboard Malfunction in Windows 11? Here's the Solution to Unresponsive Characters
 
  Did you find that some keys on your keyboard don’t work? Are you typing but the letters are not appearing on the screen? Well don’t worry, you’re not alone. This post could help you fix this vexing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -59,9 +63,6 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -73,8 +74,9 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -104,19 +106,22 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair system files
 
  Sometimes corrupted system files and hardware issues will lead to all kinds of errors. To identify the cause and repair it, you don’t have to check those components one by one but perform a quick automatic system scan.
@@ -127,16 +132,15 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -158,8 +162,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +169,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mining-marvels-5-best-map-locations-in-terraria/"><u>[New] In 2024, Mining Marvels 5 Best Map Locations in Terraria</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-bridal-bliss-filmed-alike-high-quality-8-marriage-videos-online/"><u>[Updated] In 2024, Bridal Bliss Filmed Alike High-Quality 8 Marriage Videos Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-building-your-influencer-empire-on-instagram-practical-5-step-guide/"><u>2024 Approved Building Your Influencer Empire on Instagram Practical 5-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-definitive-guide-to-acquiring-tiktok-followers-safely/"><u>2024 Approved The Definitive Guide to Acquiring TikTok Followers Safely</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-lava-blaze-pro-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Lava Blaze Pro 5G Unlock Without Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ai-chips-gain-an-edge-chinas-cxmt-develops-custom-hbm-memory-key-step-towards-self-sufficient-semiconductor-industry/"><u>AI Chips Gain an Edge: China's CXMT Develops Custom HBM Memory, Key Step Towards Self-Sufficient Semiconductor Industry</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-perfect-youtube-music-playlists-via-web-and-mobile-platforms/"><u>Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dota-2-how-to-resolve-the-changerenderingapi-error-code-2024-quickly/"><u>Dota 2: How to Resolve the ChangeRenderingApi Error Code 2024 Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-frustration-of-a-machine-that-keeps-docking-into-slumber-mode/"><u>End the Frustration of a Machine That Keeps Docking Into Slumber Mode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-the-mysterious-black-screen-error-in-your-google-chrome-browser/"><u>How to Repair the Mysterious Black Screen Error in Your Google Chrome Browser</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-t2-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo T2 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-uninterrupted-viewing-with-these-pro-solutions-for-fixing-kodis-buffers/"><u>Master Uninterrupted Viewing with These Pro Solutions for Fixing Kodi's Buffers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-lagging-keys-overcoming-input-delay-issues-in-windows-1ebwarement-edition/"><u>No More Lagging Keys: Overcoming Input Delay Issues in Windows 1Ebwarement Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/nvidia-rtx-2080-latest-driver-version-available-now-for-multiple-windows-oses/"><u>NVIDIA RTX 2080 Latest Driver Version Available Now for Multiple Windows OSes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-computer-performance-addressing-the-challenge-of-system-idle-process-cpu-spikes/"><u>Optimizing Computer Performance: Addressing the Challenge of System Idle Process CPU Spikes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-why-are-my-airpods-not-syncing-with-windows-11-tips/"><u>Step-by-Step Fixes: Why Are My AirPods Not Syncing with Windows 11? Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-nonfunctional-updown-arrows-on-your-keyboard-here/"><u>Troubleshoot Nonfunctional Up/Down Arrows on Your Keyboard Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-windows-11s-0x80072efd-mistake/"><u>Troubleshooting Guide: Resolving Windows 11'S 0X80072EFD Mistake</u></a></li>
+</ul></div>
 

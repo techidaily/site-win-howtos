@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Repairing Damaged Registry and System Files in Windows 10/11"
-date: 2024-08-23T14:09:03.475Z
-updated: 2024-08-24T14:09:03.475Z
+date: 2025-02-05T00:16:25.463Z
+updated: 2025-02-07T14:40:24.298Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Close unused apps and set high priority for PUBG
 
  Closing unused apps would probably be most people’s knee-jerk reaction to a laggy and unresponsive computer. To do so:
@@ -50,16 +47,15 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 2. Right-click on the programs you don’t need to run at the moment and click **End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c7311c0152.jpg)
 3. After that, we can also prioritize PUBG. Click the**Details** tab, right-click on your**PUBG** and click**Set priority** \>**High** .
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Start a game in PUBG and see if the lag issues have been fixes. If the issue persists, please move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Lower your game resolution
 
 Running PUBG in a lower resolution can also help in fixing lag:
@@ -69,6 +65,10 @@ Running PUBG in a lower resolution can also help in fixing lag:
 3. Start a game in PUBG and check if the lag in PUBG issues have been resolved. If yes, then congrats! But if the issues still persist, you should move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics drivers
 
@@ -88,9 +88,6 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -100,8 +97,9 @@ Running PUBG in a lower resolution can also help in fixing lag:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Change the power option and adjust for best performance
 
  By default, the power plan on our computer is often configured to **Balanced**   or **Power saver**   to conserve battery, which largely compromises the operating capacity of your graphics card and CPU.
@@ -113,14 +111,20 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -135,8 +139,6 @@ So to tweak the settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +146,24 @@ So to tweak the settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlocking-creativity-a-guide-to-instagram-story-archiving/"><u>[New] In 2024, Unlocking Creativity A Guide to Instagram Story Archiving</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-comprehensive-guide-to-macs-preferred-snippers/"><u>[Updated] 2024 Approved Comprehensive Guide to Mac's Preferred Snippers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-realme-c33-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Realme C33 2023 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-agni-2-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Agni 2 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-hot-30-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Hot 30 5G Phone?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-ralink-rt3290-hardware-driver-challenges-on-various-windows-operating-environments/"><u>Overcoming Ralink RT3290 Hardware Driver Challenges on Various Windows Operating Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-cache-mismatch-effective-solutions-for-errcachemiss-error-in-chrome/"><u>Overcoming the Cache Mismatch: Effective Solutions for ERR_CACHE_MISS Error in Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/problem-resolved-reviving-a-stalled-igfxem-system-for-optimal-operation/"><u>Problem Resolved! Reviving a Stalled IGFX_em System for Optimal Operation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-get-your-huion-pen-up-and-running-again/"><u>Quick Solutions: Get Your Huion Pen Up & Running Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-bluetooth-missing-on-your-windows-11-pc-with-these-simple-fixes/"><u>Resolve 'Bluetooth Missing' On Your Windows 11 PC with These Simple Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-windows-error-0xc0000098-a-step-by-step-guide/"><u>Solving the Mystery of Windows Error 0xC0000098: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speeding-up-windows-11-resolve-the-dragging-shutdown-problem/"><u>Speeding up Windows 11 - Resolve the Dragging Shutdown Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-lower-wudfhostexe-impact-on-cpu-performance-for-windows-11-users/"><u>Step-by-Step Guide to Lower WUDFHost.exe Impact on CPU Performance for Windows 11 Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/trouble-converting-mp4-to-wmv-on-windows-media-player-discover-a-simple-fix/"><u>Trouble Converting MP4 to WMV on Windows Media Player? Discover a Simple Fix!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-10-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark 10 5G FRP Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-top-led-strips/"><u>Unveiling the Top LED Strips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/zero-hassle-solutions-for-fixing-error-0x80070002-during-windows-updates/"><u>Zero Hassle Solutions for Fixing Error 0X80070002 During Windows Updates</u></a></li>
+</ul></div>
 

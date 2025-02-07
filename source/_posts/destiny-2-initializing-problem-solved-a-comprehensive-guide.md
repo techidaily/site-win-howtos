@@ -1,7 +1,7 @@
 ---
 title: Destiny 2 Initializing Problem Solved - A Comprehensive Guide
-date: 2024-08-23T14:09:02.286Z
-updated: 2024-08-24T14:09:02.286Z
+date: 2025-02-02T01:32:37.146Z
+updated: 2025-02-07T12:42:07.304Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
  If you get a **missing file privileges**  error while waiting for your game to install/update on **Steam** , you’re not alone. M any users have had this headache too. Luckily they have successfully tackled the problem with the following steps, so check them out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 fixes for Steam **missing file privileges**
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** . You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 4. **[Verify the integrity of game cache](#F4)**
 5. **[Give administrator privileges to Steam](#F5)**
 6. **[Want us to fix the problem for you?](#F6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: End  igfxEm Module in Task Manager
 
@@ -44,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Change the download region**
 
  Technically, the Steam content system is divided into different regions. Your Steam client auto-detects what region you’re in and sets it as default. There are times when some servers have the overload problem, hence the **missing file privileges** error. If that’s the case, you can**change the download region** to make things work again:
@@ -52,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44283e9e804.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  2) Click**Downloads** , then change**download region** in the drop-down list and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44299d19c87.jpg)
@@ -64,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 3: Repair Steam Library Folder**
 
  A corrupted / misconfigured Steam library folder might also be responsible for our **missing file privileges** error. We might have to repair the folder to see if that clears the problem:
@@ -77,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442ec7b8cb3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  3) Click**Downloads** \>**STEAM LIBRARY FOLDERS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442db2f1da4.jpg)
@@ -88,13 +90,18 @@ thumbnail: https://thmb.techidaily.com/0902934f7edf585e53199bb405b79c684665bcaad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442edecc5d9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5)Re-try the install/update and hopefully this time it succeeds.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 4: Verify the integrity of game cache**
 
 Fix 4 is to verify that our game files are not corrupt. To do so:
@@ -103,9 +110,6 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4430add5c05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click on the game that gives the error and click **Properties** .
 
  4) Click **LOCAL FILES**   \> **VERIFY INTEGRITY OF GAME CACHE** .
@@ -124,24 +128,23 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)  and **R** at the same time. Then copy & paste **%ProgramFiles(x86)%** into the box and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/programfile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Right-click on**Steam** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/steam2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Security** \>**Advanced** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44509268b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Make sure**the first two rows** are granted**Full control** . If not, click edit to change accordingly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4453eca629e.jpg)
@@ -169,8 +172,6 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +179,16 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-top-5-low-weight-action-recorders-list/"><u>2024 Approved Ultimate Top 5 Low-Weight Action Recorders List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-security-certificate-errors-in-mozilla-firefox/"><u>Comprehensive Guide to Fixing Security Certificate Errors in Mozilla Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-for-restoring-fn-key-functionality-on-dell-laptops/"><u>Comprehensive Solutions for Restoring Fn Key Functionality on Dell Laptops</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone XR | Stellar</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ideal-caption-solutions-photo-text-integration-guide/"><u>Ideal Caption Solutions Photo-Text Integration Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/incorporating-quick-access-tools-into-the-win11-taskbar-easily/"><u>Incorporating Quick Access Tools Into the Win11 Taskbar Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-computer-stalling-at-boot-up-screen-detailed-guide-to-success/"><u>Overcoming Computer Stalling at Boot Up Screen – Detailed Guide to Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-typing-obstacles-repair-your-inactive-at-symbol-key/"><u>Overcoming Typing Obstacles: Repair Your Inactive At Symbol Key</u></a></li>
+</ul></div>
 

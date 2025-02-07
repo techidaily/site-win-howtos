@@ -1,7 +1,7 @@
 ---
 title: How to Accelerate League of Legends Download Speed and Avoid Lag
-date: 2024-08-23T14:08:28.601Z
-updated: 2024-08-24T14:08:28.601Z
+date: 2025-02-03T21:43:01.259Z
+updated: 2025-02-06T16:23:10.650Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -53,10 +57,6 @@ Downloading again to see if it works.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -64,12 +64,18 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -79,12 +85,9 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -93,9 +96,6 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus: Update your drivers
 
  Missing or outdated drivers can cause many issues. Updating If you want to have better gaming experience and prevent potential problems, you’re recommended to keep your drivers update to date.
@@ -124,15 +124,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -150,8 +148,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +155,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-streamline-your-audio-experience-install-vrecorder/"><u>2024 Approved Streamline Your Audio Experience - Install VRecorder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-instructors-handbook-on-video-assisted-pedagogy/"><u>2024 Approved The Instructor's Handbook on Video-Assisted Pedagogy</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-methods-for-dealing-with-the-vcruntime140dll-is-missing-error-on-windows-systems/"><u>Effective Methods for Dealing with the 'VCRUNTIME140.dll Is Missing' Error on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-for-removing-windows-defender-history-logs/"><u>Efficient Methods for Removing Windows' Defender History Logs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-10-strategies-for-youtube-to-mpeg-conversion/"><u>In 2024, Top 10 Strategies for YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-display-problems-solved-overcoming-white-black-and-blank-screens/"><u>Laptop Display Problems Solved: Overcoming White, Black, and Blank Screens</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-peace-a-users-guide-to-ignoring-calls-from-private-numbers-on-iphones/"><u>Protect Your Peace: A User's Guide to Ignoring Calls From Private Numbers on iPhones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolution-why-steam-game-servers-are-currently-inaccessible/"><u>Resolution: Why Steam Game Servers Are Currently Inaccessible</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-overcoming-windows-update-error-0x80070652-hassles/"><u>Simple Fixes for Overcoming Windows Update Error 0X80070652 Hassles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vivavideo-review-insights-and-impressions/"><u>VivaVideo Review Insights and Impressions</u></a></li>
+</ul></div>
 

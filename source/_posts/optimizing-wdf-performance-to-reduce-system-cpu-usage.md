@@ -1,7 +1,7 @@
 ---
 title: Optimizing WDF Performance to Reduce System CPU Usage
-date: 2024-08-23T14:08:59.994Z
-updated: 2024-08-24T14:08:59.994Z
+date: 2025-02-01T13:29:47.293Z
+updated: 2025-02-07T08:22:33.242Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
  But don’t worry, here in this article, we’ll provide 3 effective workarounds for you to put this nasty problem to bed in no time…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Fixes for MsMpEng.exe Eating Up Too Much CPU
 
  You may not have to try all these fixes; just work your way down the list until the problem is resolved.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 1. **[Prevent Windows Defender from scanning its own folder](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Disable Real-Time Protection and reschedule your Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
 
@@ -53,50 +61,51 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
 
 1) On your keyboard, press **the**   **Windows logo key**  and**R** at the same time , then copy & paste **taskschd.msc** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the bottom, double-click on**Windows Defender** , then right-click on**Windows Defender Scheduled Scan** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click the**Triggers** tab >**New…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
@@ -116,17 +125,19 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Restart your computer and see if your computer runs normally now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Want us to fix the problem for you?
 
@@ -142,8 +153,6 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +160,18 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-uncovering-top-tiktok-backdrops-quickly-for-2024/"><u>[New] Uncovering Top TikTok Backdrops Quickly for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-copy-and-paste-not-working-on-windows-11/"><u>[SOLVED] Copy and Paste Not Working on Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unleashing-potential-the-easy-path-to-blending-linktree-with-tiktok-bios/"><u>[Updated] In 2024, Unleashing Potential The Easy Path to Blending Linktree with TikTok Bios</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-tele-loop-techniques-easy-endless-watching-on-television/"><u>2024 Approved Tele-Loop Techniques Easy, Endless Watching on Television</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fhss-changes-the-carrier-frequency-rapidly-according-to-a-pseudorandom-sequence-known-to-both-ends-of-the-communication-link/"><u>FHSS Changes the Carrier Frequency Rapidly According to a Pseudorandom Sequence Known to Both Ends of the Communication Link.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-ravbg64exe-realtek-hd-audio-background-process-high-cpu-usage-issue/"><u>Fix ravbg64.exe (Realtek HD Audio Background Process) High CPU Usage Issue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-mastery-guide-adobe-cloud-and-its-rival-services-for-2024/"><u>Full Mastery Guide Adobe Cloud and Its Rival Services for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unearthing-the-skies-hubsan-h501x4-quad-drone-analysis/"><u>In 2024, Unearthing the Skies Hubsan H501X4 Quad Drone Analysis</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/premier-patois-top-15-language-list/"><u>Premier Patois: Top 15 Language List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-fixing-the-video-card-restart-issue-successfully/"><u>Solution Guide: Fixing the Video Card Restart Issue Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-a-computer-thats-frozen-while-installing-windows/"><u>Step-by-Step Guide: Fixing a Computer That's Frozen While Installing Windows</u></a></li>
+</ul></div>
 

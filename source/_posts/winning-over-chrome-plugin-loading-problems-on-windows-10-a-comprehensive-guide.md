@@ -1,7 +1,7 @@
 ---
 title: Winning Over Chrome Plugin Loading Problems on Windows 10 - A Comprehensive Guide
-date: 2024-08-23T14:03:08.497Z
-updated: 2024-08-24T14:03:08.497Z
+date: 2025-02-03T19:55:02.576Z
+updated: 2025-02-06T22:42:50.407Z
 tags:
   - win11
   - win10
@@ -47,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/a964a317c56bb2fa6b9be32620f4927922fc956f5
 If this fix didn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Repair corrupted system files
 
  Broken Window Registry files may cause problems with the copy-and-paste keyboard shortcut. You can try to **run the System File Checker (sfc /scannow) to identify problematic Registry files** . Most of the time, this tool can fix minor issues for you.
@@ -63,14 +64,17 @@ If this fix didn’t help, try the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Clear clipboard history
 
  When your clipboard cache is full, you may not be able to copy-paste your files or texts. You can delete your clipboard history data to see if it solves the problem, and the steps are easy. Here’s how
@@ -79,14 +83,8 @@ If this fix didn’t help, try the next fix.
 2. Click**Clear all** to delete the clipboard history.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-09-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 If this fix didn’t help, try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -95,10 +93,11 @@ If this fix didn’t help, try the next one.
 2. Under the**Process** tab, find**Windows Explorer** , right-click and**restart** the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Restart RDP Clipboard Monitor
 
@@ -107,6 +106,10 @@ If your problem persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on your keyboard to open Task Manager.
 2. Find the**RDP Clipboard Monitor** process, right-click it and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
 
@@ -124,6 +127,10 @@ If your problem persists, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 ---
@@ -138,8 +145,6 @@ If your problem persists, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +152,24 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/op-6-youtube-outro-makers-lots-of-free-options/"><u>[New] Top 6 YouTube Outro Makers-Lots of FREE Options!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-effortless-webcam-recordings-on-hp-systems/"><u>[Updated] 2024 Approved Effortless Webcam Recordings on HP Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-navigating-the-aspect-ratio-maze-for-twitter-media/"><u>[Updated] Navigating the Aspect Ratio Maze for Twitter Media</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-framefixer-editor/"><u>2024 Approved FrameFixer Editor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5-effective-ways-to-correct-the-black-display-issue-with-google-chrome/"><u>5 Effective Ways to Correct the Black Display Issue with Google Chrome</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-premium-screen-quality-on-a-budget-with-this-top-rated-lightweight-laptop-insights/"><u>Experience Premium Screen Quality on a Budget with This Top Rated Lightweight Laptop - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-the-persistent-werfaultexe-problem-in-windows-os/"><u>Expert Fixes for the Persistent WERFault.exe Problem in Windows OS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-finesse-enchanting-the-heart-with-words/"><u>French Finesse: Enchanting the Heart with Words</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-spectre-x360-overheating-problem-solved/"><u>HP Spectre X360 Overheating Problem [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-white-screen-of-death-a-guide-for-laptop-users/"><u>Overcoming the White Screen of Death: A Guide for Laptop Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-unresponsive-hp-laptop-keyboards-learn-how/"><u>Quick Fixes for Unresponsive HP Laptop Keyboards – Learn How!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-no-audio-output-device-found-issues-on-windows-11-a-step-by-step-guide/"><u>Resolving 'No Audio Output Device Found' Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-port-reset-error-a-guide-to-troubleshooting-your-usb-on-windows-10/"><u>Solving the Port Reset Error: A Guide to Troubleshooting Your USB on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-specs-needed-for-smooth-4k-editing-in-adobe-premiere-pro/"><u>Top Specs Needed for Smooth 4K Editing in Adobe Premiere Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-of-tech-comprehensive-gadget-and-hardware-analysis-by-toms-team/"><u>Unveiling the Future of Tech: Comprehensive Gadget and Hardware Analysis by Tom's Team</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-x-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone X? How to Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206834834-winupdate-trouble-heres-how-to-fix-error-0x80240017-for-good/"><u>WinUpdate Trouble? Here's How to Fix Error 0X80240017 for Good!</u></a></li>
+</ul></div>
 

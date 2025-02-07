@@ -1,7 +1,7 @@
 ---
 title: Copy-Pasting Woes? Here's How to Fix It on Your Windows 11 Machine
-date: 2024-08-23T14:07:25.170Z
-updated: 2024-08-24T14:07:25.170Z
+date: 2025-01-31T16:10:37.996Z
+updated: 2025-02-06T18:22:24.468Z
 tags:
   - win11
   - win10
@@ -42,13 +42,15 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 1. Right-click the**Start button** on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 If this fix didn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Repair corrupted system files
 
  Broken Window Registry files may cause problems with the copy-and-paste keyboard shortcut. You can try to **run the System File Checker (sfc /scannow) to identify problematic Registry files** . Most of the time, this tool can fix minor issues for you.
@@ -63,14 +65,16 @@ If this fix didn’t help, try the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Clear clipboard history
 
  When your clipboard cache is full, you may not be able to copy-paste your files or texts. You can delete your clipboard history data to see if it solves the problem, and the steps are easy. Here’s how
@@ -79,11 +83,12 @@ If this fix didn’t help, try the next fix.
 2. Click**Clear all** to delete the clipboard history.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-09-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix didn’t help, try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -93,6 +98,10 @@ If this fix didn’t help, try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
 If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Restart RDP Clipboard Monitor
 
@@ -114,16 +123,14 @@ If your problem persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 ---
@@ -138,8 +145,6 @@ If your problem persists, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +152,20 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-selection-winning-16-free-video-experience-for-2024/"><u>[New] Ultimate Selection Winning 16 Free Video Experience for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-harmonizing-visuals-and-sounds-with-canvas-audio-features-for-2024/"><u>[Updated] Harmonizing Visuals & Sounds with Canva's Audio Features for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1728504590471-windows-10/"><u>「在你的電腦上發現Windows 10中每張照片：一個完全指南」</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armored-fix-for-gdrivererrcode22/"><u>Armored Fix for GDRIVER_ERRCODE22</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-moto-g73-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Moto G73 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-rectification-tackling-delayed-response-times-for-system-service-initiation-error-1053-resolved/"><u>Efficient Rectification: Tackling Delayed Response Times for System Service Initiation (Error 1053 Resolved)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-graphic-design-to-daily-use-ai-in-windows/"><u>From Graphic Design to Daily Use: AI in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-update-solves-shockwave-flash-compatibility-errors/"><u>Google Chrome Update Solves Shockwave Flash Compatibility Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-recovering-lost-icon-links-on-windows-10-desktop/"><u>Guide to Recovering Lost Icon Links on Windows 10 Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reduce-high-cpu-usage-from-your-pcs-sound-card-on-windows-systems/"><u>How to Reduce High CPU Usage From Your PC's Sound Card on Windows Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-logilda-dll-absence/"><u>Resolved: LogiLDA DLL Absence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-microsoft-edge-smartscreen-not-responding-solutions-inside/"><u>Why Is Microsoft Edge SmartScreen Not Responding? Solutions Inside</u></a></li>
+</ul></div>
 

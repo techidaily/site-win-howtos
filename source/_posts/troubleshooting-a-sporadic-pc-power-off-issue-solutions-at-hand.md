@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Sporadic PC Power-Off Issue – Solutions at Hand
-date: 2024-08-23T14:09:09.265Z
-updated: 2024-08-24T14:09:09.265Z
+date: 2025-02-05T02:15:16.017Z
+updated: 2025-02-07T14:35:28.386Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -44,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 * Also, make sure that the keyboard receiver is well-connected as well.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -55,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Install the correct keyboard driver
 
  In some cases, your keyboard might need the correct driver to be able to work properly. It could be the latest version of the keyboard driver or the driver that shipped along with your keyboard. You should try both ways to decide which one suits you better.
@@ -72,19 +78,17 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
+
 ## Method 4: Clean the keyboard
 
 If you haven’t cleaned your keyboard, in like forever, do it now.
@@ -103,8 +107,6 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +114,24 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-live-from-the-cloud-effective-dji-drone-broadcasting-tips/"><u>[Updated] Live From the Cloud Effective DJI Drone Broadcasting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-installation-hurdles-fixing-failed-hardware-monitor-driver-loading-problems/"><u>Bypass Installation Hurdles – Fixing Failed Hardware Monitor Driver Loading Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-correcting-the-path-for-successful-windows-10-update-installations/"><u>Complete Guide: Correcting the Path for Successful Windows 10 Update Installations</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-install-updated-hp-officejet-pro-8610-driver-downloads-for-win7-vista-xp-8-and-windows-10-users/"><u>Easy Install: Updated HP Officejet Pro 8610 Driver Downloads for Win7, Vista, XP, 8 & Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-function-key-failures-on-computers/"><u>Effective Solutions for Function Key Failures on Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-keep-your-pc-awake-easy-tips-and-tricks-for-a-better-user-experience/"><u>How to Keep Your PC Awake – Easy Tips and Tricks for a Better User Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-fix-a-nonfunctional-disk-on-your-windows-11-machine-expert-tips-and-tricks/"><u>How To Quickly Fix a Nonfunctional Disk on Your Windows 11 Machine – Expert Tips & Tricks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/losungen-fur-den-verlust-von-dateien-wahrend-der-migration-zum-betriebssystem-windows-11-expertenantworten-und-tipps/"><u>Lösungen Für Den Verlust Von Dateien Während Der Migration Zum Betriebssystem Windows 11: Expertenantworten Und Tipps.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimized-video-restoration-solutions-by-hardware-and-software-specialists-at-grau-gmbh/"><u>Optimized Video Restoration Solutions by Hardware & Software Specialists at Grau GmbH</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-and-hacks-to-enhance-your-experience-with-windows-11-file-explorer/"><u>Quick Fixes and Hacks to Enhance Your Experience with Windows 11 File Explorer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sketch-up-your-ideas-an-essential-guide-to-the-top-8-drawing-tools-on-ios-for-2024/"><u>Sketch Up Your Ideas An Essential Guide to the Top 8 Drawing Tools on iOS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-guide-to-using-finalcut-pro-in-youtube-editing/"><u>The Essential Guide to Using FinalCut Pro in YouTube Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-restoring-sound-on-netflix-troubleshooting-made-easy/"><u>The Ultimate Guide to Restoring Sound on Netflix – Troubleshooting Made Easy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-missing-binkw32dll-error-on-your-pc/"><u>Troubleshooting and Correcting the Missing binkw32.dll Error on Your PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-local-treasures-for-free-with-oodles-classified-advertising/"><u>Unlocking Local Treasures for Free with Oodle's Classified Advertising</u></a></li>
+</ul></div>
 

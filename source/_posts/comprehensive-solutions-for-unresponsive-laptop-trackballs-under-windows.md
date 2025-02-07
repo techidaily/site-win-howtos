@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solutions for Unresponsive Laptop Trackballs Under Windows
-date: 2025-01-18T17:36:24.365Z
-updated: 2025-01-25T16:40:54.029Z
+date: 2025-01-31T08:45:18.438Z
+updated: 2025-02-06T20:19:45.688Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -48,7 +44,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -62,7 +58,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -82,6 +78,10 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -113,10 +113,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -126,13 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -145,6 +141,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,18 +184,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-process-clean-up-youtubes-buffered-list/"><u>[New] Streamlining Process Clean Up YouTube's Buffered List</u></a></li>
-<li><a href="https://article-tips.techidaily.com/discover-engaging-free-slide-shows-with-these-amazing-template-selections/"><u>Discover Engaging, Free Slide Shows with These Amazing Template Selections</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discover-the-world-in-360-watching-vr-videos-on-iphone/"><u>Discover the World in 360 Watching VR Videos on iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-pratique-convertissez-automatiquement-votre-fichier/"><u>Guide Pratique - Convertissez Automatiquement Votre Fichier</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improved-performance-in-cyberpunk-2077-overcoming-previous-fps-declines/"><u>Improved Performance in Cyberpunk 2077: Overcoming Previous FPS Declines</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/improving-readability-with-zoom-functionality-in-flipbuilders-digital-books/"><u>Improving Readability with Zoom Functionality in FlipBuilder's Digital Books</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/les-15-applications-de-capture-decran-gratuites-les-plus-efficaces-selon-google-movavi/"><u>Les 15 Applications De Capture D'écran Gratuites Les Plus Efficaces Selon Google - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726222962072-movavijpeg/"><u>Movavi対応のJPEGファイル変換サービス – ベストな方法をオンラインで学ぶ</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-overcome-nvidia-geforce-0x0003-error-code-challenge/"><u>Step-by-Step Solution to Overcome NVIDIA Geforce 0X0003 Error Code Challenge</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/take-your-designs-to-the-next-level-10-top-animated-text-tools-for-2024/"><u>Take Your Designs to the Next Level 10 Top Animated Text Tools for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/web-based-mpeg-aac-moveavew/"><u>Web-Based MPEG AAC 코네이터를 자유룰로 전환: Moveavew 방법</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/yt-insider-tips-from-chroma-keying-to-cinematic-creations/"><u>YT Insider Tips From Chroma Keying to Cinematic Creations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-update-error-0x8007001f/"><u>[SOLVED] Windows Update Error 0X8007001f</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/8-fixes-for-windows-10-update-error-code-0x800f0922/"><u>8 Fixes for Windows 10 Update Error Code 0X800f0922</u></a></li>
+<li><a href="https://win-able.techidaily.com/accelerate-download-performance-on-origin-expert-advice-to-overcome-slowness-for-faster-file-transfers/"><u>Accelerate Download Performance on Origin: Expert Advice to Overcome Slowness for Faster File Transfers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-pros-and-cons-of-budget-friendly-mobvoi-ticwatch-e2-watches/"><u>Analyzing the Pros and Cons of Budget-Friendly Mobvoi TicWatch E2 Watches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-troubleshooting-guide-resolving-initialization-stuck-problems/"><u>Destiny # Troubleshooting Guide: Resolving Initialization Stuck Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-f34-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy F34 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-malfunction-solved-restoring-functionality-to-broken-number-keys/"><u>Keyboard Malfunction Solved: Restoring Functionality to Broken Number Keys</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-vivo-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Vivo has been deleted.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-quick-guide-to-refreshing-your-windows-10-system/"><u>Simple Steps: Quick Guide to Refreshing Your Windows 10 System</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sky-gazers-rejoice-discovering-the-elevation-expertise-of-dji-spark-for-2024/"><u>Sky Gazers Rejoice! Discovering the Elevation Expertise of DJI Spark for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-best-anti-shake-gimblers-reviewed-by-vloggers/"><u>The Best Anti-Shake Gimblers Reviewed by Vloggers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-gpus-for-4k-edit-and-render/"><u>Top GPUs for 4K Edit & Render</u></a></li>
 </ul></div>
 

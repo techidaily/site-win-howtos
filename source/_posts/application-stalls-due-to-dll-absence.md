@@ -1,7 +1,7 @@
 ---
 title: Application Stalls Due to DLL Absence
-date: 2024-08-23T14:05:03.592Z
-updated: 2024-08-24T14:05:03.592Z
+date: 2025-02-01T21:10:00.439Z
+updated: 2025-02-06T17:17:23.434Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4d
 4. **[Check for Windows updates](#d)**
 5. **[Reconnect your keyboard to your computer](#e)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Open the On-Screen Keyboard
 
  It would be difficult, if not impossible to fix your keyboard issue without login into your computer first. So if you encountered the keyboard not working issue at the login screen, follow the instructions below to open the**On-Screen Keyboard** so you can sign in to your PC.
@@ -42,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4d
 
  After login your computer, move on and try the solutions below to fix your keyboard issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your keyboard driver
 
  An outdated or a faulty keyboard driver can also resulting in keyboard issues like this. It’s essential that you have the latest correct keyboard driver at all times.
@@ -65,11 +66,16 @@ There are two ways you can get the right driver for your keyboard:
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/hid-keyboard-device.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Check the Power Management setting
 
  In some cases, this issue occurs because your computer turns off your keyboard to save power. So you should check your Power Management setting to see if that’s the problem for you. Follow the instructions below:
@@ -77,22 +83,21 @@ There are two ways you can get the right driver for your keyboard:
 1. Click the **Windows icon** on the bottom left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-03-12.jpg)
 2. Paste **device manager** on the search box, then click **Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-03-44.jpg)
 3. Double-click **Keyboards** . Then, right-click your Keyboard’s name and select **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-04-38.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the **Power Management tab** , verify that the box next to **Allow the computer to turn off this device to save power** is unchecked, then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-05-19.jpg)
 5. Restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your keyboard is still not working after the reboot, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Check for Windows updates
 
@@ -102,16 +107,14 @@ There are two ways you can get the right driver for your keyboard:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Check if your keyboard can work properly now. If it is not, move on to the fix, below.
 
@@ -136,9 +139,6 @@ There are two ways you can get the right driver for your keyboard:
 
  Hope this has fixed your issue. If you have any questions, please leave a comment below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### If you’re using a wireless keyboard
 
 **1)** Turn off your computer.
@@ -150,6 +150,10 @@ There are two ways you can get the right driver for your keyboard:
 **Note:** All wireless keyboards have a receiver that is plugged into the computer, and the keyboard connects to that receiver wirelessly. Here is what a receiver looks like:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-246.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Wait for 3 minutes, then connect the receiver back to the computer.
 
@@ -168,8 +172,6 @@ There are two ways you can get the right driver for your keyboard:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +179,19 @@ There are two ways you can get the right driver for your keyboard:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/lear-up-audio-in-youtube-a-step-by-step-guide/"><u>[New] Clear Up Audio in YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-leveraging-social-networks-twitch-streams-on-fb/"><u>[Updated] In 2024, Leveraging Social Networks Twitch Streams on FB</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-honor-magic-6-pro-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Honor Magic 6 Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-iciness-to-comfort-five-warm-backdrops-ideas/"><u>In 2024, From Iciness to Comfort Five Warm Backdrops Ideas</u></a></li>
+<li><a href="https://win-great.techidaily.com/navigating-cryptocurrency-opportunences-and-hazards-with-yl-computings-analysis/"><u>Navigating Cryptocurrency Opportunences and Hazards with YL Computing’s Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quiet-your-ps4-identifying-the-reasons-behind-fan-loudness-and-how-to-address-them/"><u>Quiet Your PS4: Identifying the Reasons Behind Fan Loudness & How to Address Them</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-ps4s-audio-a-step-by-step-guide-to-fixing-the-internal-microphone/"><u>Revive Your PS4's Audio: A Step-by-SteP Guide to Fixing the Internal Microphone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-windows-n-11-sound-issues-a-comprehensive-5-point-plan/"><u>Step-by-Step Fix for Windows N 11 Sound Issues: A Comprehensive 5-Point Plan</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-for-retrieving-deleted-data-from-your-samsung-smartphone-via-galaxy-data-recovery-software/"><u>Step-by-Step Tutorial for Retrieving Deleted Data From Your Samsung Smartphone via Galaxy Data Recovery Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-errored-copy-and-paste-in-windows-10/"><u>Troubleshoot Errored Copy and Paste in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211449896-troubleshoot-missing-bluetooth-on-windows-11-simple-solutions/"><u>Troubleshoot Missing Bluetooth on Windows 11 - Simple Solutions!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-apple-wireless-headphones-set-to-impress-introducing-the-airpods-lite-and-enhanced-airpods-max/"><u>Upcoming Apple Wireless Headphones Set to Impress: Introducing the AirPods Lite and Enhanced AirPods Max !</u></a></li>
+</ul></div>
 

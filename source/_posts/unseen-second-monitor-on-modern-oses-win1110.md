@@ -1,7 +1,7 @@
 ---
 title: Unseen Second Monitor on Modern OSes (Win11/10)
-date: 2025-01-22T17:08:54.054Z
-updated: 2025-01-25T17:15:31.354Z
+date: 2025-02-05T16:28:19.747Z
+updated: 2025-02-06T17:11:10.419Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 
  The screenshots in this post are captured from a Windows 11 operating system. If you are using Windows 10 or older versions, be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Change your project mode
 
  Sometimes your third monitor not detected can be simply solved by changing project mode. You can run quick troubleshooting by following the steps below:
@@ -49,14 +45,14 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-project-pc-screen-only.jpg)
 2. Disconnect all the external monitors (unplug the cables) and power off your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Reconnect all the monitors and power on your computer.
 4. Press the**Windows logo key** and the**P key** again. And click**Extend** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-project-extend.jpg)
 5. See if your third monitor is working now. If not, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check Multiple Monitors settings
 
@@ -67,13 +63,13 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-display-detect.jpg)
 3. If yes, drag the three monitors to match your display configuration. (You can click**Identify** if you don’t know which screen is which.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Alternatively, you can right-click on your desktop and select**NVIDIA Control Panel** to double-check your settings.
 5. Go to**Display** \>**Set up multiple displays** , and make sure you’ve checked all the displays. You can also drag the icons here.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/control-panel-set-up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your 3rd monitor remains not detected after basic troubleshooting, the culprit might be your graphics drivers. You can try the next fix below.
 
@@ -85,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/disable.jpg)
 3. Wait for about 5 seconds for the device to be disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Right-click the graphics driver again and select**Enable device** .
 5. Your third monitor should be detected right now.
@@ -139,13 +139,17 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check if your third monitor can be detected now.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Rollback your graphics driver
 
@@ -156,14 +160,14 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/properties.jpg)
 3. Go to the**Driver** tab and click**Roll Back Driver** , then follow the on-screen instructions to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 4. Restart your computer for the changes to take effect.
 
 > **Note:** _If the_ **_Roll Back Driver_**   _option is grayed out, it means there is no driver version that Windows can roll back to. This doesn’t mean it’s impossible to roll back the driver, just that you won’t be able to do it from the built-in option. You can download a previous graphics driver from the manufacturer’s website for your graphics card and install it manually, or try the following fix._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6\. Repair your PC
 
@@ -187,14 +191,14 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -252,10 +256,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files, and check if the issue still persists. If everything works out just fine, then congrats!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Good to go?
 
  If the fixes above don’t work for you, contact your computer or motherboard manufacturer or google your graphics model + 3 monitors. Determine if your model supports three displays and what configurations are required.
@@ -281,22 +281,17 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-swift-transfer-tweets-as-vids-on-whatsapp-platform/"><u>[New] 2024 Approved Swift Transfer Tweets as Vids on WhatsApp Platform</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-filming-friends-directly-share-videos-on-twitter/"><u>[New] Filming Friends Directly Share Videos on Twitter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gifmp4-movavi/"><u>免費在線變更GIF到MP4 - 利用 Movavi 工具進行轉換</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vob3gpmovavi/"><u>直接在線上免費移動VOB到3GP：簡便的Movavi視頻轉換方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/aiff-bestandsen-omzetten-intoe-gratis-vaardigheden-verkregen-door-movavi/"><u>AIFF-Bestandsen Omzetten Intoe: Gratis, Vaardigheden Verkregen Door Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beste-gratis-bildbearbeitungsprogramme-202n4-last-lista-over-program-och-utvecklingsar/"><u>Beste Gratis Bildbearbeitungsprogramme 202N4: Läst Lista Över Program Och Utvecklingsar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-instant-converting-from-flac-to-wav-formats-via-movavi-onlinelogik/"><u>Gratis Instant Converting From FLAC to WAV Formats via Movavi - Onlinelogik</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-unleashing-potential-mastering-advertising-partnerships-with-famebit/"><u>In 2024, Unleashing Potential Mastering Advertising Partnerships with FameBit</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/mastery-in-one-bite-io-screen-capture-guidebook/"><u>Mastery in One Bite IO Screen Capture Guidebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp3-file-integration-with-movavis-free-audio-converter-for-pc-and-mac-start-now/"><u>MP3 File Integration with Movavi's Free Audio Converter for PC & Mac - Start Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-free-ogg-mp4/"><u>Online Free Ogg MP4 편집 - 모바이브</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-transformation-of-tiff-documents-no-cost-solution-using-movavi-software/"><u>Online Transformation of TIFF Documents: No Cost Solution Using Movavi Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/overcome-transfer-failed-message-due-to-low-space-on-your-iphone/"><u>Overcome 'Transfer Failed' Message Due to Low Space on Your iPhone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/save-big-with-cyberlinks-powerdvd-16-grab-your-75-off-coupon-code-in-2020/"><u>Save Big with CyberLink's PowerDVD 16: Grab Your 75% Off Coupon Code in 2020</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ified-sound-conversion-top-6-apps-for-youtube-to-mp3-on-iphone-for-2024/"><u>Simplified Sound Conversion Top 6 Apps for YouTube to MP3 on iPhone for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera-for-2024/"><u>The Ultimate Guide to Choosing a Premium Portable Vlog Camera for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-slow-down-the-action-top-10-video-players-for-smooth-playback/"><u>Updated In 2024, Slow Down the Action Top 10 Video Players for Smooth Playback</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-savings-in-cloud-data-services/"><u>[New] 2024 Approved Unlocking Savings in Cloud Data Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-getting-started-a-primer-on-screencastify-use-for-2024/"><u>[New] Getting Started A Primer on Screencastify Use for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-practical-steps-to-enhance-videos-with-device-based-filtering-for-2024/"><u>[New] Practical Steps to Enhance Videos with Device-Based Filtering for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-create-and-change-video-cover-on-facebook/"><u>[Updated] In 2024, How to Create and Change Video Cover on Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-rectify-your-windows-11-touchscreen-in-five-ways/"><u>Comprehensive Tutorial: Rectify Your Windows 11 Touchscreen in Five Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-cure-eliminating-the-flicker-effect-on-your-windows-11-monitor/"><u>Diagnose & Cure: Eliminating the Flicker Effect on Your Windows 11 Monitor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breaking-down-browser-issues-eliminate-video-blackouts-in-facebook-chats/"><u>In 2024, Breaking Down Browser Issues Eliminate Video Blackouts in Facebook Chats</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-content-with-360-degree-footage/"><u>In 2024, Revolutionizing Content with 360-Degree Footage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/microsofts-ai-innovation-unleashing-6-key-functions-with-codex-interpreter/"><u>Microsoft's AI Innovation: Unleashing 6 Key Functions with Codex Interpreter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/random-key-disruption/"><u>Random Key Disruption</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solve-the-print-to-pdf-not-working-in-windows-11-by-microsoft/"><u>Step-by-Step Guide: Solve the 'Print to PDF Not Working' In Windows 11 by Microsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-why-your-obs-recordings-are-showing-a-black-screen-resolved/"><u>The Ultimate Fix: Why Your OBS Recordings Are Showing a Black Screen (Resolved)</u></a></li>
 </ul></div>
 

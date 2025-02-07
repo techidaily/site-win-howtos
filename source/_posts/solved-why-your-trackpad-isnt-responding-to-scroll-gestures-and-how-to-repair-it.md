@@ -1,7 +1,7 @@
 ---
 title: "Solved: Why Your Trackpad Isn't Responding to Scroll Gestures & How to Repair It"
-date: 2025-01-24T18:00:11.690Z
-updated: 2025-01-25T18:37:58.488Z
+date: 2025-01-31T09:37:49.831Z
+updated: 2025-02-07T00:57:55.594Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these tips
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 4. [**Update your touchpad driver**](#t4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 1: Enable your touchpad
@@ -48,24 +52,20 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf297e71ab26.png)
 3. In the view of**Category** , click**Hardware and Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 2: Enable two-finger scrolling
 
@@ -77,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c98471f8.jpg)
 4. Click**Apply** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 3: Change your mouse pointer
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 3. Click**Apply** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
@@ -143,24 +143,22 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-capturecrafted-expert-reviews-on-the-best-screen-recorders/"><u>[New] In 2024, CaptureCrafted Expert Reviews on the Best Screen Recorders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-present-trends-in-drone-technology-for-the-future/"><u>[New] In 2024, Present Trends in Drone Technology for the Future</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fine-tuning-your-linkedin-headline/"><u>[Updated] Fine-Tuning Your LinkedIn Headline</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-essential-ae-techniques-for-memorable-heads-ups/"><u>[Updated] In 2024, Essential AE Techniques for Memorable Heads-Ups</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfecting-instagram-livestreams-with-obs-technology-for-2024/"><u>[Updated] Perfecting Instagram Livestreams with OBS Technology for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-art-of-zooming-elevate-your-tiktok-videos/"><u>[Updated] The Art of Zooming Elevate Your TikTok Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3gppwmv-movavi/"><u>免費移動電信格式翻譯：3GPP到WMV - 使用Movavi進行無線上的圖像編解碼</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726219728888-ogmmov-movavi/"><u>網路自由下將OGM改成MOV - Movavi 格式轉換工具</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/aoc-monitor-support-software-free-downloads-and-step-by-step-setup-on-windows-win-11108/"><u>AOC Monitor Support Software: Free Downloads & Step-by-Step Setup on Windows (Win 11/10/8)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/archiviazione-digitale-gratuita-cambia-i-tuoi-dati-da-ram-a-mov-su-movavi-online/"><u>Archiviazione Digitale Gratuita: Cambia I Tuoi Dati Da RAM a MOV Su Movavi Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-your-audio-files-flac-to-webm-for-free-with-movavis-simple-tool/"><u>Convert Your Audio Files: FLAC to WebM for Free with Movavi's Simple Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-transformez-facilement-votre-fichier-webm-au-format-mov-en-ligne-avec-movavi/"><u>Gratuit: Transformez Facilement Votre Fichier WebM Au Format MOV en Ligne Avec Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 11 Pro Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-thermaltake-massive-t-cooling-pad-worth-its-price-an-in-depth-look/"><u>Is the Thermaltake Massive T Cooling Pad Worth Its Price? An In-Depth Look</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-17-pc-bildprogrammer-i-verden-movavi-screen-capture-tools/"><u>Top 17 PC Bildprogrammer I Verden - Movavi Screen Capture Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-9-ultimate-collage-creation-tools-of-2024-for-android-and-iphone-users/"><u>Top 9 Ultimate Collage Creation Tools of 2024 for Android and iPhone Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/zacatejte-konvertovat-videoze-z-youtube-do-mp3-13-napadnejsich-programu-movavi/"><u>Začátejte Konvertovat Vídeoze Z YouTube Do MP3 - 13 Nápadnejších Programů Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726227643763-orf-jpg-movavi/"><u>오픈소스 ORF 이미지를 JPG로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevate-your-video-with-smart-end-screen-techniques/"><u>[Updated] Elevate Your Video with Smart End Screen Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-visionaries-choice-top-10-graphics-creation-apps/"><u>2024 Approved Innovative Visionaries' Choice Top 10 Graphics Creation Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-itel-a60-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Itel A60 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-bogus-critical-error-popup-on-google-chrome-with-these-hacks/"><u>Bypassing the Bogus 'Critical Error' Popup on Google Chrome with These Hacks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-troubleshooting-windows-network-issue-error-0x800704cf/"><u>Effective Fixes for Troubleshooting WINDOWS Network Issue (Error 0X800704CF)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-smooth-mousepad-functionality-in-all-windows-systems-tips-and-tricks-for-win-1087-users/"><u>Ensuring Smooth Mousepad Functionality in All Windows Systems: Tips and Tricks for Win 10/8/7 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-determine-if-system-configurations-are-controlled-by-admin-in-windows/"><u>How to Determine If System Configurations Are Controlled by Admin in Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-changing-instagram-voices-a-step-by-step-guide/"><u>In 2024, Changing Instagram Voices A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-fixing-problems-with-windows-update-strategies-and-techniques/"><u>Master The Art Of Fixing Problems With Windows Update: Strategies And Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-random-reboot-and-power-failures-on-your-laptop-tips-that-worked-for-me/"><u>Overcoming Random Reboot and Power Failures on Your Laptop: Tips That Worked for Me!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210446578-solution-found-keyboard-functionality-restored-now-works-perfectly/"><u>Solution Found: Keyboard Functionality Restored - Now Works Perfectly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-allure-of-silence-get-the-mighty-black-chromaxblack-nh-d1er-from-noctua-just-99-and-cool-like-never-before/"><u>The Allure of Silence: Get the Mighty Black Chromax.Black NH-D1er From Noctua - Just $99 and Cool Like Never Before</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-most-popular-online-video-editors-for-chromebook-users/"><u>The Most Popular Online Video Editors for Chromebook Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202389591-trouble-with-arrow-keys-discover-easy-fixes-to-restore-functionality/"><u>Trouble with Arrow Keys? Discover Easy Fixes to Restore Functionality!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-c55-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vision-of-virtual-fortresses-top-7-cyber-forecasts/"><u>Vision of Virtual Fortresses: Top 7 Cyber Forecasts</u></a></li>
 </ul></div>
 

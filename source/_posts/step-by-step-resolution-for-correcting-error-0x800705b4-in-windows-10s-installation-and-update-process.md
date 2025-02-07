@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Resolution for Correcting Error 0X800705b4 in Windows 10'S Installation and Update Process
-date: 2024-08-23T14:07:21.614Z
-updated: 2024-08-24T14:07:21.614Z
+date: 2025-02-05T02:17:36.854Z
+updated: 2025-02-07T10:42:39.800Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874579e7f5b6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Windows Update** in the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587457ec45cf7.jpg)
@@ -50,9 +54,17 @@ thumbnail: https://thmb.techidaily.com/769d83492280fd0660acd0112190d1d990d0e4305
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58748718cdfdb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745856da0c3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click the **Next** button. Then the troubleshoot will detect the problems and fix them.
 
@@ -70,6 +82,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745a21077c1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745aa5541bd.png)
@@ -86,6 +102,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487b4f0856.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Re-select option   **Give me updates for other Microsoft products when I update Windows**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745f4d8fdcd.png)
@@ -94,9 +114,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487e7dd051.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## **Method 3: Delete Some Related Files**
 
  The error can be caused by some corrupted related files. Deleting those files may fix the Windows Update **0x800705b4** error.
@@ -104,6 +121,10 @@ Follow these steps:
  1) Type**services** in Cortana and click**Services** on the pop-up menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746e74d3054.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Right-click**Background Intelligent Transfer Service** then select**Stop** .
 
@@ -113,9 +134,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746fbb6d514.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  4) Open **Windows Explorer** and navigate to “**C:\\Windows\\SoftwareDistribution** “.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874704edc0c2.png)
@@ -147,11 +165,13 @@ There are 2 ways to solve it. Here’s how:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -162,17 +182,14 @@ There are 2 ways to solve it. Here’s how:
  2) Type **cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Restart your computer to check the blue screen issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to [Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
@@ -180,6 +197,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ## Method 5: Perform a Clean Boot then Install the Updates Again
 
  If you are not sure how to perform a clean boot, see [How to Perform a Clean Boot in Windows 10](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 6: Update the Drivers
 
@@ -196,17 +217,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-440.png)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-441.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully methods here will help you resolve the 0x800705b4 error. If you have any questions, please feel free to leave your comments. I’d love to hear of any suggestions or ideas.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -217,8 +236,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +243,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-open-gallery-timeless-visuals-no-rights-to-claim-for-2024/"><u>[New] Open Gallery Timeless Visuals No Rights to Claim for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clever-fixes-how-to-ensure-your-desktop-stays-responsive-not-frozen/"><u>Clever Fixes: How to Ensure Your Desktop Stays Responsive, Not Frozen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-broken-usb-port-performance-in-windows-10-and-11/"><u>Effective Solutions for Broken USB Port Performance in Windows 10 and 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-m-audio-drivers-for-your-windows-computer-works-on-win-10-7-8-and-81-download-now/"><u>Essential M-Audio Drivers for Your Windows Computer: Works on Win 10, 7, 8 and 8.1 - Download Now</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-6-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-13-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 13 Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-envy-5540-drivers-and-software-download-and-update-easily/"><u>HP Envy 5540 Drivers & Software Download and Update Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-more-with-less-lgs-360-camera-redefined-and-reviewed/"><u>In 2024, Capturing More with Less - LG's 360 Camera Redefined & Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-windows-experience-effective-fixes-for-when-your-bluetooth-mouse-wont-work/"><u>Reviving Your Windows Experience: Effective Fixes for When Your Bluetooth Mouse Won't Work</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-insiders-look-at-creating-movies-using-windows-8-movie-maker-for-2024/"><u>The Insider's Look at Creating Movies Using Windows 8 Movie Maker for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-addressing-the-causes-of-hp-spectre-x360-laptop-overheating/"><u>Understanding & Addressing the Causes of HP Spectre X360 Laptop Overheating</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-the-full-potential-of-game-characters-with-voice-alteration-strategies-free-for-2024/"><u>Unleashing the Full Potential of Game Characters with Voice Alteration Strategies (Free) for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-correct-video-orientation-for-free-top-10-desktop-and-online-apps/"><u>Updated 2024 Approved Correct Video Orientation for Free Top 10 Desktop and Online Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-usb-port-problems-heres-how-you-can-fix-them-easily/"><u>Windows 11 USB Port Problems? Here's How You Can Fix Them Easily</u></a></li>
+</ul></div>
 

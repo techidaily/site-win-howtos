@@ -1,7 +1,7 @@
 ---
 title: "Svchost.exe & High CPU Use in Windows 11: Step-by-Step Fix Guide"
-date: 2024-08-23T14:08:45.434Z
-updated: 2024-08-24T14:08:45.434Z
+date: 2025-01-31T06:09:27.861Z
+updated: 2025-02-06T22:07:14.092Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/0fdf2fa9392d7802826e32aaa7c1f7d7a9d236164
 
 The good news is, you can fix it easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  All the fixes below work in**Windows 10** . And just work your way down the list until your volume control not working issue is resolved.
@@ -31,6 +35,10 @@ The good news is, you can fix it easily!
 4. [**Run the Playing Audio troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your sound driver
 
@@ -47,13 +55,15 @@ The good news is, you can fix it easily!
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
  Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
@@ -62,20 +72,21 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 2. Locate and double-click on**Windows Audio** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
@@ -89,9 +100,6 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
  Click **Yes**   when prompted to confirm.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -110,9 +118,11 @@ Here’s how:
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -128,8 +138,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +145,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unleashing-video-potential-with-effective-tagging-techniques-on-youtube/"><u>[New] 2024 Approved Unleashing Video Potential with Effective Tagging Techniques on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-speedy-accurate-transcripts-at-your-fingertips-with-5-best-zoom-software-options/"><u>[New] Speedy, Accurate Transcripts at Your Fingertips with 5 Best Zoom Software Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-cure-unreliable-mouse-connectivity/"><u>Comprehensive Solutions to Cure Unreliable Mouse Connectivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-hardware-need-utilize-a-gpu-that-fulfills-the-d3d11-requirement-to-run-the-software-effectively/"><u>Critical Hardware Need: Utilize a GPU that Fulfills the D3D11 Requirement to Run the Software Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807903427-easily-identify-your-current-windows-version-follow-these-simple-steps/"><u>Easily Identify Your Current Windows Version - Follow These Simple Steps!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-fix-rdr2-cannot-load-by-boosting-virtual-memory-capacity/"><u>Easy Steps to Fix 'RDR2 Cannot Load' By Boosting Virtual Memory Capacity</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elite-selection-of-fbs-best-viewing-apps-for-2024/"><u>Elite Selection of FB's Best Viewing Apps for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-best-7-artifice-intelligence-tools-designed-for-efficient-math-problem-solving/"><u>Explore the Best 7 Artifice Intelligence Tools Designed for Efficient Math Problem Solving</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-error-why-some-pages-remain-invisible-online/"><u>Fixing the Error: Why Some Pages Remain Invisible Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-update-error-code-0xc1900208-complete-guide/"><u>How to Fix Windows 10 Update Error Code 0xC1900208 - Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-power-solving-ps4-controller-charging-problems/"><u>How to Restore Power: Solving PS4 Controller Charging Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-your-zoom-experience-poor-determining-if-its-due-to-user-mistakes-or-system-issues/"><u>Is Your Zoom Experience Poor? Determining If It's Due to User Mistakes or System Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-through-chatgpt-access-roadblocks/"><u>Navigating Through ChatGPT Access Roadblocks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-video-resumes-can-be-quite-effective-if-used-in-the-right-context-and-that-is-the-reason-why-weve-decided-to-take-you-through-some-of-the-best-video-res/"><u>New Video Resumes Can Be Quite Effective if Used in the Right Context, and that Is the Reason Why Weve Decided to Take You Through some of the Best Video Resume Makers You Can Use to Get the Job Youve A for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-non-functioning-hp-webcam-on-windows-10/"><u>Troubleshooting Steps for Non-Functioning HP Webcam on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-what-to-do-if-your-torrent-wont-download/"><u>Troubleshooting Steps: What To Do If Your Torrent Won't Download</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-animation-powerhouses-top-8-software-for-mac-and-windows-creators-for-2024/"><u>Updated Animation Powerhouses Top 8 Software for Mac and Windows Creators for 2024</u></a></li>
+</ul></div>
 

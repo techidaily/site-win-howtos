@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Lenovo Biometric Sensor Functionality"
-date: 2024-08-23T14:02:53.161Z
-updated: 2024-08-24T14:02:53.161Z
+date: 2025-02-05T06:38:06.385Z
+updated: 2025-02-07T07:44:02.405Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 ## Lenovo F-Key Malfunction? Here's a Simple Guide to Fixing It Fast
 
  The Fn keys play an important role in saving both time and energy, especially for those who often work with Excel, PowerPoint and suchlike. That’s why it can drive you nuts when you find the**Fn keys not working** on your**Lenovo** computer. But rest assured that you’re not alone – in this post, you’ll be greeted with 3 useful methods that have helped many Windows users solve their problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 fixes for Lenovo Fn key not working
 
@@ -75,9 +79,6 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -90,20 +91,22 @@ In another version of BIOS, the procedure may go like this:
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  If the option appears dimmed, that means there’s no previous driver for you to roll back to. In this case, you should try out the next method instead.
 
  4) Follow the onscreen instructions to roll back your driver. Don’t forget to reboot your computer for the changes to take effect.
@@ -135,15 +138,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
@@ -154,6 +155,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-127.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) After updating your keyboard drivers, you should now make similar changes to the chipset drivers. In Device Manager, double-click**System devices** to expand its drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
@@ -163,15 +168,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
  9) Make sure all of the chipset drivers are up-to-date. Now check to see if your Fn keys are functioning well.
@@ -198,9 +201,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
@@ -217,8 +217,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +224,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-samsung-ubd-k8500-refreshed-2023-overview/"><u>[New] In 2024, Samsung UBD-K8500 Refreshed - 2023 Overview</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-metaverse-meets-omniverse-a-comparative-guide-for-2024/"><u>[Updated] Metaverse Meets Omniverse A Comparative Guide for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweet-trailblazers-1-10-social-sensations-for-2024/"><u>[Updated] Tweet Trailblazers #1-#10 Social Sensations for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-in-depth-look-at-instagrams-video-time-restrictions/"><u>2024 Approved In-Depth Look at Instagram's Video Time Restrictions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-androids-mobas/"><u>2024 Approved The Ultimate Guide to Android's MOBAs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-blocker-overcome-windows-update-troubles-with-error-0x80070e02/"><u>Bypass the Blocker: Overcome Windows Update Troubles with Error 0X80070e02</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-stuck-or-failing-spacebar-keys-on-windows-11-machines/"><u>Dealing with Stuck or Failing Spacebar Keys on Windows 11 Machines</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-interpretability-in-machine-learning-via-shap-e/"><u>Discovering Interpretability in Machine Learning via SHAP E</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-in-game-lags-in-world-of-warcraft/"><u>Expert Tips for Overcoming In-Game Lags in World of Warcraft</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-m54-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy M54 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/night-light-not-functioning-heres-what-to-do-for-windows-11-systems/"><u>Night Light Not Functioning? Here's What to Do for Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-driver-failed-fixes-and-steps-for-setting-user-preferences-correctly/"><u>Resolving 'Driver Failed' - Fixes and Steps for Setting User Preferences Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-overcoming-expired-semaphore-timeouts-code-0x80070079/"><u>Solution Guide: Overcoming Expired Semaphore Timeouts (Code 0X80070079)</u></a></li>
+<li><a href="https://techidaily.com/spark-10-pro-video-recovery-recover-deleted-videos-from-spark-10-pro-by-fonelab-android-recover-video/"><u>Spark 10 Pro Video Recovery - Recover Deleted Videos from Spark 10 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-driver-power-management-issues-in-windows/"><u>Ultimate Guide: Resolving Driver Power Management Issues in Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-the-spectrum-expert-color-calibration/"><u>Understanding the Spectrum Expert Color Calibration</u></a></li>
+</ul></div>
 

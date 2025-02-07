@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Fn Keys on a Dell Laptop: The Definitive Guide to Restoration and Maintenveeance"
-date: 2024-08-23T14:04:49.308Z
-updated: 2024-08-24T14:04:49.308Z
+date: 2025-01-30T20:16:22.942Z
+updated: 2025-02-06T21:44:46.633Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
 
  Sometimes this**USB ports not working** problem is only a hiccup that can be easily solved by removing all the peripherals and reseating the battery before getting your HP laptop back to where it is.
@@ -46,8 +50,9 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -55,28 +60,24 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 1. On the keyboard of the target computer, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update the drivers for your USB devices
 
  This problem may occur if you’re using the wrong or outdated USB drivers. So you should update the drivers for your USB devices to see if it fixes the issue. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -96,17 +97,9 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -127,8 +120,6 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +127,20 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-advanced-audio-editing-apps-ranked-by-users/"><u>[New] 2024 Approved Advanced Audio Editing Apps Ranked by Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-ai-driven-naming-tools-for-dynamic-podcast-titles/"><u>[New] AI-Driven Naming Tools for Dynamic Podcast Titles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-calculating-the-sequence-length-of-a-20mb-file/"><u>[New] In 2024, Calculating the Sequence Length of a 20MB File</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/adjusting-copy-and-paste-on-windows-to-prevent-issues/"><u>Adjusting Copy & Paste on Windows to Prevent Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apple-music-and-video-harmony-explained-for-2024/"><u>Apple Music and Video Harmony Explained for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comenzar-con-confianza-en-la-creacion-de-videos-nosotros-presentamos-los-10-mejores-herramientas/"><u>Comenzar Con Confianza en La Creación De Videos: Nosotros Presentamos Los 10 Mejores Herramientas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-the-failed-to-open-user-data-file-hurdle-while-reinstalling-windows-10-effective-solutions/"><u>Conquering the 'Failed to Open User Data File' Hurdle While Reinstalling Windows 10: Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decode-the-mystery-solving-speaker-issues-on-windows-pcs/"><u>Decode the Mystery: Solving Speaker Issues on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-optimizing-your-fallout-4-gaming-experience-and-fixing-lag/"><u>Expert Tips: Optimizing Your Fallout 4 Gaming Experience & Fixing Lag</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-14-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-displays-lacking-hdcp-support/"><u>How to Resolve Displays Lacking HDCP Support</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-graphics-hurdles-addressing-the-directx-problem-on-fifa-20-console-game/"><u>Overcoming Graphics Hurdles: Addressing the 'DirectX' Problem on FIFA 20 Console Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-solutions-to-resolve-werfaultexe-crashes-on-your-pc/"><u>Top 5 Solutions to Resolve WerFault.exe Crashes on Your PC</u></a></li>
+</ul></div>
 

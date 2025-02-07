@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Overcoming RPC Connectivity Problems on Windows Machines
-date: 2024-08-23T14:09:16.223Z
-updated: 2024-08-24T14:09:16.223Z
+date: 2025-02-04T17:48:59.602Z
+updated: 2025-02-07T11:05:05.488Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -37,9 +41,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your USB drivers
 
  This problem may occur if you are using the wrong or outdated USB drivers. So you should update your USB driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,15 +76,17 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
@@ -93,20 +96,13 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Change power management settings for USB Root Hubs
 
  Your PC system may automatically turn off the various devices on your computer in order to save power. And sometimes it can turn off your external hard drive, or USB devices specifically and cause the**USB keeps disconnecting** issue.
@@ -115,9 +111,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
@@ -125,6 +118,10 @@ To make sure you’ve this setting disabled:
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
@@ -145,8 +142,6 @@ To make sure you’ve this setting disabled:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +149,24 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-chrome-users-explore-our-curated-list-of-voice-modification-apps/"><u>[New] In 2024, Chrome Users, Explore Our Curated List of Voice Modification Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-voice-broadcasting-made-easy-on-your-idevice-tips-and-tricks/"><u>[New] In 2024, Voice Broadcasting Made Easy on Your iDevice Tips & Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[Updated] In 2024, Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/audio-capture-system-testing-guide-for-2024/"><u>Audio Capture System Testing Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209222585-beat-the-lag-proven-strategies-for-seamless-playing-in-pubg/"><u>Beat the Lag: Proven Strategies for Seamless Playing in PUBG</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/capturing-the-essence-cinematic-techniques-at-their-best-for-2024/"><u>Capturing the Essence Cinematic Techniques at Their Best for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-persistent-loading-errors-in-pubg/"><u>Comprehensive Fixes for Persistent Loading Errors in PUBG</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ensuring-compliance-with-fb-messenger-call-records-for-2024/"><u>Ensuring Compliance with FB Messenger Call Records for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-strategies-to-correct-error-0x800f081f-when-setting-up-the-net-framework-version-35/"><u>Expert Strategies to Correct Error 0X800F081F When Setting Up the .NET Framework Version 3.5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-health-to-damaged-files-on-windows-11-devices/"><u>Expert Tips for Restoring Health to Damaged Files on Windows 11 Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-success-harness-the-power-of-ig-data/"><u>Mastering Instagram Success Harness the Power of IG Data</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-library-imports-fixing-and-preventing-error-87-the-parameter-is-wrong-scenario/"><u>Mastering Library Imports: Fixing and Preventing Error 87 - The Parameter Is Wrong Scenario</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-complete-blackout-ultimate-guide-to-fixing-your-windows-11-display-problem/"><u>Resolving the Complete Blackout: Ultimate Guide to Fixing Your Windows 11 Display Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-the-print-as-pdf-problems-on-windows-1011-systems/"><u>Step-by-Step Guide: Repairing the 'Print as PDF' Problems on Windows 10/11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-firefox-freezing-issues-your-complete-2024-guide/"><u>Ultimate Fixes for Firefox Freezing Issues: Your Complete 2024 Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-troubleshoot-a-nonfunctional-ps4-microphone/"><u>Ultimate Guide: How to Troubleshoot a Nonfunctional PS4 Microphone</u></a></li>
+</ul></div>
 

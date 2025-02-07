@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Problem: What to Do When Logitech's Scroll Wheel Malfunctions"
-date: 2024-08-23T14:09:47.713Z
-updated: 2024-08-24T14:09:47.713Z
+date: 2025-02-04T13:36:46.596Z
+updated: 2025-02-06T16:28:27.411Z
 tags:
   - win11
   - win10
@@ -75,9 +75,6 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -92,9 +89,6 @@ In another version of BIOS, the procedure may go like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
 
  3) Go to the**Driver** tab and click**Roll Back Driver** .
@@ -131,41 +125,48 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Follow the onscreen instructions to download and install your keyboard drivers.
 
 **Note that** Windows may not be able to download and install the latest drivers for you. If you receive a notification (as shown below) that reads “The best drivers for your device are already installed,” it doesn’t necessarily mean your keyboard driver is up-to-date. Perhaps you should look to the manufacturer’s website for any lately released versions, if possible.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-127.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) After updating your keyboard drivers, you should now make similar changes to the chipset drivers. In Device Manager, double-click**System devices** to expand its drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
@@ -193,15 +194,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
@@ -218,8 +217,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +224,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-digital-deviation-expert-strategies-to-rotate-videos-on-youtube/"><u>[New] In 2024, Digital Deviation Expert Strategies to Rotate Videos on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-master-the-art-of-sowing-and-cultivation-in-valheim/"><u>[Updated] 2024 Approved Master the Art of Sowing and Cultivation in Valheim</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-leading-5-internet-screenshot-kits/"><u>[Updated] In 2024, Leading 5 Internet Screenshot Kits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-av1-an-entry-point-to-encoding/"><u>2024 Approved Unlocking AV1 An Entry Point to Encoding</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/all-purpose-capture-software-azs-app-critiques-for-2024/"><u>All-Purpose Capture Software - AZ's App Critiques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battleye-service-startup-error-corrected-no-more-generic-error/"><u>BattlEye Service Startup Error Corrected - No More 'Generic Error'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201027855-custom-configuration-options-now-fully-operational-past-glitches-resolved/"><u>Custom Configuration Options Now Fully Operational – Past Glitches Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-windows-11-crashes-during-launch-and-boot/"><u>Fixing the Issue: Windows 11 Crashes During Launch & Boot</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/how-to-generate-speech-from-text-the-best-text-to-speech-converters-for-2024/"><u>How To Generate Speech From Text | The Best Text-to-Speech Converters for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968066709-instantly-get-your-lexar-usb-drive-working-secure-download-now/"><u>Instantly Get Your Lexar USB Drive Working - Secure Download Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016947151-microphone-readiness-in-minutes-the-ultimate-guide-to-rapid-audio-equipment-tests/"><u>Microphone Readiness in Minutes: The Ultimate Guide to Rapid Audio Equipment Tests</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-typing-experience-how-to-perform-a-full-keyboard-reset/"><u>Reviving Your Typing Experience: How to Perform a Full Keyboard Reset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speedy-tips-to-correct-sluggish-keyboard-performance/"><u>Speedy Tips to Correct Sluggish Keyboard Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-computer-has-rebooted-from-a-bugcheck-solved/"><u>The Computer Has Rebooted From a Bugcheck [Solved]</u></a></li>
+</ul></div>
 

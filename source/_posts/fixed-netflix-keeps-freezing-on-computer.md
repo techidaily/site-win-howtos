@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Netflix Keeps Freezing on Computer"
-date: 2024-08-19T07:57:18.493Z
-updated: 2024-08-20T07:57:18.493Z
+date: 2025-02-13T20:26:37.784Z
+updated: 2025-02-16T22:58:51.478Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change your monitor settings
 
  As suggested in the error message, you can change your input timing to the specific resolution and refresh rate (in my case it’s**1920×1080@60Hz** ) or any other monitor listed timing as per monitor specifications. So you should change these monitor settings to match.
@@ -60,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 7. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **If you’re using Windows 7:**
 
 **Note** : if you have more than one displays, choose the displays respectively for the following steps.
@@ -67,16 +75,31 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 1. Right click on any**empty area** on your desktop, then select**Screen** **resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3de95308b.png)
 2. Change**Resolution** to the specific resolution (in my case I choose**1080×1920** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e3dadb40.jpg)
 3. Click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
 4. Click**Keep changes** if you see the verification message.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
 5. On the same screen, click**Advanced** **settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
 7. Click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
 
 Restart your computer in normal mode and see if it works.
@@ -99,21 +122,17 @@ Restart your computer in normal mode and see if it works.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This should fix your problem. Still no luck? Okay, there’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Boot your computer in low-resolution mode
 
  This method has been said to be working for many people who have the same error. You can try using the low resolution mode in your computer, in order to match the resolution for your monitor.
@@ -124,30 +143,41 @@ Restart your computer in normal mode and see if it works.
 2. Press the power button to turn on your PC, then hold the power button down until PC shuts down automatically (about 5 seconds) . Repeat this more than 2 times until you see the**Preparing Automatic Repair** (see below screenshot).  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc90860567.png)  
  Note: This step is aim to bring up**Preparing Automatic Repair** screen. When Windows doesn’t boot properly, this screen pops up and Windows attempts to fix the problem by itself. If you’ve seen this screen at the first time when you power up the computer, skip this step.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then wait for Windows to diagnose your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc912c08c2.png)
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
 4. Click**Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
 5. Click**Advanced** **options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
+
  Then your computer will boot into the low-resolution mode and it should fix your error.
 
  **If you’re using Windows 7, Windows XP or Windows Vista:**
@@ -172,8 +202,6 @@ Restart your computer in normal mode and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +209,24 @@ Restart your computer in normal mode and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-leading-ipad-audio-recorder-software-list-3/"><u>[Updated] Leading iPad Audio Recorder Software List #3</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-top-20-gags-and-laughter-on-youtube-for-downtime-delight/"><u>2024 Approved The Top 20 Gags & Laughter on YouTube for Downtime Delight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ceremorphic-the-emerging-ai-chip-innovator-unveils-its-tech-post-stealth-phase-insights-on-zdnet/"><u>Ceremorphic: The Emerging AI Chip Innovator Unveils Its Tech Post-Stealth Phase - Insights on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhanced-functionality-added-touch-sensitivity-to-htc/"><u>Enhanced Functionality: Added Touch Sensitivity to HTC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grasping-the-impact-of-ai-progress-and-predicaments/"><u>Grasping the Impact of AI: Progress and Predicaments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-tackle-excessive-cpu-consumption-by-runtime-broker-on-your-windows-11-pc-solutions-included/"><u>How to Tackle Excessive CPU Consumption by Runtime Broker on Your Windows 11 PC – Solutions Included!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-troubles-heres-how-you-can-perform-a-full-reset/"><u>Keyboard Troubles? Here's How You Can Perform a Full Reset!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-itel-p55t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Itel P55T? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repair-tips-for-resolving-brightness-dial-pad-malfunctions-on-windows-11-devices/"><u>Repair Tips for Resolving Brightness Dial Pad Malfunctions on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-when-your-windows-11-icons-go-missing-restore-them-now/"><u>The Ultimate Fix for When Your Windows 11 Icons Go Missing - Restore Them Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-technique-for-designing-custom-lock-patterns-in-windows-11/"><u>The Ultimate Technique for Designing Custom Lock Patterns in Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-hp-printer-no-response/"><u>Troubleshooting HP Printer No Response</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-correctly-address-steam-writable-disk-issues/"><u>Troubleshooting Tips to Correctly Address Steam Writable Disk Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-free-system-resources-addressing-shell-induced-cpu-overruns-on-windows/"><u>Unlocking Free System Resources: Addressing Shell-Induced CPU Overruns on Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-no-cost-video-blur-learn-how-to-do-it-online/"><u>Updated In 2024, No-Cost Video Blur Learn How to Do It Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205834727-wireless-mouse-stops-and-restarts-on-windows-1110-heres-how-to-fix-it/"><u>Wireless Mouse Stops & Restarts on Windows 11/10? Here's How to Fix It!</u></a></li>
+</ul></div>
 

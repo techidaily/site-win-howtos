@@ -1,7 +1,7 @@
 ---
 title: Fix Broken Keyboard on Your HP Laptop Fast and Simple
-date: 2024-08-23T14:01:32.522Z
-updated: 2024-08-24T14:01:32.522Z
+date: 2025-02-12T00:42:56.364Z
+updated: 2025-02-16T17:35:43.569Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -47,6 +51,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -66,18 +74,12 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -102,9 +104,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -114,13 +113,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -129,20 +129,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -168,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +177,23 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-explore-best-asmr-apps-both-sides-of-the-os/"><u>[New] 2024 Approved Explore Best ASMR Apps, Both Sides of the OS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-from-fast-life-to-leisrances-iphone-slow-motion-tips/"><u>[New] 2024 Approved From Fast Life to Leisrances IPhone Slow Motion Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-beyond-the-screen-ultimate-vr-gadget-guide/"><u>[Updated] In 2024, Beyond the Screen - Ultimate VR Gadget Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-vibing-with-visuals-merging-music-and-imagery-on-ig/"><u>[Updated] Vibing with Visuals Merging Music and Imagery on IG</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-from-cluttered-to-clear-a-canva-guide-for-borders-removal/"><u>2024 Approved From Cluttered to Clear A Canva Guide for Borders Removal</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/androids-top-choice-does-pickup-beat-other-photo-editors/"><u>Android's Top Choice Does PickUp Beat Other Photo Editors?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bringing-life-back-to-darkened-mac-and-windows-keyboards-fixes-inside/"><u>Bringing Life Back to Darkened Mac & Windows Keyboards – Fixes Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-for-resolving-missing-binkw32dll-errors-on-your-pc/"><u>Essential Tips for Resolving Missing binkw32.dll Errors on Your PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-honor-x7b-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor X7b Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-windows-update-failed-hurdle-in-windows-11-decoding-error-0x800705b4/"><u>Overcoming the 'Windows Update Failed' Hurdle in Windows 11: Decoding Error 0X800705b4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-msmpengexes-overuse-of-resources-a-guide-for-windows-11-users/"><u>Resolve MsMpEng.exe's Overuse of Resources: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-frustrating-lag-in-minecraft-a-comprehensive-fixing-manual/"><u>Stop Frustrating Lag in Minecraft: A Comprehensive Fixing Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-non-responsive-lenovo-mouse-pads-in-windows-11-8-and-7-repair-guide/"><u>Troubleshooting Tips for Non-Responsive Lenovo Mouse Pads in Windows 11, 8 & #7; [REPAIR GUIDE]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-error-code-0x80073712-on-your-windows-10-system-a-comprehensive-guide/"><u>Understanding and Fixing 'Error Code 0X80073712' On Your Windows 10 System – A Comprehensive Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2025-02-03T01:59:10.045Z
-updated: 2025-02-06T21:15:01.050Z
+date: 2025-02-10T17:52:56.540Z
+updated: 2025-02-16T22:29:03.958Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -57,6 +57,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -72,26 +76,18 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -130,10 +126,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -142,6 +134,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -149,6 +145,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,19 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-spark-interest-and-build-community-through-these-10-igtv-approaches/"><u>[Updated] Spark Interest and Build Community Through These 10 IGTV Approaches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-your-device-casting-troubles-in-windows-11-expert-tips/"><u>Diagnosing and Repairing Your Device Casting Troubles in Windows 11: Expert Tips</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/download-the-exciting-new-beta-version-of-dex-3-pro-featuring-awesome-karaoke-fun/"><u>Download the Exciting New BETA Version of DEX 3 Pro - Featuring Awesome Karaoke Fun!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-monitor-resolution-adjustment-hurdles-now-solved/"><u>Expert Tips for Overcoming Monitor Resolution Adjustment Hurdles – Now Solved</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978829900-get-free-steelseries-drivers-for-arctis-5-headsets-now/"><u>Get Free SteelSeries Drivers for Arctis 5 Headsets Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-corrupted-windows-store-cache-solutions-explored/"><u>How to Fix a Corrupted Windows Store Cache - Solutions Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-functional-spacebar-key-on-windows-11-pcs/"><u>How to Fix a Non-Functional Spacebar Key on Windows 11 PCs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>In 2024, From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-synchronized-sonic-space-techniques-for-achieving-uniform-auditory-dynamics-across-video-content/"><u>In 2024, Synchronized Sonic Space Techniques for Achieving Uniform Auditory Dynamics Across Video Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-riches-301-safe-and-highest-earning-strategies-for-2024/"><u>Instagram Riches 301 Safe and Highest Earning Strategies for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-valorant-lags-post-reboot-solution/"><u>Navigating Valorant Lags: Post-Reboot Solution</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/oneplus-6t-phone-review-great-performance-unbeatable-price/"><u>OnePlus 6T Phone Review: Great Performance, Unbeatable Price</u></a></li>
-<li><a href="https://win11.techidaily.com/the-offline-path-to-windows-11-success/"><u>The Offline Path to Windows 11 Success</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-top-ebook-converters-and-unlock-secure-digital-books-for-universal-access/"><u>Ultimate Guide: Top eBook Converters & Unlock Secure Digital Books for Universal Access</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enhancing-your-iphone-experience-voice-memo-techniques/"><u>[New] Enhancing Your iPhone Experience Voice Memo Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-digging-into-discarded-dittos-art-exploration-tips/"><u>[New] In 2024, Digging Into Discarded Dittos Art Exploration Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-perspective-ranking-the-top-11-multi-angle-cams-for-2024/"><u>[Updated] The Ultimate Perspective Ranking the Top 11 Multi-Angle Cams for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/debugging-the-igfxem-module-a-comprehensive-fix-guide/"><u>Debugging the Igfxem Module: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/setup-making-a-direct-path-for-youtube-subscribers/"><u>Easy Setup Making a Direct Path for YouTube Subscribers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-how-fast-memory-influences-system-responsiveness-and-latency/"><u>Exploring How Fast Memory Influences System Responsiveness and Latency</u></a></li>
+<li><a href="https://video-capture.techidaily.com/focus-on-action-exclude-unwanted-surroundings-for-2024/"><u>Focus on Action, Exclude Unwanted Surroundings for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-15-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 15 Prevention & Solution</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/online-wma-mp4-mov-wma/"><u>Online 무료 WMA 파일을 MP4로 전환하는 방법 - MOV WMA 변환기</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-a-non-functional-mouse-on-your-computer-screen/"><u>Step-by-Step Guide: Resolving a Non-Functional Mouse on Your Computer Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-common-error-0x80071ac3-volume-issues/"><u>Step-by-Step Solutions for the Common Error: 0X80071AC3 - Volume Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-pro-4-active-pen-malfunctions-heres-how-you-can-resolve-them-easily/"><u>Surface Pro 4 Active Pen Malfunctions? Here's How You Can Resolve Them Easily</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-first-to-decipher-encrypted-drives-stellar-enters-history-books/"><u>The First to Decipher Encrypted Drives, Stellar Enters History Books</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-fix-for-invisible-wi-fi-networks-on-a-windows-11-system/"><u>The Fix for Invisible Wi-Fi Networks on a Windows 11 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210590262-troubleshoot-your-unresponsive-dns-quick-and-effective-solutions/"><u>Troubleshoot Your Unresponsive DNS: Quick & Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-pitch-black-display-at-monster-hunter-world-startup/"><u>Troubleshooting a Pitch-Black Display at Monster Hunter: World Startup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-computers-touchpad-fails/"><u>Troubleshooting Steps When Your Computer's Touchpad Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-the-non-responsive-right-click-function-on-a-windows-10-system/"><u>Troubleshooting: Fixing the Non-Responsive Right-Click Function on a Windows 10 System</u></a></li>
 </ul></div>
 

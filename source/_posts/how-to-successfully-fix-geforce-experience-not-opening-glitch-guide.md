@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Fix 'GeForce Experience Not Opening' Glitch [Guide]
-date: 2025-01-31T08:03:35.683Z
-updated: 2025-02-07T14:39:05.107Z
+date: 2025-02-09T22:18:24.624Z
+updated: 2025-02-16T23:47:30.714Z
 tags:
   - win11
   - win10
@@ -36,11 +36,23 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Check on Automatically detect settings
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
@@ -58,15 +70,15 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -78,6 +90,10 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -87,6 +103,10 @@ Now try to install Windows Updates now.
  Then type **ncpa.cpl**  in it and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Now Internet Connection window is open.
 
@@ -106,15 +126,7 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
 
@@ -128,27 +140,15 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -157,10 +157,6 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**WindowsUpdate** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
@@ -173,6 +169,10 @@ If the fixes above didn’t serve you, try this one.
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -195,24 +195,18 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-getting-more-from-instagram-videos-and-photos-for-2024/"><u>[New] Getting More From Instagram Videos & Photos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-video-capture-with-a-focus-on-vsdc/"><u>[Updated] Mastering Video Capture with a Focus on VSDC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-step-into-the-world-of-modified-snapchat-speeches-two-simple-steps/"><u>[Updated] Step Into the World of Modified Snapchat Speeches Two Simple Steps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-8-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 8 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquer-desktop-window-managers-greedy-appetite-for-resources-on-pcs-with-windows-1011/"><u>Conquer Desktop Window Manager's Greedy Appetite for Resources on PCs with Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dial-back-high-cpu-usage-by-wmi/"><u>Dial Back High CPU Usage by WMI</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-persistent-cursor-visibility-issues-on-windows-11-touchpads/"><u>Effective Solutions for Persistent Cursor Visibility Issues on Windows 11 Touchpads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-repairing-the-interruption-in-hamachi-network-services/"><u>Expert Guide: Repairing the Interruption in Hamachi Network Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-right-click-function-in-your-windows-10-mouse/"><u>Fixing the Unresponsive Right-Click Function in Your Windows 10 Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-tackle-high-cpu-usage-by-the-system-idle-process-effective-solutions/"><u>How to Tackle High CPU Usage by the 'System Idle Process': Effective Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone XS Max</u></a></li>
-<li><a href="https://windows11.techidaily.com/mellowing-down-after-a-stormy-surge-in-windows-settings/"><u>Mellowing Down After a Stormy Surge in Windows Settings</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-top-8-mac-daws-with-in-depth-analysis/"><u>New The Ultimate Guide Top 8 Mac DAWs with In-Depth Analysis</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-strategies-for-high-quality-youtube-mp3mpeg-for-2024/"><u>Prime Strategies for High-Quality YouTube MP3/MPEG for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-freezes-and-unresponsive-behavior-a-step-by-step-guide/"><u>Resolving Windows 11 Freezes and Unresponsive Behavior: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-your-pc-when-it-freezes/"><u>Step-by-Step Guide: Resolving Your PC When It Freezes</u></a></li>
-<li><a href="https://facebook.techidaily.com/theories-on-the-impending-shift-in-facebooks-name/"><u>Theories on the Impending Shift in Facebook’s Name</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-6-innovative-adobe-premiere-pro-techniques/"><u>Unleash Your Creativity 6 Innovative Adobe Premiere Pro Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210531362-unstick-your-unresponsive-usb-mouse-laptop-troubleshooting-steps-for-immediate-relief/"><u>Unstick Your Unresponsive USB Mouse: Laptop Troubleshooting Steps for Immediate Relief!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-expert-guide-to-color-correction-implementing-luts-within-ae-projects/"><u>[New] Expert Guide to Color Correction Implementing LUTs Within AE Projects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-superior-video-playback-on-ios-top-10-app-picks/"><u>[Updated] 2024 Approved Superior Video Playback on iOS Top 10 App Picks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-beyond-basics-why-hdr-dominates-in-video-editing-workflows-for-2024/"><u>[Updated] Beyond Basics Why HDR Dominates in Video Editing Workflows for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-subscription-sensation-top-10-youtube-personalities-by-counts/"><u>2024 Approved Subscription Sensation Top 10 YouTube Personalities by Counts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-channel-hit-the-10000-view-mark-fast/"><u>Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
+<li><a href="https://games-able.techidaily.com/enthralling-eyesight-yet-plagued-by-tech-trials-pimax-crystal-reviewed/"><u>Enthralling Eyesight, Yet Plagued by Tech Trials: Pimax Crystal Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-sticky-or-unresponsive-backspace-button-now-a-step-by-step-guide/"><u>Fix Your Sticky or Unresponsive Backspace Button Now - A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-exploring-skies-in-4k-with-mi-drone/"><u>In 2024, Exploring Skies in 4K with MI Drone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>In 2024, The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208523630-minecraft-stability-restored-correcting-video-card-driver-errors-on-your-windows-pc/"><u>Minecraft Stability Restored: Correcting Video Card Driver Errors On Your Windows PC</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-an-adorable-video-for-your-babys-first-year/"><u>New 2024 Approved How to Make an Adorable Video for Your Babys First Year</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-undetected-storage-device-problem-making-wd-my-passport-work-with-windows/"><u>Resolving Undetected Storage Device Problem: Making WD My Passport Work with Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-damaged-or-broken-usb-connections-in-windows-1011/"><u>Step-by-Step Fixes for Damaged or Broken USB Connections in Windows 10/11</u></a></li>
 </ul></div>
 

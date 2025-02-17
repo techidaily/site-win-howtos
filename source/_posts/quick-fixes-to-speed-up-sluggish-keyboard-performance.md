@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Speed Up Sluggish Keyboard Performance
-date: 2025-01-24T18:34:31.019Z
-updated: 2025-01-25T16:39:01.673Z
+date: 2025-02-10T20:10:24.564Z
+updated: 2025-02-16T21:28:02.160Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -58,7 +58,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -75,16 +75,12 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -92,10 +88,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -115,11 +107,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -184,19 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-free-cam-screen-recorder-review-and-best-alternative/"><u>[New] 2024 Approved Free Cam Screen Recorder Review and Best Alternative</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-steps-to-saving-fb-status-video-memories/"><u>[New] Steps to Saving Fb Status Video Memories</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-keeping-balance-in-the-world-of-immersive-virtuality/"><u>2024 Approved Keeping Balance in the World of Immersive Virtuality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-windows-11-v1803-update-failures-a-comprehensive-solution-guide/"><u>Bypassing Windows 11 (v1803) Update Failures: A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-persistent-usb-errors-a-guide-to-fixing-device-unrecognized-messages/"><u>Eliminate Persistent USB Errors: A Guide to Fixing 'Device Unrecognized' Messages</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-deal-on-mobvoi-ticwatch-e2-cheap-price-but-how-about-quality/"><u>Exploring the Deal on Mobvoi TicWatch E2 - Cheap Price, But How About Quality?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976940966-get-the-latest-windows-7-wi-fi-driver-software-free-now/"><u>Get the Latest Windows 7 Wi-Fi Driver Software Free Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-recover-from-the-sfc-service-failure-on-your-pc/"><u>How to Successfully Recover From the Sfc Service Failure on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211140726-hp-keyboard-issue-fix-unresponsive-buttons-on-your-laptop-fast/"><u>HP Keyboard Issue? Fix Unresponsive Buttons on Your Laptop Fast</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improve-your-deathloop-gameplay-on-pc-by-fixing-stuttering-problems-strategies-revealed/"><u>Improve Your Deathloop Gameplay on PC by Fixing Stuttering Problems - Strategies Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-video-creation-on-windows-10-a-step-by-step-guide-for-2024/"><u>Mastering Video Creation on Windows 10 A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/monitor-and-source-mismatch-error-incorrect-display-timing-configuration/"><u>Monitor and Source Mismatch Error - Incorrect Display Timing Configuration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-file-explorer-freezing-issues-on-windows-10-a-complete-guide/"><u>Resolving File Explorer Freezing Issues on Windows 10: A Complete Guide</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-4-methods-zum-erstellen-einer-windows-10-sicherung-auf-einem-nas-speichergerat-synology-and-qnap/"><u>Top 4 Methods Zum Erstellen Einer Windows 10 Sicherung Auf Einem NAS-Speichergerät - Synology & QNAP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-error-45-in-system-settings/"><u>[FIXED] Error 45 in System Settings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snap-to-success-top-pixlr-editing-methods-unveiled/"><u>[New] Snap to Success Top Pixlr Editing Methods Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-evolution-from-previous-to-the-new-huawei-p10-model-for-2024/"><u>[New] The Evolution From Previous to the New Huawei P10 Model for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capturing-authenticity-voice-overs-that-resonate-with-audiences/"><u>[Updated] In 2024, Capturing Authenticity Voice Overs That Resonate with Audiences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/achieve-optimal-fps-a-guide-to-better-gaming-on-windows-11/"><u>Achieve Optimal FPS: A Guide to Better Gaming on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/combining-your-fortnite-profiles-a-step-by-step-guide/"><u>Combining Your Fortnite Profiles: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-bad-image-problem-in-microsofts-latest-operating-systems/"><u>Diagnosing and Repairing the 'Bad Image' Problem in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-fixing-windows-11-update-error-code-0xc1900208/"><u>Effective Solutions: Fixing Windows 11 Update Error Code 0xC1900208</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-the-bug-in-call-of-duty-wwii-game-error-code-erupted-4220/"><u>Fix the Bug in Call of Duty WWII Game (Error Code Erupted: 4220)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-missing-sounds-in-your-netflix-stream-with-simple-techniques/"><u>Fixing Missing Sounds in Your Netflix Stream with Simple Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-dilemma-of-non-detected-headphones-in-your-device/"><u>How to Solve the Dilemma of Non-Detected Headphones in Your Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/i2c-hid-device-driver-error-fixes-a-simplified-approach-to-smoother-operation/"><u>I2C HID Device Driver Error Fixes: A Simplified Approach to Smoother Operation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/nokia-pressing-the-limits-a-comprehensive-analysis-of-a-superior-mid-range-device/"><u>Nokia Pressing the Limits: A Comprehensive Analysis of a Superior Mid-Range Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images-for-2024/"><u>Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-errors-steps-to-fix-specified-module-not-detected-issues/"><u>Resolving Errors: Steps to Fix 'Specified Module Not Detected' Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/the-window-whisperers-guide-to-unveiling-off-screen-apps-in-win-1011-6-proven-steps/"><u>The Window Whisperer's Guide to Unveiling Off-Screen Apps in Win 10/11 (6 Proven Steps)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-total-war-rome-remastered-bug-fixes/"><u>Troubleshooting and Solutions for Total War: Rome Remastered Bug Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-correcting-the-entry-point-not-detected-on-windows/"><u>Troubleshooting: Correcting the 'Entry Point Not Detected' On Windows</u></a></li>
+<li><a href="https://discover-community.techidaily.com/windows-3/"><u>Windows 互換の全画面録画無料ソフトウェア上位3つをご紹介</u></a></li>
 </ul></div>
 

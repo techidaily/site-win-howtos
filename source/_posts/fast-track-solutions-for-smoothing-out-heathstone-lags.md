@@ -1,7 +1,7 @@
 ---
 title: Fast-Track Solutions for Smoothing Out Heathstone Lags
-date: 2025-02-04T11:57:33.319Z
-updated: 2025-02-06T21:34:07.496Z
+date: 2025-02-09T23:11:47.722Z
+updated: 2025-02-16T21:49:17.027Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
@@ -43,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -56,17 +68,9 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
@@ -75,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -85,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
@@ -96,17 +104,13 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
@@ -138,15 +138,15 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -175,19 +175,18 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-obs-toolkit-for-flawless-instagram-streams/"><u>[New] In 2024, The Complete OBS Toolkit for Flawless Instagram Streams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-tailored-transmission-terminal-podcasters-hub-for-2024/"><u>[New] Tailored Transmission Terminal Podcaster's Hub for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>[Updated] Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-visualeye-assessment-tool/"><u>2024 Approved VisualEye Assessment Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-advice-the-right-way-to-dry-out-a-wet-iphone-not-just-with-rice/"><u>Apple Advice - The Right Way to Dry Out a Wet iPhone, Not Just with Rice!</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-windows-allocation-strategy-for-reserve-memory/"><u>Demystifying Windows' Allocation Strategy for Reserve Memory</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-connecting-a-microsoft-wireless-adapter-in-windows-10-systems/"><u>Easy Fixes for Connecting a Microsoft Wireless Adapter in Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-game-freezes-in-popular-battle-royale-titles/"><u>How to Fix Game Freezes in Popular Battle Royale Titles</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-x100-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo X100 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-conundrum-solved-reasons-behind-your-dysfunctional-razer-board/"><u>Keyboard Conundrum Solved: Reasons Behind Your Dysfunctional Razer Board</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-players-rejoice-as-death-stranding-bugs-are-squashed/"><u>PC Players Rejoice as Death Stranding Bugs Are Squashed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-black-screen-issues-on-your-dell-computer/"><u>Step-by-Step Guide: Overcoming Black Screen Issues on Your Dell Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubled-rollout-issues-with-the-latest-windows-10-version-1607-upgrade/"><u>Troubled Rollout: Issues with the Latest Windows 10 Version 1607 Upgrade</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211229315-windows-10-couldnt-be-installed-error-code-80240020-solved/"><u>Windows 10 Couldn't Be Installed Error Code 80240020 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-taskbar-frozen-top-effective-ways/"><u>[Solved] Windows 10 Taskbar Frozen — Top Effective Ways</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-exceptional-counsel-premium-ringtone-developers/"><u>[Updated] Exceptional Counsel Premium Ringtone Developers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-launching-educator-channels-10-key-tips-for-youtube-success/"><u>[Updated] In 2024, Launching Educator Channels 10 Key Tips for YouTube Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-scrolling-problems-with-your-laptops-touchpad-on-windows-11/"><u>How to Fix Scrolling Problems with Your Laptop's Touchpad on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-no-response-from-your-dns-server-with-these-4-simple-methods/"><u>How To Overcome 'No Response' From Your DNS Server with These 4 Simple Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-v29e-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo V29e Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-v30-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo V30 Pro Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-windows-11-slumber/"><u>Mastering the Art of Windows 11 Slumber</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-unsticking-a-frozen-windows-10-updating-process/"><u>Step-by-Step Fixes: Unsticking a Frozen Windows 10 Updating Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-an-unresponsive-external-mouse-on-windowsmac/"><u>Troubleshoot and Repair an Unresponsive External Mouse on Windows/Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visionary-5-android-backdrop-modification-apps-for-iphone/"><u>Visionary 5 Android Backdrop Modification Apps for iPhone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
 

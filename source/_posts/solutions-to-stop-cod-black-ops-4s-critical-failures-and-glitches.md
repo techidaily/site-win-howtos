@@ -1,7 +1,7 @@
 ---
 title: Solutions to Stop COD Black Ops 4'S Critical Failures and Glitches
-date: 2025-01-06T16:57:22.864Z
-updated: 2025-01-13T17:39:59.896Z
+date: 2025-02-14T16:04:29.848Z
+updated: 2025-02-16T22:10:06.327Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,6 +51,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -56,10 +64,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -76,7 +80,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -107,10 +111,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -130,6 +130,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,21 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-great-gopro-race-hero5-black-vs-hero4-silver-edition/"><u>[New] In 2024, The Great GoPro Race Hero5 Black V/S Hero4 Silver Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206025152-solved-crash-the-high-cpu-usage-of-your-system-with-these-tricks-no-matter-if-you-are-using-windows-10linux/"><u>[Solved] Crash the High CPU Usage of Your System with These Tricks, No Matter if You Are Using Windows 10/Linux.</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-explore-the-best-7-platforms-for-transforming-art-into-nfts/"><u>[Updated] 2024 Approved Explore the Best 7 Platforms for Transforming Art Into NFTs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pro-audio-recordings-the-11-best-tools-for-live-events/"><u>[Updated] In 2024, Pro Audio Recordings The 11 Best Tools for Live Events</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-windows-11s-constant-cycling-easy-repair-tips-for-persistent-shutdown-problems/"><u>Beat Windows 11'S Constant Cycling - Easy Repair Tips for Persistent Shutdown Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhance-windows-7-launch-speed-top-solutions-to-combat-delays/"><u>Enhance Windows 7 Launch Speed: Top Solutions to Combat Delays!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-lenovo-thinkphone-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Lenovo ThinkPhone Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-discovering-the-enhanced-vision-in-samsung-galaxy-s8/"><u>In 2024, Discovering the Enhanced Vision in Samsung Galaxy S8</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-explore-better-than-sharex-a-guide/"><u>In 2024, Explore Better Than ShareX - A Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/miniscreen-capture-scrutiny-and-replacements-for-2024/"><u>MiniScreen Capture Scrutiny and Replacements for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-the-power-of-a-lazy-logitech-mouse/"><u>Reviving the Power of a Lazy Logitech Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-microsoft-widi-adapter-connection-failures-on-windows-11-systems/"><u>Step-by-Step Fix: Microsoft WiDi Adapter Connection Failures on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-d3derr-not-available-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting 'D3DERR Not Available' Errors on Your PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-poco-c51-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Poco C51 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstick-your-valorant-startup-a-guide-to-fixing-infinite-loading-screens/"><u>Unstick Your Valorant Startup: A Guide to Fixing Infinite Loading Screens</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-synchronizing-tiktok-viewership-and-facebook-shares/"><u>[Updated] In 2024, Synchronizing TikTok Viewership and Facebook Shares</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premium-capture-suite-chromebook-focus/"><u>2024 Approved Premium Capture Suite Chromebook Focus</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1732516729422-yl-computing-yl-software/"><u>在民主变革过程中，哪位名人成为指引？精选分析：YL Computing解密 - YL Software</u></a></li>
+<li><a href="https://driver-install.techidaily.com/augment-visual-fidelity-with-new-acer-drivers-for-w11/"><u>Augment Visual Fidelity with New Acer Drivers for W11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205801716-bluetooth-keyboard-wont-pair-with-laptop-heres-what-you-can-do/"><u>Bluetooth Keyboard Won't Pair With Laptop? Here’s What You Can Do</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/desktop-icons-disappeared-in-windows-10-solved/"><u>Desktop Icons Disappeared in Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-the-apple-vision-pro-revolutionizing-comfort-for-economy-flyers/"><u>Is the Apple Vision Pro Revolutionizing Comfort for Economy Flyers?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/playful-puzzle-why-do-games-halt-windows/"><u>Playful Puzzle: Why Do Games Halt Windows?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ranking-relaxing-front-row-activities-that-arent-sports-for-2024/"><u>Ranking Relaxing Front Row Activities That Aren't Sports for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-icloud-email-sync-problems-unrecognized-device-fixes/"><u>Resolving iCloud Email Sync Problems: Unrecognized Device Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mouse-pointer-visibility-issues-in-windows-11-a-comprehensive-guide/"><u>Resolving Mouse Pointer Visibility Issues in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-corsair-hs50-expert-solutions-for-a-broken-microphone/"><u>Reviving Your Corsair HS50: Expert Solutions for a Broken Microphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-ps4-nat-error-complete-tutorial-and-fix-guide/"><u>Solve Your PS4 NAT Error: Complete Tutorial & Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-a-dysfunctional-webcam-in-your-lenovo-pc/"><u>Solving the Problem of a Dysfunctional Webcam in Your Lenovo PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/sound-capture-module-for-iphone-24-year/"><u>Sound Capture Module for iPhone '24 Year</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speaking-new-age-evolving-language-learning-methods/"><u>Speaking New Age: Evolving Language Learning Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speedy-boot-solutions-for-windows-7-users-experiencing-delays/"><u>Speedy Boot Solutions for Windows 7 Users Experiencing Delays</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transform-insta-videos-into-mp4-format-expert-methods-revealed/"><u>Transform Insta Videos Into MP4 Format Expert Methods Revealed</u></a></li>
 </ul></div>
 

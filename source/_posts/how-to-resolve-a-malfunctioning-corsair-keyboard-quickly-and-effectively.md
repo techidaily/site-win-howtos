@@ -1,7 +1,7 @@
 ---
 title: How to Resolve a Malfunctioning Corsair Keyboard Quickly and Effectively
-date: 2025-02-03T12:22:36.441Z
-updated: 2025-02-07T12:54:27.473Z
+date: 2025-02-15T23:56:53.522Z
+updated: 2025-02-16T16:02:21.019Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes that have helped other users get their keyboard numbers working again. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,17 +47,21 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
 #### On Windows 11
 
@@ -62,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Enable the NumLock key
 
@@ -78,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
@@ -108,15 +116,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
 
@@ -153,16 +153,18 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-advice-on-valheim-seed-selection/"><u>[New] In 2024, Expert Advice on Valheim Seed Selection</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-ps4-screens-with-obs-full-steps/"><u>[New] In 2024, Mastering PS4 Screens with OBS Full Steps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-art-of-animated-storytelling-tips-for-instagram-text-for-2024/"><u>[New] The Art of Animated Storytelling Tips for Instagram Text for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engage-entertain-and-captivate-adopting-two-point-of-view-in-your-next-youtube-reaction-video-2-pov-method/"><u>[Updated] 2024 Approved Engage, Entertain and Captivate – Adopting Two-Point of View in Your Next YouTube Reaction Video (2 POV Method)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-auroras-influence-on-modern-image-processing-techniques/"><u>[Updated] Aurora's Influence on Modern Image Processing Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcome-livekernelevent-error-code-117/"><u>Comprehensive Guide: Overcome LiveKernelEvent Error Code 117</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone XS iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rapid-resolution-of-logilda-dependency/"><u>Rapid Resolution of LogiLDA Dependency</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-implemented-for-energetic-fluctuations-at-connection-node/"><u>Solution Implemented for Energetic Fluctuations at Connection Node</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208388076-troubleshooting-made-easy-fix-windows-error-code-0xc0000098-in-minutes/"><u>Troubleshooting Made Easy: Fix Windows Error Code 0xC0000098 in Minutes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972162660-windows-11-users-download-realtek-alc-audio-driver-instantly-and-effortlessly/"><u>Windows 11 Users: Download Realtek ALC Audio Driver Instantly & Effortlessly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-virtual-meetups-made-simple-setting-up-video-calls-with-whatsapp-on-your-laptop/"><u>[New] 2024 Approved Virtual Meetups Made Simple Setting up Video Calls with WhatsApp on Your Laptop</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ce-your-shots-top-cameras-and-lenses-for-youtubers/"><u>[New] Ace Your Shots Top Cameras & Lenses for YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-endings-that-stand-out-ranked/"><u>[New] In 2024, Free YouTube Endings That Stand Out - Ranked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-slow-shutdown-issue/"><u>[Solved] Windows 10 Slow Shutdown Issue</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-real-deal-behind-asmr-videos/"><u>[Updated] The Real Deal Behind ASMR Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-pc-freezing-woes-heres-how-to-get-a-smooth-gaming-experience/"><u>Cyberpunk 2077 PC Freezing Woes? Here's How to Get a Smooth Gaming Experience!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-error-code-0x800f020b-during-your-xerox-update-on-pcs-running-windows/"><u>Expert Tips to Overcome Error Code 0X800F020B During Your Xerox Update on PCs Running Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971821422-get-your-msi-z370-a-pros-latest-drivers-here-free-offer/"><u>Get Your MSI Z370-A Pro's Latest Drivers Here – Free Offer</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/making-a-splash-with-youtube-ad-banners-and-thumbnails-for-2024/"><u>Making a Splash with YouTube Ad Banners & Thumbnails for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/recognizing-and-repairing-a-missing-hard-drive-connection-issue-fixes/"><u>Recognizing and Repairing a Missing Hard Drive Connection Issue [FIXES]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-identifying-and-fixing-windows-update-database-issues-on-windows-11/"><u>Resolved: Identifying and Fixing Windows Update Database Issues on Windows 11</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/reveal-hidden-files-on-your-pc-top-7-methods-for-correcting-unseen-documents-in-windows-10-8-and-7/"><u>Reveal Hidden Files on Your PC: Top 7 Methods for Correcting Unseen Documents in Windows 10, 8 & 7</u></a></li>
 </ul></div>
 

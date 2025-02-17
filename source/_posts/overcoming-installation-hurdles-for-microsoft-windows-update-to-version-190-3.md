@@ -1,7 +1,7 @@
 ---
 title: Overcoming Installation Hurdles for Microsoft Windows Update to Version 190 3
-date: 2025-02-04T06:19:53.622Z
-updated: 2025-02-07T06:30:10.201Z
+date: 2025-02-11T00:54:19.898Z
+updated: 2025-02-16T22:06:44.081Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a395
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions you can try. You shouldn’t have to do every single one. Just try each one in turn until everything’s working again.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a395
 3. [**Update your printer driver**](https://tools.techidaily.com/drivereasy/download/)
 
  Note: All the screenshots below come from Windows 10, but the fixes also work on Windows 7 & Windows 8.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Reinstall your printer
 
@@ -50,10 +58,6 @@ You should first uninstall the printer from your computer.
  1) Open**Control Panel** , and click**Devices and Printers** (you should view by small icons to find Devices and Printers).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the**Printers** section, right click on your**printer** , and select**Remove device** .
 
@@ -75,15 +79,15 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16c4e6d68c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Wait for your Windows to search your printer.
 
 4) After searching, select your printer, and click**Next** to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16cce058a8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Your computer will automatically connect to your printer and install it in your computer.
 
@@ -100,16 +104,12 @@ Now you should reinstall your printer to your computer.
  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16dab47de2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Double click**Printers** to expand it, and right click on your printer (it may show as**Unknown device** ), and select**Uninstall device** .
 
@@ -119,9 +119,17 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae17154337fb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) After uninstalling, restart your computer and Windows will reinstall the printer driver for you.
 
  Try your printer again and the error should be removed now. If the error still persists, you can try[Method 3](https://tools.techidaily.com/drivereasy/download/) to update your printer driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Update your printer driver
 
@@ -143,19 +151,11 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
 
  Or click **Update**  **All**   to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click _**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae1720acdb02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer, and try your printer to see if the error disappears.
 
@@ -178,20 +178,21 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-archival-artifacts-radeons-revamp/"><u>[Updated] Archival Artifacts Radeon's Revamp</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-youtubes-premier-news-channels-for-subscribers-for-2024/"><u>[Updated] Exploring YouTube's Premier News Channels for Subscribers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-maximize-youtube-views-a-comprehensible-guide-to-collaborative-videos-for-2024/"><u>[Updated] Maximize YouTube Views A Comprehensible Guide to Collaborative Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-smoothing-face-transitions-motion-blur-techniques-in-picsart/"><u>[Updated] Smoothing Face Transitions Motion Blur Techniques in Picsart</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/becoming-an-instagram-video-conversation-guru-your-ultimate-guide-for-2024/"><u>Becoming an Instagram Video Conversation Guru Your Ultimate Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-your-corsair-keyboard-solutions-explored/"><u>Fixing Issues with Your Corsair Keyboard - Solutions Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-night-light-setting-in-windows-1011-a-step-by-step-tutorial/"><u>How to Repair a Broken Night Light Setting in Windows 10/11 – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-non-responsive-sound-issues-in-windows-11/"><u>How to Troubleshoot Non-Responsive Sound Issues in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-find-the-top-25-online-hubs-for-affordable-video-effectiveness/"><u>In 2024, Find the Top 25 Online Hubs for Affordable Video Effectiveness</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/incompatibility-between-games-and-systems/"><u>Incompatibility Between Games & Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-issues-with-windows-1011s-fixing-tools/"><u>Overcoming Issues with Windows 10/11'S Fixing Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-entry-point-not-located-issue-on-your-pc-a-comprehensive-guide/"><u>Resolving the 'Entry Point Not Located' Issue on Your PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-your-laptops-unresponsive-trackpad/"><u>Solving the Problem of Your Laptop's Unresponsive Trackpad</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/undeleting-made-easy-with-recuva-an-in-depth-look-at-the-premier-data-rescue-app/"><u>Undeleting Made Easy with Recuva: An In-Depth Look at the Premier Data Rescue App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-correctly-solve-the-persistent-windows-0x8024402c-update-issue/"><u>Winning Strategies to Correctly Solve the Persistent Windows 0X8024402C Update Issue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-strategies-for-posting-and-uploading-gifs-on-instagram-for-2024/"><u>[New] Step-by-Step Strategies for Posting & Uploading GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-perfect-lines-in-digital-imagery/"><u>[Updated] 2024 Approved Crafting Perfect Lines in Digital Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sketchsquad-full-scrutiny-and-step-by-step-guidebook-24/"><u>[Updated] 2024 Approved SketchSquad Full Scrutiny & Step-by-Step Guidebook '24</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/control-question-who-manages-chatgpt-now-if-not-openai/"><u>Control Question: Who Manages ChatGPT Now, If Not OpenAI?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/deciphering-adsense-profits-on-youtube-revenue-per-kv-watched/"><u>Deciphering AdSense Profits on YouTube Revenue per KV Watched</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/end-the-self-removal-spree-resolve-nvidia-driver-issue/"><u>End the Self-Removal Spree: Resolve Nvidia Driver Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-apples-tech-spectacle-the-iphone-16-glowtime-ai-advancements-and-the-new-apple-watch-series-10-zdnet/"><u>Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10 | ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-resolving-mic-issues-in-windows-10/"><u>Fixes & Tips: Resolving Mic Issues in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-functionality-in-windows-10-pcs/"><u>How To Restore Brightness Functionality in Windows 10 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-we-overcame-the-problem-of-contacting-a-non-responsive-dhcp-server/"><u>How We Overcame the Problem of Contacting a Non-Responsive DHCP Server</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 12 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-key-stickiness-on-new-windows-operating-systems-a-comprehensive-fix-guide/"><u>Resolving Key Stickiness on New Windows Operating Systems: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-tips-for-non-working-dvds-in-windows-media-player/"><u>Solution Tips for Non-Working DVDs in Windows Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-tips-for-non-responsive-dell-wireless-keyboards/"><u>Step-by-Step Repair Tips for Non-Responsive Dell Wireless Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-livekernelevent-117-mistake/"><u>Ultimate Guide: Resolving the LiveKernelEvent 117 Mistake</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/unveiling-the-true-expenses-the-complete-breakdown-of-hosting-karaoke-at-your-local-bar-or-eatery/"><u>Unveiling the True Expenses: The Complete Breakdown of Hosting Karaoke at Your Local Bar or Eatery</u></a></li>
 </ul></div>
 

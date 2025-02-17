@@ -1,7 +1,7 @@
 ---
 title: Unstick a Frozen DNS Server - A User's Guide to 5 Swift Resolutions
-date: 2025-01-10T16:42:15.751Z
-updated: 2025-01-13T16:08:59.106Z
+date: 2025-02-13T20:51:42.751Z
+updated: 2025-02-17T01:11:59.982Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
 
@@ -66,7 +62,7 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
@@ -74,7 +70,7 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -88,7 +84,7 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
@@ -96,6 +92,10 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -113,15 +113,15 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -142,21 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/et-premium-banners-no-cost-just-click/"><u>[New] Get Premium Banners - No Cost, Just Click</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-childs-drone-pick-top-five-suggestions/"><u>[New] In 2024, Child's Drone Pick Top Five Suggestions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-speedy-record-and-audio-assisted-session-creator/"><u>[New] Speedy Record & Audio-Assisted Session Creator</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-master-the-game-with-standout-tiktok-profile-frames/"><u>[Updated] 2024 Approved Master the Game with Standout TikTok Profile Frames</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/come-imparare-ad-usare-robocopy-su-windows-11-unessenziale-guida-e-sostituto/"><u>Come Imparare Ad Usare Robocopy Su Windows 11: Un'Essenziale Guida E Sostituto</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-copy-and-paste-features-in-your-windows-11-operating-system/"><u>How to Restore Copy and Paste Features in Your Windows 11 Operating System</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-next-gen-screen-leaders-best-4k-tvs/"><u>In 2024, Next-Gen Screen Leaders Best 4K TVs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-netflix-not-working-properly-uncover-the-causes-and-quick-fixes/"><u>Is Netflix Not Working Properly? Uncover the Causes and Quick Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-your-internet-the-culprit-or-is-it-actually-blizzards-battlenet-down/"><u>Is Your Internet The Culprit? Or Is It Actually Blizzard's Battle.net Down?</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-windows-11-hidden-folders-reveal/"><u>Optimizing Windows 11: Hidden Folders Reveal</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-writers-block-in-computer-memory-dealing-with-a-referenced-location-at-0x-0x/"><u>Overcoming Writer's Block in Computer Memory: Dealing with a Referenced Location at 0X (0X)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-error-code-0x802eb3f6-a-step-by-step-guide/"><u>Resolving Windows 11 Update Error Code 0X802eb3f6: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-astro-a40-mic-step-by-step-troubleshooting-guide/"><u>Reviving Your Astro A40 Mic: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-typing-issues-fix-broken-letter-functions-on-win-1011-computers/"><u>Solving Typing Issues: Fix Broken Letter Functions on Win 10/11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-obtain-trustee-access-from-trustedinstaller-for-file-modification/"><u>Steps to Obtain Trustee Access From TrustedInstaller for File Modification</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/virtual-adventures-await-in-latest-windows-10-gaming-and-apps/"><u>Virtual Adventures Await in Latest Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-becoming-a-voice-alteration-virtuoso-with-morphvox/"><u>[New] In 2024, Becoming a Voice Alteration Virtuoso with MorphVOX</u></a></li>
+<li><a href="https://fox-where.techidaily.com/can-windows-defender-cause-slower-speeds-on-your-laptop-or-desktop-insights-from-yl-software-experts/"><u>Can Windows Defender Cause Slower Speeds on Your Laptop or Desktop? - Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquer-the-configuring-hurdle-troubleshooting-steps-to-unstick-your-windows-installation/"><u>Conquer the Configuring Hurdle: Troubleshooting Steps to Unstick Your Windows Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-address-and-repair-netflix-volume-problems/"><u>Easy Steps to Address and Repair Netflix Volume Problems</u></a></li>
+<li><a href="https://techidaily.com/easy-tips-for-downloading-and-setting-up-hewlett-packards-windows-7-compatible-drives/"><u>Easy Tips for Downloading and Setting Up Hewlett Packard's Windows 7 Compatible Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-follow-instructions-on-how-to-reboot-and-repair-a-faulty-keyboard/"><u>Easy-to-Follow Instructions on How to Reboot and Repair a Faulty Keyboard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-these-6-cutting-edge-alternatives-to-openai-sora-start-using-them-without-paying-a-penny/"><u>Explore These 6 Cutting-Edge Alternatives to OpenAI Sora – Start Using Them Without Paying a Penny</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/microsoft-surface-studio-2-evaluation-premium-all-in-one-desktop/"><u>Microsoft Surface Studio 2 Evaluation: Premium All-in-One Desktop</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-make-a-countdown-video-for-2024/"><u>New Make A Countdown Video for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-up-video-playback-enable-youtubes-advanced-av1-setting-for-2024/"><u>Step Up Video Playback Enable YouTube's Advanced AV1 Setting for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-the-critical-videodxgkrnlerror-on-your-pc/"><u>Step-by-Step Solutions to Overcome the Critical Video_dxgkrnl_error on Your PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-great-video-editor-debate-sony-vegas-vs-adobe-premiere-pro-2023-comparison/"><u>The Great Video Editor Debate Sony Vegas vs Adobe Premiere Pro 2023 Comparison</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-solutions-fixing-windows-update-issues-successfully/"><u>Troubleshooting Solutions: Fixing Windows Update Issues Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-reappearing-bluetooth-drivers-in-computers-device-manager/"><u>Troubleshooting Tips for Reappearing Bluetooth Drivers in Computer's Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshooting-and-solving-windows-11s-bluetooth-connection-issues/"><u>Ultimate Guide: Troubleshooting & Solving Windows 11'S Bluetooth Connection Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Graphics Card Compatibility Issues with Fortnite on Windows
-date: 2024-08-19T07:50:16.269Z
-updated: 2024-08-20T07:50:16.269Z
+date: 2025-02-09T19:12:03.015Z
+updated: 2025-02-16T22:34:40.862Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
 **Note** : the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure the DirectX features are enabled
 
  To fix the error**Failed to initialize unity graphics** , you need first ensure that the DirectX features in your computer are enabled and working properly. To do so, follow the steps below:
@@ -45,17 +49,22 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2cc49373546.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the**DirectX** **Features** section, make sure**DirectDraw Acceleration** ,**Direct3D Acceleration** and**AGP Texture Acceleration** are**enabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2cc4b3bfca4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) If any of them is disabled, enable it and restart your computer.
 
  6) Restart the Unity program to see if the error is removed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update graphics card driver
 
  The missing or outdated graphics card driver can cause the**Failed to initialize unity graphics** error, so you should update your graphics card driver to the latest version to fix the issue.
@@ -76,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged graphics device to automatically download the correct version of the driver (you can do this with the**FREE** version), then install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
@@ -86,13 +92,15 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2cb658c5eed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Roll back graphics card driver
 
  You can also try to roll back your graphics card driver to resolve the error.
@@ -109,16 +117,10 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  3) Go to**Tools** \>**Driver Restore** , and follow the on-screen instructions to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2cc510262f5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -135,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +144,24 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-8-youtube-imagery-techniques-for-higher-engagement/"><u>[New] 2024 Approved Top 8 YouTube Imagery Techniques for Higher Engagement</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iral-video-vanguard-youtubes-powerful-personalities/"><u>[New] Viral Video Vanguard YouTube's Powerful Personalities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-methods-to-install-the-av1-codec-on-your-pc-a-guide-for-windows-10-and-11-users/"><u>Best Methods to Install the AV1 Codec on Your PC: A Guide for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-enhancements-top-new-functionalities-of-apples-watchos-11-revealed-zdnet/"><u>Exciting Enhancements: Top New Functionalities of Apple's WatchOS 11 Revealed | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-how-to-troubleshoot-and-fix-a-non-functional-ps4-mic/"><u>Expert Guide: How to Troubleshoot and Fix a Non-Functional PS4 Mic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-usb-mouse-solutions-for-your-laptop-woes/"><u>Fixing a Non-Responsive USB Mouse: Solutions for Your Laptop Woes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-pre-hunt-darkness-a-guide-to-resolving-startup-blackouts-in-monster-hunter-world/"><u>Fixing Pre-Hunt Darkness: A Guide to Resolving Startup Blackouts in Monster Hunter: World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-display-driver-has-recovered-message-on-your-screen/"><u>Fixing the 'Display Driver Has Recovered' Message on Your Screen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-cant-hear-anyone-on-discord/"><u>How to Fix Can't Hear Anyone on Discord</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-edge-40-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Edge 40? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-asus-rog-phone-8-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Asus ROG Phone 8 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-epson-wf-7710-drivers-compatible-with-various-windows-systems-including-windows-11/"><u>Install Epson WF-7710 Drivers: Compatible with Various Windows Systems (Including Windows 11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-solution-trouble-free-dvd-viewing-for-your-windows-system/"><u>Master the Solution: Trouble-Free DVD Viewing for Your Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-restore-non-functioning-fn-buttons-on-your-lenovo-laptop-or-desktop/"><u>Quick Fixes to Restore Non-Functioning FN Buttons on Your Lenovo Laptop or Desktop</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-to-masterfully-merging-clips-for-windowsmac-users-and-ios-devices/"><u>Step-by-Step Guide to Masterfully Merging Clips for Windows/Mac Users and iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-methods-to-resolve-high-gpu-demand-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Methods to Resolve High GPU Demand by the Desktop Window Manager on Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-a-warframe-game-patch-installation-error/"><u>Troubleshooting Tips: Resolving a Warframe Game Patch Installation Error</u></a></li>
+</ul></div>
 

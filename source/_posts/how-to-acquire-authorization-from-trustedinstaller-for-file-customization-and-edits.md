@@ -1,7 +1,7 @@
 ---
 title: How To Acquire Authorization From TrustedInstaller for File Customization and Edits
-date: 2024-08-19T07:50:38.925Z
-updated: 2024-08-20T07:50:38.925Z
+date: 2025-02-09T23:20:34.323Z
+updated: 2025-02-17T00:52:57.453Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ For game players, Steam is the window of the world of gaming. But there are situ
 6. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run Steam as administrator
 
  These error messages may indicate that it’s a permission issue. If the Steam client didn’t have the necessary permissions to download the updates, the issue will occur and you will not be able to continue the download process. To fix it, you can forcibly open Steam with administrative privileges.
@@ -38,6 +42,10 @@ For game players, Steam is the window of the world of gaming. But there are situ
  1) Right-click on the shortcut and select**Run as Administrator** .  
   
 ![Run Steam as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/Run-Steam-as-administrator.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Now open your Steam client and resume the download of your game. If you didn’t receive the error message, congrats! In this case, you can always make Steam run as administrator. Follow the steps below to do this:  
  (If granting Steam with administrative rights didn’t solve the issue, proceed to the next[fix2](https://tools.techidaily.com/drivereasy/download/) . )
@@ -48,9 +56,17 @@ For game players, Steam is the window of the world of gaming. But there are situ
   
 ![make Steam always run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/open-file-location-Steam.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) The**steam.exe** should be highlighted. Simply right-click it and select**Properties** .  
   
 ![make Steam always run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/Steam-Properties.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Select the**Compatibility** tab. Check**Run this program as an administrator** . Then click**Apply > OK** to save the changes.  
   
@@ -66,16 +82,10 @@ For game players, Steam is the window of the world of gaming. But there are situ
   
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
   
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Change settings** if it’s enabled on your end. Then click **Allow another app** .  
   
 ![allow VALORANT through windows firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-another-app-1.jpg)
@@ -86,9 +96,6 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 3\. Change the download region
 
  It could be possible that there’s an ongoing server issue in your region. So you can change the download region to prevent the issue. Here’s how you can do this:
@@ -101,23 +108,18 @@ For game players, Steam is the window of the world of gaming. But there are situ
   
 ![how to change download region in Steam](https://images.drivereasy.com/wp-content/uploads/2021/01/change-download-region.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Now simply click**RESTART STEAM** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/RESTART-STEMA.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If changing the download region didn’t help you solve the issue, don’t worry. There are some other fixes for you.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Clear download cache
 
  Whenever you login Steam, they store the locally cached configuration data. But sometimes these download cache may cause some issues. To resolve it, you can clear the cache from its interface.
@@ -130,14 +132,6 @@ For game players, Steam is the window of the world of gaming. But there are situ
   
 ![clear download cache](https://images.drivereasy.com/wp-content/uploads/2021/01/clear-download-cache.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Simply click**OK** when asked for confirmation and you’ll be required to login to Steam again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/select-OK-to-confirm-the-changes.png)
@@ -155,17 +149,19 @@ For game players, Steam is the window of the world of gaming. But there are situ
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Under the**Processes** tab, right-click the programs that you’re not currently using and select**End task** .  
   
 ![disable unnecessary programs to free up space](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-unnecessary-programs.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Update your network adapter driver
 
  These error messages may occur due to a driver inconsistency especially when you’re connected to a wireless network. An outdated or faulty network driver may be the culprit. To fix it, you should update your driver. This is really important when you can’t remember when was the last time you updated your drivers.
@@ -184,13 +180,14 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -206,6 +203,10 @@ Here’s how to update your drivers with Driver Easy:
  To make sure you completely exit Steam, open Task Manager and look for **Steam Client Service**  and **Steam Client WebHelper** . Right-click on them and select **End task** .  
   
 ![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On your keyboard, press the **Windows logo key** and **E**  at the same time to open File Explorer.
 
@@ -225,8 +226,6 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +233,21 @@ Here’s how to update your drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-pro-level-screen-recording-on-pc-and-mac-uncovered/"><u>[New] 2024 Approved Pro-Level Screen Recording on PC & Mac Uncovered</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ai-driven-nomenclature-best-10-name-generators-online-for-2024/"><u>[New] AI-Driven Nomenclature Best 10 Name Generators Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-precision-close-up-techniques-with-kinemaster-software/"><u>[New] In 2024, Precision Close-Up Techniques with Kinemaster Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unparalleled-selection-of-budget-stock-media-sites/"><u>[New] Unparalleled Selection of Budget Stock Media Sites</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-3-simplified-ways-to-save-lenovo-screenshots/"><u>[Updated] 2024 Approved 3 Simplified Ways to Save Lenovo Screenshots</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/complete-guide-to-minecraft-an-inclusive-adventure-in-blocks/"><u>Complete Guide to Minecraft: An Inclusive Adventure in Blocks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hardware-breakdown-unrecoverable-issue/"><u>Hardware Breakdown: Unrecoverable Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-in-windows-11-complete-solution/"><u>How to Fix MsMpEng.exe High CPU Usage in Windows 11: Complete Solution</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-everlasting-capture-no-limit-savings-available/"><u>In 2024, Everlasting Capture, No Limit Savings Available</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-lockup-solving-initialization-issues-in-destiny-2/"><u>Overcoming the Lockup: Solving Initialization Issues in Destiny 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-common-issues-with-initializing-smartaudio/"><u>Resolved: Common Issues with Initializing SmartAudio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-issues-with-your-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing Issues with Your Non-Responsive Laptop Trackpad</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/vivid-visions-enhancing-youtubes-aesthentic-content-for-2024/"><u>Vivid Visions Enhancing YouTube's Aesthentic Content for 2024</u></a></li>
+</ul></div>
 

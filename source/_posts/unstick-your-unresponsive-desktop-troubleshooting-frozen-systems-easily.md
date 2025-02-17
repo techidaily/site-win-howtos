@@ -1,7 +1,7 @@
 ---
 title: "Unstick Your Unresponsive Desktop: Troubleshooting Frozen Systems Easily"
-date: 2024-08-19T07:55:04.485Z
-updated: 2024-08-20T07:55:04.485Z
+date: 2025-02-13T19:35:40.747Z
+updated: 2025-02-16T19:28:16.851Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Suddenly you cannot access any websites through the Internet. Then you try to tr
 
 If this problem occurs, don’t worry. Follow this guide to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 If you’d like to know why you can’t browse the Internet due to the **‘DNS server not responding**, you can go to read the [reason part](#reason). Otherwise, follow along with the solutions directly.
@@ -36,6 +40,10 @@ If you’d like to know why you can’t browse the Internet due to the **‘DNS 
 **Bonus Tip: Try using [VPN](https://tools.techidaily.com/drivereasy/download/)to fix the connection problem.**
 
 **Note:** The screens shown below are from Windows 10, but all the methods also apply to Windows 11/8/7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Correct your DNS server address
 
@@ -59,6 +67,10 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128e6af137d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Click **Internet Protocol Version 4(TCP/IPv4)**, then **Properties**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
@@ -71,17 +83,22 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12903014de5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Solution 2: Clear your DNS cache and reset your IP
 
 There may be problems with your DNS server if its cache is getting full. To see if that’s the case, try clearing the DNS cache and resetting the IP address.
@@ -90,9 +107,6 @@ There may be problems with your DNS server if its cache is getting full. To see 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1298fb8c2d7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 **Note:** Click **Yes** when prompted by the User Account Control.
 
 2) On the open black window, type the following commands and press **Enter** after each.
@@ -111,9 +125,6 @@ Then restart your computer and try to access the website you want to visit again
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 3: Update your network adapter driver
 
 Your DNS server won’t respond if the network adapter driver is outdated. You can update your network adapter driver manually or, if you’re not confident playing around with drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**.
@@ -127,19 +138,21 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)  
 **Note**: You can do it for free if you like, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating your network adapter driver, please restart your computer. Try to access the website you want to go to again and see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Restart your modem and router
 
@@ -149,9 +162,6 @@ If your modem or router doesn’t work properly, the DNS server could stop respo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 2) Try to access the website you want to go to again and see if it succeeds.
 
 ---
@@ -176,8 +186,6 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +193,19 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-visual-storytellers-unite-7-prime-3d-design-and-animation-applications/"><u>[New] Visual Storytellers Unite 7 Prime 3D Design & Animation Applications</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-tune-into-trends-how-to-mix-music-in-storytelling/"><u>[Updated] 2024 Approved Tune Into Trends How to Mix Music in Storytelling</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-dataguardian-consultants-insights/"><u>[Updated] DataGuardian Consultants Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-what-is-filmora-certified-creative-program-and-how-to-become-an-fcc/"><u>[Updated] In 2024, What Is Filmora Certified Creative Program and How to Become an FCC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uncharted-top-free-speech-to-text-for-mac-users/"><u>2024 Approved Uncharted Top Free Speech-to-Text for Mac Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-nokia-c02-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Nokia C02?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-pc-startup-problems-a-step-by-step-guide-for-oddworld-soulstorm/"><u>Overcoming PC Startup Problems: A Step-by-Step Guide for Oddworld Soulstorm</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-ssl-errors-and-establishing-a-secure-connection-in-firefox/"><u>Resolved: Overcoming SSL Errors and Establishing a Secure Connection in Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reveal-your-taskbar-in-windows-10-simple-troubleshooting-steps/"><u>Reveal Your Taskbar in Windows 10 – Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fix-for-usb-device-not-recognized-get-back-to-business/"><u>Simple Fix for 'USB Device Not Recognized': Get Back to Business!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/tiktok-beats-as-ringtones-practical-approach-for-mobile-users/"><u>TikTok Beats as Ringtones Practical Approach for Mobile Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-5-effective-solutions-to-restore-touchscreen-functionality/"><u>Troubleshooting Windows 11: 5 Effective Solutions to Restore Touchscreen Functionality</u></a></li>
+</ul></div>
 

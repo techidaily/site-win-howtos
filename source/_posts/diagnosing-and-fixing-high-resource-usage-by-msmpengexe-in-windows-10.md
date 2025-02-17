@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing High Resource Usage by MsMpEng.exe in Windows 10
-date: 2025-02-03T22:56:43.925Z
-updated: 2025-02-07T02:53:37.806Z
+date: 2025-02-14T21:03:20.179Z
+updated: 2025-02-16T18:47:20.802Z
 tags:
   - win11
   - win10
@@ -34,15 +34,27 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -53,16 +65,12 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
@@ -71,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -114,17 +118,9 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -139,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -154,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -175,15 +175,24 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-building-an-engaged-youtube-community-subscribers/"><u>[New] Building an Engaged Youtube Community (Subscribers)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-improving-box-pull-back-pleasure-for-2024/"><u>[New] Improving Box Pull-Back Pleasure for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-navigating-influencer-growth-on-instagram-top-5-steps-with-real-success/"><u>[New] In 2024, Navigating Influencer Growth on Instagram Top 5 Steps with Real Success</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-10-stabilizing-tech-for-youtube-creators-success-for-2024/"><u>[New] Top 10 Stabilizing Tech for YouTube Creators' Success for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-meta-versus-omni-the-future-of-digital-worlds/"><u>[Updated] Meta versus Omni The Future of Digital Worlds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-dell-speakers-not-working/"><u>How To Fix Dell Speakers Not Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206584186-hp-laptop-usb-issues-heres-how-you-can-get-them-fixed/"><u>HP Laptop USB Issues? Here's How You Can Get Them Fixed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nubia-z50-ultra-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nubia Z50 Ultra</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-geforce-experience-launch-problem-step-by-step-guide/"><u>Resolving the GeForce Experience Launch Problem: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-10-and-11-systems/"><u>Troubleshooting Non-Functional USB Ports on Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-dial-in-on-quality-a-step-by-step-zoom-setup-guide/"><u>[New] 2024 Approved Dial in on Quality A Step-by-Step Zoom Setup Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-pixelpioneer-8-version-visual-conjurer/"><u>[New] In 2024, PixelPioneer 8-Version Visual Conjurer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-monetizing-your-youtube-content-costing/"><u>[New] Monetizing Your YouTube Content Costing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ai-revolution-siri-now-replaces-bing-as-apples-core-search-engine-is-it-time-for-a-transformation/"><u>AI Revolution: Siri Now Replaces Bing as Apple's Core Search Engine – Is It Time for a Transformation?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-vanishing-mouse-pointer-issue-in-windows-10-a-complete-guide/"><u>Fixing the Vanishing Mouse Pointer Issue in Windows 10 - A Complete Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-step-by-step-io-screen-capture-tutorial/"><u>In 2024, Step-by-Step IO Screen Capture Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206451105-oddworld-soulstorm-crashing-on-windows-10-heres-the-solution/"><u>Oddworld Soulstorm Crashing On Windows 10? Here's The Solution!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hang-ups-tips-for-unsticking-windows-11-performance-issues/"><u>Overcoming Hang-Ups: Tips for Unsticking Windows 11 Performance Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-lava-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Lava</u></a></li>
+<li><a href="https://techidaily.com/quick-and-easy-tutorial-installing-updated-gpu-drivers-on-windows-10/"><u>Quick & Easy Tutorial: Installing Updated GPU Drivers on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-high-cpu-consumption-issues-caused-by-wudfhostexe-on-windows-10/"><u>Resolving High CPU Consumption Issues Caused by wudfhost.exe on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-a-non-functional-aoc-usb-monitor-under-windows-11-operating-system/"><u>Solving the Problem of a Non-Functional AOC USB Monitor Under Windows 11 Operating System</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-throwing-epic-intros-with-imovie/"><u>Step-by-Step Throwing Epic Intros with iMovie</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stuck-with-a-non-printable-pdf-heres-how-to-solve-it-fast/"><u>Stuck with a Non-Printable PDF? Here's How to Solve It Fast</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-best-8-speech-transcription-services-suitable-for-all-major-os-including-cloud-computing/"><u>The Best 8 Speech Transcription Services Suitable for All Major OS Including Cloud Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-error-code-0x80224200d-when-updating-windows-solutions-inside/"><u>Troubleshooting Guide: Fixing Error Code 0X802^24200D When Updating Windows – Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-user-preferences-arent-working-properly/"><u>Troubleshooting Tips for When User Preferences Aren't Working Properly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/utilizing-zoom-to-upgrade-tiktok-video-aesthetics/"><u>Utilizing Zoom to Upgrade TikTok Video Aesthetics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-power-crisis-fixing-code-41/"><u>Windows Power Crisis: Fixing Code 41</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve Disconnected Network Cable Issues on Your Windows PC
-date: 2024-08-19T07:49:29.800Z
-updated: 2024-08-20T07:49:29.800Z
+date: 2025-02-11T18:00:48.867Z
+updated: 2025-02-16T21:28:25.700Z
 tags:
   - win11
   - win10
@@ -59,18 +59,25 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -81,14 +88,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -98,8 +104,9 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -109,9 +116,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -126,8 +135,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +142,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-elevate-your-gaming-experience-4-techniques-for-gameplay-snaps/"><u>[New] Elevate Your Gaming Experience 4 Techniques for Gameplay Snaps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-guide-to-utilizing-instagrams-inquiry-icon/"><u>[New] The Ultimate Guide to Utilizing Instagram's Inquiry Icon</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturefreeplay-cutting-edge-recording-for-gamers-for-2024/"><u>[Updated] CaptureFreePlay Cutting-Edge Recording for Gamers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-your-own-beat-no-cost-fb-version/"><u>[Updated] In 2024, Your Own Beat, No Cost - FB Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-to-repairing-print-to-pdf-feature-issues-in-windows-11-by-microsoft/"><u>A Comprehensive Guide to Repairing 'Print to PDF' Feature Issues in Windows 11 by Microsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/backspace-not-responding-heres-how-you-can-solve-this-problem/"><u>Backspace Not Responding? Here’s How You Can Solve This Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-slowdown-effective-fixes-for-fallout-4-stutter/"><u>Beat the Slowdown: Effective Fixes for Fallout 4 Stutter</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-for-unresponsive-realtek-microphones/"><u>Common Problems and Solutions for Unresponsive Realtek Microphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-implemented-for-battleye-service-launch-problems-seamless-operation-restored/"><u>Fix Implemented for BattlEye Service Launch Problems - Seamless Operation Restored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212052937-fixing-volume-control-icons-in-windows-11-with-helpful-illustrations/"><u>Fixing Volume Control Icons in Windows 11 with Helpful Illustrations.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-end-video-resizer-unparalleled-definition/"><u>High-End Video Resizer Unparalleled Definition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-overcome-outriders-game-delays-successfully/"><u>How to Overcome Outriders Game Delays Successfully</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connection-hurdles-a-users-guide-to-fixing-microsoft-dp-adapter-issues-on-windows-11/"><u>Overcoming Connection Hurdles: A User's Guide to Fixing Microsoft DP Adapter Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-unable-to-remove-usb-drive-errors-on-windows-1087/"><u>Resolving 'Unable to Remove USB Drive' Errors on Windows 10/8/7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-hyperx-cloud-alpha-s-headset-microphone-expert-solutions-to-fix-the-silence/"><u>Revive Your HyperX Cloud Alpha S Headset Microphone - Expert Solutions to Fix the Silence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-the-instruction-at-0xreferenced-memory-at-0x-the-memory-could-not-be-written/"><u>SOLVED: The Instruction at 0Xreferenced Memory at 0X. The Memory Could Not Be Written</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-code-0x800f0831-quickly-with-the-help-of-windows-updates/"><u>Troubleshooting Code 0X800F0831 Quickly with the Help of Windows Updates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-and-converter-version-history-with-new-features/"><u>WinX DVD Ripper & Converter Version History with New Features</u></a></li>
+</ul></div>
 

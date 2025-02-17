@@ -1,7 +1,7 @@
 ---
 title: "Overcome Broken Arrow Key Issues: Masterful Remedies for Smooth Typing"
-date: 2025-01-23T16:53:46.720Z
-updated: 2025-01-25T18:29:13.669Z
+date: 2025-02-09T23:24:59.982Z
+updated: 2025-02-16T22:35:28.572Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -39,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
  Besides, you can use the online **[Keyboard Tester](https://keyboardtester.co/keyboard-tester)**  to rule out the hardware issue. Simply press each of the keys on your keyboard and see if the key on the screen changes color. If it does, this means that your keyboard is not the problem. Otherwise, you may need to get your keyboard repaired or replaced.
 
  After confirming that your hardware is not the problem, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
 
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 4. Right-click your keyboard and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -95,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -119,11 +115,11 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-If this method didn’t work for you, check out the last fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this method didn’t work for you, check out the last fix.
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -149,11 +145,15 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -176,24 +176,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonious-journey-from-picture-to-playlist/"><u>[New] Harmonious Journey From Picture to Playlist</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-learn-to-stream-lol-with-these-simple-steps-3-ways-for-2024/"><u>[Updated] Learn to Stream LOL with These Simple Steps (3 Ways) for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-ideal-cloud-services-with-infinite-capacity/"><u>2024 Approved Ideal Cloud Services with Infinite Capacity</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-popularity-boost-mastering-the-25-essential-hashtags/"><u>2024 Approved Insta-Popularity Boost Mastering the 25 Essential Hashtags</u></a></li>
-<li><a href="https://extra-information.techidaily.com/compact-flight-machines-top-picks-ranked/"><u>Compact Flight Machines - Top Picks Ranked</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-mse-behavior-investigating-why-mssecesesexe-demands-excessive-storage-space-on-pc/"><u>Decoding MSE Behavior: Investigating Why msseceses.exe Demands Excessive Storage Space on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fixes-to-error-0x887a0006-fast-track-troubleshooting-tips/"><u>Effortless Fixes to Error 0X887A0006 - Fast Track Troubleshooting Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-when-your-wacom-tablet-fails-to-operate-properly/"><u>Expert Solutions for When Your Wacom Tablet Fails to Operate Properly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-buildings-not-loading-in-pubg-mobilepc-a-step-by-step-tutorial/"><u>Fixing 'Buildings Not Loading' In PUBG Mobile/PC – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hosted-network-activation-issues-fixed-on-windows-11-how-to-get-it-running-smoothly/"><u>Hosted Network Activation Issues Fixed on Windows 11 – How to Get It Running Smoothly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-high-svchostexe-cpu-usage-in-windows-11-complete-guide/"><u>How to Fix High svchost.exe CPU Usage in Windows 11 – Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-from-system-file-errors-and-enhance-stability-on-windows/"><u>How to Recover From System File Errors and Enhance Stability on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-motorola-edge-40-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Edge 40 Through Google Earth?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-se-by-drfone-ios/"><u>How To Unlock A Found iPhone SE?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-hidden-wi-fi-networks-issue-in-windows-11-a-step-by-step-guide/"><u>Resolving the Hidden Wi-Fi Networks Issue in Windows 11 - A Step by Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resounding-success-laptops-finally-hear-headphones-call/"><u>Resounding Success: Laptops Finally Hear Headphones' Call</u></a></li>
-<li><a href="https://win-blog.techidaily.com/scambia-file-ppm-con-formato-png-senza-costi-convertitore-online-gratuito-di-movavi/"><u>Scambia File PPM Con Formato PNG Senza Costi - Convertitore Online Gratuito Di Movavi</u></a></li>
-<li><a href="https://win-bits.techidaily.com/streaming-music-from-your-apple-watch-via-spotify-a-step-by-step-guide/"><u>Streaming Music From Your Apple Watch via Spotify: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-webster.techidaily.com/ultimate-guide-to-choosing-a-superior-youtube-playlist-downloader-for-macwindows-users/"><u>Ultimate Guide to Choosing a Superior YouTube Playlist Downloader for Mac/Windows Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-channel-with-these-top-11-budget-friendly-tools/"><u>[New] 2024 Approved Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-enhancing-visibility-the-power-of-strategic-facebook-giveaways/"><u>[New] 2024 Approved Enhancing Visibility The Power of Strategic Facebook Giveaways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[New] Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-digital-broadcasting-battle-comparing-facebook-live-youtube-live-and-twitter-spaces/"><u>[New] In 2024, Digital Broadcasting Battle Comparing Facebook LIVE, YouTube Live, & Twitter Spaces</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-15-youtube-experts-in-modern-science-exploration/"><u>[Updated] 2024 Approved Top 15 YouTube Experts in Modern Science Exploration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-networking-board-review-harnessing-the-power-of-lightning-in-miniature/"><u>ASRock Z790I Lightning Wireless Networking Board Review: Harnessing the Power of Lightning in Miniature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridge-the-gap-transferring-files-from-pc-to-ios/"><u>Bridge the Gap Transferring Files From PC to iOS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/discover-engaging-free-slide-shows-with-these-amazing-template-selections/"><u>Discover Engaging, Free Slide Shows with These Amazing Template Selections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212343458-expert-tips-to-restore-your-microsoft-surface-pro-4s-touchscreen-functionality-no-more-frustration/"><u>Expert Tips to Restore Your Microsoft Surface Pro 4'S Touchscreen Functionality - No More Frustration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-missing-desktop-icons-on-windows-10-ultimate-solution/"><u>Fixing Missing Desktop Icons on Windows 10 - Ultimate Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-stuck-peripheral-devices-after-upgrading-to-windows-11/"><u>Fixing Stuck Peripheral Devices After Upgrading to Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-auto-boot-phenomenon-in-your-windows-1-pc-tips-and-tricks/"><u>Fixing the Auto-Boot Phenomenon in Your Windows 1# PC - Tips & Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hurdles-activating-windows-10-hosted-network-feature-successfully/"><u>Overcoming Hurdles: Activating Windows 10 Hosted Network Feature Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-server-downtime-understanding-the-cause-and-solution/"><u>Steam Server Downtime - Understanding the Cause and Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-overcoming-audio-playback-glitches-in-youtube-on-windows-10-computers/"><u>Step-by-Step Solution: Overcoming Audio Playback Glitches in YouTube on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-resolved-incompatibility-issue-with-your-devices-drivers-on-world-of-warcraft/"><u>Troubleshooting: Resolved - Incompatibility Issue with Your Device's Drivers on World of Warcraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-10-volume-dysfunction-heres-how-you-can-get-it-working-again/"><u>Win 10 Volume Dysfunction? Here's How You Can Get It Working Again!</u></a></li>
 </ul></div>
 

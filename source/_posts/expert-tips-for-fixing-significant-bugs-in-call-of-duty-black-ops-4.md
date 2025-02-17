@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Fixing Significant Bugs in Call of Duty: Black Ops 4"
-date: 2024-08-19T07:53:28.747Z
-updated: 2024-08-20T07:53:28.747Z
+date: 2025-02-15T23:52:57.253Z
+updated: 2025-02-17T00:07:43.822Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 3. [**Check your power management settings**](#s3)
 4. [**Update your USB driver**](#s4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Use a different USB port
 
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
@@ -41,16 +45,14 @@ If all your USB ports aren’t working, try Step 2, below.
 1. **Disconnect** the AC adapter or power cord from your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -59,19 +61,23 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Type devmgmt.msc and press Enter.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 ### Step 4: Update your USB driver
@@ -92,13 +98,11 @@ or
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -113,8 +117,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +124,22 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/2024-approved-augmented-reality-stickers-by-google-unveiled-and-compared/"><u>2024 Approved Augmented Reality Stickers by Google Unveiled and Compared</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boost-your-buzz-factor-with-these-3-dynamic-approaches-to-youtube-video-reactions/"><u>Boost Your Buzz Factor with These 3 Dynamic Approaches to YouTube Video Reactions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-failed-bluetooth-keyboard-links-with-your-computer-system/"><u>Diagnosing and Repairing Failed Bluetooth Keyboard Links with Your Computer System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/error-free-windows-11-upgrade-overcoming-installation-hurdle-code-80240020/"><u>Error-Free Windows 11 Upgrade! Overcoming Installation Hurdle Code 80240020</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/fix-for-sudden-audio-gaps-in-obs-captures-for-2024/"><u>Fix for Sudden Audio Gaps in OBS Captures for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-cd-or-dvd-drive-issue-with-error-code-39/"><u>How to Fix CD or DVD Drive Issue with Error Code 39</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-in-windows-11-environment/"><u>How to Resolve Microsoft's Print-to-PDF Problem in Windows 11 Environment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-podcast-writing-with-expert-guidance/"><u>In 2024, Master the Art of Podcast Writing with Expert Guidance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210707915-jump-start-your-dead-laptop-battery-with-these-easy-troubleshooting-steps/"><u>Jump-Start Your Dead Laptop Battery with These Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-windows-11-update-pause-solving-the-99-stall-issue/"><u>Overcome the Windows 11 Update Pause: Solving the 99% Stall Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-miracast-display-issues-upgrading-your-graphics-drivers/"><u>Resolving Miracast Display Issues: Upgrading Your Graphics Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-using-and-evaluating-the-highly-functional-dell-inspiron-a-comprehensive-review-by-zdnet/"><u>The Ultimate Guide to Using and Evaluating the Highly Functional Dell Inspiron - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a1-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A1 5G Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-errors-overcoming-compatibility-problems-with-windows-graphics-drivers/"><u>Troubleshooting Minecraft Errors: Overcoming Compatibility Problems with Windows Graphics Drivers</u></a></li>
+</ul></div>
 

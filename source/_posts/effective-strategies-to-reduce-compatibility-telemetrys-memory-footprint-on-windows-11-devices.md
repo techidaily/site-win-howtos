@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Reduce Compatibility Telemetry's Memory Footprint on Windows 11 Devices
-date: 2024-08-19T07:55:05.584Z
-updated: 2024-08-20T07:55:05.584Z
+date: 2025-02-13T23:59:11.283Z
+updated: 2025-02-16T20:06:15.412Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 3. [**Disable Fast Startup feature**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Registry fix**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disconnect your USB-C device before shut down
 
@@ -51,9 +55,6 @@ The solution for this bug is very simple.
 3. Choose**Troubleshoot** in the left pane. Then click**Power** and click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
 4. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Reboot your computer to apply the changes.
 
 ### Fix 3: Disable Fast Startup feature
@@ -65,27 +66,30 @@ The solution for this bug is very simple.
 1. Press the **Windows logo key + Pause** and click **Control Panel Home** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/0-1.jpg)
 2. Change **View by Large icons** and click **Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
 3. Click **Choose what the power button do** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
-4. Click **Change settings that are currently unavailable** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
-5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
-6. Reboot your computer to apply the changes.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
+4. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
+5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
+6. Reboot your computer to apply the changes.
+
 ### Fix 4: Repair system files
 
  The corrupted system file will let the system take more time to shut down your computer. To solve it, you can use System File Checker (SFC) to repair the broken system files.
@@ -94,18 +98,16 @@ The solution for this bug is very simple.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Registry fix
 
@@ -115,9 +117,11 @@ The solution for this bug is very simple.
 2. Type “regedit” and press**Enter** to open**Registry Edition** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
 3. Copy and paste the text into the address bar and press**Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
@@ -126,10 +130,16 @@ The solution for this bug is very simple.
 6. Find**WaitToKillServiceTimeout** file in the right pane. Double click it and set the value between**1000 to 20000** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut1.jpg)
 7. Click**OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your driver
 
@@ -155,8 +165,6 @@ The solution for this bug is very simple.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +172,24 @@ The solution for this bug is very simple.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unleash-creativity-customizing-call-alert-sounds-on-iphone/"><u>[New] 2024 Approved Unleash Creativity Customizing Call Alert Sounds on iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-science-of-perfectly-timed-episodes/"><u>[New] In 2024, The Science of Perfectly Timed Episodes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-optimize-discord-a-compendium-of-top-bots-for-2024/"><u>[New] Optimize Discord A Compendium of Top Bots for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-art-of-perfect-sound-recording-zooming-into-excellence-for-podcasts/"><u>[Updated] 2024 Approved The Art of Perfect Sound Recording Zooming Into Excellence for Podcasts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-tips-for-mastering-iphones-sound-capture/"><u>[Updated] Expert Tips for Mastering iPhone's Sound Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-apocalypse-playground-8-best-zombie-game-experiences-for-2024/"><u>[Updated] The Apocalypse Playground 8 Best Zombie Game Experiences for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/craft-memes-for-comedy-using-adobe-for-2024/"><u>Craft Memes for Comedy Using Adobe for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-for-pubg-architecture-loading-problems-gameplay-smoothened/"><u>Fix for PUBG Architecture Loading Problems - Gameplay Smoothened</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-unresponsive-keystrokes-and-typing-errors-on-your-board/"><u>How to Overcome Unresponsive Keystrokes and Typing Errors on Your Board</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-windows-network-issue-code-0x80-2-how-to-fix-the-network-error-0x800704cf-on-your-pc/"><u>How to Solve Windows Network Issue: Code 0X80 2. How to Fix the 'Network Error 0X800704CF' On Your PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlock-business-potentials-with-these-leading-15-facebook-market-analyzers/"><u>In 2024, Unlock Business Potentials With These Leading 15 Facebook Market Analyzers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-complete-archive-exploring-the-most-compelling-cartoon-noise-files-new-arrivals/"><u>New In 2024, The Complete Archive Exploring the Most Compelling Cartoon Noise Files (New Arrivals)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-non-charging-but-plugged-in-surface-a-comprehensive-guide/"><u>Overcoming the Challenge of a Non-Charging but Plugged-In Surface: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connection-problems-for-microsoft-wireless-display-on-win10-computers/"><u>Resolving Connection Problems for Microsoft Wireless Display on Win10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoration-techniques-reactivating-your-devices-wi-fi-feature/"><u>Restoration Techniques: Reactivating Your Device's Wi-Fi Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reveal-your-missing-wi-fi-options-on-windows-11-a-step-by-step-guide/"><u>Reveal Your Missing Wi-Fi Options on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-the-role-of-sfc-and-deployment-image-servicing-in-fixing-windows-11-issues/"><u>Understanding the Role of SFC and Deployment Image Servicing in Fixing Windows 11 Issues</u></a></li>
+</ul></div>
 

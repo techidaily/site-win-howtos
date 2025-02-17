@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Mystery: How to Fix Minecraft Error Code 5"
-date: 2025-01-31T17:12:13.478Z
-updated: 2025-02-07T03:41:26.239Z
+date: 2025-02-14T20:35:02.161Z
+updated: 2025-02-16T23:49:59.431Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ It’s possible that too many people connect to the Destiny servers during the t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable DHCP for your connection
 
 If you’re connecting via WiFi, you’re more likely to have the servers not available error in Destiny 2\. So you can try disabling DHCP in your computer to fix your problem. To do so:
@@ -55,7 +59,7 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click**Change adapter** **settings** on the left.  
@@ -63,12 +67,12 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
@@ -76,9 +80,17 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
 
@@ -87,26 +99,14 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
 
@@ -117,12 +117,12 @@ A missing or outdated network card driver will cause connection issues in your c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open Destiny 2 and see the servers not available error has been removed.
 
@@ -148,24 +148,19 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-soundscape-mac-studios-explained/"><u>[New] 2024 Approved The Soundscape Mac Studios Explained</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-playbook-for-professional-level-xbox-recording-for-2024/"><u>[New] The Ultimate Playbook for Professional-Level Xbox Recording for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-inside-the-magic-box-how-does-vr-function/"><u>2024 Approved Inside the Magic Box How Does VR Function?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-step-by-step-tutorial-resolving-the-dark-display-issue-on-your-dell-notebook/"><u>Complete Step-by-Step Tutorial: Resolving the Dark Display Issue on Your Dell Notebook</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-overcome-error-code-0x802n-2400d-on-your-pcs-updates/"><u>Comprehensive Solutions to Overcome Error Code 0X802n-2400D on Your PC's Updates</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-when-your-surface-pro-wont-connect-to-the-internet/"><u>Effective Fixes for When Your Surface Pro Won't Connect to the Internet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-troubleshooting-and-repairing-error-ebd-c0fe3897-b4f0-4aa5-a8e1-2dd5d3cbcefa-in-windows/"><u>Effortless Guide: Troubleshooting and Repairing Error Ebd-C0fe3897-B4f0-4aa5-A8e1-2dd5d3cbcefa in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-for-geforce-experience-cant-load-settings-issues/"><u>Fixes for 'GeForce Experience Can't Load Settings' Issues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gain-german-proficiency-from-binge-watched-show/"><u>Gain German Proficiency From Binge-Watched Show</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overclocking-odds-on-your-side-again-fast-fixes/"><u>Overclocking Odds on Your Side Again - Fast Fixes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95706703-9781400886548-researches-on-the-i-ching/"><u>Researches on the I CHING | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-audio-glitches-with-speaker-pop-crackles-in-windows-operating-systems-solved/"><u>Resolve Audio Glitches with Speaker Pop-Crackles in Windows Operating Systems (Solved)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-unreachable-website-error-in-google-chrome-step-by-step-solution/"><u>Resolving the Unreachable Website Error in Google Chrome - Step-by-Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-volume-control-glitches-tips-and-tricks-for-windows-users/"><u>Resolving Volume Control Glitches: Tips and Tricks for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-non-functional-keyboard-illumination-on-macbook-and-desktop-computers/"><u>Troubleshooting Guide: Non-Functional Keyboard Illumination on MacBook and Desktop Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-to-do-applications-for-pc-efficiency/"><u>Winning To-Do Applications for PC Efficiency</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-simple-guides-for-recording-vimeo-content/"><u>[New] 2024 Approved Simple Guides for Recording Vimeo Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-know-how-record-ipad-display/"><u>[Updated] Essential Know-How Record iPad Display</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-stifled-expression-sudden-copyright-breach/"><u>[Updated] Stifled Expression Sudden Copyright Breach</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-trimming-the-tremble-a-guide-to-smoother-gopro-videos/"><u>2024 Approved Trimming the Tremble A Guide to Smoother GoPro Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-unbeatable-memorial-day-savings-save-550-on-the-ultra-capable-lenovo-notebook-exclusive-deals-from-zdnet/"><u>Experience Unbeatable Memorial Day Savings: Save $550 on the Ultra-Capable Lenovo Notebook - Exclusive Deals From ZDNet!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-specified-file-missing-issues-successfully/"><u>How to Fix 'Specified File Missing' Issues Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stabilize-your-play-experience-with-immortals-fenyx-rising-crash-fixes/"><u>How To Stabilize Your Play Experience with Immortals: Fenyx Rising Crash Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy M34?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-login-issues-fixing-user-profile-service-failures/"><u>Resolving Windows 11 Login Issues: Fixing User Profile Service Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-making-your-dvd-playable-on-a-windows-system/"><u>Step-by-Step Guide to Making Your DVD Playable on a Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-unresponsive-file-explorer-in-windows-10-environments/"><u>Step-by-Step Solutions for Unresponsive File Explorer in Windows 10 Environments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-free-online-sites-for-downloading-music-a-comprehensive-list/"><u>Top 5 FREE Online Sites for Downloading Music: A Comprehensive List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-media-source-errors-for-games/"><u>Troubleshooting and Resolving Windows Media Source Errors for Games</u></a></li>
 </ul></div>
 

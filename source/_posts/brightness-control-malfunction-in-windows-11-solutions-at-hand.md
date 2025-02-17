@@ -1,7 +1,7 @@
 ---
 title: Brightness Control Malfunction in Windows 11 - Solutions at Hand
-date: 2025-01-20T16:22:58.986Z
-updated: 2025-01-25T16:17:48.209Z
+date: 2025-02-13T00:52:32.378Z
+updated: 2025-02-16T16:03:48.849Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ The good news is, you can fix it easily!
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,12 +55,20 @@ The good news is, you can fix it easily!
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -66,6 +78,10 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. Locate and double-click on**Windows Audio** .  
 
@@ -79,10 +95,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run SFC
 
  Another fix you can try is to run the SFC(a built-in Windows file check & repair tool) scan since the missing/corrupted system files can be the culprit for the volume control not working problem.
@@ -92,26 +104,18 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -123,11 +127,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
@@ -158,16 +158,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-step-by-step-premiere-pro-for-softening-soundtracks/"><u>[New] A Step-by-Step Premiere Pro for Softening Soundtracks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-whats-new-at-apple-insights-from-the-2ebr-worldwide-developer-conference-2025/"><u>Discover What's New at Apple: Insights From the 2Ebr Worldwide Developer Conference 2025</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-the-problem-of-malfunctioning-usb-devices-mousekeyboard-on-windows-7-pc/"><u>Fix the Problem of Malfunctioning USB Devices (Mouse/Keyboard) on Windows 7 PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-12-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 12 Pro and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-guide-shutting-down-igtv/"><u>In 2024, Guide Shutting Down IGTV</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-reversing-macos-sierra-update-to-os-x-el-capitan/"><u>In 2024, Reversing MacOS Sierra Update to OS X El Capitan</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-media-driver-found-resolving-critical-system-errors/"><u>Missing Media Driver Found: Resolving Critical System Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-missing-directx-9-file-expert-advice/"><u>Overcoming the Challenge of a Missing DirectX 9 File: Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-user-profile-service-failures-resolve-your-windows-11-sign-in-issues/"><u>Solving User Profile Service Failures: Resolve Your Windows 11 Sign-In Issues</u></a></li>
-<li><a href="https://win-net.techidaily.com/top-free-bit-copying-software-for-windows-11-10-8-and-7-your-ultimate-guide/"><u>Top Free Bit-Copying Software for Windows 11, 10, 8 & 7: Your Ultimate Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-device-manager-your-touchpad-returns/"><u>Unlock Device Manager - Your Touchpad Returns</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-photoshop-curves-decoded-a-beginners-guide/"><u>[New] 2024 Approved Photoshop Curves Decoded A Beginner's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shortcuts-to-success-how-to-skip-edgenuity-online-lessons-gracefully/"><u>[New] Shortcuts to Success How to Skip Edgenuity Online Lessons Gracefully</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-scoutingcameras-more-than-just-mycam/"><u>[Updated] 2024 Approved ScoutingCameras More Than Just MyCam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-stubborn-windows-update-glitch-eliminate-error-0x80240017-now/"><u>Bypassing the Stubborn Windows Update Glitch: Eliminate Error 0X80240017 Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-wont-proceed-past-boot-tips-for-successful-resolution/"><u>Computer Won’t Proceed Past Boot - Tips for Successful Resolution</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-an-impactful-waterway-teaser/"><u>Crafting an Impactful Waterway Teaser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-frozen-windows-updates-that-wont-finish/"><u>Diagnosing and Repairing Frozen Windows Updates That Won't Finish</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/effortlessly-enhance-movies-stellar-and-quicktime-partnership/"><u>Effortlessly Enhance Movies - Stellar & QuickTime Partnership</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-buttons-in-windows-a-step-by-step-guide/"><u>Fixing Sticky Keyboard Buttons in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210851945-fixing-the-windows-11-welcome-hang-up-fast-solutions/"><u>Fixing the Windows 11 Welcome Hang-Up: Fast Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-touch-functionality-on-your-microsoft-surface-pro-4/"><u>How to Restore Touch Functionality on Your Microsoft Surface Pro 4</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pictorial-chuckles-kapwings-memetic-composer/"><u>In 2024, Pictorial Chuckles Kapwing’s Memetic Composer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insider-look-the-fix-for-nba-2k21s-sustainable-gameplay-feature-bug/"><u>Insider Look: The Fix for NBA 2K21's Sustainable Gameplay Feature Bug</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kodi-continuous-playback-solution-say-goodbye-to-buffering/"><u>Kodi Continuous Playback Solution - Say Goodbye to Buffering</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-childrens-digital-world-with-these-8-leading-parental-control-apps/"><u>Secure Your Children's Digital World with These 8 Leading Parental Control Apps</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-xiaomi-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-wont-minecraft-open-in-windows-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Won't Minecraft Open in Windows and How to Fix It</u></a></li>
+<li><a href="https://win-webster.techidaily.com/unseen-drives-solving-the-mystery-of-missing-hard-drives-in-windows-insights-by-yl-computing/"><u>Unseen Drives: Solving the Mystery of Missing Hard Drives in Windows - Insights by YL Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-hidden-gems-top-purchasers-of-youtube-creators-for-2024/"><u>Unveiling Hidden Gems Top Purchasers of YouTube Creators for 2024</u></a></li>
 </ul></div>
 

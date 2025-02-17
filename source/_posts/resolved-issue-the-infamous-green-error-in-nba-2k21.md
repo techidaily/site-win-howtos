@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: The Infamous Green Error in NBA 2K21"
-date: 2024-08-19T07:51:33.203Z
-updated: 2024-08-20T07:51:33.203Z
+date: 2025-02-11T18:09:47.282Z
+updated: 2025-02-16T19:08:13.876Z
 tags:
   - win11
   - win10
@@ -64,8 +64,9 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -101,6 +102,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Restart your computer, and see if the problem is fixed or not.
@@ -113,17 +118,15 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -133,11 +136,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -145,16 +143,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -168,8 +170,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +177,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-a-blueprint-for-locating-captivating-pexel-visuals/"><u>[New] Crafting a Blueprint for Locating Captivating Pexel Visuals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-taking-screen-grabs-compliance-on-youtube/"><u>[New] In 2024, Taking Screen Grabs Compliance on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-swift-sharing-twitter-to-whatsapp-videos/"><u>[Updated] Swift Sharing Twitter to WhatsApp Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-ethernet-connectivity-troubles-in-windows-107/"><u>Diagnosing and Correcting Ethernet Connectivity Troubles in Windows 10/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-making-your-lenovos-fingerprint-authentication-work-again/"><u>Easy Fixes: Making Your Lenovo's Fingerprint Authentication Work Again</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96411749-9781845026899-edinburgh-after-dark/"><u>Edinburgh After Dark | Free Book</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 15 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fox-within.techidaily.com/iphone-update-wie-viele-stunden-oder-tage-sollte-ich-fur-den-vorgang-warten/"><u>IPhone Update: Wie Viele Stunden Oder Tage Sollte Ich Für Den Vorgang Warten?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-correcting-invalid-parameter-errors-efficiently/"><u>Step-by-Step Tutorial: Correcting Invalid Parameter Errors Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-specification-alert-the-engine-runs-only-on-systems-with-directx-11-gpu-support/"><u>System Specification Alert: The Engine Runs Only on Systems with DirectX 11 GPU Support</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solutions for Unresponsive Laptop Trackballs Under Windows
-date: 2025-01-31T08:45:18.438Z
-updated: 2025-02-06T20:19:45.688Z
+date: 2025-02-10T00:09:50.777Z
+updated: 2025-02-16T16:57:41.796Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -42,10 +50,6 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -58,7 +62,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -75,13 +79,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -126,10 +130,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -143,7 +143,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -184,17 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-update-error-0x8007001f/"><u>[SOLVED] Windows Update Error 0X8007001f</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/8-fixes-for-windows-10-update-error-code-0x800f0922/"><u>8 Fixes for Windows 10 Update Error Code 0X800f0922</u></a></li>
-<li><a href="https://win-able.techidaily.com/accelerate-download-performance-on-origin-expert-advice-to-overcome-slowness-for-faster-file-transfers/"><u>Accelerate Download Performance on Origin: Expert Advice to Overcome Slowness for Faster File Transfers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-pros-and-cons-of-budget-friendly-mobvoi-ticwatch-e2-watches/"><u>Analyzing the Pros and Cons of Budget-Friendly Mobvoi TicWatch E2 Watches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/destiny-troubleshooting-guide-resolving-initialization-stuck-problems/"><u>Destiny # Troubleshooting Guide: Resolving Initialization Stuck Problems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-f34-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy F34 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-malfunction-solved-restoring-functionality-to-broken-number-keys/"><u>Keyboard Malfunction Solved: Restoring Functionality to Broken Number Keys</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-vivo-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Vivo has been deleted.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-quick-guide-to-refreshing-your-windows-10-system/"><u>Simple Steps: Quick Guide to Refreshing Your Windows 10 System</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sky-gazers-rejoice-discovering-the-elevation-expertise-of-dji-spark-for-2024/"><u>Sky Gazers Rejoice! Discovering the Elevation Expertise of DJI Spark for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-best-anti-shake-gimblers-reviewed-by-vloggers/"><u>The Best Anti-Shake Gimblers Reviewed by Vloggers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-gpus-for-4k-edit-and-render/"><u>Top GPUs for 4K Edit & Render</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-dissecting-drama-introducing-chapters-to-video-content/"><u>[New] Dissecting Drama Introducing Chapters to Video Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-rectify-fb-video-anomaly-with-personal-visage/"><u>[Updated] 2024 Approved Rectify FB Video Anomaly with Personal Visage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-cloud-saving-apps-for-android-users-2024-rankings/"><u>[Updated] Essential Cloud Saving Apps for Android Users (2024 Rankings)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-premiere-pro-planning-and-templates-for-2024/"><u>[Updated] The Ultimate Guide to Premiere Pro Planning & Templates for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/curbing-wudfhostexe-cpu-hogs-on-your-pc-a-fix-for-windows-10-users/"><u>Curbing wudfhost.exe CPU Hogs on Your PC - A Fix for Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-print-screen-function-issues-on-windows-11-and-windows-10/"><u>Fixing 'Print Screen' Function Issues on Windows 11 & Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-correct-scrollbar-glitch-in-windows-10-file-explorer-that-hits-top-when-moving-up/"><u>Guide to Correct Scrollbar Glitch in Windows 10 File Explorer That Hits Top When Moving Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-speed-up-your-pcs-shutdown-process-in-windows-10/"><u>How to Speed Up Your PC's Shutdown Process in Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-hot-40-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Hot 40 Pro FRP Bypass</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-solution-eradicating-livekernel-event-mishap-no-144/"><u>Mastering the Solution: Eradicating LiveKernel Event Mishap No. 144</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/quick-guide-tailoring-automated-dialogue-scripts/"><u>Quick Guide: Tailoring Automated Dialogue Scripts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repair-how-to-fix-a-malfunctioning-windows-11-start-menu/"><u>Repair: How to Fix a Malfunctioning Windows 11 Start Menu</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-wireless-headset-how-to-restore-microphone-functionality-successfully/"><u>SteelSeries Arctis 5 Wireless Headset: How to Restore Microphone Functionality Successfully</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-missing-msstdfmtdll-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting Missing msstdfmt.dll Errors on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-troubleshooting-windows-0xc0000005-faults/"><u>Step-by-Step Solutions for Troubleshooting Windows 0xC0000005 Faults</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functioning-function-keys-in-dell-laptops/"><u>Troubleshooting Non-Functioning Function Keys in Dell Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-not-responding-errors-for-file-explorer-in-windows-11/"><u>Ultimate Guide: Resolving 'Not Responding' Errors for File Explorer in Windows 11</u></a></li>
 </ul></div>
 

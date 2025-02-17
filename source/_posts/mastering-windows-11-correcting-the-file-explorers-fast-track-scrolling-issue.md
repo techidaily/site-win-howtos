@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Correcting the File Explorer's Fast Track Scrolling Issue"
-date: 2025-02-02T09:50:31.651Z
-updated: 2025-02-07T08:15:30.270Z
+date: 2025-02-10T20:05:09.510Z
+updated: 2025-02-16T16:40:22.901Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -75,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -91,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -123,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -134,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -147,10 +143,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -166,6 +158,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -176,10 +172,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -187,6 +179,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -197,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,18 +225,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/resolution-tackle-unseen-threat-to-your-pcs-performance-addressing-cpu-overloads-caused-by-shell-infrastructure/"><u>(Resolution) Tackle Unseen Threat to Your PC's Performance - Addressing CPU Overloads Caused by Shell Infrastructure</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-the-intricacies-of-whatsapp-voice-calls/"><u>[New] 2024 Approved Exploring the Intricacies of WhatsApp Voice Calls</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-efficient-digital-voice-alteration-for-vtubers-for-2024/"><u>[Updated] Efficient Digital Voice Alteration for VTubers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-steams-switch-pro-controllers/"><u>[Updated] Mastering Steam's Switch Pro Controllers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-vr-bikes-to-check-out/"><u>[Updated] Top VR Bikes to Check Out</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-saving-reels-made-simple-direct-and-indirect-techniques-explained/"><u>2024 Approved Saving Reels Made Simple Direct and Indirect Techniques Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-update-error-8007000e-fast-a-step-by-step-guide/"><u>Fix Windows Update Error 8007000E Fast: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-gameplay-eliminating-lags-and-boosting-fps-on-cod-black-ops-4/"><u>Fixing Your Gameplay: Eliminating Lags and Boosting FPS on COD Black Ops 4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-usb-port-functionality-on-windows-1011-machines/"><u>Step-by-Step Guide: Restoring USB Port Functionality on Windows 10/11 Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-non-functional-integrated-webcams-in-windows-os/"><u>Troubleshooting Tips: Resolving Non-Functional Integrated Webcams in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fix-for-windows-11-update-problem-overcoming-0xc1900208-expert-advice/"><u>Ultimate Fix for Windows 11 Update Problem: Overcoming 0XC1900208 [Expert Advice]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/usb-serial-converter-driver-update-tutorial-easy-steps-inside/"><u>USB Serial Converter Driver Update Tutorial – Easy Steps Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/victory-over-obs-capture-failures-say-goodbye-to-the-infamous-black-screen/"><u>Victory over OBS Capture Failures: Say Goodbye to the Infamous Black Screen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamlining-visual-storytelling-with-youtube-videos/"><u>[New] Streamlining Visual Storytelling with YouTube Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-wont-shut-down-restarts-instead/"><u>[Solved] Windows 10 Won’t Shut Down, Restarts Instead</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-a-comprehensive-guide-to-changing-avatars-and-statuses-on-discord-for-2024/"><u>[Updated] A Comprehensive Guide to Changing Avatars & Statuses on Discord for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-optimal-5-filters-for-deep-blue-cinematography-for-2024/"><u>[Updated] Optimal 5 Filters for Deep Blue Cinematography for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-login-obstacles-in-microsoft-store-quickly/"><u>Bypass Login Obstacles in Microsoft Store Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-methods-to-get-your-usb-flash-drive-recognized-by-windowsmac-quickly/"><u>Effective Methods to Get Your USB Flash Drive Recognized by Windows/Mac Quickly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-your-steelseries-arctis-5-headsets-broken-microphone-no-more-sorry/"><u>Expert Tips for Repairing Your SteelSeries Arctis 5 Headset's Broken Microphone (NO MORE SORRY)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-airpods-not-connecting-to-windows-1011-2024-tips/"><u>How to Fix AirPods Not Connecting to Windows 10/11 – 2024 Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-disseminating-tweeted-videos-on-the-worlds-biggest-social-site/"><u>In 2024, Disseminating Tweeted Videos on the World's Biggest Social Site</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-from-zero-to-hero-rising-in-popularity-with-vimeo-experts/"><u>In 2024, From Zero to Hero Rising in Popularity with Vimeo Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-review-of-budget-friendly-clouds-for-2024/"><u>In-Depth Review of Budget-Friendly Clouds for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-facebook-8-top-movie-downloader-rankings/"><u>Mastering Facebook #8 Top Movie Downloader Rankings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-game-changer-in-budget-gaming-minisforums-innovative-affordable-156-144-hz-1440p-portable-monitor-for-just-189/"><u>Meet the Game-Changer in Budget Gaming - Minisforum’s Innovative, Affordable 15.6” 144 Hz 1440P Portable Monitor for Just $189</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-starting-your-hosted-network-feature-on-windows-10-devices/"><u>Overcoming Issues with Starting Your Hosted Network Feature on Windows 10 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210538704-resolving-problem-during-restore-mistake-in-windows-10-fixed/"><u>Resolving 'Problem During Restore' Mistake in Windows 10 – Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201180829-resolving-windows-update-error-code-0x80cuh0002-quickly-and-easily/"><u>Resolving Windows Update Error Code 0X80cuh0002 Quickly and Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-windows-11-users-struggling-with-the-disappearing-bluetooth-feature/"><u>Simple Fixes for Windows 11 Users Struggling with the Disappearing Bluetooth Feature!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-nonfunctional-steam-voice-chatting-feature/"><u>Step-by-Step Fix for Nonfunctional Steam Voice Chatting Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-successfully-update-your-pc-with-fixes-for-error-0x800f0922-on-windows-11/"><u>Troubleshooting Tips: Successfully Update Your PC with Fixes for Error 0X800f0922 on Windows 11</u></a></li>
 </ul></div>
 

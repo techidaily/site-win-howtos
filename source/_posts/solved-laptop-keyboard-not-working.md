@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Laptop Keyboard Not Working"
-date: 2024-08-19T07:55:42.938Z
-updated: 2024-08-20T07:55:42.938Z
+date: 2025-02-15T23:40:27.677Z
+updated: 2025-02-16T20:48:45.358Z
 tags:
   - win11
   - win10
@@ -31,13 +31,18 @@ Try one at a time:
 2. [Uninstall your Dell laptop keyboard driver](#solution2)
 3. [Update your Dell laptop keyboard driver](#solution3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Restart your laptop
 
  One of the easy quick solution to solve your keyboard not working problem is to restart your laptop. Some users found that restart really made their keyboard work again at once. Thus try to restart your laptop firstly. If your keyboard still doesn’t work, no panic, try other solutions listed below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Uninstall your Dell laptop keyboard driver
 
  Your laptop keyboard not working error is usually caused by driver issues. In this case, try to reinstall your keyboard driver.
@@ -51,22 +56,21 @@ Try one at a time:
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Find and expand the **Keyboards** section. Then**right-click** on your keyboard driver software and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7abb9f41954.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) When it completes uninstalling, restart your Dell laptop. Then Windows will reinstall the keyboard driver automatically. Check if your keyboard could work properly.
 
  If unfortunately, your keyboard still stops working, follow the next solution to completely update your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 3: Update your Dell laptop keyboard driver
 
  If Windows doesn’t load the keyboard driver for your laptop automatically, you can update the keyboard driver in these alternative ways: manually or automatically.
@@ -82,17 +86,15 @@ Try one at a time:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7947e3a5464.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 Note: You can do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ac5f50c04a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  4) Restart your laptop to make the new driver take effect and try to press any key on your keyboard to see if your keyboard works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -103,8 +105,6 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,18 @@ Note: You can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-zero-to-hero-crafting-an-authoritative-online-self-for-2024/"><u>[New] From Zero to Hero Crafting an Authoritative Online Self for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-time-lapse-video-techniques-for-ipad-users/"><u>[Updated] 2024 Approved Time-Lapse Video Techniques for iPad Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-asmrs-upside-exploring-its-health-impacts-for-2024/"><u>[Updated] ASMR's Upside Exploring Its Health Impacts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-exclusive-techniques-for-monitoring-and-logging-whatsapp-conversations/"><u>[Updated] Exclusive Techniques for Monitoring and Logging WhatsApp Conversations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cutting-edge-wow-embracing-next-gen-3d-graphics/"><u>Cutting Edge WoW: Embracing Next-Gen 3D Graphics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-parameter-is-incorrect-during-library-loads-what-you-need-to-know/"><u>Expert Advice on Resolving 'Parameter Is Incorrect' During Library Loads – What You Need to Know!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/harnessing-hours-of-light-long-exposure-iphone-tips-for-2024/"><u>Harnessing Hours of Light Long-Exposure iPhone Tips for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-user-input-rejected-on-visual-interface/"><u>Resolved Issue: User Input Rejected on Visual Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-enable-your-disabled-wi-fi-functionality/"><u>Resolved: How to Enable Your Disabled Wi-Fi Functionality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/secrets-to-keeping-online-interactions-safe-for-2024/"><u>Secrets to Keeping Online Interactions Safe for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/untangle-technical-glitches-effective-fixes-for-nier-automatas-pc-malfunctions/"><u>Untangle Technical Glitches: Effective Fixes for Nier: Automata's PC Malfunctions</u></a></li>
+</ul></div>
 

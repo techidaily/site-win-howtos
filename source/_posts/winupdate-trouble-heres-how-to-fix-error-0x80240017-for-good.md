@@ -1,7 +1,7 @@
 ---
 title: WinUpdate Trouble? Here's How to Fix Error 0X80240017 for Good
-date: 2025-01-31T14:29:30.222Z
-updated: 2025-02-06T22:29:23.165Z
+date: 2025-02-14T16:40:35.091Z
+updated: 2025-02-17T00:32:46.523Z
 tags:
   - win11
   - win10
@@ -45,21 +45,25 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
 
@@ -68,10 +72,6 @@ If the Windows Update error persists, move on to the second method.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Copy and paste the following commands one by one in Command Prompt, and press**Enter** on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **net stop wuauserv**  
 **net stop cryptSvc**  
@@ -86,6 +86,10 @@ If the Windows Update error persists, move on to the second method.
 **pause**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Open Windows Update and see if it works properly.
 
@@ -104,14 +108,14 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -121,19 +125,11 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -151,6 +147,10 @@ sfc /scannow
 2. Run Driver Easy and click**Scan Now** . Then Driver Easy will scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
@@ -178,17 +178,17 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-innovative-ideas-for-images-with-professional-color-palette/"><u>[Updated] In 2024, Innovative Ideas for Images with Professional Color Palette</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-breathtaking-beijing-winter-games-of-2022/"><u>[Updated] In 2024, The Breathtaking Beijing Winter Games of 2022</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bypass-propstsydll-undetectable-problem-optimized-fix-strategies-for-users/"><u>Bypass 'Propstsy.dll' Undetectable Problem – Optimized Fix Strategies for Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-bring-back-your-missing-windows-10-taskbar-icons-proven-tips-and-techniques/"><u>Guide to Bring Back Your Missing Windows 10 Taskbar Icons: Proven Tips and Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-sharing-tiktoks-via-pc-with-these-3-straightforward-techniques-quick-start-video-upload-solutions/"><u>Master the Art of Sharing TikToks via PC with These 3 Straightforward Techniques - Quick-Start Video Upload Solutions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/mp3-to-mp4-converter-how-to-convert-mp3-to-mp4-in-2024/"><u>MP3 to MP4 Converter How to Convert MP3 to MP4, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-the-missing-d3dcompiler47dll-error-on-your-pc-easily/"><u>Resolve the Missing D3DCOMPILER_47.dll Error on Your PC Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-keyboard-functionality-for-windows-11-8-and-7-computers-expert-fixes/"><u>Revive Keyboard Functionality for Windows 11, 8 & 7 Computers: Expert Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-to-fix-a-blocked-webpage-http-403-solutions/"><u>Step-by-Step Strategies to Fix a Blocked Webpage - HTTP 403 Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-top-rated-free-video-capture-apps-ranked/"><u>The Ultimate List of Top-Rated Free Video Capture Apps - Ranked!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y78t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y78t to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-why-are-my-instagram-videos-playing-sideways-seeking-answers/"><u>[Updated] 2024 Approved Why Are My Instagram Videos Playing Sideways - Seeking Answers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-stirring-interest-and-emotions-the-ultimate-guide-to-engaging-tiktok-captions/"><u>[Updated] In 2024, Stirring Interest & Emotions The Ultimate Guide to Engaging TikTok Captions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sonic-enhancements-for-whatsapp-updates/"><u>[Updated] Sonic Enhancements for WhatsApp Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-correct-the-error-when-rpc-service-fails-in-windows-environments/"><u>Expert Tips to Correct the Error When RPC Service Fails in Windows Environments</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-x-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone X iCloud Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nba-2k21-explains-unveiling-the-mystery-behind-the-green-glitch-fix/"><u>NBA 2K21 Explains: Unveiling the Mystery Behind the 'Green Glitch' Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-d3derrnotavailable-a-step-by-step-guide/"><u>Resolving 'D3DERR_NOTAVAILABLE': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-repairing-compromised-windows-store-caches/"><u>Solution Guide: Repairing Compromised Windows Store Caches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-sims-4-failure-to-launch-problem/"><u>Ultimate Guide: Resolving the Sims 4 Failure to Launch Problem</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-15-free-video-editing-tools-for-starters-no-experience-needed-for-2024/"><u>Updated 15 Free Video Editing Tools for Starters No Experience Needed for 2024</u></a></li>
 </ul></div>
 

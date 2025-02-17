@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Resolving Boot Issues on Laptops and Desktops
-date: 2025-02-04T06:38:06.327Z
-updated: 2025-02-06T18:45:08.983Z
+date: 2025-02-11T18:30:51.468Z
+updated: 2025-02-16T20:48:13.475Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -50,6 +46,10 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -104,7 +104,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -112,6 +112,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -122,13 +126,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -141,10 +145,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,20 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-best-free-downloaders-download-youtube-thumbnail-for-free-for-2024/"><u>[New] Best Free Downloaders Download YouTube Thumbnail for Free for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-ace-editing-essential-10-final-cut-pro-extensions/"><u>[Updated] Ace Editing Essential 10 Final Cut Pro Extensions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-your-guide-to-earning-online-the-top-13-no-skill-approaches/"><u>[Updated] Your Guide to Earning Online - The Top 13 No-Skill Approaches</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oneplus-ace-2-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix OnePlus Ace 2 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/centipede-issue-in-destiny-2-resolved-learn-how-it-got-fixed/"><u>Centipede Issue in Destiny 2 Resolved – Learn How It Got Fixed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decode-and-correct-the-144-kernel-event-problem-in-your-system-with-ease/"><u>Decode and Correct the 144 Kernel Event Problem in Your System with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-non-working-windows-key-errors-on-windows-10-devices/"><u>Diagnose and Fix Non-Working Windows Key Errors on Windows 10 Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-why-the-nintendo-switch-is-hailed-as-the-premier-mobile-console/"><u>Discover Why the Nintendo Switch Is Hailed as the Premier Mobile Console</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-resolve-safari-cant-load-webpage-issue/"><u>Easy Solutions to Resolve 'Safari Can't Load Webpage' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-reducing-wudfhostexes-heavy-cpu-demand-on-windows-10/"><u>Effective Solutions for Reducing wudfhost.exe's Heavy CPU Demand on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-get-your-corsair-keyboard-back-in-action/"><u>Fixing the Issue: How to Get Your Corsair Keyboard Back in Action</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fortnite-successfully-started-now/"><u>Fortnite: Successfully Started Now!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi Note 12 4G Phone?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-magic-6-lite-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor Magic 6 Lite is off? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/surface-keyboard-not-working-solved/"><u>Surface Keyboard Not Working [SOLVED]</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-direct-path-from-srt-to-sub/"><u>[Updated] 2024 Approved Direct Path From SRT to SUB</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-stop-motion-movies-you-cant-miss-for-2024/"><u>[Updated] Essential Stop-Motion Movies You Can't Miss for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unpacking-the-impact-of-youtubes-shorts-programme-for-2024/"><u>[Updated] Unpacking the Impact of YouTube's Shorts Programme for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-disk-read-error-occurred-on-windows-11-solved/"><u>A Disk Read Error Occurred on Windows 11 [Solved]</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/aomei-backupper-step-by-step-guide-to-professional-disk-backup-with-aomei-backupper/"><u>AOMEI Backupper:專業硬碟備份步驟解析 - Step-by-Step Guide to Professional Disk Backup with AOMEI Backupper</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assessing-performance-and-features-why-you-should-consider-the-samsung-galaxy-tab-s3/"><u>Assessing Performance and Features: Why You Should Consider the Samsung Galaxy Tab S3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizing-fitness-coaching-techniques/"><u>ChatGPT: Revolutionizing Fitness Coaching Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-resolving-update-error-0xc1900208-on-windows-11-systems/"><u>Comprehensive Solution for Resolving Update Error 0Xc1900208 on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-wdf-techniques-for-decreased-cpu-usage-on-windows/"><u>Efficient WDF Techniques for Decreased CPU Usage on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-non-functioning-voice-chat-in-overwatch/"><u>Effortless Fix for Non-Functioning Voice Chat in Overwatch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-reactivating-windows-11s-screen-saver-feature-with-ease/"><u>Guide: Reactivating Windows 11'S Screen Saver Feature with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-your-laptops-touchpad-for-windows-1187-users/"><u>How to Restore Functionality of Your Laptop's Touchpad for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-portable-lenovo-ideapad-n320-redefined-with-renowned-lenovo-keyboard-layout/"><u>In-Depth Analysis: The Portable Lenovo Ideapad N320, Redefined with Renowned Lenovo Keyboard Layout</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-store-malfunction-heres-how-you-can-fix-it-now/"><u>Microsoft Store Malfunction? Here's How You Can Fix It Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/old-memories-new-snaps-utilizing-snapchats-camera-roll-for-2024/"><u>Old Memories, New Snaps Utilizing Snapchat’s Camera Roll for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-restoring-sound-capabilities-in-windows-systems/"><u>Step-by-Step Tutorial: Restoring Sound Capabilities in Windows Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-gratis-ai-videobearbeiter-im-netz-die-beste-auswahl-fur-windows-und-mac/"><u>Top Gratis AI-Videobearbeiter Im Netz - Die Beste Auswahl Für Windows Und Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Does My Mouse Keep Losing Signal?"
-date: 2024-08-23T14:01:13.251Z
-updated: 2024-08-24T14:01:13.251Z
+date: 2025-02-10T16:45:49.366Z
+updated: 2025-02-16T18:05:32.566Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/5d2a2664a22a9ce0adee406a11257a41dccd90598
 
 **Mouse keeps disconnecting** on your computer? Don’t worry, it’s often quite not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 fixes for **Mouse keeps disconnecting**
 
 Here are 3 fixes that have helped other users resolve the mouse keeps disconnecting problem. Just work your way down the list until the problem is resolved.
@@ -27,6 +31,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -35,31 +43,30 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
@@ -76,9 +83,6 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -98,8 +102,6 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +109,26 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-cinematographic-cuisine-expert-tips-on-filming-edibles/"><u>[New] Cinematographic Cuisine Expert Tips on Filming Edibles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-farm-frenzy-fun-pack-the-ultimate-agritainment-guide/"><u>[New] In 2024, Farm Frenzy Fun-Pack The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-10-androidios-weddings-ultimate-countdown-timer-apps-for-2024/"><u>[New] Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-accelerate-tiktok-popularity-essential-countdown-guidance-for-2024/"><u>[Updated] Accelerate TikTok Popularity Essential Countdown Guidance for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-collaborative-sing-along-tiktok-feature/"><u>[Updated] In 2024, Collaborative Sing-Along TikTok Feature</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-troubleshooting-resolving-no-audio-in-obs-for-2024/"><u>[Updated] Troubleshooting Resolving No Audio in OBS for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressed-non-functional-keys-on-the-keyboard/"><u>Addressed: Non-Functional Keys on the Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-wireless-keyboards-failing-discover-quick-fixes-for-common-issues/"><u>Dell Wireless Keyboards Failing? Discover Quick Fixes for Common Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-preventing-surges-through-your-routers-ports/"><u>Effective Solutions for Preventing Surges Through Your Router's Ports</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/endless-skies-of-tamriel-fixing-the-looped-load-screens-in-skyim/"><u>Endless Skies of Tamriel? Fixing the Looped Load Screens in Skyim</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/forza-horizon-znd-vocal-issues-resolved-sound-back-with-these-fixes/"><u>Forza Horizon ˈznd Vocal Issues Resolved – Sound Back with These Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-much-do-you-really-make-as-a-podcaster/"><u>In 2024, How Much Do You Really Make as a Podcaster?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/subscribe-green-screen-make-it-easy-to-add-youtube-video-cta/"><u>Subscribe Green Screen - Make It Easy to Add YouTube Video CTA</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-fixing-bluetooth-pairing-issues-on-windows-10-for-a-seamless-experience/"><u>The Definitive Guide to Fixing Bluetooth Pairing Issues on Windows 10 for a Seamless Experience</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-spark-10-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Spark 10 4G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-win10s-critical-error-code-0x80n0705b4-in-system-updates/"><u>Troubleshooting and Solving Win10's Critical Error Code 0X80n0705b4 in System Updates</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/ultimate-car-enthusiasts-hd-image-pack-bentley-continental-supersports-series-curated-by-yl-software-experts/"><u>Ultimate Car Enthusiast's HD Image Pack: Bentley Continental Supersports Series – Curated by YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unreal-development-hangs-on-d3d-device-lifespan/"><u>Unreal Development Hangs on D3D Device Lifespan</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-support-detecting-and-connecting-to-bluetooth-devices/"><u>Windows 10 Support: Detecting and Connecting to Bluetooth Devices</u></a></li>
+</ul></div>
 

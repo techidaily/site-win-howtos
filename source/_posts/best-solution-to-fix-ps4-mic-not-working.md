@@ -1,7 +1,7 @@
 ---
 title: Best Solution to Fix PS4 Mic Not Working
-date: 2024-08-19T07:51:14.405Z
-updated: 2024-08-20T07:51:14.405Z
+date: 2025-02-09T23:16:00.445Z
+updated: 2025-02-17T00:03:43.170Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Read on this page and follow the steps:
 1. [Disable the full screen optimization of your game application](https://tools.techidaily.com/drivereasy/download/)
 2. [Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Disable the full screen optimization of your game application
 
  This error happens mostly due to the automatic full screen optimization. You can solve it by easily disable the full screen optimization.
@@ -44,15 +48,27 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a75563e4f956.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on your game .exe file and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7556d9700b6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Tick on **Disable fullscreen optimizations**  under the **Compatibility**  pane. Then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7557a69aaf6.png)
 
 4) Relaunch your game application to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your graphics card driver
 
@@ -70,6 +86,10 @@ To do that, please follow these easy steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a755a27bdf2b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged graphics card driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -86,8 +106,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,8 +113,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-leading-steadicam-systems-for-drones-in-filmmaking-industry/"><u>[New] In 2024, Leading Steadicam Systems for Drones in Filmmaking Industry</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-as-a-film-studio-tutorials-and-competitive-choices/"><u>[New] YouTube as a Film Studio Tutorials & Competitive Choices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-best-watched-youtube-film-channels-ranked/"><u>2024 Approved Best-Watched YouTube Film Channels Ranked</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-ryzen-5-2600-download-latest-drivers-instantly/"><u>AMD Ryzen #5 2600 - Download Latest Drivers Instantly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-costs-of-global-cloud-data-centers-for-2024/"><u>Comparing Costs of Global Cloud Data Centers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cost-breakdown-for-youtube-ads/"><u>Cost Breakdown for YouTube Ads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decode-windows-camera-errors-a-detailed-look-at-fixing-code-0xa00f4292/"><u>Decode Windows Camera Errors: A Detailed Look at Fixing Code 0xA00F4292</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-the-mystery-behind-failed-windows-update-downloads-restore-your-pcs-update-functionality/"><u>Decoding the Mystery Behind Failed Windows ^Update Downloads - Restore Your PC's Update Functionality!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-dhcp-communication-errors-why-your-device-cant-reach-the-server/"><u>Fixing DHCP Communication Errors: Why Your Device Can't Reach the Server</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-3-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 3 online without jailbreak</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-steam-bootloader-hiccup-solutions-for-a-smooth-launcher-experience/"><u>Overcoming the Steam Bootloader Hiccup: Solutions for a Smooth Launcher Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-to-stop-endless-restarts-on-windows-11-systems/"><u>Quick Solutions to Stop Endless Restarts on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-vanishing-mouse-pointer-in-windows-11/"><u>Resolving the Issue of Vanishing Mouse Pointer in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/security-features-reinstated-local-authorization-now-active/"><u>Security Features Reinstated – Local Authorization Now Active</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-broken-dell-speaker-connections-and-performance/"><u>Step-by-Step Fixes for Broken Dell Speaker Connections and Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-right-click-issue-on-your-windows-11-mouse/"><u>Troubleshooting the Right-Click Issue on Your Windows 11 Mouse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/vanguard-enterprises-of-spatial-display-tech-for-2024/"><u>Vanguard Enterprises of Spatial Display Tech for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225113213-mpg-wav-movavi/"><u>오피스 상대적 MPG WAV 갱신: Movavi 자체</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->

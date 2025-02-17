@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Your Windows Media Player Connection Issues"
-date: 2024-08-19T07:56:22.995Z
-updated: 2024-08-20T07:56:22.995Z
+date: 2025-02-15T00:29:27.839Z
+updated: 2025-02-16T16:21:30.686Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 Having a**computer won’t shut down** problem is like having a baby that refuses to go to sleep. You must be worried sick that your computer will soon drain itself if you don’t take actions NOW.
 
  Surprisingly, this is quite a common problem. But although it’s quite frustrating, it’s usually not that hard to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -59,16 +63,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -79,16 +82,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -98,8 +105,9 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -107,11 +115,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -126,8 +136,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +143,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/30123831-new-2024-approved-exclusive-youtube-snippet-access-high-quality-free-download/"><u>[New] 2024 Approved Exclusive YouTube Snippet Access - High Quality, Free Download</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-precision-in-proportion-finding-aspect-ratio-perfection/"><u>[New] 2024 Approved Precision in Proportion Finding Aspect Ratio Perfection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-secure-your-cash-ranking-safe-and-effective-posts-for-2024/"><u>[New] Secure Your Cash Ranking Safe & Effective Posts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-cinematographers-blueprint-for-simple-water-vids/"><u>[Updated] 2024 Approved The Cinematographer's Blueprint for Simple Water Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converting-text-to-tunes-employing-chatgpt-for-audio-crafting/"><u>Converting Text to Tunes: Employing ChatGPT for Audio Crafting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-alternative-secrets-to-sharing-files-efficiently/"><u>In 2024, Alternative Secrets to Sharing Files Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-black-screen-problem-in-obs-recording/"><u>Resolved: How to Fix the Black Screen Problem in OBS Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-macs-webcam-in-minutes-with-these-easy-fixes/"><u>Revive Your Mac's Webcam in Minutes with These Easy Fixes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/rewind-live-broadcasts-easily-discover-the-power-of-nbcuniversals-now-service-and-nextgen-tv-technology/"><u>Rewind Live Broadcasts Easily: Discover the Power of NBCUniversal's Now Service and NextGen TV Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-repairing-oculus-tech-malfunctions-as-of-2024/"><u>Step-by-Step Solutions for Repairing Oculus Tech Malfunctions as of 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-overcoming-the-hurdle-of-anti-cheat-errors-in-apex-legends/"><u>Ultimate Guide: Overcoming the Hurdle of Anti-Cheat Errors in Apex Legends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-overcoming-the-notorious-2024-fatal-error-crash-in-halo-4-using-ue4-fixes/"><u>Ultimate Solution: Overcoming the Notorious 2024 Fatal Error Crash in Halo 4 Using UE4 Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/unlocking-tech-secrets-with-professional-analysis-at-tomngear-insights/"><u>Unlocking Tech Secrets with Professional Analysis at Tom'nGear Insights</u></a></li>
+</ul></div>
 

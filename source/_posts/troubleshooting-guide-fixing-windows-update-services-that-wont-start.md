@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Windows Update Services That Won't Start"
-date: 2024-08-19T07:52:28.463Z
-updated: 2024-08-20T07:52:28.463Z
+date: 2025-02-14T22:19:47.232Z
+updated: 2025-02-16T22:34:14.924Z
 tags:
   - win11
   - win10
@@ -47,13 +47,12 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 2. Type “inetcpl.cpl” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/inetcpl.jpg)
 3. Choose the**Connections** tab and click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/lan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Uncheck “**Automatically detect settings** “. Click**OK** to finish setting.![](https://images.drivereasy.com/wp-content/uploads/2019/07/lan1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Relaunch Steam and check your download speed.
 
 ### Method 3: Turn off your router’s safe-web
@@ -63,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
  Due to the various brands in the market, you can go to your Wifi router’s official website to find a way to turn off this setting. You can also contact the manufacturer for help.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Run steam://flushconfig
 
  Many Steam problems can be solved by running the command “steam://flushconfig”. It’s a function that can refresh Steam’s core files and bring it back to default settings without interfering your Steam account and related games.  
@@ -73,26 +73,29 @@ thumbnail: https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce9943
 1. Press the**Windows logo key + R** to open the Run box.
 2. Type “steam://flushconfig” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam.jpg)
 3. Click**OK** in the jump-out window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/cmd.jpg)
 4. Run Steam and login. Download your game again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Method 5: Run Steam as administrator
 
  Some features may be blocked by the Windows system that causes the steam update stuck problem. With high integrity access, Steam can make full use of its features, won’t be blocked by other programs. So run Steam as an administrator to fix the problem.
 
 1. Right-click on the Steam icon and click **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam-icon.jpg)
 2. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam-1.jpg)
 3. Run Steam. You should be able to download games smoothly.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Disable/Uninstall antivirus software
@@ -131,12 +134,18 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -152,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +168,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-guide-to-youtube-livestreaming-from-google-meet/"><u>[New] 2024 Approved Easy Guide to YouTube Livestreaming From Google Meet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-5-tips-for-enhancing-roblox-gaming-recordings-mac-for-2024/"><u>[Updated] 5 Tips for Enhancing Roblox Gaming Recordings (Mac) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battle-common-battery-blunders-ensuring-your-windows-11-laptop-charges-correctly-with-easy-fixes/"><u>Battle Common Battery Blunders: Ensuring Your Windows 11 Laptop Charges Correctly with Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-svchostexes-heavy-data-transfer-in-windows-systems/"><u>Diagnosing and Fixing svchost.exe's Heavy Data Transfer in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-techniques-to-correct-microsofts-0x800f0831-issue-using-windows-update-features/"><u>Easy Troubleshooting Techniques to Correct Microsoft's 0X800F0831 Issue Using Windows Update Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-functionality-in-a-malfunctioning-corsair-keyboard/"><u>Expert Tips for Restoring Functionality in a Malfunctioning Corsair Keyboard</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-videos-made-simple-unified-techniques-for-desktop-and-mobile/"><u>Facebook Videos Made Simple Unified Techniques for Desktop & Mobile</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-can-you-fix-a-non-responsive-mouse-on-your-pc-expert-solutions-from-yl-computing/"><u>How Can You Fix a Non-Responsive Mouse on Your PC? Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-save-skype-calls-on-windows-and-os-x-for-2024/"><u>How to Save Skype Calls on Windows and OS X for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlocking-a-world-of-possibits-with-macbook-airs-screen-recording-feature/"><u>In 2024, Unlocking a World of Possibits with MacBook Air's Screen Recording Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/realtek-high-cpu-drain-resolving-the-ravbg64exe-audio-processing-problem/"><u>Realtek High CPU Drain: Resolving the Ravbg64.exe Audio Processing Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-stuck-audio-service-on-win-1110/"><u>Reviving Stuck Audio Service on WIN 11/10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721433461562-transform-your-mobile-experience-with-bings-smart-search-technology/"><u>Transform Your Mobile Experience with Bing's Smart Search Technology.</u></a></li>
+</ul></div>
 

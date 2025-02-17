@@ -1,7 +1,7 @@
 ---
 title: Solution Guide for Microsoft Store Failure to Open Issue
-date: 2024-08-19T07:54:48.998Z
-updated: 2024-08-20T07:54:48.998Z
+date: 2025-02-11T19:47:09.843Z
+updated: 2025-02-16T18:27:02.436Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ When you launch the game you can hear the intro music but right after that, all 
 4. [Reinstall your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Update your Windows system](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Change Sound Settings
 
  To solve the issue, you can try changing the sound settings. Uncheck “Disable all sound effect” has been proven effective by many users.
@@ -46,15 +50,19 @@ When you launch the game you can hear the intro music but right after that, all 
 1. On the right-bottom of the taskbar, right-click on the volume icon.
 2. Click**Troubleshoot sound problems** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-4.jpg)
 3. Choose**Yes, Open Audio Enhancements** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. Follow the on-screen instructions.
-5. Reboot your computer and check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Follow the on-screen instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+5. Reboot your computer and check whether the problem is solved or not.
+
 ### Method 3: Update your audio driver
 
  The outdated or missing drivers may be the reason for the “Forza Horizon 4 no sound” problem. You can update your audio driver to solve the problem.
@@ -68,6 +76,10 @@ There are two ways you can update your audio drivers.
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-515.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Option 2 – Automatically update your audio drivers**
 
@@ -91,20 +103,23 @@ There are two ways you can update your audio drivers.
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type “devmgmt.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-1.jpg)
 3. Click**Sound, video and game controllers** , right-click on the**Realtek(R) Audio** and click**Uninstall device** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 5. Use Method 3 to install the driver.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Reboot your computer to check whether the problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Update your Windows system
 
@@ -112,13 +127,7 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 1. Press the**Windows logo key + I** together. Click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4.1.jpg)
 2. In the Windows Update tab, click**Check for updates** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 3. Install the updates.
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 4. Reboot your computer and check the problem is solved or not.
 
  Thanks for reading. Hope this article meets your needs. And you are welcome to leave comments below.
@@ -131,8 +140,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +147,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-undisclosed-snapshotting-mastering-invisible-image-capture-on-snapchat-for-2024/"><u>[New] Undisclosed Snapshotting Mastering Invisible Image Capture on Snapchat for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-a-guide-to-top-screen-capture-for-zoom/"><u>2024 Approved A Guide to Top Screen Capture for Zoom</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-top-15-snapchat-sharing-tactics-for-maximum-impact/"><u>2024 Approved Top 15 Snapchat Sharing Tactics for Maximum Impact</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/celebrating-the-greats-anime-opens-of-all-time/"><u>Celebrating the Greats Anime Opens of All Time</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-fitbit-inspire-hr-a-persistent-partner-in-personal-health-and-activity-tracking/"><u>Evaluating the Fitbit Inspire HR: A Persistent Partner in Personal Health and Activity Tracking</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oppo-find-n3-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Oppo Find N3 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-white-screen-error-fixes-and-troubleshooting-steps-for-effective-solutions/"><u>Laptop White Screen Error Fixes and Troubleshooting Steps for Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/latest-fixes-for-miracast-not-recognized-on-this-device/"><u>Latest Fixes for 'Miracast Not Recognized on This Device'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-quick-remedies-for-easy-anti-cheat-troubles-in-apee-legends/"><u>Master the Quick Remedies for Easy Anti-Cheat Troubles in Apee Legends</u></a></li>
+<li><a href="https://article-helps.techidaily.com/samsung-gear-360-alternatives-updated-list-2023/"><u>Samsung Gear 360 Alternatives Updated List 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/savvy-soccer-snatching-how-to-record-and-cut-cheap/"><u>Savvy Soccer Snatching How to Record and Cut Cheap</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/total-war-rome-remastered-how-to-fix-the-latest-game-crash-issues/"><u>Total War Rome Remastered - How To Fix The Latest Game Crash Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-arrow-keys-discover-easy-fixes-to-restore-functionality/"><u>Trouble with Arrow Keys? Discover Easy Fixes to Restore Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-stuck-spacebar-key-under-windows-10/"><u>Troubleshooting a Stuck Spacebar Key Under Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-expired-semaphore-time-limit-error-0x80070079/"><u>Troubleshooting and Repairing the Expired Semaphore Time Limit (Error 0X80070079)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-pubg-loads-failure-for-in-game-structures/"><u>Troubleshooting PUBG Loads Failure for In-Game Structures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcome-the-extended-semaphore-connection-timeout-error-code-0x80070079/"><u>Troubleshooting: Overcome the Extended Semaphore Connection Timeout (Error Code 0X80070079)</u></a></li>
+</ul></div>
 

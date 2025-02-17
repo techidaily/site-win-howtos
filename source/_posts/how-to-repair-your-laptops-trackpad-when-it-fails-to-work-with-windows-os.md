@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Laptop's Trackpad When It Fails to Work with Windows OS
-date: 2025-02-02T12:24:16.959Z
-updated: 2025-02-07T14:54:02.729Z
+date: 2025-02-14T00:27:23.093Z
+updated: 2025-02-16T16:39:25.480Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these solutions
 
  There are six solutions to try to fix the problem. You may not have to try them all. Just work your way down to the top of the list until you find the one that works for you.
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Solution 1: Unplug the keyboard and the mouse then plug it back**
 
  To fix the issue, you can try to unplug and replug the keyboard and the mouse, then Windows will reinstall the driver automatically, and the keyboard and mouse will reconnect.
@@ -56,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
  First, shut down your computer. Then disconnect the power cable (If you are using a laptop computer, you can also remove the battery.). Then hold the power button down for about 10 seconds. After that, restart your computer and see if the issue resolves. This method has worked for other users who run into this problem like you.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 3: Disable driver signature enforcement**
 
@@ -71,10 +67,6 @@ Follow the steps below:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Solution 4: Update the USB driver**
 
  If the USB driver is missing or corrupted, this issue can occur. To fix the issue, you can update the USB driver.
@@ -89,13 +81,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) On your keyboard, press the **Del** key (It could be**Delete** on some keyboards).
 
@@ -120,7 +112,7 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -129,11 +121,11 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7eb6058aa.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## **Solution 5: Disable the Third Party services**
 
@@ -151,6 +143,10 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **OK** button.
 
  5) When you are prompted to restart your computer to apply the changes, click**Restart** . Then your computer will restart.
@@ -160,6 +156,10 @@ Follow the steps below:
  If the issue resolves after the computer starts, you can try disabling the third-party services one by one to determine which service is causing the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 6: Enable Legacy USB Support in BIOS**
 
@@ -171,13 +171,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d3383654c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d4218d51d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note if you don’t find  Legacy USB Support in BIOS, it is possible that the BIOS does not provide this option and this solution does not work for you. If you are still not sure how to do this, contact the PC manufacturer for further assistance.
 
@@ -200,15 +200,16 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-digital-library-year-round-free-texts/"><u>[New] The Ultimate Digital Library Year-Round Free Texts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-demystifying-the-world-of-youtube-and-its-keywords/"><u>[Updated] 2024 Approved Demystifying the World of YouTube and Its Keywords</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-creativity-how-to-convert-your-favorite-youtube-videos-to-gifs/"><u>[Updated] Unleashing Creativity How to Convert Your Favorite Youtube Videos To Gifs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-hues-choosing-pixel-rhythms/"><u>2024 Approved Harmonious Hues Choosing Pixel Rhythms</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a1-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A1 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-c67-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme C67 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-nier-automata-gameplay-disruptions-on-your-computer-effective-fixes/"><u>Overcoming Nier: Automata Gameplay Disruptions on Your Computer – Effective Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-failed-fixservice-setup-and-registration-on-windows-11-os/"><u>Repairing Failed FixService Setup and Registration on Windows 11 OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-windows-xerox-printer-mis-0x800f020b-effective-fixes-and-solutions/"><u>Resolve Window's Xerox Printer MIS-0X800F020B: Effective Fixes and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-file-explorer-icons-in-windows-11-solved/"><u>Troubleshooting Stuck File Explorer Icons in Windows 11 [Solved]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-craft-your-creative-identity-mastering-instagram-photowatermarking/"><u>[New] Craft Your Creative Identity Mastering Instagram Photowatermarking</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211932697-acer-quiet-crisis-proven-steps-to-reactivate-your-laptop-speakers/"><u>Acer Quiet Crisis? Proven Steps to Reactivate Your Laptop Speakers!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/arctis-5-wireless-headset-mic-repair-guide-tips-and-tricks-for-optimal-performance/"><u>Arctis 5 Wireless Headset Mic Repair Guide: Tips and Tricks for Optimal Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/combining-images-with-flair-your-ultimate-guide-to-instagram-stories/"><u>Combining Images with Flair Your Ultimate Guide to Instagram Stories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-bluetooth-detection-problems-with-windows-10-solutions/"><u>Fix Your Bluetooth Detection Problems with Windows 10 Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-and-testing-of-netgears-orbi-rbs50y-smart-wifi-system-perfectly-suited-for-your-backyard-needs/"><u>In-Depth Evaluation and Testing of Netgear's Orbi RBS50Y Smart WiFi System: Perfectly Suited for Your Backyard Needs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-thrustmaster-t300-driver-software-on-windows-10-and-11-systems-downloads-available-here/"><u>Install ThrustMaster T300 Driver Software on Windows 10 & 11 Systems - Downloads Available Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-access-denied-how-to-overcome-error-5-when-trying-to-run-files/"><u>Solving 'Access Denied': How to Overcome Error 5 When Trying to Run Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-problems-overcoming-error-0x802n4200d-successfully-explained/"><u>Troubleshooting Windows Update Problems: Overcoming Error 0X802n4200d Successfully Explained</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-ai-voice-over-for-2024/"><u>What Is AI Voice Over for 2024</u></a></li>
 </ul></div>
 

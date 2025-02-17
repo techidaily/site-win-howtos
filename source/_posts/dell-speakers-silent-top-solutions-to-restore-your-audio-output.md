@@ -1,7 +1,7 @@
 ---
 title: Dell Speakers Silent? Top Solutions to Restore Your Audio Output
-date: 2025-02-06T12:20:45.407Z
-updated: 2025-02-07T00:48:33.024Z
+date: 2025-02-15T21:18:24.474Z
+updated: 2025-02-16T21:54:17.855Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,13 +43,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -62,7 +58,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -89,6 +85,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -107,15 +107,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -125,6 +125,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -137,10 +141,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,24 +184,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-why-does-my-windows-11-computer-turn-on-by-itself/"><u>[FIXED] Why Does My Windows 11 Computer Turn on by Itself</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-sound-sculpting-on-android-the-7-ultimate-audio-editing-apps/"><u>[New] 2024 Approved Sound Sculpting on Android The 7 Ultimate Audio Editing Apps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ivergent-paths-in-video-sharing-comparing-igtv-and-youtube-for-2024/"><u>[New] Divergent Paths in Video Sharing Comparing IGTV & YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-comprehensive-overview-of-multiscreen-streaming-techniques-on-social-media-platforms-like-facebook/"><u>[New] In 2024, A Comprehensive Overview of Multiscreen Streaming Techniques on Social Media Platforms Like Facebook</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-trending-video-reactions/"><u>2024 Approved Exploring Trending Video Reactions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-trouble-shooting-tips-to-restore-your-pcs-ethernet-functionality-in-windows-10-and-7/"><u>Comprehensive Trouble Shooting Tips to Restore Your PC's Ethernet Functionality in Windows 10 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-lenovo-keyboard-malfunctions-effectively/"><u>Diagnosing and Resolving Lenovo Keyboard Malfunctions Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discord-mic-now-operational/"><u>Discord Mic Now Operational</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-correctly-address-the-windows-error-code-0x80072f8f-on-1110-systems/"><u>Expert Tips to Correctly Address the Windows Error Code 0X80072F8F on 11/10 Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-to-elevate-iphone-picture-quality-for-2024/"><u>Expert Tips to Elevate iPhone Picture Quality for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-0x800705b4-fault-during-windows-update-on-windows-11-a-comprehensive-guide/"><u>Fixing the 0X800705b4 Fault During Windows Update on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-20-proplus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 20 Pro+ Without Password | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-print-to-pdf-functionality-in-windows-1011/"><u>How to Restore Print to PDF Functionality in Windows 10/11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-8-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 8 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mouse-mastery-quick-scrolling-secrets/"><u>Mouse Mastery: Quick Scrolling Secrets</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-note-50-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme Note 50? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tiktoks-best-practices-for-stellar-edits/"><u>TikTok's Best Practices for Stellar Edits</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-with-device-casting-resolve-it-quickly-on-windows-11/"><u>Trouble with Device Casting? Resolve It Quickly on Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-artistry-in-motion-compelling-selection-of-3d-animation-software/"><u>[New] 2024 Approved Artistry in Motion Compelling Selection of 3D Animation Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utting-the-cord-of-creation-how-to-setup-a-youtube-channel-from-phone-to-platform-for-2024/"><u>[New] Cutting the Cord of Creation How to Setup a YouTube Channel From Phone to Platform for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ree-music-for-videos-finding-the-right-sources/"><u>[New] Free Music for Videos Finding the Right Sources</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/brand-your-content-download-complimentary-templates-for-youtube-makers/"><u>Brand Your Content Download Complimentary Templates for YouTube Makers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-resolve-continuous-system-freezing-on-your-laptop-or-desktop/"><u>Easy Steps to Resolve Continuous System Freezing on Your Laptop or Desktop</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/effective-techniques-to-eliminate-pre-installed-software-and-boost-pc-efficiency-guidance-by-yl-computing/"><u>Effective Techniques to Eliminate Pre-Installed Software & Boost PC Efficiency - Guidance by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solution-reviving-non-functioning-keys-on-your-hp-device/"><u>Effortless Solution: Reviving Non-Functioning Keys on Your HP Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-v30-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo V30 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882370010-grand-unveiling-of-the-latest-galaxy-smartphone-live-stream-now/"><u>Grand Unveiling of the Latest Galaxy Smartphone - Live Stream Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-tackle-overuse-of-hard-drive-storage-by-microsofts-telemetry-feature-in-windows-11/"><u>How to Tackle Overuse of Hard Drive Storage by Microsoft's Telemetry Feature in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-usb-tethering-mastery-for-windows-10-users/"><u>Step-by-Step USB Tethering Mastery for Windows 10 Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution Implemented for Malfunctioning Keyboard Keys
-date: 2024-08-19T07:54:24.951Z
-updated: 2024-08-20T07:54:24.951Z
+date: 2025-02-11T17:30:01.349Z
+updated: 2025-02-17T00:46:12.172Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
  You can’t type anything with your keyboard? That’s really bothersome and frustrating. But don’t worry, you certainly aren’t the only one. We’ve seen many Windows users reporting this**Keyboard won’t type** issue. But the good news is, you can fix it. We’ve put together 6 solutions you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for my keyboard won’t type
 
 1. **[Restart your computer](https://versadesk.pxf.io/xyboxx)**
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
  No matter which kind of keyboard you’re using, a USB keyboard, a wireless one or a laptop keyboard, you can try the first four methods. If unfortunately, all these four methods fail, try the fix for the exact type of keyboard you’re using.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Restart your computer
 
@@ -48,11 +56,16 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7664a26b24c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Adjust your keyboard settings
 
  There’re some easy-access keys features, like Sticky keys, to help you control your keyboard better. But you may encounter some problems including this keyboard won’t type issue when you enable one or more of these keyboard features. So when your keyboard is not working, make sure you turn off the easy access keys as this method has helped many users.
@@ -64,30 +77,27 @@ If your computer is running Windows 10:
 1. On the taskbar of your desktop, click the**Start** button. Then click the**Settings icon** to bring up the Settings window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665088706c.jpg)
 2. Click**Ease of Access** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
 3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If your computer is running Windows 11:
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
 2. From the left navigation panel, select **Accessibility** , then click **Keyboard**  from the right.  
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Sticky keys, Filter keys, and Toggle keys.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 If your computer is running Windows 7:
 
 1. On the taskbar of your desktop, click the **Start button** , then select**Control Panel** .  
@@ -97,8 +107,9 @@ If your computer is running Windows 7:
 3. Click **Change how your keyboard works** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Try to type some words using your keyboard to see if it works.
@@ -143,18 +154,12 @@ See how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Try this fix if you’re using a USB keyboard
 
  If unfortunately, all the fixes above fail to help you and you’re using a USB keyboard, You can try to connect the keyboard with**another USB port** to check if it works as an old, shabby USB port could cause your Keyboard not to work.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Method 6: Try this fix if you’re using a wireless keyboard
 
  If unfortunately, the first four methods all fail to help you and you’re using a wireless keyboard, try to reconnect the keyboard to your Windows computer.
@@ -183,8 +188,6 @@ Try to type some words using your keyboard to see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +195,24 @@ Try to type some words using your keyboard to see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-50plus-amazing-online-sources-to-boost-your-fb-cover-image/"><u>[New] In 2024, 50+ Amazing Online Sources to Boost Your FB Cover Image</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-crafting-quality-content-for-youtube-success-for-2024/"><u>[Updated] Crafting Quality Content for YouTube Success for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-record-edit-and-produce-high-quality-webcam-videos/"><u>[Updated] How to Record, Edit and Produce High-Quality Webcam Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-sync-problems-with-your-gmail-effective-solutions-and-advice/"><u>Addressing Sync Problems with Your Gmail – Effective Solutions and Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-fix-the-problem-of-non-operational-integrated-webcams-in-windows-systems/"><u>Expert Tips to Fix the Problem of Non-Operational Integrated Webcams in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-personal-configuration-errors-now-functional/"><u>Fixing Personal Configuration Errors (Now Functional)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/groundwork-for-motion-visual-storytelling/"><u>Groundwork for Motion Visual Storytelling</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-a2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A2 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-for-your-minecraft-local-network-gameplay/"><u>How To Restore Connectivity For Your Minecraft Local Network Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-how-to-address-undetected-files-in-systems-solution-provided/"><u>Mastering How to Address Undetected Files in Systems [Solution Provided]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475757813-seven-remedies-for-iphone-users-facing-vpn-connections-issues/"><u>Seven Remedies for iPhone Users Facing VPN Connections Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/snip-and-sketch-vs-prtsc-the-best-tools-for-windows-users/"><u>Snip & Sketch Vs. PrtSc: The Best Tools for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-0x80070490-issue-on-your-pc-complete-fix-guide/"><u>Solving the 0X80070490 Issue on Your PC - Complete Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/support-your-argument-with-historical-examples-or-current-breakthroughs-driven-by-problem-solvers/"><u>Support Your Argument with Historical Examples or Current Breakthroughs Driven by Problem Solvers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210609528-9781910231418-the-magic-of-crystals/"><u>The Magic of Crystals | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-loadlibrary-failed-fixing-the-problem-of-error-87-in-windows/"><u>Troubleshooting 'LoadLibrary Failed' - Fixing the Problem of Error 87 in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011-issue-frozen-acer-laptop-keys/"><u>Windows 10/11 Issue: Frozen Acer Laptop Keys</u></a></li>
+</ul></div>
 

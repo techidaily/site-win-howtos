@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Adjusted Security Preferences Now Permit Download of This File"
-date: 2024-08-19T07:51:20.245Z
-updated: 2024-08-20T07:51:20.245Z
+date: 2025-02-10T18:53:56.532Z
+updated: 2025-02-16T18:16:43.970Z
 tags:
   - win11
   - win10
@@ -47,6 +47,11 @@ League of Legends is a world popular game, but the slow download speed can easil
 2. Find League of Legends program. Right-click on it and click**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
 3. In the file, find the**LOL Launcher.exe** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on it and click**Run as administrator** .
 
 Downloading again to see if it works.
@@ -54,8 +59,9 @@ Downloading again to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -63,16 +69,24 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Re-download to check.
 
 **Note** : If it doesn’t work, you must**turn on** Windows Firewall to protect your computer.  
@@ -88,9 +102,6 @@ Re-download to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus: Update your drivers
 
  Missing or outdated drivers can cause many issues. Updating If you want to have better gaming experience and prevent potential problems, you’re recommended to keep your drivers update to date.
@@ -119,16 +130,9 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -146,8 +150,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +157,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-advanced-hdr-image-processing-steps-in-adobe-lightroom/"><u>[Updated] Advanced HDR Image Processing Steps in Adobe Lightroom</u></a></li>
+<li><a href="https://windows11.techidaily.com/apk-quickstart-guide-for-widely-adopted-windows-11/"><u>APK Quickstart Guide for Widely-Adopted Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-epson-wf-2940-printer-driver-software-compatible-with-windows-7-81-and-10/"><u>Download Epson WF-2940 Printer Driver Software Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-top-5-tools-must-have-arsenal-for-successful-twitch-broadcasters/"><u>Essential Top 5 Tools Must-Have Arsenal for Successful Twitch Broadcasters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-techniques-for-fixing-no-light-show-a-full-how-to-for-dell-laptop-screen-issues/"><u>Expert Techniques for Fixing No Light Show: A Full How-To for Dell Laptop Screen Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-missing-graphics-device-in-starcraft-2-solution-guide/"><u>How to Fix the Missing Graphics Device in StarCraft 2 – Solution Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-enhance-creativity-and-quality-in-live-video-recording-using-logitech-cam/"><u>In 2024, Enhance Creativity and Quality in Live Video Recording Using Logitech Cam</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-x7b-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor X7b?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-solutions-resolve-your-netflix-audio-problems-instantly/"><u>Quick & Simple Solutions: Resolve Your Netflix Audio Problems Instantly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/social-media-music-rules-and-regulations/"><u>Social Media Music Rules and Regulations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-typing-troubles-in-windows-10-and-11-repair-broken-keyboard-buttons/"><u>Solve Your Typing Troubles in WINDOWS 10 and 11: Repair Broken Keyboard Buttons!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-the-operating-system-cannot-be-detected/"><u>Troubleshooting Steps for Resolving the 'Operating System Cannot Be Detected'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-display-driver-stopped-responding-issues-on-your-computer/"><u>Understanding and Resolving ‘Display Driver Stopped Responding’ Issues on Your Computer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/d-with-youtube-tricks-for-reducing-playback-velocity-49-chars-for-2024/"><u>Unwind with YouTube Tricks for Reducing Playback Velocity (49 Chars) for 2024</u></a></li>
+</ul></div>
 

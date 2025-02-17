@@ -1,7 +1,7 @@
 ---
 title: Keys Disobey Command
-date: 2025-01-09T17:09:57.223Z
-updated: 2025-01-13T17:39:04.488Z
+date: 2025-02-15T20:58:16.797Z
+updated: 2025-02-16T23:17:39.957Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Update your drivers**
 
  The Windows 10 freezing problem can be caused by outdated drivers. So to fix the problem, you can try to update the drivers. If you don’t have the time, patience, or computer skills to update the drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system. (Note: Upon selecting the ‘Update All’ option, you will be asked to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . A 7-day free trial, including all Pro features like high-speed download and one-click install, is available if you’re not ready for the Pro version yet. Rest assured, you won’t incur any charges until after the 7-day trial.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
@@ -73,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Select all the files in the Temp folder and delete them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a52e5c1ac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If Windows 10 is still randomly freezing after clearing your temp files, try the next fix.
 
@@ -97,16 +93,12 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a3b88f3d2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Go to the**Advanced** tab, then click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
@@ -157,7 +149,7 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -169,7 +161,7 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-as-administrator.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If prompted to provide administrator permission, click**Yes** .
@@ -210,6 +202,10 @@ sfc /scannow
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 6: Run Disk Check**
 
  If you’ve come this far, it’s time for you to check if your hard disk is at fault. Don’t worry, this is easy to do, because Windows has a built in tool for the job…
@@ -228,16 +224,12 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9a940e55.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) If your hard disk drive is problem-free, you’ll see this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb70907dd5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This suggests your hard disk is NOT the problem, and you can move on to the next fix below.
@@ -245,6 +237,10 @@ sfc /scannow
  If you DO see errors, it’s possible they’re causing Windows to freeze, and you should consider upgrading your disk.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 7: Disable C-States in BIOS**
 
@@ -260,17 +256,21 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d3311bb92d6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Both **C1E Function** and**Intel(R) C-STATE tech** should be **Disabled** . If they’re not, use your keyboard up and down arrows to navigate the list of options, highlight the setting you want to change, press Enter on your keyboard, then press the up or down arrow on your keyboard to change the value to Disabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 8: Switch to ChromeOS
 
@@ -317,14 +317,22 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-discovering-ideal-aspect-ratios-for-vids-for-2024/"><u>[New] Discovering Ideal Aspect Ratios for Vids for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-harmonizing-lifestyle-through-the-most-inspiring-yoga-vlogs/"><u>[Updated] Harmonizing Lifestyle Through the Most Inspiring Yoga Vlogs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-scriptwriters-playbook-for-2024/"><u>A Scriptwriter's Playbook for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-ensure-smooth-performance-with-updated-hp-envy-series-drivers/"><u>How to Ensure Smooth Performance with Updated HP ENVY Series Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-connectivity-how-to-ensure-flawless-bluetooth-pairing-on-your-windows-11-pc/"><u>Master Connectivity: How to Ensure Flawless Bluetooth Pairing on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-typing-troubles-overcoming-windows-11s-input-lag-issues/"><u>No More Typing Troubles: Overcoming Windows 11'S Input Lag Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-your-laptops-keyboard-tips-and-solutions/"><u>Resolving Issues with Your Laptop's Keyboard - Tips & Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206824332-reviving-your-keyboards-arrow-buttons-effective-solutions-inside/"><u>Reviving Your Keyboard's Arrow Buttons – Effective Solutions Inside</u></a></li>
-<li><a href="https://blog-min.techidaily.com/topo-gratuit-and-open-source-des-meilleures-logiciels-de-transcodage-video-pour-windows-et-macos-en-2021/"><u>Topo Gratuit & Open Source Des Meilleures Logiciels De Transcodage Vidéo Pour Windows Et macOS en 2021</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-pro-tips-for-captivating-snapchat-stories/"><u>[Updated] 2024 Approved Pro Tips for Captivating Snapchat Stories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-master-control-over-video-velocity-on-snapchat-app/"><u>[Updated] In 2024, Master Control Over Video Velocity on Snapchat App</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-the-2023-landscape-for-screen-captures-and-ppts/"><u>[Updated] Navigating the 2023 Landscape for Screen Captures & PPTs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banishing-the-blue-screen-of-death-mastering-halo-4s-ue4-error-fixes/"><u>Banishing the Blue Screen of Death: Mastering Halo 4'S UE4 Error Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-driver-conflicts-in-ftdi-systems-a-guide-on-restoring-memory-reliability/"><u>Dealing with Driver Conflicts in FTDI Systems – A Guide on Restoring Memory Reliability</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhancing-claims-management-with-abbyys-digital-expertise-at-ecclesia-gruppe-an-seo-optimized-approach-to-insurance-services/"><u>Enhancing Claims Management with ABBYY's Digital Expertise at Ecclesia Gruppe – An SEO-Optimized Approach to Insurance Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-persistent-reboot-cycles-on-your-windows-11-pc/"><u>Guide To Resolving Persistent Reboot Cycles On Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-airpods-connection-woes-on-windows-computers-latest-tips-for-202-1/"><u>How to Solve AirPods Connection Woes on Windows Computers (Latest Tips for 202 1)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013808662-key-factors-influencing-performance-including-target-pollutant-properties-droplet-size-distribution-contact-time-solubility-and-scrubber-design/"><u>Key Factors Influencing Performance, Including Target Pollutant Properties, Droplet Size Distribution, Contact Time, Solubility, and Scrubber Design.</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/publique-e-compartilhe-seu-conteudo-no-google-promovendo-sua-postagem-nas-redes-sociais-para-aumentar-a-visibilidade/"><u>Publique E Compartilhe Seu Conteúdo No Google, Promovendo Sua Postagem Nas Redes Sociais Para Aumentar a Visibilidade.</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/rescue-your-deletions-top-strategies-for-restoring-removed-files-in-windows-recycle-bin/"><u>Rescue Your Deletions: Top Strategies for Restoring Removed Files in Windows Recycle Bin</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-ios-download-episodes-like-a-pro/"><u>Step-by-Step iOS Download Episodes Like a Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-keep-your-mouse-connected-finally/"><u>Step-by-Step Troubleshooting: Keep Your Mouse Connected, Finally!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-trending-and-most-viewed-prime-videos-twitterreactions/"><u>Top-Trending & Most Viewed Prime Videos, #TwitterReactions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-displays-lacking-hdcp-support-for-better-streaming-quality/"><u>Troubleshooting Displays Lacking HDCP Support for Better Streaming Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unlocking-the-c-drive-on-windows-10-devices-for-safe-access/"><u>Troubleshooting: Unlocking the C: Drive on Windows 10 Devices for Safe Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-if-unreal-engine-suffers-from-d3d-vanishing/"><u>What if Unreal Engine Suffers From D3D Vanishing?</u></a></li>
 </ul></div>
 

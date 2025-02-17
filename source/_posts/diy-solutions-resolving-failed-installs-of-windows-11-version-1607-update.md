@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions: Resolving Failed Installs of Windows 11 Version 1607 Update"
-date: 2025-02-04T14:20:49.034Z
-updated: 2025-02-06T19:19:27.669Z
+date: 2025-02-14T00:54:09.396Z
+updated: 2025-02-16T23:30:25.091Z
 tags:
   - win11
   - win10
@@ -38,15 +38,15 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -151,7 +151,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -161,10 +161,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -177,7 +173,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -187,6 +183,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -225,20 +225,19 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-copy-issue-on-windows-11/"><u>[FIXED] Copy Issue on Windows 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[New] In 2024, How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-navigating-to-your-distinctive-tiktok-tag/"><u>[New] Navigating to Your Distinctive TikTok Tag</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-unlocking-nvidias-screen-recorder-potential/"><u>2024 Approved Unlocking NVIDIA's Screen Recorder Potential</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-90-lite-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 90 Lite System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fortnite-not-launching-solved/"><u>Fortnite Not Launching [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-defeating-the-2erious-case-of-miracast-not-working-on-your-gadget/"><u>Guide to Defeating the 2Erious Case of Miracast Not Working on Your Gadget</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-vn-video-editor-app-analysis-features-pricing-and-more/"><u>In 2024, VN Video Editor App Analysis Features, Pricing, and More</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-woes-be-gone-a-comprehensive-reset-guide-for-immediate-relief/"><u>Keyboard Woes Be Gone! A Comprehensive Reset Guide for Immediate Relief</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-unsticking-a-stuck-computer-mouse/"><u>Step-by-Step Troubleshooting: Unsticking a Stuck Computer Mouse</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-list-of-preferred-mac-snipping-apps-for-2024/"><u>The Ultimate List of Preferred Mac Snipping Apps for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-to-overcome-game-lag-in-fallout-4/"><u>Top Strategies to Overcome Game Lag in Fallout 4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-slow-keyboard-response-easy-remedies-and-tips/"><u>Troubleshooting Slow Keyboard Response: Easy Remedies & Tips</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-singing-machine-sml385btbk-karaoke-experience-user-friendly-vibrant-and-instantly-ready/"><u>Ultimate Singing Machine SML385BTBK Karaoke Experience: User-Friendly, Vibrant & Instantly Ready</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/windowsmac-recording-skype-chats-and-calls/"><u>Windows/Mac Recording Skype Chats & Calls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-ultimate-guide-to-streaming-high-quality-cricket-matches/"><u>[New] In 2024, The Ultimate Guide to Streaming High-Quality Cricket Matches</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>[Updated] In 2024, Step Into a TikTok Realm A Guide for Joining Lives</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1-ultimate-guide-mirillis-splash-hd-player-features-and-troubleshooting/"><u>1. Ultimate Guide: Mirillis Splash HD Player Features & Troubleshooting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-the-viewers-of-your-google-documents-a-comprehensive-guide/"><u>Discovering the Viewers of Your Google Documents: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/effortless-ipad-configuration-with-icloud-restore-a-comprehensive-beginners-guide/"><u>Effortless iPad Configuration with iCloud Restore: A Comprehensive Beginner's Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-critical-directx-failures-expert-solutions-and-tips/"><u>Fixing Critical DirectX Failures - Expert Solutions and Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-mac-slideshow-app-ezvid-review-and-tutorial-for-2024/"><u>New The Ultimate Mac Slideshow App Ezvid Review and Tutorial for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-hurdles-a-fix-for-broken-right-click-buttons/"><u>Overcoming Windows 10 Hurdles: A Fix for Broken Right-Click Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-non-responsive-keyboard-functionality-restored/"><u>Resolved Issue: Non-Responsive Keyboard Functionality Restored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-error-0xc0000098-in-windows-a-step-by-step-guide/"><u>Solving the Mystery of Error 0xC0000098 in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-windows-10s-missing-bluetooth-functionality-with-ease/"><u>Troubleshoot and Repair Windows 10'S Missing Bluetooth Functionality with Ease</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-3d-text-magic-with-adobes-creative-suite-for-2024/"><u>Unlock 3D Text Magic with Adobe's Creative Suite for 2024</u></a></li>
 </ul></div>
 

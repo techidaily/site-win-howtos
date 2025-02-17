@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Optimizing Your Fallout 4 Gaming Experience & Fixing Lag"
-date: 2025-01-19T17:17:58.149Z
-updated: 2025-01-25T16:17:58.952Z
+date: 2025-02-10T17:03:47.315Z
+updated: 2025-02-17T00:15:48.543Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
@@ -42,10 +46,6 @@ Then you can check if the application is listed here. If it is, uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3) Start and re-register Microsoft Installer service
 
 There may be something going wrong with**Microsoft Installer service**and therefore resulting in error 1603\. You can fix the problem by (re)starting and re-registering Microsoft Installer service. To**start**Windows Installer service:**a)** Press**Win + R**and enter “_**services.msc**_“;
@@ -53,7 +53,7 @@ There may be something going wrong with**Microsoft Installer service**and theref
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)** Find and double click on**Windows Installer**;
@@ -64,6 +64,10 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
@@ -73,7 +77,7 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -83,24 +87,16 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb123f210b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
 
@@ -114,17 +110,21 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **h)** Do the same operation above for**SYSTEM**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb8202ef5a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **i)** Click on**OK** all the way out. Now you have acquired full permissions on this drive. Try installing your application and see if the issue is fixed.
 
@@ -145,20 +145,16 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-concise-content-the-best-url-cutter-tools-for-youtubers/"><u>[Updated] In 2024, Concise Content The Best URL Cutter Tools for Youtubers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-masterclass-flawless-powerpoint-screen-recordings-for-2024/"><u>[Updated] Masterclass Flawless PowerPoint Screen Recordings for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-mac-gif-videographer-for-2024/"><u>[Updated] Ultimate Mac Gif Videographer for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-guide-to-mastering-zero-cost-timer-functionality/"><u>2024 Approved Expert Guide to Mastering Zero Cost Timer Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-bootmgr-not-found-error-step-by-step-guide-includes-screenshots/"><u>Effortless Fix for Bootmgr Not Found Error - Step-by-Step Guide Includes Screenshots</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-bingchatgpts-fraudulent-cryptocurrency-tokens-a-compreh/"><u>Identifying BingChatGPT's Fraudulent Cryptocurrency Tokens: A Compreh</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-glowing-with-hd-does-it-serve-the-scope-of-hdr-well/"><u>In 2024, Glowing with HD Does It Serve the Scope of HDR Well?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimized-wdf-implementation-reducing-excessive-cpu-usage/"><u>Optimized WDF Implementation: Reducing Excessive CPU Usage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repair-broken-usb-connectivity-in-windows-operating-systems/"><u>Step-by-Step Guide: Repair Broken USB Connectivity in Windows Operating Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tirez-parti-de-movavi-transformez-votre-fichier-swf-gratuitement-en-image-gif-sur-internet/"><u>Tirez Parti De Movavi : Transformez Votre Fichier SWF Gratuitement en Image GIF Sur Internet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209999377-troubleshooting-windows-audio-issues-stop-high-cpu-consumption-now/"><u>Troubleshooting Windows Audio Issues: Stop High CPU Consumption Now!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/k-youtube-monetization-with-500-subscribers/"><u>Unlock YouTube Monetization with 500 Subscribers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-correct-the-unwanted-radiant-red-issue-on-your-windows-10-device/"><u>Winning Strategies to Correct the Unwanted Radiant Red Issue on Your Windows 10 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-fix-unresponsive-bluetooth-connections-on-windows-11-2024-tips/"><u>Winning Strategies to Fix Unresponsive Bluetooth Connections on Windows 11 (2024 Tips)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-choose-the-fpv-drone-propellers-for-2024/"><u>[New] How to Choose the FPV Drone Propellers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bring-life-back-to-your-non-charging-laptop-battery-in-no-time/"><u>Bring Life Back to Your Non-Charging Laptop Battery in No Time</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/examining-common-culprits-leading-to-fps-variability/"><u>Examining Common Culprits Leading to FPS Variability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-broken-ethernet-connections-in-windows-10-and-windows-7/"><u>How to Repair Broken Ethernet Connections in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-addressing-wd-my-passport-ultra-missing-in-system-devices-list/"><u>How to Restore Connectivity: Addressing WD My Passport Ultra Missing in System Devices List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-motorola-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Motorola </u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11s-0x802e401c-update-malfunction/"><u>Overcoming Windows 11'S 0X802e401c Update Malfunction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-7-video-software-for-mac-for-2024/"><u>Prime 7 Video Software for Mac for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-chromebook-2-in-depth-analysis-and-portability/"><u>Samsung Galaxy Chromebook 2 - In-Depth Analysis and Portability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-overcoming-werfaultexe-errors-on-your-microsoft-windows-system/"><u>Ultimate Guide to Overcoming werFault.exe Errors on Your Microsoft Windows System</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-turn-your-videos-into-dvds-with-these-3-easy-methods/"><u>Updated Turn Your Videos Into DVDs with These 3 Easy Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting SSL/TLS Problems: Overcoming Secure Connections Fails on Firefox"
-date: 2024-08-19T07:50:56.483Z
-updated: 2024-08-20T07:50:56.483Z
+date: 2025-02-11T16:57:24.323Z
+updated: 2025-02-16T21:30:52.339Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d75d07929.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click on**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d8364e9e9.jpg)
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8db550cab4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **ii.** Type “_**cmd**_ “. When you see**Command Prompt** appear in the menu above, right click on it and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8dc2dcc5a2.png)
@@ -76,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 **iv.** Wait for the scan to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8df003dfa2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **v.** Try installing the system updates. If this method works for you, you will not see the error again.
 
@@ -91,11 +103,19 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8fa2a4f246.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Open Windows Update and check the updates you have failed to install. Copy down the codes of these updates (the codes starting with “**KB** “).
 
 **iv.** Go to[**Microsoft Update Catalog**](http://www.catalog.update.microsoft.com) and search the codes for those updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a920adb952b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **v.** Find the update that is suitable for your operating**system type** (**x86-based** or**x64-based** ) and click on the**Download** button next to it.
 
@@ -116,6 +136,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 **ii.** Download the update file for Windows Defender Antivirus that matches your operating system (the right one for your system type).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37871a5b248.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iii.** Open the file you have downloaded and install the update on your computer.
 
@@ -150,6 +174,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 **ii.** Type “_**services.msc**_ ” and press**Enter** to open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a917d0eff42.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iii.** Click on**Windows Installer** , then**Restart** .
 
@@ -190,8 +218,6 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,8 +225,24 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-tips-to-prevent-frame-loss-during-real-time-broadcasts-with-obs/"><u>[New] In 2024, Tips to Prevent Frame Loss During Real-Time Broadcasts with OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-integrating-zoom-calls-smoothly-on-xbox-console/"><u>[New] Integrating Zoom Calls Smoothly on Xbox Console</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-key-practices-for-soundless-media-gathering-for-2024/"><u>[New] Key Practices for Soundless Media Gathering for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-simple-way-to-transform-spotify-playlists-into-text-format-for-backup-and-sharing/"><u>A Simple Way to Transform Spotify Playlists Into Text Format for Backup and Sharing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-repair-guide-getting-your-lenovo-laptop-camera-back-online/"><u>DIY Repair Guide: Getting Your Lenovo Laptop Camera Back Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-fix-the-persistent-kb40240034-glitch-in-windows-10/"><u>Expert Solutions to Fix the Persistent KB40240034 Glitch in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-how-to-troubleshoot-and-fix-parameter-issues/"><u>Expert Solutions: How to Troubleshoot and Fix Parameter Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-fix-resetting-your-computer-failed-error-messages-on-windows-11/"><u>Guide: Fix 'Resetting Your Computer Failed' Error Messages on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-apex-legends-infinite-loading-screen-error/"><u>How to Fix Apex Legends Infinite Loading Screen Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-driver-power-state-failure-error/"><u>How to Fix DRIVER POWER STATE FAILURE Error</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-xiaomi-redmi-note-13-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Xiaomi Redmi Note 13 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-performance-fixing-stutters-and-crashes-in-assassins-creed-odyssey-on-windows-2024-edition/"><u>Mastering Performance: Fixing Stutters and Crashes in Assassin's Creed Odyssey on Windows - 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-mic-disconnect-on-discord/"><u>Resolved Mic Disconnect on Discord</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-tablet-charging-problems-what-if-the-device-says-fully-charged-but-wont-turn-on/"><u>Solving Tablet Charging Problems: What If the Device Says Fully Charged But Won't Turn On?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-best-way-to-download-and-setup-asus-router-drivers-a-comprehensive-guide/"><u>The Best Way to Download & Setup ASUS Router Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-fixing-the-persistent-error-0x800f020b-after-xerox-software-update-on-windows-computers/"><u>Ultimate Solution: Fixing the Persistent Error 0X800f020b After Xerox Software Update on Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-3-techniques-for-directory-access/"><u>Unlocking Secrets: 3 Techniques for Directory Access</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->

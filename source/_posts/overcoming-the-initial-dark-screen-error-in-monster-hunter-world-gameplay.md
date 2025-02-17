@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Initial Dark Screen Error in Monster Hunter: World Gameplay"
-date: 2024-08-19T07:55:41.712Z
-updated: 2024-08-20T07:55:41.712Z
+date: 2025-02-13T17:47:52.569Z
+updated: 2025-02-16T17:00:36.142Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -40,31 +44,35 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
 This problem may occur if you are using the wrong or outdated drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
@@ -79,9 +87,6 @@ You can update your drivers automatically with either the [**Free**](https://too
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -99,8 +104,6 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +111,26 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/1723210185142-camera-troubles-behind-you-expert-tips-to-rectify-windows-error-0xa00f4292-and-resume-photography/"><u>[Camera Troubles Behind You]: Expert Tips to Rectify Windows Error 0xA00F4292 and Resume Photography</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-supercharged-strategies-to-locate-online-ids/"><u>[New] Supercharged Strategies to Locate Online ID's</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software/"><u>[Updated] 2024 Approved How to Record TV Shows on Windows PC with Free Video Recording Software?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-non-google-options-for-augmented-reality-embellishing/"><u>[Updated] 2024 Approved Non-Google Options for Augmented Reality Embellishing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-clear-audio-in-videos-essential-tips-and-tool-reviews-for-2024/"><u>[Updated] Clear Audio in Videos Essential Tips and Tool Reviews for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-zte-blade-a73-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My ZTE Blade A73 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquer-the-cursor-flicker-problem-a-comprehensive-guide-for-quick-fixes/"><u>Conquer the Cursor Flicker Problem: A Comprehensive Guide for Quick Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solutions-for-hp-laptop-webcam-problems-when-using-windows-11/"><u>DIY Solutions for HP Laptop Webcam Problems When Using Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-overcome-the-notorious-win11-update-bug-error-0x800705b4-in-depth-fixes/"><u>How to Seamlessly Overcome the Notorious Win11 Update Bug (Error 0X800705b4): In-Depth Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-adobe-shockwave-problems-on-google-chrome-with-ease-solution/"><u>Overcome Adobe Shockwave Problems on Google Chrome with Ease [SOLUTION]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-accessing-biometric-login-in-windows-10-when-windows-hello-fails/"><u>Overcoming Challenges: Accessing Biometric Login in Windows 10 When Windows Hello Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resurrect-vanished-desktop-panes-methods-for-retrieving-hidden-windows/"><u>Resurrect Vanished Desktop Panes: Methods for Retrieving Hidden Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ely-and-swiftly-acquiring-your-youtube-watch-lists-for-2024/"><u>Securely and Swiftly Acquiring Your YouTube Watch Lists for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/subtitles-that-shine-discover-the-best-free-online-tools-for-2024/"><u>Subtitles That Shine - Discover the Best Free Online Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-solved-addressing-the-persistent-boot-screen-problem-on-computers/"><u>Successfully Solved: Addressing the Persistent Boot Screen Problem on Computers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-pano-way-to-online-visibility-posting-360-photos-through-mobile-apps-for-2024/"><u>The Pano-Way to Online Visibility Posting 360 Photos Through Mobile Apps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-nonfunctional-usb-ports-on-windows-1011-fixed/"><u>Troubleshooting Nonfunctional USB Ports on Windows 10/11 - Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-fix-a-non-responsive-wacom-drawing-pad/"><u>Troubleshooting Steps to Fix a Non-Responsive Wacom Drawing Pad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-identity-under-threat-are-biometrics-safe/"><u>Windows Identity Under Threat: Are Biometrics Safe?</u></a></li>
+</ul></div>
 

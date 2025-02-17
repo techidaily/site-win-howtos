@@ -1,7 +1,7 @@
 ---
 title: Banish the Blight of Error Code 0Xc0000098 with These Simple Repair Steps for Windows Users
-date: 2025-01-24T18:05:29.625Z
-updated: 2025-01-25T16:59:12.045Z
+date: 2025-02-15T01:06:43.156Z
+updated: 2025-02-16T21:30:51.984Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Fix Error 0x80070002?
 
  Here are solutions that have helped other users resolve the error 0x80070002\. You may not need to try them all; just work your way down the list until everything’s working again.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 3. **[Try Windows Update Troubleshooter](#Method3)**
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does the error 0x80070002 occur?
 
@@ -70,12 +70,16 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
@@ -95,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
 
@@ -120,13 +120,13 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
 
@@ -139,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -158,16 +162,12 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Try Windows Update Troubleshooter**
@@ -177,6 +177,10 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  1) Download the troubleshooter from[**Microsoft**](https://support.microsoft.com/en-ph/help/4027322/windows-windows-update-troubleshooter) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Run the downloaded file.
 
@@ -201,7 +205,7 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
@@ -209,10 +213,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
@@ -244,15 +244,15 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After updating, restart your computer and try the Windows Update again.
 
@@ -277,19 +277,20 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-exploring-no-cost-cam-screens-reviews-and-high-alternatives/"><u>[New] Exploring No-Cost Cam Screens Reviews & High Alternatives</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-harness-free-fb-link-downloaders/"><u>[Updated] In 2024, Harness Free FB Link Downloaders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-dealing-with-servers-not-available-errors-in-destiny-2/"><u>Expert Advice: Dealing with 'Servers Not Available' Errors in Destiny 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-preventing-frequent-disruptions-while-playing-battlefield-v-on-pc/"><u>Expert Tips: Preventing Frequent Disruptions While Playing Battlefield V on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-boot-solutions-overcoming-sluggishness-on-windows-7-systems/"><u>Fast Boot Solutions: Overcoming Sluggishness on Windows 7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-unfreeze-file-explorer-on-windows-11/"><u>Fixes and Solutions: How to Unfreeze File Explorer on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-audio-problems-with-microphones-on-windows-11-computers/"><u>Guide to Resolving Audio Problems with Microphones on Windows 11 Computers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-13-proplus-5g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 13 Pro+ 5G Lock Screen Password?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-update-recovery-avoid-the-error-code-0x80070643-and-get-your-system-running-smoothly-again/"><u>Mastering Windows Update Recovery: Avoid the 'Error Code 0X80070643' And Get Your System Running Smoothly Again</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782784-9781594777936-obi/"><u>Obí | Free Book</u></a></li>
-<li><a href="https://fox-info.techidaily.com/quick-and-easy-method-for-clearing-image-backdrops-for-2024/"><u>Quick and Easy Method for Clearing Image Backdrops for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-microsofts-night-light-functionality-on-latest-operating-systems/"><u>Resolving Issues with Microsoft's Night Light Functionality on Latest Operating Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-non-functional-corsair-hs35-mic-on-pc-with-windows-operating-system/"><u>Troubleshoot and Resolve Non-Functional Corsair HS35 Mic on PC with Windows Operating System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-ai-potential-explore-the-20-most-effective-chatgpt-prompts-curated-for-github-enthusiasts/"><u>Unleash AI Potential: Explore the 20 Most Effective ChatGPT Prompts Curated for GitHub Enthusiasts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-download-vimeo-to-mp4-files/"><u>[New] Step-by-Step Download Vimeo to MP4 Files</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-skyrocketing-your-presence-on-youtube-with-live-games/"><u>[Updated] In 2024, Skyrocketing Your Presence on YouTube with Live Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-three-key-strategies-to-frame-your-insta-films-better-for-2024/"><u>[Updated] Three Key Strategies to Frame Your Insta Films Better for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/7-dslr-cameras-for-vlogging-for-2024/"><u>Best 7 DSLR Cameras for Vlogging for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-itel-p40-is-unlocked-by-drfone-android/"><u>How To Check if Your Itel P40 Is Unlocked</u></a></li>
+<li><a href="https://games-able.techidaily.com/lead-with-zero-dollars-old-soccer-management-on-windows/"><u>Lead with Zero Dollars: Old Soccer Management on Windows</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/mastering-complex-software-deployment-a-guide-to-advanced-installation-techniques/"><u>Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-media-importer-strategies-in-windows-10/"><u>Mastering Media Importer Strategies in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-typing-speed-on-windows-uncover-the-quickest-fixes/"><u>Skyrocket Your Typing Speed on Windows: Uncover the Quickest Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-applying-excels-future-value-fv-financial-function/"><u>Step-by-Step Tutorial on Applying Excel's Future Value (FV) Financial Function</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-customizing-how-enter-works-in-excel-spreadsheets/"><u>Step-by-Step Tutorial: Customizing How Enter Works in Excel Spreadsheets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/struggling-with-excels-blank-doc-issue-discover-effective-strategies-for-resolution/"><u>Struggling with Excel's Blank Doc Issue? Discover Effective Strategies for Resolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-trimming-images-efficiently-in-word-excel-and-powerpoint-2010/"><u>Ultimate Guide to Trimming Images Efficiently in Word, Excel & PowerPoint 2010</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-all-keyboard-shortcuts-for-highlighting-and-deleting-text-in-microsoft-office-google-docs-and-gmail/"><u>Ultimate Guide: All Keyboard Shortcuts for Highlighting and Deleting Text in Microsoft Office, Google Docs, and Gmail</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-xlsx-files-and-steps-to-access-them/"><u>Understanding XLSX Files and Steps to Access Them</u></a></li>
 </ul></div>
 

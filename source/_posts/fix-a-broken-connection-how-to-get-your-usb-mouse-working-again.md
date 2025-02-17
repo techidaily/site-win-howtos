@@ -1,7 +1,7 @@
 ---
 title: "Fix a Broken Connection: How to Get Your USB Mouse Working Again"
-date: 2025-01-18T16:38:17.264Z
-updated: 2025-01-25T18:22:52.041Z
+date: 2025-02-11T23:15:05.442Z
+updated: 2025-02-16T21:54:20.301Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -51,11 +47,11 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
@@ -64,19 +60,19 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -93,6 +89,10 @@ You can update your drivers automatically with either the [**Free**](https://too
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -120,24 +120,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-tactics-to-make-fb-videos-attractive-and-effective-for-2024/"><u>[New] Tactics to Make FB Videos Attractive and Effective for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728502369716-google3/"><u>🕵️‍♂️ Googleフォトに保存されている写真が見つからず、3つの回収法を教えます</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-select-guide-17-chosen-software-for-smooth-image-cleanup/"><u>2024 Approved Select Guide 17 Chosen Software for Smooth Image Cleanup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clear-and-fix-windows-appstore-cache-problems-top-strategies/"><u>Clear and Fix Windows Appstore Cache Problems: Top Strategies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convertir-videos-de-alta-calidad-sin-costo-transformar-3gp-en-wmv-con-herramientas-web-gratuitas/"><u>Convertir Videos De Alta Calidad Sin Costo: Transformar 3GP en WMV Con Herramientas Web Gratuitas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issue-in-windows-11-solution-steps/"><u>Desktop Icon Disappearance Issue in Windows 11 - Solution Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhancing-visual-performance-adaptive-refresh-rates-for-todays-displays/"><u>Enhancing Visual Performance: Adaptive Refresh Rates for Today’s Displays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208779606-expert-tips-for-getting-your-dells-usb-port-up-and-running-again/"><u>Expert Tips for Getting Your Dell's USB Port Up & Running Again!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-differences-between-nlp-and-ml-in-artificnial-intelligence/"><u>Exploring the Differences Between NLP and ML in Artificnial Intelligence</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/first-timer-accessories-transform-your-gopro-experience-for-2024/"><u>First-Timer Accessories - Transform Your GoPro Experience for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/frequency-hopping-spread-spectrum-fhss/"><u>Frequency Hopping Spread Spectrum (FHSS):</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-crystal-clear-images-by-eliminating-screen-line-flaws/"><u>Guide to Restoring Crystal Clear Images by Eliminating Screen Line Flaws</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-googles-enhanced-nest-thermostat-comprehensive-review-of-specs-cost-and-advanced-functionalities-cnet/"><u>In-Depth Analysis of Google's Enhanced Nest Thermostat: Comprehensive Review of Specs, Cost and Advanced Functionalities | CNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredos-struggle-with-eligibility-criteria-insights-and-solutions/"><u>Teredo's Struggle with Eligibility Criteria - Insights and Solutions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-poco-c51-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-surface-pro-4-stylus-issues/"><u>Troubleshooting Guide: Fixing Surface Pro 4 Stylus Issues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/why-are-my-videos-flipped-on-instagram/"><u>Why Are My Videos Flipped On Instagram?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-stop-alerts-taming-the-cpu-overload/"><u>Windows Stop Alerts: Taming the CPU Overload</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-steps-for-saving-your-macs-desktop/"><u>[New] In 2024, Quick Steps for Saving Your Mac's Desktop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wavmp3aac/"><u>「オープンソースで簡単に行えるWAVからMP3、AACへの自動変換 - ムーヴァヴィ」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-join-an-existing-zoom-call-effortlessly-android-style/"><u>2024 Approved How to Join an Existing Zoom Call Effortlessly (Android Style)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/breaking-down-the-features-of-the-top-tier-new-phone-an-apple-iphone-12-review/"><u>Breaking Down the Features of the Top-Tier New Phone: An Apple iPhone 12 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/earn-learn-and-score-top-4-online-gaming-resource-hubs/"><u>Earn, Learn & Score: Top 4 Online Gaming Resource Hubs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-leveraging-microsoft-excels-smart-data-recognition-feature/"><u>Expert Tips for Leveraging Microsoft Excel's Smart Data Recognition Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-creating-and-using-temporary-sharing-features-within-an-excel-spreadsheet/"><u>Guide: Creating and Using Temporary Sharing Features Within an Excel Spreadsheet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-displayhide-header-rows-and-columns-in-microsoft-excel/"><u>Guide: Display/Hide Header Rows and Columns in Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-lock-down-workbooks-and-worksheets-for-safe-sharing-on-excel/"><u>How To Lock Down Workbooks & Worksheets for Safe Sharing on Excel</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/improving-online-sessions-with-increased-zoom-for-2024/"><u>Improving Online Sessions with Increased Zoom for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-quantifying-mr-beasts-earnings/"><u>In 2024, Quantifying Mr. Beast's Earnings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/inverting-image-hues-in-photoshop-for-2024/"><u>Inverting Image Hues in Photoshop for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-designing-excel-chart-templates-from-scratch/"><u>Master the Art of Designing Excel Chart Templates From Scratch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-data-analysis-building-a-pivot-table-using-microsoft-excels-features/"><u>Mastering Data Analysis: Building a Pivot Table Using Microsoft Excel's Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-data-management-a-four-step-guide-to-structuring-spreadsheets-in-excel/"><u>Mastering Data Management: A Four-Step Guide to Structuring Spreadsheets in Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-guide-on-incorporating-cell-data-into-your-chart-labels/"><u>Mastering Excel: A Guide on Incorporating Cell Data Into Your Chart Labels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-step-by-step-guide-on-setting-your-numbers-accuracy/"><u>Mastering Excel: A Step-by-Step Guide on Setting Your Number's Accuracy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-your-potential-master-resumes-via-chatgpt/"><u>Unleashing Your Potential: Master Resumes via ChatGPT</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-wondering-how-to-replace-sky-in-after-effects-learn-how-for-2024/"><u>Updated Wondering How to Replace Sky in After Effects? Learn How for 2024</u></a></li>
 </ul></div>
 

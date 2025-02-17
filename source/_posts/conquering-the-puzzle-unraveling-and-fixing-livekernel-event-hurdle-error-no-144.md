@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Puzzle: Unraveling and Fixing LiveKernel Event Hurdle, Error No. 144"
-date: 2025-02-03T22:42:51.153Z
-updated: 2025-02-07T14:01:04.160Z
+date: 2025-02-11T22:49:27.820Z
+updated: 2025-02-17T01:28:28.263Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ When you pay the money and look forward to enjoying the game but find that the g
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
 1. [Rename the Destiny 2 folder](https://tools.techidaily.com/drivereasy/download/)
@@ -44,13 +40,17 @@ When you pay the money and look forward to enjoying the game but find that the g
 1. Pause the initializing process and close**Battle.net** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d22.jpg)
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
@@ -58,10 +58,6 @@ When you pay the money and look forward to enjoying the game but find that the g
  After downloading the program successfully, it is recommended to[update your driver](https://tools.techidaily.com/drivereasy/download/) to improve your gaming performances.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Reinstall the Battle.net app
 
@@ -72,10 +68,6 @@ Reinstall the Battle.net can may help you solve the issue.
 3. After finalizing, you should be able to play the game.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Change Blizzard Settings
 
@@ -88,11 +80,11 @@ Reinstall the Battle.net can may help you solve the issue.
 3. Change the Max Download rate by setting the Latest Updates and Future Patch updates to 0 to get the max download rate. Then Press**Done** to apply the settings.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d12.jpg)
 4. Download Destiny 2 to see whether it can help.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Method 4: Run your Blizzard client as administrator
 
@@ -105,6 +97,10 @@ Reinstall the Battle.net can may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Check your antivirus software
 
  Sometimes your antivirus software may be the reason for the Destiny 2 stuck on initializing. So disable your antivirus software and try downloading again to check if the issue persists.
@@ -116,7 +112,7 @@ Reinstall the Battle.net can may help you solve the issue.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Set the Windows Secondary Logon is set to automatic
@@ -128,14 +124,14 @@ Reinstall the Battle.net can may help you solve the issue.
 3. Locate and right-click**Secondary Logon** in the right pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/servi.jpg)
 5. Find Startup type and select**Automatic** in the dropdown menu. Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ser.jpg)
@@ -143,6 +139,10 @@ Reinstall the Battle.net can may help you solve the issue.
  Some security programs may turn the secondary logon service off. If the service is disabled again after you’ve switched it to automatic, you must configure your security program to stop disabling the service. Contact your security program’s manufacturer if you need assistance with configuring your security software.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -193,22 +193,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-foremost-dialogue-maker-hub/"><u>[Updated] 2024 Approved Foremost Dialogue Maker Hub</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-success-on-youtube-standard-studio-or-beta-for-2024/"><u>[Updated] Crafting Success on YouTube Standard Studio or Beta for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-how-to-create-a-youtube-channel-trailer-to-increase-revenue/"><u>[Updated] How to Create a YouTube Channel Trailer to Increase Revenue</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secure-and-document-your-zoom-conferences/"><u>[Updated] In 2024, Secure & Document Your Zoom Conferences</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-structure-a-comprehensive-guide-to-chapter-addition-on-youtube/"><u>[Updated] Mastering Video Structure A Comprehensive Guide to Chapter Addition on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-intermittent-sounds-in-your-logitech-g930-headset/"><u>Effective Fixes for Intermittent Sounds in Your Logitech G930 Headset</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-the-0x80070490-hurdle-during-system-updates-on-windows/"><u>Effective Solutions to Overcome the 0X80070490 Hurdle During System Updates on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-remedies-correcting-undetected-battery-problems/"><u>Effortless Remedies: Correcting Undetected Battery Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x887a0006-no-more-fast-fixes-at-your-fingertips/"><u>Error 0X887A0006 No More: Fast Fixes at Your Fingertips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/video-to-music-selecting-the-cheapest-online-converters/"><u>From Video to Music Selecting the Cheapest Online Converters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-a-defective-shift-key-guide/"><u>How to Restore Functionality to a Defective Shift Key (Guide)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-f5-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Poco F5 5G Lock Screen Password?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/opaque-oscillation-device-mystery/"><u>Opaque Oscillation: Device Mystery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-frustrating-0x80070490-barrier-in-windows-updates-a-complete-fix/"><u>Overcoming the Frustrating 0X80070490 Barrier in Windows Updates - A Complete Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-update-issue-code-0x8024402c-explained-and-solved/"><u>Resolving the Windows Update Issue: Code 0X8024402C Explained and Solved</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-6-tools-to-download-lite-videos-from-facebook/"><u>[Updated] 2024 Approved Top 6 Tools to Download Lite Videos From Facebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-three-ways-to-convert-youtube-music-tracks-safely-to-mp3-format/"><u>[Updated] In 2024, Three Ways to Convert YouTube Music Tracks Safely to MP3 Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-panoramic-cinema-captures/"><u>[Updated] Understanding Panoramic Cinema Captures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/byte-to-gb-a-days-long-film-storage-needs/"><u>Byte-to-GB A Day's Long Film Storage Needs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enabling-local-security-reactivate-lsa-protection-now/"><u>Enabling Local Security: Reactivate LSA Protection Now</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-auditory-system-amd-model/"><u>Enhanced Auditory System - AMD Model</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-repair-a-troublesome-device-manager-code-28-glitch-in-windows-systems/"><u>How to Correctly Repair a Troublesome 'Device Manager Code #28' Glitch in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-buttons-in-windows-11-laptop-and-desktop-keyboards/"><u>How to Repair Unresponsive Buttons in Windows 11 Laptop and Desktop Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kidneys/"><u>Kidneys</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-android-cloud-space-keepers-2024/"><u>Leading Android Cloud Space Keepers 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-professionals-dream-a-comprehensive-review-of-apples-27-inch-5k-studio-display-beauty-meets-cost/"><u>Mac Professional's Dream? A Comprehensive Review of Apple's 27-Inch 5K Studio Display - Beauty Meets Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-opencldll-file-disparities/"><u>Resolving OpenCL.dll File Disparities</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728504221101-sd-google/"><u>SDカード写真の自由回復方法 - Google検索</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g14-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G14 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solutions-for-the-persistent-0x80072efd-error-in-your-windows-10-system/"><u>Ultimate Solutions for the Persistent 0X80072EFD Error in Your Windows 10 System</u></a></li>
 </ul></div>
 

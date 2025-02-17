@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Tutorial for Fixing the Red Screen Anomaly on Windows 10 Computers
-date: 2024-08-19T07:54:50.160Z
-updated: 2024-08-20T07:54:50.160Z
+date: 2025-02-11T01:11:36.382Z
+updated: 2025-02-16T20:34:08.830Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
 
 **a)**  First, you should run your**security software** to**scan out malicious programs** . Viruses or malware on your computer (if any) can affect your system and cause the 0xc0000005 error. You should run a virus scan before going to any further troubleshooting.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
@@ -51,9 +59,17 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507cc89e487.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **v.** Open the problematic**executable (.exe)** files. Then click**OK** all the way out.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **c)**  Sometimes the error appears due to**corrupted Registry** . You can **[restore your Registry](https://tools.techidaily.com/drivereasy/download/)**  or check all your Registry entries and remove any redundant one.
 
@@ -119,9 +135,17 @@ To resolve this error, you can try the methods below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **e)** You may also get this error because your**BCD (Boot Configuration Data)** file is corrupted. You can try repairing it and see if you can fix this error.
 
@@ -139,6 +163,10 @@ To repair BCD:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a019b37dab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** In Command Prompt, type the following lines and press**Enter** on your keyboard after each (press the**Y** key followed by**Enter** after you enter the final line):
 
 del d:\windows\system32\xntkrnl.exe
@@ -155,18 +183,12 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
  It can also be that your**RAM** or**hard drive** is defective. In this case, you can test with other RAM or hard drive, or you can contact the hardware manufacturers for any further suggestion.
@@ -179,8 +201,6 @@ bootrec /rebuildbcd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +208,26 @@ bootrec /rebuildbcd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-unplanned-windows-interruption-curbs-cpu-usage/"><u>[FIXED] Unplanned Windows Interruption Curbs CPU Usage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-comprehensive-guide-to-iphone-podcast-downloads/"><u>[New] Comprehensive Guide to iPhone Podcast Downloads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nleashing-creativity-how-to-make-a-hit-music-reaction-video-on-yotube-for-2024/"><u>[New] Unleashing Creativity How to Make a Hit Music Reaction Video on YoTube for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-efficient-techniques-for-saving-online-meeting-transcripts-for-2024/"><u>[Updated] Efficient Techniques for Saving Online Meeting Transcripts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connectivity-issue-blizzard-downed/"><u>Connectivity Issue: Blizzard Downed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-a-digital-identity-simple-steps-to-create-businesspersonal-youtube-channels-on-smartphones/"><u>Crafting a Digital Identity Simple Steps to Create Business/Personal YouTube Channels on Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-2-launch-issue-resolved-conquering-the-persistent-initializing-error/"><u>Destiny 2 Launch Issue Resolved: Conquering the Persistent Initializing Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-youtube-sound-output-issue-in-windows-11-environments/"><u>Diagnosing & Fixing the Youtube Sound Output Issue in Windows 11 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-dealing-with-hang-ups-in-windows-10/"><u>Effective Strategies for Dealing with Hang-Ups in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-diagnosing-and-correcting-the-0x80072efd-glitch-in-windows-11-systems/"><u>Expert Advice on Diagnosing and Correcting the 0X80072EFD Glitch in Windows 11 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-v30-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme V30 Unlock Without Password</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-startup-challenges-fixing-a-malfunctioning-keyboard-before-logging-in/"><u>Overcoming Startup Challenges: Fixing a Malfunctioning Keyboard Before Logging In</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/picshot-revolutionizing-collage-design-processes/"><u>Picshot Revolutionizing Collage Design Processes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/psyche-up-with-customized-console-voices-for-2024/"><u>Psyche Up with Customized Console Voices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-construction-errors-how-to-ensure-complete-building-loads/"><u>PUBG Construction Errors: How to Ensure Complete Building Loads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-remedies-for-a-broken-usb-mouse-connection-on-your-notebook/"><u>Step-by-Step Remedies for a Broken USB Mouse Connection on Your Notebook</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-recommended-navigation-apps-for-ios-devices/"><u>Top 5 Recommended Navigation Apps for iOS Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-trending-android-apps-on-google-play-this-month-for-2024/"><u>Top-Trending Android Apps on Google Play This Month for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-protocol-port-assessment-techniques/"><u>Windows Protocol Port Assessment Techniques</u></a></li>
+</ul></div>
 

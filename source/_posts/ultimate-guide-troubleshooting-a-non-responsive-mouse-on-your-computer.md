@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Troubleshooting a Non-Responsive Mouse on Your Computer"
-date: 2024-08-19T07:50:52.029Z
-updated: 2024-08-20T07:50:52.029Z
+date: 2025-02-12T17:05:10.515Z
+updated: 2025-02-17T00:09:49.368Z
 tags:
   - win11
   - win10
@@ -46,16 +46,18 @@ When you launch the game you can hear the intro music but right after that, all 
 1. On the right-bottom of the taskbar, right-click on the volume icon.
 2. Click**Troubleshoot sound problems** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-4.jpg)
 3. Choose**Yes, Open Audio Enhancements** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1.jpg)
-4. Follow the on-screen instructions.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Follow the on-screen instructions.
 5. Reboot your computer and check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your audio driver
 
  The outdated or missing drivers may be the reason for the “Forza Horizon 4 no sound” problem. You can update your audio driver to solve the problem.
@@ -70,6 +72,10 @@ There are two ways you can update your audio drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-515.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Option 2 – Automatically update your audio drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -81,16 +87,10 @@ There are two ways you can update your audio drivers.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version).  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Method 4: Reinstall your audio driver
 
  If Method 3 doesn’t help, reinstall your audio driver might be a good choice. It might be caused by the corrupted file which needs a clean uninstall to clear. So reinstall your driver may solve the “Forza Horizon 4 no sound” problem.
@@ -98,11 +98,18 @@ There are two ways you can update your audio drivers.
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type “devmgmt.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-1.jpg)
 3. Click**Sound, video and game controllers** , right-click on the**Realtek(R) Audio** and click**Uninstall device** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
 5. Use Method 3 to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Reboot your computer to check whether the problem is resolved.
 
 ### Method 5: Update your Windows system
@@ -111,13 +118,17 @@ There are two ways you can update your audio drivers.
 
 1. Press the**Windows logo key + I** together. Click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4.1.jpg)
 2. In the Windows Update tab, click**Check for updates** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Install the updates.
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Reboot your computer and check the problem is solved or not.
 
  Thanks for reading. Hope this article meets your needs. And you are welcome to leave comments below.
@@ -130,8 +141,6 @@ There are two ways you can update your audio drivers.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +148,20 @@ There are two ways you can update your audio drivers.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grasping-the-essence-of-your-youtube-community-for-2024/"><u>[Updated] Grasping the Essence of Your YouTube Community for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlock-advanced-capturing-a-guide-to-aiseesoft-screen-recorder-use/"><u>[Updated] In 2024, Unlock Advanced Capturing A Guide to Aiseesoft Screen Recorder Use</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-step-by-step-process-for-rebooting-your-keyboard/"><u>Easy Guide: Step-by-Step Process for Rebooting Your Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-your-dells-usb-port-stops-responding/"><u>Effective Solutions: When Your Dell's USB Port Stops Responding</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-stardew-on-ginger-islet/"><u>In 2024, Mastering Stardew on Ginger Islet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-incoherency/"><u>Keyboard Incoherency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-the-stop-error-0xc0000005-expert-strategies-for-fixing-critical-process-died-on-your-windows-machine/"><u>Navigate Through the STOP Error 0XC0000005: Expert Strategies for Fixing Critical Process Died on Your Windows Machine</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-media-conversion-from-avis-to-striking-gif-images-via-filmora-software-windowsmacos-for-2024/"><u>Seamless Media Conversion From AVIs to Striking GIF Images via Filmora Software (Windows/macOS) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-dealing-with-do-not-have-access-errors/"><u>Strategies for Dealing with 'Do Not Have Access' Errors</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/the-definitive-how-to-seamlessly-convert-your-videos-from-wmv-to-webm-in-4-easy-steps/"><u>The Definitive How-To: Seamlessly Convert Your Videos From WMV to WebM in 4 Easy Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-failed-windows-10-version-1903-updates/"><u>Troubleshooting Tips: Fixing Failed Windows 10 Version 1903 Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/your-step-by-step-guide-to-ifunny-meme-usage/"><u>Your Step-by-Step Guide to iFunny Meme Usage</u></a></li>
+</ul></div>
 

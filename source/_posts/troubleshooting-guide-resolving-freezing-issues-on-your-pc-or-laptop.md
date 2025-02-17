@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Freezing Issues on Your PC or Laptop"
-date: 2024-08-19T07:51:30.881Z
-updated: 2024-08-20T07:51:30.881Z
+date: 2025-02-14T20:19:42.069Z
+updated: 2025-02-16T16:14:07.737Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -71,9 +75,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -103,6 +104,11 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer, and see if the problem is fixed or not.
 
 #### B. Reinstall the previous driver
@@ -113,9 +119,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 5. Restart your computer, and see if the problem is fixed or not.
@@ -123,8 +126,9 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
  Fix Automata Resolution (FAR) is developed by Nier Automata. By manipulating the graphics requirements of the game, users with lower specs can play the game. But FAR can be the reason for the Nier Automata crashing problem.
@@ -133,6 +137,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -140,20 +148,15 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,8 +170,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +177,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevate-your-ios-experience-top-5-ps2-simulators/"><u>[New] Elevate Your iOS Experience Top 5 PS2 Simulators</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-power-of-virality-enhancing-brand-presence-on-tiktok/"><u>[Updated] 2024 Approved The Power of Virality Enhancing Brand Presence on TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-digital-dollars-earn-from-youtubers-in-8-ways-for-2024/"><u>[Updated] Digital Dollars Earn From YouTubers in 8 Ways for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/boost-your-facebook-profile-select-8-apps-with-highest-like-potential/"><u>Boost Your Facebook Profile Select 8 Apps with Highest Like Potential</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issues-resolved-in-windows-11-solved/"><u>Desktop Icon Disappearance Issues Resolved in Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x800f0831-easily-correct-with-these-steps-on-windows-update/"><u>Error Code 0X800f0831? Easily Correct with These Steps on Windows Update</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-yuva-2-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Yuva 2 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/inhibit-people-you-may-know-alerts-on-social-network/"><u>Inhibit 'People You May Know' Alerts on Social Network</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-when-printscreen-fails-in-windows-11-and-windows-10/"><u>Resolved! Troubleshooting Steps When PrintScreen Fails in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-non-playable-content-on-windows-a-step-by-step-guide/"><u>Solving the Issue of Non-Playable Content on Windows - A Step by Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-dealing-with-the-persistent-d3derr-not-available-error/"><u>Troubleshooting Guide: Dealing With the Persistent D3DERR NOT AVAILABLE Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-reactivating-mac-and-windows-keyboard-illumination/"><u>Troubleshooting Guide: Reactivating Mac and Windows Keyboard Illumination</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-ultimate-line-up-of-economical-1440p-gaming-displays/"><u>Unveiling the Ultimate Line-Up of Economical 1440P Gaming Displays</u></a></li>
+</ul></div>
 

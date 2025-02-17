@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 11: Solving Stuck Scrolling Problems with Touchpad"
-date: 2025-02-04T20:39:00.043Z
-updated: 2025-02-06T16:08:25.406Z
+date: 2025-02-09T16:31:47.373Z
+updated: 2025-02-16T20:27:32.993Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for the touchpad cursor disappear issue
 
  You don’t have to try all the following methods; simply work your way down the list until you find the one that does the trick to restore your touchpad cursor for you.
@@ -39,19 +43,11 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Unmake recent changes
 
  If your touchpad cursor disappears all of a sudden, you’ll first need to recall if any recent changes to your computer caused the problem. For instance, recent Windows updates, touchpad-related driver updates, new software programs added, new hardware devices added, etc.
 
  If you don’t recall any recent changes made to your computer, the latest Windows update(s) and touchpad-related driver are always the first places you should be looking at. Here is how you can unmake the changes to see if it helps to bring back your touchpad cursor:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.1 Uninstall Windows Update(s)
 
@@ -65,18 +61,10 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
 4. Click the **Uninstall**  button to remove the latest Windows update patch before the touchpad cursor disappears.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
 5. Restart your computer afterward.
 
  See if your touchpad cursor is back after uninstalling the last Windows update. If the problem remains, please move on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.2 Uninstall touchpad-related driver
 
@@ -88,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the older touchpad driver to be installed by Microsoft automatically.
@@ -108,22 +96,30 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-79.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the touchpad feature is turned off or on by the function key(s), there’s usually a notification that tells you such on your screen, like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-81.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t see such a message on your computer, and your touchpad cursor remains missing, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Uninstall conflicting software
 
@@ -148,7 +144,7 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update touchpad driver
@@ -165,7 +161,7 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -177,6 +173,10 @@ Then see if your touchpad cursor still disappears. If so, please move on.
  Check to see if your touchpad cursor still disappears. If so, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Make sure you can see touchpad in Settings
 
@@ -224,22 +224,16 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-rated-zero-price-after-effects-samples/"><u>[New] 2024 Approved Top-Rated, Zero-Price After Effects Samples</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-laptop-battery-not-charging-quickly-and-easily/"><u>[SOLVED] | Laptop Battery Not Charging | Quickly & Easily!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-panasonic-hx-a1-wearable-action-camera-review/"><u>[Updated] 2024 Approved Panasonic HX-A1 Wearable Action Camera Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-sonic-excellence-strategies-to-amplify-your-audio-quality/"><u>[Updated] 2024 Approved Sonic Excellence Strategies to Amplify Your Audio Quality</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-choosing-the-right-lights-and-cameras-for-youtube-videos/"><u>[Updated] Choosing the Right Lights & Cameras for YouTube Videos</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-leading-the-charge-top-15-influencers-for-your-drive-for-2024/"><u>[Updated] Leading the Charge Top 15 Influencers for Your Drive for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cutting-edge-fullscreen-capture-programs/"><u>2024 Approved Cutting-Edge Fullscreen Capture Programs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721268126899-buy-adobes-stellar-repair-software-for-photos-windows-edition-order-now/"><u>Buy Adobe's Stellar Repair Software for Photos - Windows Edition Order Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-elevated-cpu-usage-issue-with-wudfhostexe-in-windows-10/"><u>Diagnosing & Fixing the Elevated CPU Usage Issue with WUDFHost.exe in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-microsofts-print-to-pdf-feature-wont-start-up-on-windows-1011/"><u>Effective Solutions for When Microsoft's Print to PDF Feature Won't Start Up on Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/geforce-now-update-practicality-questionable/"><u>GeForce NOW Update: Practicality Questionable?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-adjust-user-preferences-and-avoid-driver-failed-notifications/"><u>How to Correctly Adjust User Preferences and Avoid 'Driver Failed' Notifications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-no-signal-on-your-monitor-a-comprehensive-guide/"><u>How To Resolve 'No Signal' On Your Monitor - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-connection-errors-with-microsoft-wireless-display-adapter-in-windows-11/"><u>How to Resolve Connection Errors with Microsoft Wireless Display Adapter in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-oddworld-soulstorm-on-pc-overcoming-crash-dilemmas-with-simple-solutions/"><u>Mastering Oddworld: Soulstorm on PC – Overcoming Crash Dilemmas with Simple Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-webs-benefits-the-top-7-societal-upsurges/"><u>Social Web’s Benefits: The Top 7 Societal Upsurges</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-enabling-bluetooth-functionality-on-your-pc-with-windows/"><u>Step-by-Step Tutorial: Enabling Bluetooth Functionality on Your PC with Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigate-through-group-sharing-options-on-messenger-for-2024/"><u>[Updated] Navigate Through Group Sharing Options on Messenger for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/best-facebook-lite-video-downloading-software-of-2023/"><u>Best Facebook Lite Video Downloading Software of 2023</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/decoding-microsofts-new-releases-a-detailed-insight-into-octobers-surface-event-as-reported-by-zdnet/"><u>Decoding Microsoft’s New Releases: A Detailed Insight Into October’s Surface Event as Reported by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-guide-to-addressing-event-141-hardware-faults-2024/"><u>Essential Guide to Addressing Event 141 Hardware Faults, 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expanding-rdr2-storage-space-how-to-avoid-page-file-size-errors-efficiently/"><u>Expanding RDR2 Storage Space: How to Avoid Page File Size Errors Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-night-light-feature-solutions-when-it-fails-in-windows-10-and-11/"><u>Fixing the Night Light Feature: Solutions When It Fails in Windows 10 & 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721102124391-run-a-system-file-checker-scan-to-verify-and-repair-corrupted-files/"><u>Run a System File Checker Scan to Verify and Repair Corrupted Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-error-in-your-steam-game-update-process/"><u>Solving the 'Error' In Your Steam Game Update Process</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-itel-p55-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Itel P55 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unraveling-the-cost-friendly-yet-confusing-identity-of-microsofts-surface-go-through-our-in-depth-review/"><u>Unraveling the Cost-Friendly Yet Confusing Identity of Microsoft's Surface Go Through Our In-Depth Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Addressing SSL Errors and Secure Connection Failures Within the Firefox Environment
-date: 2025-01-31T13:15:48.049Z
-updated: 2025-02-07T12:35:40.521Z
+date: 2025-02-13T00:00:49.011Z
+updated: 2025-02-17T01:39:45.857Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 fixes for **Mouse keeps disconnecting**
@@ -36,10 +36,6 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -48,7 +44,7 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
@@ -62,11 +58,15 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
@@ -86,12 +86,12 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -119,18 +119,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-peak-engagement-title-conjurer/"><u>[New] Peak Engagement Title Conjurer</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-show-your-appreciation-budget-friendly-video-closings/"><u>2024 Approved Show Your Appreciation Budget-Friendly Video Closings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-play-7t-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor Play 7T.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-high-msmpeng-cpu-usage-on-windows-11-step-by-step/"><u>Diagnosing and Solving High MsMpEng CPU Usage on Windows 11 – Step by Step</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969966868-effortless-downloads-of-the-latest-amd-smbus-drivers-start-here/"><u>Effortless Downloads of the Latest AMD SMBus Drivers – Start Here</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-aphacas-bt69-wireless-fm-transmitter-revolutionizing-in-car-audio-with-bluetooth-connectivity/"><u>Expert Insights on Aphaca's BT69 Wireless FM Transmitter: Revolutionizing In-Car Audio with Bluetooth Connectivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210610262-fixing-your-ps4-controller-charging-issues-solved/"><u>Fixing Your PS4 Controller Charging Issues - Solved</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-transform-pictures-into-cartoons-online-for-2024/"><u>New Transform Pictures Into Cartoons Online for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pcm-pulse-code-modulation/"><u>PCM (Pulse Code Modulation)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-correctly-address-the-problem-encountered-while-resetting-message-in-windows-11/"><u>Solved! How to Correctly Address the 'Problem Encountered While Resetting' Message in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-rpc-server-cant-find-your-computer-issue-on-windows-step-by-step-guide/"><u>Solving the 'RPC Server Can't Find Your Computer' Issue on Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-simple-addressing-driver-power-issues-in-windows-systems/"><u>Troubleshooting Made Simple: Addressing Driver Power Issues in Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-offers-the-ultimate-redeeming-guide/"><u>Xbox Offers: The Ultimate Redeeming Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-harnessing-power-a-complete-ez-grabber-manual/"><u>[New] 2024 Approved Harnessing Power A Complete EZ Grabber Manual</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-income-on-instagram-comprehensive-step-by-step-guide/"><u>[New] 2024 Approved Income on Instagram Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-soundwave-success-adding-audio-to-your-instastory/"><u>[New] In 2024, Soundwave Success Adding Audio to Your InstaStory</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-10-best-no-cost-live-streaming-tools-android-and-iphone-guide/"><u>[Updated] 2024 Approved 10 Best No-Cost Live Streaming Tools Android & iPhone Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-relaxation-in-a-box-best-10-stress-busters/"><u>[Updated] 2024 Approved Relaxation in a Box Best 10 Stress Busters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-guide-for-dealing-with-fn-key-issues-in-your-dell-laptop/"><u>DIY Troubleshooting Guide for Dealing with FN-Key Issues in Your Dell Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-failed-windows-updates-on-your-computer/"><u>Expert Tips For Repairing Failed Windows Updates On Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restore-keyboard-letters-that-arent-responding-in-windows-10-and-11/"><u>Guide to Restore Keyboard Letters That Aren't Responding in Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-gain-authorization-from-trustedinstaller-for-changing-protected-files/"><u>How to Gain Authorization From TrustedInstaller for Changing Protected Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-power-off-your-pc-running-windows-11-solutions-explored/"><u>How to Successfully Power Off Your PC Running Windows 11: Solutions Explored</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/narakeet-review-convenient-text-to-speech-voice-maker-for-2024/"><u>Narakeet Review Convenient Text to Speech Voice Maker for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-update-error-8007000e-simple-steps/"><u>Quick Fixes for Windows Update Error 8007000E – Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-on-gaming-in-octobers-exclusive-deal-extravaganza-seize-your-chance-to-snag-discounts-up-to-1000-dont-miss-out/"><u>Save Big on Gaming in October's Exclusive Deal Extravaganza! Seize Your Chance to Snag Discounts up to $1000 – Don’t Miss Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-gaining-complete-control-over-your-steam-installation/"><u>The Ultimate Guide to Gaining Complete Control Over Your Steam Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-successfully-install-battleye-anti-cheat-now/"><u>Troubleshoot and Successfully Install BattlEye Anti-Cheat Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-guide-recording-your-youtube-livestreams-for-2024/"><u>Ultimate Guide Recording Your YouTube Livestreams for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-for-call-of-duty-world-war-ii-error-code-4220-issues/"><u>Ultimate Solution for Call of Duty World War II Error Code 4220 Issues</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/ultimate-techniques-for-total-data-cleansing-on-windows-11-devices/"><u>Ultimate Techniques for Total Data Cleansing on Windows 11 Devices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-voice-over-wondershare-virbo-glossary-for-2024/"><u>What Is AI Voice Over? | Wondershare Virbo Glossary for 2024</u></a></li>
 </ul></div>
 

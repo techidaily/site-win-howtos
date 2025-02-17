@@ -1,7 +1,7 @@
 ---
 title: YMU719 - Used in Yamaha's Own Surround Master AV Receiver Models. It Differs From the YAC513 by Adding Dolby Digital Live Encoding Hardware and an Extra Digital Audio Input Connector (S/PDIF)
-date: 2024-08-19T07:52:19.320Z
-updated: 2024-08-20T07:52:19.320Z
+date: 2025-02-13T18:57:24.706Z
+updated: 2025-02-16T18:25:49.969Z
 tags:
   - win11
   - win10
@@ -75,8 +75,6 @@ As you can see, the free version is equally capable as the professional version 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,17 +82,21 @@ As you can see, the free version is equally capable as the professional version 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-future-without-vlc-media-player-insights/"><u>[New] The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-optimal-video-length-and-width-for-instagram-posts/"><u>[Updated] In 2024, Optimal Video Length and Width for Instagram Posts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-idle-configuration-ok-but-non-interactive/"><u>Device Idle: Configuration OK but Non-Interactive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-and-scanning-drives-that-wont-respond-on-windows-10/"><u>Expert Tips for Repairing and Scanning Drives That Won't Respond on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-resolved-igfxem-module-malfunction/"><u>Fixing the Issue: Resolved - 'IGFX_em' Module Malfunction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-address-a-disappearing-d3dxt939dll-file-comprehensive-solutions-and-guidelines/"><u>How to Quickly Address a Disappearing d3dxt9_39.dll File: Comprehensive Solutions and Guidelines</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-the-issue-of-apple-watch-ignoring-step-counts-at-home/"><u>How to Resolve the Issue of Apple Watch Ignoring Step Counts at Home</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-luts-unlocking-color-grading-in-ar-and-vfx/"><u>In 2024, Mastering LUTs Unlocking Color Grading in AR & VFX</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-the-game-with-luxury-unveiling-dells-innovative-3000-laptop-a-zdnet-review/"><u>Revolutionizing the Game with Luxury: Unveiling Dell's Innovative $3,000 Laptop – A ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-2024s-most-efficient-cpu-coolers-all-in-one-and-air-variants/"><u>The Ultimate Selection of 2024'S Most Efficient CPU Coolers: All-in-One and Air Variants</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

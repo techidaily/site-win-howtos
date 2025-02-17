@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Repairing and Reviving a Damaged IgfxEM Unit"
-date: 2024-08-19T07:57:25.105Z
-updated: 2024-08-20T07:57:25.105Z
+date: 2025-02-13T23:58:18.565Z
+updated: 2025-02-17T00:09:12.971Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/rsod-1.jpg)
 
  You may familiar with the Blue Screen of Death if you’re a Windows user. But when your PC crashed and turned into a scary weird red screen, you might be confused. Don’t panic–it can be fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Enter your Windows system
 
@@ -38,6 +42,10 @@ Otherwise, you need to take a few minutes to read this part.
 
  Then check to see if you can get into the Windows system as usual. If not, don’t worry, try the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2:[Enter safe mode](https://tools.techidaily.com/drivereasy/download/)
 
  Safe mode is a diagnostic mode of Windows. When the hard reset doesn’t work, you need to enter Safe mode to trigger the problem. Safe mode will be running with a minimal set of drivers and services which is easier for you to identify the problem.
@@ -47,9 +55,6 @@ Otherwise, you need to take a few minutes to read this part.
 1. **[Update your device drivers](#f4)**
 2. **[Revert your system from a restore point](#f7)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 2: Try these fixes
 
  When you enter the Windows system, you can try these fixes. The aim of fixes is to prevent RSOD from happening again. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -93,10 +98,12 @@ There are a few things you should do:
 3. Remove the **memory** from your computer. (Check out the screenshots below to see what memory looks like)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-502.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-503.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Rub the **golden contact** of your memory with an eraser. (This can clean the golden contact of your memory.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Install the memory back to your computer.
 6. Place the cover back to your computer.
 7. Connect the power cable and the battery back to your computer.
@@ -138,30 +145,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your BIOS
 
 **BIOS** (**Basic Input/Output System** ) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. In some cases, the red screen on Windows 10 may be related to it.
@@ -175,18 +166,12 @@ Key features:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time, then copy & paste **msinfo32**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714e5d73e95.png)
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Check out the **Support** (or **Download** ) section and search for the latest BIOS update.
 4. Download the file and install it properly.
 5. Restart your computer and check if this **red screen error** appears or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair system files
 
  When the system files were broken or corrupted, it may cause the RSOD issue. Here’s how to solve it:
@@ -206,14 +191,13 @@ Key features:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -225,17 +209,23 @@ Key features:
 2. Type**cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Restart your computer to check whether the blue screen issue is fixed or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Revert your system from a restore point
 
  You can also fix your red screen issue by reverting your Windows system to a previous state. You do this with System Restore. Here’s how:
@@ -246,17 +236,13 @@ Key features:
 2. Type **rstrui.exe** in the Run box, then press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-644.png)
 3. Follow the on-screen instructions of the System Restore wizard to restore your system from a restore point.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-647.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-647.png)
+
 ---
 
 ### Fix 7: Reset or reinstall Windows
@@ -277,8 +263,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +270,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-top-ten-lady-gamers-on-youtube-rising/"><u>[New] 2024 Approved Top Ten Lady Gamers on YouTube Rising</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransforming-imovie-projects-into-youtube-shows-for-2024/"><u>[New] Transforming iMovie Projects Into YouTube Shows for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-download-hd-facebook-videos/"><u>[Updated] How to Download HD Facebook Videos?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2-2690-dw-printer-driver-updates-how-to-install-easily/"><u>Brother L2 2690 DW Printer Driver Updates - How to Install Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-os-issues-mastering-the-art-of-finding-and-fixing-error-messages-using-commands/"><u>Decoding OS Issues: Mastering the Art of Finding & Fixing Error Messages Using Commands</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficiently-navigate-the-new-file-explorer-features-of-windows-11/"><u>Efficiently Navigate the New File Explorer Features of Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-dota-2-error-2024-a-step-by-step-guide-on-changing-rendering-api/"><u>Fixing the Dota 2 Error 2024: A Step-by-Step Guide on Changing Rendering API</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gif-design-essentials-top-9-tools-to-elevate-your-creativity-for-2024/"><u>GIF Design Essentials Top 9 Tools to Elevate Your Creativity for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201208684-laptop-microphone-woes-find-out-how-to-get-it-working-again/"><u>Laptop Microphone Woes? Find Out How to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-troubleshooting-and-solving-graphic-card-problems-for-fortnite-windows-players/"><u>Masterclass: Troubleshooting and Solving Graphic Card Problems for Fortnite Windows Players</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-device-with-an-in-depth-look-at-each-ipados-update/"><u>Mastering Your Device with an In-Depth Look at Each iPadOS Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-stuck-at-windows-setup-problem-for-smooth-operating-system-install/"><u>Overcome the 'Stuck at Windows Setup' Problem for Smooth Operating System Install</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-tlsssl-verification-issues-with-your-secure-browsers-a-guide-for-quick-fixes/"><u>Overcoming TLS/SSL Verification Issues with Your Secure Browsers: A Guide for Quick Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-error-code-0x80072efd-effective-strategies-and-fixes/"><u>Overcoming Windows 11 Error Code 0X80072EFD: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/rescue-your-adventure-in-diablo-2-resurrected-a-guide-to-resolving-game-freezes-and-crashes/"><u>Rescue Your Adventure in Diablo 2 Resurrected - A Guide to Resolving Game Freezes and Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-mastering-game-downloads-for-your-meta-quest-vr-headset/"><u>Tutorial: Mastering Game Downloads for Your Meta Quest VR Headset</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-asus-rog-phone-7-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Asus ROG Phone 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-perpetual-boot-loop-heres-how-to-resolve-it/"><u>Valorant Perpetual Boot Loop? Here's How to Resolve It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-invisible-bluetooth-connections-in-windows/"><u>Winning Against Invisible Bluetooth Connections in Windows #</u></a></li>
+</ul></div>
 

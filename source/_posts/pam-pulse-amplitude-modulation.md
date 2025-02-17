@@ -1,7 +1,7 @@
 ---
 title: PAM (Pulse Amplitude Modulation)
-date: 2024-08-19T07:52:38.112Z
-updated: 2024-08-20T07:52:38.112Z
+date: 2025-02-09T23:17:11.405Z
+updated: 2025-02-16T22:56:39.929Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3
 
  After login your computer, move on and try the solutions below to fix your keyboard issue.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your keyboard driver
 
  An outdated or a faulty keyboard driver can also resulting in keyboard issues like this. It’s essential that you have the latest correct keyboard driver at all times.
@@ -64,15 +61,9 @@ There are two ways you can get the right driver for your keyboard:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/hid-keyboard-device.png)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Fix 3: Check the Power Management setting
 
  In some cases, this issue occurs because your computer turns off your keyboard to save power. So you should check your Power Management setting to see if that’s the problem for you. Follow the instructions below:
@@ -80,23 +71,27 @@ There are two ways you can get the right driver for your keyboard:
 1. Click the **Windows icon** on the bottom left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-03-12.jpg)
 2. Paste **device manager** on the search box, then click **Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-03-44.jpg)
 3. Double-click **Keyboards** . Then, right-click your Keyboard’s name and select **Properties** . ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-04-38.jpg)
 4. Click the **Power Management tab** , verify that the box next to **Allow the computer to turn off this device to save power** is unchecked, then click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_15-05-19.jpg)
 5. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your keyboard is still not working after the reboot, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Check for Windows updates
 
  Windows updates can address bugs related to both hardware and software. So, when something goes wrong with your computer, you should try performing a Windows update. Here is how to do it:
@@ -108,8 +103,13 @@ There are two ways you can get the right driver for your keyboard:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check if your keyboard can work properly now. If it is not, move on to the fix, below.
@@ -135,6 +135,10 @@ There are two ways you can get the right driver for your keyboard:
 
  Hope this has fixed your issue. If you have any questions, please leave a comment below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### If you’re using a wireless keyboard
 
 **1)** Turn off your computer.
@@ -148,8 +152,9 @@ There are two ways you can get the right driver for your keyboard:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-246.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)**  Wait for 3 minutes, then connect the receiver back to the computer.
 
 **5)** Restart the computer to test your issue.
@@ -167,8 +172,6 @@ There are two ways you can get the right driver for your keyboard:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +179,20 @@ There are two ways you can get the right driver for your keyboard:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/0-tips-for-shooting-profesional-youtube-videos/"><u>[New] 10 Tips For Shooting Profesional YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-overcoming-the-noise-barrier-twitter-vids-without-sounds-for-2024/"><u>[New] Overcoming the Noise Barrier Twitter Vids Without Sounds for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-precision-and-power-a-filmmakers-guide-to-professional-voice-over-techniques/"><u>2024 Approved Precision and Power A Filmmaker's Guide to Professional Voice-Over Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-elon-musks-latest-venture-inside-insights-into-truthgpt-technology/"><u>Decoding Elon Musk’s Latest Venture: Inside Insights Into TruthGPT Technology</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-pro-6970-windows-printer-drivers-free-download/"><u>Get the Latest HP OfficeJet Pro 6970 Windows Printer Drivers - Free Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-your-lenovo-mouse-pad-connection-for-windows-1087-users/"><u>How to Repair Your Lenovo Mouse Pad Connection for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211612497-pdf-wont-print-discover-fast-solutions-now/"><u>PDF Won't Print? Discover Fast Solutions Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/token-renaissance-with-gemini-15s-million-dollar-shift/"><u>Token Renaissance with Gemini 1.5'S Million-Dollar Shift</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-cutting-edge-discount-sites-to-slash-your-spending/"><u>Top 6 Cutting-Edge Discount Sites to Slash Your Spending</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-synaptic-touchpad-scroll-problem-on-windows-10/"><u>Troubleshooting the Synaptic Touchpad Scroll Problem on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-overcoming-frame-rate-drops-and-delays-in-fallout-4-gaming/"><u>Ultimate Guide: Overcoming Frame Rate Drops and Delays in Fallout 4 Gaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-analysis-of-sony-bdp-s6700-for-2024/"><u>Updated Analysis of Sony BDP-S6700 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-10-audio-service-stopped-issue-resolved/"><u>Win 10: Audio Service Stopped - Issue Resolved</u></a></li>
+</ul></div>
 

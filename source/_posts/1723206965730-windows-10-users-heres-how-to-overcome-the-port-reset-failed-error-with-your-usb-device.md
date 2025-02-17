@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Users, Here's How to Overcome the 'Port Reset Failed' Error with Your USB Device!
-date: 2025-01-11T17:36:41.249Z
-updated: 2025-01-13T16:42:23.072Z
+date: 2025-02-11T16:14:40.449Z
+updated: 2025-02-16T18:51:28.848Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 1\. Enable Automatic Detect Settings**
 
  If your computer is not sure how it should connect to the Internet, it would cause Windows Update Error 0x8024402c. In this case, enable Automatic Detect Settings could fix it.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
@@ -41,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
@@ -67,6 +71,10 @@ Now try to install Windows Updates now.
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -96,6 +104,10 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -105,10 +117,6 @@ Double-click on your active Network Adapter.
  **Note:** That’s Google’s public DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -124,12 +132,16 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
@@ -137,10 +149,6 @@ If the fixes above didn’t serve you, try this one.
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -150,19 +158,11 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
@@ -171,7 +171,7 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -195,17 +195,17 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-disable-non-specific-youtube-video-alerts-for-2024/"><u>[New] Disable Non-Specific YouTube Video Alerts for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-prodigious-editing-power-utilizing-inshot-on-devices/"><u>[Updated] In 2024, Prodigious Editing Power Utilizing Inshot on Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software/"><u>2024 Approved How to Record TV Shows on Windows PC with Free Video Recording Software?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-exclusive-offers-the-best-deals-on-verizon-upgrades-this-month/"><u>Discover Exclusive Offers: The Best Deals on Verizon Upgrades This Month</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/geforce-experience-wont-open-comprehensive-solutions-and-fixes/"><u>GeForce Experience Won't Open - Comprehensive Solutions and Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-lenovos-malfunctioning-special-function-keys-a-step-by-step-guide/"><u>How to Repair Lenovo's Malfunctioning Special Function Keys: A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-magic-5-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor Magic 5 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolution-steps-enable-detection-of-unrecognized-wd-my-passport-ultra-external-hard-drive/"><u>Resolution Steps: Enable Detection of Unrecognized 'WD My Passport Ultra' External Hard Drive</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-creativity-crisis-in-modern-vr-content-for-2024/"><u>The Creativity Crisis in Modern VR Content for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-budget-friendly-video-alteration-journeys-explored-for-2024/"><u>Top 10 Budget-Friendly Video Alteration Journeys Explored for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-microsoft-wireless-display-drivers-in-windows-n11-solutions-and-tips/"><u>Troubleshooting Microsoft Wireless Display Drivers in Windows N11 – Solutions and Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-a25-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy A25 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-break-even-on-youtube-monetizing-with-a-minimum-of-500-viewers/"><u>[New] Break Even on Youtube Monetizing with a Minimum of 500 Viewers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-breaking-down-youtube-short-barriers/"><u>[Updated] Breaking Down YouTube Short Barriers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-problem-effective-fixes-for-a-laptop-that-wont-charge/"><u>Bypassing the Problem: Effective Fixes for a Laptop That Won't Charge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-to-overcome-the-troubling-0xc0000112f-hurdle-on-windows-systems/"><u>Effortless Fixes to Overcome the Troubling 0xC00001^12F Hurdle on Windows Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-c67-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme C67 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-p55-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel P55 5G Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-special-offer-get-the-hp-victus-15-for-up-to-350-less-limited-time-deal-at-best-buy-insights-from-zdnet/"><u>Labor Day Special Offer! Get the HP Victus 15 for Up to $350 Less - Limited Time Deal at Best Buy | Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsofts-wireless-display-connectivity-problems-in-windows-11-solutions/"><u>Resolving Microsoft's Wireless Display Connectivity Problems in Windows 11 [Solutions]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tailoring-content-advanced-pc-video-editing-methods-for-youtube-for-2024/"><u>Tailoring Content Advanced PC Video Editing Methods for YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-designers-odyssey-navigating-to-professional-prominence-for-2024/"><u>The Designer's Odyssey Navigating to Professional Prominence for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcoming-issues-when-teredo-tunneling-fails/"><u>Troubleshooting: Overcoming Issues When Teredo Tunneling Fails</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 10: Solving the Issue of Nonfunctional Volume Control"
-date: 2025-01-24T16:20:07.691Z
-updated: 2025-01-25T16:53:38.977Z
+date: 2025-02-14T21:15:48.857Z
+updated: 2025-02-16T23:09:26.910Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions that have helped other Windows users resolve error 0x80240017\. You don’t need to try them all; just work your way down the list until everything’s working again.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Windows Update Troubleshooter
 
  Windows Update Troubleshooter is a helpful tool built in Windows system, and you can use it to scan and fix the Windows Update error 0x80240017.
@@ -49,6 +49,10 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 
@@ -57,6 +61,10 @@ Here’s what you can do:
 
 If the Windows Update error persists, move on to the second method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset Windows Update Components
 
  Windows Update components ensure Windows Update runs properly and the updates can be installed successfully in your computer. If there’s anything wrong during the process, you can try resetting Windows Update components and see how it works.
@@ -64,10 +72,6 @@ If the Windows Update error persists, move on to the second method.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Copy and paste the following commands one by one in Command Prompt, and press**Enter** on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **net stop wuauserv**  
 **net stop cryptSvc**  
@@ -82,6 +86,10 @@ If the Windows Update error persists, move on to the second method.
 **pause**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Open Windows Update and see if it works properly.
 
@@ -103,10 +111,6 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2 – Manually
@@ -118,16 +122,12 @@ If the Windows Update error persists, move on to the second method.
 2. Type the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
 
@@ -149,7 +149,7 @@ sfc /scannow
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
@@ -178,20 +178,24 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-goovision-elite-next-gen-screen-capture-for-2024/"><u>[New] GooVision Elite Next-Gen Screen Capture for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-cost-efficiency-in-yt-promotional-campaigns/"><u>[New] In 2024, Cost Efficiency in YT Promotional Campaigns</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ios-gamers-top-5-ps2-emulators-unveiled/"><u>[New] In 2024, IOS Gamers' Top 5 PS2 Emulators Unveiled</u></a></li>
-<li><a href="https://extra-information.techidaily.com/basic-guide-to-windows-voice-modification-clowns-for-2024/"><u>Basic Guide to Windows Voice Modification - Clowns for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/code-initiation-denied/"><u>Code Initiation Denied</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhanced-abbyy-business-card-scanner-seamless-social-media-integration-and-revolutionary-editing-experience-on-ios/"><u>Enhanced ABBYY Business Card Scanner: Seamless Social Media Integration & Revolutionary Editing Experience on iOS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-grainy-greyscale-to-dynamic-highs-a-complete-hdr-conversion/"><u>From Grainy Greyscale to Dynamic Highs A Complete HDR Conversion</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-hp-officejet-nx-4650-series-printer-software-on-windows-computers/"><u>Install HP OfficeJet nX 4650 Series Printer Software on Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-connectivity-problems-with-your-wacom-pen-in-windows-11-and-10-environments/"><u>Overcoming Connectivity Problems with Your Wacom Pen in Windows 11 & 10 Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-compatibility-issues-aoc-monitor-wont-connect-with-windows-10/"><u>Resolving Compatibility Issues: AOC Monitor Won't Connect with Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/reviewing-microsofts-hololens-step-into-the-future/"><u>Reviewing Microsoft's HoloLens – Step Into the Future</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-laptop-battery-fast-fixes-to-stop-non-charging/"><u>Revive Your Laptop Battery: Fast Fixes to Stop Non-Charging</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-tricks-to-resolve-the-puzzling-windows-10-stuck-update-dilemma/"><u>Simple Tricks to Resolve the Puzzling Windows 10 Stuck Update Dilemma</u></a></li>
-<li><a href="https://facebook.techidaily.com/stop-everyone-emoticons-in-comments/"><u>Stop @Everyone Emoticons in Comments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-role-of-msdia8n6dll-in-windows-systems-keeping-vs-removing/"><u>The Role of msdia8n6.dll in Windows Systems: Keeping vs Removing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-laptop-tips-initiating-video-chats-via-whatsapp-web/"><u>[New] 2024 Approved Laptop Tips Initiating Video Chats via WhatsApp Web</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-creating-an-athletic-channel-on-apple-hardware/"><u>[New] In 2024, Creating an Athletic Channel on Apple Hardware</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-vlc-guide-setting-up-screen-recordings/"><u>[Updated] 2024 Approved VLC Guide Setting Up Screen Recordings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-free-online-rhythm-analysis-boost-your-dj-skills-efficiently-for-2024/"><u>[Updated] Free Online Rhythm Analysis Boost Your DJ Skills Efficiently for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-understanding-and-mastering-video-content-on-yt-shorts/"><u>2024 Approved Understanding and Mastering Video Content on YT Shorts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-the-full-spectrum-of-vlc-player-capabilities/"><u>2024 Approved Unlocking the Full Spectrum of VLC Player Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-laptop-that-wont-exit-the-startup-display-issue-solution-included/"><u>Fixing a Laptop That Won't Exit the Startup Display Issue - Solution Included</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y56-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y56 5G Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207945592-mastering-the-art-of-forcing-a-shutdown-on-your-pc-running-windows-11-a-comprehensive-guide/"><u>Mastering The Art of Forcing a Shutdown on Your PC Running Windows 11 - A Comprehensive Guide.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-game-setup-error-solutions-effective-methods-for-a-smooth-gaming-experience/"><u>Origin Game Setup Error Solutions: Effective Methods for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restarting-your-creative-flow-5-rapid-fixes-for-a-malfunctioning-huion-pen/"><u>Restarting Your Creative Flow: 5 Rapid Fixes for a Malfunctioning Huion Pen</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-comprehensive-guide-to-fixing-minecrafts-infamous-exit-code-0-bug/"><u>Solved: Comprehensive Guide to Fixing Minecraft's Infamous Exit Code 0 Bug</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-restoring-functionality-to-a-broken-windows-store-cache-fixed/"><u>Step-by-Step Tutorial: Restoring Functionality to a Broken Windows Store Cache [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-windows-no-longer-able-to-find-updates/"><u>Successfully Resolved: Windows No Longer Able To Find Updates?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-player-failure-due-to-non-existent-sources-expert-fixes/"><u>Troubleshooting Windows Player Failure Due to Non-Existent Sources - Expert Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-logitech-g930-headset-when-sound-stops-midway/"><u>Troubleshooting Your Logitech G930 Headset when Sound Stops Midway</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-ftddi-hardware-errors-caused-by-incompatible-device-drivers/"><u>Understanding and Resolving FTDDI Hardware Errors Caused by Incompatible Device Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winx-dvd-copy-software-dvdisodvd/"><u>WinX DVD Copy Software 公式サイト - 快適な操作でDVD/ISO/DVDフォルダーに容易コピーする無料プログラムを入手!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/winx-mediatrans-ideviceiphoneipad-pc/"><u>WinX MediaTrans™: 스마트폰 iDevice(iPhone/iPad)에서 PC 게시를 위한 유연하고 강력한 이미지, 음악, 비디오 전송 기능</u></a></li>
 </ul></div>
 

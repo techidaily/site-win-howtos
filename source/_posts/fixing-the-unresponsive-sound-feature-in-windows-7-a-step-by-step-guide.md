@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Unresponsive Sound Feature in Windows 7: A Step-by-Step Guide"
-date: 2024-08-19T07:55:39.488Z
-updated: 2024-08-20T07:55:39.488Z
+date: 2025-02-14T21:30:20.970Z
+updated: 2025-02-16T18:25:12.755Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Click the link below to get to your interested part:
 3. **[How do I tether my phone on Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
 4. **[USB tethering not working on Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is USB tethering?
 
  You can share your phone’s mobile data with another device, like your laptop, through **tethering** . It makes your laptop be able to connect to the Internet when there’s no network connection. There are three types of tethering:**USB tethering** ,**Wi-Fi tethering** ,**Bluetooth tethering** .
@@ -47,8 +51,9 @@ It’s very easy to tether your phone on Windows 10, do these:
  2) Tap Settings ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a786756399a.png) on your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Tap **More networks**  \> **Tethering and portable hotspot** .
 
 **Note:**  You may also find the tethering option under the **Mobile Data**  or **Personal Hotspot**  sections based on different phones.
@@ -59,21 +64,12 @@ It’s very easy to tether your phone on Windows 10, do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78f68dcbb1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) If your Windows 10 is in a no wired and no wireless network place, it should then be used this network adapter automatically: **Remote NDIS based Internet Sharing Device** . It’s your USB tethering connection in the Windows 10.
 
  If you see**Enabled** on it, the tethering is successful. You’re able to access the Internet on your Windows 10.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7908b22f5e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## How do I fix USB tethering not working on Windows 10?
 
  When the USB tethering stops working on your Windows 10, probably the USB tethering driver on your computer is corrupted, old or missing. Replacing the driver with the built-in one on your Windows 10 manually, or updating your USB tethering driver via Driver Easy automatically, these two methods can always help you solve the problem.
@@ -83,9 +79,6 @@ It’s very easy to tether your phone on Windows 10, do these:
 1. [Update your USB tethering driver via Driver Easy automatically](https://tools.techidaily.com/drivereasy/download/) **[ \[RECOMMENDED\]](https://tools.techidaily.com/drivereasy/download/)**
 2. [Replace the driver with the built-in one on your Windows 10 manually](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Method 1: Update your USB tethering driver via Driver Easy automatically
 
 **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  is a very helpful and credible driver tool. It will automatically recognize Windows 10 or any other version of Windows system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
@@ -98,9 +91,6 @@ It’s very easy to tether your phone on Windows 10, do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8bea488065.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
@@ -113,24 +103,37 @@ Or click **Update All**  to automatically download and install the correct versi
 
  1) On your keyboard, press**Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and **X**  at the same time to invoke the quick access menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79a86b4b0e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Expand **Network adapters**  and right-click **Remote NDIS based Internet Sharing Device** . Then click **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79bee367fe.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79e6f2a6c1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79fa25a97b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click the small box beside the **Show compatible hardware** . Note: It’s ticked on by default. When you click it, it will get blank.
 
@@ -140,19 +143,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c685fdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  8) Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e44842e31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Wait for a while, Microsoft will install the driver for you. Then you should see this screen
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8b9b8df3ac.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check to see if you can access the Internet on your Windows 10 via USB tethering.
 
@@ -164,8 +165,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +172,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-selecting-the-finest-screen-recorders-1-to-5-android/"><u>[Updated] 2024 Approved Selecting the Finest Screen Recorders, #1 to #5 (Android)</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/discover-the-cutting-edge-updates-to-windows-11-with-expert-insights-from-yl-software/"><u>Discover the Cutting-Edge Updates to Windows 11 with Expert Insights From YL Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fast-forward-altering-instagram-stories-tempo/"><u>Fast-Forward Altering Instagram Stories' Tempo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-resolve-win11win8win7-error-this-device-is-not-present-code-24/"><u>How to Correctly Resolve Win11/Win8/Win7 Error 'This Device Is Not Present (Code 24)'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-halt-gaming-lists-on-windows-11-ui/"><u>How to Halt Gaming Lists on Windows 11 UI</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-pdf-printing-blues-with-these-fast-fixes/"><u>Overcome Your PDF Printing Blues with These Fast Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-problem-during-restore-mistake-in-windows-10-fixed/"><u>Resolving 'Problem During Restore' Mistake in Windows 10 – Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-non-detected-accessories-in-windows-10-using-bluetooth-technology/"><u>The Ultimate Fix for Non-Detected Accessories in Windows 10 Using Bluetooth Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-get-your-windows-10-sound-back-on-track/"><u>Troubleshooting Steps to Get Your Windows 10 Sound Back on Track</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-inexpensive-cloud-storage-services/"><u>Unveiling Inexpensive Cloud Storage Services</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mp4-file-editor-for-windows-8-quick-and-easy-video-editing/"><u>Updated 2024 Approved MP4 File Editor for Windows 8 Quick and Easy Video Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-cant-i-get-to-the-windows-smartscreen-right-now-solutions-for-temporary-glitches/"><u>Why Can't I Get to the Windows SmartScreen Right Now? Solutions for Temporary Glitches</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions for Persistent Shutdown-Restart Issues in Windows 11
-date: 2024-08-19T07:50:45.004Z
-updated: 2024-08-20T07:50:45.004Z
+date: 2025-02-09T16:41:05.535Z
+updated: 2025-02-16T19:47:25.087Z
 tags:
   - win11
   - win10
@@ -42,13 +42,19 @@ thumbnail: https://thmb.techidaily.com/878d220757d7d14313871f9b10cde72f7c661f389
 1. Right-click the**Start button** on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 If this fix didn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Repair corrupted system files
 
  Broken Window Registry files may cause problems with the copy-and-paste keyboard shortcut. You can try to **run the System File Checker (sfc /scannow) to identify problematic Registry files** . Most of the time, this tool can fix minor issues for you.
@@ -61,20 +67,24 @@ If this fix didn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Clear clipboard history
 
  When your clipboard cache is full, you may not be able to copy-paste your files or texts. You can delete your clipboard history data to see if it solves the problem, and the steps are easy. Here’s how
@@ -103,9 +113,6 @@ If your problem persists, try the next fix.
 2. Find the**RDP Clipboard Monitor** process, right-click it and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus tip: Update your device drivers
 
  In general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -118,12 +125,13 @@ If your problem persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -139,8 +147,6 @@ If your problem persists, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +154,26 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-tips-for-mastering-screencastifys-features/"><u>[Updated] 2024 Approved Expert Tips for Mastering Screencastify's Features</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-ingenious-name-makers-elevate-your-channels/"><u>[Updated] 2024 Approved Ingenious Name Makers Elevate Your Channels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-to-restore-windows-store-functionality-by-fixing-cache-corruption/"><u>Complete Guide to Restore Windows Store Functionality by Fixing Cache Corruption</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-remedying-the-culprit-behind-cpu-spikes-svchostexe-on-windows-10/"><u>Diagnosing and Remedying the Culprit Behind CPU Spikes: svchost.exe on Windows 10</u></a></li>
+<li><a href="https://win-updates.techidaily.com/discover-the-ideal-compact-flash-drive-for-djing-excellence-approved-by-pro-cdjs/"><u>Discover the Ideal Compact Flash Drive for DJing Excellence, Approved by Pro CDJs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dissemination-techniques-sharing-your-podcast-on-instagram-for-2024/"><u>Dissemination Techniques Sharing Your Podcast on Instagram for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-windows-11-users-struggling-with-broken-hp-laptop-cameras-your-ultimate-resource/"><u>Effective Fixes for Windows 11 Users Struggling with Broken HP Laptop Cameras: Your Ultimate Resource</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-when-your-computer-says-it-has-too-few-resources/"><u>Essential Fixes for When Your Computer Says It Has Too Few Resources</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi Note 12 5G Phone?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-moto-g84-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola Moto G84 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picart-tips-for-perfect-background-removal/"><u>In 2024, PicArt Tips for Perfect Background Removal</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-showtime-showdown-who-wins-in-obstwitch-arena/"><u>In 2024, Showtime Showdown Who Wins in OBS/Twitch Arena</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a05s-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy A05s Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-the-future-of-home-networking-in-depth-analysis-and-insights-on-the-revolutionary-asus-wifi-7-router-rt-be96u/"><u>Pioneering the Future of Home Networking: In-Depth Analysis and Insights on the Revolutionary Asus WiFi 7 Router - RT-BE96U</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-audio-problems-clear-your-speakers-on-windows-platforms-step-by-step-guide/"><u>Solving Audio Problems: Clear Your Speakers on Windows Platforms - Step by Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-repair-for-malfunctioning-intel-graphics-memory-modules/"><u>Troubleshooting Guide: Repair for Malfunctioning Intel Graphics Memory Modules</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-game-installation-failures-on-steam/"><u>Troubleshooting Steps for Resolving Game Installation Failures on Steam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-crc-fixing-the-common-data-verification-error/"><u>Understanding CRC - Fixing the Common Data Verification Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unsupported-screen-input-issue-resolved-monitor-fix-guide/"><u>Unsupported Screen Input Issue Resolved: Monitor Fix Guide</u></a></li>
+</ul></div>
 

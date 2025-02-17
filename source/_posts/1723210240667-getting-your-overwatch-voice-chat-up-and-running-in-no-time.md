@@ -1,7 +1,7 @@
 ---
 title: Getting Your Overwatch Voice Chat Up and Running in No Time!
-date: 2025-02-03T13:09:05.513Z
-updated: 2025-02-07T06:06:59.416Z
+date: 2025-02-14T20:08:18.541Z
+updated: 2025-02-16T19:13:01.867Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for **Overwatch voice chat not working**
 
  Here’re 4 fixes that have helped other players resolve their**Overwatch voice chat not working** issue. Just work your way down the list until you find the one that works for you.
@@ -32,10 +36,6 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 4. [**Mode Check your in-game audio settings**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
 
@@ -50,20 +50,20 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
 
@@ -75,6 +75,10 @@ Here’s how to do it:
 2. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
@@ -89,7 +93,7 @@ Here’s how to do it:
 7. Click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
@@ -106,10 +110,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 
@@ -119,7 +119,7 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check your in-game audio settings
@@ -157,22 +157,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-list-top-15-affordable-online-image-enhancers/"><u>[New] 2024 Approved The Ultimate List Top 15 Affordable Online Image Enhancers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-drone-powerhouses-the-ultimate-heavy-lift-guide-for-2024/"><u>[Updated] Drone Powerhouses The Ultimate Heavy-Lift Guide for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-guide-to-top-free-vectors-graphics-sites-worldwide/"><u>[Updated] In 2024, Guide to Top Free Vectors, Graphics Sites Worldwide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-path-to-stunning-instagram-posts-for-2024/"><u>[Updated] The Ultimate Path to Stunning Instagram Posts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-device-detection-issues-fixed-for-windows-11-users/"><u>Bluetooth Device Detection Issues Fixed for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-persistent-network-error-on-your-windows-pc-error-code-0x800704cf/"><u>How to Fix the Persistent 'Network Error' On Your Windows PC (Error Code: 0X800704CF)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-unstick-your-game-dealing-with-initialization-errors-in-destiny-2/"><u>How to Successfully Unstick Your Game: Dealing with Initialization Errors in Destiny 2</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-a-corrupt-and-unreadable-filedirectory-solutions-and-tips/"><u>Repairing a Corrupt & Unreadable File/Directory: Solutions & Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issues-with-frame-rate-in-mass-effect-legendary-edition/"><u>Resolved: Issues with Frame Rate in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dxgkrnl-fatal-error-in-videos-on-your-pc/"><u>Solving the Dxgkrnl Fatal Error in Videos on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-broken-usb-connections-on-your-windows-10-or-11-device/"><u>Solving the Problem of Broken USB Connections on Your Windows 10 or 11 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stabilizing-windows-11-post-upgrade/"><u>Stabilizing Windows 11 Post-Upgrade</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202103914-the-ultimate-fix-for-when-your-microsoft-surface-wont-charge-even-though-its-connected-step-by-step-solution/"><u>The Ultimate Fix for When Your Microsoft Surface Won't Charge Even Though It’s Connected: Step-by-Step Solution</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-lava-storm-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Lava Storm 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/troubleshooting-and-correcting-windows-blue-screen-issues-with-tips-by-yl-computings-professional-solutions/"><u>Troubleshooting and Correcting Windows Blue Screen Issues with Tips by YL Computing's Professional Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-the-best-storytelling-schools-1-8-guide/"><u>Unveiling the Best Storytelling Schools - #1-#8 Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enhancing-your-fb-video-experience-with-1080p-quality/"><u>[New] In 2024, Enhancing Your FB Video Experience with 1080P Quality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-demystifying-the-instagram-selfie-process/"><u>[Updated] 2024 Approved Demystifying the Instagram Selfie Process</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-engagement-and-growth-the-role-of-brand-in-youtube-success-for-2024/"><u>Driving Engagement and Growth The Role of Brand in YouTube Success for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-fix-and-prevent-power-surges-in-your-computers-usb-connections-on-windows-10/"><u>Effective Techniques to Fix and Prevent Power Surges in Your Computer's USB Connections on Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-reno-11f-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo Reno 11F 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-channeling-success-emulating-top-video-bloggers-techniques/"><u>In 2024, Channeling Success Emulating Top Video Bloggers' Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leveraging-creator-funding-in-youtube-shorts/"><u>In 2024, Leveraging Creator Funding in YouTube Shorts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone XS Max</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-proxies-for-windows-11-users/"><u>Optimizing Proxies for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210991538-overcoming-voice-chat-hurdles-in-overwatch-simple-solutions-inside/"><u>Overcoming Voice Chat Hurdles in Overwatch - Simple Solutions Inside!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simple-steps-modify-windows-speech-of-sea-creatures/"><u>Simple Steps Modify Windows Speech of Sea Creatures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-physxloaderdll-missing-on-launch-issues/"><u>Troubleshooting Guide: Resolving 'PhysXloader.dll' Missing on Launch Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-file-explorer-on-your-pc-windows-solutions-for-a-smooth-experience/"><u>Troubleshooting Unresponsive File Explorer on Your PC: Windows # Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-wont-connect-to-xbox-live-solved/"><u>Xbox One Won’t Connect to Xbox Live [SOLVED]</u></a></li>
 </ul></div>
 

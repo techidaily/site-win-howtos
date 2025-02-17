@@ -1,7 +1,7 @@
 ---
 title: "Enabling Local Security: Reactivate LSA Protection Now"
-date: 2024-08-19T07:55:30.604Z
-updated: 2024-08-20T07:55:30.604Z
+date: 2025-02-12T22:00:23.457Z
+updated: 2025-02-16T16:25:54.408Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ Does the sound coming through**Logitect G930** keep cutting out? You’re certai
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Adjust your audio settings
 
 1. Right-click on **the sound icon**  on the lower-right of your computer screen, then click **Sounds**  .  
@@ -57,26 +54,32 @@ Does the sound coming through**Logitect G930** keep cutting out? You’re certai
 3. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c74bc929c9.jpg)
 4. Make sure**the box** before**Front left and right** is**UN-TICKED** and click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c7505abb33.jpg)
 5. Click**Finish** to complete the configuration.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c753f719c3.png)
 6. Back to the**Playback** tab, click on **Speakers** (Logitech G930 Headset) and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c75be9e5e5.jpg)
 7. Click the**Enhancements** tab, then**TICK the box** before**Disable all enhancements** and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c765aad3c2.jpg)
 8. Check if the sound coming through your Logitech G930 is still cutting out. If the problem persists, move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Edit the **Device\_Manifest file**
 
  Editing the **Device\_Manifest** file is another effective fix according to user feedback.
@@ -88,35 +91,37 @@ To do so:
 C:\Program Files\Logitech Gaming Software\Resources\G930\Manifest  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d7fe390e71.jpg)
 3. **BACK UP** the **Device\_Manifest** file by creating a copy.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Right-click on the **Device\_Manifest** file and**edit with a text editor** (such as Notepad ++, Notepad, Evernote).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d806766b61.jpg)
 5. On your keyboard, press**Ctrl** and**F** at the same time, then type**turnoffinterval** and click**Find Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d8159a4b7d.jpg)
 6. Modify**900** to**0** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d81b6b7a7d.jpg)
 7. Save the edit.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Check to see if your**Logitech G930 cutting out** problem has been resolved. If yes, then great! But if the issue is still not worked out, then delete the file you’ve just edited and**keep the original Device\_Manifest** file.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Turn off USB Root HUB Power Management
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **devmgmt.msc** and press**Enter** .  
@@ -130,8 +135,9 @@ C:\Program Files\Logitech Gaming Software\Resources\G930\Manifest
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Try another port
 
  Before reconnecting your**Logitech G930** to your computer, make sure it’s**FULLY CHARGED** and**POWERED OFF** .
@@ -155,8 +161,6 @@ C:\Program Files\Logitech Gaming Software\Resources\G930\Manifest
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +168,16 @@ C:\Program Files\Logitech Gaming Software\Resources\G930\Manifest
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-key-10-efficient-online-subtitle-editors/"><u>[Updated] 2024 Approved Key 10 Efficient Online Subtitle Editors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-the-darkness-step-by-step-guide-to-resolve-google-chromes-screen-issues/"><u>Conquering the Darkness: Step-by-Step Guide to Resolve Google Chrome’s Screen Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-your-desktop-on-systemprofile-in-windows-system32-config-directory-now-solved/"><u>How to Recover Your Desktop on SystemProfile in Windows' System32 Config Directory - Now Solved!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-your-ipad-at-risk-with-the-latest-ios-18-update-find-out-before-you-install-now-guides/"><u>Is Your iPad At Risk With the Latest iOS 18 Update? Find Out Before You Install Now Guides</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-windows-preparation-phase-freezes/"><u>Solutions for Resolving 'Windows Preparation Phase' Freezes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-for-sudden-charge-increase-in-switching-point/"><u>Troubleshooting Completed for Sudden Charge Increase in Switching Point</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-troubleshooting-reappearing-vanished-mouse-pointer-guide/"><u>Windows 10 Troubleshooting: Reappearing Vanished Mouse Pointer Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Correcting the Frequent Disconnection Problem in Your Personal Computer Mouse
-date: 2024-08-19T07:51:39.948Z
-updated: 2024-08-20T07:51:39.948Z
+date: 2025-02-12T17:31:15.940Z
+updated: 2025-02-16T21:55:07.360Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -35,8 +39,9 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
@@ -44,23 +49,24 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
 This problem may occur if you are using the wrong or outdated drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
@@ -73,14 +79,13 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -98,8 +103,6 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +110,22 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-non-gamebar-recorders-best-tools-for-game-capture/"><u>[New] Non-GameBar Recorders Best Tools for Game Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sleight-of-mind-best-room-adventures-reviewed/"><u>[New] Sleight of Mind Best Room Adventures Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solvedwhat-is-mse-and-why-microsoft-security-essentials-mssecesexe-high-disk-usage/"><u>[Solved]What Is MSE and Why Microsoft Security Essentials (msseces.exe) High Disk Usage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-zoom-chats-a-guide-to-effective-online-interactions/"><u>[Updated] Navigating Zoom Chats A Guide to Effective Online Interactions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-25-pioneers-reshaping-social-media-landscapes/"><u>2024 Approved 25 Pioneers Reshaping Social Media Landscapes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-step-by-step-guide-resolving-issues-with-your-stylus-on-xperia-devices/"><u>Complete Step-by-Step Guide: Resolving Issues with Your Stylus on Xperia Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-mini-moviemaker-a-fun-guide-for-kids-to-make-their-own-movies-for-2024/"><u>New The Mini Moviemaker A Fun Guide for Kids to Make Their Own Movies for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-tips-overcoming-sound-output-difficulties-in-sea-of-thieves-multiplayer/"><u>PC Tips: Overcoming Sound Output Difficulties in Sea of Thieves Multiplayer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-problem-setting-up-a-virtual-router-on-windows-11-guide/"><u>Resolved Problem: Setting Up a Virtual Router on Windows 11 (Guide)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-rpc-server-unreachable-issue-on-your-windows-pc/"><u>Resolving the 'RPC Server Unreachable' Issue on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-auto-boot-puzzle-for-windows-10-systems/"><u>Solving the Auto-Boot Puzzle for Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-overcoming-geforce-experience-launch-failures/"><u>Step-by-Step Tutorial on Overcoming GeForce Experience Launch Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-solutions-how-to-fix-forza-horizon-4-not-starting/"><u>Top Solutions: How To Fix Forza Horizon 4 Not Starting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-solving-common-oculus-hardware-issues/"><u>Troubleshooting Tips: Solving Common Oculus Hardware Issues</u></a></li>
+</ul></div>
 

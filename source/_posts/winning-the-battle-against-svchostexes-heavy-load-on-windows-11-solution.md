@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Svchost.exe's Heavy Load on Windows 11 [Solution]
-date: 2024-08-19T07:54:42.758Z
-updated: 2024-08-20T07:54:42.758Z
+date: 2025-02-15T17:00:06.516Z
+updated: 2025-02-16T16:14:03.737Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/svchost-exe-in-task-manager-600x402.jpg)
 
  If you’re seeing many svchost.exe items hogging your CPU usage, you’re not alone. Many Windows 10 users are reporting this problem. No worries, it’s possible to fix. Here are[4 fixes](#how) for you to sort it out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **What is svchost.exe?**
 
@@ -62,35 +66,39 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Repeat the steps until you locate the faulty process.
 
  6) Once you find the faulty service, click the **Open Services** button and go to the **Service** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9) See if the problem is resolved.
 
 ## **3: Empty event viewer log**
@@ -101,28 +109,20 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your computer after this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **4: Troubleshoot Windows Updates issues**
 
  If something is wrong with your Windows Updates settings, svchost.exe will see an abnormal increase as well. To fix it:
@@ -139,18 +139,6 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **PRO TIP**
 
  If, after trying the above, your PC is still hogging by**svchost.exe** programs, it’s time to update your device drivers.
@@ -167,6 +155,10 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -174,15 +166,14 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -191,4 +182,26 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-securing-your-youtube-footage-a-quick-walkthrough/"><u>[New] 2024 Approved Securing Your YouTube Footage A Quick Walkthrough</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaming-streams-best-recording-programs/"><u>[New] In 2024, Gaming Streams Best Recording Programs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-aspect-ratio-essentials-for-social-network-videos/"><u>[Updated] Aspect Ratio Essentials for Social Network Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels/"><u>[Updated] In 2024, Blueprints for Breaking Ground in Edu-Video Production on YouTube Channels</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions/"><u>[Updated] In 2024, Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-viewing-unlocking-the-potential-of-netflixs-pip/"><u>2024 Approved Elevate Your Viewing Unlocking the Potential of Netflix’s PIP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-walkthrough-on-how-to-permanently-remove-your-tiktok-profile/"><u>Complete Walkthrough on How to Permanently Remove Your TikTok Profile</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-resolve-no-battery-found-issue-swift-solutions/"><u>Effortlessly Resolve 'No Battery Found' Issue – Swift Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210932111-forgotten-sd-cards-reclaim-and-repair-them/"><u>Forgotten SD Cards? Reclaim & Repair Them!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-data-recovery-recover-lost-data-from-itel-s23plus-by-fonelab-android-recover-data/"><u>Itel Data Recovery – recover lost data from Itel S23+</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-joining-youtube-clips-for-2024/"><u>Mastering the Art of Joining YouTube Clips for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-update-issue-fixing-error-code-0x802e401c-on-windows-10-and-11/"><u>Resolving the Windows Update Issue: Fixing Error Code 0X802e401C on Windows 10 & 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/rise-above-struggles-10-empowering-movies-for-life/"><u>Rise Above Struggles 10 Empowering Movies for Life</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-to-overcome-the-rpc-server-unreachable-problem-on-windows-pcs/"><u>Solutions to Overcome the 'RPC Server Unreachable' Problem on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-when-your-windows-updates-just-wont-work/"><u>Step-by-Step Fixes for When Your Windows Updates Just Won't Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-addressing-logitech-g930-sound-cuts/"><u>Troubleshooting Guide: Addressing Logitech G930 Sound Cuts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-initialization-errors-of-the-graphics-engine-latest-patches-reviewed/"><u>Troubleshooting Initialization Errors of the Graphics Engine - Latest Patches Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-solving-class-not-registered-problems-easily/"><u>Troubleshooting Windows 11: Solving 'Class Not Registered' Problems Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unexpected-startups-examining-the-self-activation-of-windows-10-machines/"><u>Unexpected Startups: Examining the Self-Activation of Windows 10 Machines</u></a></li>
+</ul></div>
 

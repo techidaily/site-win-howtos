@@ -1,7 +1,7 @@
 ---
 title: "Fixing Persistent Windows 11 Update Errors: A Step-by-Step Guide"
-date: 2024-08-19T07:51:35.463Z
-updated: 2024-08-20T07:51:35.463Z
+date: 2025-02-15T18:36:41.554Z
+updated: 2025-02-17T00:06:55.718Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92aafe0cad.jpg)
 
  To connect your Bluetooth device (headphones, mouse, etc.), or to transfer files from your iPhone to your PC via Bluetooth, you need to [**turn on Bluetooth on Windows 10**](#turnon) first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn on Bluetooth on Windows 10  (and how to fix it if it won’t turn on)
 
@@ -39,7 +43,16 @@ In this guide you’ll learn:
 2. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/bluetooth2.png)
 3. Click the switch (currently set to **Off** ) to turn on Bluetooth. (The status will change to **On**  .**)**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92afe0a1d0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Windows 11
 
@@ -55,9 +68,6 @@ In this guide you’ll learn:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### What to do if you can’t turn Bluetooth on in Windows 10/11
 
  Here are the top three ways to fix Bluetooth issues in Windows 10\. Just work your way down the list until you find the one that works for you.
@@ -74,9 +84,6 @@ In this guide you’ll learn:
 1. On your desktop, right-click on the Start button to select   **Device Manager.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92c4740356.jpg)
 2. In Device Manager, check to see if there’s a**Bluetooth section** or if there’s any**Bluetooth adapter** located in the**Network adapters** section. The Bluetooth adapter could also be listed under the**Other devices** section due to some errors.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92f6f87b46.jpg)
 
  a) If you**do** find one or more Bluetooth adapters in Device Manager, your computer supports Bluetooth. Move on to the solutions to continue to  solve your problem.
@@ -100,12 +107,13 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
  But if you have the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  you can click **Update All**  to automatically download and install all of the missing or outdated drivers on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45e220bb3e1.jpg)  
  (If you click the**Update All**  button in the Free version you’ll be asked if you want to upgrade to the Pro version.)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer.
 5. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Do you see the option to switch Bluetooth on now? If you do, great. You’ve fixed the problem. But if it’s still not there, there’s something else you can try…
 
@@ -116,19 +124,19 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 2. Right-click on your Bluetooth device in the Bluetooth section, and choose**Disable device** . (If you’re asked to confirm, click **Yes** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 3. Right-click on the device again and click **Enable device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 4. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Is the Bluetooth switch appearing now? If it’s not, we have something else you can try…
 
 #### Fix 3: Make sure the Bluetooth Support Service is running
@@ -137,16 +145,15 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 2. Type**services.msc** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 3. Right-click **Bluetooth Support Service** , then click **Start** . (If the Start option grayed out, then click **Restart** .)  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 4. Right-click on**Bluetooth Support Service**  again, and this time click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 5. Set its startup type to **Automatic** . click **Apply** , and then click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 6. Finally, hold down the **Windows logo key**  and press the**I**  key to bring up the**Settings** window. Then make sure the Bluetooth option is there.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
@@ -156,6 +163,10 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ## What to do if the above suggestions don’t work: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -192,8 +203,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +210,23 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/decode-and-solve-understanding-and-rectifying-error-87-while-loading-libraries/"><u>Decode and Solve: Understanding and Rectifying Error 87 While Loading Libraries</u></a></li>
+<li><a href="https://win-web.techidaily.com/effortless-methods-to-construct-your-own-bootable-external-storage-device-learn-how/"><u>Effortless Methods to Construct Your Own Bootable External Storage Device - Learn How!</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effortless-migration-techniques-direct-integration-of-outlook-with-sharepoint-storage/"><u>Effortless Migration Techniques: Direct Integration of Outlook with SharePoint Storage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-failure-in-creating-a-directx-graphics-processing-unit-gpu/"><u>Fixing the Issue of Failure in Creating a DirectX Graphics Processing Unit (GPU)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-silent-issue-ultimate-guide-to-restoring-audio-in-forza-horizon-4/"><u>Fixing the Silent Issue: Ultimate Guide to Restoring Audio in Forza Horizon 4</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-vivo-y02t-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Vivo Y02T.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-apply-the-feature-update-on-windows-11-v1607/"><u>How to Successfully Apply the Feature Update on Windows 11 V1607</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iconic-iphone-meme-creations/"><u>Iconic iPhone Meme Creations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-identifying-leading-drone-motors-for-superior-stability/"><u>In 2024, Identifying Leading Drone Motors for Superior Stability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uniting-platforms-the-seamless-addition-of-linktree-to-tiktok/"><u>In 2024, Uniting Platforms The Seamless Addition of Linktree to TikTok</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-data-integrity-issues-with-cyclic-redundancy-check-solutions/"><u>Overcoming Data Integrity Issues with Cyclic Redundancy Check Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-non-responsive-buttons-on-hp-laptops-expert-advice/"><u>Quick Fixes for Non-Responsive Buttons on HP Laptops: Expert Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/renew-your-email-on-proton-vpn-debunking-myths-the-authenticity-of-the-chatgpt-window-tool/"><u>Renew Your Email on Proton VPN - Debunking Myths: The Authenticity of the ChatGPT Window Tool</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/step-by-step-guide-converting-mov-videos-into-compatible-mp4-format/"><u>Step-by-Step Guide: Converting MOV Videos Into Compatible MP4 Format</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-pivotal-point-in-view-count-for-online-earning-for-2024/"><u>The Pivotal Point in View Count for Online Earning for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-automatic-startup-issues-with-your-windows-11-computer/"><u>Understanding Automatic Startup Issues with Your Windows 11 Computer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve 'There Was an Issue Resetting Your Computer' Error in Windows 10 [Guide]
-date: 2025-01-31T18:43:52.365Z
-updated: 2025-02-07T09:41:36.831Z
+date: 2025-02-13T01:26:33.813Z
+updated: 2025-02-17T00:20:22.567Z
 tags:
   - win11
   - win10
@@ -34,19 +34,23 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -89,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -96,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -109,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -116,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 `` 3) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
@@ -133,16 +137,16 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
  3) Find and right-click on **Internet** **Explorer ETW Collector Service** . Then click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
 
@@ -153,10 +157,6 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -176,6 +176,10 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -193,10 +197,6 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,24 +225,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-clearsnap-for-windows-quick-and-clean-shots/"><u>[New] ClearSnap for Windows Quick & Clean Shots</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-efficiently-storing-instagram-reels-two-simplified-techniques/"><u>[New] Efficiently Storing Instagram Reels Two Simplified Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-tomtom-adventurecam-2023-a-game-changer/"><u>[New] In 2024, TomTom AdventureCam 2023 A Game-Changer?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-imovie-music-enhancement-using-youtube-songs/"><u>[Updated] In 2024, Effortless iMovie Music Enhancement Using YouTube Songs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-techniques-to-perfectly-transcribe-ppts/"><u>[Updated] In 2024, Techniques to Perfectly Transcribe PPTs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-hashtag-hacks-the-top-25-tactics-to-elevate-your-instagram-profile/"><u>2024 Approved Hashtag Hacks The Top 25 Tactics to Elevate Your Instagram Profile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-suspends-online-sales-of-new-apple-watch-series-9-and-ultra-service-for-previous-models-impacted-technology-news/"><u>Apple Suspends Online Sales of New Apple Watch Series 9 & Ultra; Service for Previous Models Impacted | Technology News</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-correcting-power-management-malfunctions-with-windows-drivers/"><u>Expert Advice on Correcting Power Management Malfunctions with Windows Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-sound-to-your-ps4-communication-device/"><u>Expert Advice: Restoring Sound to Your PS4 Communication Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-fix-steam-store-not-loading-error/"><u>Five Effective Methods to Fix 'Steam Store Not Loading' Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-boot-problems-on-windows-10-following-a-system-update/"><u>Fixing Boot Problems on Windows 10 Following a System Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-proper-scrolling-on-your-computers-touchpad-fixed/"><u>How To Restore Proper Scrolling on Your Computer's Touchpad [FIXED]</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-infinix-smart-7-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Infinix Smart 7 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-windows-update-error-code-0x8024a105-a-comprehensive-approach/"><u>Mastering Fixes for Windows Update Error Code 0X8024A105: A Comprehensive Approach</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-reno-8t-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 8T 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-android-wi-fi-login-issues-step-by-step-guide/"><u>Solving Android Wi-Fi Login Issues: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-when-your-hamachi-service-abruptly-stops-working/"><u>Step-by-Step Fixes When Your Hamachi Service Abruptly Stops Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-windows-10-microphone-issues/"><u>Troubleshooting and Repairing Windows 10 Microphone Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210988722-windows-11-blurry-text-heres-how-to-fix-it/"><u>Windows 11 Blurry Text? Here's How to Fix It.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-inclusive-panel-of-easeus-reviewers/"><u>[New] In 2024, Inclusive Panel of EaseUS Reviewers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-techniques-for-effective-iphone-screen-captures/"><u>[Updated] Seamless Techniques for Effective Iphone Screen Captures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-pc-vr-headsets-ranked/"><u>2024 Approved Best PC VR Headsets Ranked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-your-presentations-top-7-ai-solutions/"><u>Elevating Your Presentations: Top 7 AI Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-launching-oddworld-soulstorm-on-your-windows-computer/"><u>Guide to Successfully Launching Oddworld: Soulstorm on Your Windows Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-resolved-the-bug-that-made-my-software-misbehave-guide/"><u>How I Resolved The Bug That Made My Software Misbehave [GUIDE]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-renderer-start-failure-corrected-fixes-of-2021/"><u>How to Resolve 'Renderer Start Failure [Corrected Fixes of 2021]'</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-magic-5-lite-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor Magic 5 Lite Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/insurtech-evolution-insights-expert-interview-with-forrester/"><u>InsurTech Evolution Insights: Expert Interview with Forrester</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-stuck-on-the-loading-screen-master-this-2024-troubleshooting-and-start-guide/"><u>PUBG Stuck on the Loading Screen? Master This 2024 Troubleshooting and Start Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-custom-user-settings-failure-no-longer-an-issue/"><u>Resolved: Custom User Settings Failure No Longer an Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-resource-protection-failed-on-this-computer-error/"><u>Resolving: 'Windows Resource Protection Failed on This Computer' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-to-resolve-usb-flash-drive-unrecognized-issues/"><u>Simple Steps to Resolve 'USB Flash Drive Unrecognized' Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-iphone-guide-creating-and-editing-languid-video-sequences/"><u>Step by Step iPhone Guide Creating & Editing Languid Video Sequences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-swiftly-overcome-0x80070652-windows-update-glitches/"><u>Troubleshooting Guide: Swiftly Overcome 0X80070652 Windows Update Glitches</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-flip-rotate-and-enhance-top-10-video-editing-software/"><u>Updated In 2024, Flip, Rotate, and Enhance Top 10 Video Editing Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-my-mouse-right-click-not-working-in-windows-10-solutions-inside/"><u>Why Is My Mouse Right Click Not Working in Windows 10? Solutions Inside!</u></a></li>
 </ul></div>
 

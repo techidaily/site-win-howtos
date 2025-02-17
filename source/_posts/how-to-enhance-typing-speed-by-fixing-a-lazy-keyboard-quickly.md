@@ -1,7 +1,7 @@
 ---
 title: How to Enhance Typing Speed by Fixing a Lazy Keyboard Quickly
-date: 2025-01-31T00:51:58.535Z
-updated: 2025-02-06T16:16:37.363Z
+date: 2025-02-14T21:30:56.764Z
+updated: 2025-02-17T00:48:50.843Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -57,6 +53,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -74,6 +74,10 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -99,19 +103,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -121,10 +117,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -139,16 +131,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,20 +184,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-beyond-ustream-an-examination-of-video-streaming-for-2024/"><u>[New] Beyond Ustream An Examination of Video Streaming for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-best-screen-record-apps-for-classroom-use/"><u>[Updated] In 2024, The Best Screen Record Apps for Classroom Use</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-tempo-trackers-guide-accessible-free-tools/"><u>2024 Approved The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-80-pro-straight-screen-edition-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 80 Pro Straight Screen Edition System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-a-non-responsive-left-click-on-computer-mice/"><u>Easy Fixes for a Non-Responsive Left Click on Computer Mice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-v2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic V2 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/how-to-legally-save-youtube-content-tips-and-tricks-without-a-subscription/"><u>How to Legally Save YouTube Content: Tips and Tricks without a Subscription</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-professional-recommendations-superior-voice-modification-tools/"><u>In 2024, Professional Recommendations Superior Voice Modification Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209309001-livekernelevent-117-trouble-heres-how-you-can-fix-it/"><u>LiveKernelEvent 117 Trouble? Here's How You Can Fix It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastery-over-kernel32-faults/"><u>Mastery over Kernel32 Faults</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/precision-in-upload-a-deep-dive-into-youtube-video-size-settings-for-2024/"><u>Precision in Upload A Deep-Dive Into YouTube Video Size Settings for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-how-to-fix-an-unresponsive-google-chrome-instance/"><u>Resolving the Issue: How to Fix an Unresponsive Google Chrome Instance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-malfunctioning-keys-preceding-user-logon/"><u>Solution for Malfunctioning Keys Preceding User Logon</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-getting-microsoft-print-to-pdf-feature-up-and-running-on-windows-1011/"><u>Step-by-Step: Getting Microsoft Print to PDF Feature Up and Running on Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-no-hardware-recognized-when-installing-windows-7/"><u>Troubleshooting: No Hardware Recognized When Installing Windows 7</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-comprehensive-insight-into-the-ultra-clear-lg-monitor/"><u>[New] 2024 Approved Comprehensive Insight Into the Ultra-Clear LG Monitor</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-avi-perfect-conversion-tools-revealed-for-2024/"><u>[New] From YouTube to AVI Perfect Conversion Tools Revealed for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-picsart-app-analysis-and-tutorial-for-its-latest-release-for-2024/"><u>[Updated] PicsArt App Analysis & Tutorial for Its Latest Release for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-restoring-system-files-on-windows-10-using-sfc-and-dism-utilities/"><u>Comprehensive Guide to Restoring System Files on Windows 10 Using SFC & DISM Utilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-remedies-to-prevent-your-computer-from-going-into-sleep-mode/"><u>Effortless Remedies to Prevent Your Computer From Going Into Sleep Mode</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-wdf-efficiency-to-reduce-high-cpu-consumption-problems/"><u>Enhancing WDF Efficiency to Reduce High CPU Consumption Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-how-to-successfully-tackle-twitch-error-4000-issues/"><u>Expert Advice: How to Successfully Tackle Twitch Error 4000 Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-and-solve-the-persistent-windows-update-error-0x8024402c/"><u>How to Correctly Address and Solve the Persistent Windows Update Error 0X8024402C</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-non-functional-dell-camera-problems-in-windows/"><u>How to Resolve Non-Functional Dell Camera Problems in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-x6-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find X6 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-guide-cutting-videos-in-half-on-pc-and-mac/"><u>Quick Guide: Cutting Videos in Half on PC & Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/taking-flight-iphone-hdr-techniques-for-professional-results/"><u>Taking Flight IPhone HDR Techniques for Professional Results</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/upgrade-successfully-how-to-ensure-your-device-drivers-work-with-windows-operating-system/"><u>Upgrade Successfully: How To Ensure Your Device Drivers Work With Windows Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-does-my-computer-freeze-during-boot-on-windows-10-understanding-the-causes-and-fixes/"><u>Why Does My Computer Freeze During Boot on Windows 10? Understanding the Causes & Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly
-date: 2025-02-03T18:28:03.357Z
-updated: 2025-02-06T17:39:59.588Z
+date: 2025-02-13T00:29:05.700Z
+updated: 2025-02-16T19:07:59.789Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes that have helped other users get their keyboard numbers working again. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 3. **[Update your keyboard driver](#f3)**
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Turn off Mouse Keys
 
@@ -51,13 +51,17 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -72,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
@@ -82,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
@@ -153,24 +153,20 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nderstanding-youtubes-rating-mechanism-nuances/"><u>[New] Understanding YouTube's Rating Mechanism Nuances</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-5-best-photo-video-maker-with-music-you-should-know/"><u>[Updated] 5 Best Photo Video Maker With Music You Should Know</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fusing-data-and-design-for-dynamic-fb-video-campaigns-for-2024/"><u>[Updated] Fusing Data & Design for Dynamic FB Video Campaigns for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-premium-computing-solutions-on-desktops-for-2024/"><u>[Updated] Premium Computing Solutions on Desktops for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-snapsavvy-ai-revolutionizing-edit-processes/"><u>2024 Approved SnapSavvy AI Revolutionizing Edit Processes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-error-0x800f081f-expert-strategies-for-a-smooth-net-framework-35-installation-process/"><u>Bypass Error 0X800F081F – Expert Strategies for a Smooth .NET Framework 3.5 Installation Process</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782087-9781620553695-christian-mythology/"><u>Christian Mythology | Free Book</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1725289459502-dvd-windows-11/"><u>DVDへの書き込み方法解析 - Windows 11で完全な手引き</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fix-for-red-dead-redemption-2-memory-problems-upgrade-page-file-without-hesitation/"><u>Easy Fix for Red Dead Redemption 2 Memory Problems: Upgrade Page File Without Hesitation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-handling-video-related-dxgkrnl-crashes-on-windows-systems/"><u>Effective Fixes for Handling Video-Related Dxgkrnl Crashes on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212530010-endless-blinking-cursor-learn-how-to-make-it-disappear-now/"><u>Endless Blinking Cursor? Learn How to Make It Disappear Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-issues-with-windows-boot-process-delays/"><u>Expert Tips to Overcome Issues with Windows Boot Process Delays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-update-0x80070490-issue-a-step-by-step-guide/"><u>Fixing the Windows Update 0X80070490 Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-pc-efficiency-fixing-the-problem-of-overworked-wudfhostexe-in-windows-11/"><u>Mastering PC Efficiency: Fixing the Problem of Overworked WUDFHost.exe in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/oddworld-soulstorm-pc-game-crash-no-more-discover-effective-fix-strategies-here/"><u>Oddworld: Soulstorm PC Game Crash No More? Discover Effective Fix Strategies Here</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-tongue-of-truth-learning-hangul-for-ks/"><u>The Tongue of Truth: Learning Hangul for KS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/0-female-gamers-on-youtube-2024-updated/"><u>Top 10 Female Gamers on YouTube | 2024 Updated</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-solution-step-by-step-tips-for-addressing-twitch-error-4000/"><u>Unlock the Solution: Step-by-Step Tips for Addressing Twitch Error #4000</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mastering-adobe-premiere-top-6-tricks-for-professional-video-editing/"><u>Updated 2024 Approved Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhancing-youtube-videos-proper-lighting-methods-for-2024/"><u>[New] Enhancing YouTube Videos Proper Lighting Methods for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-eliminating-oculus-sickness-key-tactics/"><u>[New] In 2024, Eliminating Oculus Sickness Key Tactics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-perfecting-the-pathway-of-imovie-content-to-youtube/"><u>[New] Perfecting the Pathway of iMovie Content to YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-primer-on-using-azures-voice-to-text-service/"><u>[Updated] A Primer on Using Azure's Voice-to-Text Service</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-creating-a-unique-identity-in-the-flood-of-live-streams-for-2024/"><u>[Updated] Creating a Unique Identity in the Flood of Live Streams for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-playtime-fixing-stutter-and-lag-issues-in-the-latest-fallout-n-edition/"><u>Boost Your Playtime: Fixing Stutter & Lag Issues in the Latest Fallout N Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/checking-credentials-on-youtube/"><u>Checking Credentials on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-buttons-in-windows-a-comprehensive-guide/"><u>Fixing Sticky Keyboard Buttons in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-f54-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy F54 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-restoring-visibility-of-mouse-cursor-on-windows-11-systems/"><u>Guide: Restoring Visibility of Mouse Cursor on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-system-resources-not-enough-issues-on-your-device/"><u>How to Overcome 'System Resources Not Enough' Issues on Your Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-addressing-and-solving-nier-automata-pc-glitches/"><u>Resolved: Addressing and Solving Nier: Automata PC Glitches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-editing-removing-out-of-place-backgrounds/"><u>Seamless Editing Removing Out-of-Place Backgrounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-my-laptop-just-showing-a-white-screen-fixes-and-solutions-for-common-issues/"><u>Why Is My Laptop Just Showing a White Screen? Fixes and Solutions for Common Issues</u></a></li>
 </ul></div>
 

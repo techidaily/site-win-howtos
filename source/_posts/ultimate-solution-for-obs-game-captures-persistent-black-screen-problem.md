@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solution for OBS Game Capture's Persistent Black Screen Problem
-date: 2025-01-21T16:21:43.807Z
-updated: 2025-01-25T18:29:49.382Z
+date: 2025-02-10T17:55:47.856Z
+updated: 2025-02-16T20:31:51.147Z
 tags:
   - win11
   - win10
@@ -34,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -94,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `` Click **Yes**  when prompted by User Account Control.
@@ -127,11 +123,19 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -139,10 +143,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  3) Find and right-click on **Internet** **Explorer ETW Collector Service** . Then click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
 
@@ -163,7 +163,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -175,6 +175,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -193,10 +197,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,17 +225,17 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-streamline-your-storage-with-these-30-great-android-video-compressors/"><u>[New] In 2024, Streamline Your Storage with These 30 Great Android Video Compressors</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-revolutionizing-mobile-media-6-leading-video-apps-without-periscope/"><u>[Updated] 2024 Approved Revolutionizing Mobile Media 6 Leading Video Apps without Periscope</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-boosting-view-speed-for-instagram-media-content/"><u>2024 Approved Boosting View Speed for Instagram Media Content</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-conversion-guide-for-avi-media-to-web-ready-gif-in-filmora/"><u>2024 Approved Comprehensive Conversion Guide for AVI Media to Web-Ready GIF in Filmora</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/astro-a40-microphone-not-working-heres-how-to-fix-it/"><u>Astro A40 Microphone Not Working? Here's How to Fix It</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beating-isolation-harnessing-chatgpts-power/"><u>Beating Isolation: Harnessing ChatGPT's Power</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-steam-write-errors-an-easy-diy-fix-for-gamers-everywhere/"><u>Bypassing Steam Write Errors: An Easy DIY Fix for Gamers Everywhere</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-speaker-distortion-in-windows-117-easy-steps-inside/"><u>How to Solve Speaker Distortion in Windows 11/7 – Easy Steps Inside</u></a></li>
-<li><a href="https://games-able.techidaily.com/organizing-an-interactive-quiz-or-game-based-activity-that-reinforces-the-students-knowledge-of-periodic-trends-particularly-focabulary-related-to-reactivit91/"><u>Organizing an Interactive Quiz or Game-Based Activity that Reinforces the Students' Knowledge of Periodic Trends, Particularly Focabulary Related to Reactivity Series, and Allows Them to Apply This Information in a Fun and Competitive Environment.</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/sing-your-heart-out-at-the-holiday-gala-why-karaoke-cloud-pro-is-your-ultimate-party-solution/"><u>Sing Your Heart Out at the Holiday Gala - Why Karaoke Cloud Pro Is Your Ultimate Party Solution!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-non-responsive-mousepads-in-windows-versions-10-8-and-7/"><u>Solutions for Non-Responsive Mousepads in Windows Versions (10, 8, and 7)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/7-days-to-die-an-engaging-twist-on-the-zombie-genre-exploring-a-fresh-approach-to-survival-horror-games/"><u>'7 Days to Die': An Engaging Twist on the Zombie Genre, Exploring a Fresh Approach to Survival Horror Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-selecting-the-superior-cloud-storage-hub/"><u>[New] Selecting the Superior Cloud Storage Hub</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-picks-best-xbox-hdd-models-reviewed/"><u>[Updated] Top Picks Best Xbox HDD Models Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-freelancers-corner-yearly-best-free-text-files/"><u>2024 Approved Freelancers’ Corner Yearly Best FREE Text Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725286425384-winxvideo-ai/"><u>提高影片质量：如何利用WinXVideo AI技术获取最佳效果</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fix-for-non-responsive-volume-control-on-your-windows-11-pc-guide/"><u>DIY Fix for Non-Responsive Volume Control on Your Windows 11 PC [GUIDE]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y56-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo Y56 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-pc-restoration-step-by-step-guide-to-fix-the-windows-11-reset-error/"><u>Mastering PC Restoration: Step-by-Step Guide to Fix the Windows 11 Reset Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-windows-files-is-msda80dll-essential-for-smooth-operation/"><u>Navigating Windows Files: Is MSDA80.DLL Essential for Smooth Operation?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/siri-redefines-apples-search-game-is-it-time-for-an-ai-powered-evolution-insights/"><u>Siri Redefines Apple's Search Game - Is It Time For an AI-Powered Evolution? Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-update-error-0x800f0923-solutions-for-windows-11-users/"><u>Troubleshooting Update Error 0X800F0923: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-poco-x5-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Poco X5? | Dr.fone</u></a></li>
 </ul></div>
 

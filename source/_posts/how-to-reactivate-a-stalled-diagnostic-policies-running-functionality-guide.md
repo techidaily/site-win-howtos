@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate a Stalled Diagnostic Policies Running Functionality [Guide]
-date: 2024-08-19T07:52:27.333Z
-updated: 2024-08-20T07:52:27.333Z
+date: 2025-02-09T16:42:59.688Z
+updated: 2025-02-16T18:31:35.751Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  If you run into the **Astro A40** **mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 4. [**Update your audio driver**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -52,14 +60,15 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -69,26 +78,27 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
 This problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -103,16 +113,10 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Once you’ve updated the driver for your Astro A40 headset,**restart** your computer and check if the**Astro A40 mic not working** problem has been resolved.
@@ -136,8 +140,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +147,24 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-ecosystems-of-uav-innovations/"><u>[New] 2024 Approved Ecosystems of UAV Innovations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-screen-recorder-software-for-youtube-creators/"><u>[New] Top Screen Recorder Software For YouTube Creators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-crop-your-video-for-instagram/"><u>[Updated] 2024 Approved A Comprehensive Guide to Crop Your Video for Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-creating-seamless-split-screen-visuals-on-sierra-systems/"><u>[Updated] 2024 Approved Creating Seamless Split-Screen Visuals on Sierra Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-your-touchpad-scroll-function-fails-a-complete-guide/"><u>Effective Fixes When Your Touchpad Scroll Function Fails – A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209376293-expert-tips-and-tricks-easily-restoring-faulty-laptop-keys-on-hp-models/"><u>Expert Tips & Tricks - Easily Restoring Faulty Laptop Keys on HP Models</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-right-click-capabilities-in-windows-11-for-smooth-navigation/"><u>How to Restore Right-Click Capabilities in Windows 11 for Smooth Navigation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ative-naming-solutions-for-channels-for-2024/"><u>Innovative Naming Solutions for Channels for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/miniature-movie-dialogue-draft-for-2024/"><u>Miniature Movie Dialogue Draft for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-freezing-and-update-problems-solutions-inside/"><u>Overcoming Windows 10 Freezing and Update Problems - Solutions Inside!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pexels-101-finding-the-picture-of-your-dreams-for-2024/"><u>Pexels 101 Finding the Picture of Your Dreams for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-game-crashes-expert-fix-for-total-war-rome-remastered/"><u>Say Goodbye To Game Crashes – Expert Fix for Total War: Rome Remastered</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-iphone-messages-here-are-15plus-ways-to-restore-your-sms-alerts-and-ringtones/"><u>Silent iPhone Messages? Here Are 15+ Ways to Restore Your SMS Alerts and Ringtones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-of-repeated-data-verification-issues-cyclic-redundancy/"><u>Solving the Puzzle of Repeated Data Verification Issues (Cyclic Redundancy)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-repairing-your-oculus-headsets-technical-glitches/"><u>Step-by-Step Guide to Repairing Your Oculus Headset's Technical Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-microsoft-print-to-pdf-issues-on-windows-10-and-11/"><u>Step-by-Step Solutions for Microsoft Print to PDF Issues on Windows 10 and 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updating-facebook-video-coverage-with-ease/"><u>Updating Facebook Video Coverage with Ease</u></a></li>
+</ul></div>
 

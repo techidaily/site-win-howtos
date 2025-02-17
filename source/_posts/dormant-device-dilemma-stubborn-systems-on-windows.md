@@ -1,7 +1,7 @@
 ---
 title: "Dormant Device Dilemma: Stubborn Systems on Windows"
-date: 2025-01-31T11:28:48.743Z
-updated: 2025-02-06T21:10:21.395Z
+date: 2025-02-12T16:23:02.760Z
+updated: 2025-02-16T18:15:40.314Z
 tags:
   - win11
   - win10
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0dfaa5c648.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Double-click on**Keyboards** \>**your keyboard device** .  
@@ -53,16 +53,8 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e0e0c5d00.jpg)
 3. Click**Power Management** and check**the box** before**Allow this device to wake the computer** and then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e19bdf16d.png)
 4. Repeat this fix with your other keyboard devices
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Then expand the category**Mice and other pointing devices** , and repeat the same with all your mouse devices there, including your touchpad.
 6. If you have any Bluetooth devices, please repeat the same so they don’t turn your computer off.
@@ -82,20 +74,20 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Put your machine to sleep and wake it up again to check if the issue is resolved. If yes, then congrats! If the problem persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Turn off fast startup
 
@@ -111,12 +103,12 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure **the box** before **Turn on fast startup (Recommended)** is **unchecked** , then click **Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Check to see if the computer wakes up issue is solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Still no joy? Please move on to**Fix 4** , below.
 
@@ -130,13 +122,13 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/cmd123.jpg)  
  Click**Yes** when prompted with a**User Account Control** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Type **powercfg.exe /hibernate off && powercfg.exe /hibernate on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/power.png)
 3. Again, try to put your PC to sleep and wake it up to see if it functions properly. If yes, then you’ve resolved the issue! If it’s still not waking up, you should try**Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -146,22 +138,30 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e5db4f467.png)
 2. Click**the chosen power plan** and click**Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e616c565c.jpg)
 4. Double-click on**Sleep** , then set**Allow hybrid sleep** in**Off** and set**Allow wake timers** to**Enable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/computer-wake-up-1.png)
 5. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your computer, test on your machine again and see if it wakes up without fail.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
 
@@ -199,24 +199,24 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/mpeg-vob-movavi/"><u>忙しいときもスムーズなMPEG VOBオンライン変換 – 無料Movaviサービス</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/abbyy-unveils-breakthrough-in-legal-tech-pioneering-text-analytics-for-efficient-contract-management-at-premier-corporate-counsel-conference/"><u>ABBYY Unveils Breakthrough in Legal Tech: Pioneering Text Analytics for Efficient Contract Management at Premier Corporate Counsel Conference</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-5-2500u-latest-firmware-update-fast-and-simple-installation/"><u>AMD Ryzen 5 2500U Latest Firmware Update - Fast and Simple Installation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-everlasting-flash-tips-and-tricks-for-controlling-your-cursor/"><u>Beat The Everlasting Flash: Tips and Tricks for Controlling Your Cursor</u></a></li>
-<li><a href="https://fox-http.techidaily.com/enrich-your-art-through-6-premier-nft-platforms-for-2024/"><u>Enrich Your Art Through 6 Premier NFT Platforms for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-word-2023-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to Word 2023</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-for-err-too-many-redirects-easy-steps-inside/"><u>Quick Fix for ERR TOO MANY REDIRECTS – Easy Steps Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-repair-a-non-functioning-huion-stylus/"><u>Quick Solutions: How To Repair A Non-Functioning Huion Stylus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-of-windows-update-failure-error-0x80240017-unraveled/"><u>Solving the Puzzle of Windows Update Failure - Error 0X80240017 Unraveled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-based-minecraft-startup-problems-a-step-by-step-guide-solved/"><u>Solving Windows-Based Minecraft Startup Problems: A Step-by-Step Guide [SOLVED]</u></a></li>
-<li><a href="https://games-able.techidaily.com/switching-futures-the-year-2024-glimpse/"><u>Switching Futures - The Year 2024 Glimpse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-for-fixing-excessive-cpu-use-by-svchostexe-on-windows-11-systems/"><u>Top Solutions for Fixing Excessive CPU Use by svchost.exe on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fix-solve-no-pen-or-touch-controls-on-your-screen/"><u>Troubleshooting Fix: Solve 'No Pen or Touch Controls' On Your Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-reactivating-wireless-connectivity-on-devices/"><u>Troubleshooting Guide: Reactivating Wireless Connectivity on Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-d3d932dll-not-found-problem/"><u>Troubleshooting Steps for the d3d9_32.dll Not Found Problem</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ultimate-guide-to-sharper-meeting-experience-with-google/"><u>Ultimate Guide to Sharper Meeting Experience with Google</u></a></li>
-<li><a href="https://fox-info.techidaily.com/years-round-showcase-of-best-zero-toll-livestream-utilities-for-2024/"><u>Year's Round Showcase of Best Zero-Toll LiveStream Utilities for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-space-saver-strategies-pioneering-the-best-cloud-platforms-for-2024/"><u>[New] Space-Saver Strategies Pioneering the Best Cloud Platforms for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-easier-than-ever-top-9-uncomplicated-no-cost-video-tools-for-you/"><u>[Updated] Easier Than Ever Top 9 Uncomplicated, No-Cost Video Tools for You</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-ideas-into-engaging-youtube-video-plans/"><u>[Updated] Transforming Ideas Into Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1728504590471-windows-10/"><u>「在你的電腦上發現Windows 10中每張照片：一個完全指南」</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discord-voice-channels-now-responsive/"><u>Discord Voice Channels Now Responsive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-address-xerox-printing-software-update-issue-facing-error-0x800f020b-on-windows-pcs/"><u>Effective Solutions to Address Xerox Printing Software Update Issue – Facing Error 0X800F020B on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-fix-the-scroll-wheel-on-a-logitech-mouse-failure/"><u>Effective Solutions to Fix the Scroll Wheel on a Logitech Mouse Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-keyboard-responsiveness-on-your-windows-11-pc-a-comprehensive-guide-to-solving-latency-problems/"><u>Enhancing Keyboard Responsiveness on Your Windows 11 PC - A Comprehensive Guide to Solving Latency Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-focusrite-scarlett-2i2-windows-drivers-here-free/"><u>Get Your Focusrite Scarlett 2I2 Windows Drivers Here (Free!)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-smart-8-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Smart 8 Phone Screen?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-repair-windows-1011s-update-error-decode-and-fix-error-0x802errordescription-solutionkeyword/"><u>How to Successfully Repair Windows 10/11'S Update Error: Decode and Fix Error 0X802([error_description]) [Solution_keyword]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-google-pixel-fold-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Google Pixel Fold FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-stream-snipping-specialists-2023-version/"><u>In 2024, Stream Snipping Specialists, 2023 Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kernel32dll-fixes-and-tips-for-win/"><u>Kernel32.dll: Fixes and Tips for Win</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-11-bluetooth-connectivity-problems-with-these-simple-fixes/"><u>Resolve Your Windows 11 Bluetooth Connectivity Problems with These Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-fortnite-on-incompatible-windows-graphics-cards/"><u>Resolved: Fixing Fortnite on Incompatible Windows Graphics Cards</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sky-high-savings-on-storages-an-insider-look-at-free-and-premium-cloud-services-for-2024/"><u>Sky High Savings on Storages An Insider Look at Free & Premium Cloud Services for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-device-detection-issues-in-windows-11-via-bluetooth/"><u>Troubleshooting Guide: Resolving Device Detection Issues in Windows 11 via Bluetooth</u></a></li>
 </ul></div>
 

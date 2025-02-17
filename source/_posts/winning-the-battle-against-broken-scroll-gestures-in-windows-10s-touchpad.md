@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Broken Scroll Gestures in Windows 10'S Touchpad
-date: 2024-08-19T07:51:27.455Z
-updated: 2024-08-20T07:51:27.455Z
+date: 2025-02-12T00:03:22.301Z
+updated: 2025-02-16T16:14:06.918Z
 tags:
   - win11
   - win10
@@ -54,17 +54,15 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
 
 1) On your keyboard, press **the**   **Windows logo key**  and**R** at the same time , then copy & paste **taskschd.msc** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
@@ -77,40 +75,32 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  5) Click the**Triggers** tab >**New…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
 
  Note that**Fix 3** is about to turn off your**Windows Defender** program which might leave your computer at the mercy of virus and malware attacks. Please proceed with caution.
@@ -123,15 +113,31 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Restart your computer and see if your computer runs normally now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Want us to fix the problem for you?
 
@@ -147,8 +153,6 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +160,22 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-lecture-audio-recording-techniques-for-mac-users/"><u>[New] Lecture Audio Recording Techniques for Mac Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-edible-media-recipe-tutorials/"><u>[New] The Art of Edible Media Recipe Tutorials</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-frugal-footballers-guide-to-live-footage-filming/"><u>[Updated] The Frugal Footballer's Guide to Live Footage Filming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-ultimate-guide-boosting-efficiency-with-proven-productivity-hacks-for-your-everyday-tasks-insights-from-zdnet/"><u>1. Ultimate Guide: Boosting Efficiency with Proven Productivity Hacks for Your Everyday Tasks - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-correctly-resolving-the-system-exception-handler-problem-error-0xc0n00000e9/"><u>Expert Tips: Correctly Resolving the System Exception Handler Problem (Error 0xC0n00000E9)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-0xc000007b-when-apps-fail-to-start-properly-solutions-inside/"><u>How to Fix Error 0xC000007B When Apps Fail to Start Properly - Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-infinite-loading-in-the-elder-scrolls-v-skyrim/"><u>How to Overcome Infinite Loading in The Elder Scrolls V: Skyrim</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/master-your-clips-with-these-premium-free-audiosite-lists/"><u>Master Your Clips with These Premium, Free Audiosite Lists</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-snapchat-for-twitter-vids-distribution-for-2024/"><u>Navigating Snapchat for Twitter Vids Distribution for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fix-updating-drivers-for-your-hp-envy-20-a-step-by-step-tutorial/"><u>Quick Fix: Updating Drivers for Your HP Envy 20 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-cannot-reach-remote-server-a-step-by-step-fix-guide/"><u>Resolving 'Cannot Reach Remote Server': A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-a-non-functional-ps4-mic-top-strategies-for-fans/"><u>Solving the Mystery of a Non-Functional PS4 Mic: Top Strategies for Fans</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-cs-go-game-crashes-fast-and-simple-troubleshooting-tips/"><u>Solving Your CS: GO Game Crashes - Fast and Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-picks-eight-fantastic-games-on-google-play-pass/"><u>The Ultimate Picks: Eight Fantastic Games on Google Play Pass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-camera-issues-on-surface-pro-4-with-windows-11/"><u>Troubleshooting Steps: Fixing Camera Issues on Surface Pro 4 with Windows 11</u></a></li>
+</ul></div>
 

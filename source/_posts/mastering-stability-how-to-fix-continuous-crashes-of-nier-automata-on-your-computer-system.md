@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: How to Fix Continuous Crashes of Nier Automata on Your Computer System"
-date: 2024-08-23T14:01:04.060Z
-updated: 2024-08-24T14:01:04.060Z
+date: 2025-02-15T00:31:52.361Z
+updated: 2025-02-16T17:44:37.659Z
 tags:
   - win11
   - win10
@@ -64,8 +64,9 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -74,9 +75,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -93,6 +91,11 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
 
@@ -106,6 +109,11 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer, and see if the problem is fixed or not.
 
 #### B. Reinstall the previous driver
@@ -116,18 +124,12 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
  Fix Automata Resolution (FAR) is developed by Nier Automata. By manipulating the graphics requirements of the game, users with lower specs can play the game. But FAR can be the reason for the Nier Automata crashing problem.
@@ -136,6 +138,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -143,17 +149,15 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,8 +171,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +178,22 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-foundational-guide-to-navigating-zoom-meetings/"><u>[New] In 2024, The Foundational Guide to Navigating Zoom Meetings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-strategic-approach-to-increase-likes-on-your-tiktok-video-content-for-2024/"><u>A Strategic Approach to Increase 'Likes' On Your TikTok Video Content for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-hot-40-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Hot 40 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-handling-fatal-dxgkrnl-errors-during-video-streaming-in-windows/"><u>Effective Fixes for Handling Fatal Dxgkrnl Errors During Video Streaming in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-and-tricks-for-correcting-device-driver-missing-mishaps-during-windows-7-install/"><u>Essential Tips & Tricks for Correcting 'Device Driver Missing' Mishaps During Windows 7 Install</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-microphone-in-windows-10-step-by-step-guide/"><u>Fixing a Non-Functional Microphone in Windows 10: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/flight-paths-revealed-full-review-of-dji-phantom-4/"><u>Flight Paths Revealed Full Review of DJI Phantom 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-resolving-issues-when-night-light-function-fails-in-windows-os/"><u>Guide: Resolving Issues When Night Light Function Fails in Windows OS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-tips-creating-engaging-youtube-video-intros-for-2024/"><u>IMovie Tips Creating Engaging YouTube Video Intros for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>In 2024, Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-assistance-correcting-game-configuration-problems-for-optimal-performance/"><u>Origin Assistance: Correcting Game Configuration Problems for Optimal Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/plant-pals-playlist-the-best-agrigames-for-friends-for-2024/"><u>Plant Pals' Playlist The Best AgriGames for Friends for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/the-ultimate-guide-to-eliminating-repetitive-photographs-for-android-users-with-2-premium-yet-cost-free-solutions/"><u>The Ultimate Guide to Eliminating Repetitive Photographs for Android Users with 2 Premium Yet Cost-Free Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-8-solutions-to-overcome-windows-10-error-code-0x800f0922-during-updates/"><u>Top 8 Solutions to Overcome Windows 10 Error Code 0X800F0922 During Updates</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-complimentary-digital-assets-for-creative-makers-updated-list-massmail/"><u>Top Complimentary Digital Assets for Creative Makers - Updated List | MassMail</u></a></li>
+</ul></div>
 

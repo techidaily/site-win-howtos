@@ -1,7 +1,7 @@
 ---
 title: "Solving the ERR_CACHE_MISS Dilemma on Your Chrome Browser: A Step-by-Step Guide"
-date: 2025-02-04T04:19:00.488Z
-updated: 2025-02-07T14:56:06.554Z
+date: 2025-02-10T20:06:36.542Z
+updated: 2025-02-17T01:09:04.154Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -49,13 +45,25 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -70,16 +78,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -95,23 +103,15 @@ To do so:
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
@@ -150,22 +150,17 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-elevate-your-streaming-experience-six-insightful-quizzes-for-fandom-enthusiasts/"><u>[New] In 2024, Elevate Your Streaming Experience Six Insightful Quizzes for Fandom Enthusiasts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-shake-the-sound-mobile-beats-best-ripplers/"><u>[New] Shake the Sound Mobile Beats' Best Ripplers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-converting-srt-into-sub-quick-effective-ways/"><u>[Updated] Converting SRT Into SUB Quick, Effective Ways</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimal-tag-selection-elevate-your-videos-online-presence/"><u>[Updated] Optimal Tag Selection Elevate Your Video's Online Presence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/avoid-annoying-no-id-calls-with-these-easy-steps-on-your-iphone/"><u>Avoid Annoying No-ID Calls with These Easy Steps on Your iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-guide-troubleshooting-and-repairing-your-malfunctioning-xbox-one-controller/"><u>Complete Guide: Troubleshooting and Repairing Your Malfunctioning Xbox One Controller</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/easy-steps-to-alter-story-video-playback-speed/"><u>Easy Steps to Alter Story Video Playback Speed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-skyrims-eternal-launch-screen-bug-for-smooth-gaming-experience/"><u>How to Resolve Skyrim’s Eternal Launch Screen Bug for Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-backspace-key-isnt-functioning-correctly/"><u>How to Resolve When Your Backspace Key Isn't Functioning Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-missing-desktop-icons-on-windows-11-solutions/"><u>How to Restore Missing Desktop Icons on Windows 11 - Solutions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-x-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone X</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-damaged-registry-entries-in-windows-10-and-11-a-step-by-step-guide/"><u>Repairing Damaged Registry Entries in Windows 10 & 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-problem-of-broken-touchpad-gestures-and-scrolls/"><u>Resolving the Problem of Broken Touchpad Gestures and Scrolls</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/solve-video-issues-in-facebook-chat-on-iosandroid-devices-for-2024/"><u>Solve Video Issues in Facebook Chat on iOS/Android Devices for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-nplus1-access-denied-when-listing-items-inside-containers-issue-easy-steps-and-tips/"><u>Solving Windows N+1: Access Denied When Listing Items Inside Containers Issue - Easy Steps and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-issues-when-the-function-keys-arent-responding/"><u>Troubleshooting Steps: Resolving Issues When The Function Keys Aren't Responding</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/zoom-room-basics-for-newbies-for-2024/"><u>Zoom Room Basics for Newbies for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-voice-transformation-on-the-move-best-audio-modification-tools-for-smartphones-for-2024/"><u>[New] Voice Transformation on the Move Best Audio Modification Tools for Smartphones for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-earnings-via-sponsored-youtube-videos/"><u>2024 Approved Mastering Earnings via Sponsored YouTube Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-spark-20-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Spark 20 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-fix-amd-catalyst-control-center-cannot-be-started/"><u>Easy to Fix AMD Catalyst Control Center Cannot Be Started</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-stories-a-diy-approach-to-musicizing-your-instagram-clips/"><u>Enhance Your Stories: A DIY Approach to Musicizing Your Instagram Clips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-the-minecraft-wont-start-error-in-windows-computers/"><u>Expert Advice: Fixing the 'Minecraft Won't Start' Error in Windows Computers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-edge-40-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Edge 40 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-missing-power-sources-in-electronics-easy-tips/"><u>Solving the Mystery of Missing Power Sources in Electronics: Easy Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-non-receipt-of-email-in-yahoo/"><u>Step-by-Step Guide: Resolving Non-Receipt of Email in Yahoo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-excessive-sound-on-your-ps4-console-troubleshooting-steps/"><u>Tackling Excessive Sound on Your PS4 Console: Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolution-for-elevated-cpu-drain-by-microsofts-msmpeng-process-on-windows-10/"><u>Troubleshooting and Resolution for Elevated CPU Drain by Microsoft's MsMpEng Process on Windows 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unbeatable-durability-of-sunbriteveranda-55-inch-4k-veranda-tv-for-ultimate-outdoor-viewing/"><u>Unbeatable Durability of SunBriteVeranda 55 Inch 4K Veranda TV for Ultimate Outdoor Viewing</u></a></li>
 </ul></div>
 

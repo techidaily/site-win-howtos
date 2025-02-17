@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix 'Can't Cast to Device' Issue on Windows 10"
-date: 2025-02-03T21:01:57.741Z
-updated: 2025-02-07T10:36:47.831Z
+date: 2025-02-13T16:00:54.069Z
+updated: 2025-02-16T18:22:58.417Z
 tags:
   - win11
   - win10
@@ -38,11 +38,19 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -53,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -102,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -113,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -120,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -136,6 +144,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
@@ -146,10 +158,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
  2) Click **System** .
@@ -157,10 +165,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -172,10 +176,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -183,6 +183,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -193,10 +197,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,18 +225,19 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-tips-for-turning-off-automatic-podcast-adds-on-spotify-for-2024/"><u>[New] Tips for Turning Off Automatic Podcast Adds on Spotify for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-firefox-secerrorunknownissuer-easily/"><u>[Solved] Firefox SEC_ERROR_UNKNOWN_ISSUER | Easily</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-screen-recorder-apps-for-iphoneipad-users/"><u>[Updated] 2024 Approved Screen Recorder Apps for iPhone/iPad Users</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-mobile-marvels-the-leading-arvr-app-picks/"><u>[Updated] Mobile Marvels The Leading AR/VR App Picks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-no-more-latency-choose-av1-for-youtube-playback-for-2024/"><u>[Updated] No More Latency Choose AV1 for YouTube Playback for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-expert-insights-where-to-invest-in-youtube-creator-revenue/"><u>2024 Approved Expert Insights Where to Invest in YouTube Creator Revenue</u></a></li>
-<li><a href="https://extra-information.techidaily.com/convert-songs-to-calls-essential-websites-for-youtubetones-extraction-for-2024/"><u>Convert Songs to Calls Essential Websites for YoutubeTones Extraction for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/cutting-edge-techniques-for-creating-videos-on-windows-10/"><u>Cutting-Edge Techniques for Creating Videos on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-facing-werfaultexe-errors-on-your-pc/"><u>Easy Fixes for Facing werFault.exe Errors on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212414297-forgotten-sd-card-reclaim-detection-with-ease/"><u>Forgotten SD Card? Reclaim Detection with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-display-connectivity-problems-aoc-usb-monitors-and-windows-11-solutions/"><u>Resolving Display Connectivity Problems: AOC USB Monitors and Windows 11 Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-windows-11s-non-working-night-light-mode/"><u>Troubleshooting Guide: How to Repair Windows 11'S Non-Working Night Light Mode</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-the-problem-of-non-responsive-boot-sequence/"><u>Understanding and Solving the Problem of Non-Responsive Boot Sequence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-jest-jar-your-best-free-meme-source/"><u>[New] In 2024, Jest Jar Your Best Free Meme Source</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smooth-file-migration-to-computer-5-proven-techniques/"><u>2024 Approved Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/android-and-iphone-collage-kings-the-best-montage-apps/"><u>Android & iPhone Collage Kings The Best Montage Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-rpc-connectivity-problems-on-windows-machines/"><u>Effective Solutions for Overcoming RPC Connectivity Problems on Windows Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-resolving-airpod-connection-issues-with-windows-pcs/"><u>Effective Strategies for Resolving AirPod Connection Issues with Windows PCs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-excellent-connectivity-with-the-simplistic-design-of-clearstreams-eclipse-antenna-a-comprehensive-review/"><u>Experience Excellent Connectivity with the Simplistic Design of ClearStream's Eclipse Antenna - A Comprehensive Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-scroll-failures-on-your-windows-11-touchpad/"><u>Expert Tips to Overcome Scroll Failures on Your Windows 11 Touchpad</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-90-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor 90 Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-leftright-shift-key-issues-expert-advice-and-fixes/"><u>Overcoming Left/Right Shift Key Issues: Expert Advice and Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/scrolling-malfunctions-on-touchpad-heres-how-to-resolve-the-problem/"><u>Scrolling Malfunctions on Touchpad? Here's How to Resolve the Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotting-deception-why-real-chatgpt-doesnt-have-a-windows-client-its-malware/"><u>Spotting Deception: Why Real ChatGPT Doesn't Have a Windows Client (It's Malware!)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-huion-stylus-5-effective-methods-to-restore-functionality/"><u>Troubleshooting Your Huion Stylus: 5 Effective Methods to Restore Functionality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/update-your-research-plan/"><u>Update Your Research Plan</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated Best Video Translator App for PC You Cannot Miss</u></a></li>
 </ul></div>
 

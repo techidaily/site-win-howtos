@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Unfreeze and Restart Your Laptop Efficiently
-date: 2025-02-02T05:05:00.008Z
-updated: 2025-02-07T08:39:05.983Z
+date: 2025-02-15T19:32:12.352Z
+updated: 2025-02-16T17:40:32.580Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -48,7 +52,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -71,13 +75,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -103,19 +107,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -125,6 +121,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -138,6 +138,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,21 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://app-tips.techidaily.com/company-names-revolutionary-ai-for-sustainable-smart-appliances-spotlight-on-zdnet-review/"><u>[Company Name]'s Revolutionary AI for Sustainable Smart Appliances: Spotlight on ZDNET Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-comparing-huawei-p10-with-industry-standards-of-smartphones/"><u>[New] Comparing Huawei P10 with Industry Standards of Smartphones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quintessential-quests-and-thrills-top-10-games/"><u>[Updated] 2024 Approved Quintessential Quests & Thrills – Top 10 Games</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-dream-houses-in-minecraft-top-6-ideas/"><u>2024 Approved Dream Houses in Minecraft Top 6 Ideas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-muse-8-aids-from-gpt-to-content-makers/"><u>Artificial Muse: 8 Aids From GPT to Content Makers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-win10-file-explorer-lag-proven-fixes-for-improved-performance/"><u>Beat Win10 File Explorer Lag: Proven Fixes for Improved Performance</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-itel-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Itel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-fix-keyboard-issues-on-your-hp-laptop-troubleshooting-steps-inside/"><u>Effortlessly Fix Keyboard Issues on Your HP Laptop – Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-event-141-hardware-mishaps-effectively/"><u>Fixing Event 141 Hardware Mishaps Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-restoring-right-click-functionality-on-a-windows-11-system/"><u>Guide: Restoring Right-Click Functionality on a Windows 11 System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-get-verified-on-instagram/"><u>How to Get Verified on Instagram</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-initializing-error-in-destiny-2-a-complete-guide/"><u>How to Resolve the Persistent 'Initializing' Error in Destiny 2 - A Complete Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-10-update-issues-fixes-for-stuck-or-non-upgrading-systems/"><u>Resolve Your Windows 10 Update Issues: Fixes for Stuck or Non-Upgrading Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-the-stopped-audio-service-in-windows-7/"><u>Troubleshooting & Solutions for the Stopped Audio Service in Windows 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-cellular-connectivity-problems-after-ios-1721-upgrade-insights-by-zdnet/"><u>Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-best-tools-to-create-stunning-igtv-video-edits/"><u>[New] Best Tools to Create Stunning IGTV Video Edits</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-rights-and-recourse-following-sudden-account-suspension-on-fb/"><u>[New] In 2024, Rights and Recourse Following Sudden Account Suspension on FB</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming/"><u>[Updated] 2024 Approved Mastering Live Broadcasts Your Step-by-Step Guide to Discord Streaming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-foremost-websites-accelerating-youtube-traffic-for-2024/"><u>[Updated] Foremost Websites Accelerating YouTube Traffic for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cool-climates-with-a-warm-twist-selecting-video-bgs/"><u>[Updated] In 2024, Cool Climates with a Warm Twist Selecting Video Bg's</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlock-the-secrets-of-finding-high-quality-instagram-tones-and-crafting-perfect-chimes/"><u>2024 Approved Unlock the Secrets of Finding High-Quality Instagram Tones and Crafting Perfect Chimes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/angled-artistry-a-guide-for-social-media-users-to-spin-their-photos-on-the-fly-for-2024/"><u>Angled Artistry A Guide for Social Media Users to Spin Their Photos on the Fly for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-when-your-windows-10-mouse-ignores-the-right-click/"><u>Comprehensive Fixes for When Your Windows 10 Mouse Ignores the Right Click</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-counter-strike-2-crashing-problems-on-your-computer/"><u>How to Resolve Counter-Strike 2 Crashing Problems on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-network-hurdles-corrective-measures-for-error-0x800704cf-in-windows/"><u>Overcoming Network Hurdles: Corrective Measures for Error 0X800704CF in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-laptop-stuck-at-0-is-it-truly-plugged-in-and-why/"><u>Surface Laptop Stuck at 0% - Is It Truly Plugged in and Why?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveled-addressing-the-write-failure-in-referenced-memory-location-x/"><u>Unraveled: Addressing the Write Failure in Referenced Memory Location X</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-hub-for-newbies-in-cinematic-craftsmanship/"><u>YouTube Hub for Newbies in Cinematic Craftsmanship</u></a></li>
 </ul></div>
 

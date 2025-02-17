@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving the Win32 Exception Error (Code 0xC0000098) in Windows"
-date: 2024-08-19T07:49:34.031Z
-updated: 2024-08-20T07:49:34.031Z
+date: 2025-02-09T22:47:26.996Z
+updated: 2025-02-16T17:34:36.363Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![fix Dota 2 Change Rendering API error](https://images.drivereasy.com/wp-content/uploads/2020/10/image-1-1200x269.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dota 2 Change Rendering API error
 
  Before running the game, you can use the Game Launch Options feature on Steam to change game settings. Launch options allow the user to supersede the internal settings of the game. This is an effective means to recover from incompatible video settings and well as troubleshoot a wide range of issues. So in order to get rid of the error message, you should set a launch option specifically for Dota 2\. Here’s how you can do this:
@@ -31,13 +35,25 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/set-launch-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**\-dx11** and then click**OK** .
 
 ![change launch options for Dota 2 to fix the error Change Rendering API](https://images.drivereasy.com/wp-content/uploads/2020/10/dx11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’s recommended to run your game on**dx11** . But some older hardware doesn’t support dx11 so you would run it on**dx9** . You can simply type**\-dx9** instead of -dx11.
 
  4) Close your game’s **Properties** window and your problem should be solved. Till then launch your game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -61,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 * [Dota 2](/tag-search/?tagId=48291)
@@ -71,8 +91,6 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,8 +98,23 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-uncovering-the-webs-leading-marketplaces-for-ringtones/"><u>[New] Uncovering the Web's Leading Marketplaces for Ringtones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-visual-virtuosity-the-best-sites-and-apps-for-frames-on-photos-for-2024/"><u>[New] Visual Virtuosity The Best Sites & Apps for Frames on Photos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-video-capture-systems-for-online-streaming/"><u>2024 Approved Premier Video Capture Systems for Online Streaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-troubleshooting-restoring-device-recognition-capabilities-on-windows-nt/"><u>Bluetooth Troubleshooting: Restoring Device Recognition Capabilities on Windows nT</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-typing-speed-mastering-windows-powertools/"><u>Enhance Typing Speed: Mastering Windows' PowerTools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-moto-g84-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Moto G84 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-a-bad-image-error-on-your-windows-11windows-10-device/"><u>How to Correct a Bad Image Error on Your Windows 11/Windows 10 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-high-disk-usage-caused-by-microsoft-compatibility-telemetry-on-windows-10-computers/"><u>How to Fix High Disk Usage Caused by Microsoft Compatibility Telemetry on Windows 10 Computers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-6sipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 6s/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-infographic-spotlight-on-emerging-23-trends/"><u>In 2024, Infographic Spotlight on Emerging '23 Trends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-solution-overcoming-initializing-delays-in-destiny-2-gaming-experience/"><u>Master the Solution: Overcoming 'Initializing' Delays in Destiny 2 Gaming Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/paradox-launcher-trouble-heres-how-you-can-make-it-work-again/"><u>Paradox Launcher Trouble? Here's How You Can Make It Work Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10s-update-mishap-error-0xc19n0208-solution-explained/"><u>Resolving Windows 10'S Update Mishap - Error 0Xc19n0208 Solution Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-repair-tips-for-resolving-stubborn-usb-port-issues-effectively/"><u>Seamless Repair Tips for Resolving Stubborn USB Port Issues Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-effective-solutions-for-persistent-mouse-disconnection-issues/"><u>Solving the Dilemma: Effective Solutions for Persistent Mouse Disconnection Issues</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->

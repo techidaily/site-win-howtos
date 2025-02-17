@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing Computer Unable to Power Off in Windows 10 - SOLUTION"
-date: 2024-08-19T07:55:50.662Z
-updated: 2024-08-20T07:55:50.662Z
+date: 2025-02-10T16:13:41.392Z
+updated: 2025-02-16T23:07:03.459Z
 tags:
   - win11
   - win10
@@ -33,11 +33,19 @@ Receive ERROR notice when playing CoD: WWII? Call of Duty World War 2 is one of 
 * [System requirements for PC players](https://tools.techidaily.com/drivereasy/download/)
 * [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart the device
 
  This fix sounds cliche but worth trying. Reboot your device could make things different. We suggest everyone try this first before any technical and complex fix.
 
 If the issue is still there, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Log on Zombie first
 
@@ -51,8 +59,9 @@ If the issue is still there, move to the next fix.
 You should be able to play multiplayer mode.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Check the connection
 
  You can only play COD: WW 2 with stable and constant internet. So check your connection from the console and try reconnecting to Xbox live. This bug could be related to the internet connection.
@@ -79,8 +88,9 @@ Use a wired connection if you’re a PC player.
 3. In the right-hand column, select **Test network connection** , and allow the test to run.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall the game
 
  Uninstall the game and reinstall it could simply rewrite data files. The error code may be fixed by this fix.
@@ -93,9 +103,9 @@ Use a wired connection if you’re a PC player.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## System requirements for PC players
 
 #### Minimum requirements
@@ -134,15 +144,6 @@ Use a wired connection if you’re a PC player.
 | **HDD**              | 175GB                             |
 | **Memory**           | 16 GB RAM                         |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Update your driver
 
  It is very important to update your drivers, especially for gamers. To geta a better gaming experience, your device driver should be upgraded to the latest version. This can prevent your computer from potential problems.
@@ -161,15 +162,9 @@ Use a wired connection if you’re a PC player.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -184,8 +179,6 @@ Use a wired connection if you’re a PC player.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +186,24 @@ Use a wired connection if you’re a PC player.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-master-classroom-titling-software/"><u>[New] 2024 Approved Master Classroom Titling Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-improve-airdrop-speed-and-connectivity-on-apple-devices/"><u>[New] How To Improve Airdrop Speed & Connectivity on Apple Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206025152-solved-crash-the-high-cpu-usage-of-your-system-with-these-tricks-no-matter-if-you-are-using-windows-10linux/"><u>[Solved] Crash the High CPU Usage of Your System with These Tricks, No Matter if You Are Using Windows 10/Linux.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-user-friendly-walkthrough-seamless-driver-rejuvenation-for-your-dell-g7s-gpu/"><u>A User-Friendly Walkthrough: Seamless Driver Rejuvenation for Your Dell G7's GPU</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-windows-11s-constant-cycling-easy-repair-tips-for-persistent-shutdown-problems/"><u>Beat Windows 11'S Constant Cycling - Easy Repair Tips for Persistent Shutdown Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhance-windows-7-launch-speed-top-solutions-to-combat-delays/"><u>Enhance Windows 7 Launch Speed: Top Solutions to Combat Delays!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-eliminate-youtube-short-headaches-with-these-tips/"><u>In 2024, Eliminate YouTube Short Headaches with These Tips</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-unresponsive-right-clicks-in-windows-11/"><u>Resolving the Issue of Unresponsive Right Clicks in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-power-of-a-lazy-logitech-mouse/"><u>Reviving the Power of a Lazy Logitech Mouse</u></a></li>
+<li><a href="https://windows11.techidaily.com/smooth-operations-at-low-cost-leverage-w11-pro-key/"><u>Smooth Operations at Low Cost: Leverage W11 Pro Key</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728468436396-ssd/"><u>SSD セルフバックアップで重要データ保護ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-microsoft-widi-adapter-connection-failures-on-windows-11-systems/"><u>Step-by-Step Fix: Microsoft WiDi Adapter Connection Failures on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-d3derr-not-available-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting 'D3DERR Not Available' Errors on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-ensuring-smooth-device-integration-post-windows-11-update/"><u>Step-by-Step Guide: Ensuring Smooth Device Integration Post Windows 11 Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-installation-of-new-drivers-for-your-hp-elitebook-840-g3-laptop/"><u>Step-by-Step Installation of New Drivers for Your HP Elitebook 840 G3 Laptop</u></a></li>
+</ul></div>
 

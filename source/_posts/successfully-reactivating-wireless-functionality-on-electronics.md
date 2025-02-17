@@ -1,7 +1,7 @@
 ---
 title: Successfully Reactivating Wireless Functionality on Electronics
-date: 2025-02-04T14:42:50.376Z
-updated: 2025-02-07T08:17:27.436Z
+date: 2025-02-10T01:36:57.180Z
+updated: 2025-02-16T18:09:28.223Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these steps
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,11 +37,19 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 3. [**Check your power management settings**](#s3)
 4. [**Update your USB driver**](#s4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Use a different USB port
 
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
 
 If all your USB ports aren’t working, try Step 2, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
@@ -61,11 +73,7 @@ If all your USB ports aren’t working, try Step 2, below.
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
@@ -73,19 +81,11 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
@@ -108,12 +108,12 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -136,24 +136,24 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-dissecting-the-financial-lifeblood-of-tseries-via-youtube-engagement/"><u>[New] In 2024, Dissecting the Financial Lifeblood of TSeries via YouTube Engagement</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-full-vision-media-the-smart-mcn-selection-process/"><u>[New] In 2024, Full Vision Media The Smart MCN Selection Process</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-vocal-change-software/"><u>[New] In 2024, The Ultimate Guide to Choosing Vocal Change Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-user-engagement-how-to-use-youtube-tags-effectively/"><u>[Updated] In 2024, Enhancing User Engagement How to Use YouTube Tags Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-look-at-wirecast-plus-comparables/"><u>[Updated] In-Depth Look at WireCast + Comparables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/discovering-hidden-patterns-in-data-usage-through-windows-diskusage-command/"><u>Discovering Hidden Patterns in Data Usage Through Windows' DiskUsage Command</u></a></li>
-<li><a href="https://win11.techidaily.com/ending-operation-failures-address-code-0x000-written-by-user2295431/"><u>Ending Operation Failures: Address Code 0X000 Written by User2295431</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-shift-key-a-comprehensive-guide/"><u>Fixing a Non-Responsive Shift Key: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-keyboards-arrow-keys-working-again-with-these-proven-tips/"><u>Get Your Keyboard's Arrow Keys Working Again with These Proven Tips</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-fix-a-non-responsive-computer-mouse-tips-from-yl-computings-expert-team-at-yl-software/"><u>How to Fix a Non-Responsive Computer Mouse: Tips From YL Computing's Expert Team at YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-windows-error-code-absolutely-31-a-users-handbook/"><u>Mastering Fixes for Windows Error Code Absolutely 31 – A User's Handbook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximizing-social-media-roi-with-judicious-facebook-hash-usage-for-2024/"><u>Maximizing Social Media ROI with Judicious Facebook Hash Usage for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimize-your-gameplay-with-accelerated-league-of-legends-download-speeds/"><u>Optimize Your Gameplay with Accelerated League of Legends Download Speeds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-kernel-power-hurdle-addressing-windows-error-code-0xc00pressure-to-ensure-a-healthy-environment/"><u>Overcoming the 'Kernel Power' Hurdle: Addressing Windows Error Code 0xC00pressure to Ensure a Healthy Environment.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-a-speedy-shutdown-on-your-windows-10-pc/"><u>Quick Solutions for a Speedy Shutdown on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-incompatible-device-driver-error-in-world-of-warcraft/"><u>Resolved: Incompatible Device Driver Error in World of Warcraft</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-a-compromised-windows-store-cache-issue/"><u>Resolved: Troubleshooting a Compromised Windows Store Cache Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-how-to-repair-a-broken-dell-laptop-keys/"><u>Step-by-Step Guide: How to Repair a Broken Dell Laptop Keys</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-6-nft-platforms-unlocking-creativity-for-artists/"><u>Top 6 NFT Platforms Unlocking Creativity for Artists</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-internal-device-recorder-to-capture-screens-on-mate-1020-and-p-series-phones-p2010-for-2024/"><u>[New] Internal Device Recorder to Capture Screens on Mate 10/20 & P Series Phones (P20/10) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-winter-showcase-peak-performances-from-beijing-2022/"><u>[Updated] 2024 Approved Winter Showcase Peak Performances From Beijing 2022</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adding-youtube-captionssubtitles-made-simple-and-fast/"><u>[Updated] In 2024, Adding YouTube Captions/Subtitles Made Simple and Fast</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-digital-screen-capture-techniques/"><u>[Updated] Mastering Digital Screen Capture Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-ryzen-video-card-driver-software-download-guide/"><u>AMD Ryzen Video Card Driver Software Download Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-crash-gameplay-of-oddworld-soulstorm-on-pc-issues-resolved/"><u>Beat the Crash Gameplay of Oddworld: Soulstorm on PC [Issues Resolved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-msdia80dll-why-its-essential-and-how-to-handle-it/"><u>Deciphering msdia80.dll: Why It's Essential and How to Handle It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-nonfunctional-lenovo-mousepads-on-windows-operating-systems/"><u>Effective Fixes for Nonfunctional Lenovo Mousepads on Windows Operating Systems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/elevate-your-content-with-jujutsu-kaisen-on-tiktok/"><u>Elevate Your Content with Jujutsu Kaisen on TikTok</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-sluggish-typing-experience-fix-keyboard-latency-in-windows-10/"><u>Eliminate Sluggish Typing Experience: Fix Keyboard Latency in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-cwindowssystemprofiledesktop-not-available-error/"><u>How to Overcome the C: Windows SystemProfile Desktop Not Available Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a05s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A05s without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-steady-shot-enhancer-for-traveling-filmmakers/"><u>In 2024, Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-lowering-dwms-impact-on-gpu-in-windows-11-through-five-key-tips/"><u>Mastering the Art of Lowering DWM's Impact on GPU in Windows 11 Through Five Key Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-interruptions-ultimate-guide-to-stop-buffering-in-kodi/"><u>No More Interruptions: Ultimate Guide to Stop Buffering in Kodi</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-enabling-ultra-hd-streaming-of-netflix-content-on-your-mac/"><u>Step-by-Step Guide: Enabling Ultra HD Streaming of Netflix Content on Your Mac</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-tutorial-how-to-safely-erase-windowsapps-folder-on-windows-11-pcs/"><u>Step-by-Step Tutorial: How to Safely Erase WindowsApps Folder on Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-to-stop-screen-tearing-while-playing-valorant/"><u>Troubleshooting and Fixes to Stop Screen Tearing While Playing VALORANT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-windows-update-error-0x80240017-a-comprehensive-fix/"><u>Winning the Battle Against Windows Update Error 0X80240017: A Comprehensive Fix</u></a></li>
 </ul></div>
 

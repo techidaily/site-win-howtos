@@ -1,7 +1,7 @@
 ---
 title: Efficient Fixes for Non-Responsive Lenovo Control Buttons
-date: 2024-08-19T07:50:58.766Z
-updated: 2024-08-20T07:50:58.766Z
+date: 2025-02-10T18:43:37.268Z
+updated: 2025-02-16T22:23:49.325Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 **Does your USB mouse stop work?** You must be very frustrated. Don’t worry. You’re not alone; Many users are struggling with the mouse not working problem on their laptop. What’s more important is that you can fix it easily.
 
  In this post, we’ll show you some easy and effective solutions to fix the USB mouse not working problem on your Windows laptop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cause of USB Mouse Not Working
 
@@ -36,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 4. [Update your mouse driver](#fix4)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware damage
 
  The very first thing is to check if there’s anything cracked or missing. Check the surface of your mouse carefully and also clean it while you’re doing so.
@@ -46,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
  If you’re sure it’s caused by hardware damage, it’s time for a total replacement, rather than having them repaired, given their relatively low prices.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Replug your USB cable or USB reciever
 
  If you’re using a wired mouse or a wireless USB mouse, when it’s not working, the first thing you can do is to check if your mouse is connected correctly to your laptop. You can try to plug your USB cable or USB receiver into the same USB port or a different one to check if it works.
@@ -57,19 +59,21 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8efba92bc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2) Wait for 1-3 minutes.
 
 3) Plug your USB cable or USB receiver into the USB port correctly.
 
 4) Try to use your mouse to see if works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Restart your laptop
 
@@ -99,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Driver-Easy-Scan-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to your flagged mouse driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All.)
@@ -109,8 +110,9 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Update-all-drivers-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -127,8 +129,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +136,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/cclaimed-storytellers-with-photo-audio-symphony-for-2024/"><u>[New] Acclaimed Storytellers with Photo-Audio Symphony for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-circumventing-virtual-classroom-videos-without-hesitation/"><u>[New] Circumventing Virtual Classroom Videos Without Hesitation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-prime-image-safekeepers-online-for-2024/"><u>[Updated] Prime Image Safekeepers Online for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-television-innovation-integrating-fb-live-experiences/"><u>[Updated] Television Innovation Integrating FB Live Experiences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unravel-the-best-ps2-emulation-on-ios-devices/"><u>[Updated] Unravel the Best PS2 Emulation on iOS Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/breakthrough-techniques-for-online-audio-archiving-and-editing-for-2024/"><u>Breakthrough Techniques for Online Audio Archiving & Editing for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturing-the-essence-of-your-facebook-live-spontaneity/"><u>Capturing the Essence of Your Facebook Live Spontaneity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-webcam-buying-simplified-the-best-10-options/"><u>In 2024, Webcam Buying Simplified The Best 10 Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mic-troubles-in-windows-11-diagnose-and-rectify-common-issues/"><u>Mic Troubles in Windows 11: Diagnose and Rectify Common Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-out-of-memory-challenges-in-red-dead-redemption-2-tips-for-tweaking-the-page-file/"><u>Overcoming 'Out of Memory' Challenges in Red Dead Redemption 2 - Tips for Tweaking the Page File</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-code-28-issue-comprehensive-guide-for-windows-device-manager/"><u>Resolving the 'Code 28' Issue: Comprehensive Guide for Windows Device Manager</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/set-up-secure-file-management-enable-controlled-access-feature/"><u>Set Up Secure File Management: Enable Controlled Access Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-your-computer-when-you-encounter-error-0xc0000005-on-windows/"><u>Troubleshooting and Repairing Your Computer When You Encounter Error 0XC0000005 on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-entry-point-cannot-be-located-errors-on-pc/"><u>Troubleshooting and Solutions for 'Entry Point Cannot Be Located' Errors on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-need-a-d3d11-supported-gpu-for-seamless-operation/"><u>Troubleshooting Guide: Need a D3D11 Supported GPU for Seamless Operation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-dxgkrnl-fatal-error-on-your-pc/"><u>Troubleshooting Steps for the Dxgkrnl Fatal Error on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-a-non-responsive-laptop-trackpad-issue/"><u>Ultimate Guide: Fixing a Non-Responsive Laptop Trackpad Issue</u></a></li>
+</ul></div>
 

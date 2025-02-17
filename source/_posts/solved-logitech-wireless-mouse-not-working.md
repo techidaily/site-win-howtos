@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Logitech Wireless Mouse Not Working"
-date: 2025-02-02T09:28:17.205Z
-updated: 2025-02-07T04:25:38.479Z
+date: 2025-02-09T21:58:59.664Z
+updated: 2025-02-16T20:09:46.679Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ The remaster of**Total War: Rome** has been out with quite a slew of evolved fea
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Total War: ROME REMASTERED Crashing on PC
 
@@ -58,10 +54,22 @@ To check Windows Build of your PC:
 1. On your keyboard, press the**Windows logo** key![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and**R** at the same time, then type **winver** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. In the window that pops up, you can check the exact version of the copy of Windows on your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/22-1.png)
 3. Once finished, click**OK** to exit the window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To check the specs of your PC:
 
@@ -72,16 +80,8 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
@@ -106,6 +106,10 @@ To check the specs of your PC:
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Run Steam as administrator
 
  Total War: ROME REMASTERED requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may encounter crash. So you should make sure to runSteam as administrator to see if it fixes the issue.
@@ -116,11 +120,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC promots for permissions to proceed.
 
- After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
 
 ### Fix 4: Verify game files on Steam
 
@@ -136,7 +140,7 @@ Here’s how:
 6. Re-launch Total War: ROME REMASTERED to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Allow Steam through firewall
@@ -152,10 +156,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall-1.png)
 3. Browse through the list of Allowed apps and features to see if Steam is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app-1.png)
 4. Once completed, click **OK** .
 
@@ -170,7 +170,7 @@ Here’s how:
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 7** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
@@ -183,12 +183,12 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig-1.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
@@ -221,16 +221,20 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enlarge-your-videos-thumbnail-on-youtube-easily-for-2024/"><u>[New] Enlarge Your Video's Thumbnail on YouTube Easily for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[Updated] Dive Into Design Get a Complimentary Set of 50 Banner Pieces!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/does-the-disappearance-of-d3d-device-herald-unreals-exit/"><u>Does the Disappearance of D3D Device Herald Unreal's Exit</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-13-pro-maxipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 13 Pro Max/iPad/iPod</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>In 2024, Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/musical-mentorship-series-top-15-youtube-wisdom-from-pros/"><u>Musical Mentorship Series - Top 15 YouTube Wisdom From Pros</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ps4-network-problem-master-the-art-of-fixing-nat-types-with-this-easy-to-follow-tutorial/"><u>PS4 Network Problem? Master the Art of Fixing NAT Types with This Easy-to-Follow Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-dead-usb-ports-a-step-by-step-guide/"><u>Reviving Your Dead USB Ports: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-tutorial-on-editing-youtube-videos-for-2024/"><u>The Ultimate Tutorial on Editing YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-screensaver-not-working-solved/"><u>Windows 11 Screensaver Not Working [Solved]</u></a></li>
-<li><a href="https://win-online.techidaily.com/windowsvhd/"><u>Windowsサーバー向けのVHDファイル回復手順</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-screen-capture-best-mac-apps-reviewed-and-rated/"><u>[New] 2024 Approved Essential Screen Capture Best Mac Apps Reviewed & Rated</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-becoming-a-professional-editor-mastering-final-cut-pro-for-2024/"><u>[New] Becoming a Professional Editor Mastering Final Cut Pro for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-avoid-these-8-steps-that-newcomers-often-miss-on-youtube/"><u>[Updated] Avoid These 8 Steps that Newcomers Often Miss on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-optimal-live-video-distributors-suite/"><u>[Updated] Optimal Live Video Distributors' Suite</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-high-quality-hd-downloads-5-best-facebook-extensions/"><u>2024 Approved High-Quality HD Downloads 5 Best Facebook Extensions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comparing-vr-to-360-degree-video-whats-the-distinction-in-2024/"><u>Comparing VR to 360-Degree Video What's the Distinction, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-eliminating-windows-11-screenshake-problem/"><u>Effective Solutions for Eliminating Window's 11 Screenshake Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-loop-expert-tips-for-fixing-recurring-restart-issues-on-windows-1110/"><u>End the Loop: Expert Tips for Fixing Recurring Restart Issues on Windows 11/10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 5G Bootloader Easily</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-steadicams-for-uav-aerial-cinematography/"><u>Ideal Steadicams for UAV Aerial Cinematography</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/inside-toms-computer-lab-a-journey-through-cutting-edge-hardware-insights/"><u>Inside Tom's Computer Lab: A Journey Through Cutting-Edge Hardware Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-volume-is-dirty-issue-understanding-error-0x80071ac3/"><u>Solving the 'Volume Is Dirty' Issue - Understanding Error 0X80071AC3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-for-a-non-functional-corsair-illuminated-keyboard/"><u>Troubleshooting and Fixes for a Non-Functional Corsair Illuminated Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-update-issues-solutions-for-a-freezing-or-stalled-system/"><u>Troubleshooting Windows 10 Update Issues: Solutions for a Freezing or Stalled System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-troubleshooting-made-easy-overcoming-the-port-reset-failed-error-in-windows-11/"><u>USB Troubleshooting Made Easy: Overcoming the 'Port Reset Failed' Error in Windows 11</u></a></li>
 </ul></div>
 

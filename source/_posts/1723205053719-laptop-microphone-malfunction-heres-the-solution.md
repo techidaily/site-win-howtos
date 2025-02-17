@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunction? Here's the Solution!
-date: 2025-02-04T10:32:23.022Z
-updated: 2025-02-07T09:49:20.599Z
+date: 2025-02-10T17:00:21.117Z
+updated: 2025-02-16T23:43:37.590Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Read on this small guide and follow to solve the problem on your Windows.
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix the Diagnostics Policy Service is not running issue?
 
  Here’re 3 easy and helpful solutions you can try. You may not have to try them all; Just start from the top and work your way down the list until your problem is solved.
@@ -45,10 +41,6 @@ Read on this small guide and follow to solve the problem on your Windows.
 1. [Check the Diagnostics Policy Service in the Services window](#solution1)
 2. [Give the network service and local service administrator privilege on your Windows](#solution2)
 3. [Reinstall your all network adapters](#solution3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 1: Check the Diagnostics Policy Service in the Services window
 
@@ -62,23 +54,31 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f28bd6d2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Locate**Diagnostics Policy Service** , right-click on it to select**Start** , if Start grayed out, click**Restart** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f83f0ff4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
 
 6) Run the Network Diagnostics and see if it goes well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
 
@@ -87,10 +87,6 @@ Follow these steps：
  1) Type**cmd** in the search box from the Start menu. Then right-click on**Command Prompt** or**cmd.exe** to select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d600a418d0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type the following commands and press**Enter** after each.
 
@@ -106,6 +102,10 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
 
 ### Solution 3: Reinstall your network adapters
@@ -118,13 +118,13 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d609d065a4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
@@ -169,22 +169,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-showdown-battle-royales-top-titles/"><u>[New] 2024 Approved Ultimate Showdown Battle Royale's Top Titles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-iphone-screen-exposure/"><u>[New] Perfecting iPhone Screen Exposure</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-10plus-best-instagram-video-editor-for-pc-online-android/"><u>[Updated] 10+ Best Instagram Video Editor for PC, Online, Android</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-vr-treadmills-review/"><u>[Updated] In 2024, Top VR Treadmills Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-resolve-your-cs-go-game-crashes-fast/"><u>Easy Steps to Resolve Your CS: GO Game Crashes Fast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-overcoming-wow-stuttering-problems/"><u>Expert Advice on Overcoming WOW Stuttering Problems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-audio-editing-with-ape-essential-tips-for-opening-and-manipulating-ape-files-using-an-ape-player/"><u>Exploring Audio Editing with APE: Essential Tips for Opening & Manipulating APE Files Using an APE Player</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Civi 3 Disney 100th Anniversary Edition Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-the-art-of-video-to-animation-stepwise-guide-for-efficient-gif-creation-for-2024/"><u>Learn The Art Of Video to Animation Stepwise Guide for Efficient Gif Creation for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/maximizing-your-frame-rate-tips-and-tricks-for-enhanced-performance-in-ring-of-elysium/"><u>Maximizing Your Frame Rate: Tips & Tricks for Enhanced Performance in Ring of Elysium</u></a></li>
-<li><a href="https://win11.techidaily.com/neutralizing-windows-update-triggers/"><u>Neutralizing Windows Update Triggers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hdcp-limitations-on-your-display-unit-a-guide-to-enhanced-performance/"><u>Overcoming HDCP Limitations on Your Display Unit - A Guide to Enhanced Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-your-lenovos-unresponsive-mouse-pad-in-different-windows-environments-1187-expert-fixes/"><u>Repairing Your Lenovo's Unresponsive Mouse Pad in Different Windows Environments (11/8/7) - Expert Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-a-computer-that-cant-close-windows-10/"><u>Solved: How to Fix a Computer That Can't Close Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-forbidden-responses-http-error-403-in-web-servers/"><u>Troubleshooting and Correcting 'Forbidden' Responses (HTTP Error ⁩ 403) in Web Servers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-power-surge-issues-in-your-usb-ports-on-windows-10/"><u>Troubleshooting Guide: Resolving 'Power Surge' Issues in Your USB Ports on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-windows-10-computer/"><u>Troubleshooting Steps for a Non-Responsive Windows 10 Computer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ready-for-high-res-our-choice-of-best-screenshot-and-recorder-apps/"><u>[Updated] 2024 Approved Ready for High-Res Our Choice of Best Screenshot & Recorder Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-success-channel-ideas-to-spark-momentum-for-2024/"><u>[Updated] Elevating Success Channel Ideas to Spark Momentum for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tips-for-creating-a-viral-buzz-on-facebook-that-you-should-know/"><u>[Updated] Tips for Creating a Viral Buzz on Facebook that You Should Know</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-v27-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo V27 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-imaginative-tales-using-chatgpt-strategies-for-success/"><u>Crafting Imaginative Tales Using ChatGPT: Strategies for Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-correcting-the-port-reset-failed-warning-for-your-usb-gadget-in-windows-10/"><u>Expert Advice: Correcting the 'Port Reset Failed' Warning for Your USB Gadget in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-infinite-load-ultimate-guide-to-overcoming-stuck-screens-in-valorant/"><u>Fixing the Infinite Load: Ultimate Guide to Overcoming Stuck Screens in Valorant</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/launching-a-channel-a-comprehensive-discosteps-guide-for-2024/"><u>Launching a Channel A Comprehensive DiscoSteps Guide for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210748886-9782019469658-le-guide-complet-de-la-numerologie/"><u>Le guide complet de la numérologie | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m3-vs-m2-macbook-air-comparison-a-detailed-guide-to-apples-new-laptop-offerings/"><u>M3 Vs. M2 MacBook Air Comparison: A Detailed Guide to Apple’s New Laptop Offerings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-device-recognition-issues-bluetooth-setup-fixed-in-windows-11/"><u>Overcoming Device Recognition Issues: Bluetooth Setup Fixed in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-timely-start-issues-solutions-to-service-error-1053/"><u>Overcoming Timely Start Issues - Solutions to Service Error 1053</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-steelseries-arctis-5-mic-expert-solutions-to-get-it-working-again/"><u>Revive Your SteelSeries Arctis 5 Mic: Expert Solutions to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-how-to-resolve-problems-when-trying-to-cast-devices/"><u>Windows 11: How to Resolve Problems When Trying to Cast Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcoming the '0xC0000005' Kernel Termination Blue Screen of Death on Windows Computers"
-date: 2024-08-19T07:55:23.926Z
-updated: 2024-08-20T07:55:23.926Z
+date: 2025-02-14T19:18:15.496Z
+updated: 2025-02-16T16:59:41.287Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
 
 **a)**  First, you should run your**security software** to**scan out malicious programs** . Viruses or malware on your computer (if any) can affect your system and cause the 0xc0000005 error. You should run a virus scan before going to any further troubleshooting.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507cc89e487.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **v.** Open the problematic**executable (.exe)** files. Then click**OK** all the way out.
 
@@ -75,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To resolve this error, you can try the methods below.
 
 **a)**  It is also possible that the application unable to start error is caused by**viruses or malware** , You should run a**full scan** of your computer to identify the origin of your problem. Or in some cases**the security software itself** can cause the issue. You can try disabling it to see if the problem is removed.
@@ -88,6 +100,10 @@ To resolve this error, you can try the methods below.
  To use Driver Easy to fix faulty drivers, you need to download and install it. Then open the program and click on**Scan Now** button. All the devices on your computer will be scanned and checked within a few seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
@@ -114,6 +130,10 @@ To resolve this error, you can try the methods below.
  On Windows 10/11, click**Create a restore** **point** ,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And then in the dialog popping up, click the**System Restore** button.
 
@@ -156,8 +176,9 @@ bootrec /rebuildbcd
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
@@ -165,8 +186,9 @@ bootrec /rebuildbcd
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
  It can also be that your**RAM** or**hard drive** is defective. In this case, you can test with other RAM or hard drive, or you can contact the hardware manufacturers for any further suggestion.
@@ -179,8 +201,6 @@ bootrec /rebuildbcd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +208,18 @@ bootrec /rebuildbcd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-discover-the-latest-2023-features-of-samsung-bd-j5900/"><u>[New] Discover the Latest 2023 Features of Samsung BD-J5900</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-motion-text-artisan/"><u>[Updated] 2024 Approved Motion Text Artisan</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-cross-platform-social-media-fb-vids-on-whatsapp/"><u>[Updated] 2024 Approved Navigating Cross-Platform Social Media FB Vids on WhatsApp</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-the-course-to-prodigy-status-for-ajey-carryminati/"><u>Charting the Course to Prodigy Status for Ajey (CarryMinati)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-12-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 12 - 4 Easy Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-connectivity-how-to-ensure-flawless-bluetooth-pairing-on-your-windows-11-pc/"><u>Master Connectivity: How to Ensure Flawless Bluetooth Pairing on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211140305-master-the-trick-to-keep-your-cs-go-game-running-smoothly/"><u>Master the Trick to Keep Your CS GO Game Running Smoothly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-typing-troubles-overcoming-windows-11s-input-lag-issues/"><u>No More Typing Troubles: Overcoming Windows 11'S Input Lag Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-your-laptops-keyboard-tips-and-solutions/"><u>Resolving Issues with Your Laptop's Keyboard - Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206824332-reviving-your-keyboards-arrow-buttons-effective-solutions-inside/"><u>Reviving Your Keyboard's Arrow Buttons – Effective Solutions Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-mass-effect-legendary-edition-pc-and-xbox-game-crashes/"><u>Troubleshooting Guide: Resolving Mass Effect Legendary Edition PC and Xbox Game Crashes</u></a></li>
+</ul></div>
 

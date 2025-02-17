@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Dilemma: When Skype Microphone Fails to Work"
-date: 2024-08-23T14:00:57.130Z
-updated: 2024-08-24T14:00:57.130Z
+date: 2025-02-15T19:47:58.455Z
+updated: 2025-02-16T16:45:11.538Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/17e5357e78d53548c97f4d85021e25770f5faa06f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea8007e966e.jpg)
 
 **Skype mic is not working** on your computer? Many users have reported the same. But don’t worry – it’s often quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 fixes for **Skype mic is not working**
 
@@ -38,16 +42,22 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and type**microphone** , then click on**Microphone privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21c099eec3.jpg)
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Adjust audio settings in Skype
 
  One of the most useful fixes is to disable **Automatically adjust microphone settings** in Skype according to user feedback. So we can give it a try and see if it works:
@@ -55,17 +65,15 @@ Here’s how:
 1. In Skype, Click**the three-dot button** and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your audio driver
 
  Your **Skype mic not working**  problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -81,15 +89,13 @@ Here’s how:
  Or click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27e508edd4.jpg)
 4. Restart your computer and check to see if **microphone on Skype not working** problem has been fixed.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Tweak your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -101,9 +107,11 @@ To do so:
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
@@ -130,8 +138,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +145,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/evel-in-the-power-of-leading-video-rank-tracker-tools-for-2024/"><u>[New] Revel in the Power of Leading Video Rank Tracker Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-intermittent-logitech-mouse-connection/"><u>[Resolved] Intermittent Logitech Mouse Connection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-rival-tools-that-outclass-sharex-for-2024/"><u>[Updated] Rival Tools that Outclass ShareX for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capture-kings-arena/"><u>2024 Approved Capture King's Arena</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decoding-the-metrics-for-youtube-video-hierarchy/"><u>2024 Approved Decoding the Metrics for YouTube Video Hierarchy</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-excessive-cpu-load-by-svchostexe-in-windows-10-solutions-and-tips/"><u>Fixing Excessive CPU Load by svchost.exe in Windows 10 – Solutions and Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-discovering-the-best-vr-camera-for-adventures/"><u>In 2024, Discovering the Best VR Camera for Adventures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-honor-x9b-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Honor X9b Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/sunshine-strategies-to-lighten-up-android-videos/"><u>Sunshine Strategies to Lighten up Android Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-launch-minecraft-successfully-on-windows-systems/"><u>Troubleshooting Steps to Launch Minecraft Successfully on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-touchpad-dealing-with-missing-cursor-on-windows-nx/"><u>Troubleshooting Your Touchpad: Dealing with Missing Cursor on Windows nX</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-fun-with-the-syma-s111g-remote-controlled-helicopter-your-indoor-adventure-awaits/"><u>Unlocking Fun with the Syma S111G Remote-Controlled Helicopter - Your Indoor Adventure Awaits!</u></a></li>
+</ul></div>
 

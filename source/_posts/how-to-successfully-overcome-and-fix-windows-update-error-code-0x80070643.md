@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Overcome and Fix Windows Update Error Code 0X80070643
-date: 2025-01-07T16:14:02.749Z
-updated: 2025-01-13T16:17:19.017Z
+date: 2025-02-13T01:43:27.110Z
+updated: 2025-02-16T21:00:02.836Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fixes to try**
 
@@ -46,12 +42,20 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press**the Windows logo key** and type**troubleshoot** . In the list of search results, select **Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap392-1.png)
 2. In the pop-up window, select**Windows Update** and click**Run the troubleshooter** . You’ll be prompted for permission. Click**Yes** to run**Windows Update troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap393.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Restart the Windows Update service**
@@ -61,28 +65,24 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press **the Windows Logo key**   and **R**   at the same time to open the Run dialog, then type **services.msc** and press **Enter**   to open the Services window.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap396.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. **Delete** all the files in the folder **DataStore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap399.png)  
  When all the files are deleted, you shall see “This folder is empty”.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.**`C:\Windows\SoftwareDistribution\Download`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. **Delete** all the files in the folder   **Download** .  
@@ -98,14 +98,15 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press **the Windows Logo Key**  and **R**  at the same time to open the Run dialog. Type **cmd** and then press **Ctrl** , **Shift** , and **Enter** on your keyboard   at the same time to **run Command Prompt as administrator** . You will be prompted for permission. Click **Yes**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap402.png)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    1. **Dism /Online /Cleanup-Image /ScanHealth**  
     When you run command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap403.png)  
     It may take several minutes for this command operation to be completed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    2. **Dism /Online /Cleanup-Image /CheckHealth**  
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
@@ -120,7 +121,7 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Running System File Checker**
@@ -148,7 +149,7 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
@@ -160,12 +161,12 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Pro tip: Want us to fix the problem for you?**
 
@@ -193,19 +194,19 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-full-featured-insight-mac-meets-screenflow-v4/"><u>[New] In 2024, Full-Featured Insight Mac Meets ScreenFlow V4</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-art-of-elegance-in-design-with-canvas-hidden-tips-for-2024/"><u>[New] The Art of Elegance in Design with Canva's Hidden Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-dynamic-lighting-elevating-video-aesthetics-for-2024/"><u>[Updated] Dynamic Lighting Elevating Video Aesthetics for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-collage-wizardry-secrets-unveiled/"><u>2024 Approved Collage Wizardry Secrets Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-a-non-functioning-huion-pen-in-just-5-steps/"><u>Fix a Non-Functioning Huion Pen in Just 5 Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-for-keyboards-not-responding-during-initial-access/"><u>Fixes and Tips for Keyboards Not Responding During Initial Access</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-run-admin-tasks-without-elevation-prompts-on-windows-11/"><u>How to Run Admin Tasks Without Elevation Prompts on Windows 11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-supreme-cyber-seminar-sorter/"><u>In 2024, Supreme Cyber Seminar Sorter</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/inspiration-on-a-plate-top-20-instagram-food-photos/"><u>Inspiration on a Plate Top 20 Instagram Food Photos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-sims-4-not-launching-dilemma-a-comprehensive-guide/"><u>Solving the 'Sims 4 Not Launching' Dilemma: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos-for-2024/"><u>The New Dawn of Creativity Spotlight on Six Visionary NFTOs for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-customizing-the-keyboard-layout-of-a-kindle-fire-device/"><u>The Ultimate Tutorial on Customizing the Keyboard Layout of a Kindle Fire Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-wow-lagging-issues-what-you-need-to-know/"><u>Troubleshooting and Fixing WoW Lagging Issues - What You Need to Know</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/untangling-the-mystery-of-lost-steam-file-rights/"><u>Untangling the Mystery of Lost Steam File Rights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-youtube-gaming-content-with-key-freefire-hashtags/"><u>[New] Elevate Your YouTube Gaming Content With Key FreeFire Hashtags</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expanding-your-audience-stream-successfully-across-30plus-outlets/"><u>[Updated] 2024 Approved Expanding Your Audience Stream Successfully Across 30+ Outlets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-instant-tutorial-green-screen-techniques-unveiled/"><u>[Updated] 2024 Approved Instant Tutorial Green Screen Techniques Unveiled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-kajis-wealth-kid-star-earnings-surpass-major-celebrities/"><u>[Updated] In 2024, Kaji’s Wealth Kid Star Earnings Surpass Major Celebrities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-top-facebook-song-videos-unveiled-a-making-of-chronicle/"><u>[Updated] In 2024, Top Facebook Song Videos Unveiled A Making-Of Chronicle</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fb-a-resource-for-video-discovery-enthusiasts/"><u>2024 Approved FB A Resource for Video Discovery Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-techniques-for-restoring-default-keyboard-functions/"><u>Expert Techniques for Restoring Default Keyboard Functions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-keyboard-arrows-a-step-by-step-guide/"><u>Fixing Unresponsive Keyboard Arrows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/frei-verfugbare-methoden-zum-konvertieren-von-mov-dateien-zu-mp4-unter-windows-mac-os-und-online-services/"><u>Frei Verfügbare Methoden Zum Konvertieren Von MOV-Dateien Zu MP4 Unter Windows, Mac OS Und Online Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-understand-event-id-1000-on-different-windows-platforms-7-8-10/"><u>How to Resolve and Understand Event ID 1000 on Different Windows Platforms: 7, 8, 10</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-compressor-essentials-optimizing-video-files-in-final-cut-pro-x-for-2024/"><u>New Compressor Essentials Optimizing Video Files in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-hosted-wifi-setup-in-windows-10-a-step-by-step-fix/"><u>Overcoming Issues with Hosted WiFi Setup in Windows 10 - A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-a-broken-symbol-functionality-in-typing-devices/"><u>Solutions for a Broken '@' Symbol Functionality in Typing Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212015705-windows-7-wont-respond-to-your-clicks-fix-your-broken-mouse-and-keyboard-connections-now/"><u>Windows 7 Won't Respond to Your Clicks? Fix Your Broken Mouse and Keyboard Connections Now!</u></a></li>
 </ul></div>
 

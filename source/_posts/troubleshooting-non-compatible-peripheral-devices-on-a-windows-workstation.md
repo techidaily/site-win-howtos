@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Compatible Peripheral Devices on a Windows Workstation
-date: 2025-02-02T20:14:09.723Z
-updated: 2025-02-07T07:28:06.561Z
+date: 2025-02-13T19:56:48.065Z
+updated: 2025-02-17T00:28:26.675Z
 tags:
   - win11
   - win10
@@ -30,15 +30,15 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Check if the device itself is faulty**
 
  If the USB device was working before you upgraded to Windows 10, it’s unlikely to be faulty. But coincidences do occur. It’s certainly_possible_ that your device just happened to die right at the same time that you upgraded Windows. So it’s best to rule that possibility out for sure before spending time on more complex troubleshooting.
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 2: Check your power supply (laptop only)**
 
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 4) Plug the power supply back in
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
@@ -70,17 +78,9 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
@@ -89,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -109,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -142,24 +142,22 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>[New] 2024 Approved Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-permanent-mouse-shutdown-mystery/"><u>[Resolved] Permanent Mouse Shutdown Mystery</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-vanguard-visual-transformers-lenscrafters-art/"><u>[Updated] Vanguard Visual Transformers LensCrafters' Art</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastery-in-mixing-pro-tools-prowess-tips-and-tricks/"><u>2024 Approved Mastery in Mixing Pro Tools Prowess Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/breaking-free-from-windows-1-solutions-for-incessant-re-starting-issues/"><u>Breaking Free From Windows 1지원택: Solutions for Incessant Re-Starting Issues</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capture-dynamic-artistry-top-9-tools-for-perfect-windows-gifs/"><u>Capture Dynamic Artistry Top 9 Tools for Perfect Windows GIFs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723200135982-easy-fixes-for-common-minecraft-opengl-errors-get-started-now/"><u>Easy Fixes for Common Minecraft OpenGL Errors - Get Started Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-non-responsive-keyboard-buttons-on-your-hp-laptop/"><u>Easy Fixes for Non-Responsive Keyboard Buttons on Your HP Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-completed-what-to-do-when-your-device-refuses-to-start/"><u>Expert Guide Completed: What to Do When Your Device Refuses to Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-issues-when-the-system-cant-find-them/"><u>How To Fix Windows Update Issues When The System Can't Find Them</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-day-sale-alert-snag-the-new-gen-apple-pencil-for-70-off-now-just-95-insider-tips-from-zdnet/"><u>Labor Day Sale Alert: Snag the New-Gen Apple Pencil for 70% Off, Now Just $95 | Insider Tips From ZDNet</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/movavis-top-picks-ultimate-selection-of-12-greatest-screen-capture-solutions/"><u>Movavi's Top Picks: Ultimate Selection of 12 Greatest Screen Capture Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-lost-d3dx943dll-on-windows-a-step-by-step-guide-to-quick-repair/"><u>Restore Lost d3dx9_43.dll on Windows: A Step-by-Step Guide to Quick Repair</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-the-latest-driver-for-your-usb-30-network-card-on-windows/"><u>Step-by-Step Guide: Installing the Latest Driver for Your USB 3.0 Network Card on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-windows-10s-missing-fix-service-registration-problems/"><u>Troubleshooting and Solving Windows 10'S Missing Fix Service Registration Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/"><u>Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-camon-30-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Camon 30 Pro 5G password or pattern lock</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows-11-adding-a-live-weather-widget-to-your-desktop/"><u>Windows 11: Adding a Live Weather Widget to Your Desktop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-beat-the-competition-macs-7-best-speech-to-text-apps-explored-for-2024/"><u>[New] Beat the Competition Mac's 7 Best Speech-to-Text Apps Explored for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-laughters-legacy-the-process-of-parody-film-making/"><u>[New] Laughter's Legacy The Process of Parody Film-Making</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-duel-of-the-titans-which-cameras-win-gopro-vs-ghost-s/"><u>[Updated] In 2024, Duel of the Titans Which Cameras Win? GoPro Vs. Ghost-S</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-is-it-illegal-to-screen-capture-youtube-videos-in-2024/"><u>[Updated] Is It Illegal to Screen-Capture YouTube Videos, In 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-compact-alternative-to-the-switch-revealing-the-advantages-of-the-handheld-nintendo-console/"><u>A Compact Alternative to the Switch: Revealing the Advantages of the Handheld Nintendo Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-monitor-2-non-detection/"><u>Fixing Windows Monitor #2 Non-Detection</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-and-organize-your-files-like-a-pro-with-these-file-explorer-hacks-for-widows-11/"><u>Navigate and Organize Your Files Like a Pro with These File Explorer Hacks for Widows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-unpredictable-wireless-mouse-disconnections-on-windows-operating-systems/"><u>Resolving the Issue of Unpredictable Wireless Mouse Disconnections on Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-implementation-of-the-latest-windows-11-update-kb4056892-guide/"><u>Successful Implementation of the Latest Windows 11 Update (KB4056892) [GUIDE]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-remedy-reinstating-lost-game-dlls-like-x3d/"><u>Swift Remedy: Reinstating Lost Game Dlls Like X3D</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-photographers-guide-to-online-image-editing-and-cropping/"><u>The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-overcoming-windows-update-issue-error-0x8007001f-solution/"><u>Troubleshooting Steps for Overcoming Windows Update Issue - Error 0X8007001F Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcoming-windows-ready-boot-loop-problems-on-pc/"><u>Troubleshooting: Overcoming 'Windows Ready' Boot Loop Problems on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-behind-google-chromes-false-alarm-critical-error-fixes/"><u>Unraveling the Mystery Behind Google Chrome’s False Alarm: Critical Error Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-snippets-get-high-quality-images-without-a-penny-paid-for-2024/"><u>YouTube Snippets Get High-Quality Images Without a Penny Paid for 2024</u></a></li>
 </ul></div>
 

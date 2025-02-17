@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Startup Issues: How to Get Your Start Menu Working Again"
-date: 2024-08-19T07:55:19.501Z
-updated: 2024-08-20T07:55:19.501Z
+date: 2025-02-13T23:33:21.684Z
+updated: 2025-02-16T20:20:57.739Z
 tags:
   - win11
   - win10
@@ -40,8 +40,18 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 1. Right-click on the**Start** button, then click**Windows PowerShell (Admin)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Relaunch your computer and check the issue is resolved or not.
@@ -56,18 +66,22 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 2. Type “devmgmt.msc” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Click**Monitors** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/monitor.jpg)
 4. Right-click on the AOC USB monitor and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 5. Follow the on-screen instructions to uninstall it.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-6. Reboot your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Reboot your computer.
+
 ### Step 2: Download AOC USB monitor driver
 
  There are two ways you can update your AOC USB monitor drivers:
@@ -86,16 +100,10 @@ OR
 2. Search for the monitor on the webpage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbf95967fd.jpg)
 3. Click **Support** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfce1bef4.jpg)
 4. Scroll down and click **Driver** in the **Drivers and Software** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfda9b0ca.png)
 5. Click the downloaded file and follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 #### **Option 2 – Automatically update AOC USB monitor drivers**
 
@@ -109,14 +117,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfffb0e24.jpg)
 3. Click the Update button next to your **AOC monitor** to automatically download and install the correct version of this driver (you can do this with the **FREE** version).  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdc1306ec3e.jpg)
 4. Reboot your computer and check the issue is solved or not.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -129,8 +140,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +147,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-15-masterpieces-that-defined-stop-motion-artistry/"><u>[New] 15 Masterpieces That Defined Stop Motion Artistry</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-everyones-guide-to-youtube-success-10-straightforward-video-tips/"><u>[New] 2024 Approved Everyone's Guide to YouTube Success 10 Straightforward Video Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-effortless-group-chats-joining-zoom-on-your-android/"><u>[New] Effortless Group Chats Joining Zoom on Your Android</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>[Updated] 2024 Approved From Casual Follower to Dedicated Subscriber Inspirational Journey</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/common-language-pitfalls-navigating-the-top-100-mispronunciations/"><u>Common Language Pitfalls: Navigating the Top 100 Mispronunciations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-the-update-failed-error-code-0x800f0922-on-windows-10/"><u>Expert Tips for Overcoming the 'Update Failed' Error (Code 0X800f0922) on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-copy-and-paste-features-in-your-windows-11-operating-system/"><u>How to Restore Copy and Paste Features in Your Windows 11 Operating System</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/huions-giant-canvas-for-digital-artists-exploring-features-and-performance-of-kamvas-gt-191-drawing-tablet-review/"><u>Huion's Giant Canvas for Digital Artists: Exploring Features & Performance of Kamvas GT-191 Drawing Tablet Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-vidma-screen-recorder-review-and-alternatives/"><u>In 2024, Vidma Screen Recorder | Review and Alternatives</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-efficiency-get-the-best-out-of-your-laserjet-on-win10/"><u>Maximize Efficiency: Get the Best Out of Your Laserjet on Win10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/must-have-settings-for-online-broadcasting-for-2024/"><u>Must-Have Settings for Online Broadcasting for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207863980-pdf-printing-problems-quick-fixes-to-get-your-document-out/"><u>PDF Printing Problems? Quick Fixes to Get Your Document Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-error-code-0x802eb3f6-a-step-by-step-guide/"><u>Resolving Windows 11 Update Error Code 0X802eb3f6: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-common-dll-has-stopped-working-in-windows-bid-error-goodbye/"><u>Step-by-Step Fix for 'Common DLL Has Stopped Working' In Windows: Bid Error Goodbye</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-the-infamous-red-screen-problem-a-complete-fix-guide/"><u>Tackling the Infamous 'Red Screen' Problem: A Complete Fix Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-8-youtuber-blunders-to-avoid-and-why-theyre-common/"><u>Top 8 Youtuber Blunders to Avoid and Why They're Common</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-epson-scan-communication-issues/"><u>Unlocking Epson Scan Communication Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-not-found-heres-how-you-can-resolve-it/"><u>VCRUNTIME140.dll Not Found? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211838378-your-sds-silence-uncover-solutions/"><u>Your SD's Silence? Uncover Solutions!</u></a></li>
+</ul></div>
 

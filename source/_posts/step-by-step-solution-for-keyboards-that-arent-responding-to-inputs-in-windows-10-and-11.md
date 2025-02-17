@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11
-date: 2025-02-03T07:56:17.092Z
-updated: 2025-02-06T19:18:16.169Z
+date: 2025-02-09T17:23:49.678Z
+updated: 2025-02-16T18:41:23.776Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -68,10 +68,6 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -81,6 +77,10 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -113,7 +113,7 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -138,7 +138,7 @@ OR
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -147,7 +147,7 @@ OR
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
@@ -177,18 +177,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-engrossing-12-pc-clicker-games-that-keep-you-hooked/"><u>[New] 2024 Approved Engrossing 12 PC Clicker Games That Keep You Hooked</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fresh-topics-to-cover-in-your-vlogs-for-2024/"><u>[New] Fresh Topics to Cover in Your Vlogs for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-deconstructed-digital-captions-technique/"><u>[Updated] 2024 Approved Deconstructed Digital Captions Technique</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-windows-update-issue-easy-solutions-to-correct-error-0x8024200d/"><u>Beat Windows Update Issue: Easy Solutions to Correct Error 0X8024200D</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-big-datas-ai-language-masters/"><u>Decoding Big Data's AI Language Masters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dll-not-found-microsoft-c-runtime-error/"><u>DLL Not Found: Microsoft C Runtime Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixed-problem-uncontrollable-repeated-mouse-clicks/"><u>Fixed Problem: Uncontrollable Repeated Mouse Clicks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-0x80070091-error-when-performing-a-system-restore-on-windows-10-solution/"><u>Overcoming the 0X80070091 Error When Performing a System Restore on Windows 10 [Solution]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-n11-touchpad-scrolling-malfunctions-a-step-by-step-guide/"><u>Resolving Windows N11 Touchpad Scrolling Malfunctions: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-tricks-for-improving-delayed-keyboard-reaction-times/"><u>Simple Tricks for Improving Delayed Keyboard Reaction Times</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/ultimate-gear-guide-for-streaming-sensations-for-2024/"><u>Ultimate Gear Guide for Streaming Sensations for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-honor-x50-gt-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor X50 GT Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-the-potential-of-aiseesoft-for-video-documentation/"><u>[New] Unlocking the Potential of Aiseesoft for Video Documentation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-driveease-expert-analysis/"><u>[Updated] DriveEase Expert Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-and-repairing-disk-write-errors-in-steam-with-simple-techniques/"><u>Bypassing and Repairing Disk Write Errors in Steam with Simple Techniques</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/digital-preservation-with-abbyy-tools-at-the-core-of-south-koreas-archival-project/"><u>Digital Preservation with ABBYY Tools at the Core of South Korea's Archival Project</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-unexpected-system-restarts-in-windows-10/"><u>Expert Fixes for Unexpected System Restarts in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-start-program-error-code-0xc000007b/"><u>How to Fix 'Unable to Start Program' Error Code 0xC000007B</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-m14-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy M14 4G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mysterious-keys-cessation/"><u>Mysterious Keys Cessation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-web-based-online-vertical-video-editors/"><u>New Best Web-Based Online Vertical Video Editors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-steam-connection-issues-overcoming-could-not-connect-to-steam-network-errors/"><u>Resolving Steam Connection Issues: Overcoming 'Could Not Connect to Steam Network' Errors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-fixing-kernel-security-check-failure-in-windows-11-systems/"><u>Troubleshooting Guide for Fixing 'Kernel Security Check Failure' In Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-repairing-broken-files-in-windows-11-systems/"><u>Troubleshooting Tips: Repairing Broken Files in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-camera-malfunction-overcome-error-code-0xa00f4292-with-these-simple-fixes/"><u>Windows Camera Malfunction? Overcome Error Code 0XA00F4292 with These Simple Fixes</u></a></li>
 </ul></div>
 

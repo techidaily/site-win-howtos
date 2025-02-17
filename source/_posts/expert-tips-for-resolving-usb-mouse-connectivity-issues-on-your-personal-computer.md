@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving USB Mouse Connectivity Issues on Your Personal Computer
-date: 2024-08-19T07:54:47.890Z
-updated: 2024-08-20T07:54:47.890Z
+date: 2025-02-10T22:56:55.546Z
+updated: 2025-02-16T21:21:42.459Z
 tags:
   - win11
   - win10
@@ -44,14 +44,24 @@ Did you have this experience? You open your computer ready to work or entertain,
 5. Choose**Devices and Printers** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_14-39-28.jpg)
 6. Choose**Add a device** and press**Enter** . Your computer will start to detect your Bluetooth mouse.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_17-57-35.jpg)
 7. Choose your Bluetooth mouse and press Enter. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Troubleshooter
 
  If your mouse works fine on another computer, it should be a system issue. Windows has in-built troubleshooters to diagnose and fix common problems. Try this tool to fix the Bluetooth mouse not working problem.
@@ -60,35 +70,16 @@ Did you have this experience? You open your computer ready to work or entertain,
 2. Use the**Tab** key to choose**Update & Security** and then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-00-03.jpg)
 3. Choose**Troubleshoot** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-59-52.jpg)
 4. Select**Bluetooth** . Activate**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_19-01-06.jpg)
 5. Follow the instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Bluetooth mouse Power Management
 
@@ -97,11 +88,12 @@ Key features:
 1. Press the**Windows logo key + X** to open the menu. Use the**down arrow key** to choose**Device Manager** then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-31-48.jpg)
 2. Press**Tab** key to choose**Bluetooth** . Press the**right arrow** key to open the folder.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Choose the Bluetooth and press Enter. Go to the**Power Management** tab. Make sure**Allow the computer to turn off this device to save power** is**unchecked** . If it’s not, activate the checkbox (using the tab key) and press the**Space bar** . Move to OK and save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-17_18-48-38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -119,12 +111,14 @@ Key features:
 2. Run Driver Easy and use Tabchoose the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -140,8 +134,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +141,17 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-the-complete-review-lg-360-camera-cutting-edge-2023-edition/"><u>[New] The Complete Review LG 360 Camera - Cutting-Edge 2023 Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-discover-the-best-phone-apps-to-improve-vocality-for-2024/"><u>[Updated] Discover the Best Phone Apps to Improve Vocality for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-rdr2-crashes-due-to-high-memory-usage-tips-on-increasing-your-pagefile-size/"><u>Avoid RDR2 Crashes Due to High Memory Usage - Tips on Increasing Your Pagefile Size</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-troubleshooting-and-overcoming-windows-mysterious-blackout-problems/"><u>Expert Tips on Troubleshooting and Overcoming Windows' Mysterious Blackout Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hid-integrity-rectified-missing-touch-element/"><u>HID Integrity: Rectified Missing Touch Element</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-video-experience-non-youtube-hubs-explained/"><u>In 2024, Elevating Video Experience Non-Youtube Hubs Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-impact-livestreaming-360-degree-video-magic-on-youtube/"><u>Maximizing Impact Livestreaming 360-Degree Video Magic on YouTube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-13-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 13 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-fixing-laptop-mouse-freezing-issues/"><u>Troubleshooting Techniques for Fixing Laptop Mouse Freezing Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-or-fresh-install-logitech-g403-drivers-for-optimal-performance-on-windows-computers/"><u>Update or Fresh-Install Logitech G403 Drivers for Optimal Performance on Windows Computers</u></a></li>
+</ul></div>
 

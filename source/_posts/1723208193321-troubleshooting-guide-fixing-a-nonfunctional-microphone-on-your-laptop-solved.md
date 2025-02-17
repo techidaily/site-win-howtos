@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Nonfunctional Microphone on Your Laptop - Solved"
-date: 2025-02-02T07:34:15.985Z
-updated: 2025-02-07T01:16:40.080Z
+date: 2025-02-15T23:53:10.566Z
+updated: 2025-02-16T20:56:00.057Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Update the driver
 
  Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
@@ -69,9 +65,17 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  4) Restart your laptop, and check to see if your keyboard works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Press the problem keys diagonally
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
 
@@ -80,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
@@ -93,6 +97,10 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
@@ -100,10 +108,6 @@ If you have no idea how to do a system restore, refer steps below:
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Click **System Restore** .
 
@@ -114,7 +118,7 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
@@ -128,10 +132,6 @@ If you have no idea how to do a system restore, refer steps below:
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
 
@@ -155,19 +155,22 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-untold-story-10-pro-vlc-tricks-for-better-playback/"><u>[New] In 2024, The Untold Story 10 Pro-VLC Tricks for Better Playback</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods/"><u>[Updated] 2024 Approved Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-silent-movies-to-sound-films-a-modern-tutorial-for-2024/"><u>[Updated] From Silent Movies to Sound Films A Modern Tutorial for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/8-effective-remedies-for-iphones-that-wont-exit-headphone-configuration/"><u>8 Effective Remedies for iPhones That Won't Exit Headphone Configuration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/baffled-by-sudden-computer-turnoffs-heres-how-you-can-fix-them/"><u>Baffled by Sudden Computer Turnoffs? Here's How You Can Fix Them!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clear-explanation-on-how-to-overcome-livekernelevent-anomaly-sigma-117/"><u>Clear Explanation on How to Overcome LiveKernelEvent Anomaly Sigma-117</u></a></li>
-<li><a href="https://fox-place.techidaily.com/easy-guide-configuring-your-mouse-options-via-windows-control-panel-yl-computing/"><u>Easy Guide: Configuring Your Mouse Options via Windows Control Panel - YL Computing</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-maximizing-video-success-on-youtube-long-term-creativity-commons-strategy/"><u>In 2024, Maximizing Video Success on YouTube Long-Term Creativity Commons Strategy</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-why-your-ps4-controllers-arent-charging-and-how-to-get-them-back-on-track/"><u>Mastering the Fix: Why Your PS4 Controllers Aren't Charging (and How to Get Them Back on Track)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-laptop-mouse-stops-responding-a-comprehensive-guide/"><u>Quick Fixes for When Your Laptop Mouse Stops Responding – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-guide-to-modifying-files-with-trusty-installer-permission/"><u>The Guide to Modifying Files with Trusty Installer Permission</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-keyboards-in-windows-1178/"><u>Troubleshooting Non-Responsive Keyboards in Windows 11/7/8</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-scrutinizing-hero5s-performance-throughout-day/"><u>[New] 2024 Approved Scrutinizing Hero5's Performance Throughout Day</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unlocking-the-potential-of-drone-footage-through-editing/"><u>[Updated] 2024 Approved Unlocking the Potential of Drone Footage Through Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-cutting-edge-mp4-utilities-choosing-the-right-one-for-mac-for-2024/"><u>[Updated] Cutting Edge MP4 Utilities Choosing the Right One for Mac for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-windows-cant-identify-suitable-printer-drivers/"><u>Effective Solutions for When Windows Can't Identify Suitable Printer Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-eliminate-error-0x8024401c-and-restore-seamless-updates-on-your-windows-11-machine/"><u>Expert Solutions to Eliminate Error 0X8024401c & Restore Seamless Updates on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-secure-connection-failed-errors-in-mozilla-firefox/"><u>How to Fix 'Secure Connection Failed' Errors in Mozilla Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-ts-11-bluetooth-connection-problem-and-start-pairing-your-gadgets/"><u>How to Resolve Windows T's 11 Bluetooth Connection Problem and Start Pairing Your Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/illuminate-your-pc-effective-solutions-for-overcoming-windows-11s-black-screen-troubles/"><u>Illuminate Your PC: Effective Solutions for Overcoming Windows 11'S Black Screen Troubles</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-13-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-a79-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo A79 5G Phones</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-edit-without-limits-the-top-10-free-online-video-editors-for-2024/"><u>New Edit Without Limits The Top 10 Free Online Video Editors for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-a-malfunctioning-integrated-webcam-on-a-windows-device/"><u>Step-by-Step Guide to Fixing a Malfunctioning Integrated Webcam on a Windows Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-rdr2-errors-by-expanding-the-virtual-memory-size/"><u>Troubleshoot RDR2 Errors by Expanding the Virtual Memory Size</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-successful-windows-11-patch-application-issue-resolved/"><u>Troubleshooting Steps for a Successful Windows 11 Patch Application: [ISSUE RESOLVED]</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ultra-fast-picture-reader-for-windows-11/"><u>Ultra-Fast Picture Reader for Windows 11</u></a></li>
 </ul></div>
 

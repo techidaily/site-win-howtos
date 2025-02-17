@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Why Your WD My Passport Ultra May Not Appear on Windows"
-date: 2024-08-23T14:00:55.876Z
-updated: 2024-08-24T14:00:55.876Z
+date: 2025-02-13T23:49:02.267Z
+updated: 2025-02-16T16:58:59.147Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/d063f2ca427c5d79f99dec8234182f00aa398e1a0
 
 So don’t give up hope. There is something you can do to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are solutions to try. You don’t have to try them all; just work your way down the list until it works.
@@ -35,9 +39,6 @@ So don’t give up hope. There is something you can do to fix it.
 2. [Create a new user profile](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable SSL scanning in your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run a virus scan
 
  The ‘SEC\_ERROR\_UNKNOWN\_ISSUER’ error message may appear if a virus on your computer is preventing the certificate from being detected. The virus may even be generating the error itself.
@@ -49,8 +50,9 @@ So don’t give up hope. There is something you can do to fix it.
  Then restart your computer and try to open the website again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Create a new user profile
 
  You can also create a new user profile in Firefox to fix the error SEC\_ERROR\_UNKNOWN\_ISSUER.
@@ -61,9 +63,11 @@ To do so, follow the steps below:
  If Firefox in your computer is already closed, head to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12025bb9964.jpg)
 2. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Type**firefox.exe -P** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1202b7e8d62.jpg)
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
@@ -81,19 +85,20 @@ To do so, follow the steps below:
 1. Open Avast in your computer, and click**Menu** \>**Settings** on the upper right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200fecc285.jpg)
 2. Click**Components** on the left, and click**Customize** in the**Web Shield** section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200c760b7e.jpg)
 3. Uncheck the box next to**Enable HTTPS scanning** in the pop-up window. Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12013f88f23.jpg)
 4. Click**OK** again to save your changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
 5. Re-open Firefox, and open the website again to see if it works now.
 
@@ -110,8 +115,6 @@ To do so, follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +122,21 @@ To do so, follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-becoming-a-master-at-the-art-of-engaging-thumbnails-for-2024/"><u>[Updated] Becoming a Master at the Art of Engaging Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-guide-to-selecting-optimal-drones-motors/"><u>[Updated] In 2024, The Ultimate Guide to Selecting Optimal Drones Motors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synthesizing-best-canon-temporal-videography/"><u>2024 Approved Synthesizing Best Canon Temporal Videography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-the-synergy-of-canva-and-ai-for-content-production/"><u>Harness the Synergy of Canva and AI for Content Production</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/hidden-narrators-of-fb-nuggets-for-2024/"><u>Hidden Narrators of FB Nuggets for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-tecno-spark-20-proplus-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Spark 20 Pro+ Phone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-playtime-does-your-machine-match-vanguards-minimum-processor-standards/"><u>Optimize Playtime: Does Your Machine Match Vanguard's Minimum Processor Standards?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-visual-output-fix-unsupported-time-codes-in-your-current-monitor-setup/"><u>Optimizing Visual Output - Fix Unsupported Time Codes in Your Current Monitor Setup</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-y200e-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y200e 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/teredo-connections-unraveling-issues-that-prevent-qualification/"><u>Teredo Connections: Unraveling Issues That Prevent Qualification</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-strategies-to-secure-your-windows-pc-essential-techniques/"><u>Top 5 Strategies to Secure Your Windows PC: Essential Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-cod-wwii-fixing-error-4220/"><u>Troubleshooting Guide for COD WWII - Fixing Error 4220</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooter-for-computers-unable-to-shutdown-windows-10-fixed/"><u>Ultimate Troubleshooter for Computers Unable to Shutdown Windows 10 - FIXED</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-are-my-keyboard-arrow-keys-failing-discover-the-fixes-you-need/"><u>Why Are My Keyboard Arrow Keys Failing? Discover the Fixes You Need</u></a></li>
+</ul></div>
 

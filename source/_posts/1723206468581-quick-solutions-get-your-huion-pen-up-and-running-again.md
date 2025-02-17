@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Get Your Huion Pen Up & Running Again!"
-date: 2025-01-31T08:36:47.205Z
-updated: 2025-02-07T02:38:33.035Z
+date: 2025-02-14T00:35:52.329Z
+updated: 2025-02-16T21:23:54.028Z
 tags:
   - win11
   - win10
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
  So this is the quick fix for you. Sometimes it’s just your device driver running into glitches that caused the pen to stop working. In this case, simply shut down your computer and then restart it. The next time you use your pen on a PC, it should work as normal.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable Sleep Mode
 
@@ -81,17 +85,9 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
  2) From the left navigation panel, click**System** . Find
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
@@ -120,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
@@ -157,10 +161,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -178,7 +178,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
@@ -187,19 +187,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
 
@@ -209,6 +201,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -216,6 +212,10 @@ OR
  1) On your keyboard, press the**Windows logo key** and**S** at the same to invoke the search box. Then, type**notepad** and click the**Notepad** application.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
@@ -232,7 +232,7 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
@@ -260,14 +260,19 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-recharge-and-reflect-top-ideas-for-combining-podcast-listening-and-tasks-for-2024/"><u>[Updated] Recharge and Reflect Top Ideas for Combining Podcast Listening & Tasks for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixer-upper-explorerexe-stability/"><u>Fixer Upper: Explorer.exe Stability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-32-bit-applications-print-driver-host-malfunctioning-issue/"><u>How to Fix: 32-Bit Application's Print Driver Host Malfunctioning Issue</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-cultivating-a-brand-identity-youtube-visibility-without-spending/"><u>In 2024, Cultivating a Brand Identity YouTube Visibility without Spending</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-flash-facts-how-videos-captivate-twitters-audience/"><u>In 2024, Flash Facts How Videos Captivate Twitter's Audience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-trackpad-not-responding-in-windows-heres-how-you-can-repair-it-win1087/"><u>Laptop Trackpad Not Responding in Windows? Here's How You Can Repair It (Win10/8/7)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-sony-xperia-5-v-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Sony Xperia 5 V Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixed-keyboard-shortcut-windowsplusshiftpluss-issue-on-windows-11-and-10/"><u>Troubleshooting Fixed: Keyboard Shortcut Windows+Shift+S Issue on Windows 11 and 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-p11-pro-tablet-a-great-device-with-some-blemishes-discussed/"><u>Unveiling the Lenovo P11 Pro Tablet - A Great Device with Some Blemishes Discussed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-editor-insider-look-editmaster-pro-whats-new-in-2esy/"><u>[New] Editor Insider Look EditMaster Pro - What's New in 2Esy</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-turbo-transfer-efficient-youtube-listings/"><u>[New] In 2024, Turbo Transfer Efficient YouTube Listings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-m1-pro-vs-the-m1-max-showdown-what-sets-them-apart/"><u>[New] The M1 Pro Vs. The M1 Max Showdown - What Sets Them Apart?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/crafting-the-perfect-minecraft-archive-6-key-strategies-for-2024/"><u>Crafting the Perfect Minecraft Archive 6 Key Strategies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dxgidll-woes-pubgs-triumphant-fix/"><u>Dxgi.dll Woes: PUBG's Triumphant Fix</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-tactics-for-producing-attention-grabbing-video-stories-in-60-seconds/"><u>Essential Tactics for Producing Attention-Grabbing Video Stories in 60 Seconds</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-brio-driver-installation-guide-free-download-for-windows-users/"><u>Logitech BRIO Driver Installation Guide: Free Download for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-usb-device-recognition-problems-the-definitive-guide-to-descriptor-request-failure/"><u>Overcoming USB Device Recognition Problems: The Definitive Guide to 'Descriptor Request Failure'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-when-your-dhcp-server-is-not-responding/"><u>Step-by-Step Solution for When Your DHCP Server Is Not Responding</u></a></li>
+<li><a href="https://fox-making.techidaily.com/the-mastermind-of-ancient-chinese-transportation-systems-unveiled-by-yl-software-roads-and-canals-redefined/"><u>The Mastermind of Ancient Chinese Transportation Systems Unveiled by YL Software: Roads and Canals Redefined</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-leap-in-audio-tech-google-pixel-buds-pro-2-revealed-explore-price-predictions-release-timing-and-rumored-features/"><u>The Next Leap in Audio Tech – Google Pixel Buds Pro 2 Revealed! Explore Price Predictions, Release Timing & Rumored Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1110700-9781780996325-the-unknown-mother/"><u>The Unknown Mother | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-your-windows-media-player-connection-issues/"><u>Troubleshooting Steps: Resolving Your Windows Media Player Connection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-your-devices-bluetooth-functionality/"><u>Troubleshooting Tips: Reactivating Your Device's Bluetooth Functionality</u></a></li>
 </ul></div>
 

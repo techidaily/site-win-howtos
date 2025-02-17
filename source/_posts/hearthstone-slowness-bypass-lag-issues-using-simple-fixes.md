@@ -1,7 +1,7 @@
 ---
 title: Hearthstone Slowness? Bypass Lag Issues Using Simple Fixes!
-date: 2025-02-04T14:31:33.768Z
-updated: 2025-02-07T02:59:42.296Z
+date: 2025-02-11T19:36:03.257Z
+updated: 2025-02-17T00:06:20.769Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Having terrible**Hearthstone lagging**?  You’re not alone. Many players are re
 5. [**Delete the log.config file**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Modify your graphics card settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if your PC meets the minimum system requirements for Hearthstone
 
  This**Hearthstone lagging**  issue may occur if your PC fails to meet the minimum system requirements for Hearthstone. Here we list out the both **the minimum requirements** and **the recommended specifications**  (if you’re looking for a smoother and more enjoyable gaming experience) specifications forHearthstone.
@@ -50,7 +54,7 @@ Having terrible**Hearthstone lagging**?  You’re not alone. Many players are re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c259e1420374.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** on your PC.  
@@ -63,10 +67,6 @@ Having terrible**Hearthstone lagging**?  You’re not alone. Many players are re
  You’d probably have to upgrade your hardware if any of the above-mentioned item fails to meet its minimum requirement.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -81,7 +81,7 @@ A corrupt or outdated graphics driver is one of the common reason of the Hearths
 4. Restart your computer, launch Hearthstone and see if the problem has been resolved. If the**Hearthstone lagging** issue still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -103,7 +103,7 @@ A corrupt or outdated graphics driver is one of the common reason of the Hearths
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: AdjustBlizzard settings
@@ -115,10 +115,6 @@ As it turns out, having Blizzard running in background when playing a game contr
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c750aa1fa.jpg)
 3. Run Hearthstone again and see if the lagging has been reduced.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -136,7 +132,7 @@ Deleting the**log.config**file is another proven method to reduce lag according 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Modify your graphics card settings
@@ -151,6 +147,10 @@ You can also modify your graphics card settings for reduced lag and smoother gam
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d2720d3cb.jpg)
 2. In the left pane, click**Manage 3D settings** . Then in the right pane, click**Global Settings** and **make sure you’ve modified the following features as follows** :  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **Power management mode** :**Prefer maximum performance** ;  
    * **Texture filtering -Quality** :**High performance** ;  
    * **Threaded optimization** :**Off** ;  
@@ -158,35 +158,35 @@ You can also modify your graphics card settings for reduced lag and smoother gam
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d75d2aaaf.jpg)
 3. Launch Hearthstone and check if the**Hearthstone lagging** issue has been solved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Modify AMD graphics card settings**
 1. On your keyboard, press**the Windows logo key** and type**amd** . Then click on **AMD Settings**  .![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d5ccb16f0.png)
 2. Click**Gaming** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d74add3bc.jpg)
 3. Click**Global Settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d7388bd4a.jpg)
 4. Modify the settings as follows:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d705b7f8b.jpg)
 5. Launch Hearthstone and check if the**Hearthstone lagging** issue has been solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Modify Intel graphics card settings**
 1. On your keyboard, press**the Windows logo key** and type**control** . Then click on **Control Panel**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25dd5c35ea9.png)
 2. Type**intel** in the search box and click**Intel® HD Graphics** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25ddc3b471d.jpg)
 3. Click**3D** .  
@@ -224,24 +224,17 @@ You can also modify your graphics card settings for reduced lag and smoother gam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-unwanted-high-cpu-load-mitigated-by-windows-stops/"><u>[FIXED] Unwanted High CPU Load Mitigated by Windows Stops</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-liberate-iphone-photos-from-red-eye-effects-at-no-cost/"><u>[New] Liberate iPhone Photos From Red Eye Effects at No Cost</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-framing-the-future-expert-tips-for-picture-perfection/"><u>[Updated] In 2024, Framing the Future Expert Tips for Picture Perfection</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-reel-in-attention-by-emulating-tiktok-stardom-on-instagram/"><u>2024 Approved Reel In Attention by Emulating TikTok Stardom on Instagram</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-f54-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy F54 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/hering-finances-how-much-do-youtubers-earn-per-ad-in-2024/"><u>Deciphering Finances How Much Do YouTubers Earn Per Ad, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209031169-fix-error-0x887a0006-instantly-effortless-fix-techniques-unveiled/"><u>Fix Error 0X887A0006 Instantly: Effortless Fix Techniques Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-smart-spectacles-trends-and-picks/"><u>Leading Smart Spectacles Trends and Picks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138587399-9781450270885-navigating-the-coming-chaos/"><u>Navigating the Coming Chaos | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-directory-name-not-recognized-issue-comprehensive-solutions/"><u>Resolving the 'Directory Name Not Recognized' Issue - Comprehensive Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202531697-shift-key-issues-discover-effective-fixes-and-solutions/"><u>Shift Key Issues? Discover Effective Fixes and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-why-your-surface-is-on-and-still-not-charging/"><u>Solving the Issue: Why Your Surface Is on and Still Not Charging</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-for-fixing-device-manager-error-code-28-on-your-windows-pc/"><u>Step-by-Step Guide for Fixing ‘Device Manager Error Code 28’ on Your Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-non-responsive-dolby-systems-on-window-10/"><u>Step-by-Step Guide: Repairing Non-Responsive Dolby Systems on Window 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-restoring-functionality-to-windows-11s-stuck-start-menu/"><u>Step-by-Step: Restoring Functionality to Windows 11'S Stuck Start Menu</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-for-resuming-razer-device-connection-support-by-synapse/"><u>Strategies for Resuming Razer Device Connection Support by Synapse</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-ce-3-lite-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord CE 3 Lite 5G Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-failed-d3d9-device-creation-issues/"><u>Troubleshooting Guide: Resolving Failed D3D9 Device Creation Issues</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-6s-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 6s Plus</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-8-trendsetting-tools-that-every-startup-should-prioritize-today/"><u>[Updated] 8 Trendsetting Tools That Every Startup Should Prioritize Today</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-price-scale-for-shooting-tunes-in-visual-narratives/"><u>[Updated] Price Scale for Shooting Tunes in Visual Narratives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rapid-assembly-of-google-image-mosaics/"><u>[Updated] Rapid Assembly of Google Image Mosaics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-sdr-to-hdr-upgrade-blueprint/"><u>[Updated] The Complete SDR to HDR Upgrade Blueprint</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-call-of-duty-vanguard-error-5573-your-ultimate-troubleshooting-manual/"><u>Conquer Call of Duty: Vanguard Error 5573: Your Ultimate Troubleshooting Manual</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-se-2020-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone SE (2020) to Computer? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-efficient-resource-usage-control-your-desktop-window-managers-gpu-demands-on-windows-1011/"><u>Mastering Efficient Resource Usage: Control Your Desktop Window Manager's GPU Demands on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-lenovos-stuck-or-broken-fn-key-issue-quickly-and-efficiently/"><u>Solve Your Lenovo's Stuck or Broken Fn Key Issue Quickly & Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-repairing-windows-11-pc-reset-errors-a-complete-guide/"><u>Successfully Repairing Windows 11 PC Reset Errors - A Complete Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-video-recording-devices-for-professional-streaming-artists/"><u>Top 7 Video Recording Devices for Professional Streaming Artists</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-chrome-plugin-loading-problems-on-windows-10-a-comprehensive-guide/"><u>Winning Over Chrome Plugin Loading Problems on Windows 10 - A Comprehensive Guide</u></a></li>
 </ul></div>
 

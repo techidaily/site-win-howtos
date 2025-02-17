@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Shockwave Flash Issues Now Fixed in Google Chrome"
-date: 2025-01-30T21:40:19.936Z
-updated: 2025-02-06T17:00:13.363Z
+date: 2025-02-13T17:11:13.359Z
+updated: 2025-02-16T16:24:56.238Z
 tags:
   - win11
   - win10
@@ -46,8 +46,16 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome, play the same content and see if it works smoothly.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If yes, you can try to enable the extensions one by one until you find out the one responsible. But if it doesn’t help with the situation, you might want to turn on the extensions and move on to **Fix 2** .
 
@@ -63,21 +71,21 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -92,14 +100,10 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -119,10 +123,6 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
@@ -151,24 +151,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-audiovisual-excellence-youtube-videos-in-premiere-pro/"><u>[New] Audiovisual Excellence YouTube Videos in Premiere Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instas-music-guide-essentials/"><u>[New] In 2024, Insta's Music Guide Essentials</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-advanced-scripts-engineering-countdown-timers-in-broadcast-tools-for-2024/"><u>[Updated] Advanced Scripts Engineering Countdown Timers in Broadcast Tools for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-detect-if-someone-has-muted-or-blocked-you-on-snapchat/"><u>[Updated] In 2024, How to Detect If Someone Has Muted or Blocked You on Snapchat</u></a></li>
-<li><a href="https://fox-place.techidaily.com/comprehensive-guide-to-securely-backing-up-software-installs-across-windows-11-10-8-and-the-essential-steps/"><u>Comprehensive Guide to Securely Backing Up Software Installs Across Windows 11, 10, 8 & The Essential Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-missing-vc-runtime-140-dll-file-expert-solutions-revealed/"><u>Fixing the Missing VC Runtime 140 DLL File - Expert Solutions Revealed</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-the-microsoft-surface-laptop-go-redefines-affordable-portability-in-ultrabooks/"><u>How the Microsoft Surface Laptop Go Redefines Affordable Portability in Ultrabooks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-combat-excessive-gpu-utilization-by-windows-dwm-a-guide-for-win10win11-users/"><u>How to Combat Excessive GPU Utilization by Windows' DWM: A Guide for Win10/Win11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-laptop-touchpad-not-working/"><u>How To Solve Laptop Touchpad Not Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-error-resolution-for-unwritable-0x-referenced-memory-instances/"><u>Mastering Error Resolution for Unwritable 0X Referenced Memory Instances</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-with-steams-downloading-functionality-during-updates/"><u>Overcoming Challenges with Steam's Downloading Functionality During Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-friends-unreachable-steam-issue/"><u>Overcoming Friends Unreachable Steam Issue</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/professionelle-losungen-zum-schutz-ihres-windows-servers-entdecken-sie-aomei-backupper-server-als-fuhrende-wahl/"><u>Professionelle Lösungen Zum Schutz Ihres Windows Servers: Entdecken Sie AOMEI Backupper Server Als Führende Wahl</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-and-score-top-techniques-for-great-youtube-cinematography/"><u>Shoot and Score Top Techniques for Great YouTube Cinematography</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-p40-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from P40</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-an-issue-occurred-while-rebooting-message-in-windows-11-a-complete-guide/"><u>Solving the 'An Issue Occurred While Rebooting' Message in Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-pubg-non-loading-buildings-fix/"><u>Step-by-Step Solution for PUBG Non-Loading Buildings Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-sign-in-issues-with-windows-1011-user-profiles/"><u>Troubleshooting Sign-In Issues with Windows 10/11 User Profiles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-your-ps4s-excessive-sound-diagnosis-and-resolution-steps/"><u>Understanding Your PS4’s Excessive Sound: Diagnosis and Resolution Steps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-maximize-your-virtual-engagements-using-obs-and-zoom/"><u>[New] How to Maximize Your Virtual Engagements Using OBS & Zoom</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-curating-striking-instagram-profile-photos/"><u>[Updated] In 2024, Curating Striking Instagram Profile Photos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-explore-revolutionary-meeting-platforms-that-cost-nothing/"><u>[Updated] In 2024, Explore Revolutionary Meeting Platforms That Cost Nothing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-title-and-description-tweaks-for-maximum-engagement-on-igtv/"><u>2024 Approved Title and Description Tweaks for Maximum Engagement on IGTV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/5-202/"><u>前 5 大免費錄影解決方案 202</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-deal-with-error-code-0x8024200d-on-windows-expert-advice-for-update-recovery/"><u>How To Deal With Error Code 0X8024200D on Windows: Expert Advice for Update Recovery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/is-unreal-engine-losing-its-bearings-over-d3d/"><u>Is Unreal Engine Losing Its Bearings over D3D?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206186204-restore-lenovo-mouse-pad-functionality-on-your-computer-fixes-for-win-1187-users/"><u>Restore Lenovo Mouse Pad Functionality on Your Computer - Fixes for Win 11/8/7 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-airpods-connectivity-woes-on-windows-11-expert-tips-and-tricks-of-2024/"><u>Solve Your AirPods Connectivity Woes on Windows 11: Expert Tips and Tricks of 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-12-proplus-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme 12 Pro+ 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-media-connectivity-problems/"><u>Troubleshooting Tips for Windows Media Connectivity Problems</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-groovy-way-to-switch-on-bluetooth-solutions-and-steps-for-w7-users/"><u>Windows Groovy Way to Switch on Bluetooth: Solutions and Steps for W7 Users</u></a></li>
 </ul></div>
 

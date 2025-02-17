@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Your PC Can't Close Windows 10 OS Successfully – FIXED!
-date: 2025-02-03T11:04:16.563Z
-updated: 2025-02-07T13:05:40.247Z
+date: 2025-02-10T16:30:16.122Z
+updated: 2025-02-16T21:29:04.930Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -56,7 +52,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
@@ -71,24 +67,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -101,12 +97,12 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -117,7 +113,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -127,6 +123,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,20 +154,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-free-youtube-intros-a-comprehensive-instructional-guide/"><u>[Updated] Free YouTube Intros A Comprehensive Instructional Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-zerodxgierordevicehung-in-win11-systems/"><u>Fixing ZeroDXGIErorDeviceHung in Win11 Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-jumble-to-flow-kinemasters-editing-masterclass-for-2024/"><u>From Jumble to Flow Kinemaster's Editing Masterclass for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/halting-the-incessant-flicker-effective-ways-to-fix-a-flashing-pointer/"><u>Halting the Incessant Flicker: Effective Ways to Fix a Flashing Pointer</u></a></li>
-<li><a href="https://win11.techidaily.com/harmonizing-irq-settings-for-pure-audio/"><u>Harmonizing IRQ Settings for Pure Audio</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-m6-pro-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco M6 Pro 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-display-stuck-learn-how-to-fix-and-switch-between-portrait-and-landscape-modes/"><u>IPhone Display Stuck? Learn How to Fix and Switch Between Portrait & Landscape Modes</u></a></li>
-<li><a href="https://facebook.techidaily.com/manage-custom-recommendations-for-better-privacy-online/"><u>Manage Custom Recommendations for Better Privacy Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-stability-ultimate-fixes-to-keep-your-csgo-game-running-smoothly/"><u>Mastering Stability: Ultimate Fixes to Keep Your CSGO Game Running Smoothly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-input-device-failures-on-windows-7-fixes-for-your-defunct-usb-mouse-and-keyboard/"><u>Overcoming Input Device Failures on Windows 7 – Fixes for Your Defunct USB Mouse and Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-update-woes-8-essential-fixes-for-windows-10-error-code-0x800f0922/"><u>Solve Update Woes: 8 Essential Fixes for Windows 10 Error Code 0X800f0922</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-responsive-touchpad-scroll-problem-in-windows-10/"><u>Troubleshooting a Non-Responsive Touchpad Scroll Problem in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-fix-your-computer-when-its-stuck-at-the-getting-windows-ready-screen/"><u>Troubleshooting Steps: How to Fix Your Computer When It's Stuck at the 'Getting Windows Ready' Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-to-correct-corrupted-files-on-your-windows-computer/"><u>Troubleshooting Techniques to Correct Corrupted Files on Your Windows Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/upcoming-fall-releases-exploring-the-latest-innovations-in-apples-ecosystem-including-artificial-intelligence-detailed-insights-from-zdnet/"><u>Upcoming Fall Releases: Exploring the Latest Innovations in Apple's Ecosystem Including Artificial Intelligence - Detailed Insights From ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-picsart-guide-discreetly-mask-faces/"><u>[Updated] 2024 Approved Picsart Guide Discreetly Mask Faces</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-optimal-mobile-photography-and-videography-on-ios-and-android/"><u>[Updated] In 2024, Optimal Mobile Photography and Videography on iOS & Android</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/back-to-school-bargains-await-unveiling-samsungs-student-deals-on-laptops-and-tablets-spotted/"><u>Back-to-School Bargains Await! Unveiling Samsung's Student Deals on Laptops & Tablets, Spotted</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-port-reset-failed-warnings-with-easy-fixes-for-your-windows-11-computer/"><u>Bypassing 'Port Reset Failed' Warnings with Easy Fixes for Your Windows 11 Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-revelation-openais-gpt-4-unveiling/"><u>Cutting Edge Revelation: OpenAI's GPT-4 Unveiling</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-intel-integrated-hd-graphics-driver-for-windows-1011/"><u>Download & Install Intel Integrated HD Graphics Driver for Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-guide-resolving-minecraft-performance-problems/"><u>Easy Troubleshooting Guide: Resolving Minecraft Performance Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x8024002e-resolved-effective-steps-for-restoring-windows-update-functionality/"><u>Error 0X8024002e Resolved: Effective Steps for Restoring Windows Update Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-stuck-touchpad-scroll-feature-a-comprehensive-guide-for-seamless-browsing/"><u>Fixing a Stuck Touchpad Scroll Feature: A Comprehensive Guide for Seamless Browsing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-12-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 12 and Browser | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stand-out-as-an-elite-gamer-on-youtube/"><u>In 2024, Stand Out as an Elite Gamer on Youtube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-device-drivers-missing-challenges-in-windows-7-setup/"><u>Overcoming 'Device Drivers Missing' Challenges in Windows 7 Setup</u></a></li>
+<li><a href="https://media-tips.techidaily.com/say-goodbye-to-unforeseen-expenses-how-the-fccs-latest-policy-eliminates-covert-cable-fees/"><u>Say Goodbye to Unforeseen Expenses: How the FCC's Latest Policy Eliminates Covert Cable Fees</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/omplete-analysts-toolkit-for-tracking-youtube-audiences-and-money-flow-for-2024/"><u>The Complete Analyst's Toolkit for Tracking YouTube Audiences & Money Flow for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-10-slow-closure-fixed-effective-tips-for-a-swift-shutdown-experience/"><u>Win 10 Slow Closure Fixed? Effective Tips for a Swift Shutdown Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209086261-winning-the-battle-against-failing-windows-updates-now-fixed/"><u>Winning the Battle Against Failing Windows Updates - Now Fixed</u></a></li>
 </ul></div>
 

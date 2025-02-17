@@ -1,7 +1,7 @@
 ---
 title: "Solving the LiveKernelEvent 117 Mishap: A Comprehensive Guide"
-date: 2024-08-19T07:49:56.608Z
-updated: 2024-08-20T07:49:56.608Z
+date: 2025-02-12T23:29:37.113Z
+updated: 2025-02-16T17:04:31.694Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**fo
 3. **[Check the services related to Xbox Live](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your network adapter software and Xbox One controller software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Hard reset your Xbox One and modem
 
 Sometimes a hard-reset can help you fix some strange problems. A hard-reset of Xbox One controller and modem helps many users fix the Xbox One not connecting to Xbox Live error. So make sure to give it a shot.
@@ -35,17 +39,15 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to hard reset your modem
 
 1) Use a pin or pen tip to hold the reset button of your modem for 30 seconds. Note: You should see the power light blinking.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd1c2b6433.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
 
 ## Method 2: Change IP settings and DNS settings on Xbox Live
@@ -62,49 +64,49 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd893e389f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click**IP settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd976db238.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 Now try to connect your Xbox one to Xbox Live.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Check the services related to Xbox Live
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf2f4ab34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game Save**via the same steps above. They’re ussually listed closed to Xbox Live Networking Service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
 
@@ -112,22 +114,14 @@ Your Xbox One won’t connect to Xbox Live could also being caused by driver iss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe3c5e3c1c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe7ca890f7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After updating the drivers, please restart your computer to make the new drivers take effect.
 
 * [Xbox](https://tools.techidaily.com/drivereasy/download/)
@@ -138,8 +132,6 @@ After updating the drivers, please restart your computer to make the new drivers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +139,21 @@ After updating the drivers, please restart your computer to make the new drivers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>[Updated] 2024 Approved Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-linux-screenshot-the-most-acclaimed-applications/"><u>[Updated] Linux Screenshot The Most Acclaimed Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-rectify-resolving-issues-with-compromised-filesystems-in-windows-11/"><u>Diagnose & Rectify: Resolving Issues with Compromised Filesystems in Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-history-series-youtube-recommendations-for-learners-for-2024/"><u>Essential History Series YouTube Recommendations for Learners for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-responding-to-hanging-windows-10-issues-quickly-and-effectively/"><u>Expert Guide: Responding to Hanging Windows 10 Issues Quickly and Effectively</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/harmony-through-play-our-best-10-gems-for-2024/"><u>Harmony Through Play Our Best 10 Gems for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/hidden-technological-evolutions-that-changed-the-game/"><u>Hidden Technological Evolutions That Changed The Game</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-broken-proximity-sensor-on-your-iphone/"><u>How to Fix a Broken Proximity Sensor on Your iPhone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-frame-rate-hiccups-in-cod-mw3-a-guide-for-gamers/"><u>How to Fix Frame Rate Hiccups in COD MW3: A Guide for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-the-hidden-or-missing-wi-fi-features-in-windows-11/"><u>How to Recover the Hidden or Missing Wi-Fi Features in Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-14-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 14 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactivating-the-windows-update-feature-efficiently/"><u>Reactivating the Windows Update Feature Efficiently</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-best-of-the-best-top-ipad-video-editing-software-for-2024/"><u>The Best of the Best Top iPad Video Editing Software for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-slow-reaction-times-in-windows-10-keyboards/"><u>Troubleshooting and Resolving Slow Reaction Times in Windows 10 Keyboards</u></a></li>
+</ul></div>
 

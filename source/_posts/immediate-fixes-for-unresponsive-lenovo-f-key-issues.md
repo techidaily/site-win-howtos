@@ -1,7 +1,7 @@
 ---
 title: Immediate Fixes for Unresponsive Lenovo F-Key Issues
-date: 2024-08-19T07:49:30.886Z
-updated: 2024-08-20T07:49:30.886Z
+date: 2025-02-09T18:51:05.748Z
+updated: 2025-02-16T23:52:11.028Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -47,6 +51,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -66,19 +74,12 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -97,18 +98,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -123,8 +118,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -133,13 +129,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
@@ -169,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +177,24 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-android-video-from-end-to-beginning/"><u>[New] Android Video From End to Beginning</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-moviemakermag-all-about-androvid-editor/"><u>[New] In 2024, MovieMakerMag All About AndroVid Editor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-keyboard-lag-windows-11/"><u>[SOLVED] Keyboard Lag Windows 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-long-term-snappiness-keeping-streaks-uninterrupted/"><u>[Updated] 2024 Approved Long-Term Snappiness Keeping Streaks Uninterrupted</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-guide-to-forming-powerful-content-partnerships-on-youtube/"><u>[Updated] In 2024, Essential Guide to Forming Powerful Content Partnerships on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-direct-linkage-bridging-youtube-and-imovie-with-music/"><u>2024 Approved Direct Linkage Bridging YouTube and iMovie with Music</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-wudfhostexe-high-resource-demand-on-windows-nt-10-machines/"><u>Diagnosing and Fixing the wudfhost.exe High Resource Demand on Windows nT 10 Machines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dyson-360-heuristically-navigates-while-siphoning-charge-an-in-depth-appraisal-of-the-capricious-vacuuming-wizard/"><u>Dyson 360 Heuristically Navigates While Siphoning Charge - An In-Depth Appraisal of the Capricious Vacuuming Wizard</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earnings-explorer-what-you-get-for-watching-one-million-videos-in-2024/"><u>Earnings Explorer What You Get for Watching One Million Videos, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/file-explorer-tips-and-tricks-on-windows-10-for-hassle-free-navigation/"><u>File Explorer Tips & Tricks on Windows 10 for Hassle-Free Navigation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-restore-print-screen-functionality-on-windows-11-and-10/"><u>Fixing the Issue: How to Restore Print Screen Functionality on Windows 11 and 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/future-proofing-after-windows-11-discontinuation-top-operating-systems-for-continuity/"><u>Future-Proofing After Windows 11 Discontinuation - Top Operating Systems for Continuity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-comprehensive-methods-to-resolve-error-0x80072fed-in-windows-10/"><u>Master the Fix: Comprehensive Methods to Resolve Error 0X80072FED in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-encryption-errors-for-safe-browsing-on-mozillas-firewall/"><u>Overcoming Encryption Errors for Safe Browsing on Mozilla's Firewall</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-when-your-computers-f1-f12-keys-wont-respond/"><u>Solution Steps for When Your Computer's F1-F12 Keys Won't Respond</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-undetected-bluetooth-devices-in-windows-11/"><u>Troubleshooting Guide: Resolving Undetected Bluetooth Devices in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-hulus-rununk13-error-with-easy-fixes/"><u>Troubleshooting Hulu's RUNUNK13 Error with Easy Fixes</u></a></li>
+</ul></div>
 

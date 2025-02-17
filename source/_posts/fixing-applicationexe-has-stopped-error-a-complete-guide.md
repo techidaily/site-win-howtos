@@ -1,7 +1,7 @@
 ---
 title: Fixing 'Application.exe Has Stopped' Error – A Complete Guide
-date: 2024-08-19T07:54:32.848Z
-updated: 2024-08-20T07:54:32.848Z
+date: 2025-02-12T18:43:51.748Z
+updated: 2025-02-16T17:26:48.458Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 ## Lenovo F-Key Malfunction? Here's a Simple Guide to Fixing It Fast
 
  The Fn keys play an important role in saving both time and energy, especially for those who often work with Excel, PowerPoint and suchlike. That’s why it can drive you nuts when you find the**Fn keys not working** on your**Lenovo** computer. But rest assured that you’re not alone – in this post, you’ll be greeted with 3 useful methods that have helped many Windows users solve their problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 fixes for Lenovo Fn key not working
 
@@ -75,6 +79,10 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -87,19 +95,10 @@ In another version of BIOS, the procedure may go like this:
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
@@ -135,35 +134,30 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Follow the onscreen instructions to download and install your keyboard drivers.
 
 **Note that** Windows may not be able to download and install the latest drivers for you. If you receive a notification (as shown below) that reads “The best drivers for your device are already installed,” it doesn’t necessarily mean your keyboard driver is up-to-date. Perhaps you should look to the manufacturer’s website for any lately released versions, if possible.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-127.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) After updating your keyboard drivers, you should now make similar changes to the chipset drivers. In Device Manager, double-click**System devices** to expand its drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
@@ -172,6 +166,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
@@ -195,12 +193,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -218,8 +217,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +224,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/recise-pathway-to-youtube-channel-profitable-management-for-2024/"><u>[New] Precise Pathway to YouTube Channel Profitable Management for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-exclusive-experiences-top-15plus-virtual-reality-tales-on-cardboard/"><u>2024 Approved Exclusive Experiences Top 15+ Virtual Reality Tales on Cardboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-windows-10s-heavy-cpu-demands/"><u>Addressing Windows 10'S Heavy CPU Demands</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-fn-key-issues-on-dell-notebooks/"><u>Effective Solutions for Fixing 'Fn' Key Issues on Dell Notebooks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-game-hacks-in-apex-legends-with-this-straightforward-anti-cheat-solution/"><u>Eliminate Game Hacks in Apex Legends with This Straightforward Anti-Cheat Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-conversation-to-creativity-4-reasons-for-claude-3-preference/"><u>From Conversation to Creativity: 4 Reasons for Claude 3 Preference</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-cyclic-redundancy-check-errors-a-comprehve-solution-guide/"><u>How to Overcome Cyclic Redundancy Check Errors - A Comprehve Solution Guide</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1726029019563-insta/"><u>Insta動画を最高に見せる投稿テクニック</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-for-streaming-your-dvds-on-media-platforms-like-plex-network-attached-storage-nas-roku-and-dlna-devices/"><u>Step-by-Step Tutorial for Streaming Your DVDs on Media Platforms Like Plex, Network Attached Storage (NAS), Roku & DLNA Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-casting-issues-fixes-for-device-connection-failures-in-windows-11/"><u>Troubleshooting Casting Issues: Fixes for Device Connection Failures in Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-shorts-your-comprehensible-journey-starts-here-for-2024/"><u>YouTube Shorts Your Comprehensible Journey Starts Here for 2024</u></a></li>
+</ul></div>
 

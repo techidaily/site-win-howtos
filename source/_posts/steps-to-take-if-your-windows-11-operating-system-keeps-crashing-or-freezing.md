@@ -1,7 +1,7 @@
 ---
 title: Steps to Take if Your Windows 11 Operating System Keeps Crashing or Freezing
-date: 2024-08-19T07:55:51.776Z
-updated: 2024-08-20T07:55:51.776Z
+date: 2025-02-14T21:07:53.265Z
+updated: 2025-02-17T01:25:59.426Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -48,6 +52,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  This speaker crackling problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio  driver to see if it fixes your problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -60,21 +68,17 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -82,21 +86,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -112,8 +117,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +124,26 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/shutoff-initiated-during-gaming/"><u>[SHUTOFF] Initiated During Gaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-successful-videos-on-youtube-for-beginners-for-2024/"><u>[Updated] Crafting Successful Videos on YouTube for Beginners for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-5-best-bandicam-mac-alternatives/"><u>2024 Approved 5 Best Bandicam Mac Alternatives</u></a></li>
+<li><a href="https://facebook.techidaily.com/behavior-tracked-data-sold-the-new-trend/"><u>Behavior Tracked, Data Sold: The New Trend</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-motorola-defy-2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Defy 2 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203802097-how-to-fix-battleye-installation-errors-and-get-back-in-action/"><u>How to Fix BattlEye Installation Errors and Get Back in Action</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unhindered-movie-enjoyment-no-cost-video-player-pcmac/"><u>In 2024, Unhindered Movie Enjoyment - No Cost VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-thermopro-tp-67-a-great-deal-or-an-unreliable-gadget/"><u>Is ThermoPro TP 67 a Great Deal or an Unreliable Gadget?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/missing-msvcr71dll-fix-in-sight/"><u>Missing MSVCR71.dll: Fix in Sight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-errors-in-establishing-a-link-to-remote-servers-effective-fixes/"><u>Overcoming Errors in Establishing a Link to Remote Servers: Effective Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-hurdles-for-a-successful-launch-of-a-virtual-wi-fi-hotspot-insider-tips-and-tricks/"><u>Overcoming Windows 11 Hurdles for a Successful Launch of a Virtual Wi-Fi Hotspot: Insider Tips and Tricks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-driver-boost-radeon-4800-edition/"><u>Quick Driver Boost: Radeon 4800 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-resolve-safari-cant-load-webpage-issues/"><u>Quick Solutions: How to Resolve 'Safari Can't Load Webpage' Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rainbow-six-siege-connections-woes-heres-how-you-can-repair-them/"><u>Rainbow Six Siege Connections Woes? Here's How You Can Repair Them</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reclaiming-non-functional-wsreset-a-comprehensive-guide/"><u>Reclaiming Non-Functional WSReset: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-youtube-sound-issue-fixing-audioplayer-glitches-in-windows-11/"><u>Solving the YouTube Sound Issue: Fixing Audioplayer Glitches in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-essentialists-guide-to-archiving-ps3-gameplay-moments-for-2024/"><u>The Essentialist's Guide to Archiving PS3 Gameplay Moments for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-complete-fix-guide-for-when-vcruntime14tdll-is-undetected/"><u>Troubleshooting: The Complete Fix Guide for When VCRUNTIME14tDLL Is Undetected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-valorant-startup-a-guide-to-fixing-infinite-loading-screens/"><u>Unstick Your Valorant Startup: A Guide to Fixing Infinite Loading Screens</u></a></li>
+</ul></div>
 

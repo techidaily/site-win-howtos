@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions for Windows 10 Continuous Automatic Restart Issues
-date: 2025-01-31T13:03:12.354Z
-updated: 2025-02-07T14:07:52.286Z
+date: 2025-02-10T19:39:21.267Z
+updated: 2025-02-16T17:27:32.496Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
@@ -52,12 +56,16 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
@@ -65,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
@@ -76,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -89,27 +93,27 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -144,10 +148,6 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -175,21 +175,19 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-capturing-content-with-precision-best-practices-for-igtv-video-downloads-for-2024/"><u>[New] Capturing Content with Precision Best Practices for IGTV Video Downloads for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-does-money-flow-into-shopping-guides-vids/"><u>[New] Does Money Flow Into Shopping Guides Vids?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleash-creativity-with-top-10-youtube-short-video-editors/"><u>[New] Unleash Creativity with Top 10 YouTube Short Video Editors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capturing-clarity-the-elite-list-of-online-gridding-services/"><u>[Updated] Capturing Clarity The Elite List of Online Gridding Services</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-15-activities-perfect-for-podcast-lovers/"><u>2024 Approved Top 15 Activities Perfect for Podcast Lovers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209585994-destiny-2-launch-issue-resolved-conquering-the-persistent-initializing-error/"><u>Destiny 2 Launch Issue Resolved: Conquering the Persistent Initializing Error.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/digitize-and-organize-with-mematic/"><u>Digitize and Organize with Mematic</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-is-my-keyboards-backspace-function-unresponsive/"><u>Fixing the Issue: Why Is My Keyboard's Backspace Function Unresponsive?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-copy-and-paste-functionality-errors-on-windows-11-computers/"><u>How to Resolve 'Copy & Paste' Functionality Errors on Windows 11 Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-simulate-macos-window-layout-in-windows-heres-your-plan/"><u>How to Simulate macOS Window Layout in Windows, Here's Your Plan</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-y27-5g-easily-by-drfone-android/"><u>How To Unlock a Vivo Y27 5G Easily?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/masterclass-in-dealing-with-msvcr110-dll-file-missing-problems-a-professionals-roadmap/"><u>Masterclass in Dealing with MSVCR110 DLL File Missing Problems - A Professional's Roadmap</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-boot-loop-tips-and-tricks-for-windows-11-stability/"><u>Overcome the Endless Boot Loop: Tips & Tricks for Windows 11 Stability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speeding-up-the-shutdown-process-in-windows-10-expert-tips/"><u>Speeding Up the Shutdown Process in Windows 10: Expert Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-excessive-disk-use-from-microsofts-telemetry-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting Excessive Disk Use From Microsoft's Telemetry on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-streamlined-high-quality-hdr-experience-for-your-computer/"><u>[Updated] In 2024, Streamlined High-Quality HDR Experience for Your Computer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-photography-vertical-vistas-via-mobile/"><u>2024 Approved Innovative Photography Vertical Vistas via Mobile</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-tv-a-step-by-step-guide/"><u>2024 Approved Mastering YouTube TV A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mod-avcf-movavi/"><u>網路上無需付費 MOD 改成 AVCF - 利用Movavi 格式轉換工具</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/aac-vs-m4a-aacm4a/"><u>AAC vs M4A: 主な相違点と高品質保持型AACからM4Aへの変換手順</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-issue-fixed-by-audio-driver-update-in-win11/"><u>Audio Issue Fixed by Audio Driver Update in Win11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/complete-guide-to-windows-movie-maker-60-downloading-for-2024/"><u>Complete Guide to Windows Movie Maker 6.0 Downloading for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-dx-feature-level-10-issue-on-your-wwe-gamehttpswwwexample-game-linkcom-2k-battl/"><u>Effective Fixes for DX Feature Level 10 Issue on Your WWE ([^Game](https://www.example-game-link.com)) 2K Battl</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fail-to-initialize-directx-easy-fix/"><u>Fail to Initialize DirectX - Easy Fix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-does-telegram-differ-from-other-instant-messaging-services/"><u>How Does Telegram Differ From Other Instant Messaging Services?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-elevated-cpu-load-caused-by-microsofts-sound-isolation-tech/"><u>How to Fix Elevated CPU Load Caused by Microsoft's Sound Isolation Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-touchscreen-on-windows-11-top-5-methods/"><u>Reviving Your Touchscreen on Windows 11: Top 5 Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-vanishing-desktop-symbols-on-windows-11-devices/"><u>Troubleshooting Tips for Vanishing Desktop Symbols on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-my-dell-wireless-keyboard-unresponsive-lets-resolve-it-together/"><u>Why Is My Dell Wireless Keyboard Unresponsive? Let's Resolve It Together</u></a></li>
 </ul></div>
 

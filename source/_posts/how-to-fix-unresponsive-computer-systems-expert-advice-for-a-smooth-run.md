@@ -1,7 +1,7 @@
 ---
 title: "How To Fix Unresponsive Computer Systems: Expert Advice for a Smooth Run"
-date: 2024-08-19T07:53:41.782Z
-updated: 2024-08-20T07:53:41.782Z
+date: 2025-02-10T00:28:29.549Z
+updated: 2025-02-16T22:28:21.864Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
 ## Master the Art of a Smooth CSGO Experience: No More Abrupt Game Shutdowns
 
 **CS:GO crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix CS:GO crashing in Windows
 
@@ -65,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/ef833586db2eca1205112d6a13248317068108373
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify integrity of game files
 
  You may have this**CSGO crashing** issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. So you can verify the integrity of game files to see if it fixes the issue.
@@ -80,9 +81,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-180.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES..** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-177.png)
@@ -114,17 +112,26 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
 
  5) Type**\-autoconfig** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-182.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Exit Steam.
 
@@ -138,13 +145,14 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Remove**ANY** launch options currently shown.
 
  5) Type**\-safe** and click**OK** .
@@ -152,8 +160,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/safe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6) Exit Steam.
 
 7) Re-launch CS:GO and check if the CSGO crashing issue has been resolved. If yes, then congrats! But if you still haven’t had any success, move on to**Fix 5** , below.
@@ -171,8 +180,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-184.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Launch Steam and re-run the game.
 
 5) Once the installation completes, test if the CSGO crashing issue has been solved:
@@ -187,29 +197,15 @@ To do so:
 1. On your keyboard, press**the Windows logo key** and**E** at the same time, then click**View** \>**Options** \>**Change folder and search options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4b228da5a.jpg)
 2. Click the**View** tab and uncheck**the box** before**Hide extensions for known file types** . Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4c03820bb.jpg)
 3. On your keyboard, press**the Windows logo key** and**E** at the same time, then copy & paste **C:\\Windows\\SysWOW64\\wbem** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4db541a75.jpg)
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
 5. Re-launch your game and hope you’re enjoying your game right now.
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -224,8 +220,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +227,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/oosting-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube/"><u>[New] Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-efficiently-configuring-zoom-for-flawless-calls/"><u>[Updated] 2024 Approved Efficiently Configuring Zoom for Flawless Calls</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unveiling-the-most-honest-youtube-growth-services/"><u>[Updated] 2024 Approved Unveiling the Most Honest Youtube Growth Services</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-basics-to-breakthroughs-the-ultimate-strategy-for-youtube-advertising-success/"><u>[Updated] From Basics to Breakthroughs The Ultimate Strategy for YouTube Advertising Success</u></a></li>
+<li><a href="https://win-popular.techidaily.com/best-methods-for-seamless-automatic-backups-of-windows/"><u>Best Methods for Seamless Automatic Backups of Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-be-gone-expert-tips-for-seamless-connectivity-on-your-windows-10-system/"><u>Bluetooth Woes Be Gone! Expert Tips for Seamless Connectivity on Your Windows 10 System</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-unbroken-webspace/"><u>Capture Unbroken Webspace</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-the-unspecified-error-code-0x80004005-a-step-by-step-guide/"><u>Deciphering the Unspecified Error (Code 0X80004005): A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-exclusive-list-of-top-mobile-editing-software-for-iphoneandroid/"><u>In 2024, Exclusive List of Top Mobile Editing Software for iPhone/Android</u></a></li>
+<li><a href="https://fox-that.techidaily.com/independent-methods-for-restoring-an-iphone-bypassing-itunes/"><u>Independent Methods for Restoring an iPhone - Bypassing iTunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-to-overcome-insufficient-resources-error-message/"><u>Solutions to Overcome 'Insufficient Resources' Error Message</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-download-of-lenovo-t430-drivers-on-windows-1187-systems/"><u>Step-by-Step Download of Lenovo T430 Drivers on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-windows-10-startup-issues-fixed/"><u>Troubleshooting Persistent Windows 10 Startup Issues [FIXED]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Locating and Installing Critical Media Drivers for Seamless Operation"
-date: 2025-02-05T11:37:33.926Z
-updated: 2025-02-07T13:38:10.668Z
+date: 2025-02-12T22:20:17.384Z
+updated: 2025-02-17T00:49:26.011Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ the picture was taken by: Article\_86
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 ## Try these fixes
@@ -55,16 +59,16 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -77,13 +81,17 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -94,6 +102,10 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
@@ -101,10 +113,6 @@ the picture was taken by: Article\_86
 5. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -115,24 +123,16 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -171,16 +171,17 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[Updated] Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-ultimate-insight-advancements-in-home-video-recordings/"><u>[Updated] In 2024, The Ultimate Insight Advancements in Home Video Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-voice-with-cloud-services-top-5-online-chromebook-audio-editors/"><u>[Updated] Transform Voice with Cloud Services Top 5 Online Chromebook Audio Editors</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-route-to-richer-tiktok-bios-including-linktree-links/"><u>2024 Approved The Route to Richer TikTok Bios Including Linktree Links</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-preparing-to-configure-glitch-step-by-step-solution/"><u>Fixing 'Windows Preparing to Configure' Glitch - Step-by-Step Solution</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratis-premium-video-editoren-fur-windows-10-8-and-7-und-macos-entfernen-von-unnotigem-videomaterial/"><u>Gratis Premium Video-Editoren Für Windows 10, 8 & 7 Und macOS - Entfernen Von Unnötigem Videomaterial</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-xiaomi-mix-fold-3-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Xiaomi Mix Fold 3 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-synchronization-upgraded-timing-standards-for-contemporary-monitors/"><u>Seamless Synchronization: Upgraded Timing Standards for Contemporary Monitors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/securing-the-future-with-fix-for-dxgidll-error/"><u>Securing the Future with Fix for Dxgi.dll Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-audio-service-is-not-running-windows-1110-solved/"><u>The Audio Service Is Not Running Windows 11/10 [Solved]</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728481233814-windows-11-0xc000000e/"><u>Windows 11におけるエラーコード 0Xc000000eの修正方法</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-best-video-capture-for-iphoneipad-users/"><u>[New] In 2024, The Best Video Capture for iPhone/iPad Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-script-creation-for-attractive-vlogging-content/"><u>[New] Mastering Script Creation for Attractive Vlogging Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-storyboard-designers-den/"><u>[Updated] In 2024, Ultimate Storyboard Designer's Den</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/commence-your-journey-with-xps-film-editor-suite-for-2024/"><u>Commence Your Journey with XP's Film Editor Suite for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-issues-with-a-non-working-camera-on-lenovo-devices/"><u>Diagnosing and Resolving Issues with a Non-Working Camera on Lenovo Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incorporate-branding-if-relevant-if-brand-recognition-is-important-eg-a-well-known-tech-blog-consider-including-it-subtly-within-the-title-as-long-as-it-doe90/"><u>Incorporate Branding if Relevant: If Brand Recognition Is Important (E.g., a Well-Known Tech Blog), Consider Including It Subtly Within the Title, as Long as It Doesn't Detract From the Primary Keywords or Message</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-comprehensive-guide-to-correcting-the-d3dxtk9dll-not-found-issue/"><u>Resolved: Comprehensive Guide to Correcting the d3dxtk9.dll Not Found Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-entry-point-not-found-error-on-windows/"><u>Resolved: How to Fix 'Entry Point Not Found' Error on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speeding-up-shutdown-process-on-windows-10-troubleshooting-steps-provided/"><u>Speeding Up Shutdown Process on Windows 10 - Troubleshooting Steps Provided</u></a></li>
 </ul></div>
 

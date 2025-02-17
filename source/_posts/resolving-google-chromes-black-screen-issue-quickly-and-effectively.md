@@ -1,7 +1,7 @@
 ---
 title: Resolving Google Chrome's Black Screen Issue Quickly and Effectively
-date: 2024-08-19T07:56:54.744Z
-updated: 2024-08-20T07:56:54.744Z
+date: 2025-02-11T19:51:42.480Z
+updated: 2025-02-16T20:03:58.199Z
 tags:
   - win11
   - win10
@@ -19,11 +19,19 @@ Windows 10 update or upgrade may be causing hardware like touch screen not worki
 
  To use these solutions, you need to access Windows. Since the touch screen doesn’t work, use a mouse or keyboard instead. Tip: After plugging and setting up the mouse or keyboard, the touch screen may work again like a magic (This has worked for some Windows 10 users).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Restart your PC**
 
  Restarting Windows always fixes hardware not working issues. Try this method and your touch screen may work like a charm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef016219208.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
 
@@ -45,6 +53,10 @@ To turning the touch screen off and back on, follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef234bcbb1a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. Right-click on **HID-compliant touch screen** again then select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef257948924.png)
@@ -64,6 +76,10 @@ To turning the touch screen off and back on, follow steps below:
  3\. Click**Driver** tab then click on**Roll Back Driver** . If you see button is grey out, it means that you can’t roll back the driver. Read on to try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef28c11007f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 4: Update the touch screen driver**
 
@@ -86,8 +102,9 @@ To turning the touch screen off and back on, follow steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Solution 5: Reset Windows 10**
 
  The final solution you can try is reset the Windows. If you are not sure how to do a reset on Windows, see[How to Reset Windows 10](https://tools.techidaily.com/drivereasy/download/) .
@@ -100,8 +117,6 @@ To turning the touch screen off and back on, follow steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +124,24 @@ To turning the touch screen off and back on, follow steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-take-control-of-your-webinars-a-guide-to-zoom-screensharing/"><u>[New] Take Control of Your Webinars A Guide to Zoom Screensharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-leveraging-your-roku-setup-for-exclusive-fb-live-content/"><u>[Updated] 2024 Approved Leveraging Your Roku Setup for Exclusive FB Live Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-handheld-shots-no-tripod-necessary/"><u>[Updated] 2024 Approved Mastering Handheld Shots No Tripod Necessary</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-artistry-selecting-from-6-best-nft-makers/"><u>2024 Approved Navigating Artistry Selecting From 6 Best NFT Makers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-illumination-issue-resolved-restore-your-backlit-keys/"><u>Corsair Keyboard Illumination Issue Resolved: Restore Your Backlit Keys!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/crafting-compelling-storylines-with-top-20-anime-influences-on-tiktok-for-2024/"><u>Crafting Compelling Storylines with Top 20 Anime Influences on TikTok for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-troubleshooting-a-non-responsive-corsair-keyboard/"><u>Fixing the Issue: Troubleshooting a Non-Responsive Corsair Keyboard</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-capture-to-share-the-art-of-live-360-broadcasting-on-fb-for-2024/"><u>From Capture to Share The Art of Live 360 Broadcasting on FB for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/halo-4-in-unreal-engine-4-fixing-the-fatal-error-message-a-comprehensive-guide/"><u>Halo 4 in Unreal Engine 4: Fixing the 'Fatal Error' Message - A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hitachis-cutting-edge-screen-experience-superior-4k-clarity-combined-with-convenient-built-in-roku-features/"><u>Hitachi's Cutting-Edge Screen Experience: Superior 4K Clarity Combined with Convenient Built-In Roku Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-windows-10-performance-tips-on-using-sfc-and-dism-tools/"><u>How to Restore Windows 10 Performance: Tips on Using SFC and DISM Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-leading-microphones-in-podcasting/"><u>In 2024, Explore the Leading Microphones in Podcasting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimizing-video-posts-with-flawless-srt-file-integration-tactics/"><u>Optimizing Video Posts with Flawless SRT File Integration Tactics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-update-obstacles-expert-advice-and-solutions/"><u>Overcoming Windows 10 Update Obstacles: Expert Advice & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-laptop-ignores-audio-jack-solutions-here/"><u>Resolved: Laptop Ignores Audio Jack - Solutions Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-a-stuck-or-non-functioning-shift-key-complete-walkthrough/"><u>Resolving a Stuck or Non-Functioning Shift Key - Complete Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-to-resolve-werfaultexe-crashes-in-windows-systems/"><u>Top 6 Solutions to Resolve WerFault.exe Crashes in Windows Systems</u></a></li>
+</ul></div>
 

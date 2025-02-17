@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Reactivating Your Device's Bluetooth Functionality"
-date: 2024-08-19T07:56:22.060Z
-updated: 2024-08-20T07:56:22.060Z
+date: 2025-02-15T19:47:10.563Z
+updated: 2025-02-16T21:56:13.877Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 ## Corsair Illumination Troubleshooting: Bring Back the Glow
 
 Are you having a problem with your Corsair keyboard’s backlight suddenly going off when you’re about to play a game? Don’t worry; this is a common problem that many people have solved effortlessly. Continue reading to see how you, too, can solve it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,15 +46,16 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Turn off your keyboard.
 2. Press and hold the**ESC** key.
 3. While holding down the ESC key, turn on your keyboard and wait for a few seconds until the keyboard begins to flash.
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update the Corsair keyboard driver
 
  This lighting problem may occur if you are using**the wrong keyboard driver or it’s out of date** . So you should check if there’s any updated version of your Corsair keyboard driver and upgrade to it to see if the backlight problem can be fixed.
@@ -61,14 +66,12 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -78,20 +81,19 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -107,8 +109,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-quick-and-easy-steps-for-photos-in-your-instagram-gallery/"><u>[New] Quick and Easy Steps for Photos in Your Instagram Gallery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/0x80072ee7-in-windows-store-solved/"><u>0X80072EE7 in Windows Store [SOLVED]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-screen-experience-with-hp-envy-27-display/"><u>2024 Approved The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>2024 Approved Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solution-to-total-war-rome-remastered-crash-issues-step-by-step-tutorial/"><u>Complete Solution to Total War: Rome Remastered Crash Issues - Step by Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-for-recovering-and-restoring-broken-system-files-in-windows-1110/"><u>Essential Tips for Recovering and Restoring Broken System Files in Windows 11/10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-stuck-startup-issue-getting-past-the-windows-preparation-stage/"><u>Fixing the Stuck Startup Issue: Getting Past the 'Windows Preparation Stage'</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/freshen-up-your-computer-with-these-8-free-driver-updater-utilities-july-2024-edition/"><u>Freshen Up Your Computer with These 8 Free Driver Updater Utilities - July 2024 Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-14-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi 14 Pro Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/inspirational-wallpapers-from-deadly-class-maria-salazars-design-masterpieces-powered-by-yl-software/"><u>Inspirational Wallpapers From Deadly Class: Maria Salazar’s Design Masterpieces Powered by YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208570701-ps4-network-type-trouble-follow-this-comprehensive-fix-tutorial/"><u>PS4 Network Type Trouble? Follow This Comprehensive Fix Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-insights-from-the-experts/"><u>Tom's Computing: Insights From the Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-torrent-wont-start-downloading-expert-advice/"><u>What to Do When Your Torrent Won't Start Downloading? Expert Advice</u></a></li>
+</ul></div>
 

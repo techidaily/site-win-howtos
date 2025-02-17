@@ -1,7 +1,7 @@
 ---
 title: Definitive Guide to Overcome Stalled 100%% Progress in Windows Updates [FIXED]
-date: 2024-08-23T14:01:30.277Z
-updated: 2024-08-24T14:01:30.277Z
+date: 2025-02-10T17:24:40.584Z
+updated: 2025-02-16T19:03:38.955Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
@@ -59,6 +63,10 @@ Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Run the commands below one by one.
 
  a) Type **netsh winhttp reset proxy**  and hit **Enter** .
@@ -70,8 +78,9 @@ Find and click to open Command Prompt from Start menu.
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -101,13 +110,15 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -120,6 +131,10 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
@@ -130,9 +145,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
  a) Right-click on**Windows**  folder, then choose **New**  \> **Key** .
@@ -141,9 +153,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
@@ -151,8 +160,9 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
@@ -165,14 +175,11 @@ After the fixes above, Windows Update should be good to go now.
 
 * [Windows Update](/tag-search/?tagId=62)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +188,24 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-computer-crashes-when-playing-games-in-windows-1011/"><u>[FIXED] Computer Crashes When Playing Games in Windows 10/11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nikon-z7-ii-analysis-deep-dive/"><u>[New] Nikon Z7 II Analysis Deep-Dive</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-quickrestore-reviewers-thoughts/"><u>[Updated] 2024 Approved QuickRestore Reviewers Thoughts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-one-youtube-feed-how-to-merge-multiple-videos/"><u>[Updated] In 2024, One YouTube Feed How to Merge Multiple Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-affordable-hd-action-cam-hits-top-list/"><u>2024 Approved Affordable HD Action Cam Hits Top List</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-video-output-box-vob-files-to-3gp-format-in-just-3-simple-steps-pc-guide/"><u>Convert Video Output Box (VOB) Files to 3GP Format in Just 3 Simple Steps - PC Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-ethernet-network-errors-for-windows-10-and-7-users/"><u>Guide to Repairing Ethernet Network Errors for Windows 10 and 7 Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-laptop-mousepad-on-windows-8-and-7-step-by-step-guide/"><u>How to Fix a Non-Responsive Laptop Mousepad on Windows 8 & 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-microsoftdirectxdirectinputdll-errors/"><u>How to Fix Microsoft.directx.directinput.dll Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oneplus-ace-3-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your OnePlus Ace 3 FRP Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-unsupported-platforms-during-intel-serial-io-driver-setup/"><u>Resolving Issues with Unsupported Platforms During Intel Serial IO Driver Setup</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/seamless-integration-making-your-youtube-videos-available-on-facebook-for-2024/"><u>Seamless Integration Making Your YouTube Videos Available on Facebook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-update-issues-in-windows-10-resolve-error-code-0x800f0922/"><u>Solving Update Issues in Windows 10: Resolve Error Code 0X800f0922</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205370097-troubleshooting-persistent-booting-problems-solutions-inside/"><u>Troubleshooting Persistent Booting Problems: Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fix-for-dell-laptop-black-screen-problems-a-comprehensive-guide/"><u>Ultimate Fix for Dell Laptop Black Screen Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-malfunctioning-problem-solved-guides-for-windows-10-and-11/"><u>USB Malfunctioning Problem Solved: Guides for Windows 10 and 11</u></a></li>
+</ul></div>
 

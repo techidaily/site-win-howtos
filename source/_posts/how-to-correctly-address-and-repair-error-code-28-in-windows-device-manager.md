@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Repair 'Error Code 28' In Windows Device Manager
-date: 2025-02-05T13:04:34.967Z
-updated: 2025-02-07T05:44:02.141Z
+date: 2025-02-11T20:57:32.428Z
+updated: 2025-02-16T21:19:21.282Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 1\. Enable Automatic Detect Settings**
 
  If your computer is not sure how it should connect to the Internet, it would cause Windows Update Error 0x8024402c. In this case, enable Automatic Detect Settings could fix it.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
@@ -41,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
@@ -57,7 +61,7 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
@@ -66,15 +70,15 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -97,7 +101,7 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Now Internet Connection window is open.
@@ -120,10 +124,6 @@ Double-click on your active Network Adapter.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -140,6 +140,10 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
@@ -147,7 +151,7 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
@@ -163,10 +167,6 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
@@ -195,15 +195,22 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here-for-2024/"><u>[Updated] How to Transcribe Speech to Text in Microsoft Word Learn It Here for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1-top-rated-free-ogg-media-player-download-compatible-with-macos-and-windows-systems/"><u>1. Top Rated Free Ogg Media Player Download: Compatible with macOS & Windows Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-the-world-of-ai-prompts-are-they-the-key-to-consistent-job-opportunities/"><u>Delving Into the World of AI Prompts - Are They the Key to Consistent Job Opportunities?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fixes-for-your-windows-update-jammed-at-no-progress-marked/"><u>Effortless Fixes for Your Windows Update Jammed at No Progress Marked</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-zero-30-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Zero 30 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pinpoint-and-resolve-persistent-mouse-connection-issues-on-your-pc/"><u>Pinpoint and Resolve: Persistent Mouse Connection Issues on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-resolving-windows-sound-not-functional-errors/"><u>Solution Guide: Resolving 'Windows Sound Not Functional' Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-next-big-thing-in-smartphones-insider-info-on-samsung-galaxy-z-fold-6s-price-tag-pre-release-details-and-feature-list/"><u>The Next Big Thing in Smartphones: Insider Info on Samsung Galaxy Z Fold 6'S Price Tag, Pre-Release Details & Feature List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/title-and-description-tweaks-for-maximum-engagement-on-igtv-for-2024/"><u>Title and Description Tweaks for Maximum Engagement on IGTV for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveil-your-hidden-battery-icon-in-windows-11-effective-remedies-for-power-symbols-gone-astray/"><u>Unveil Your Hidden Battery Icon in Windows 11: Effective Remedies for Power Symbols Gone Astray</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-networks-for-your-personalized-watchlist/"><u>[New] Premier Networks for Your Personalized Watchlist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-motivational-speaker-appraisal-edition-8-for-2024/"><u>[Updated] Motivational Speaker Appraisal, Edition 8 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-you-can-maintain-your-xbox-series-x-hardware/"><u>5 Ways You Can Maintain Your Xbox Series X Hardware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accessing-gpt-via-chat-are-vpns-essential/"><u>Accessing GPT via Chat: Are VPNs Essential?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209088096-audio-fix-eliminate-crackling-from-your-speakers-on-windows-11-and-7/"><u>Audio Fix: Eliminate Crackling From Your Speakers on Windows 11 and 7!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banishing-boot-problems-fixing-persistent-freezes-on-your-windows-10-pc/"><u>Banishing Boot Problems: Fixing Persistent Freezes on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-troubleshooting-tips-resolving-malfunctioning-fn-buttons/"><u>Comprehensive Troubleshooting Tips: Resolving Malfunctioning Fn Buttons</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-switching-of-graphics-cards-on-win10-via-nvidia-and-intel/"><u>Effortless Switching of Graphics Cards on Win10 via NVIDIA & Intel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-unexpected-shutdowns-while-playing-a-guide-for-windows-11-10-7-8n-and-8-users/"><u>How to Stop Unexpected Shutdowns While Playing: A Guide for Windows 11, 10, 7, 8.n & 8 Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-infinix-hot-30-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-techniques-for-correcting-msvcr110dll-deficiency-on-windows-systems/"><u>In-Depth Techniques for Correcting MSVCR110.dll Deficiency on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-errors-for-smooth-youtube-audio-playback/"><u>Overcoming Windows 11 Errors for Smooth YouTube Audio Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-role-of-crc-in-identifying-and-correcting-data-integrity-problems/"><u>The Role of CRC in Identifying and Correcting Data Integrity Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-105-classic-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia 105 Classic Device</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-of-the-best-top-10-video-editing-software-for-creators-for-2024/"><u>Updated The Best of the Best Top 10 Video Editing Software for Creators for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-does-my-windows-11-device-start-automatically-tips-to-rectify-the-issue/"><u>Why Does My Windows 11 Device Start Automatically? Tips to Rectify the Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi K70 | Dr.fone</u></a></li>
 </ul></div>
 

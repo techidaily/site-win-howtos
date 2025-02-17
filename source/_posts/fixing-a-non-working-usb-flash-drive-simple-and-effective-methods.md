@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Working USB Flash Drive: Simple and Effective Methods"
-date: 2025-01-30T17:10:57.814Z
-updated: 2025-02-06T22:20:12.071Z
+date: 2025-02-09T21:22:16.089Z
+updated: 2025-02-16T23:01:52.699Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ the picture was taken by: Article\_86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## End the process
 
  Yes, clicking the “**X** ” button to close the page is the first reaction for most people. But the page like this scam uses our reaction to get permission to infect our devices. So they could let the page pop up again.  
@@ -40,6 +36,10 @@ the picture was taken by: Article\_86
 1. Press**Ctrl+Shift+Esc** together on your keyboard to evoke the**Task Manager** .
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
@@ -53,6 +53,10 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
@@ -60,7 +64,7 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
@@ -69,10 +73,6 @@ the picture was taken by: Article\_86
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -84,6 +84,10 @@ the picture was taken by: Article\_86
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
 
@@ -99,14 +103,14 @@ the picture was taken by: Article\_86
 3. In the open window, click **Clear browsing data** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
@@ -122,10 +126,6 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
@@ -171,21 +171,17 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-quip-collection-event-specific-jest-compilation/"><u>[Updated] Quip Collection Event-Specific Jest Compilation</u></a></li>
-<li><a href="https://facebook.techidaily.com/charting-the-course-of-community-on-facebook/"><u>Charting the Course of Community on Facebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/execution-inhibited-awaiting-signal/"><u>Execution Inhibited: Awaiting Signal</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-and-simple-installation-download-drivers-for-acer-predator-xb271hu/"><u>Fast & Simple Installation: Download Drivers for Acer Predator XB271HU</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-reno-11-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Reno 11 Pro 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-xr-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone XR Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-mouse-pad-malfunctions-in-windows-top-troubleshooting-steps-for-windows-1087-users/"><u>Lenovo Mouse Pad Malfunctions in Windows: Top Troubleshooting Steps for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revamped-guide-ultimate-tips-to-eliminate-minecraft-performance-problems/"><u>Revamped Guide: Ultimate Tips to Eliminate Minecraft Performance Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-when-your-pc-gets-stuck-during-windows-update-at-0/"><u>Simple Fixes for When Your PC Gets Stuck During Windows Update at 0%</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-errcachemiss-problem-in-google-chrome-a-step-by-step-guide/"><u>Solving the ERR_CACHE_MISS Problem in Google Chrome: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-restore-your-computers-sound-after-no-audio-device-found-on-windows/"><u>Steps to Restore Your Computer's Sound After 'No Audio Device Found' On Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tapping-into-hidden-taskbar-explorer-of-windows-11/"><u>Tapping Into Hidden Taskbar Explorer of Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-the-sims-4-wont-open-problem/"><u>Troubleshooting Steps: Resolving the 'Sims 4 Won't Open' Problem</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-like-a-pro-top-iphone-video-editing-apps/"><u>Updated In 2024, Edit Like a Pro Top iPhone Video Editing Apps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-free-dailymotion-converter-tool/"><u>Updated In 2024, The Ultimate Free Dailymotion Converter Tool</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-the-iphone-16-pro-is-the-ultimate-choice-over-the-max-apples-persuasion/"><u>Why the iPhone 16 Pro Is the Ultimate Choice Over the Max - Apple's Persuasion</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>[New] 2024 Approved Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-block-spotifys-unrequested-podcast-episodes/"><u>[New] How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-artists-guide-to-dynamic-palette-alteration/"><u>2024 Approved The Artist's Guide to Dynamic Palette Alteration</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/el-connectivity-made-simple-easy-to-use-youtube-buttons-for-2024/"><u>Channel Connectivity Made Simple Easy-to-Use YouTube Buttons for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-dark-patterns-mislead-you-into-making-bad-privacy-choices/"><u>How Dark Patterns Mislead You Into Making Bad Privacy Choices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x90s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X90S Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instasnap-upload-essentials-for-2024/"><u>InstaSnap Upload Essentials for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-v30-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme V30 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-repairing-corsair-keyboards-that-wont-work/"><u>Solution Guide: Repairing Corsair Keyboards That Won't Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-fix-windows-hello-not-supported-error-message-on-your-device-running-windows-10/"><u>Steps to Fix Windows Hello Not Supported Error Message on Your Device Running Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trim-wmis-firm-grip-on-cores/"><u>Trim WMI's Firm Grip on Cores</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-change-rendering-api-dota-2-error-error-202-fast-solutions-inside/"><u>Troubleshooting the 'Change Rendering API' Dota 2 Error (Error 202^): Fast Solutions Inside</u></a></li>
 </ul></div>
 

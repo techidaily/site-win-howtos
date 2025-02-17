@@ -1,7 +1,7 @@
 ---
 title: Dell Laptop Keyboard Issues? Here Are Effective Fixes!
-date: 2025-01-10T16:08:25.147Z
-updated: 2025-01-13T17:18:49.540Z
+date: 2025-02-15T19:52:17.708Z
+updated: 2025-02-16T16:39:40.333Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -47,11 +55,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -70,10 +86,6 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -100,7 +112,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -108,10 +120,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -121,10 +129,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -141,10 +145,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,24 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-immediate-stop-of-automatic-video-capture-in-qt-player/"><u>[New] In 2024, Immediate Stop of Automatic Video Capture in QT Player</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detailed-steps-to-correct-the-error-of-missing-d3dcompiler43dll-file/"><u>Detailed Steps to Correct the Error of Missing d3dcompiler_43.dll File</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-reducing-wudfhostexes-cpu-impact-on-your-windows-10-pc/"><u>Effective Strategies for Reducing WUDFHost.exe's CPU Impact on Your Windows 10 PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhance-your-livestreams-using-manycam-advanced-video-recording-and-online-camera-services/"><u>Enhance Your Livestreams Using ManyCam: Advanced Video Recording and Online Camera Services</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/how-to-define-ai-video/"><u>How to Define AI Video?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-magic-in-managing-photos-with-magix/"><u>In 2024, Magic in Managing Photos with MAGIX</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-display-repair-a-complete-walkthrough-for-tackling-a-pitch-black-screen-on-dell-devices/"><u>Mastering Display Repair: A Complete Walkthrough for Tackling a Pitch-Black Screen on Dell Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-errors-when-starting-playables-on-pc-the-ultimate-fix-guide/"><u>Overcoming Errors When Starting Playables on PC - The Ultimate Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubgs-new-horizons-fix-your-installation-woes-with-this-exclusive-2024-launch-tutorial/"><u>PUBG's New Horizons: Fix Your Installation Woes with This Exclusive 2024 Launch Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-ps4s-noise-issue-causes-and-repair-techniques/"><u>Solving the PS4's Noise Issue: Causes and Repair Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006986530-trouble-with-fortnite-here-are-simple-solutions-to-get-you-playing-fast/"><u>Trouble with Fortnite? Here Are Simple Solutions to Get You Playing Fast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-non-responsive-aoc-usb-monitors-in-windows-11-effective-solutions/"><u>Troubleshoot Non-Responsive AOC USB Monitors in Windows 11: Effective Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-access-problems-with-destiny-2-servers-tips-and-tricks/"><u>Troubleshooting Access Problems with Destiny 2 Servers - Tips and Tricks</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/vulkan-api-gameplay-recorded-a-deep-dive-into-developing-cutting-edge-applications/"><u>Vulkan API Gameplay Recorded: A Deep Dive Into Developing Cutting-Edge Applications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207319593-why-is-my-mouse-right-click-not-working-in-windows-10-solutions-inside/"><u>Why Is My Mouse Right Click Not Working in Windows 10? Solutions Inside</u></a></li>
-<li><a href="https://win-trending.techidaily.com/yl-softwares-quick-how-to-driver-update-through-the-control-panel-for-optimal-performance/"><u>YL Software's Quick How-To: Driver Update Through the Control Panel for Optimal Performance</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-premium-free-ae-design-blueprints/"><u>[New] 2024 Approved Premium Free AE Design Blueprints</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-edge-40-neo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Edge 40 Neo Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-mouse-right-click-issues-under-windows-10-operating-system/"><u>Diagnosing and Fixing Mouse Right-Click Issues Under Windows 10 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-corrupted-or-broken-start-menu-on-windows-11-proven-fixes-here/"><u>Fix Corrupted or Broken Start Menu on Windows 11 - Proven Fixes Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-malfunctioning-usb-connections-in-windows-11/"><u>How to Fix Malfunctioning USB Connections in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-a05s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A05s without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-achieve-financial-stardom-strategies-for-youtube-success-on-fb/"><u>In 2024, Achieve Financial Stardom Strategies for YouTube Success on FB</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-5-best-monitors-to-complement-your-ps5-xbox-series-x/"><u>In 2024, The 5 Best Monitors to Complement Your PS5, Xbox Series X</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205651243-overcoming-the-mystery-of-failed-usb-recognition-in-windows-fixed-now/"><u>Overcoming the Mystery of Failed USB Recognition in Windows - Fixed Now!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/premier-pc-compatible-tiktok-video-enhancers/"><u>Premier PC-Compatible TikTok Video Enhancers</u></a></li>
+<li><a href="https://solve-help.techidaily.com/premium-hd-orange-desktop-backdrops-stunning-visuals-and-vibrant-designs-from-yl-softwares-image-library/"><u>Premium HD Orange Desktop Backdrops: Stunning Visuals and Vibrant Designs From YL Software's Image Library</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-diverse-origins-behind-common-english-terms/"><u>The Diverse Origins Behind Common English Terms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-to-overcome-werfaultexe-crashing-in-windows/"><u>Top 6 Solutions to Overcome werFault.exe Crashing in Windows</u></a></li>
 </ul></div>
 

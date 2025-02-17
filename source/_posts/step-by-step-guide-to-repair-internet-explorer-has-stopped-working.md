@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair 'Internet Explorer Has Stopped Working'
-date: 2025-02-01T10:23:20.766Z
-updated: 2025-02-07T10:40:12.536Z
+date: 2025-02-14T17:22:21.545Z
+updated: 2025-02-16T22:14:38.473Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -47,13 +47,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -79,11 +79,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -103,6 +111,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -118,17 +130,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,21 +184,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-a-beginners-guide-to-youtube-shorts-nuances/"><u>[New] 2024 Approved A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gameplay-gimmicks-voice-variations-in-free-fire/"><u>[New] Gameplay Gimmicks Voice Variations in Free Fire</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-essential-apps-best-10-software-to-capture-your-screens/"><u>[Updated] 2024 Approved Essential Apps Best 10 Software to Capture Your Screens</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-insiders-handbook-to-windows-11-video-mastery/"><u>[Updated] The Insider's Handbook to Windows 11 Video Mastery</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1732514645383-yl-computing-yl-software/"><u>《中国大陆基础建设的关键结构解析 - YL Computing | YL Software》</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-windows-10-installation-guide-tackling-code-80240020-issues/"><u>Error-Free Windows 10 Installation Guide - Tackling Code 80240020 Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212085191-fixing-the-quick-fix-engineering-qfe-issue-resolve-windows-update-error-code-0x80070002/"><u>Fixing the Quick Fix Engineering (QFE) Issue: Resolve Windows Update Error Code 0X80070002</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203275797-forza-horizon-n-no-audio-troubleshoot-and-solve-the-mute-dilemma-effectively/"><u>Forza Horizon N No Audio? Troubleshoot and Solve the Mute Dilemma Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-task-manager-working-again-expert-tips-and-tricks/"><u>How to Get Your Task Manager Working Again - Expert Tips & Tricks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-15-pro-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 15 Pro When Its Locked Within Seconds</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/plotting-prime-promotional-summaries-for-2024/"><u>Plotting Prime Promotional Summaries for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-excessive-cpu-consumption-caused-by-wucltexe-on-windows-11-systems/"><u>Resolved: Excessive CPU Consumption Caused by wuclt.exe on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-stalled-or-halted-windows-10-updates-tips-and-tricks-for-smooth-installation/"><u>Resolving Stalled or Halted Windows 10 Updates: Tips and Tricks for Smooth Installation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/revelez-lorigine-de-vos-photographies-vintage-avec-des-logiciels-gratuits-dintelligence-artificielle-les-8-meilleurs-exemples/"><u>Révélez L'Origine De Vos Photographies Vintage Avec Des Logiciels Gratuits D'Intelligence Artificielle - Les 8 Meilleurs Exemples</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-unfreezing-your-computers-mouse-control/"><u>Step-by-Step Solutions for Unfreezing Your Computer's Mouse Control</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unseen-streamer-how-to-live-stream-privately-on-instagram/"><u>[New] 2024 Approved Unseen Streamer How to Live-Stream Privately on Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-path-to-a-thriving-instagram-community/"><u>[New] In 2024, The Ultimate Path to a Thriving Instagram Community</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-journey-through-simulated-realities-vr-basics/"><u>[Updated] 2024 Approved Journey Through Simulated Realities VR Basics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>[Updated] 2024 Approved Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-glitch-solutions-eliminating-crackling-sounds-from-computers-speakers-under-windows-os/"><u>Audio Glitch Solutions: Eliminating Crackling Sounds From Computers' Speakers Under Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-changed-network-environment-warning-in-windows-10-easy-guide/"><u>Fix Changed Network Environment Warning in Windows 10 Easy Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/illuminate-interruption-5-solutions-to-bring-back-keyboard-glow/"><u>Illuminate Interruption: 5 Solutions to Bring Back Keyboard Glow</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-visual-performance-hp-graphics-windows/"><u>Improve Visual Performance - HP Graphics Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-the-0xc000012f-dilemma-quick-fixes-for-a-smooth-windows-experience/"><u>Navigate Through the 0xC000012F Dilemma: Quick Fixes for a Smooth Windows Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seasons-change-global-warming-doesnt-follow-suit/"><u>Seasons Change, Global Warming Doesn't Follow Suit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-problem-of-an-unresponsive-microphone-on-your-pc-or-macbook/"><u>Solve the Problem of an Unresponsive Microphone on Your PC or MacBook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-microphone-not-working-heres-how-you-can-fix-it/"><u>SteelSeries Arctis 5 Microphone Not Working? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-youtube-promo-tactics-for-max-impact-for-2024/"><u>Top 5 YouTube Promo Tactics for Max Impact for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unblocked-horizons-wows-breakthrough-in-full-spectrum-3d-graphics/"><u>Unblocked Horizons: WoW's Breakthrough in Full-Spectrum 3D Graphics</u></a></li>
 </ul></div>
 

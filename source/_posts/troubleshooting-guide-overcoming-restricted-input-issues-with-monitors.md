@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Overcoming Restricted Input Issues with Monitors"
-date: 2024-08-19T07:55:56.761Z
-updated: 2024-08-20T07:55:56.761Z
+date: 2025-02-15T00:55:38.263Z
+updated: 2025-02-16T19:35:56.008Z
 tags:
   - win11
   - win10
@@ -64,8 +64,9 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -75,8 +76,9 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -93,20 +95,17 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Option 2–Manually**
 
@@ -115,6 +114,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
@@ -130,16 +133,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
  Fix Automata Resolution (FAR) is developed by Nier Automata. By manipulating the graphics requirements of the game, users with lower specs can play the game. But FAR can be the reason for the Nier Automata crashing problem.
@@ -159,9 +156,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -175,8 +169,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +176,20 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-through-linkedin-account-termination-procedures/"><u>[New] In 2024, Navigating Through LinkedIn Account Termination Procedures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-power-problems-in-sony-ps4-remotes/"><u>Diagnosing and Repairing Power Problems in Sony PS4 Remotes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-activating-bluetooth-connectivity-in-windows-7/"><u>Easy Guide: Activating Bluetooth Connectivity in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-repair-internet-connections-using-ethernet-on-pcs-running-windows-11-or-7/"><u>Expert Tips to Repair Internet Connections Using Ethernet on PCs Running Windows 11 or 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-unresponsive-lenovo-mouse-pad-in-any-version-of-windows-11-8-or-7-easy-guide/"><u>Fix Your Unresponsive Lenovo Mouse Pad in Any Version of Windows (11, 8 or 7) – Easy Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/groundbreaking-release-openai-unveils-revolutionary-gpt-4-ai/"><u>Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-enable-and-launch-a-hosted-network-on-your-pc-windows-10/"><u>How to Successfully Enable and Launch a Hosted Network on Your PC (Windows 10)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-redmi-13c-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Redmi 13C 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-new-talents-unlocking-5-key-methods-to-improve-abilities-and-career-growth-inspired-by-zdnet/"><u>Master New Talents: Unlocking 5 Key Methods to Improve Abilities and Career Growth Inspired by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/talk-titans-duo-comparing-gpt-and-bings-virtual-voices/"><u>Talk Titans Duo: Comparing GPT & Bing's Virtual Voices</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-z-fold-5-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy Z Fold 5 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-cast-failures-easy-fixes-and-tips-for-users/"><u>Windows 11 Cast Failures: Easy Fixes and Tips for Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winx-dvd-ripper-platinum-32-dvdsmp4-windows-11/"><u>WinX DVD Ripper Platinum: 提高效率 32倍 DVDS到MP4转换 - Windows 11支持</u></a></li>
+</ul></div>
 

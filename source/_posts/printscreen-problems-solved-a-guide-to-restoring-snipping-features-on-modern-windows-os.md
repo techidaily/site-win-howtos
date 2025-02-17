@@ -1,7 +1,7 @@
 ---
 title: PrintScreen Problems Solved? A Guide to Restoring Snipping Features on Modern Windows OS
-date: 2025-02-03T11:47:12.368Z
-updated: 2025-02-06T19:46:16.608Z
+date: 2025-02-10T16:43:40.380Z
+updated: 2025-02-17T01:07:28.948Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
  Windows has a built-in troubleshooter that can check and fix issues with Windows Update. You should run it when an error occurs on your Windows Update. To do so:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### on Windows 10
 
 **1)** On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 **2)** Select**Update & Security** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Windows-10-Update-and-Security.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Troubleshoot > Additional troubleshooters** .
 
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click on the**Run** button next to**Windows Update** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
@@ -86,15 +82,15 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 **6)** Run your Windows Update again and see if your error is fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Check for malicious software
 
  Your error may occur because of interference from malicious software. You should run a scan on your computer for any malicious program.
 
  You can use the **[Malicious Software Removal Tool](https://www.microsoft.com/en-us/download/malicious-software-removal-tool-details.aspx)**  released by Microsoft. Download the tool and run it on your computer. Then follow its instructions to complete the scanning process. If this method works for you, you won’t see the error on your Windows Update again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Restart your Windows Update associated services
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb31524505e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
@@ -118,9 +118,17 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Double click**Windows Update** .
 
@@ -131,14 +139,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Clear the SoftwareDistribution folder
 
@@ -151,7 +155,7 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Windows Update** and then click**Stop** (the service).
@@ -165,10 +169,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 **5)**  Restore the_Services_ snap-in. Then click**Windows Update** and click**Start** (the service).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
 
@@ -189,7 +189,7 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9e7d372aa0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to your each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
@@ -197,7 +197,7 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
@@ -219,20 +219,18 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-which-is-superior-obs-or-streamlabs-for-your-livestream-needs/"><u>[Updated] In 2024, Which Is Superior, OBS or Streamlabs for Your Livestream Needs?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-perfectly-pinned-prompts-top-android-and-iphones-instagram-covers-for-2024/"><u>[Updated] Perfectly Pinned Prompts Top Android & iPhones' Instagram Covers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unique-day-to-day-vlog-themes/"><u>[Updated] Unique Day-to-Day Vlog Themes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-filmoras-quick-start-approach-for-youtube-trailers/"><u>2024 Approved Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/chrome-troubles-eradicate-errnamenotresolved-with-this-easy-method/"><u>Chrome Troubles? Eradicate 'ERR_NAME_NOT_RESOLVED' With This Easy Method!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-effortless-csgo-stability-and-no-more-unexpected-shutdowns/"><u>Expert Tips for Effortless CS:GO Stability and No More Unexpected Shutdowns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-desktop-not-available-issue-on-system-profile-windows/"><u>Fixing the 'Desktop Not Available' Issue on System Profile - Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-update-error-code-0x80070490-a-comprehensive-guide/"><u>Fixing Windows Update Error Code 0X80070490 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-issues-when-call-of-duty-warzone-wont-start/"><u>How to Fix Issues When Call of Duty Warzone Won't Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-user-profile-service-service-failed-the-sign-in-error-windows-1111/"><u>How to Fix The User Profile Service Service Failed the Sign-In Error Windows 11/11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-understanding-the-impact-of-igtv-videos-through-analysis/"><u>In 2024, Understanding the Impact of IGTV Videos Through Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-pc-restoration-in-windows-11-overcoming-common-problem-resetting-errors/"><u>Mastering PC Restoration in Windows 11: Overcoming Common Problem Resetting Errors</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/swift-solution-tweeting-videos-not-functioning-chrome/"><u>Swift Solution Tweeting Videos Not Functioning Chrome</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-factors-driving-consumer-returns-of-the-apple-vision-pro-insights-from-reddit-discussions-analysis/"><u>Top 7 Factors Driving Consumer Returns of the Apple Vision Pro: Insights From Reddit Discussions Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-aoc-monitor-steps-to-restore-functionality-on-windows-10-devices/"><u>Troubleshoot Your AOC Monitor: Steps to Restore Functionality on Windows 10 Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-captivating-your-audience-writing-podcast-intros/"><u>[New] Captivating Your Audience Writing Podcast Intros</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-reverse-artisan-group-for-2024/"><u>[New] Reverse Artisan Group for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-much-video-can-64gb128gb-hold/"><u>[Updated] How Much Video Can 64GB/128GB Hold?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-narrative-techniques-for-impactful-documentaries/"><u>2024 Approved Narrative Techniques for Impactful Documentaries</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211341649-9781667469607-ecrire-pour-etre-heureux/"><u>Écrire pour être heureux | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps-for-2024/"><u>Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-accelerate-league-of-legends-download-speed-and-avoid-lag/"><u>How to Accelerate League of Legends Download Speed and Avoid Lag</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme 12 Pro+ 5G Phone Without Password?</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-memoji-talk-make-memoji-video-on-your-own-for-2024/"><u>New How to Make Memoji Talk-Make Memoji Video On Your Own for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206319956-shift-key-issues-heres-the-step-by-step-fix-that-works/"><u>Shift Key Issues? Here's the Step-by-Step Fix That Works</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-how-to-re-sync-your-unresponsive-xbox-one-controller/"><u>Ultimate Solution: How To Re-Sync Your Unresponsive Xbox One Controller</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-microsofts-0x80004005-error-a-step-by-step-tutorial/"><u>Understanding and Correcting Microsoft's 0X80004005 Error: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-the-reasons-behind-ps4-loud-operation-and-fixing-them/"><u>Understanding the Reasons Behind PS4 Loud Operation & Fixing Them</u></a></li>
 </ul></div>
 

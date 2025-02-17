@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Overcoming Common Software Stoppages Effectively"
-date: 2024-08-19T07:55:13.240Z
-updated: 2024-08-20T07:55:13.240Z
+date: 2025-02-12T16:59:39.729Z
+updated: 2025-02-16T21:41:41.777Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 3. [**Check your power management settings**](#s3)
 4. [**Update your USB driver**](#s4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Use a different USB port
 
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
@@ -35,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 If all your USB ports aren’t working, try Step 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -44,6 +49,11 @@ If all your USB ports aren’t working, try Step 2, below.
 1. **Disconnect** the AC adapter or power cord from your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
@@ -56,26 +66,23 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Type devmgmt.msc and press Enter.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 ### Step 4: Update your USB driver
@@ -98,9 +105,6 @@ or
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -114,8 +118,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +125,26 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-blending-realms-a-guide-to-photomosaic-creation-for-2024/"><u>[New] Blending Realms A Guide to PhotoMosaic Creation for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-vr-revolutionizes-movie-watching/"><u>[New] How VR Revolutionizes Movie-Watching</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-step-into-the-world-of-manga-and-anime-with-a-tap-on-snapchat/"><u>[New] In 2024, Step Into the World of Manga & Anime with a Tap on Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-locate-the-best-bargains-on-gopro-cameras/"><u>[New] Locate the Best Bargains on GoPro Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-survey-unique-categories-in-visual-media-equipment/"><u>[Updated] Survey Unique Categories in Visual Media Equipment</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-best-free-platforms-for-unique-and-striking-text-appeal-for-2024/"><u>[Updated] The Best Free Platforms for Unique and Striking Text Appeal for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-correct-access-denied-to-device-path-messages-on-your-computer/"><u>Easy Steps to Correct 'Access Denied to Device Path' Messages on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-failed-to-set-user-settings-driver-issue/"><u>Effective Solutions for the 'Failed to Set User Settings' Driver Issue</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-the-obvious-techniques-for-masked-youtube-content/"><u>Erase the Obvious Techniques for Masked YouTube Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-vanishing-mouse-pointer-issue-in-windows-10/"><u>How to Fix the Vanishing Mouse Pointer Issue in Windows 10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/latex-white-screen-dilemma-solutions-and-tips/"><u>LaTeX White Screen Dilemma - Solutions and Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-button-fixes-how-to-boot-up-a-malfunctioning-iphone-easily/"><u>No-Button Fixes: How to Boot Up a Malfunctioning iPhone Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-common-issues-with-laptop-trackpad-malfunctions-a-comprehensive-guide/"><u>Overcoming Common Issues with Laptop Trackpad Malfunctions - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-10-failure-to-shut-down-issues-in-minutes/"><u>Resolve Windows 10 Failure to Shut Down Issues in Minutes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/scroll-jumps-enhance-windows-experience/"><u>Scroll Jumps: Enhance Windows Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/upgraded-resolution-tackling-low-resource-allocation-problems/"><u>Upgraded Resolution: Tackling Low Resource Allocation Problems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y100-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y100 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-function-keys-arent-working-properly/"><u>What to Do When Your Function Keys Aren't Working Properly</u></a></li>
+</ul></div>
 

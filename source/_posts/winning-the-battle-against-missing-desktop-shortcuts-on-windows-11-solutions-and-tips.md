@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Against Missing Desktop Shortcuts on Windows 11: Solutions and Tips"
-date: 2025-01-22T18:48:53.411Z
-updated: 2025-01-25T17:14:22.360Z
+date: 2025-02-16T01:27:05.717Z
+updated: 2025-02-16T18:23:30.036Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
  If you see this error when you try to install a program, it is possible the installer or installation package is corrupted. In this case, you should download a correct installer to set up the program. You can download its latest version from the program’s official website. Then try installing it on your computer. If the error came from the original installer, you won’t see the error now.  
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Reinstall the problem program
 
  If the error occurs when you are launching a program, the program may be corrupted. Reinstalling the problem program is helpful for fixing your problem. To do so:
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b609e2cee18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Large icons** in the View by drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a8beffe8.jpg)
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 **4)** Click **Programs and Features** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60b6ea986e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Right click the problem program and select**Uninstall** .
 
@@ -81,32 +77,32 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 **1)** On your keyboard, press the**Windows logo**   **key![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and**R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Type “_**control**_ ” and press**Enter** to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b609e2cee18.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select**Large icons** in the View by drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a8beffe8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click **Programs and Features** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60b6ea986e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Delete every Visual C++ Redistributable (right-click on each of the programs with the name of “**Microsoft Visual C++ XXXX Redistributable** ” and then select**Uninstall** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6556f6ddfc.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Go to the[**Microsoft Visual C++ downloads website**](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads) to download the programs you have just uninstalled. Then install them on your computer.
 
@@ -114,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Run system checks
@@ -130,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b75954000f6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Type “_**sfc /scannow**_ ” and press**Enter** on your keyboard.
@@ -144,7 +140,7 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b747c6a5bfe.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)**  Wait until the process completes. Then check to see if this fixes the error.  
@@ -165,6 +161,10 @@ To reset your Windows 10:
 **2)** Click **Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74c8d75b01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select**Remove everything** .
 
@@ -191,15 +191,19 @@ To reset your Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/avimp3/"><u>完美的方法将AVI文件快速转换为MP3音频</u></a></li>
-<li><a href="https://fox-place.techidaily.com/effective-methods-for-diagnosing-and-fixing-a-malfunctioning-video-card-tips-from-yl-computing/"><u>Effective Methods for Diagnosing and Fixing a Malfunctioning Video Card - Tips From YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-cannot-start-device-error-for-dvdcd-rom-in-windows-11-a-step-by-step-troubleshooting-tutorial/"><u>Fix 'Windows Cannot Start Device' Error for DVD/CD-ROM in Windows 지원(11): A Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meet-the-future-of-audio-dyson-challenges-apple-with-cutting-edge-ontrac-true-wireless-headphones/"><u>Meet the Future of Audio: Dyson Challenges Apple with Cutting-Edge 'OnTrac' True Wireless Headphones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-your-device-always-going-dormant-quick-and-effective-fixes-for-a-better-experience/"><u>Stop Your Device Always Going Dormant - Quick and Effective Fixes for a Better Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sunshine-strategies-to-lighten-up-android-videos/"><u>Sunshine Strategies to Lighten up Android Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guides/"><u>Tom's Tech Reviews: In-Depth Analysis and Guides</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-steam-server-connectivity-issues/"><u>Troubleshooting Guide: Resolving Steam Server Connectivity Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-malfunctioning-peripherals-how-to-get-usb-mouse-and-keyboard-functioning-again-in-windows-7/"><u>Troubleshooting Tips for Malfunctioning Peripherals: How to Get USB Mouse and Keyboard Functioning Again in Windows 7</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-seamless-access-watching-fb-videos-on-apple-tv-explained/"><u>[New] In 2024, Seamless Access Watching FB Videos on Apple TV Explained</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-roadmap-to-yotube-stardom-with-best-selling-music-videos-for-2024/"><u>[New] The Ultimate Roadmap to YoTube Stardom with Best-Selling Music Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-randomly-turns-off-solved/"><u>Computer Randomly Turns Off [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-restore-audio-on-an-unresponsive-acer-laptop/"><u>Expert Solutions to Restore Audio on an Unresponsive Acer Laptop</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-damaged-registry-settings-for-optimal-dvdcd-rom-functionality-in-windows-11-error-code-19/"><u>How to Repair Damaged Registry Settings for Optimal DVD/CD-ROM Functionality in Windows 11 [Error Code 19]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-speaking-into-the-future-iphone-recordings/"><u>In 2024, Speaking Into the Future - iPhone Recordings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/interleaving/"><u>Interleaving:</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/perfecting-your-interview-role-a-comprehensive-guide-for-2024/"><u>Perfecting Your Interview Role A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/professional-guide-downloading-and-installing-brother-mfc-nw-cw-drivers/"><u>Professional Guide: Downloading & Installing Brother MFC-Nw CW Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-reviving-an-unresponsive-xbox-controller-xp-edition/"><u>Step-by-Step Solution: Reviving an Unresponsive Xbox Controller (XP Edition)</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/tecnicas-seguros-para-recuperacion-de-datos-del-disco-seagate-elements/"><u>Técnicas Seguros Para Recuperación De Datos Del Disco Seagate Elements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210450714-unlock-the-potential-of-system-file-checker-sfc-and-deployment-image-servicing-dism-for-seamless-windows-10-recovery/"><u>Unlock the Potential of System File Checker (SFC) and Deployment Image Servicing (DISM) for Seamless Windows 10 Recovery.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975934932-windows-vehicle-get-iphone-driver-software-installed-easily/"><u>Windows Vehicle: Get iPhone Driver Software Installed Easily!</u></a></li>
 </ul></div>
 

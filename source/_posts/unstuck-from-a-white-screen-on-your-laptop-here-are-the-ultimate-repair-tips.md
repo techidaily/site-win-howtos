@@ -1,7 +1,7 @@
 ---
 title: Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips
-date: 2025-02-02T10:28:27.927Z
-updated: 2025-02-06T16:54:02.679Z
+date: 2025-02-10T22:57:51.875Z
+updated: 2025-02-16T23:46:25.181Z
 tags:
   - win11
   - win10
@@ -33,13 +33,17 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Make sure**Power**icon is enabled.  
   
@@ -71,28 +71,28 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -105,7 +105,7 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -125,21 +125,20 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-7-unboxing-excellence-strategies/"><u>[New] 2024 Approved Top 7 Unboxing Excellence Strategies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-social-streaming-downloading-videos-and-turning-them-to-audio/"><u>[New] In 2024, Social Streaming Downloading Videos & Turning Them to Audio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-8-cam-enhancers-for-clear-broadcasting/"><u>[Updated] Premium 8 Cam Enhancers for Clear Broadcasting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-switching-from-snippet-to-live-play-in-yt/"><u>[Updated] Switching From Snippet to Live Play in YT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/experience-smooth-controls-xbox-one-on-pc/"><u>Experience Smooth Controls: Xbox One on PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-samsung-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Samsung Galaxy S21 FE 5G (2023)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-diagnostics-policy-service-not-running-problems/"><u>Guide to Fixing 'Diagnostics Policy Service Not Running' Problems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-razr-40-ultra-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Razr 40 Ultra Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-trouble-fixes-for-input-device-problems-at-startup/"><u>Keyboard Trouble? Fixes for Input Device Problems at Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-restore-battery-charging-functionality-on-your-laptop/"><u>Quick Fixes to Restore Battery Charging Functionality on Your Laptop</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-c12-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia C12 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-collection-of-the-11-most-uplifting-movies-for-a-positive-mindset/"><u>The Definitive Collection of the 11 Most Uplifting Movies for a Positive Mindset</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-itel-a60s-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Itel A60s for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210018626-troubleshooting-apex-legends-simple-fixes-for-the-anti-cheat-error-solved/"><u>Troubleshooting Apex Legends: Simple Fixes for the Anti-Cheat Error - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-nier-automata-pc-issues-for-smooth-gaming-experience/"><u>Troubleshooting Nier: Automata PC Issues for Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstick-your-windows-11-on-startup-efficient-troubleshooting-tips/"><u>Unstick Your Windows 11 on Startup: Efficient Troubleshooting Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration-for-2024/"><u>[New] A Comprehensive Walkthrough for iMovie and YouTube Collaboration for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-eight-high-performing-tablets-for-future-photography-titans/"><u>[New] Eight High-Performing Tablets for Future Photography Titans</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-obs-for-android-streaming/"><u>[New] In 2024, Mastering OBS for Android Streaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-10-security-focused-video-chat-apps-on-mobile-devices/"><u>[Updated] In 2024, Top 10 Security-Focused Video Chat Apps on Mobile Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-system-performance-with-thunderbolt-driver-update-for-windows-operating-systems/"><u>Enhance System Performance with Thunderbolt Driver Update for Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-youtube-audio-renderer-error-for-a-smooth-streaming-experience-on-windows-10/"><u>Fixing the YouTube Audio Renderer Error for a Smooth Streaming Experience on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-past-valorants-unending-load-up-expert-advice-for-a-smooth-game-start/"><u>Get Past Valorant's Unending Load Up: Expert Advice for a Smooth Game Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-correct-error-message-device-unavailable-code-24-solutions-for-win1087/"><u>Guide to Correct Error Message - Device Unavailable (Code 24), Solutions for Win10/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lower-high-wmi-cpu-usage-on-pcs/"><u>Lower High WMI CPU Usage on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-to-the-home-screen-finding-start-in-windows-11-made-easy/"><u>Navigating to the Home Screen: Finding 'Start' In Windows 11 Made Easy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/rejuvenated-dialogue-ideas-to-hook-listeners/"><u>Rejuvenated Dialogue Ideas to Hook Listeners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-dell-wireless-keyboard-stops-working/"><u>Solutions for When Your Dell Wireless Keyboard Stops Working</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-group-policies-for-specific-users-stepwise-approach/"><u>Tailored Group Policies for Specific Users: Stepwise Approach</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-secrets-a-deep-dive-into-toms-hardware-recommendations/"><u>Unlocking Performance Secrets - A Deep Dive Into Tom's Hardware Recommendations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-update-error-0xc1900208-solved/"><u>Windows 11 Update Error 0Xc1900208 [SOLVED]</u></a></li>
 </ul></div>
 

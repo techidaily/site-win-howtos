@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps When Windows 11 Won't Start a Hosted Virtual Wi-Fi"
-date: 2025-02-05T16:09:00.657Z
-updated: 2025-02-07T00:31:11.537Z
+date: 2025-02-15T20:26:00.647Z
+updated: 2025-02-17T01:05:31.603Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 3 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -38,20 +42,12 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
 
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
@@ -60,11 +56,19 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Click **OK** .  
 
@@ -74,17 +78,17 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
@@ -106,15 +110,11 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -140,20 +140,22 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-prime-instant-window-photo-viewer/"><u>[New] In 2024, Prime Instant Window Photo Viewer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-record-sims-4-gameplay/"><u>[Updated] 2024 Approved How to Record Sims 4 Gameplay</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/beginner-to-pro-selecting-the-best-cinema-cameras/"><u>Beginner to Pro Selecting the Best Cinema Cameras</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-y78-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Y78 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-error-code-24-device-missing-in-windows-1187-environments/"><u>Comprehensive Fixes for Error Code 24 - Device Missing in Windows 11/8/7 Environments</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/countries-observing-the-thanksgiving-tradition/"><u>Countries Observing the Thanksgiving Tradition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-your-path-to-optimal-hdr-camera-selection/"><u>Crafting Your Path to Optimal HDR Camera Selection</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/easy-tutorial-on-sourcing-top-quality-high-res-audio-files/"><u>Easy Tutorial on Sourcing Top Quality High-Res Audio Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-sims-4-game-not-starting-correctly/"><u>Effective Solutions for Sims 4 Game Not Starting Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-resolve-your-windows-10-continuous-rebooting-dilemma-today/"><u>Effortlessly Resolve Your Windows 10 Continuous Rebooting Dilemma Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-your-pc-cant-be-reset-issue-in-windows-10-solution-guide/"><u>How to Overcome the 'Your PC Can’t Be Reset' Issue in Windows 10 - Solution Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-lava-yuva-2-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Lava Yuva 2 Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-disruptions-the-guide-to-stop-shockwave-flash-from-crashing-on-google-chrome/"><u>No More Disruptions: The Guide to Stop Shockwave Flash From Crashing on Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-correct-non-compatible-device-drivers-on-windows-os-for-optimal-performance/"><u>Resolved: How To Correct Non-Compatible Device Drivers On Windows OS For Optimal Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-crc-eliminating-persistent-data-integrity-problems/"><u>Troubleshooting CRC: Eliminating Persistent Data Integrity Problems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-simplicity-in-action-constructing-an-intuitive-youtube-signup-page/"><u>[Updated] 2024 Approved Simplicity in Action Constructing an Intuitive YouTube Signup Page</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-reinvigorating-windows-photo-viewer-in-w10-procedures-1-and-2/"><u>[Updated] In 2024, Reinvigorating Windows Photo Viewer in W10 Procedures #1 & #2</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-instantly-access-fb-videos-on-your-apple-entertainment-center-for-2024/"><u>[Updated] Instantly Access FB Videos on Your Apple Entertainment Center for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unleash-creativity-fast-windows-10-photo-edits-made-simple/"><u>2024 Approved Unleash Creativity Fast Windows 10 Photo Edits Made Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-guide-enable-your-windows-update-feature/"><u>Effortless Guide: Enable Your Windows Update Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-overcoming-steam-write-disc-errors-quickly/"><u>Effortless Guide: Overcoming Steam Write Disc Errors Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-barriers-in-nvidia-deployment/"><u>Eliminating Barriers in NVIDIA Deployment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-overcoming-windows-installation-issues-understanding-error-0x80070610/"><u>Expert Tips on Overcoming Windows Installation Issues: Understanding Error 0X800706[:10]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-successfully-completed-my-pending-windows-update-at-100/"><u>How I Successfully Completed My Pending Windows Update at 100%</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-the-20-anker-power-bank-revolutionizes-mobile-charging-solutions-discover-more/"><u>How the $20 Anker Power Bank Revolutionizes Mobile Charging Solutions – Discover More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-ensuring-a-stable-connection-for-devices-pairing-via-bluetooth-on-windows-11/"><u>How to Fix: Ensuring a Stable Connection for Devices Pairing via Bluetooth on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-when-your-windows-11-version-1607-update-wont-go-through/"><u>Solving the Problem: When Your Windows 11 (Version 1607) Update Won't Go Through</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-connecting-with-google-gemini-ai-via-ios-devices/"><u>Step-by-Step Tutorial: Connecting with Google Gemini AI via iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-bluetooth-issues-why-your-device-is-paired-but-remains-unconnected-in-windows-11/"><u>Troubleshooting Bluetooth Issues: Why Your Device Is Paired but Remains Unconnected in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-common-oculus-equipment-failures-in-the-new-year-of-2024/"><u>Ultimate Fixes for Common Oculus Equipment Failures in the New Year of 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/winx-free-film-editor-the-authorized-source-for-reliable-dvd-ripping-and-high-definition-video-conversion-tools/"><u>WinX FREE Film Editor: The Authorized Source for Reliable DVD Ripping & High-Definition Video Conversion Tools</u></a></li>
 </ul></div>
 

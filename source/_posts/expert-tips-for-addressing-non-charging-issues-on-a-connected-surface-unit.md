@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Addressing Non-Charging Issues on a Connected Surface Unit
-date: 2024-08-19T07:56:49.198Z
-updated: 2024-08-20T07:56:49.198Z
+date: 2025-02-11T16:48:17.619Z
+updated: 2025-02-16T18:29:03.545Z
 tags:
   - win11
   - win10
@@ -36,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-162134_1280-1024x512.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **If you don’t have a NUM key** (if you’re using a laptop), you’ll need to press the**FN key** and the**CAPS Lock key** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-311803_1280-1-1024x512.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hope your keyboard is back to normal now. If not, read on and try the fix below.
 
@@ -51,17 +59,15 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-230.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Switch to another input language and then switch back. (In my case, I’ll change the input language to German, then change it back to English.)
 
 **3)** Check your keyboard to see if this fixed your issue.
 
  If your keyboard map still won’t match the letters on your keys, move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run the keyboard troubleshooter
 
  Another quick fix to this issue is running the Windows troubleshooter to detect and fix your problem. Follow the instructions below to see how to do it:
@@ -73,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**Keyboard** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
@@ -83,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 **3)** Wait for Windows to find and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. There are still 3 more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -127,8 +134,9 @@ OR
  Restart your computer after you update your keyboard driver. After your computer restarts, check if your issue has been resolved. If not, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check for Windows updates
 
  Windows updates can address bugs related to both hardware and software. So, make sure you’ve installed all the new Windows updates to keep your keyboard running correctly. Here is how to do it:
@@ -145,9 +153,6 @@ OR
 
 If your problem persists, check the fix 6, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 6: Reconnect your keyboard to your PC
 
  If none of the fixes above worked, reinstalling your keyboard is very likely the solution to your issue. Here is how to do it:
@@ -180,8 +185,9 @@ If your problem persists, check the fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-246.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Wait for 3 minutes, then connect the receiver either into the back or front of your computer.
 
 **4)** Restart your computer to test your issue.
@@ -199,8 +205,6 @@ If your problem persists, check the fix 6, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +212,22 @@ If your problem persists, check the fix 6, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-notch-ae-extensions-selection/"><u>[New] Top-Notch AE Extensions Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-amplify-engagement-increase-youtube-viewers-for-2024/"><u>[Updated] Amplify Engagement Increase YouTube Viewers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-start-crafting-movies-xp-edition-install-guide/"><u>[Updated] Start Crafting Movies Xp Edition Install Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-v-purse-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-your-course-through-youtube-compliance-for-2024/"><u>Charting Your Course Through YouTube Compliance for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/closed-opengl-support-non-existent/"><u>Closed: OpenGL Support Non-Existent</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-handling-the-remote-procedure-call-server-unavailable-glitch-in-windows/"><u>DIY Fixes: Handling the 'Remote Procedure Call' Server Unavailable Glitch in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-google-pixel-fold-device-sim-by-drfone-android/"><u>Easily Unlock Your Google Pixel Fold Device SIM</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-0xc0000005-error-in-windows/"><u>How to Fix 0Xc0000005 Error in Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-defy-2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Defy 2 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/proven-techniques-for-amplifying-tiktok-unboxing-success-for-2024/"><u>Proven Techniques for Amplifying TikTok Unboxing Success for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-pairing-your-microsoft-display-adapter-in-windows-10-a-step-by-step-guide/"><u>Successfully Pairing Your Microsoft Display Adapter in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unplanned-restarts-in-windows-11-fixing-the-auto-boot-issue/"><u>Troubleshooting: Unplanned Restarts in Windows 11 - Fixing the Auto-Boot Issue</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlock-the-secrets-to-effective-podcast-scriptwriting-and-practical-examples-for-2024/"><u>Unlock the Secrets to Effective Podcast Scriptwriting & Practical Examples for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205984585-usb-ports-failure-in-windows-1011-heres-how-to-fix-them/"><u>USB Ports Failure in Windows 10/11? Here's How to Fix Them</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows 11 Installation Failure: Resolve Error Code 802#"
-date: 2024-08-19T07:51:23.018Z
-updated: 2024-08-20T07:51:23.018Z
+date: 2025-02-14T20:57:15.868Z
+updated: 2025-02-16T18:42:11.629Z
 tags:
   - win11
   - win10
@@ -57,8 +57,6 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,8 +64,22 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-photobooth-lags-steadying-the-playback-journey-for-2024/"><u>[New] Photobooth Lags Steadying the Playback Journey for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clear-up-the-confusion-effective-strategies-for-fixing-google-chromes-mysterious-black-screen-glitch/"><u>Clear Up the Confusion: Effective Strategies for Fixing Google Chrome's Mysterious Black Screen Glitch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722897912580-discover-the-history-and-impact-of-netflixs-former-dvd-rental-program/"><u>Discover the History and Impact of Netflix's Former DVD Rental Program.</u></a></li>
+<li><a href="https://article-files.techidaily.com/dissecting-the-components-of-mixed-reality-for-2024/"><u>Dissecting the Components of Mixed Reality for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-and-easy-driver-updates-for-gtx-760/"><u>Fast & Easy Driver Updates for GTX 760</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-guide-reactivating-a-faulty-wacom-stylus-on-pc-running-windows-11-or-10/"><u>Fix Guide: Reactivating a Faulty Wacom Stylus on PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hp-laptop-and-airpods-integration-easy-steps-for-perfect-syncing/"><u>HP Laptop and AirPods Integration: Easy Steps for Perfect Syncing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-fixing-windows-11-with-sfc-and-dism-commands/"><u>The Ultimate Guide to Fixing Windows 11 with SFC and DISM Commands</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-linus-torvalds-use-of-rust-for-linux-development-and-life-routines-with-m2-macbook-air-insights-from-zdnet-interview/"><u>Unveiling Linus Torvalds' Use of Rust for Linux Development and Life Routines with M2 MacBook Air | Insights From ZDNet Interview</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/yac530-yamahaaturbosound-ii-sound-module-based-on-the-ymf764ymu764-dsp-plus-midi-synthesizer-plus-codec-and-128-mb-of-spiram-for-sample-storage-instead-of-r77/"><u>YAC530 - Yamaha'aturboSound II Sound Module Based on the YMF764/YMU764 (DSP + MIDI Synthesizer + Codec) and 128 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

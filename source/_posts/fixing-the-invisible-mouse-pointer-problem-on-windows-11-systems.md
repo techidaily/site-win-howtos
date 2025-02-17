@@ -1,7 +1,7 @@
 ---
 title: Fixing the Invisible Mouse Pointer Problem on Windows 11 Systems
-date: 2024-08-23T14:00:58.282Z
-updated: 2024-08-24T14:00:58.282Z
+date: 2025-02-12T00:32:09.509Z
+updated: 2025-02-16T17:43:53.810Z
 tags:
   - win11
   - win10
@@ -50,17 +50,21 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 2: Reset your Winsock Catalog
 
  You very likely have the problem on your computer that joins in a domain network. You could have problem due to some interference of your Winsock Catalog setting.
@@ -71,9 +75,6 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
@@ -96,12 +97,13 @@ Follow these steps to reset your Winsock Catalog:
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -111,20 +113,23 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -139,8 +144,9 @@ Restart your computer to see if the error has gone.
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
@@ -158,8 +164,6 @@ Restart your computer to see if the error has gone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +171,22 @@ Restart your computer to see if the error has gone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-high-definition-video-refiner-for-pcmacos/"><u>[New] In 2024, High Definition Video Refiner for PC/MacOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-leading-ways-to-preserve-live-streamed-sports-events-flawlessly/"><u>[New] Leading Ways to Preserve Live-Streamed Sports Events Flawlessly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-in-depth-evaluation-of-clipcreator-editor-updated/"><u>[Updated] In 2024, In-Depth Evaluation of ClipCreator Editor - Updated</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-visuals-in-youtubespace-with-effective-tools/"><u>[Updated] Maximize Visuals in YouTubespace with Effective Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-your-iphone-videographyphoto-expertise-with-add-ons/"><u>[Updated] Perfect Your iPhone Videography/Photo Expertise With Add-Ons</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-methods-to-clear-up-obs-fullscreen-troubles/"><u>2024 Approved Methods to Clear Up OBS Fullscreen Troubles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/curing-the-persistent-youtube-sound-renderer-malfunction-in-modern-windows-os/"><u>Curing the Persistent YouTube Sound Renderer Malfunction in Modern Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-windows-update-problem-code-8007000e-explained/"><u>Effective Fixes for Windows Update Problem - Code 8007000E Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-error-0x8024402c-solved/"><u>How to Fix Windows Update Error 0X8024402c [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-issues-with-windows-and-system-event-services-connection/"><u>How to Overcome Issues with Windows and System Event Services Connection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor Magic5 Ultimate to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-problem-enable-and-fix-disabled-wireless-capabilities-easily/"><u>Overcoming the Problem: Enable and Fix Disabled Wireless Capabilities Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-problem-night-light-feature-malfunction-in-recent-windows-os-versions/"><u>Solve the Problem: Night Light Feature Malfunction in Recent Windows OS Versions</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/solving-the-issue-of-iphones-failing-to-sync-with-computers/"><u>Solving the Issue of iPhones Failing to Sync with Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-razer-keyboard/"><u>Troubleshooting Tips: How To Fix A Non-Responsive Razer Keyboard</u></a></li>
+</ul></div>
 

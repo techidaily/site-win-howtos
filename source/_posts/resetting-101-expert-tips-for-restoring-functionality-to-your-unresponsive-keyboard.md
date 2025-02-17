@@ -1,7 +1,7 @@
 ---
 title: "Resetting 101: Expert Tips for Restoring Functionality to Your Unresponsive Keyboard"
-date: 2025-01-21T18:30:35.250Z
-updated: 2025-01-25T16:40:15.577Z
+date: 2025-02-15T17:15:34.022Z
+updated: 2025-02-17T01:43:37.682Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -48,7 +44,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -60,10 +56,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -89,6 +81,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -113,6 +109,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -134,21 +134,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,17 +184,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[New] 2024 Approved Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-key-elements-to-successful-mobile-app-design/"><u>[New] Key Elements to Successful Mobile App Design</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-and-rectifying-youtube-sound-malfunctions-caused-by-an-audio-renderer-error-on-windows-10/"><u>Addressing and Rectifying YouTube Sound Malfunctions Caused by an Audio Renderer Error on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/failed-to-create-d3d-device-solved/"><u>Failed to Create D3D Device [SOLVED]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/how-to-facetime-on-android-easily-for-2024/"><u>How To Facetime on Android Easily for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-gt-5-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme GT 5 Pro?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/itop-screen-recorder-essential-or-excessive/"><u>ITop Screen Recorder - Essential or Excessive?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/next-level-game-capture-strategies-for-high-definition-quality-for-2024/"><u>Next-Level Game Capture Strategies for High Definition Quality for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-microsoft-widi-connection-setbacks-on-windows-10-devices-expert-tips/"><u>Overcoming Microsoft WiDi Connection Setbacks on Windows 10 Devices - Expert Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-honor-magic-5-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic 5 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-hiding-touchpad-on-windows-11-with-usb-mouse-connection/"><u>Step-by-Step Instructions for Hiding Touchpad on Windows 11 with USB Mouse Connection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-installation-errors-fast-and-effectively/"><u>Troubleshoot Windows Installation Errors Fast and Effectively</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-effective-methods-to-document-facetime-calls/"><u>[New] Effective Methods to Document FaceTime Calls</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-youtube-standard-studio-or-beta-progress-for-2024/"><u>[New] Mastering YouTube Standard Studio or Beta Progress for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-tech-jest-crafter-for-2024/"><u>[Updated] Tech Jest Crafter for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-dealing-with-igfx-module-failure-problems-effectively/"><u>Comprehensive Solution: Dealing with iGFX Module Failure Problems Effectively</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/effectieve-strategieen-van-hoe-photorec-om-beschadigde-gegevens-te-herstellen-op-een-windows-pc/"><u>Effectieve Strategieën Van Hoe PhotoRec Om Beschadigde Gegevens Te Herstellen Op Een Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203738701-fix-system-error-5-has-occurred-error-on-windows-10-7-and-8-solved/"><u>Fix System Error 5 Has Occurred Error on Windows 10, 7 & 8 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-reducing-microsoft-compatibility-telemetrys-excessive-memory-consumption-in-windows-11/"><u>Fixing the Issue: Reducing Microsoft Compatibility Telemetry's Excessive Memory Consumption in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18e-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo S18e Phone without Google Account?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-xiaomi-13t-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Xiaomi 13T Phone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-fundamentals-of-exceptional-interviewing/"><u>In 2024, The Fundamentals of Exceptional Interviewing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/methods-of-gaining-permission-from-trustedinstaller-for-file-edits/"><u>Methods of Gaining Permission From TrustedInstaller for File Edits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-problem-how-to-repair-the-nonfunctional-start-menu-in-windows-11/"><u>Solving Your Problem: How to Repair the Nonfunctional Start Menu in Windows 11</u></a></li>
 </ul></div>
 

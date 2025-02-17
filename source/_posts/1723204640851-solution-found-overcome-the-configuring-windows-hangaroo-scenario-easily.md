@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Overcome the 'Configuring Windows' Hangaroo Scenario Easily!"
-date: 2025-02-05T21:33:21.099Z
-updated: 2025-02-07T07:39:34.973Z
+date: 2025-02-13T16:01:27.873Z
+updated: 2025-02-17T01:25:48.323Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for Windows 10 keeps restarting
@@ -50,13 +50,13 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click **Troubleshoot** .
 
@@ -67,42 +67,38 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Click **Startup settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aba3c4fbd1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) Click **Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) On your keyboard, press **5**  to enable **Safe Mode with Networking** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the**Windows 10 stuck in endless restart loop** problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable auto-restart
 
  1) On your keyboard, press **the Windows logo key**  and **R** at the same time, then copy & paste**sysdm.cpl** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612ab2f0c2c.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**Settings…** under the **Startup and Recovery** section.
 
@@ -111,6 +107,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612bede01ba.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Now check if your**computer keeps restarting** problem has been resolved. If yes, then great! But if it still restarts for no reason, please move on to**Fix 3** , below.
 
@@ -146,12 +146,16 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**High performance** option >**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
@@ -167,10 +171,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  5) Restart your computer and check if your**Windows 10 keeps restarting**  problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware issues
 
@@ -205,18 +205,24 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-avatar-assembly-the-no-frills-guide-to-virtual-realms/"><u>[New] Avatar Assembly The No-Frills Guide to Virtual Realms</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-clear-youtubes-obscured-visual-field/"><u>[New] In 2024, Clear Youtube's Obscured Visual Field</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-step-by-step-solution-to-reactivating-a-printer-with-error-code-30/"><u>A Step-by-Step Solution to Reactivating a Printer with Error Code -30</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-t2x-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo T2x 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-dead-lenovo-mousepads-a-cross-platform-win-11-8-and-nw-solution/"><u>Expert Tips for Fixing Dead Lenovo Mousepads: A Cross-Platform Win 11, 8 & Nw Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-sluggish-closure-solutions-to-your-windows-10-shutdown-woes/"><u>Fixing the Sluggish Closure: Solutions to Your Windows 10 Shutdown Woes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/get-more-bang-for-your-buck-with-the-highly-praised-arcshell-ar-5/"><u>Get More Bang for Your Buck with the Highly Praised ArcShell AR- 5.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hit-compliant-update-addressed-previous-missing-tap-response/"><u>HIT-Compliant Update: Addressed Previous Missing Tap Response</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-find-x7-ultra-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Find X7 Ultra FRP</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-poco-x6-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Poco X6 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-access-denied-to-device-pathfile-on-windows-troubleshooting-guide/"><u>Solve Access Denied to Device Path/File on Windows – Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-windows-error-0xc0000098/"><u>Step-by-Step Guide: Resolving Windows Error 0xC0000098</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210709921-9780645602814-the-meditation-activists-travel-guide/"><u>The Meditation Activist's Travel Guide | Free Book</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ideal-dslrs-for-animation-filmmaking/"><u>[Updated] In 2024, Ideal DSLRs for Animation Filmmaking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infusing-life-into-ig-story-posts-a-guide-to-dynamic-animated-text/"><u>[Updated] Infusing Life Into IG Story Posts A Guide to Dynamic, Animated Text</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-tailor-made-youtube-closings-how-to-get-them-right-for-2024/"><u>[Updated] Tailor-Made YouTube Closings How to Get Them Right for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-video-editing-alternatives-to-the-go-to-inshot-for-2024/"><u>[Updated] Video Editing Alternatives to the Go-To Inshot for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-3-step-formula-how-to-check-youtube-income/"><u>2024 Approved [3-Step Formula] How To Check YouTube Income</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-2-initializing-problem-solved-a-comprehensive-guide/"><u>Destiny 2 Initializing Problem Solved - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-pc-restoration-in-windows-11-heres-how-you-can-fix-the-problem-encountered-during-setup/"><u>Error-Free PC Restoration in Windows 11? Here's How You Can Fix the 'Problem Encountered During Setup'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-to-fixing-a-faulty-igfxem-chip-on-your-pc/"><u>Expert Guide to Fixing a Faulty Igfxem Chip on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-address-windows-resource-protection-cannot-complete-the-task-error/"><u>Expert Tips to Address 'Windows Resource Protection' Cannot Complete the Task Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-easily-overcome-the-persistent-windows-update-issue-error-0x80070652/"><u>How to Easily Overcome the Persistent Windows Update Issue (Error 0X80070652)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-easily-restore-skype-video-functionality-on-your-pc-running-windows/"><u>How to Easily Restore Skype Video Functionality on Your PC Running Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-100-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor 100 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-xsplit-reviews-in-depth-game-split-analysis/"><u>In 2024, XSplit Reviews In-Depth Game Split Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-wdf-performance-to-reduce-system-cpu-usage/"><u>Optimizing WDF Performance to Reduce System CPU Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-retro-gaming-world-with-segas-dreamcatcher-classics-android-edition/"><u>Step Into Retro Gaming World with Sega's Dreamcatcher Classics, Android Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-error-30005-failed-file-creation-code-32/"><u>Steps to Correct Error 30005: Failed File Creation, Code 32</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210904121-9781088162088-the-practical-school-of-the-holy-spirit-part-4-of-8-activate-dreams-and-visions/"><u>The Practical School of the Holy Spirit - Part 4 of 8 - Activate Dreams and Visions | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-has-occurred-error-in-windows-10-7-and-8-successfully/"><u>Troubleshooting and Fixing 'Has Occurred Error' In Windows 10, 7 & 8 Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-damaged-registry-and-system-files-in-windows-1011/"><u>Ultimate Guide: Repairing Damaged Registry and System Files in Windows 10/11</u></a></li>
 </ul></div>
 

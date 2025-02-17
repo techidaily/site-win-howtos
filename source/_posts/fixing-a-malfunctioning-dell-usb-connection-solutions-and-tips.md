@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Malfunctioning Dell USB Connection: Solutions & Tips"
-date: 2024-08-19T07:52:48.272Z
-updated: 2024-08-20T07:52:48.272Z
+date: 2025-02-11T19:07:04.284Z
+updated: 2025-02-16T21:06:18.411Z
 tags:
   - win11
   - win10
@@ -41,16 +41,15 @@ If all your USB ports aren’t working, try Step 2, below.
 1. **Disconnect** the AC adapter or power cord from your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -60,20 +59,29 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
-8. Check if your USB port works properly now. If not, try Step 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Check if your USB port works properly now. If not, try Step 4, below.
+
 ### Step 4: Update your USB driver
 
  If the steps above didn’t work for you, the most likely cause is a USB driver problem.
@@ -92,14 +100,13 @@ or
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -113,8 +120,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +127,20 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-capture-and-replay-screen-recording-for-instagram-stories/"><u>[New] 2024 Approved Capture and Replay Screen Recording for Instagram Stories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-reasons-for-unexpected-cut-off-in-imovie/"><u>[Updated] In 2024, Reasons for Unexpected Cut-Off in iMovie</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-in-depth-look-at-facetune-a-photographers-best-friend/"><u>2024 Approved In-Depth Look at Facetune A Photographer’s Best Friend</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-broken-pc-components-in-windows-operating-systems/"><u>Easy Fixes for Broken PC Components in Windows Operating Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-social-media-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Exploring Social Media Giants: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-boot-from-an-external-hard-drive-on-windows-11-a-step-by-step-guide/"><u>How to Boot From an External Hard Drive on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-crafting-compelling-stories-the-art-of-instagram-video-editing/"><u>In 2024, Crafting Compelling Stories The Art of Instagram Video Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/linking-several-bluetooth-audio-players-to-a-single-source-a-step-by-step-guide/"><u>Linking Several Bluetooth Audio Players to a Single Source: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/noise-gone-boosting-audio-back-to-life-in-forza-horizon-4-expert-tips-and-tricks/"><u>Noise Gone? Boosting Audio Back to Life in Forza Horizon 4 - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-windows-11-performance-addressing-surge-in-disk-usage-from-microsofts-telemetry-feature/"><u>Optimizing Windows 11 Performance: Addressing Surge in Disk Usage From Microsoft's Telemetry Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-restoring-visibility-of-bluetooth-on-pcs-device-manager/"><u>Solution Guide: Restoring Visibility of Bluetooth on PC's Device Manager</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-videos-online-for-free-the-best-tools-and-services/"><u>Updated Edit Videos Online for Free The Best Tools and Services</u></a></li>
+</ul></div>
 

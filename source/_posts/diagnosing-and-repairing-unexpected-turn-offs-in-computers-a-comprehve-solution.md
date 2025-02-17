@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Unexpected Turn-Offs in Computers: A Comprehve Solution"
-date: 2025-02-01T08:20:54.954Z
-updated: 2025-02-07T02:30:28.915Z
+date: 2025-02-16T01:01:11.117Z
+updated: 2025-02-17T00:50:44.001Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check if your computer has a virus
 
  Virus can cause your computer to work strangely. They can change the computer settings without your knowledge. And they can cause your computer to turn on and off repeatedly.  
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update the drivers on your computer
@@ -67,15 +63,15 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-813.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
  You can do it for free if you like, but it partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Remove any peripherals from your computer
 
@@ -107,15 +103,15 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
 
@@ -134,11 +130,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Check the fan
@@ -151,6 +143,10 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 7: Clean dust
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
@@ -162,6 +158,10 @@ For example, many Dell PCs show this key like below at the first screen:
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 
@@ -182,17 +182,19 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-fast-fixes-streamlining-your-gotomeeting-record-keeping/"><u>[Updated] In 2024, Fast Fixes Streamlining Your GoToMeeting Record Keeping</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-final-steps-for-irreversible-tiktok-un-signup/"><u>[Updated] In 2024, Final Steps for Irreversible TikTok Un-Signup</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-leading-choices-no-fee-versatile-live-streaming-tools-for-every-device/"><u>[Updated] Leading Choices No-Fee, Versatile Live Streaming Tools for Every Device</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-c12-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia C12? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-disabled-local-authentication-layers-securely/"><u>How To Reactivate Disabled Local Authentication Layers Securely</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-installation-errors-with-windows-1ns-version-1607-upgrade/"><u>How to Resolve Installation Errors with Windows 1N's Version 1607 Upgrade</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-10-hindi-video-translators-with-step-by-step-guidance/"><u>New 2024 Approved Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-the-windows-update-halted-at-zero-percent-dilemma/"><u>Quick Fixes: Resolving the Windows Update Halted at Zero Percent Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-missing-d3dcompiler43dll-file-error-on-your-pc/"><u>Resolve 'Missing' D3DCompiler_43.dll File Error on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-cache-miss-errors-errcachemiss-in-your-chrome-browser/"><u>Troubleshooting Cache Miss Errors (ERR_CACHE_MISS) in Your Chrome Browser</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-how-to-achieve-pristine-sound-quality-tactics-to-reduce-echo/"><u>Updated 2024 Approved How to Achieve Pristine Sound Quality Tactics to Reduce Echo</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-maximizing-your-channels-earnings-a-guide-to-creating-impactful-trailers/"><u>[New] In 2024, Maximizing Your Channel's Earnings A Guide to Creating Impactful Trailers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-advanced-techniques-for-gradual-volume-change/"><u>2024 Approved Advanced Techniques for Gradual Volume Change</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-apex-developers-in-the-realm-of-virtual-reality/"><u>2024 Approved Apex Developers in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elite-sleep-solution-an-expert-overview-of-the-philips-somneos-superiority-in-alarm-technology/"><u>Elite Sleep Solution - An Expert Overview of the Philips Somneo's Superiority in Alarm Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-ultimate-bargain-for-an-apple-watch-series-9-exclusive-lowest-price-deals-still-alive-beyond-prime-day-dont-miss-out/"><u>Get Your Hands on the Ultimate Bargain for an Apple Watch Series 9: Exclusive Lowest Price Deals Still Alive Beyond Prime Day - Don't Miss Out!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-usb-port-power-surges-and-error-messages-on-a-windows-n-operating-system/"><u>How to Fix USB Port Power Surges and Error Messages on a Windows N Operating System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-4g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y27 4G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-start-a-private-live-stream-on-youtube/"><u>New How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pam-pulse-amplitude-modulation/"><u>PAM (Pulse Amplitude Modulation)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715701053143-premier-12-video-capture-goes-on-forever/"><u>Premier 12 Video Capture - Goes On Forever!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-restore-hidden-networks-on-windows-11/"><u>Solved: How to Restore Hidden Networks on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-lenovo-mouse-pad-issues-fixes-for-windows-11-8-and-7/"><u>Solving Lenovo Mouse Pad Issues: Fixes for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-to-your-pnp-detected-critical-fatal-error-on-windows-10-pc/"><u>Ultimate Solution to Your 'PNP Detected' Critical Fatal Error on Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uninstall-and-reinstall-drivers/"><u>Uninstall and Reinstall Drivers</u></a></li>
 </ul></div>
 

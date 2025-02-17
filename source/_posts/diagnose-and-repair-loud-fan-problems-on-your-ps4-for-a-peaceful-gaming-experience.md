@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair Loud Fan Problems on Your PS4 for a Peaceful Gaming Experience
-date: 2025-01-31T14:50:18.846Z
-updated: 2025-02-07T03:56:50.930Z
+date: 2025-02-12T20:41:31.636Z
+updated: 2025-02-16T23:30:24.179Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ You may encounter an error with a code of **1603** when you are attempting to in
 
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2) Completely uninstall the same program installed
 
 If you have previously installed the same program (or its earlier version), the error can occur when you try to install the application again. If you want to install your program successfully, you need to perform a **clean uninstall** of the one installed on your computer. This means you need to remove all the temporary files and preferences it leaves in addition to the major program. Sometimes you may lose the desktop shortcut of a program due to some reasons and therefore you may forget that you have installed it. In this case you can go to**Control Panel**to check if it is still on your computer: Press**Win + R**, and enter “ _**control**_“;
@@ -43,7 +47,7 @@ Then you can check if the application is listed here. If it is, uninstall it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
@@ -52,17 +56,21 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)** Find and double click on**Windows Installer**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
@@ -78,17 +86,9 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
@@ -98,12 +98,16 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **e)** Click on**Change Permissions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **f)** On**Permissions**tab, double click on**Administrators**.
@@ -111,16 +115,12 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
 
@@ -145,22 +145,19 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-phantom-3-vs-phantom-4/"><u>[Updated] 2024 Approved Phantom 3 Vs Phantom 4</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-snapshots-and-snickers-the-art-of-memery/"><u>[Updated] In 2024, Snapshots and Snickers The Art of Memery</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-top-5-windows-11-gaming-capture-techniques/"><u>2024 Approved Top 5 Windows 11 Gaming Capture Techniques</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-guide-refreshing-your-system-with-a-new-installation-of-windows-10/"><u>Comprehensive Guide: Refreshing Your System with a New Installation of Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-facing-microsoft-exchange-unreachable-in-outlook/"><u>Effective Solutions When Facing 'Microsoft Exchange Unreachable' In Outlook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-setting-up-bots-on-your-discord-platform/"><u>Guide: Setting Up Bots on Your Discord Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-call-of-duty-wwii-error-code-4220-troubleshooting-guide/"><u>How to Resolve Call of Duty: WWII Error Code 4220 - Troubleshooting Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-seamless-ages-shifting-scenes/"><u>In 2024, Achieving Seamless Ages Shifting Scenes</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-8-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 8 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95856047-9781620555903-john-dee-and-the-empire-of-angels/"><u>John Dee and the Empire of Angels | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-sudden-shutdown-understanding-error-code-1067-in-windows/"><u>Resolved: Fixing the Sudden Shutdown - Understanding Error Code 1067 in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-inside-how-to-repair-your-unresponsive-dell-wireless-keyboard/"><u>Solutions Inside: How to Repair Your Unresponsive Dell Wireless Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-unresponsive-ps4-mic-a-gamers-guide/"><u>Step-by-Step Fix for Unresponsive PS4 Mic: A Gamer's Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-trickery-head-on-proven-tips-for-removing-misleading-google-chrome-error-notifications/"><u>Tackling Trickery Head-On: Proven Tips for Removing Misleading Google Chrome Error Notifications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-solutions-for-opengl-errors/"><u>Troubleshooting Minecraft: Solutions for OpenGL Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-continuous-reboot-issue-in-windows-10/"><u>Ultimate Guide: Solving the Continuous Reboot Issue in Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-leading-10-best-list-for-free-video-conferencing-and-desktop-sharing/"><u>[New] In 2024, Leading 10-Best List for FREE Video Conferencing & Desktop Sharing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-8-endorsed-methods-for-video-marketing-success-for-2024/"><u>[New] Top 8 Endorsed Methods for Video Marketing Success for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-expert-tips-for-developing-high-quality-fb-videos/"><u>[Updated] 2024 Approved Expert Tips for Developing High-Quality FB Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-arcade-avenue-a-million-paths-in-play/"><u>[Updated] Arcade Avenue A Million Paths in Play</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-spectrum-of-light-with-windows-hdr-video-capabilities/"><u>2024 Approved Explore the Spectrum of Light with Windows' HDR Video Capabilities</u></a></li>
+<li><a href="https://blog-min.techidaily.com/all-time-cinematic-classics-discover-the-essential-top-1/"><u>All-Time Cinematic Classics: Discover the Essential Top 1</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-24-decoded-addressing-the-missing-device-warning-in-windows-versions/"><u>Error Code 24 Decoded: Addressing the Missing Device Warning in Windows Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-repair-a-corrupted-windows-store-cache/"><u>Resolved: How to Repair a Corrupted Windows Store Cache</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-addressing-insufficient-resource-allocation-warnings/"><u>Troubleshooting Guide: Addressing Insufficient Resource Allocation Warnings</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-guide-to-fixing-the-critical-error-109-in-microsoft-office/"><u>Ultimate Guide to Fixing the Critical Error 109 in Microsoft Office</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-preventing-unexpected-restarts-on-your-windows-10-machine/"><u>Understanding & Preventing Unexpected Restarts on Your Windows 10 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-how-to-regain-access-to-missing-bluetooth-icon-on-windows-11-os/"><u>Unveiling How to Regain Access to Missing Bluetooth Icon on Windows 11 OS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-low-cost-video-editing-alternatives/"><u>Updated In 2024, Low-Cost Video Editing Alternatives</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-play-8t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor Play 8T Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

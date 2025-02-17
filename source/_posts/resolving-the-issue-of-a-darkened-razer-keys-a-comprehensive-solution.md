@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of a Darkened Razer Keys - A Comprehensive Solution
-date: 2024-08-19T07:50:44.018Z
-updated: 2024-08-20T07:50:44.018Z
+date: 2025-02-10T16:36:46.134Z
+updated: 2025-02-16T22:02:30.643Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 
  If you get a **missing file privileges**  error while waiting for your game to install/update on **Steam** , you’re not alone. M any users have had this headache too. Luckily they have successfully tackled the problem with the following steps, so check them out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 fixes for Steam **missing file privileges**
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** . You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 4. **[Verify the integrity of game cache](#F4)**
 5. **[Give administrator privileges to Steam](#F5)**
 6. **[Want us to fix the problem for you?](#F6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: End  igfxEm Module in Task Manager
 
@@ -52,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44283e9e804.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Downloads** , then change**download region** in the drop-down list and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44299d19c87.jpg)
@@ -77,19 +82,17 @@ thumbnail: https://thmb.techidaily.com/1f9efb9a5a1a414295a14ea1d46a07970958d7efb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442db2f1da4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right-click inside the Window and click **Repair Library Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442edecc5d9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5)Re-try the install/update and hopefully this time it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Verify the integrity of game cache**
 
@@ -111,9 +114,6 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Give administrator privileges to Steam
 
  Sometimes **Steam missing file privileges**  happens because you don’t have full permissions to run Steam. So to**give Steam administrator privileges** :
@@ -121,15 +121,15 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)  and **R** at the same time. Then copy & paste **%ProgramFiles(x86)%** into the box and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/programfile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Right-click on**Steam** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/steam2.jpg)
 
@@ -138,20 +138,21 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44509268b60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Make sure**the first two rows** are granted**Full control** . If not, click edit to change accordingly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4453eca629e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Run Steam as administrator and check if the mid-download/update problem gets fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 6: Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10e3465cf33.jpg)
@@ -171,8 +172,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +179,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-harness-free-methods-to-download-vimeo-videos-with-ease/"><u>[New] Harness Free Methods to Download Vimeo Videos with Ease</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-efficiency-the-top-5-video-shortener-tools-for-2024/"><u>[Updated] Unlocking Efficiency The Top 5 Video Shortener Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-premium-portable-switch-game-clones/"><u>2024 Approved Premium Portable Switch Game Clones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-subtle-sound-reduction-tactics-with-garageband/"><u>2024 Approved Subtle Sound Reduction Tactics with Garageband</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-and-correcting-the-vibrant-red-screens-of-windows-11-computers/"><u>Addressing and Correcting the Vibrant Red Screens of Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-and-completing-failing-updates-on-windows/"><u>Expert Tips for Restoring and Completing Failing Updates on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-frozen-google-chrome-browser-tips-and-solutions/"><u>Fixing a Frozen Google Chrome Browser - Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-network-setup-errors-for-an-optimal-dragon-ball-fighterz-gaming-experience/"><u>Fixing Network Setup Errors for an Optimal Dragon Ball FighterZ Gaming Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo Reno 11 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-13-mini-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 13 mini to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/optimizing-your-crypto-mining-process-with-yl-software-strategies/"><u>Optimizing Your Crypto-Mining Process with YL Software Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-renderer-startup-challenge-the-latest-fixes-from-2021/"><u>Overcoming the Renderer Startup Challenge: The Latest Fixes From 2021</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-missing-fixservice-registry-entry-issue-in-windows-10/"><u>Resolving 'Missing' FixService Registry Entry Issue in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-the-pc-reset-failure-on-windows-10/"><u>Step-by-Step Guide: Overcoming the PC Reset Failure on Windows 10</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-sharing-files-between-users-on-your-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Sharing Files Between Users on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-macos-manual-for-mixer-live-streaming-for-2024/"><u>The Ultimate MacOS Manual for Mixer Live Streaming for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-keyboard-latency-issues-now-fixed/"><u>Windows 11 Keyboard Latency Issues - Now Fixed</u></a></li>
+</ul></div>
 

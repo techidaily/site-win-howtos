@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Making Windows Hello Work with Your Unsupported Windows 10 Device"
-date: 2025-02-01T22:20:06.298Z
-updated: 2025-02-07T10:52:04.544Z
+date: 2025-02-12T23:20:15.837Z
+updated: 2025-02-16T18:28:34.462Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 3 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -57,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
@@ -70,19 +66,19 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
@@ -108,11 +104,15 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -138,22 +138,16 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-excellent-free-thumbnails-collection-pubg-edition/"><u>[New] Excellent Free Thumbnails Collection PUBG Edition</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-convenient-techniques-for-saving-youtube-videos/"><u>[New] In 2024, Convenient Techniques for Saving YouTube Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-performance-boost-eliminate-slow-loading-times/"><u>Assassin's Creed Valhalla Performance Boost: Eliminate Slow Loading Times</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dell-keyboard-woes-solve-power-connectivity-and-response-problems-effectively/"><u>Dell Keyboard Woes? Solve Power, Connectivity, and Response Problems Effectively</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevating-package-revelation-innovative-ways-for-first-encounters/"><u>Elevating Package Revelation Innovative Ways for First Encounters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-ethernet-malfunctions-in-windows-10windows-7-systems/"><u>Expert Tips for Correcting Ethernet Malfunctions in Windows 10/Windows 7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/exploring-sfc-and-dism-tools-for-effective-windows-11-system-restoration/"><u>Exploring SFC & DISM Tools for Effective Windows 11 System Restoration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-complete-the-windows-configuration-wizard-stuck-screen/"><u>How to Successfully Complete the 'Windows Configuration Wizard' Stuck Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-12-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 12 Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-ais-pioneering-role-in-generating-podcast-names/"><u>In 2024, AI's Pioneering Role in Generating Podcast Names</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetrys-excessive-disk-use-in-windows-11/"><u>Resolving Microsoft Compatibility Telemetry's Excessive Disk Use in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-ce-34878-0-issue-on-your-playstation-4-step-by-step-fix-guide/"><u>Resolving the CE-34878-0 Issue on Your PlayStation 4: Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/step-by-step-guide-installing-the-delta-quadrant-plugin-for-kodi-lea-and-krpton/"><u>Step-by-Step Guide: Installing the Delta Quadrant Plugin for Kodi (Lea and Krpton)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-tips-for-lenovo-laptop-fn-key-defects-get-back-to-productivity/"><u>Step-by-Step Repair Tips for Lenovo Laptop FN Key Defects - Get Back to Productivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-pubgs-non-loading-structures-issue/"><u>Troubleshooting Tips: Resolving PUBG's Non-Loading Structures Issue</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/understanding-the-impact-of-circular-videography/"><u>Understanding the Impact of Circular Videography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-local-security-authority-protection-is-off/"><u>[Fixed] Local Security Authority Protection Is Off</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-how-to-distort-text-in-photographyvideo/"><u>[New] 2024 Approved How to Distort Text in Photography/Video</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bing-chat-vs-chatgpt-for-freelancers-understanding-the-key-differences-and-what-matters-most/"><u>Bing Chat vs ChatGPT for Freelancers: Understanding the Key Differences and What Matters Most</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-windows-image-at-last/"><u>Clear Windows Image at Last</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-resource-protection-error-step-by-step-guide/"><u>Fixing 'Windows Resource Protection Error' – Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/inexpensive-sky-explorers-the-least-expensive-drones-for-2024/"><u>Inexpensive Sky Explorers The Least Expensive Drones for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-mark-crafting-unique-podcast-graphics-for-2024/"><u>Mastering the Mark Crafting Unique Podcast Graphics for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-10s-audio-rendering-challenges-in-youtube-a-fix-guide/"><u>Overcome Windows 10'S Audio Rendering Challenges in YouTube - A Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/remote-server-connectivity-problems-heres-how-to-restore-access/"><u>Remote Server Connectivity Problems? Here's How to Restore Access!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-server-connections-heres-your-step-by-step-repair-manual/"><u>Trouble with Server Connections? Here's Your Step-by-Step Repair Manual!</u></a></li>
 </ul></div>
 

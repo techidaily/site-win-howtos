@@ -1,7 +1,7 @@
 ---
 title: "Disrupted Service: Blizzard Offline"
-date: 2025-02-06T08:59:40.357Z
-updated: 2025-02-07T07:09:42.722Z
+date: 2025-02-09T20:44:26.798Z
+updated: 2025-02-17T00:11:04.702Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
 2. Click the **Steam** button in the upper left corner. Then click **Settings** . ![](https://images.drivereasy.com/wp-content/uploads/2019/07/un1.jpg)
 3. In the Download tab, in the Download Region section change the region in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/un2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart Steam and you’re all set.
 
 ### Method 2: Change your proxy settings
@@ -54,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/inetcpl.jpg)
 3. Choose the**Connections** tab and click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/lan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Uncheck “**Automatically detect settings** “. Click**OK** to finish setting.![](https://images.drivereasy.com/wp-content/uploads/2019/07/lan1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Relaunch Steam and check your download speed.
 
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
  Due to the various brands in the market, you can go to your Wifi router’s official website to find a way to turn off this setting. You can also contact the manufacturer for help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Run steam://flushconfig
@@ -81,15 +85,15 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
 2. Type “steam://flushconfig” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam.jpg)
 3. Click**OK** in the jump-out window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/cmd.jpg)
 4. Run Steam and login. Download your game again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Run Steam as administrator
@@ -100,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
 2. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/steam-1.jpg)
@@ -113,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
  If this method resolves the problem, you can install another antivirus software to protect your computer. But if you are fond of the old one, contact the vendor of your antivirus software and ask them for advice.
 
 **IMPORTANT** : Be extra careful in using the Internet after uninstalling/disabling your antivirus software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip: Update your drivers
 
@@ -143,16 +151,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -178,24 +178,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rom-no-cash-to-youtube-wealth-unlocking-earnings-at-the-500-subs-level-for-2024/"><u>[New] From No Cash to YouTube Wealth Unlocking Earnings at the 500 Subs Level for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-10-stuck-on-welcome-screen-quickly-and-easily/"><u>[Solved] | Windows 10 Stuck on Welcome Screen | Quickly & Easily</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-master-the-art-of-file-conversion-selecting-best-free-tools-for-instagram-videos-windowsosx/"><u>[Updated] 2024 Approved Master the Art of File Conversion Selecting Best Free Tools for Instagram Videos [Windows/OSX]</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-navigating-video-dimensions-on-instagram-today-and-tomorrow/"><u>[Updated] 2024 Approved Navigating Video Dimensions on Instagram Today & Tomorrow</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-integrate-youtube-content-into-google-slides-effectively/"><u>2024 Approved Integrate YouTube Content Into Google Slides Effectively</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-instagram-tips-for-stunning-video-content/"><u>2024 Approved Mastering Instagram Tips for Stunning Video Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-issues-on-your-hp-laptop-simple-solutions/"><u>Fixing Sticky Keyboard Issues on Your HP Laptop - Simple Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/game-savior-erased-monster-hunt-crashing-issue/"><u>Game Savior: Erased Monster Hunt Crashing Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-overcoming-the-persistent-error-code-0x80072f8f-in-windows-11-and-10/"><u>Guide: Overcoming the Persistent Error Code 0X80072F8F in Windows 11 and 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-11-pro-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 11 Pro Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-problem-of-non-starting-hosted-networks-on-windows-10-devices/"><u>How to Overcome the Problem of Non-Starting Hosted Networks on Windows 10 Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6s-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6s From Your Apple ID</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-windows-10s-troublesome-0xc1900208-update-issue/"><u>Mastering the Fix for Windows 10'S Troublesome 0XC1900208 Update Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-cannot-reach-windows-installer-service-problem-efficiently/"><u>Resolving the 'Cannot Reach Windows Installer Service' Problem Efficiently</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-integration-of-intelnvidia-gpu-in-win11-resolved/"><u>Seamless Integration of Intel/Nvidia GPU in Win11 Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-correcting-livekernelevent-error-code-117/"><u>Step-by-Step Solution: Correcting LiveKernelEvent Error Code 117</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tips-and-strategies-eliminating-error-6-issues-in-call-of-duty-modern-warfare-pc/"><u>Tips & Strategies: Eliminating Error 6 Issues in Call of Duty Modern Warfare (PC)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successful-update-of-windows-11-without-hitches/"><u>Troubleshooting Guide: Successful Update of Windows 11 Without Hitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-cant-i-scroll-on-my-touchpad-master-the-fixes-for-smooth-operation/"><u>Why Can't I Scroll on My Touchpad? Master the Fixes for Smooth Operation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-power-of-batched-video-extraction-from-tiktok/"><u>[New] Unlocking the Power of Batched Video Extraction From TikTok</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-making-shapes-pop-with-photoshop-tips-for-2024/"><u>[Updated] Making Shapes Pop with Photoshop Tips for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-glimpse-into-aether-insights-on-its-essence-and-strategies-for-entry/"><u>A Glimpse Into Aether: Insights on Its Essence & Strategies for Entry</u></a></li>
+<li><a href="https://fox-access.techidaily.com/complete-critique-gopro-hero4-silver-sensor/"><u>Complete Critique GoPro HERO4 Silver Sensor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-the-error-when-com-surrogate-workflow-interrupted/"><u>Comprehensive Guide to Fixing the Error When 'COM Surrogate Workflow Interrupted'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-unsupported-operating-system-alerts-setup-continuity-tips/"><u>Dealing with 'Unsupported Operating System' Alerts - Setup Continuity Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-system-driver-power-malfunctions/"><u>Diagnosing & Solving Windows System Driver Power Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-update-service-failure-step-by-step-instructions/"><u>Fixing the 'Windows Update Service Failure': Step-by-Step Instructions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/full-day-battery-endurance-for-your-macbook-expert-strategies-and-techniques-from-zdnet/"><u>Full-Day Battery Endurance for Your MacBook: Expert Strategies and Techniques From ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-1110-bad-image-display-problems-effectively/"><u>How to Resolve Windows 11/10 Bad Image Display Problems Effectively</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-innovative-cameras-for-high-stakes-athletics/"><u>In 2024, Innovative Cameras for High-Stakes Athletics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-start-to-microsoft-365-setup-a-user-friendly-guide-for-windowsmac-users/"><u>Quick Start to Microsoft 365 Setup - A User Friendly Guide for Windows/Mac Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-dells-non-responsive-fn-keys-with-easy-fixes/"><u>Solve Your Dell's Non-Responsive FN Keys with Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-eliminating-flickering-screens-in-windows-11-systems/"><u>Step-by-Step Solutions for Eliminating Flickering Screens in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/techniques-for-restoring-functionality-in-malfunctioning-function-fn-keys/"><u>Techniques for Restoring Functionality in Malfunctioning Function (Fn) Keys</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-v30-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo V30 Pro to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

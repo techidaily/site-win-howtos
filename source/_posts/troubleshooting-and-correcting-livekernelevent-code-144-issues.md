@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2025-02-04T22:38:35.696Z
-updated: 2025-02-07T01:58:44.912Z
+date: 2025-02-12T01:20:38.157Z
+updated: 2025-02-16T16:16:52.821Z
 tags:
   - win11
   - win10
@@ -61,7 +61,7 @@ To rule out this as a possibility:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
@@ -69,6 +69,10 @@ To rule out this as a possibility:
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -81,32 +85,32 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -127,10 +131,6 @@ To make sure you’ve this setting disabled:
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -156,22 +156,24 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-ultimate-guide-streaming-games-with-ease-on-rust-legacy-for-2024/"><u>[New] Ultimate Guide Streaming Games with Ease on Rust Legacy for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-viral-instagram-unboxing-vids-for-2024/"><u>[Updated] The Ultimate Guide to Viral Instagram Unboxing Vids for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-vr-capture-mastery-9-techniques-for-success/"><u>2024 Approved Immersive VR Capture Mastery 9 Techniques for Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pioneering-creativity-youtubes-playground-for-talent/"><u>2024 Approved Pioneering Creativity YouTube's Playground for Talent</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-stuck-scroll-wheel-on-laptop-touchpad-fixed/"><u>Dealing with Stuck Scroll Wheel on Laptop Touchpad [FIXED]</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-facebooks-enhanced-privacy-hub-for-safer-browsing/"><u>Decoding Facebook’s Enhanced Privacy Hub for Safer Browsing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-to-correct-the-change-rendering-api-error-2024-in-dota-2/"><u>Effortless Solutions to Correct the 'Change Rendering API' Error 2024 in Dota 2</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-restart-the-igfxem-module-in-your-computer-system/"><u>How to Repair and Restart the IgfxEM Module in Your Computer System</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-exploring-the-power-of-intova-x/"><u>In 2024, Exploring The Power of Intova X</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-audio-control-in-windows-11-a-comprehensive-guide-to-address-and-correct-volume-issues/"><u>Mastering Audio Control in Windows 11: A Comprehensive Guide to Address and Correct Volume Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-quick-windows-setup-failures-successfully/"><u>Overcome Quick Windows Setup Failures Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-when-setting-up-the-directx-11-device-expert-solutions/"><u>Overcoming Challenges When Setting Up the DirectX 11 Device - Expert Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pdm-pulse-density-modulation/"><u>PDM (Pulse Density Modulation)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resolucion-al-problema-de-acceso-a-la-carpeta-programdata-en-windows-11/"><u>Resolución Al Problema De Acceso a La Carpeta 'ProgramData' En Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolve-the-troublesome-windows-update-error-code-0x8024402c/"><u>Ultimate Guide: Resolve the Troublesome Windows Update Error Code 0X802#4402C</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-essential-insights-on-youtube-tvs-unique-features/"><u>[New] 2024 Approved Essential Insights on YouTube TV's Unique Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-high-speed-top-8-screenshots-compilation-for-2024/"><u>[New] High-Speed Top 8 Screenshots Compilation for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-spectacular-ensemble-photos-plus-music-videos/"><u>[New] In 2024, Spectacular Ensemble Photos + Music, Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-rapid-renders-of-powerpoint-plays-for-2024/"><u>[Updated] Rapid Renders of PowerPoint Plays for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eradicating-scam-alerts-solutions-for-google-chromes-fake-critical-error/"><u>Eradicating Scam Alerts: Solutions for Google Chrome's Fake Critical Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/game-on-solving-your-origin-software-errors-for-an-uninterrupted-experience/"><u>Game On! Solving Your Origin Software Errors for an Uninterrupted Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-casting-functionality-on-windows-10-a-step-by-step-solution/"><u>How to Restore Casting Functionality on Windows 10 - A Step-by-Step Solution</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>In 2024, Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/magix-video-pro-x-review-for-2024/"><u>Magix Video Pro X Review for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-overcoming-frequent-crashes-in-tales-of-arise/"><u>Mastering Stability: Overcoming Frequent Crashes in Tales of Arise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-device-not-found-error-code-24-on-windows-1087/"><u>Resolving 'Device Not Found' Error Code 24 on Windows 10/8/7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-watch3-review-a-perfect-blend-of-retro-charm-and-modern-innovations/"><u>Samsung Galaxy Watch3 Review: A Perfect Blend of Retro Charm and Modern Innovations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solving-minecrafts-troublesome-error-code-5/"><u>Step-by-Step Guide: Solving Minecraft’s Troublesome Error Code 5</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-reno-10-pro-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Reno 10 Pro 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-overcoming-slow-shutdown-woes-in-windows-11-systems/"><u>Troubleshooting and Overcoming Slow Shutdown Woes in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-issues-using-sfcdism-tools-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Issues Using SFC/DISM Tools – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-constant-usb-device-unrecognized-message/"><u>Understanding and Repairing the Constant 'USB Device Unrecognized' Message</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-svchostexe-navigating-netsvcs-and-addressing-excessive-network-consumption/"><u>Understanding svchost.exe: Navigating Netsvcs & Addressing Excessive Network Consumption</u></a></li>
 </ul></div>
 

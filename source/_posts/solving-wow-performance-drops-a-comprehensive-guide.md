@@ -1,7 +1,7 @@
 ---
 title: "Solving 'WoW' Performance Drops: A Comprehensive Guide"
-date: 2025-02-01T13:56:13.201Z
-updated: 2025-02-07T04:35:44.994Z
+date: 2025-02-11T23:28:40.930Z
+updated: 2025-02-17T01:08:26.192Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/5cbe5314b93a999758b5a00e2527a722031ccfee9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **What is PS4 NAT type?**
@@ -50,10 +50,6 @@ There are 3 types of NAT in your PS4:
 **Type 3 (Strict)** : The system is connected through a router without open ports or DMZ setup, and you may have problems related with the connection or voice chat.
 
  The NAT type failed normally because of the**network issues** , such as the**incorrect network settings** or the**network firewall problems** . Changing NAT Type can be an effective method to improve your PS4 network status. At present, you can’t manage the NAT type status directly by your PS4 settings, and you need to change the NAT type by the router settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 1: Manually configure the PS4 network settings**
 
@@ -75,14 +71,6 @@ There are 3 types of NAT in your PS4:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5489d31cef4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to manually configure PS4 network settings?**
 
  1) On a Windows PC/laptop that connects to the same network as your PS4 does, press the**Windows logo key** **\+ R**  at the same time on your keyboard.
@@ -98,7 +86,7 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b35211b0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Note down the**IP address** , the**default gateway** , the**subnet** **mask** and the**DNS server** .
@@ -111,13 +99,13 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ba2959d7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Select**Custom** , then**enter the network information** you just noted down.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Select**Do Not Use** as for**Proxy Server** .
 
@@ -128,7 +116,7 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c550a4cb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  10) You’ll see your PS4 Internet connection and know the**NAT Type** .
@@ -136,7 +124,7 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 2: Enable UPnP for your router**
@@ -150,6 +138,10 @@ ipconfig/all
  1) Go and see the**IP address** ,**Username** and**Password** on your wireless router (you will see that on the stick of your router, or find the information on the manual).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ca181e7d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Open your**browser** on PC or mobile phone, then type the**IP address** in your browser, and press**Enter** .
 
@@ -187,6 +179,10 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go to**Advanced** \>**Forwarding** , and you’ll see**DMZ** on the left. (Or you can find the DMZ section in other tab according to the different routers.)
 
  5) Click**Enable** to**enable DMZ** .
@@ -198,7 +194,7 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e65a013a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) If you are using routers that has the**NAT Filtering** option, such as NETGEAR router, you can also click to**open NAT filtering** . (You can skip to the next step if you don’t have this option.)
@@ -210,6 +206,10 @@ ipconfig/all
  10) Go to PS4**Settings** \>**Network** \>**Test Internet Connection** , and check if your**NAT Type** is on (you’ll see the Type 1 or Type 2 if it works).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This may get all the network traffic to your PS4 and reduce the network restrictions when using your PS4.
 
@@ -223,15 +223,15 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ca181e7d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Open your**browser** on PC or mobile phone, then type the**IP address** in your browser, and press**Enter** .
 
  3) Type your**Username** and**Password** , then**login** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to the**forward ports section** (or**ports forwarding** ,**Virtual Server** ,**Applications**  according to different routers).
 
@@ -267,20 +267,21 @@ ipconfig/all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-pioneering-efficient-editing-embrace-inshot-software-for-2024/"><u>[Updated] Pioneering Efficient Editing Embrace Inshot Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-activation-guide-seamless-connection-setup-on-windows-11-and-10/"><u>Bluetooth Activation Guide: Seamless Connection Setup on Windows 11 & 10</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-12-mini-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 12 mini</u></a></li>
-<li><a href="https://win-best.techidaily.com/effizientes-verwalten-von-dateisystemen-mit-automatischen-loschvorgangen-in-windows/"><u>Effizientes Verwalten Von Dateisystemen Mit Automatischen Löschvorgängen in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/exploring-windows-11-fixes-sfc-and-dism-tools-unveiled/"><u>Exploring WINDOWS 11 Fixes: SFC & DISM Tools Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210899666-green-grief-in-nba-2k21-no-more-expert-advice-on-removing-the-bug/"><u>Green Grief in NBA 2K21 No More: Expert Advice on Removing the Bug</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hidden-sd-card-reveal-and-repair-steps/"><u>Hidden SD Card? Reveal & Repair Steps!</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-scrutinizing-the-usability-of-vivavideo-app/"><u>In 2024, Scrutinizing the Usability of VivaVideo App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-or-corrupted-media-drivers-how-to-restore-them-quickly/"><u>Missing or Corrupted Media Drivers? How to Restore Them Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-overcoming-there-were-no-local-disks-found-issue-in-windows-10-restore/"><u>Successfully Overcoming 'There Were No Local Disks Found' Issue in Windows 10 Restore</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unplanned-thrill-of-snagging-apples-17-usb-c-earpods-on-prime-day-a-tech-enthusiasts-revelation-at-zdnet/"><u>The Unplanned Thrill of Snagging Apple's $17 USB-C EarPods on Prime Day – A Tech Enthusiast’s Revelation at ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-microsoft-antimalware-services-cpu-drain-on-windows-10/"><u>Troubleshooting and Fixing Microsoft Antimalware Service's CPU Drain on Windows 10</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/k-physical-and-spiritual-potential-the-best-yoga-vlogs-out-there/"><u>Unlock Physical & Spiritual Potential The Best Yoga Vlogs Out There</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-whatsapp-key-tricks-and-invisible-functions/"><u>[New] Mastering WhatsApp Key Tricks & Invisible Functions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-achieve-viewer-engagement-and-brand-growth-heres-how-to-do-it-on-youtube/"><u>[Updated] Achieve Viewer Engagement and Brand Growth – Here's How to Do It on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-digital-arcade-over-a-hundred-game-channels/"><u>[Updated] Digital Arcade Over a Hundred Game Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-social-media-giants-to-skyrocket-your-marketing-game/"><u>2024 Approved Leveraging Social Media Giants to Skyrocket Your Marketing Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-blues-with-these-8-strategies-for-correcting-windows-10-update-error-code-0x800f0922/"><u>Beat the Blues with These 8 Strategies for Correcting Windows 10 Update Error Code 0X800F0922</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-windows-error-0xc0000098-heres-how-you-can-fix-it/"><u>Dealing with Windows Error 0Xc0000098? Here's How You Can Fix It</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-design-skills-mastering-3d-text-effects/"><u>Elevate Your Design Skills Mastering 3D Text Effects</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-ultimate-collection-of-msi-sound-card-drivers-for-windows/"><u>Free Download: Ultimate Collection of MSi Sound Card Drivers for Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-facebook-video-players-list/"><u>In 2024, The Ultimate Facebook Video Players List</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-s24-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy S24 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-store-opening-troubleshooting-successful-fixes-revealed/"><u>Microsoft Store Opening Troubleshooting: Successful Fixes Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207629009-resolving-audio-glitches-speaker-issues-on-windows-operating-systems-solved/"><u>Resolving Audio Glitches: Speaker Issues on Windows Operating Systems Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-limited-memory-issues-fixing-command-cannot-be-processed-due-to-inadequate-storage/"><u>Solve Limited Memory Issues: Fixing 'Command Cannot Be Processed Due to Inadequate Storage'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correct-the-darkness-defeating-windows-11-black-screen-glitches/"><u>Step-by-Step Solutions to Correct the Darkness: Defeating Windows 11 Black Screen Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-deal-with-excessive-energy-on-a-hub-connection/"><u>Troubleshooting Guide: How to Deal with Excessive Energy on a Hub Connection</u></a></li>
 </ul></div>
 

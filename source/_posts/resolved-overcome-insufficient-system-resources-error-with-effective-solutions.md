@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome 'Insufficient System Resources' Error with Effective Solutions"
-date: 2024-08-19T07:56:45.994Z
-updated: 2024-08-20T07:56:45.994Z
+date: 2025-02-09T23:54:39.729Z
+updated: 2025-02-17T00:00:58.583Z
 tags:
   - win11
   - win10
@@ -51,9 +51,17 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1287bc28f2e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click **Change adapter settings**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1286df40874.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Right-click on **Local Area Connection**, **Ethernet** or **Wi-Fi** according to your Windows. Then click **Properties**.|  
 
@@ -63,6 +71,10 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12900623628.png)
@@ -71,9 +83,17 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12903014de5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
@@ -87,9 +107,6 @@ There may be problems with your DNS server if its cache is getting full. To see 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1298fb8c2d7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 **Note:** Click **Yes** when prompted by the User Account Control.
 
 2) On the open black window, type the following commands and press **Enter** after each.
@@ -108,9 +125,6 @@ Then restart your computer and try to access the website you want to visit again
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3: Update your network adapter driver
 
 Your DNS server won’t respond if the network adapter driver is outdated. You can update your network adapter driver manually or, if you’re not confident playing around with drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**.
@@ -125,31 +139,21 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)  
 **Note**: You can do it for free if you like, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating your network adapter driver, please restart your computer. Try to access the website you want to go to again and see if it succeeds.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Restart your modem and router
 
 If your modem or router doesn’t work properly, the DNS server could stop responding, either. You can restart your modem and router if you have one to solve the problem.
@@ -158,10 +162,6 @@ If your modem or router doesn’t work properly, the DNS server could stop respo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 2) Try to access the website you want to go to again and see if it succeeds.
 
 ---
@@ -186,8 +186,6 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +193,20 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-capturing-moments-dslr-setup-for-online-streaming-pcmac/"><u>[Updated] In 2024, Capturing Moments DSLR Setup for Online Streaming (PC/Mac)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pixel-perfect-viewing-comparing-worlds-top-8k-televisions/"><u>2024 Approved Pixel-Perfect Viewing Comparing World's Top 8K Televisions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-fix-a-blocked-or-unsecure-connection-issue-in-firefox/"><u>Easy Steps to Fix a Blocked or Unsecure Connection Issue in Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-restoring-compromised-system-data-on-latest-windows-versions/"><u>Effective Techniques for Restoring Compromised System Data on Latest Windows Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshoot-and-solve-disappearing-cursor-glitches-in-windows-11/"><u>Guide to Troubleshoot and Solve Disappearing Cursor Glitches in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidelines-to-adjust-admin-managed-chromium-and-microsoft-edge-in-windows/"><u>Guidelines to Adjust Admin-Managed Chromium & Microsoft Edge in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unlock-the-power-of-your-youtube-brand-for-growth-in-subs/"><u>In 2024, Unlock the Power of Your YouTube Brand for Growth in Subs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/problem-solved-on-screen-typing-options-and-touch-support-reinstated-to-device/"><u>Problem Solved: On-Screen Typing Options and Touch Support Reinstated to Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-texting-on-iphone-discover-7-essential-troubleshooting-steps/"><u>Revive Your Texting on iPhone: Discover 7 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-non-responsive-printers/"><u>Reviving Non-Responsive Printers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapseed-basics-your-first-steps-in-enhancing-images/"><u>Snapseed Basics Your First Steps in Enhancing Images</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-free-mp4-video-editor-roundup-top-10-options-for-2024/"><u>Updated Free MP4 Video Editor Roundup Top 10 Options for 2024</u></a></li>
+</ul></div>
 

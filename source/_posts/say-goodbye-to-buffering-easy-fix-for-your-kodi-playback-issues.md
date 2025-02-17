@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Buffering: Easy Fix for Your Kodi Playback Issues"
-date: 2024-08-19T07:53:34.275Z
-updated: 2024-08-20T07:53:34.275Z
+date: 2025-02-11T00:43:16.711Z
+updated: 2025-02-16T16:31:55.784Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
 
  You can’t type anything with your keyboard? That’s really bothersome and frustrating. But don’t worry, you certainly aren’t the only one. We’ve seen many Windows users reporting this**Keyboard won’t type** issue. But the good news is, you can fix it. We’ve put together 6 solutions you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for my keyboard won’t type
 
 1. **[Restart your computer](https://versadesk.pxf.io/xyboxx)**
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Restart your computer
 
  Your keyboard won’t type issue could happen just because your keyboard or the system that your computer is running gets stuck somehow. Once your keyboard is not working, you can restart your computer first. A simple restart can always solve computer woes.
@@ -43,6 +51,10 @@ See how to do it:
  If your computer is running**Windows 11/10** , use your mouse to click the**Start** button, then click the**power icon** and select**Restart.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766057d7181.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your computer is running**Windows 7** , use your mouse to click the**Start** button, then click the**more options icon** to select**Restart** .
 
@@ -63,9 +75,6 @@ If your computer is running Windows 10:
 2. Click**Ease of Access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
 3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
 
 If your computer is running Windows 11:
@@ -74,14 +83,17 @@ If your computer is running Windows 11:
 2. From the left navigation panel, select **Accessibility** , then click **Keyboard**  from the right.  
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Sticky keys, Filter keys, and Toggle keys.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If your computer is running Windows 7:
 
 1. On the taskbar of your desktop, click the **Start button** , then select**Control Panel** .  
@@ -89,9 +101,6 @@ If your computer is running Windows 7:
 2. Click **Ease of Access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766794641a7.jpg)
 3. Click **Change how your keyboard works** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
 
@@ -111,9 +120,6 @@ See how to do it:
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Keyboards** , then right-click on your keyboard driver software to select**Uninstall device** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7669dd744ff.jpg)
 4. Once you do, restart your computer. Windows should then reinstall the driver for your keyboard automatically.
 
@@ -121,9 +127,6 @@ See how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Method 4: Update your keyboard driver
 
  If unfortunately reinstalling your keyboard driver didn’t fix your keyboard problem, you’d better update your keyboard driver to ensure you have the correct latest one on your computer.
@@ -138,15 +141,13 @@ See how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766c7750279.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766e1dcd420.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ### Method 5: Try this fix if you’re using a USB keyboard
@@ -154,6 +155,10 @@ See how to do it:
  If unfortunately, all the fixes above fail to help you and you’re using a USB keyboard, You can try to connect the keyboard with**another USB port** to check if it works as an old, shabby USB port could cause your Keyboard not to work.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Try this fix if you’re using a wireless keyboard
 
@@ -183,8 +188,6 @@ Try to type some words using your keyboard to see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +195,22 @@ Try to type some words using your keyboard to see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/iscover-times-tales-top-10-historical-channels-to-study-with-for-2024/"><u>[New] Discover Time's Tales Top 10 Historical Channels to Study With for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-youtubes-revenue-tools-for-mobile-creators/"><u>[New] Navigating YouTube's Revenue Tools for Mobile Creators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-phasecope-pro-top-lightroom-replacements-unveiled-for-2024/"><u>[New] PhaseCope Pro Top Lightroom Replacements Unveiled for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ejemplo-sencillo-como-restaurar-el-sistema-de-tu-asus-usando-la-clave-de-recuperacion-en-caso-de-fallo/"><u>Ejemplo Sencillo: Cómo Restaurar El Sistema De Tu ASUS Usando La Clave De Recuperación en Caso De Fallo</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-gameplay-upgrade-to-the-nvidia-gtx-970-pro-graphics-card/"><u>Enhance Your Gameplay: Upgrade to the Nvidia GTX 970 Pro Graphics Card</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/five-proven-fixes-to-restore-touch-functionality-on-windows-11-devices/"><u>Five Proven Fixes to Restore Touch Functionality on Windows 11 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guidelines-to-maintain-discretion-in-ai-interactions/"><u>Guidelines to Maintain Discretion in AI Interactions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-dual-view-video-recording-top-apps-for-iphone-and-android/"><u>New Dual-View Video Recording Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207368348-nier-automata-pc-game-keep-crashing-try-these-fixes-now/"><u>Nier: Automata PC Game Keep Crashing? Try These Fixes Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-0x80070490-fault-during-windows-updates-a-comprehensive-guide/"><u>Solving the 0X80070490 Fault During Windows Updates: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-process-for-amd-driver-downloads-and-patches/"><u>Streamlined Process for AMD Driver Downloads & Patches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-touchscreen-issues-in-windows-11-a-step-by-step-guide/"><u>Troubleshooting and Resolving Touchscreen Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-windows-10-wont-let-you-cast-devices/"><u>Troubleshooting Steps: When Your Windows 10 Won’t Let You Cast Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-notorious-ce-34878-0-problem-with-your-ps4-device/"><u>Troubleshooting the Notorious CE-34878-0 Problem with Your PS4 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-(-)-when-your-touchpad-scroll-doesnt-work/"><u>Troubleshooting Windows < | >: When Your Touchpad Scroll Doesn't Work</u></a></li>
+</ul></div>
 

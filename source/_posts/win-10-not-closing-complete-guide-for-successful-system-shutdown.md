@@ -1,7 +1,7 @@
 ---
 title: Win 10 Not Closing? Complete Guide for Successful System Shutdown
-date: 2024-08-19T07:57:32.223Z
-updated: 2024-08-20T07:57:32.223Z
+date: 2025-02-15T00:31:09.465Z
+updated: 2025-02-16T19:44:49.061Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
@@ -51,8 +55,9 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -60,22 +65,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -86,16 +86,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -103,6 +102,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -113,6 +116,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -127,8 +135,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +142,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-budget-friendly-vfx-resources-your-go-to-guide-for-cost-effective-edits/"><u>[New] 2024 Approved Top Budget-Friendly VFX Resources - Your Go-To Guide for Cost-Effective Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-dynamic-image-backdrops-for-video-editing/"><u>[Updated] Top 10 Dynamic Image Backdrops for Video Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/iso2024/"><u>最新ISO変更ツールが選ばれる！2024新バージョンフリーソフトのベストテック</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/arranging-your-own-james-bond-film-series-journey-for-maximum-thrills/"><u>Arranging Your Own James Bond Film Series Journey for Maximum Thrills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defrosting-digital-dilemmas-expert-tips-on-resolving-freezes-in-computers/"><u>Defrosting Digital Dilemmas: Expert Tips on Resolving Freezes in Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-easy-anti-cheat-problems-in-apex-legends-fixed/"><u>Guide to Fixing Easy Anti-Cheat Problems in Apex Legends (FIXED)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-techniques-for-rectifying-your-xbox-gamepad-malfunctions-full-manual/"><u>In-Depth Techniques for Rectifying Your Xbox Gamepad Malfunctions (Full Manual)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/key-videoaudio-component-driver-installation-completed-for-optimal-performance/"><u>Key Video/Audio Component Driver Installation Completed for Optimal Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-resolution-of-error-0x800700e1-in-windows-11-systems/"><u>Mastering the Resolution of Error 0X800700E1 in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/power-spike-resolution-fixing-your-devices-hub-port-issues/"><u>Power Spike Resolution: Fixing Your Device's Hub Port Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-meizu-21-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Meizu 21 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-nier-automata-crashing-on-windows-systems/"><u>Solving the Problem of Nier: Automata Crashing on Windows Systems</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/top-music-video-clips-hottest-tracks-at-the-video-pool-dive-into-the-latest-dj-mixes/"><u>Top Music Video Clips - Hottest Tracks at The Video Pool: Dive Into the Latest DJ Mixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-old-tv-to-high-definition-wonderland-for-just-50-with-our-top-pick-of-4k-sticks-insights-from-zdnet/"><u>Transform Old TV to High-Definition Wonderland for Just $50 with Our Top Pick of 4K Sticks | Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-the-devices-not-recognized-issue-on-windows-7/"><u>Troubleshooting: How to Fix the 'Devices Not Recognized' Issue on Windows 7</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/worldwides-finest-karaoke-experience-awaits-unlock-50-hits-for-your-sing-along-pleasure-with-our-premier-subscription-service-on-march-3rd-2together/"><u>Worldwide's Finest Karaoke Experience Awaits - Unlock 50 Hits for Your Sing-Along Pleasure with Our Premier Subscription Service on March 3Rd, 2Together</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows 11 Black Screen Issue
-date: 2025-01-11T17:43:45.356Z
-updated: 2025-01-13T17:27:59.698Z
+date: 2025-02-11T18:58:58.397Z
+updated: 2025-02-16T20:52:19.148Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes for Keyboard Lag
 
  All the fixes below work in**Windows 10** . You may not have to try all of them; just work your way down the list until the**keyboard lag** issue has been resolved.
@@ -34,6 +30,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. **[Run Hardware and Devices troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -46,6 +46,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -54,15 +58,23 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -79,17 +91,9 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -107,10 +111,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -140,21 +140,24 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-boosting-webcam-quality-with-ease-and-precision-for-2024/"><u>[New] Boosting WebCam Quality with Ease and Precision for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-auditory-anchors-exploring-the-art-of-sound-blending-for-2024/"><u>[Updated] Auditory Anchors Exploring the Art of Sound Blending for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-pathway-to-professional-fb-reel-development/"><u>2024 Approved The Pathway to Professional FB Reel Development</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-igtv-translation-guide-for-2024/"><u>A Step-By-Step IGTV Translation Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-not-responding-a-comprehensive-fix-and-support-guide/"><u>Corsair Keyboard Not Responding? A Comprehensive Fix and Support Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/culinary-catastrophe-or-masterpiece-exploring-overcooked-2/"><u>Culinary Catastrophe or Masterpiece? Exploring Overcooked! 2</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/discovering-the-best-practices-for-a-bigger-roi-with-fb-videos/"><u>Discovering the Best Practices for a Bigger ROI with FB Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202570118-fixing-windows-11-slideshow-and-customized-screen-saver-problems-expert-solutions/"><u>Fixing Windows 11 Slideshow & Customized Screen Saver Problems - Expert Solutions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210833315-9780648697435-flirtation-with-destiny/"><u>Flirtation with Destiny | Free Book</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-wow-obstacle-no-519/"><u>Overcoming WoW Obstacle: No. 519</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-windows-11-input-lag-a-guide-to-quick-typing-again/"><u>Tackling Windows 11 Input Lag: A Guide to Quick Typing Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-netflix-connection-solutions-for-detected-vpns-and-proxies/"><u>Troubleshoot Your Netflix Connection: Solutions for Detected VPNs and Proxies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-aoc-monitor-compatibility-issues-with-windows-11/"><u>Troubleshooting Steps: Resolving 'AOC Monitor' Compatibility Issues with Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-logitech-g-pro-x-microphone-expert-tips-to-get-you-back-online/"><u>Troubleshooting the Logitech G Pro X Microphone - Expert Tips to Get You Back Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unseen-sd-card-illuminate-the-issue/"><u>Unseen SD Card? Illuminate the Issue!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-troubleshooting-guide-correcting-the-entry-point-not-found-mistake/"><u>Windows Troubleshooting Guide: Correcting the 'Entry Point Not Found' Mistake</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/everaging-youtubes-algorithm-maximizing-reach-through-featured-channels-for-2024/"><u>[New] Leveraging YouTube's Algorithm Maximizing Reach Through Featured Channels for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-iphones-full-potential-4-pro-tips-for-brightening-hdr-in-premiere/"><u>[New] Unlock iPhone's Full Potential 4 Pro Tips for Brightening HDR in Premiere</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-your-storytelling-with-these-8-androidiphone-apps/"><u>2024 Approved Elevate Your Storytelling with These 8 Android/iPhone Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-adobes-recommended-lut-list-for-creative-professionals/"><u>2024 Approved Pushing Boundaries Adobe's Recommended LUT List for Creative Professionals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-your-dota-2-game-bug-change-rendering-api-error-solved-swiftly/"><u>Diagnose & Repair Your Dota 2 Game Bug: Change Rendering API Error Solved Swiftly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-ways-to-prevent-your-pc-from-snoozing-unexpectedly/"><u>Effortless Ways to Prevent Your PC From Snoozing Unexpectedly.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-failed-attempts-at-updating-to-the-windows-version-1903/"><u>Fixes for Failed Attempts at Updating to the Windows Version 1903</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-freezing-windows-11-system-essential-troubleshooting-steps/"><u>How to Fix a Freezing Windows 11 System: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-fix-no-sound-on-your-macbook-or-imac/"><u>How To Troubleshoot and Fix 'No Sound' On Your MacBook or iMac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-motivational-cinema-the-ultimate-guide-to-empowerment-films/"><u>In 2024, Motivational Cinema The Ultimate Guide to Empowerment Films</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208582886-mastering-nier-automata-on-your-computer-overcome-stutter-and-lag-problems-today/"><u>Mastering Nier: Automata on Your Computer - Overcome Stutter and Lag Problems Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newest-dolby-sound-enhancement-drivers-free-downloads-and-updates-for-windows-11-10-and-81/"><u>Newest Dolby Sound Enhancement Drivers: Free Downloads & Updates for Windows 11, 10 & 8.1</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-windows-11-for-better-gaming-results/"><u>Optimize Windows 11 for Better Gaming Results</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208942109-resistance-to-targeted-agents-can-develop-necessitating-ongoing-research-and-new-drug-development/"><u>Resistance to Targeted Agents Can Develop, Necessitating Ongoing Research and New Drug Development.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-pc-restart-errors-a-guide-to-correcting-driver-power-state-issues-in-windows/"><u>Resolving PC Restart Errors: A Guide to Correcting Driver Power State Issues in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-to-fix-kernel32dll-error-in-windows-systems/"><u>Step-by-Step Solutions to Fix Kernel32.dll Error in Windows Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ozy-cinematic-approach-to-cold-season-videography-for-2024/"><u>The Cozy Cinematic Approach to Cold Season Videography for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-overcoming-casting-problems-on-windows-11-fixed/"><u>Ultimate Guide: Overcoming Casting Problems on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-stuck-file-explorer-on-your-windows-10-pc-a-fixers-companion/"><u>Winning the Battle Against Stuck File Explorer on Your Windows 10 PC - A Fixer’s Companion</u></a></li>
 </ul></div>
 

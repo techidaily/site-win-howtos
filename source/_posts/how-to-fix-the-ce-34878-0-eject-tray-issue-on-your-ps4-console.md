@@ -1,7 +1,7 @@
 ---
 title: How to Fix the CE-34878-0 Eject Tray Issue on Your PS4 Console
-date: 2025-01-18T18:17:17.672Z
-updated: 2025-01-25T17:35:58.744Z
+date: 2025-02-15T00:08:44.224Z
+updated: 2025-02-16T17:11:08.191Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
  There are common fixes and more complicated ones. You don’t need to try them all but it’s recommended to try the common fixes first. If these can’t help, try other fixes one by one to find the one that works for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Common fixes
@@ -43,14 +43,10 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/bios-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If none of these work, you can move to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Redownload the firmware files
 
@@ -64,7 +60,7 @@ If none of these work, you can move to the next method.
 6. Install firmware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Disable other related devices
@@ -84,12 +80,12 @@ If none of these work, you can move to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall.jpg)
 7. Uninstall Corsair Utility Engine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Connect your keyboard back to PC.
 9. Run iCUE and the keyboard should appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update your drivers
 
@@ -120,6 +116,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 ---
@@ -143,17 +143,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-basic-techniques-for-effective-color-grading-in-ps/"><u>2024 Approved Basic Techniques for Effective Color Grading in PS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-the-art-of-live-image-capturing-on-screens/"><u>2024 Approved Mastering the Art of Live Image Capturing on Screens</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-unmatched-brightness-with-romers-rechargeable-beam-torch-comprehensive-review/"><u>Experience Unmatched Brightness with Romer's Rechargeable Beam Torch - Comprehensive Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unstable-display-resolving-screen-flickering-on-windows-11/"><u>How to Fix Unstable Display: Resolving Screen Flickering on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-we-solved-the-system-event-notifier-service-connection-error-in-windows/"><u>How We Solved the System Event Notifier Service Connection Error in Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-razr-40-ultra-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Razr 40 Ultra Phone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-mastering-audio-format-switches-srt-to-ssa-and-more/"><u>In 2024, Mastering Audio Format Switches SRT to SSA & More</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-s24plus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy S24+ Device</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/simple-guide-to-saving-vevo-music-videos-in-mp3-format-without-hassle/"><u>Simple Guide to Saving Vevo Music Videos in MP3 Format Without Hassle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-lagging-keyboard-inputs-on-windows-10-systems/"><u>Step-by-Step Solution for Lagging Keyboard Inputs on Windows 10 Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transformacion-gratuita-de-archivos-avi-a-wmv-en-linea-con-herramientas-de-conversion-de-video-sin-descargar/"><u>Transformación Gratuita De Archivos AVI a WMV en Línea Con Herramientas De Conversión De Video Sin Descargar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-thawing-out-your-unresponsive-pc/"><u>Ultimate Guide: Thawing Out Your Unresponsive PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-comprehensive-strategies-for-tracking-yt-traffic-and-gains/"><u>[New] Comprehensive Strategies for Tracking YT Traffic and Gains</u></a></li>
+<li><a href="https://article-tips.techidaily.com/amplify-your-videos-the-best-text-effects-guide/"><u>Amplify Your Videos The Best Text Effects Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cut-down-windows-11-cpu-overuse-with-wmi-fixes/"><u>Cut Down Windows 11 CPU Overuse with WMI Fixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/direct-to-twitter-video-conversion-a-comprehensible-list/"><u>Direct-to-Twitter Video Conversion A Comprehensible List</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elevating-your-craft-top-camera-optics-for-professional-videos-for-2024/"><u>Elevating Your Craft Top Camera Optics for Professional Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expand-your-workspace-set-up-two-displays-on-your-m3-macbook-pro-as-effortlessly-as-you-do-on-the-macbook-air-insights/"><u>Expand Your Workspace: Set Up Two Displays on Your M3 MacBook Pro as Effortlessly as You Do on the MacBook Air - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-windows-abstraction-layer-7s-usb-input-devices-working-again/"><u>How to Get Your Windows Abstraction Layer 7'S USB Input Devices Working Again</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/immediate-cessation-of-live-streaming-in-quicktime/"><u>Immediate Cessation of Live Streaming in QuickTime</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-pros-guide-to-xbox-players-on-facebook-live/"><u>In 2024, The Pro's Guide to Xbox Players on Facebook Live</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-oppo-find-n3-flip-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo Find N3 Flip Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-restoring-bluetooth-functionality-on-a-windows-10-computer/"><u>Master the Art of Restoring Bluetooth Functionality on a Windows 10 Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-smooth-play-a-guide-to-resolving-wow-latency-issues/"><u>Mastering Smooth Play: A Guide to Resolving WoW Latency Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-device-non-migration-during-windows-11-transition/"><u>Overcoming Issues with Device Non-Migration During Windows 11 Transition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-user-profile-service-failed-errors-in-windows-1011/"><u>Step-by-Step Guide: Overcoming 'User Profile Service Failed' Errors in Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-non-functional-keyboard-on-boot/"><u>Troubleshooting Guide: Non-Functional Keyboard on Boot</u></a></li>
 </ul></div>
 

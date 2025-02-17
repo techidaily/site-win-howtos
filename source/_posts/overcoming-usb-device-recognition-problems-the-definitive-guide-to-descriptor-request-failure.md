@@ -1,7 +1,7 @@
 ---
 title: "Overcoming USB Device Recognition Problems: The Definitive Guide to 'Descriptor Request Failure'"
-date: 2024-08-19T07:56:19.994Z
-updated: 2024-08-20T07:56:19.994Z
+date: 2025-02-14T22:16:48.217Z
+updated: 2025-02-17T00:32:53.883Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -60,18 +57,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -80,16 +86,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -99,8 +109,9 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -110,9 +121,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -127,8 +135,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +142,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-htc-vive-comfort-zone-8-strategies-for-clear-skin/"><u>[Updated] 2024 Approved HTC Vive Comfort Zone 8 Strategies for Clear Skin</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-groundhopping-goals-watch-record-and-cut-games-without-spending/"><u>2024 Approved Groundhopping Goals Watch, Record & Cut Games Without Spending</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/breakthrough-techniques-for-online-audio-archiving-and-editing/"><u>Breakthrough Techniques for Online Audio Archiving & Editing</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ensure-secure-data-safeguarding-with-raid-0-backup-strategies/"><u>Ensure Secure Data Safeguarding with RAID 0 Backup Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-fixing-windows-system-entrypointnotfoundexception/"><u>Guide: Fixing Windows System 'EntryPointNotFoundException'</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ancient-warriors-new-battlegrounds-top-games-like-the-japanese-epic/"><u>In 2024, Ancient Warriors, New Battlegrounds Top Games Like the Japanese Epic</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-video-uploads-past-standard-limits-on-instagram-for-2024/"><u>Mastering Video Uploads Past Standard Limits on Instagram for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revise-your-setup-troubleshooting-techniques-for-non-blinking-cursors/"><u>Revise Your Setup! Troubleshooting Techniques for Non-Blinking Cursors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209552427-solving-keyboard-issues-how-to-repair-unresponsive-left-right-and-updown-arrows/"><u>Solving Keyboard Issues: How to Repair Unresponsive Left, Right and Up/Down Arrows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-learning-video-resources-for-little-ones-free-downloads-and-viewing/"><u>Top Learning Video Resources for Little Ones: Free Downloads & Viewing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-windows-update-error-0x8024401c-for-windows-10-and-11-users/"><u>Troubleshooting and Fixing Windows Update Error 0X8024401c for Windows 10 & 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-opengl-glitches-in-minecraft-expert-tips-and-tricks/"><u>Troubleshooting OpenGL Glitches in Minecraft: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-parameter-is-incorrect-mistake-overcoming-loadlibrary-error-87/"><u>Troubleshooting the 'Parameter Is Incorrect' Mistake - Overcoming LoadLibrary Error 87</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-windows-error-code-0xc00000e9/"><u>Ultimate Guide: Resolving the Windows Error Code 0xC00000E9</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-role-of-system-data-in-managing-space-on-your-iphoneipad/"><u>Understanding the Role of System Data in Managing Space on Your iPhone/iPad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/water-and-tech-collide-does-iphone-15-pro-max-hold-up-against-splashes-and-dips/"><u>Water and Tech Collide: Does iPhone 15 Pro Max Hold Up Against Splashes and Dips?</u></a></li>
+</ul></div>
 

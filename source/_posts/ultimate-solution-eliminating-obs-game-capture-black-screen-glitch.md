@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Solution: Eliminating OBS Game Capture Black Screen Glitch"
-date: 2024-08-19T07:55:16.109Z
-updated: 2024-08-20T07:55:16.109Z
+date: 2025-02-13T21:27:07.508Z
+updated: 2025-02-16T21:16:52.023Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
  You should see the webpage again. Then you can adjust the edge of the window as you like. It’s a temporary fix, you might meet the issue again.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Remove browser extensions
 
  If you can run Chrome normally, you can try this method first.  
@@ -56,17 +53,20 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 4. Restart Chrome to check whether the issue is solved or not.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. If the issue is solved, you’ll know there is something wrong with at least one extension.
 6. Enable your installed extensions one by one to find which one is causing the problem. Then disable or remove it.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Add “`--disable-gpu` ” parameter
 
  Chrome creates a completely separate operating system process for each tag or extra extension you use. If you have multiple tabs open and various third-party extensions installed, you may find many processes running at the same time.
@@ -75,11 +75,18 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 1. Right-click on Chrome click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom0.jpg)
 2. On the Shortcuts tab, find Target. Add “`--disable-gpu` ” at the end of the text in the Target box. It should now read: …chrome.exe”`--disable-gpu` .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : There’s a space after**exe”** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom01.jpg)
 3. Click**OK** and then run Google Chrome.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Hit the three dots button in the upper right corner, then click**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom3.jpg)
 5. Click**Advanced** at the bottom.
 6. Deselect “**Use hardware acceleration when available** .”![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom4.jpg)
@@ -87,25 +94,21 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Run Chrome as Compatibility mode
 
  Run Google Chrome is a way to solve many Chrome problems. This Google Chrome black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
 
 1. Right-click on Chrome click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom0.jpg)
 2. In the Compatibility tab, click Run this program in compatibility mode for. Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome8.jpg)
-3. Click**OK** then run Google Chrome to check.
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Click**OK** then run Google Chrome to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Update your Google Chrome
 
  Updating your Google Chrome to the latest version can help you solve many issues. You can use another browser and go to the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMIm77Z45T%5F4QIV%5Fh-tBh3K6Qy6EAAYASAAEgJfh%5FD%5FBwE&gclsrc=aw.ds) to download the latest version and install it manually.
@@ -118,15 +121,22 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 1. Press the**Windows logo key** \+ **Pause** together then click **Control Panel** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome5.jpg)
 2. Set Control Panel view by**Category** . Then click **Uninstall a program** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click on Google Chrome and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome7.jpg)
 4. Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Install it manually and then check the issue is solved or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: Update your graphics card driver
 
  To make your computer screen works better and prevent potential screen problems, it is very important to keep your graphics card drivers up-to-date. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter issues like black screen.
@@ -159,8 +169,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -176,8 +187,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +194,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-narratives-the-science-and-art-of-crafting-memorable-fb-stories/"><u>[New] 2024 Approved Mastering Narratives The Science and Art of Crafting Memorable FB Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-from-zip-to-srt-the-conversion-process-unveiled/"><u>[New] From ZIP to SRT The Conversion Process Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-smartphone-cinematography-crafting-perfect-youtube-thumbnails/"><u>[Updated] Smartphone Cinematography Crafting Perfect YouTube Thumbnails</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-screen-grabber-chromebook-edition-leader/"><u>2024 Approved Premier Screen Grabber Chromebook Edition Leader</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/conquer-your-first-successful-zoom-call-for-2024/"><u>Conquer Your First Successful Zoom Call for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cut-wastage-in-high-cpu-use-with-wmi-fixes-for-win11/"><u>Cut Wastage in High CPU Use with WMI Fixes for Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-steps-to-correct-the-error-of-missing-d3dcompiler43dll-file/"><u>Detailed Steps to Correct the Error of Missing d3dcompiler_43.dll File</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-reducing-wudfhostexes-cpu-impact-on-your-windows-10-pc/"><u>Effective Strategies for Reducing WUDFHost.exe's CPU Impact on Your Windows 10 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/efficient-strategies-to-lower-overconsumption-of-cpu-resources-in-new-world/"><u>Efficient Strategies to Lower Overconsumption of CPU Resources in New World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-the-ultimate-guide-to-writing-winning-prompts-for-excellent-outcomes/"><u>Mastering ChatGPT: The Ultimate Guide to Writing Winning Prompts for Excellent Outcomes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-display-repair-a-complete-walkthrough-for-tackling-a-pitch-black-screen-on-dell-devices/"><u>Mastering Display Repair: A Complete Walkthrough for Tackling a Pitch-Black Screen on Dell Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-errors-when-starting-playables-on-pc-the-ultimate-fix-guide/"><u>Overcoming Errors When Starting Playables on PC - The Ultimate Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubgs-new-horizons-fix-your-installation-woes-with-this-exclusive-2024-launch-tutorial/"><u>PUBG's New Horizons: Fix Your Installation Woes with This Exclusive 2024 Launch Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-ps4s-noise-issue-causes-and-repair-techniques/"><u>Solving the PS4's Noise Issue: Causes and Repair Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformer-gratuitement-un-fichier-mpeg-en-format-mp4-avec-movavi-tutorials-en-ligne/"><u>Transformer Gratuitement Un Fichier MPEG en Format MP4 Avec Movavi - Tutorials en Ligne</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-bypassing-drm-for-content-creators-reviews-and-easy-tutorials/"><u>Ultimate Guide to Bypassing DRM for Content Creators: Reviews & Easy Tutorials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207319593-why-is-my-mouse-right-click-not-working-in-windows-10-solutions-inside/"><u>Why Is My Mouse Right Click Not Working in Windows 10? Solutions Inside</u></a></li>
+</ul></div>
 

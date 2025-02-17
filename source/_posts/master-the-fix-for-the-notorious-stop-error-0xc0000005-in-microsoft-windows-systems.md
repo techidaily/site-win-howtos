@@ -1,7 +1,7 @@
 ---
 title: Master the Fix for the Notorious 'STOP' Error 0xC0000005 in Microsoft Windows Systems
-date: 2024-08-19T07:56:01.234Z
-updated: 2024-08-20T07:56:01.234Z
+date: 2025-02-14T17:36:45.762Z
+updated: 2025-02-16T18:40:52.937Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
 ## Try these fixes
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 4. **[Run System File Checker](#f4)**
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Rebuild BCD manually
 
@@ -54,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2) Download the installation media and save it on your computer.
 
 3) Double-click the Media Creation Tool to launch the tool.
@@ -64,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 4) Select the **Create installation media (USB flash drive, DVD, or ISO file) for another PC** option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
@@ -124,17 +133,10 @@ bootrec /rebuildbcd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Fix 3: CHKDSK
 
  CHKDSK, short for “check disk”, aims to check disk and verify system files for any errors.
@@ -153,9 +155,6 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -168,6 +167,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -179,8 +182,9 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -222,8 +226,9 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
 ##### 3\. Download from the manufacturer’s website
@@ -246,16 +251,14 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance or have any questions, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -271,8 +274,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -280,4 +281,23 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/1-real-time-broadcasting-with-manycam-virtual-camera-and-streaming-app/"><u>1. Real-Time Broadcasting with ManyCam: Virtual Camera and Streaming App</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/easy-steps-to-modify-audio-preferences-a-guide-by-yl-computing/"><u>Easy Steps to Modify Audio Preferences: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/effortless-audio-delivery-on-your-iphone-for-2024/"><u>Effortless Audio Delivery on Your iPhone for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-game-disruptions-solving-valorants-screen-tearing-problem-efficiently/"><u>Eliminate Game Disruptions: Solving Valorant's Screen Tearing Problem Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-terminal-five-surprising-command-tricks/"><u>Exploring the Terminal: Five Surprising Command Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-when-your-screen-doesnt-accept-certain-inputs/"><u>Fixing the Issue When Your Screen Doesn’t Accept Certain Inputs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-alter-default-store-place-for-mac-images/"><u>In 2024, Alter Default Store Place for Mac Images</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-c12-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia C12 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-keyboards-failing-top-tips-and-tricks-to-restore-your-typing-experience/"><u>Lenovo Keyboards Failing? Top Tips and Tricks to Restore Your Typing Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-and-easy-incorrante-audio-into-fb-profiles-ios-android-for-2024/"><u>Quick & Easy Incorrante Audio Into FB Profiles (iOS, Android) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-to-fixed-kernel32-crashes/"><u>Quick Guide to Fixed Kernel32 Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-input-not-recognized-issues-displayed-on-monitors/"><u>Resolving 'Input Not Recognized' Issues Displayed on Monitors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-failed-feature-updates-for-windows-10-v1607-a-step-by-step-guide/"><u>Resolving Failed Feature Updates for Windows 10 v1607: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-unexpected-crashes-in-directx-applications/"><u>Troubleshooting Guide: Overcoming Unexpected Crashes in DirectX Applications</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-lightweight-and-economical-propella-7s-40-paddleboard/"><u>Ultimate Guide to the Lightweight and Economical Propella 7S 4.0 Paddleboard</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/upgrade-your-projects-free-reactive-design-tools-by-creative-tim-including-bootstrap-3-react-and-reactstrap-integration/"><u>Upgrade Your Projects: Free Reactive Design Tools by Creative Tim, Including Bootstrap 3, React, and Reactstrap Integration</u></a></li>
+</ul></div>
 

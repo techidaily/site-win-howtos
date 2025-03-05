@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Nonfunctional Microphone on Your Laptop - Solved"
-date: 2025-02-15T23:53:10.566Z
-updated: 2025-02-16T20:56:00.057Z
+date: 2025-02-26T20:28:57.164Z
+updated: 2025-03-05T16:01:17.315Z
 tags:
   - win11
   - win10
@@ -65,27 +65,15 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  4) Restart your laptop, and check to see if your keyboard works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Press the problem keys diagonally
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -96,10 +84,6 @@ If you have no idea how to do a system restore, refer steps below:
  1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**control** and hit Enter to open the Control Panel.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) View by **Small icons** and click **System** .
 
@@ -116,10 +100,6 @@ If you have no idea how to do a system restore, refer steps below:
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
@@ -155,22 +135,16 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-scrutinizing-hero5s-performance-throughout-day/"><u>[New] 2024 Approved Scrutinizing Hero5's Performance Throughout Day</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unlocking-the-potential-of-drone-footage-through-editing/"><u>[Updated] 2024 Approved Unlocking the Potential of Drone Footage Through Editing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-cutting-edge-mp4-utilities-choosing-the-right-one-for-mac-for-2024/"><u>[Updated] Cutting Edge MP4 Utilities Choosing the Right One for Mac for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-windows-cant-identify-suitable-printer-drivers/"><u>Effective Solutions for When Windows Can't Identify Suitable Printer Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-eliminate-error-0x8024401c-and-restore-seamless-updates-on-your-windows-11-machine/"><u>Expert Solutions to Eliminate Error 0X8024401c & Restore Seamless Updates on Your Windows 11 Machine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-secure-connection-failed-errors-in-mozilla-firefox/"><u>How to Fix 'Secure Connection Failed' Errors in Mozilla Firefox</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-ts-11-bluetooth-connection-problem-and-start-pairing-your-gadgets/"><u>How to Resolve Windows T's 11 Bluetooth Connection Problem and Start Pairing Your Gadgets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/illuminate-your-pc-effective-solutions-for-overcoming-windows-11s-black-screen-troubles/"><u>Illuminate Your PC: Effective Solutions for Overcoming Windows 11'S Black Screen Troubles</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-13-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-z50-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Z50 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-a79-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo A79 5G Phones</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-edit-without-limits-the-top-10-free-online-video-editors-for-2024/"><u>New Edit Without Limits The Top 10 Free Online Video Editors for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-a-malfunctioning-integrated-webcam-on-a-windows-device/"><u>Step-by-Step Guide to Fixing a Malfunctioning Integrated Webcam on a Windows Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-rdr2-errors-by-expanding-the-virtual-memory-size/"><u>Troubleshoot RDR2 Errors by Expanding the Virtual Memory Size</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-successful-windows-11-patch-application-issue-resolved/"><u>Troubleshooting Steps for a Successful Windows 11 Patch Application: [ISSUE RESOLVED]</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ultra-fast-picture-reader-for-windows-11/"><u>Ultra-Fast Picture Reader for Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-by-step-guide-to-sims-4-gameplay-recording/"><u>[New] 2024 Approved Step-by-Step Guide to Sims 4 Gameplay Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-disqus-poster-pixel-arrangement/"><u>[Updated] Disqus Poster Pixel Arrangement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-movavis-aiff-and-m4r-file-converter-your-fast-track-to-easy-audio-conversion-at-no-cost/"><u>Download Movavi's AIFF & M4R File Converter - Your Fast Track to Easy Audio Conversion at No Cost!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-and-simple-logitech-drivers-downloads-for-windows/"><u>Fast and Simple: Logitech Drivers Downloads for Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transforming-au-files-with-easy-web-tools-explore-options/"><u>Free Online Conversion: Transforming AU Files with Easy Web Tools - Explore Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-balance-your-phones-resources-using-roblox-on-iphone/"><u>How to Balance Your Phone's Resources Using Roblox on iPhone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-time-honored-top-15-in-the-world-of-stop-motion/"><u>In 2024, Time-Honored Top 15 in the World of Stop-Motion</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-productivity-the-benefits-of-utilizing-the-native-ios-notes-app/"><u>Maximizing Productivity: The Benefits of Utilizing the Native iOS Notes App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-vrije-mov-naar-mxf-verzamelen-met-movavi-converter/"><u>Online Vrije MOV Naar MXF Verzamelen Met Movavi Converter</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210063466-9781788175708-the-real-toltec-prophecies/"><u>The Real Toltec Prophecies | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transferir-archivos-de-audio-del-formato-ape-a-aiff-sin-costo-con-convertidor-online-de-movavi/"><u>Transferir Archivos De Audio Del Formato APE a AIFF Sin Costo Con Convertidor Online De Movavi</u></a></li>
 </ul></div>
 

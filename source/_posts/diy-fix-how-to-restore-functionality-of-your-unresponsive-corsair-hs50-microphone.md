@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone"
-date: 2025-02-13T00:51:02.068Z
-updated: 2025-02-16T22:44:52.467Z
+date: 2025-03-04T20:05:10.535Z
+updated: 2025-03-05T19:56:48.445Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Xbox One Headset Not Working?
 
  This article covers 5 tired-and-true methods for you to try. You may not need to try them all. Just start from the top and work your way down. You Xbox One headset may work fine again.
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
 
  Your controller’s software should be up-to-date to enable the headset adapter works properly.
@@ -63,20 +55,12 @@ Follow the steps here to update your Xbox One controller software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915a7941a9b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)  
 
  Find**Microsoft Xbox One controller** under catalog**Universal Serial Bus controllers** or**Microsoft Xbox One controller** .  
  Then right-click on it to choose**Update device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915be191b71.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)  
 
@@ -101,10 +85,6 @@ With Pro version: Click **Update All**  to automatically download and install th
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4\. Make sure your controller has fresh batteries
 
@@ -131,24 +111,24 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-book-trailers-reviewed-top-5-picks-revealed-for-2024/"><u>[New] Book Trailers Reviewed Top 5 Picks Revealed for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-expertise-in-speech-transcription-with-googles-tools-for-2024/"><u>[New] Expertise in Speech Transcription with Google's Tools for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-winter-vlogs-with-five-heartwarming-backdrops/"><u>[New] In 2024, Enhancing Winter Vlogs with Five Heartwarming Backdrops</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-downloading-your-youtube-watch-lists-step-by-step/"><u>[Updated] 2024 Approved Downloading Your YouTube Watch Lists Step by Step</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-view-youtube-statistics/"><u>[Updated] 2024 Approved How to View YouTube Statistics?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-lightroom-hdr-tutorial-how-to-create-and-merge-stunning-hdr-images-in-lightroom/"><u>[Updated] 2024 Approved Lightroom HDR Tutorial How to Create and Merge Stunning HDR Images in Lightroom</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unlocking-potential-innovations-in-gif-artistry/"><u>[Updated] 2024 Approved Unlocking Potential Innovations in GIF Artistry</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/2024-ultimate-guide-solving-your-airpods-connection-issues-on-pcs-windows-10-and-11/"><u>2024 Ultimate Guide: Solving Your AirPods Connection Issues on PCs (Windows 10 & 11)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/asus-laptop-fix-troubleshooting-non-functional-function-key-issues/"><u>ASUS Laptop Fix: Troubleshooting Non-Functional Function Key Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-how-to-repair-a-malfunctioning-mac-camera/"><u>Effortless Troubleshooting: How to Repair a Malfunctioning Mac Camera</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eight-effective-ways-to-fix-the-0x800f0922-update-issue-on-windows-11/"><u>Eight Effective Ways to Fix the '0X800F0922' Update Issue on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-geforce-shadowplay-install-failed-issue/"><u>Fix Geforce ShadowPlay Install Failed Issue</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-camera-hunt-essential-choices-for-new-enthusiasts/"><u>In 2024, Camera Hunt Essential Choices for New Enthusiasts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-epson-wf-3620-printer-software-free-installation-and-updates-for-windows-10-8-and-7/"><u>Latest Epson WF-3620 Printer Software: Free Installation and Updates for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-solution-to-stop-frequent-automatic-restarting-on-windows-10/"><u>Master the Solution to Stop Frequent Automatic Restarting on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-your-playstation-4-hurdles-with-a-quick-fix-to-error-code-ce-34878-0/"><u>Overcome Your PlayStation 4 Hurdles with a Quick Fix to Error Code CE-34878-0</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-a-broken-start-menu-on-windows-11-a-step-by-step-guide/"><u>Repairing a Broken Start Menu on Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-initial-boot-blackout-problems-in-monster-hunter-world-gameplay/"><u>Resolving Initial Boot Blackout Problems in Monster Hunter: World Gameplay</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>[New] 2024 Approved Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-talent-passes-for-independent-film-viewing/"><u>2024 Approved Talent Passes for Independent Film Viewing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-downloader-apps-youtube-videos-on-android-compared/"><u>2024 Approved Top Downloader Apps YouTube Videos on Android Compared</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y200-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y200 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/alac-vs-mp3-comprehensive-conversion-strategies-for-optimal-sound-quality/"><u>ALAC vs MP3: Comprehensive Conversion Strategies for Optimal Sound Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-on-converting-gif-images-to-swf-file-format-anywhere-from-desktop-applications-to-web-services/"><u>Comprehensive Guide on Converting GIF Images to SWF File Format Anywhere, From Desktop Applications to Web Services</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-economical-apple-watch-se/"><u>Comprehensive Review of the Economical Apple Watch SE</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-editing-and-joining-multiple-videos-across-different-services-including-youtube/"><u>Comprehensive Tutorial: Editing and Joining Multiple Videos Across Different Services, Including YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-swf-files-to-wmv-format-with-no-cost-two-simple-methods/"><u>Convert SWF Files to WMV Format with No Cost: Two Simple Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-your-social-media-sounds-for-free-leak-free-mp3s-from-facebook-without-any-bothering-ads-or-signs/"><u>Convert Your Social Media Sounds for FREE: Leak-Free MP3s From Facebook without Any Bothering Ads or Signs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cprmdvd/"><u>CPRM保護が解除されたDVDから容易にコピー・リッピングする方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-9-anime-the-latest-facts-uncovered/"><u>Decoding 9 Anime: The Latest Facts Uncovered!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-mp4-to-flv-file-format-transformation-tips-and-tricks/"><u>Easy MP4 to FLV File Format Transformation Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-downloading-and-saving-online-content-tutorial-on-youtube-facebook-vimeo-and-liveleak-videos/"><u>Easy Steps for Downloading and Saving Online Content: Tutorial on Youtube, Facebook, Vimeo, and Liveleak Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/establish-an-affordable-windows-gpt-imitation-with-gpt4all/"><u>Establish an Affordable Windows GPT Imitation with GPT4All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-switch-off-amdnvidia-ui-features/"><u>Guide to Switch Off AMD/Nvidia UI Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-repeated-pc-shutdowns-during-age-of-wonders-planetfall-gameplay-step-by-step-guide/"><u>Resolving Repeated PC Shutdowns During 'Age of Wonders: Planetfall' Gameplay - Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapshot-safeguarding-an-easy-tutorial-for-your-phone-for-2024/"><u>Snapshot Safeguarding An Easy Tutorial for Your Phone for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-f23-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo F23 5G Phone Pattern Lock</u></a></li>
 </ul></div>
 

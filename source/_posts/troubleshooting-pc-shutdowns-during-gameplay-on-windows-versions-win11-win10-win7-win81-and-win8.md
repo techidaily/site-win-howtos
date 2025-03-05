@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Shutdowns During Gameplay on Windows Versions: Win11, Win10, Win7, Win8.1 & Win8"
-date: 2024-08-19T07:47:56.367Z
-updated: 2024-08-20T07:47:56.367Z
+date: 2025-02-27T17:39:03.814Z
+updated: 2025-03-05T19:09:13.904Z
 tags:
   - win11
   - win10
@@ -68,10 +68,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run SFC
 
  Another fix you can try is to run the SFC(a built-in Windows file check & repair tool) scan since the missing/corrupted system files can be the culprit for the volume control not working problem.
@@ -80,13 +76,7 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click **Yes**   when prompted to confirm.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -94,9 +84,6 @@ To run SFC:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Run the Playing Audio troubleshooter
 
  If all else fails, then you might have to run the built-in audio troubleshooter in our Windows to solve the problem.
@@ -105,16 +92,9 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -130,8 +110,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +117,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-srt-file-playback-windows-and-mac-integration/"><u>[New] 2024 Approved SRT File Playback Windows & Mac Integration</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-essential-thumbnail-strategy-for-top-video-visibility/"><u>[New] 2024 Approved The Essential Thumbnail Strategy for Top Video Visibility</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>[Updated] In 2024, The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-your-content-leading-free-video-opener-tools/"><u>[Updated] Master Your Content Leading Free Video Opener Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x50iplus-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211372500-9781922786883-awaken-your-psychic-ability-updated-edition/"><u>Awaken your Psychic Ability - updated edition | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-overcoming-bluetooth-pairing-challenges-in-windows-10/"><u>Comprehensive Tutorial: Overcoming Bluetooth Pairing Challenges in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-techniques-making-your-laptops-touchpad-work-again/"><u>DIY Repair Techniques: Making Your Laptop's Touchpad Work Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-1068-troubleshooting-for-windows-users-quick-fixes-inside/"><u>Error 1068 Troubleshooting for Windows Users - Quick Fixes Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-sound-on-netflix-when-youre-only-hearing-silence/"><u>How to Enable Sound on Netflix When You're Only Hearing Silence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-winupdate-issue-error-code-0x80070002-solution-steps/"><u>How to Overcome WinUpdate Issue: Error Code 0X80070002 Solution Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-smart-8-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Smart 8 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-reno-11f-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo Reno 11F 5G Phone Network-Ready</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208954635-lost-sd-card-discovery-reveal-and-repair-paths/"><u>Lost SD Card Discovery? Reveal and Repair Paths</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-accidental-letter-input-in-keyboard-use-solutions-and-tips/"><u>Overcoming Accidental Letter Input in Keyboard Use – Solutions and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-application-stalls-with-easy-fixes-for-error-1053/"><u>Overcoming Application Stalls with Easy Fixes for Error 1053</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-to-reactivate-your-file-explorer-when-it-wont-respond-on-windows/"><u>Quick Remedies to Reactivate Your File Explorer When It Won't Respond on Windows</u></a></li>
+</ul></div>
 

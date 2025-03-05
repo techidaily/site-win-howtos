@@ -1,7 +1,7 @@
 ---
 title: Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips
-date: 2025-02-10T22:57:51.875Z
-updated: 2025-02-16T23:46:25.181Z
+date: 2025-03-02T18:29:09.572Z
+updated: 2025-03-05T19:39:39.107Z
 tags:
   - win11
   - win10
@@ -33,18 +33,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
   
@@ -71,18 +63,10 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
@@ -104,10 +88,6 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -125,20 +105,20 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration-for-2024/"><u>[New] A Comprehensive Walkthrough for iMovie and YouTube Collaboration for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-eight-high-performing-tablets-for-future-photography-titans/"><u>[New] Eight High-Performing Tablets for Future Photography Titans</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-obs-for-android-streaming/"><u>[New] In 2024, Mastering OBS for Android Streaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-10-security-focused-video-chat-apps-on-mobile-devices/"><u>[Updated] In 2024, Top 10 Security-Focused Video Chat Apps on Mobile Devices</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-system-performance-with-thunderbolt-driver-update-for-windows-operating-systems/"><u>Enhance System Performance with Thunderbolt Driver Update for Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-youtube-audio-renderer-error-for-a-smooth-streaming-experience-on-windows-10/"><u>Fixing the YouTube Audio Renderer Error for a Smooth Streaming Experience on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-past-valorants-unending-load-up-expert-advice-for-a-smooth-game-start/"><u>Get Past Valorant's Unending Load Up: Expert Advice for a Smooth Game Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-correct-error-message-device-unavailable-code-24-solutions-for-win1087/"><u>Guide to Correct Error Message - Device Unavailable (Code 24), Solutions for Win10/8/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lower-high-wmi-cpu-usage-on-pcs/"><u>Lower High WMI CPU Usage on PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-to-the-home-screen-finding-start-in-windows-11-made-easy/"><u>Navigating to the Home Screen: Finding 'Start' In Windows 11 Made Easy</u></a></li>
-<li><a href="https://fox-http.techidaily.com/rejuvenated-dialogue-ideas-to-hook-listeners/"><u>Rejuvenated Dialogue Ideas to Hook Listeners</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-dell-wireless-keyboard-stops-working/"><u>Solutions for When Your Dell Wireless Keyboard Stops Working</u></a></li>
-<li><a href="https://win11.techidaily.com/tailored-group-policies-for-specific-users-stepwise-approach/"><u>Tailored Group Policies for Specific Users: Stepwise Approach</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-secrets-a-deep-dive-into-toms-hardware-recommendations/"><u>Unlocking Performance Secrets - A Deep Dive Into Tom's Hardware Recommendations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-update-error-0xc1900208-solved/"><u>Windows 11 Update Error 0Xc1900208 [SOLVED]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-engaging-your-audience-with-optimal-video-concepts/"><u>[New] In 2024, Engaging Your Audience with Optimal Video Concepts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-triggering-uninterrupted-youtube-streaming-on-facebook-feed/"><u>[New] In 2024, Triggering Uninterrupted YouTube Streaming on Facebook Feed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unmask-phony-followers-a-speedy-cost-free-approach-for-instagram/"><u>[Updated] 2024 Approved Unmask Phony Followers A Speedy, Cost-Free Approach for Instagram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-fixing-the-blackout-a-comprehensive-guide-to-resolving-youtube-video-display-issues/"><u>1. Fixing the Blackout: A Comprehensive Guide to Resolving YouTube Video Display Issues</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy/"><u>Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/editorial-elegance-at-the-end-for-2024/"><u>Editorial Elegance at the End for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-elevate-your-storytelling-how-to-edit-canon-videos-with-professional-results/"><u>New 2024 Approved Elevate Your Storytelling How to Edit Canon Videos with Professional Results</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-firmware-conflict-on-precision-3252/"><u>Solve Firmware Conflict on Precision 3252</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-deleting-hidden-programs-in-windows/"><u>Step-by-Step Guide to Deleting Hidden Programs in Windows</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/temporary-deactivation-of-windows-defender-a-step-by-step-guide-cyberguardian-pros/"><u>Temporary Deactivation of Windows Defender: A Step-by-Step Guide - CyberGuardian Pros</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transfer-your-work-with-ease-guide-to-exporting-and-importing-webm-files-in-adobe-premiere-pro/"><u>Transfer Your Work with Ease - Guide to Exporting and Importing WebM Files in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-free-tools-and-techniques-for-cutting-webm-videos-offline-or-online/"><u>Ultimate Guide: Free Tools & Techniques for Cutting WebM Videos Offline or Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-kodi-masterclass-comprehensive-tutorials-from-basics-to-advanced-usage/"><u>Ultimate Kodi Masterclass – Comprehensive Tutorials From Basics to Advanced Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-nrg-files-comprehensive-tutorial-on-employing-a-nrg-file-extractor-tool/"><u>Unlocking NRG Files: Comprehensive Tutorial on Employing a NRG File Extractor Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/youtubemkv-youtubemkv/"><u>YouTubeビデオファイルのMKVへの直接ダウンロード手順 - YouTubeビデオをMKVに変換ガイド</u></a></li>
 </ul></div>
 

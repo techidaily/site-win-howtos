@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality to Malfunctioning Function Keys on ASUS Notebooks
-date: 2025-02-09T22:37:05.934Z
-updated: 2025-02-16T19:20:51.716Z
+date: 2025-03-03T16:34:03.940Z
+updated: 2025-03-05T17:17:06.545Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -47,17 +43,9 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -126,10 +114,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -141,10 +125,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,17 +164,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>[New] In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-who-are-the-biggest-watchers-top-amazon-series-liked-by-twitter-2023/"><u>[New] Who Are the Biggest Watchers? Top Amazon Series Liked by Twitter, 2023</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-easysnap-win11-no-hassle-just-screenshots/"><u>[Updated] In 2024, EasySnap Win11 No Hassle, Just Screenshots</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/re-8-leading-youtube-growth-strategies-for-2024/"><u>Explore 8 Leading Youtube Growth Strategies for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-the-missing-dll-issue-how-to-restore-vcruntime140dll-on-windows-10/"><u>Fix the Missing DLL Issue: How to Restore VCRUNTIME140.dll on Windows 10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-motorola-edgeplus-2023-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Motorola Edge+ (2023)? Fixed | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-depth-guide-to-frozen-indulgence-capture-tech-for-2024/"><u>In-Depth Guide to Frozen Indulgence Capture Tech for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-restart-and-rejuvenate-freezing-spotify-in-windows-11/"><u>Techniques to Restart and Rejuvenate Freezing Spotify in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-driver-related-power-issues-in-windows-operating-systems/"><u>Troubleshooting Driver-Related Power Issues in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-minecraft-multiplayer-server-connection-errors/"><u>Troubleshooting Guide: Resolving Minecraft Multiplayer Server Connection Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-speaker-distortion-on-windows-11-and-7-a-comprehensive-guide/"><u>Troubleshooting Speaker Distortion on Windows 11 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-registration-woes-heres-how-to-solve-unregistered-class-issues/"><u>Windows 11 Registration Woes? Here's How to Solve Unregistered Class Issues</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-4k-unveiled-hp-dreamcolors-technological-leap/"><u>[New] 2024 Approved 4K Unveiled HP DreamColor's Technological Leap</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-the-best-video-editors-not-on-youtoo-for-2024/"><u>[New] The Ultimate Guide to the Best Video Editors Not on YouToo for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-general-knowledge-quiz-channels-24/"><u>[Updated] Exclusive List General Knowledge Quiz Channels '24</u></a></li>
+<li><a href="https://os-tips.techidaily.com/easy-guide-to-swiftly-sideloading-on-android-for-enhanced-customization-and-freedom/"><u>Easy Guide to Swiftly Sideloading on Android for Enhanced Customization & Freedom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-jokes-at-your-fingertips-quickmemes-handbook/"><u>Free Jokes at Your Fingertips – QuickMemes Handbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-endless-restart-loop/"><u>How to Fix Windows 10 Endless Restart Loop</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-zero-5g-2023-turbo-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Zero 5G 2023 Turbo FRP Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-network-storage-solutions-premium-racks-for-servers/"><u>Leading Network Storage Solutions: Premium Racks for Servers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mastering-video-editing-on-mac-a-step-by-step-guide-for-yosemite-users/"><u>New In 2024, Mastering Video Editing on Mac A Step-by-Step Guide for Yosemite Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hdcp-limitations-fixing-hdmi-output-for-standard-displays/"><u>Overcoming HDCP Limitations: Fixing HDMI Output for Standard Displays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reincarnationresurrection/"><u>Reincarnation/Resurrection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-persistent-errors-and-game-crashes-on-pc-during-age-of-wonders-planetfall-adventure/"><u>Resolving Persistent Errors & Game Crashes on PC During Age of Wonders: Planetfall Adventure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixes-for-unresponsive-touchpad-scrolling-issues/"><u>Solved: Fixes for Unresponsive Touchpad Scrolling Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-laptop-frustrations-charge-that-battery-in-no-time-with-these-fixes/"><u>Stop Laptop Frustrations: Charge That Battery in No Time with These Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/warframe-update-woes-heres-how-to-correctly-resolve-the-notorious-update-failure/"><u>Warframe Update Woes? Here's How to Correctly Resolve the Notorious Update Failure</u></a></li>
 </ul></div>
 

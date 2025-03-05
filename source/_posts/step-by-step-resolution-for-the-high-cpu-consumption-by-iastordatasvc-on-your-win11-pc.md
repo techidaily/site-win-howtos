@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Resolution for the High CPU Consumption by IAstorDataSvc on Your Win11 PC
-date: 2025-02-14T21:22:48.754Z
-updated: 2025-02-16T19:34:23.006Z
+date: 2025-03-02T19:54:41.864Z
+updated: 2025-03-05T20:13:48.902Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ Continuously getting the error **“There is a problem with your games setup. Pl
   
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
 If that didn’t help, try the next fix below.
@@ -71,10 +67,6 @@ If that didn’t help, try the next fix below.
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
@@ -82,10 +74,6 @@ If that didn’t help, try the next fix below.
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
@@ -134,10 +122,6 @@ Here’s how to update drivers with Driver Easy:
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Origin as an administrator
 
  There are some situations that your game can’t be installed because your Origin client lacks the administrative privileges. Therefore, you may need to run Origin as an administrator:
@@ -154,19 +138,11 @@ If you want to make Origin always run as administrator, take these steps:
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Install the latest visual C++ redistributable pack
 
@@ -186,17 +162,9 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -217,18 +185,21 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-use-youtube-enhancements-to-improve-video-quality/"><u>[Updated] How to Use YouTube Enhancements to Improve Video Quality</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-acoustic-amplification-of-social-media-content-on-facebook/"><u>2024 Approved Acoustic Amplification of Social Media Content on Facebook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-cinematography-mastering-transitions-in-kinemaster/"><u>2024 Approved Elevate Your Cinematography Mastering Transitions in Kinemaster</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/create-captivating-videos-with-free-intros-for-2024/"><u>Create Captivating Videos with Free Intros for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-problem-with-microsoft-store-not-opening-correctly/"><u>Fixing the Problem with Microsoft Store Not Opening Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-connected-again-correct-driver-installation-for-overcoming-lenovos-wireless-issues/"><u>Get Connected Again: Correct Driver Installation for Overcoming Lenovo's Wireless Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/selecting-a-smart-device-pros-and-cons-of-iphones-vs-android-phones/"><u>Selecting a Smart Device: Pros and Cons of iPhones vs Android Phones</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-maxoak-energy-reserve-in-depth-review-of-the-185wh50k-mah-battery-pack-for-power-enthusiasts/"><u>The MaxOak Energy Reserve: In-Depth Review of the 185Wh/50k mAh Battery Pack for Power Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/this-seo-title-emphasizes-exploration-of-innovation-suggesting-that-viewers-will-not-only-watch-but-also-understand-and-learn-from-the-event/"><u>This SEO Title Emphasizes Exploration of Innovation, Suggesting that Viewers Will Not only Watch but Also Understand and Learn From the Event.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/traverse-costs-watch-anywhere-gratis-video-player-pcmac-for-2024/"><u>Traverse Costs, Watch Anywhere - Gratis VIDEO Player (PC/Mac) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-microsofts-print-to-pdf-feature-fails-on-windows-11/"><u>Troubleshooting Steps when Microsoft's Print to PDF Feature Fails on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-addressing-the-issue-of-microsoft-compatibility-telemetry-overusing-disk-space-on-windows-10-systems/"><u>Understanding and Addressing the Issue of Microsoft Compatibility Telemetry Overusing Disk Space on Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-audio-failure-no-more-win-1011-fixed/"><u>Windows Audio Failure No More - Win 10/11 Fixed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-easy-way-to-snap-spectacular-slow-mo-on-android/"><u>[New] 2024 Approved The Easy Way to Snap Spectacular Slow Mo on Android</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-archived-stories-from-facebook-a-digital-handbook/"><u>[New] In 2024, Unlocking Archived Stories From Facebook A Digital Handbook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-key-to-video-marketing-dominance-youtubes-seo-secrets/"><u>[New] The Key to Video Marketing Dominance YouTube's SEO Secrets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unveiling-the-secrets-of-facebook-lives-dual-display-for-2024/"><u>[New] Unveiling the Secrets of Facebook Live's Dual Display for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-slice-and-shoot-mastering-the-art-of-food-video/"><u>[Updated] 2024 Approved Slice and Shoot Mastering the Art of Food Video</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-an-insiders-view-on-creating-effective-slug-lines/"><u>[Updated] An Insider's View on Creating Effective Slug Lines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-to-fixing-msvcp140dll-shortage/"><u>A Step-by-Step Guide to Fixing MSVCP140.dll Shortage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/apex-legends-easy-anti-cheat-error-solved/"><u>Apex Legends Easy Anti-Cheat Error [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-overcoming-usb-hdmi-connection-failures/"><u>Expert Advice on Overcoming USB-HDMI Connection Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-respond-if-you-encounter-smartscreen-service-currently-down-on-your-pc/"><u>How to Respond if You Encounter 'SmartScreen Service Currently Down' On Your PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-deciphering-the-secrets-to-bg-purging-in-figma-layouts/"><u>In 2024, Deciphering the Secrets to BG Purging in Figma Layouts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-x9a-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor X9a Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-a-non-responsive-google-chrome-immediate-reload-options/"><u>Resolving a Non-Responsive Google Chrome: Immediate Reload Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-charge-functionality-in-ps4-controllers/"><u>Step-by-Step Guide: Restoring Charge Functionality in PS4 Controllers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210281609-troubleshoot-csgo-issues-like-a-pro-end-crashes-for-good/"><u>Troubleshoot CSGO Issues Like a Pro: End Crashes for Good</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-music-magic-best-free-tools-for-wav-conversion-for-2024/"><u>YouTube's Music Magic Best Free Tools for WAV Conversion for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution"
-date: 2025-02-14T19:59:50.090Z
-updated: 2025-02-16T21:59:11.046Z
+date: 2025-02-26T16:44:09.904Z
+updated: 2025-03-05T17:09:04.637Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
@@ -70,20 +66,12 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -98,10 +86,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
@@ -112,10 +96,6 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -150,18 +130,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-deluxe.techidaily.com/decoding-hard-disk-failures-expert-tips-by-yl-computing-and-yl-software-explained-for-you/"><u>Decoding Hard Disk Failures: Expert Tips by YL Computing & YL Software Explained for You</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-svchostexe-netsvcs-how-to-address-network-resource-drain-and-improve-system-performance/"><u>Decoding svchost.exe (Netsvcs): How to Address Network Resource Drain and Improve System Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hassle-free-methods-to-get-past-a-paused-0-windows-update-problem/"><u>Hassle-Free Methods to Get Past a Paused 0% Windows Update Problem</u></a></li>
-<li><a href="https://fox-http.techidaily.com/insiders-guide-to-pro-windows-10-expertise-for-2024/"><u>Insider's Guide to Pro WINDOWS 10 Expertise for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-windows-blue-screen-due-to-not-handled-errors/"><u>Preventing Windows Blue Screen Due to Not Handled Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolving-steam-cant-write-to-disk-issues/"><u>Quick Solutions: Resolving 'Steam Can't Write to Disk' Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-access-denied-why-you-can-now-enter/"><u>Resolved: Access Denied – Why You Can Now Enter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-unregistered-class-errors-on-your-windows-10-pc-solutions-inside/"><u>Resolving Unregistered Class Errors on Your Windows 10 PC - Solutions Inside!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/techniques-extracting-youtube-audio-for-2024/"><u>Techniques Extracting YouTube Audio for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/top-free-tools-for-dvd-to-mp3-conversion-without-compromising-quality/"><u>Top Free Tools for DVD-to-MP3 Conversion without Compromising Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-astro-a40-microphone-issues/"><u>Troubleshooting Guide: Fixing Astro A40 Microphone Issues</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-realme-10t-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme 10T 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/wireless-woes-no-more-troubleshooting-and-fixes-for-windows-with-yl-software-tips/"><u>Wireless Woes No More: Troubleshooting & Fixes for Windows with YL Software Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-jumpstart-your-marketing-game-with-these-top-reddit-insights/"><u>[New] Jumpstart Your Marketing Game with These Top Reddit Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-spacebar-not-working-on-windows-10/"><u>[Solved] Spacebar Not Working on Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ending-automatic-video-captures-in-qt-player-for-2024/"><u>[Updated] Ending Automatic Video Captures in QT Player for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-master-list-of-top-online-video-conferencing-platforms-all-free/"><u>[Updated] Master List of Top Online Video Conferencing Platforms (All Free)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harness-kinemasters-power-techniques-for-professionals-and-top-online-platforms/"><u>2024 Approved Harness KineMaster's Power Techniques for Professionals & Top Online Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-stop-automatic-video-recommendations-immediately/"><u>2024 Approved Stop Automatic Video Recommendations Immediately</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-list-of-shopping-destinations-for-customizable-presents/"><u>2024 Approved The Ultimate List of Shopping Destinations for Customizable Presents</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/execution-prohibited-by-system/"><u>Execution Prohibited by System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-what-to-do-if-internet-explorer-has-stopped-working/"><u>Fixing the Issue: What To Do If Internet Explorer Has Stopped Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-black-phenomenon-explained-and-resolved-step-by-step-guide/"><u>Google Chrome Black Phenomenon Explained and Resolved - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guaranteed-fix-for-windows-update-error-code-0x80070002-simple-solutions/"><u>Guaranteed Fix for Windows Update Error: Code 0X80070002 | Simple Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a56s-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A56s 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-securing-modification-permissions-from-trustedinstaller/"><u>Mastering the Art of Securing Modification Permissions From TrustedInstaller</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-wi-fi-connectivity-how-to-fix-lenovo-pad-problems-on-pcs/"><u>Winning Over Wi-Fi Connectivity - How to Fix Lenovo Pad Problems on PCs</u></a></li>
 </ul></div>
 

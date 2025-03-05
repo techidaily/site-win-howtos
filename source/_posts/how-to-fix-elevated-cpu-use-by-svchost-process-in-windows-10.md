@@ -1,7 +1,7 @@
 ---
 title: How to Fix Elevated CPU Use by Svchost Process in Windows 10
-date: 2024-08-19T07:48:58.644Z
-updated: 2024-08-20T07:48:58.644Z
+date: 2025-03-03T17:16:52.877Z
+updated: 2025-03-05T16:40:01.442Z
 tags:
   - win11
   - win10
@@ -36,11 +36,6 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 
  Before you get started to fix the mouse problem, it is a wise choice to check your wireless mouse first.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Check the power of the wireless mouse
 
  When the battery is emptied, your mouse will randomly stop moving. Therefore, you have to check the power of the mouse. For battery-powered wireless mouse, you can just replace the batteries and check if it works. Or if you use a rechargeable wireless mouse, charge it and check if it works.
@@ -51,9 +46,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Try these methods
 
  Here are 7 methods for you to fix your mouse problem. You can just try these methods until your mouse works.
@@ -66,9 +58,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 6. **[Fix missing or corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Fix unknown hard errors](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Change USB port
 
  Your wireless mouse may come with a USB receiver. Generally, you can plug the USB receiver into a USB port on your PC and then your mouse can work. If your USB receiver is plugged into a USB port but it does not work, it may be due to the USB port. You can just try another USB port.
@@ -84,20 +73,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Click**Devices** from the menu options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-18-58.jpg)
 3. Click**Bluetooth & other devices** on the left panel and then select**Add Bluetooth or other device** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-25-05.jpg)
 4. Click**Bluetooth** on the dialog box below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_08-39-48.jpg)
 5. You have to wait for the mouse to appear in the list and then follow the on-screen instructions to pair the device.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Method 3: Update your wireless mouse driver
 
  If your operating system has updated but your mouse driver hasn’t updated, your mouse may stop working. So when your mouse does not work, you can try to update your mouse driver.
@@ -113,9 +93,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-52-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After updating your device drivers, see if your mouse problem has been solved. If not, move to the next method.
 
 ### Method 4: Disable the Realtek HD Audio Manager
@@ -130,18 +107,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Right-click**Realtek High Definition Audio** and then select**Disable device.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-38-50.jpg)
 4. Click**Yes** in the dialog box that pops up.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_11-05-01.jpg)
 5. After disabling**Realtek High Definition Audio,** you can check if your mouse works.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 5: Disable disappearing cursor feature
 
  The disappearing cursor feature is user-friendly. It is designed for user convenience while typing. If your cursor disappears only when you’re typing, you can check if the feature is enabled. You can fix it by disabling this feature.
@@ -157,9 +125,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 5. Uncheck the box next to the**Hide pointer while typing** and click the**OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_11-47-57-1.jpg)
 6. Restart your PC and see if your mouse works.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Fix missing or corrupt system files
 
@@ -183,19 +148,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. The dialog box will pop up. Type**cmd** and check the box next to the**Create this task with administrative privileges** . Then Click the**OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-22_17-17-44-1.jpg)
 4. Type**chkdsk /f /r** (you can just copy and paste it) in the Command Prompt window and then press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-13_13-38-35-2.jpg)
 5. Press**Y** on your keyboard. As is described in the figure below, Disk check will start the next time when you boot your PC.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-13_13-41-31-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  It might take some time to check the hard disk. If you don’t have time to wait for the disk check to complete in your next reboot, you can skip it and reschedule it again.
 
  In short, I hope this article is helpful to you. For any questions, please feel free to leave a comment below.
@@ -206,8 +162,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +169,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-cross-social-smiles-top-meme-picks-on-reddit-and-twitter/"><u>[New] 2024 Approved Cross-Social Smiles Top Meme Picks on Reddit & Twitter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-full-examination-evaluating-the-gecata-analyzer/"><u>[New] 2024 Approved Full Examination Evaluating the Gecata Analyzer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-best-pixel-soundtracks-online/"><u>[New] Navigating the Best Pixel Soundtracks Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tailoring-your-whatsapp-ringtone-for-ios-and-android-devices/"><u>[New] Tailoring Your WhatsApp Ringtone for iOS and Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-displays-analyzing-oled-amoled-and-lcd/"><u>Exploring Top Displays: Analyzing OLED, AMOLED and LCD</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fix-screen-stuttering-problems-in-your-windows-prise/"><u>Guide to Fix Screen Stuttering Problems in Your Windows Prise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212186222-how-to-fix-unrecognized-usb-hardware-errors-on-your-pc-solutions-inside/"><u>How to Fix Unrecognized USB Hardware Errors on Your PC – Solutions Inside!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-expectations-the-latest-lg-tv-bp550-review/"><u>In 2024, Beyond Expectations The Latest LG TV BP550 Review</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/instale-windows-10-de-manera-rapida-y-sencilla-metodo-para-discos-duros-recien-obtuvieron/"><u>Instale Windows 10 De Manera Rápida Y Sencilla: Método Para Discos Duros Recién Obtuvieron</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209638916-laptop-microphone-problems-heres-how-to-get-it-working-again/"><u>Laptop Microphone Problems? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximizing-your-machines-potential-how-to-end-overbearing-system-load-from-shell-infrastructures/"><u>Maximizing Your Machine’s Potential – How to End Overbearing System Load From Shell Infrastructures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-off-screen-window-problems-with-simple-shortcuts-and-adjustments/"><u>Solving Off-Screen Window Problems with Simple Shortcuts and Adjustments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-sfc-error-in-windows-operating-systems/"><u>Troubleshooting Tips for Overcoming SFC Error in Windows Operating Systems</u></a></li>
+</ul></div>
 

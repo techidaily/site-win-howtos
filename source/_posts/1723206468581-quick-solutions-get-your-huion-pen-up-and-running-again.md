@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Get Your Huion Pen Up & Running Again!"
-date: 2025-02-14T00:35:52.329Z
-updated: 2025-02-16T21:23:54.028Z
+date: 2025-03-03T17:00:15.622Z
+updated: 2025-03-05T16:00:02.980Z
 tags:
   - win11
   - win10
@@ -51,19 +51,11 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  So this is the quick fix for you. Sometimes it’s just your device driver running into glitches that caused the pen to stop working. In this case, simply shut down your computer and then restart it. The next time you use your pen on a PC, it should work as normal.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable Sleep Mode
 
@@ -99,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
@@ -120,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
@@ -177,10 +161,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
@@ -201,10 +181,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -212,10 +188,6 @@ OR
  1) On your keyboard, press the**Windows logo key** and**S** at the same to invoke the search box. Then, type**notepad** and click the**Notepad** application.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
@@ -230,10 +202,6 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -260,19 +228,14 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-editor-insider-look-editmaster-pro-whats-new-in-2esy/"><u>[New] Editor Insider Look EditMaster Pro - What's New in 2Esy</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-turbo-transfer-efficient-youtube-listings/"><u>[New] In 2024, Turbo Transfer Efficient YouTube Listings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-m1-pro-vs-the-m1-max-showdown-what-sets-them-apart/"><u>[New] The M1 Pro Vs. The M1 Max Showdown - What Sets Them Apart?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/crafting-the-perfect-minecraft-archive-6-key-strategies-for-2024/"><u>Crafting the Perfect Minecraft Archive 6 Key Strategies for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dxgidll-woes-pubgs-triumphant-fix/"><u>Dxgi.dll Woes: PUBG's Triumphant Fix</u></a></li>
-<li><a href="https://facebook.techidaily.com/essential-tactics-for-producing-attention-grabbing-video-stories-in-60-seconds/"><u>Essential Tactics for Producing Attention-Grabbing Video Stories in 60 Seconds</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-brio-driver-installation-guide-free-download-for-windows-users/"><u>Logitech BRIO Driver Installation Guide: Free Download for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-usb-device-recognition-problems-the-definitive-guide-to-descriptor-request-failure/"><u>Overcoming USB Device Recognition Problems: The Definitive Guide to 'Descriptor Request Failure'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-when-your-dhcp-server-is-not-responding/"><u>Step-by-Step Solution for When Your DHCP Server Is Not Responding</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-mastermind-of-ancient-chinese-transportation-systems-unveiled-by-yl-software-roads-and-canals-redefined/"><u>The Mastermind of Ancient Chinese Transportation Systems Unveiled by YL Software: Roads and Canals Redefined</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-leap-in-audio-tech-google-pixel-buds-pro-2-revealed-explore-price-predictions-release-timing-and-rumored-features/"><u>The Next Leap in Audio Tech – Google Pixel Buds Pro 2 Revealed! Explore Price Predictions, Release Timing & Rumored Features</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1110700-9781780996325-the-unknown-mother/"><u>The Unknown Mother | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-your-windows-media-player-connection-issues/"><u>Troubleshooting Steps: Resolving Your Windows Media Player Connection Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-your-devices-bluetooth-functionality/"><u>Troubleshooting Tips: Reactivating Your Device's Bluetooth Functionality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-a-youtube-empire-26-successful-techniques/"><u>[New] 2024 Approved Crafting a YouTube Empire 26 Successful Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-visionaries-of-marvellous-marvel-realities/"><u>[New] 2024 Approved Visionaries of Marvellous Marvel Realities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-webinar-creation-and-management-on-youtube/"><u>[Updated] In 2024, Free Webinar Creation & Management on Youtube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-charting-a-course-to-a-million-fans-with-this-tutorial/"><u>2024 Approved Charting a Course to a Million Fans with This Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/directx-device-setup-complete-after-troubleshooting-guide/"><u>DirectX Device Setup Complete After Troubleshooting Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203846589-hp-keyboard-malfunctions-5-easy-steps-to-restore-functionality/"><u>HP Keyboard Malfunctions? 5 Easy Steps to Restore Functionality!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-resolving-plugged-in-but-not-charging-glitches-in-windows-operating-systems/"><u>Solved! Resolving Plugged In but Not Charging Glitches in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-for-connecting-airpods-to-windows-11/"><u>Ultimate Troubleshooting Guide for Connecting AirPods to Windows 11</u></a></li>
 </ul></div>
 

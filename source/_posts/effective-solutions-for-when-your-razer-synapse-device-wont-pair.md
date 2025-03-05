@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for When Your Razer Synapse Device Won't Pair
-date: 2024-08-19T07:46:49.587Z
-updated: 2024-08-20T07:46:49.587Z
+date: 2025-03-04T19:32:22.018Z
+updated: 2025-03-05T17:16:54.867Z
 tags:
   - win11
   - win10
@@ -66,9 +66,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -93,9 +90,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -111,16 +105,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -133,16 +121,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -168,8 +150,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +157,22 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-windows-update-error-0x8024401c-in-windows-1011/"><u>[Fixed] Windows Update Error 0X8024401c in Windows 10/11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-pop-sync-streamlining-song-placement-on-instagram-stories/"><u>[New] In 2024, Pop Sync Streamlining Song Placement on Instagram Stories</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breath-of-fresh-windows-11-air-for-archaic-machines-via-to-go-and-rufus/"><u>Breath of Fresh Windows 11 Air for Archaic Machines via To Go & Rufus</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/cancellato-un-messaggio-e-perduto-per-sempre/"><u>Cancellato Un Messaggio, È Perduto per Sempre?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/combatting-copypaste-complications-in-windows-10/"><u>Combatting Copy/Paste Complications in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-troubleshoot-and-fix-werfaultexe-errors-on-windows-machines/"><u>Effective Strategies to Troubleshoot and Fix werFault.exe Errors on Windows Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flawless-fix-strategies-for-windows-update-error-code-0x80240017-no-more-setbacks/"><u>Flawless Fix Strategies for Windows Update Error Code 0X80240017 - No More Setbacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/"><u>How to Use ChatGPT and DALL-E to Create Characters for Dungeons & Dragons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212036791-icue-no-device-trouble-heres-how-you-can-fix-it/"><u>ICUE 'No Device' Trouble? Here's How You Can Fix It</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-guide-to-instagrams-gold-standard-six-tactics-to-attract-more-followers/"><u>In 2024, The Ultimate Guide to Instagram's Gold Standard Six Tactics to Attract More Followers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-video-gurus-playbook-smooth-transition-to-easy-youtube-cc-and-subtitles/"><u>In 2024, The Video Guru's Playbook Smooth Transition to Easy YouTube CC & Subtitles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-pricing-transparency-how-generative-ai-impacts-business-strategies-insights-from-zdnet/"><u>Navigating Pricing Transparency: How Generative AI Impacts Business Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-14-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 14 Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-steams-privilege-problems-a-definitive-fix-for-missing-files-and-enhanced-access/"><u>Tackling Steam's Privilege Problems: A Definitive Fix for Missing Files and Enhanced Access</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-record-like-a-pro-10-best-webcam-software-for-windows-10/"><u>Updated 2024 Approved Record Like a Pro 10 Best Webcam Software for Windows 10</u></a></li>
+</ul></div>
 

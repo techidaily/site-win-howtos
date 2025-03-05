@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair: Resolving Issues with Internet Explorer Malfunctions"
-date: 2024-08-19T07:45:35.062Z
-updated: 2024-08-20T07:45:35.062Z
+date: 2025-03-04T19:06:15.589Z
+updated: 2025-03-05T19:15:43.221Z
 tags:
   - win11
   - win10
@@ -67,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 3: Disable the screen saver
 
  The screen saver is the utility built in Windows. It will be activated after a certain period of Windows inactivity. If the screen saver is set to blank, and the wait time is 5 minutes, it’ll look like your screen has turned off or gone to sleep mode. So you can disable the screen saver and see if the problem persists.
@@ -82,14 +79,8 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 2. Type**lock screen settings** in the search bar and select**Lock screen settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -99,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
@@ -121,24 +109,15 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Exit the Registry Editor.
 
 **Secondly, reset the System unattended sleep timeout period.**
@@ -168,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +154,22 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-corporate-crown-best-cloud-keepers/"><u>[New] 2024 Approved Corporate Crown Best Cloud Keepers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-8-best-multiple-video-call-and-chat-tools-for-conference-and-friends-for-2024/"><u>[New] 8 Best Multiple Video Call & Chat Tools for Conference and Friends for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-maximum-video-sizes-in-instagram-upload/"><u>[New] Unlocking Maximum Video Sizes in Instagram Upload</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ideal-no-cost-screen-grabber-toolset/"><u>[Updated] 2024 Approved Ideal No-Cost Screen Grabber Toolset</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-speech-to-text-magic-free-edition/"><u>[Updated] In 2024, Speech-to-Text Magic Free Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-step-by-step-guide-to-music-insertion-in-youtube-editing-tools/"><u>[Updated] In 2024, Step-by-Step Guide to Music Insertion in YouTube Editing Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-windows-10-advanced-screen-recorder-software/"><u>[Updated] Windows 10 Advanced Screen Recorder Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/chortlechamber-personalize-everyday-humor-online-for-2024/"><u>ChortleChamber Personalize Everyday Humor Online for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-for-windows-11s-tricky-0x80072efd-problem/"><u>Comprehensive Solutions for Windows 11'S Tricky 0X80072EFD Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-persistent-crashes-in-nier-automata-for-pc-expert-advice-and-solutions/"><u>Dealing with Persistent Crashes in Nier Automata for PC - Expert Advice and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-your-pcs-sudden-shutdown-issue-a-step-by-step-guide/"><u>Resolving Your PC's Sudden Shutdown Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-unfreezing-your-mouse-on-a-computer/"><u>Solving the Issue: Unfreezing Your Mouse on a Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcome-windows-11-update-error-code-0x80240034-easily/"><u>Troubleshooting Guide: Overcome Windows 11 Update Error Code 0X80240034 Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-windows-update-database-glitch-solutions-for-windows-10-users/"><u>Troubleshooting the Windows Update Database Glitch – Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-you-encounter-a-missing-component-error-message/"><u>What to Do When You Encounter a Missing Component Error Message</u></a></li>
+</ul></div>
 

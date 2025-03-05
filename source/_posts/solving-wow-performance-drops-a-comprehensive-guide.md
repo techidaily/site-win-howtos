@@ -1,7 +1,7 @@
 ---
 title: "Solving 'WoW' Performance Drops: A Comprehensive Guide"
-date: 2025-02-11T23:28:40.930Z
-updated: 2025-02-17T01:08:26.192Z
+date: 2025-02-26T18:54:44.661Z
+updated: 2025-03-05T19:10:18.649Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/5cbe5314b93a999758b5a00e2527a722031ccfee9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **What is PS4 NAT type?**
 
@@ -85,10 +81,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b35211b0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Note down the**IP address** , the**default gateway** , the**subnet** **mask** and the**DNS server** .
 
  5) Go to PS4**Settings** \>**Network** \>**Set Up Internet Connection** .
@@ -103,10 +95,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) Select**Do Not Use** as for**Proxy Server** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c2978106.jpg)
@@ -115,17 +103,9 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c550a4cb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) You’ll see your PS4 Internet connection and know the**NAT Type** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 2: Enable UPnP for your router**
 
@@ -138,10 +118,6 @@ ipconfig/all
  1) Go and see the**IP address** ,**Username** and**Password** on your wireless router (you will see that on the stick of your router, or find the information on the manual).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ca181e7d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Open your**browser** on PC or mobile phone, then type the**IP address** in your browser, and press**Enter** .
 
@@ -179,10 +155,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Go to**Advanced** \>**Forwarding** , and you’ll see**DMZ** on the left. (Or you can find the DMZ section in other tab according to the different routers.)
 
  5) Click**Enable** to**enable DMZ** .
@@ -193,10 +165,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e65a013a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) If you are using routers that has the**NAT Filtering** option, such as NETGEAR router, you can also click to**open NAT filtering** . (You can skip to the next step if you don’t have this option.)
 
  8) Click**Apply/Save** to save your settings.
@@ -206,10 +174,6 @@ ipconfig/all
  10) Go to PS4**Settings** \>**Network** \>**Test Internet Connection** , and check if your**NAT Type** is on (you’ll see the Type 1 or Type 2 if it works).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This may get all the network traffic to your PS4 and reduce the network restrictions when using your PS4.
 
@@ -222,10 +186,6 @@ ipconfig/all
  1) Go and see the**IP address** ,**Username** and**Password** on your wireless router.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ca181e7d.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Open your**browser** on PC or mobile phone, then type the**IP address** in your browser, and press**Enter** .
 
@@ -267,21 +227,24 @@ ipconfig/all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-whatsapp-key-tricks-and-invisible-functions/"><u>[New] Mastering WhatsApp Key Tricks & Invisible Functions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-achieve-viewer-engagement-and-brand-growth-heres-how-to-do-it-on-youtube/"><u>[Updated] Achieve Viewer Engagement and Brand Growth – Here's How to Do It on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-digital-arcade-over-a-hundred-game-channels/"><u>[Updated] Digital Arcade Over a Hundred Game Channels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-social-media-giants-to-skyrocket-your-marketing-game/"><u>2024 Approved Leveraging Social Media Giants to Skyrocket Your Marketing Game</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-blues-with-these-8-strategies-for-correcting-windows-10-update-error-code-0x800f0922/"><u>Beat the Blues with These 8 Strategies for Correcting Windows 10 Update Error Code 0X800F0922</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-windows-error-0xc0000098-heres-how-you-can-fix-it/"><u>Dealing with Windows Error 0Xc0000098? Here's How You Can Fix It</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-design-skills-mastering-3d-text-effects/"><u>Elevate Your Design Skills Mastering 3D Text Effects</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-ultimate-collection-of-msi-sound-card-drivers-for-windows/"><u>Free Download: Ultimate Collection of MSi Sound Card Drivers for Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-facebook-video-players-list/"><u>In 2024, The Ultimate Facebook Video Players List</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-s24-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy S24 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-store-opening-troubleshooting-successful-fixes-revealed/"><u>Microsoft Store Opening Troubleshooting: Successful Fixes Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207629009-resolving-audio-glitches-speaker-issues-on-windows-operating-systems-solved/"><u>Resolving Audio Glitches: Speaker Issues on Windows Operating Systems Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-limited-memory-issues-fixing-command-cannot-be-processed-due-to-inadequate-storage/"><u>Solve Limited Memory Issues: Fixing 'Command Cannot Be Processed Due to Inadequate Storage'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correct-the-darkness-defeating-windows-11-black-screen-glitches/"><u>Step-by-Step Solutions to Correct the Darkness: Defeating Windows 11 Black Screen Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-deal-with-excessive-energy-on-a-hub-connection/"><u>Troubleshooting Guide: How to Deal with Excessive Energy on a Hub Connection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-fresh-film-views-ranked-alternatives-1-7/"><u>[Updated] 2024 Approved Fresh Film Views Ranked Alternatives #1-7</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-key-to-viral-posts-on-instagram-unveiled/"><u>[Updated] The Key to Viral Posts on Instagram Unveiled</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-tips-to-improve-your-gopros-power-sustainability/"><u>[Updated] Tips to Improve Your GoPro's Power Sustainability</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-win11-sessions-with-advanced-zoom-skills/"><u>2024 Approved Transform Your Win11 Sessions with Advanced Zoom Skills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wmv-mp45/"><u>無料WMV-MP4変換技術トップ5ヒント</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/anatomie-introductive-les-differentes-parties-corporelles-en-francais/"><u>Anatomie Introductive: Les Différentes Parties Corporelles en Français</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-cpu-hogger-dealing-with-msmpengexe-overload-in-your-windows-10-device-expert-tips-and-tricks/"><u>Beat the CPU Hogger: Dealing with MsMpEng.exe Overload in Your Windows 10 Device – Expert Tips & Tricks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-ways-to-confirm-whether-you-are-being-monitored-by-apples-airtag-technology/"><u>Discover Ways to Confirm Whether You Are Being Monitored by Apple's AirTag Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-error-message-0x800f0831-during-windows-updates/"><u>Effortless Fix for Error Message 0X800f0831 During Windows Updates</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-breakdown-of-payment-percentages-in-short-video-royalties/"><u>In 2024, The Breakdown of Payment Percentages in Short Video Royalties</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-electronics-tips-and-tricks-from-tomwartzs-hardware-reviews/"><u>Master Your Electronics: Tips and Tricks From Tom'wartz's Hardware Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-privileges-fixing-and-preventing-missing-steam-file-problems/"><u>Mastering Privileges: Fixing and Preventing Missing Steam File Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-apple-watch-series-10-now-save-big-with-a-limited-time-offer-at-best-buy-learn-more-inside/"><u>Secure Your Apple Watch Series 10 Now: Save Big with a Limited-Time Offer at Best Buy – Learn More Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-psp-video-transcoder-apps-perfect-companion-for-reviving-your-vintage-psp/"><u>Top-Rated PSP Video Transcoder Apps: Perfect Companion for Reviving Your Vintage PSP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-recording-your-pc-gaming-sessions-with-unlimited-options/"><u>Ultimate Guide to Recording Your PC Gaming Sessions with Unlimited Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vudu-disc-upload-transforming-physical-media-into-digital-movie-collections/"><u>Vudu Disc Upload: Transforming Physical Media Into Digital Movie Collections</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-honor-100-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor 100 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-media-converter-mp4-to-mp3-transformation/"><u>Windows 10 Media Converter - MP4 to MP3 Transformation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wonderfox-your-premier-destination-for-engaging-and-informative-soft-news/"><u>WonderFox: Your Premier Destination for Engaging and Informative Soft News</u></a></li>
 </ul></div>
 

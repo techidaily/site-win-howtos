@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Malfunctioning Keyboard Typing Issue"
-date: 2024-08-19T07:47:40.562Z
-updated: 2024-08-20T07:47:40.562Z
+date: 2025-03-01T17:13:08.991Z
+updated: 2025-03-05T17:09:52.591Z
 tags:
   - win11
   - win10
@@ -53,9 +53,6 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Change Blizzard Settings
 
  Change the Blizzard’s download settings may help you increase the download speed.
@@ -63,14 +60,8 @@ Reinstall the Battle.net can may help you solve the issue.
 1. Click on the Blizzard logo on the upper right side. Then select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/d1.jpg)
 2. Select the**Game Installs/Update** . Scroll down to find the Network Bandwidth.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Change the Max Download rate by setting the Latest Updates and Future Patch updates to 0 to get the max download rate. Then Press**Done** to apply the settings.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d12.jpg)
 4. Download Destiny 2 to see whether it can help.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -81,18 +72,9 @@ Reinstall the Battle.net can may help you solve the issue.
 1. Exit Blizzard.
 2. Right-click on the Blizzard icon and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/b1.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Method 5: Check your antivirus software
 
  Sometimes your antivirus software may be the reason for the Destiny 2 stuck on initializing. So disable your antivirus software and try downloading again to check if the issue persists.
@@ -118,9 +100,6 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus: Update your drivers
 
  To have**a better gaming experience** , updating your drivers always a good option. The outdated or wrong drivers for your graphics card, network card, sound card, etc. may cause problems.
@@ -161,8 +140,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +147,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-improving-user-experience-vimeo-video-subtitles/"><u>[New] 2024 Approved Improving User Experience Vimeo Video Subtitles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-innovative-immersion-a-guide-to-the-leaders-for-2024/"><u>[New] Innovative Immersion A Guide to the Leaders for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aunchpad-essentials-your-first-steps-in-streaming-for-2024/"><u>[New] Launchpad Essentials Your First Steps in Streaming for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-from-live-to-digital-preserving-your-skype-talks/"><u>[Updated] In 2024, From Live to Digital Preserving Your Skype Talks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-recordingcritique-assessment/"><u>2024 Approved RecordingCritique Assessment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-intrigue-initiates-the-leading-10-rogues/"><u>In 2024, Intrigue Initiates The Leading 10 Rogues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-yearly-list-prime-free-video-editing-software/"><u>In 2024, Your Yearly List Prime Free Video Editing Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instant-remedy-steps-to-fix-detected-no-power-source-error/"><u>Instant Remedy Steps to Fix 'Detected No Power Source' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-system-deficit-msvcr71/"><u>Overcoming System Deficit - MSVCR71</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-issues-with-your-hp-laptops-camera-in-windows-10-a-step-by-step-guide/"><u>Solving Issues with Your HP Laptop's Camera in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001697353-stop-guilty-gear-strive-from-crashing-on-your-pc-essential-fixes-revealed/"><u>Stop Guilty Gear Strive From Crashing on Your PC - Essential Fixes Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-svchostexes-excessive-cpu-consumption-on-your-windows-11-pc/"><u>Troubleshoot Svchost.exe's Excessive CPU Consumption on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-display-problems-get-your-screen-saver-working/"><u>Windows 11 Display Problems? Get Your Screen Saver Working</u></a></li>
+</ul></div>
 

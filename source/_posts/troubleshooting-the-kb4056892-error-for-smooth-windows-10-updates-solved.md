@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the KB4056892 Error for Smooth Windows 10 Updates - Solved
-date: 2025-02-12T17:33:23.034Z
-updated: 2025-02-17T00:06:14.628Z
+date: 2025-03-01T16:24:57.499Z
+updated: 2025-03-05T16:13:58.042Z
 tags:
   - win11
   - win10
@@ -43,16 +43,8 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap788.png)
 2. In the pop-up window, select **Windows Update**   and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes**   to run Windows Update troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap789.png)
 3. Click **Apply this fix**   to continue.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap790.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
@@ -67,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap791.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap792.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
 
@@ -78,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap794.png)
 4. Delete all the files in the folder **DataStore**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap795.png)  
  When all the files are deleted, you shall see “This folder is empty”.
@@ -101,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  Check Windows Update again to see whether you can install the update. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 3: Setting the TrustedInstaller service to auto start**
 
  This issue may occur if you didn’t set the trustedInstaller service to auto start. So try setting the TrustedInstaller service to auto start before you install the update KB4056892\. Here is how to do it:
@@ -117,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap800.png)
 3. Close Command Prompt and restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Perform Windows Update again after your restart your PC. See if you can install the update KB4056892\. If you can install it, congratulations! You’ve fixed this issue.
 
 ### **Fix 4: Running System File Checker**
@@ -131,25 +107,13 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)
 2. In Command Prompt, type the following command and press **Enter**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **sfc /scannow**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap801.png)  
  It may take some time for the command operation to be completed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. When this command operation is completed, close Command Prompt.
 
 Run Windows Update  again to check whether this fix works or not. If you still fail to install the update KB4056892 for your Windows system, try downloading it from Microsoft Update Catalog manually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 5: Downloading the update KB4056892 from Microsoft Update Catalog manually**
 
@@ -205,22 +169,22 @@ See if you can install the update. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-evolving-realities-the-modern-vr-sphere/"><u>[New] 2024 Approved Evolving Realities The Modern VR Sphere</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-insiders-look-at-streaming-content-on-social-media-platforms/"><u>[New] Insider's Look at Streaming Content on Social Media Platforms</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-creations-get-free-high-quality-templates-today/"><u>2024 Approved Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-gratuite-dape-en-ligne-avec-movavi-guide-ultime/"><u>Conversion Gratuite D'APE en Ligne Avec Movavi - Guide Ultime</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeating-the-notorious-0x80070490-error-in-windows-updates-with-ease/"><u>Defeating the Notorious 0X80070490 Error in Windows Updates with Ease</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/enhance-photos-add-dynamic-shake-with-ps/"><u>Enhance Photos Add Dynamic Shake with PS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-back-on-track-troubleshooting-my-minecraft-servers-lan-issues/"><u>Getting Back on Track: Troubleshooting My Minecraft Server’s LAN Issues</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-14-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 14 Smoothly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-v30-lite-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo V30 Lite 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-out-loud-essential-comedy-channels-for-endless-fun/"><u>Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-reactivate-intrinsic-local-security-functionality/"><u>Resolved: Reactivate Intrinsic Local Security Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-unable-to-create-directx-3d-device-error-a-comprehensive-fix-guide/"><u>Resolving the 'Unable to Create DirectX 3D Device' Error - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-windows-11-touchpad-that-wont-scroll-detailed-guide/"><u>Solution for Windows 11 Touchpad that Won't Scroll – Detailed Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-restarting-file-explorer-when-it-freezes-in-windows-10/"><u>Step-by-Step Solution for Restarting File Explorer When It Freezes in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-the-non-functional-audio-issue-in-windows-7/"><u>Troubleshooting Tips: Fixing the Non-Functional Audio Issue in Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-remedies-overcoming-the-chrome-screen-turned-pitch-black/"><u>Unveiling Remedies: Overcoming the Chrome Screen Turned Pitch Black</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/g-is-the-acceleration-due-to-gravity-approximately-981-ms2/"><u> (G ) Is the Acceleration Due to Gravity (Approximately 9.81 M/S (^2 ))</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-avoiding-malware-while-securing-free-and-safe-vlc-download-on-macos/"><u>[New] Avoiding Malware While Securing Free & Safe VLC Download on macOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-cutting-edge-creativity-filmoras-favorite-features-explored/"><u>[Updated] In 2024, Cutting Edge Creativity Filmora's Favorite Features Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting/"><u>2024 Approved The Ultimate Showdown of Projectors & TVs in a 4K Setting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webmmp3/"><u>無縫的 WEBM到MP3適配 - 動感維予電影格式變更器</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/win-10efi/"><u>修复Win 10引导问题：EFI磁盘部分的即时教程 - 一次学完全</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/analisis-detallado-y-recomendaciones-para-el-screenrec-de-202n4-por-parte-de-los-expertos-de-movavi/"><u>Análisis Detallado Y Recomendaciones Para El ScreenRec De 202N4 Por Parte De Los Expertos De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertidor-de-ffm-a-formato-wav-sin-coste-haga-clic-para-probarlo-hoy/"><u>Convertidor De FFM a Formato WAV Sin Coste - Haga Clic Para Probarlo Hoy</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-xs-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone XS?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-dng-jpeg/"><u>Movavi의 DNG파일에서 원금이 아닌 JPEG 변환 소스: 웹을 통해 무비용으로</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-bild-verarbeitung-and-konvertierung-kostenlose-losungen-von-movavi-definiert/"><u>Online Bild Verarbeitung & Konvertierung: Kostenlose Lösungen Von Movavi Definiert</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-curious-case-of-instavideos-turned-sideways-for-2024/"><u>The Curious Case of InstaVideos Turned Sideways for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-avi-in-formato-flv-gratuitamente-con-il-servizio-online-di-convertitore-movavi/"><u>Trasforma I Tuoi File AVI in Formato FLV Gratuitamente Con Il Servizio Online Di Convertitore Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-pedal-assist-get-intimate-with-the-latest-cycwagen-cargo-e-bike/"><u>Unveiling the Power of Pedal Assist: Get Intimate with the Latest CycWagen Cargo E-Bike</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/verdingvrije-muziekconvertor-mod-naar-mp3-met-movavi-online-gratis-en-gemakkelijk-te-gebruiken/"><u>Verdingvrije Muziekconvertor MOD Naar MP3 Met Movavi - Online Gratis en Gemakkelijk Te Gebruiken</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-v30-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo V30 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

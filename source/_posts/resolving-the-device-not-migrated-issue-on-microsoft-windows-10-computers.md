@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Device Not Migrated' Issue on Microsoft Windows 10 Computers
-date: 2025-02-16T00:18:39.335Z
-updated: 2025-02-16T20:44:06.328Z
+date: 2025-02-27T20:18:00.055Z
+updated: 2025-03-05T16:12:22.091Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Check-Microsoft-Print-to-PDF.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now your print to PDF should work properly.
 
 ---
@@ -66,10 +58,6 @@ Now your print to PDF should work properly.
 ### Solution 2: Enable there are no comma in the file name you enter
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the file name of PDF you want to save contain commas, the file would be created with 0 bytes and you cannot find it at saving folder. As a result, it seems your Microsoft Print to PDF not working. In such case, please avoid use comma or any other specific notations in the file name.
   
@@ -106,10 +94,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Find**Microsoft Print to PDF** and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
@@ -137,10 +121,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on the blank area on Devices and Printers window to choose **Add devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-3.jpg)
@@ -152,10 +132,6 @@ Now your print to PDF should work properly.
  6) Tick on **Add a local printer or network printer with manual settings** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Choose**PORTPROMPT: (Local Port)** from the drop-down list under Use an existing port. Then click **Next** .
 
@@ -169,10 +145,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/15.jpg)
@@ -185,10 +157,6 @@ Now your print to PDF should work properly.
  1) On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box. Type **control panel**  and hit Enter.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
@@ -210,17 +178,9 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Add-a-device-1200x774.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click**Add manually** next to The printer that I want isn’t listed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-The-printer-that-I-want-isnt-listed-1200x743.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Tick**Add a local printer or network printer with manual settings** , then click**Next** .
 
@@ -257,22 +217,21 @@ Now your print to PDF should work properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-mlb-the-show-21-server-issue/"><u>[Fixed] MLB The Show 21 Server Issue</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-encrypting-lives-techniques-to-mask-personal-information/"><u>[Updated] 2024 Approved Encrypting Lives Techniques to Mask Personal Information</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-humorhatchery-app/"><u>[Updated] 2024 Approved HumorHatchery App</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-dissecting-splitcams-superiority-as-a-recorder-for-2024/"><u>[Updated] Dissecting SplitCam’s Superiority as a Recorder for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-depth-look-at-engaging-with-youtube-comment-threads-for-2024/"><u>[Updated] In-Depth Look at Engaging with YouTube Comment Threads for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-transform-your-videos-with-magix-video-pro-x/"><u>[Updated] Transform Your Videos with Magix Video Pro X</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-r9-360-graphics-driver-download-and-update-on-windows-10/"><u>AMD Radeon R9 360 Graphics Driver Download & Update on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-the-frequent-disconnection-problem-in-your-personal-computer-mouse/"><u>Diagnosing and Correcting the Frequent Disconnection Problem in Your Personal Computer Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-successfully-setting-up-your-smartaudio-device-after-initial-hiccups/"><u>Guide: Successfully Setting Up Your SmartAudio Device After Initial Hiccups</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/navigating-through-crisis-mastering-the-steps-to-tackle-vcenters-emergency-status/"><u>Navigating Through Crisis: Mastering the Steps to Tackle vCenter's Emergency Status</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reducing-disk-overuse-from-ntoskrnlexe-on-systems/"><u>Reducing Disk Overuse From Ntoskrnl.exe on Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-couldnt-perform-action-for-windows-resources-issue-easily/"><u>Resolve 'Couldn't Perform Action for Windows Resources' Issue Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-audio-output-device-not-found-errors-for-windows-users/"><u>Step-by-Step Guide: Correcting 'Audio Output Device Not Found' Errors for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fix-windows-11-display-brightness-issues/"><u>Troubleshooting: Fix Windows 11 Display Brightness Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-windows-drive-letter-not-found-errors/"><u>Understanding & Fixing Windows Drive Letter Not Found Errors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/web-gems-aesthetic-laptop-backdrops-online/"><u>Web Gems Aesthetic Laptop Backdrops Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206126371-why-is-my-windows-10-taking-long-to-shut-down-solutions-inside/"><u>Why Is My Windows 10 Taking Long to Shut Down? Solutions Inside</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-should-itop-top-your-list-for-screen-recorders/"><u>[Updated] 2024 Approved Should ITop Top Your List for Screen Recorders?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtubes-algorithm-title-and-tag-optimization/"><u>[Updated] 2024 Approved Unlocking YouTube's Algorithm Title & Tag Optimization</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-choice-top-5-pro-fish-action-cameras/"><u>2024 Approved Ultimate Choice Top 5 Pro-Fish Action Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-aesthetics-with-customized-canva-video-music/"><u>Amplify Aesthetics with Customized Canva Video Music</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x802a1ee9-errconnectionrefused-easy-image-based-solutions-to-get-you-connected-again/"><u>Error 0X802A1EE9 (ERR_CONNECTION_REFUSED): Easy Image-Based Solutions to Get You Connected Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-fix-video-not-working-on-zoom-top-5-tips/"><u>How to Successfully Fix Video Not Working on Zoom - Top 5 Tips!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-troubleshooting-fixing-error-0x8024401c-in-windows-update-for-users-of-windows-1011/"><u>In-Depth Troubleshooting: Fixing Error 0X8024401c in Windows Update for Users of Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209048194-no-sign-of-sd-cards-lets-mend-that/"><u>No Sign of SD Cards? Let’s Mend That!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-resetting-failed-mishaps-in-windows-10-recovery-options-solutions-that-work/"><u>Overcoming Resetting Failed Mishaps in Windows 10 Recovery Options: Solutions That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resolving-issues-with-pvpnets-stalled-kernel-update/"><u>Quick Fix Guide: Resolving Issues with PvP.net's Stalled Kernel Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rectified-mouse-constantly-performing-double-click-actions/"><u>Rectified: Mouse Constantly Performing Double Click Actions</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-poco-c65-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Poco C65</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-v27-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo V27 Phone Pattern Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-strategies-for-overcoming-the-0xc0000098-code-on-pc/"><u>Ultimate Troubleshooting Strategies for Overcoming the 0xC0000098 Code on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-every-game-on-epics-digital-shelves/"><u>Unlocking Every Game on Epic’s Digital Shelves</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-windows-to-use-intels-me/"><u>Upgrade Windows to Use Intel's ME</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Gain Authorization From TrustedInstaller for Changing Protected Files
-date: 2024-08-19T07:48:46.081Z
-updated: 2024-08-20T07:48:46.081Z
+date: 2025-02-26T18:19:31.513Z
+updated: 2025-03-05T17:12:31.097Z
 tags:
   - win11
   - win10
@@ -45,33 +45,20 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 8. Close the Windows Media Player window.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -88,14 +75,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -110,8 +91,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +98,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-acclaim-the-easy-guide-for-followers/"><u>[New] Instagram Acclaim The Easy Guide for Followers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-avoiding-escalation-stealthy-yet-effective-techniques-to-address-grievances-on-discord/"><u>[Updated] 2024 Approved Avoiding Escalation Stealthy Yet Effective Techniques to Address Grievances on Discord</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-demystifying-screen-recording-insights-from-showmore-experts/"><u>[Updated] 2024 Approved Demystifying Screen Recording Insights From ShowMore Experts</u></a></li>
+<li><a href="https://win-info.techidaily.com/convert-your-pdfs-effortlessly-to-doc-format-with-yls-free-online-tool-discover-how/"><u>Convert Your PDFs Effortlessly to DOC Format with YL's Free Online Tool - Discover How</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210889467-dealing-with-unsuccessful-rpcs-learn-how-to-correct-them-here/"><u>Dealing With Unsuccessful RPCs? Learn How To Correct Them Here!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-metaverse-memetic-wisdom-for-a-laughter-filled-time/"><u>In 2024, Metaverse Memetic Wisdom for a Laughter-Filled Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-error-code-5-in-minecraft-tips-for-a-smooth-gaming-experience/"><u>Overcoming Error Code 5 in Minecraft: Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photography-pro-key-positions-and-perspectives-on-your-iphone-for-2024/"><u>Photography Pro Key Positions and Perspectives on Your iPhone for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-0x802n200d-windows-update-issue-a-comprehensive-guide/"><u>Resolving the 0X802n200D Windows Update Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-inoperative-usb-connectors-in-hp-notebook-computers/"><u>Solving the Problem of Inoperative USB Connectors in HP Notebook Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-changing-your-fb-passcode/"><u>Step-by-Step Guide: Changing Your FB Passcode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-casting-issues-to-devices-in-windows-11-solutions-and-tips/"><u>Troubleshooting Casting Issues to Devices in Windows 11: Solutions and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-a-stuck-keyboard-at-login-window/"><u>Troubleshooting Tips: Reactivating a Stuck Keyboard at Login Window</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-and-pc-compatibility-reconciled/"><u>Xbox One Controller & PC Compatibility Reconciled</u></a></li>
+</ul></div>
 

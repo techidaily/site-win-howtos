@@ -1,7 +1,7 @@
 ---
 title: "Remedies for a Broken '@' Key: A Comprehensive Fix Guide"
-date: 2025-02-15T22:41:46.789Z
-updated: 2025-02-16T16:21:20.517Z
+date: 2025-03-02T16:21:48.680Z
+updated: 2025-03-05T17:14:04.800Z
 tags:
   - win11
   - win10
@@ -83,17 +83,9 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
@@ -112,31 +104,15 @@ To do so:
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
@@ -151,14 +127,6 @@ To do so:
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 16. Click**OK** and then click**Restart** .  
@@ -189,14 +157,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-leveraging-fb-instream-ad-techniques-to-boost-engagement-for-2024/"><u>[New] Leveraging FB Instream Ad Techniques to Boost Engagement for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>[Updated] In 2024, Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/conversion-gratuite-de-fichiers-dng-a-jpeg-avec-movavi-un-guide-complet/"><u>Conversion Gratuite De Fichiers DNG À JPEG Avec Movavi: Un Guide Complet</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/access-best-free-youtube-subtitle-extractors-for-2024/"><u>Easy Access Best Free YouTube Subtitle Extractors for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-functionality-of-your-laptops-built-in-camera-on-lenovo/"><u>Expert Tips to Restore Functionality of Your Laptop's Built-In Camera on Lenovo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-unavailable-desktop-problem-on-your-windows-profile-directory/"><u>How to Solve the Unavailable Desktop Problem on Your Windows Profile Directory</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-windows-10-sound-volume-issues/"><u>Troubleshooting Guide: Fixing Windows 10 Sound Volume Issues</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-best-free-online-transcribers-convert-your-audio-files-with-ease-for-2024/"><u>Updated Best Free Online Transcribers Convert Your Audio Files with Ease for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-pc-spontaneous-reboot-incident/"><u>Windows PC: Spontaneous Reboot Incident</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-experts-choice-aspertronics-for-phones/"><u>[New] 2024 Approved Expert's Choice Aspertronics For Phones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-schedule-meetings-on-zoom-in-2024/"><u>[New] How to Schedule Meetings on Zoom, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tips-and-tricks-for-locating-recent-videos-youve-liked/"><u>[New] In 2024, Tips & Tricks for Locating Recent Videos You've Liked</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-snip-pro-the-essential-guide-to-win-os-for-2024/"><u>[New] Screen Snip Pro The Essential Guide to Win OS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-whats-the-price-tag-for-1m-youtube-sights/"><u>[Updated] In 2024, What's the Price Tag for 1M YouTube Sights?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024mp3-mkv/"><u>2024年に最適な無料MP3変換アプリ: MKVファイル用のベストセレクション</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/adobe-premiere-promovmp4/"><u>Adobe Premiere Proを使用したMOVファイルからMP4への変換ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/associated-hyperlinks-uncover-related-content-connections/"><u>Associated Hyperlinks: Uncover Related Content Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avchd-mp4windows-1011/"><u>AVCHDへの変換: MP4ファイルをWindows 10/11環境下でオンラインツールと無料ソフトウェアを使用してどうやったらいいか</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/buy-the-ultimate-document-management-system-wonderfox/"><u>Buy the Ultimate Document Management System: WonderFox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-calcium-ion-caplus-and-potassium-ion-kplus/"><u>Comparing Calcium Ion (Ca+) and Potassium Ion (K+):</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-walkthrough-for-installing-the-kodi-magic-content-extension-by-no-limits-quick-and-easy-steps-inside/"><u>Comprehensive Walkthrough for Installing the Kodi Magic Content Extension by No Limits - Quick & Easy Steps Inside!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-periscope-stream-mastery-for-2024/"><u>From Novice to Pro Periscope Stream Mastery for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/personalize-save-location-for-captured-mac-screen-for-2024/"><u>Personalize Save Location for Captured Mac Screen for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210662638-9781633412941-the-evil-eye/"><u>The Evil Eye | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469610161-understanding-your-iphone-screen-freeze-explore-these-7-key-factors/"><u>Understanding Your iPhone Screen Freeze: Explore These 7 Key Factors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44oe44or44ob44oh44oh44kj44ki44ov44kh44kk44or44gl44kj44gu44k144ow44k44kk44oi44or5oqc44gn5yplusw44kk5pa55rov/"><u>マルチメディアファイルからのサブタイトル抜き取り方法</u></a></li>
 </ul></div>
 

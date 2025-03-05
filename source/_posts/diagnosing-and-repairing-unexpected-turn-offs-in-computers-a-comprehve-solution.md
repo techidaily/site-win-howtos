@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Unexpected Turn-Offs in Computers: A Comprehve Solution"
-date: 2025-02-16T01:01:11.117Z
-updated: 2025-02-17T00:50:44.001Z
+date: 2025-03-02T19:55:11.370Z
+updated: 2025-03-05T17:15:13.197Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Update the drivers on your computer
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-813.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -103,10 +95,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
@@ -129,10 +117,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 6: Check the fan
 
  The fan is one of the key components that makes computer to run properly. If it doesn’t work, the computer can overheat easily. Computer overheating can cause serious problems. So the system will try to prevent computer overheating. If the fan doesn’t work, the computer can shut down automatically to prevent the internal heating damaging the computer.
@@ -142,10 +126,6 @@ For example, many Dell PCs show this key like below at the first screen:
  If you find the fan stop working, take your computer to the repair store to have a further check. You may need to replace the fan with a new one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 7: Clean dust
 
@@ -158,10 +138,6 @@ For example, many Dell PCs show this key like below at the first screen:
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 
@@ -182,19 +158,18 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-maximizing-your-channels-earnings-a-guide-to-creating-impactful-trailers/"><u>[New] In 2024, Maximizing Your Channel's Earnings A Guide to Creating Impactful Trailers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-advanced-techniques-for-gradual-volume-change/"><u>2024 Approved Advanced Techniques for Gradual Volume Change</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-apex-developers-in-the-realm-of-virtual-reality/"><u>2024 Approved Apex Developers in the Realm of Virtual Reality</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/elite-sleep-solution-an-expert-overview-of-the-philips-somneos-superiority-in-alarm-technology/"><u>Elite Sleep Solution - An Expert Overview of the Philips Somneo's Superiority in Alarm Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-your-hands-on-the-ultimate-bargain-for-an-apple-watch-series-9-exclusive-lowest-price-deals-still-alive-beyond-prime-day-dont-miss-out/"><u>Get Your Hands on the Ultimate Bargain for an Apple Watch Series 9: Exclusive Lowest Price Deals Still Alive Beyond Prime Day - Don't Miss Out!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-usb-port-power-surges-and-error-messages-on-a-windows-n-operating-system/"><u>How to Fix USB Port Power Surges and Error Messages on a Windows N Operating System</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-4g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y27 4G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-start-a-private-live-stream-on-youtube/"><u>New How To Start a Private Live Stream on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pam-pulse-amplitude-modulation/"><u>PAM (Pulse Amplitude Modulation)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715701053143-premier-12-video-capture-goes-on-forever/"><u>Premier 12 Video Capture - Goes On Forever!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-restore-hidden-networks-on-windows-11/"><u>Solved: How to Restore Hidden Networks on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-lenovo-mouse-pad-issues-fixes-for-windows-11-8-and-7/"><u>Solving Lenovo Mouse Pad Issues: Fixes for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/ultimate-solution-to-your-pnp-detected-critical-fatal-error-on-windows-10-pc/"><u>Ultimate Solution to Your 'PNP Detected' Critical Fatal Error on Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/uninstall-and-reinstall-drivers/"><u>Uninstall and Reinstall Drivers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-in-depth-examination-androids-photography-solution-lightroom/"><u>[New] 2024 Approved In-Depth Examination Android's Photography Solution, Lightroom</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-sony-ps-players-voice-modification-techniques/"><u>[New] 2024 Approved Sony PS Players' Voice Modification Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boosting-your-channel-strategies-for-skyrocketing-view-counts-for-2024/"><u>[New] Boosting Your Channel Strategies for Skyrocketing View Counts for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-practical-approach-to-installing-obs-on-apple-systems/"><u>[New] In 2024, A Practical Approach to Installing OBS on Apple Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203181297-resolved-unmasking-the-hidden-culprit-of-high-cpu-consumption-the-role-of-shell-infrastructures/"><u>[Resolved] Unmasking the Hidden Culprit of High CPU Consumption: The Role Of Shell Infrastructures</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-identify-10-shadowy-instagram-story-observers/"><u>[Updated] Identify 10 Shadowy Instagram Story Observers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-zero-dollar-valorant-sound-manipulator-alert/"><u>[Updated] Optimal Zero Dollar Valorant Sound Manipulator Alert</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-game-crashes-how-to-correctly-handle-missing-d3dxtoolkit-files/"><u>Avoid Game Crashes: How To Correctly Handle Missing D3dxtoolkit Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fix-when-your-sc2-graphics-device-is-not-accessible-anymore/"><u>Guide to Fix When Your SC2 Graphics Device Is Not Accessible Anymore</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-correcting-insufficient-memory-or-cpu-causes-on-your-device/"><u>Guide: Correcting Insufficient Memory or CPU Causes on Your Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-insider-guide-to-making-and-perfecting-haul-vlogs/"><u>In 2024, The Insider Guide to Making and Perfecting Haul Vlogs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-14-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi 14 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-update-problems-for-smooth-operations/"><u>Troubleshoot Windows Update Problems for Smooth Operations</u></a></li>
 </ul></div>
 

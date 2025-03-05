@@ -1,7 +1,7 @@
 ---
 title: In-Depth Solution for the Persistent Update Error (0X80240034) on Windows 11 Systems
-date: 2025-02-15T16:28:32.537Z
-updated: 2025-02-16T20:10:42.319Z
+date: 2025-03-02T20:30:08.861Z
+updated: 2025-03-05T16:37:51.032Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
@@ -62,19 +58,11 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -86,10 +74,6 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -99,10 +83,6 @@ Now try to install Windows Updates now.
  Then type **ncpa.cpl**  in it and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Now Internet Connection window is open.
 
@@ -121,10 +101,6 @@ Double-click on your active Network Adapter.
  **Note:** That’s Google’s public DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -164,10 +140,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
@@ -195,24 +167,18 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/right-ideas-effective-lighting-in-vlogging-for-2024/"><u>[New] Bright Ideas Effective Lighting in Vlogging for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ncrease-your-online-presence-youtube-methods/"><u>[New] Increase Your Online Presence YouTube Methods</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-rich-resource-repository-prime-sites-for-free-high-quality-vector-art-for-2024/"><u>[New] Rich Resource Repository Prime Sites for Free High-Quality Vector Art for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-signal-id-video-overview-width-x-height-encoding-minutes/"><u>[Updated] Signal ID Video Overview Width X Height, Encoding, Minutes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-rotated-video-conundrum-in-instagrams-feed/"><u>[Updated] The Rotated Video Conundrum in Instagram's Feed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/discover-the-lesser-known-page-picks-for-memelings/"><u>Discover the Lesser-Known Page Picks for Memelings</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211455291-9798330398102-hacking-the-universe/"><u>Hacking the Universe | Free Book</u></a></li>
-<li><a href="https://solve-info.techidaily.com/how-to-fix-sound-card-problems-expert-advice-by-yl-software-professionals/"><u>How to Fix Sound Card Problems: Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-non-functioning-ps4-headset-audio-problems/"><u>How to Quickly Resolve Non-Functioning PS4 Headset Audio Problems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-x7b-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor X7b to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-printer-update-failures-a-comprehensive-fix-for-xerox-error-code-0x800f02eb-in-windows-systems/"><u>Overcoming Printer Update Failures: A Comprehensive Fix for Xerox Error Code 0X800f02eb in Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-crashing-hurdle-fixing-error-0xc00n00005-in-windows-systems/"><u>Overcoming the Crashing Hurdle: Fixing Error 0Xc00n00005 in Windows Systems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pre-purchase-tips-for-your-next-tv-recorder/"><u>Pre-Purchase Tips for Your Next TV Recorder</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolve-windows-error-code-0x800f020b-from-xerox-printer-updates/"><u>Troubleshooting Guide: Resolve Windows Error Code 0X800F020B From Xerox Printer Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-repair-a-malfunctioning-cddvd-drive-on-windows-pcs/"><u>Troubleshooting Steps to Repair a Malfunctioning CD/DVD Drive on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-users-correcting-user-profile-service-error-messages/"><u>Troubleshooting Tips for Windows Users: Correcting User Profile Service Error Messages</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-youtube-sound-issues-fixing-audio-renderer-errors-in-windows-11/"><u>Troubleshooting YouTube Sound Issues: Fixing Audio Renderer Errors in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-input-errors-on-computer-screens/"><u>Troubleshooting: Unsupported Input Errors on Computer Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-media-player-server-execution-failed-error-on-windows-solved/"><u>Windows Media Player Server Execution Failed Error on Windows [Solved]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-achieving-cost-free-online-educational-streaming/"><u>[New] 2024 Approved Achieving Cost-Free Online Educational Streaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>[New] Cold Games 2022'S Ultimate Snowboard Dueling Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-everything-about-metaverse-marketing-example-strategies-and-more/"><u>[New] Everything About Metaverse Marketing Example, Strategies, and More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-some-settings-are-managed-by-your-organization-on-windows/"><u>[Solved] Some Settings Are Managed by Your Organization on Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-itel-s23plus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Itel S23+ Phones with/without a PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-file-explorer-running-smoothly-again-in-windows-11/"><u>How To Get Your File Explorer Running Smoothly Again in Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-14-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 14 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-dualitys-impact-prime-benefits/"><u>Linguistic Duality's Impact: Prime Benefits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/number-of-females-surveyed-nfemale-756/"><u>Number of Females Surveyed (N_female) = 756</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-stop-windows-10-from-frequently-rebooting/"><u>Step-by-Step Guide: Stop Windows 10 From Frequently Rebooting</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-tecno-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Tecno Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unresponsive-updownleftright-arrow-keys-top-troubleshooting-tips/"><u>Unresponsive Up/Down/Left/Right Arrow Keys: Top Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-stuck-break-free-from-the-cycle-erasing-endless-load-times/"><u>Valorant Stuck? Break Free From the Cycle: Erasing Endless Load Times</u></a></li>
 </ul></div>
 

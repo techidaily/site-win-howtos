@@ -1,7 +1,7 @@
 ---
 title: Master the Solution to Stop Frequent Automatic Restarting on Windows 10
-date: 2024-08-19T07:46:26.956Z
-updated: 2024-08-20T07:46:26.956Z
+date: 2025-02-28T16:07:01.274Z
+updated: 2025-03-05T18:02:51.735Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -54,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Method 3: Install the correct keyboard driver
 
  In some cases, your keyboard might need the correct driver to be able to work properly. It could be the latest version of the keyboard driver or the driver that shipped along with your keyboard. You should try both ways to decide which one suits you better.
@@ -71,19 +65,10 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Method 4: Clean the keyboard
 
 If you haven’t cleaned your keyboard, in like forever, do it now.
@@ -102,8 +87,6 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +94,21 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-compatible-console-recreation-software-ps3-for-pcs/"><u>[New] 2024 Approved Best Compatible Console Recreation Software (PS3) for PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-professional-tips-for-erasing-borders-in-canva-graphics/"><u>[New] Professional Tips for Erasing Borders in Canva Graphics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-star-studded-stories-the-ultimate-guide-to-3-instagram-highlights/"><u>[Updated] In 2024, Star-Studded Stories The Ultimate Guide to 3 Instagram Highlights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-vr-wave-crafting-engaging-360-video-narratives-for-youtube-audiences/"><u>[Updated] In 2024, The VR Wave Crafting Engaging 360 Video Narratives for YouTube Audiences</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleash-creativity-in-memes-genrator-assistance/"><u>[Updated] Unleash Creativity in Memes Gen'rator Assistance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024-solutions-overcoming-miracast-not-supported-on-this-device-error/"><u>2024 Solutions: Overcoming 'Miracast Not Supported on This Device' Error</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/passive-viewers-to-earnings-youtubes-monetization-mastery-for-2024/"><u>From Passive Viewers to Earnings YouTube's Monetization Mastery for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-turn-on-bluetooth-on-windows-1110-solved/"><u>How to Turn on Bluetooth on Windows 11/10 [Solved]</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-the-ultimate-quadcopter-engine-arsenal/"><u>In 2024, Crafting the Ultimate Quadcopter Engine Arsenal</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-client-bootstrapper-has-stopped-working-solved/"><u>Steam Client Bootstrapper Has Stopped Working [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-windows-11-and-10s-error-code-0x80072f8f/"><u>Step-by-Step Troubleshooting for Windows 11 and 10'S Error Code: 0X80072F8F</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-group-policy-client-service-failed-the-logon-solved/"><u>The Group Policy Client Service Failed the Logon [SOLVED]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-a-noisy-dvd-player-effective-tips-for-quiet-operation-when-watching-movies/"><u>Troubleshooting a Noisy DVD Player: Effective Tips for Quiet Operation When Watching Movies</u></a></li>
+</ul></div>
 

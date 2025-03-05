@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Surface Tablets That Won't Charge While Plugged In
-date: 2024-08-19T07:49:28.659Z
-updated: 2024-08-20T07:49:28.659Z
+date: 2025-02-28T16:31:31.213Z
+updated: 2025-03-05T16:20:08.233Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your battery driver
 
  This problem may also occur if you have the wrong or outdated battery driver on your Surface notebook. So you should update your battery driver to see if it fixes the issue. If you don’t have the time, patience or computer skills to update the battery driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -50,14 +47,8 @@ To do so:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c39c43c6e52e.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c39c4632e244.jpg)  
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hopefully the**Surface plugged in, not charging** problem has been resolved.
 
@@ -74,8 +65,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +72,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-step-by-step-modify-username-in-google-meet/"><u>[New] In 2024, Step-by-Step Modify Username in Google Meet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-leveraging-your-roku-setup-for-exclusive-fb-live-content-for-2024/"><u>[Updated] Leveraging Your Roku Setup for Exclusive FB Live Content for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-honor-play-8t-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Honor Play 8T.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-to-error-0x80224200d-successfully-update-your-windows-system-now/"><u>Definitive Solutions to Error 0X802^24200D – Successfully Update Your Windows System Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-white-screen-of-death-on-your-laptop-a-comprehensive-guide/"><u>Fixing the White Screen of Death on Your Laptop – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206502142-how-to-fix-class-not-registered-errors-on-windows-11-solved/"><u>How to Fix 'Class Not Registered' Errors on Windows 11 – Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-start-menu-issues-quickly-and-easily/"><u>How to Fix Windows 11 Start Menu Issues Quickly and Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-incompatible-with-miracast-error-comprehensive-guide/"><u>How to Resolve Device Incompatible with Miracast Error : Comprehensive Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>In 2024, No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-forecasting-with-predictive-ai-technology/"><u>Navigating the World of Forecasting with Predictive AI Technology</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nvidia-shield-tv-pro-analysis-top-tier-gaming-and-streaming-hardware-unveiled/"><u>Nvidia Shield TV Pro Analysis: Top-Tier Gaming and Streaming Hardware Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-non-functional-huion-drawing-tablet-top-5-solutions/"><u>Quick Fixes for a Non-Functional Huion Drawing Tablet: Top 5 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-kernel32dll-on-your-pc/"><u>Reviving Kernel32.dll on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsungs-new-copilotplus-computer-explore-how-its-updated-ai-technology-is-revolutionizing-pc-performance-spotlighted/"><u>Samsung's New Copilot+ Computer: Explore How Its Updated AI Technology Is Revolutionizing PC Performance | Spotlighted</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/wifi-warriors-tp-link-archer-ax6000-vs-nighthawk-ax12-which-should-you-choose/"><u>WiFi Warriors: TP-Link Archer AX6000 Vs. Nighthawk AX12 – Which Should You Choose?</u></a></li>
+</ul></div>
 

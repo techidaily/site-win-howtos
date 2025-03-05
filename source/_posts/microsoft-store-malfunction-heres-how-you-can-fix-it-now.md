@@ -1,7 +1,7 @@
 ---
 title: Microsoft Store Malfunction? Here's How You Can Fix It Now
-date: 2024-08-19T07:48:21.552Z
-updated: 2024-08-20T07:48:21.552Z
+date: 2025-02-26T17:05:09.078Z
+updated: 2025-03-05T20:17:39.484Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ Before start using the methods, you should check your connection first.
 1. Press the**Windows key** +**I** together then click**Time & Language** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time and date.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**Region** and check your region is corrected.![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Open the Microsoft Store to check.
 
@@ -64,34 +61,16 @@ Before start using the methods, you should check your connection first.
 1. Press the**Windows key** +**R** together to open the Run box.
 2. Type “wsreset.exe” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 3. There will be a command window pop-up. Wait for it to close by itself, then the Microsoft Store will be launched automatically.![](https://images.drivereasy.com/wp-content/uploads/2019/06/wsreset.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Disable the Proxy connection
 
  Your proxy setting may be the reason for the Microsoft Store won’t open problem. You may disable the proxy connection if it can help.
 
 1. Type “internet options” in the search bar and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip0.jpg)
 2. In the Connections tab, click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. If you see the box under the**Proxy server** is ticked, uncheck**Use a proxy server for your LAN** then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Run the Microsoft Store and check the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Use Microsoft Store troubleshoot
 
  Whenever you’re having problems with the Windows system, the easiest method you can try is to run the Windows built-in troubleshooters. Windows 10 has built-in troubleshooters to diagnose and automatically fix common problems. There are many troubleshooters for different problems.  
@@ -103,9 +82,6 @@ Before start using the methods, you should check your connection first.
 4. Follow the instructions on the screen then restart your computer.
 5. Run the Microsoft Store to check the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 6: Reset Microsoft Store from settings
 
  If the above settings can’t fix the problem, you can reset the Microsoft Store to default to solve the problem.
@@ -117,9 +93,6 @@ Before start using the methods, you should check your connection first.
 **Note** : This step will permanently delete the app’s data including your sign-in details.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app2.jpg)
 5. Run the Microsoft Store to check whether the problem is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Hope this article will meet your needs. If you have any questions, please leave comments below, we’ll try our best to help.
 
@@ -131,8 +104,6 @@ Before start using the methods, you should check your connection first.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +111,18 @@ Before start using the methods, you should check your connection first.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-ace-the-art-of-shooting-on-a-green-screen/"><u>[Updated] Ace the Art of Shooting on a Green Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-comparison-gopro-hero-vs-yi-4k-action-camera-updates/"><u>[Updated] Ultimate Comparison GoPro Hero Vs. Yi 4K Action Camera Updates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-these-iphone-models-and-key-apple-gadgets-in-month-essential-savvy-shopper-guide-techinsights/"><u>Avoid These iPhone Models and Key Apple Gadgets in [Month] - Essential Savvy Shopper Guide | TechInsights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-world-of-langchain-and-llms/"><u>Discovering the World of LangChain and LLMs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-your-windows-11-machine-from-spontaneously-booting-up/"><u>How to Stop Your Windows 11 Machine From Spontaneously Booting Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-update-and-solve-device-driver-mismatch-issues/"><u>How to Update and Solve Device Driver Mismatch Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-pro-gif-makers-roundup-online-vs-desktop-platforms/"><u>In 2024, Pro-Gif Makers Roundup Online vs Desktop Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-to-facebooks-story-archives-quickly/"><u>Navigating to Facebook's Story Archives Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hurdles-with-microsoft-store-a-fix-it-approach/"><u>Overcoming Hurdles with Microsoft Store: A Fix-It Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-no-device-drivers-detected-error-during-windows-groove-installation/"><u>Resolving 'No Device Drivers Detected' Error During Windows Groove Installation</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-taming-starfield-softwares-sky-high-cpu-consumption-2024-edition/"><u>Ultimate Guide to Taming Starfield Software's Sky-High CPU Consumption - 2024 Edition</u></a></li>
+</ul></div>
 

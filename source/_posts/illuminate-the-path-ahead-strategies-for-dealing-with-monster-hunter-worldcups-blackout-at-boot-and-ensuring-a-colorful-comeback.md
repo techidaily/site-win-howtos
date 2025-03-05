@@ -1,7 +1,7 @@
 ---
 title: "Illuminate the Path Ahead - Strategies for Dealing with Monster Hunter: World'cups Blackout at Boot and Ensuring a Colorful Comeback"
-date: 2024-08-19T07:47:38.318Z
-updated: 2024-08-20T07:47:38.318Z
+date: 2025-02-27T17:19:55.155Z
+updated: 2025-03-05T17:42:03.066Z
 tags:
   - win11
   - win10
@@ -58,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -83,9 +80,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -103,17 +97,11 @@ To do so, first visit the website of your GPU manufacturer:
 2. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 3. On the menu bar, select**View** , then **Show hidden devices.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-13.png)
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
@@ -137,9 +125,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 4\. Update your computer BIOS and system firmware
 
  Please note that wrongly updating BIOS could cause server computer problems, even brick the computer in some extreme cases. So please do not attempt the BIOS update if you’re not confident in doing it.
@@ -158,9 +143,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -171,9 +153,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Consider a system reinstall
 
  If the LiveKernelEvent with code 144 error still remains after all the above, the next thing you should consider is a Windows reinstall, given the time and energy spent already.
@@ -186,9 +165,6 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Seek help from a hardware technician
 
  If the LiveKernelEvent with code 144 error remains even after a system reinstallation, it’s without a doubt that the problem is on the hardware front. This is what a system reset or reinstallation does: it wipes out all software incompatibilities and problems.
@@ -207,8 +183,6 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +190,20 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-dji-x20-drone-vision-wear-review/"><u>[New] In 2024, The DJI X20 Drone Vision Wear Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-no-more-hassle-record-games-like-pros/"><u>[Updated] 2024 Approved No More Hassle Record Games Like Pros</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-channeling-tweets-to-facebook-viewers-efficiently-for-2024/"><u>[Updated] Channeling Tweets to Facebook Viewers Efficiently for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-editing-elegance-into-news-summations/"><u>[Updated] Editing Elegance Into News Summations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468869423-experiencing-tardy-sms-notifications-on-iphone-discover-9-reliable-remedies-now/"><u>Experiencing Tardy SMS Notifications on iPhone? Discover 9 Reliable Remedies Now!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-picks-best-online-tv-streamers-of-2024/"><u>Expert Picks: Best Online TV Streamers of 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-updates-a-comprehensive-guide-to-fixing-the-0x800705b4-error-for-good/"><u>Mastering Windows 10 Updates: A Comprehensive Guide to Fixing the 0X800705b4 Error for Good</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-random-shutdown-malfunctions-in-computers-proven-fixes-inside/"><u>Resolving Random Shutdown Malfunctions in Computers - Proven Fixes Inside</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/streamlined-guide-5-efficient-windows-11-audio-recording-tips-for-2024/"><u>Streamlined Guide 5 Efficient Windows 11 Audio Recording Tips for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-registered-classes-in-windows-10-easy-steps-for-a-smooth-solution/"><u>Troubleshooting Non-Registered Classes in Windows 10 – Easy Steps for a Smooth Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successful-implementation-after-failed-d3d-device-instantiation/"><u>Troubleshooting: Successful Implementation After Failed D3D Device Instantiation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-engage-with-gpts-new-web-integrations/"><u>Unleashing Potential: Engage with GPT's New Web Integrations</u></a></li>
+</ul></div>
 

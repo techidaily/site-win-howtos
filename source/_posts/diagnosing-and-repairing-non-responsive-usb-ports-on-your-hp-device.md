@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Non-Responsive USB Ports on Your HP Device
-date: 2025-02-11T18:02:09.076Z
-updated: 2025-02-16T20:47:06.734Z
+date: 2025-03-01T18:16:22.736Z
+updated: 2025-03-05T17:13:56.861Z
 tags:
   - win11
   - win10
@@ -71,10 +71,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -114,17 +110,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -138,17 +126,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,20 +164,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>[New] From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-youtube-music-how-toes-2023-edition/"><u>[New] Top 10 YouTube Music How-Toes, 2023 Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-9-best-4k-monitors-for-video-editing-for-2024/"><u>[Updated] 9 Best 4K Monitors for Video Editing for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cutting-edge-image-editors-for-text-addition/"><u>Cutting-Edge Image Editors for Text Addition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enjoy-cinematic-experience-watching-3d-films-from-comfort-of-your-living-room-with-fandango/"><u>Enjoy Cinematic Experience: Watching 3D Films From Comfort of Your Living Room with Fandango</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-world-of-warcrafts-slowdowns-a-comprehensive-solution-overview/"><u>Fixing World of Warcraft's Slowdowns: A Comprehensive Solution Overview</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixservice-corruption-in-windows-10-diagnosis-and-restoration-techniques/"><u>FixService Corruption in Windows 10: Diagnosis and Restoration Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-an-unresponsive-aoc-display-on-windows-10-quick-guide/"><u>How to Fix an Unresponsive AOC Display on Windows 10 - Quick Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-directx-glitches-in-fifa-20-gaming/"><u>How to Overcome DirectX Glitches in FIFA 20 Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210394555-hp-laptop-keyboard-issue-solved-fix-unresponsive-buttons-fast/"><u>HP Laptop Keyboard Issue Solved? Fix Unresponsive Buttons Fast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-the-process-how-to-get-clearance-from-trustedinstaller-for-file-changes/"><u>Navigating the Process: How to Get Clearance From TrustedInstaller for File Changes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-non-functional-usb-mouse-issue-top-solutions-for-laptops/"><u>Solving Your Non-Functional USB Mouse Issue: Top Solutions for Laptops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211228393-troubleshooting-guide-dealing-with-chromes-ssl-protocol-error-now-solved/"><u>Troubleshooting Guide: Dealing with Chrome's SSL Protocol Error - Now Solved!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-is-hp-softpaq-download-manager/"><u>What Is HP SoftPaq Download Manager</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-customer-driven-marketing-through-authenticity-in-video/"><u>[Updated] 2024 Approved Customer-Driven Marketing Through Authenticity in Video</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-accessing-your-curated-music-lists-on-youtube/"><u>[Updated] In 2024, Accessing Your Curated Music Lists on Youtube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-microsofts-glimpse-into-augmented-reality-the-hololens-journey/"><u>[Updated] Microsoft’s Glimpse Into Augmented Reality – The HoloLens Journey</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-revolutionize-your-photos-with-these-best-grid-makers-for-ig/"><u>2024 Approved Revolutionize Your Photos with These Best Grid Makers for IG</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-copy-and-paste-irregularities-in-windows-os/"><u>Addressing Copy and Paste Irregularities in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bring-back-the-roar-of-racing-troubleshooting-no-sound-in-forza-horizon-4/"><u>Bring Back the Roar of Racing: Troubleshooting No-Sound in Forza Horizon 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-diagnostic-services-failure-resolved/"><u>Fixing the Issue: Diagnostic Services Failure Resolved</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-discover-11-leading-streamers-audio-recorders/"><u>In 2024, Discover 11 Leading Streamers' Audio Recorders</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Why does the pokemon go battle league not available On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-geforce-experience-error-when-accessing-preferences/"><u>Resolved: Fixing GeForce Experience Error When Accessing Preferences</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simplified-guide-how-to-transcode-webm-files-into-mp3-format-on-windows-or-mac/"><u>Simplified Guide: How to Transcode WebM Files Into MP3 Format on Windows or Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-game-changing-eighth-generation-102-apple-ipad-review-when-high-quality-meets-savings/"><u>The Game-Changing Eighth Generation 10.2 Apple iPad Review - When High Quality Meets Savings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-dealing-with-vcruntime1solved-fix-the-not-found-error-on-windows/"><u>The Ultimate Solution for Dealing with VCRUNTIME1([SOLVED] Fix the Not Found Error on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-airpods-on-windows-11-a-comprehensive-guide-for-2eo-users-updated-tips/"><u>Troubleshoot AirPods on Windows 11: A Comprehensive Guide for 2Eo Users - Updated Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-searching-for-suitable-printer-driver-solved/"><u>Troubleshooting: Windows Searching for Suitable Printer Driver - SOLVED</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-x-chair-x4-executive-chair-why-its-a-top-contender-in-workspace-comfort/"><u>Ultimate Guide to the X-Chair X4 Executive Chair: Why It's a Top Contender in Workspace Comfort</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win10-quench-cpu-hunger-from-wmis/"><u>Win10: Quench CPU Hunger From WMIs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Fix a LiveKernelEvent Code 144 Issue
-date: 2024-08-19T07:46:01.456Z
-updated: 2024-08-20T07:46:01.456Z
+date: 2025-02-26T20:22:04.162Z
+updated: 2025-03-05T19:46:31.411Z
 tags:
   - win11
   - win10
@@ -47,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
@@ -58,35 +55,14 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -95,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
@@ -110,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 3: Reinstall your Bluetooth driver
 
  Always, if your Bluetooth driver is outdated or corrupted, it will cause errors. In most such cases, updating your Bluetooth driver can fix the error.
@@ -152,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
 * [Bluetooth](https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875)
@@ -166,8 +133,6 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +140,26 @@ thumbnail: https://thmb.techidaily.com/13fc80b5d967307ffa59212655cd04104762f09d1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-experience-reality-redefined-with-htc-vive/"><u>[New] 2024 Approved Experience Reality Redefined with HTC Vive</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-dynamic-gimbal-support-for-smooth-captures-anywhere-for-2024/"><u>[New] Dynamic Gimbal Support for Smooth Captures Anywhere for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-frame-your-filmmaking-the-3-secrets-to-instagram-borders/"><u>[New] Frame Your Filmmaking The 3 Secrets to Instagram Borders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-smart-planners-guide-to-virtual-meeting-success/"><u>[New] In 2024, The Smart Planner's Guide to Virtual Meeting Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201082780-solved-how-to-fix-error-0x887a0006-quickly-and-easily/"><u>[Solved] How to Fix Error 0X887A0006 | Quickly & Easily!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-palettes-power-in-film-editing-techniques/"><u>[Updated] 2024 Approved The Palette's Power in Film Editing Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revised-question-series-to-connect-with-podcast-audience/"><u>2024 Approved Revised Question Series to Connect with Podcast Audience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-quick-walkthrough-on-windows-11-sound-settings-navigation/"><u>A Quick Walkthrough on Windows 11 Sound Settings Navigation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-hardware-specification-change-only-d3d11-gpus-will-support-this-updated-engine-version/"><u>Critical Hardware Specification Change: Only D3D11 GPUs Will Support This Updated Engine Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-get-google-chrome-running-smoothly-again/"><u>Fixes & Solutions: How to Get Google Chrome Running Smoothly Again</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pioneering-the-future-of-video-conferencing-with-google-meet-to-youtube/"><u>In 2024, Pioneering the Future of Video Conferencing with Google Meet to YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-spark-joy-with-these-14-playful-text-animations/"><u>In 2024, Spark Joy with These 14 Playful Text Animations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-surface-pro-4-touch-screen-not-working-solved/"><u>Microsoft Surface Pro 4 Touch Screen Not Working [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-user-profile-service-failure-step-by-step-solutions-for-windows-11-login-issues/"><u>Resolving 'User Profile Service' Failure: Step-by-Step Solutions for Windows 11 Login Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-troubleshooting-setup-errors-in-your-origin-gaming-experience/"><u>Resolving Issues: Troubleshooting Setup Errors in Your Origin Gaming Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-unsung-heroes-of-canvas-open-source-paintings-for-2024/"><u>The Unsung Heroes of Canvas Open-Source Paintings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-dragon-ball-fighterz-network-start-up-issues/"><u>Troubleshooting Guide: Fixing Dragon Ball FighterZ Network Start-Up Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-intermittent-issues-with-your-wireless-mouse-in-windows-11-and-10/"><u>Troubleshooting Guide: Fixing Intermittent Issues with Your Wireless Mouse in Windows 11 and 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-my-backspace-key-work-uncover-common-problems-and-fixes/"><u>Why Won't My Backspace Key Work? Uncover Common Problems & Fixes</u></a></li>
+</ul></div>
 

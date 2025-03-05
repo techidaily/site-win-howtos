@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Invalid Directory Name' Mistake – A Step-by-Step Guide
-date: 2025-02-11T19:18:36.761Z
-updated: 2025-02-16T20:00:03.408Z
+date: 2025-02-28T17:09:04.247Z
+updated: 2025-03-05T18:38:41.960Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Apex Legends Easy Anti-Cheat Error
 
@@ -55,10 +51,6 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
@@ -107,24 +99,12 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
@@ -149,10 +129,6 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-3.png)
 3. Download and reinstall Apex Legends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Launch the game to see if you can play without error.
 
 **Here’s how to reinstall Origin:**
@@ -166,10 +142,6 @@ Here are the steps to repair Apex Legends in Origin:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
@@ -195,19 +167,17 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-intriguing-book-trailers-on-display/"><u>2024 Approved Intriguing Book Trailers on Display</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-3d-media-player-for-android-users/"><u>Advanced 3D Media Player for Android Users</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/best-photo-slideshow-maker-how-to-make-a-photo-slideshow-2023-update/"><u>Best Photo Slideshow Maker How to Make a Photo Slideshow 2023 Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-reducing-microsoft-compatibility-telemetrys-impact-on-hard-drive-space-in-windows-10/"><u>Diagnosing and Reducing Microsoft Compatibility Telemetry's Impact on Hard Drive Space in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosis-and-fixes-restoring-function-key-capabilities/"><u>Diagnosis and Fixes: Restoring Function Key Capabilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-224003-solved-ensuring-successful-video-streaming/"><u>Error 224003 Solved: Ensuring Successful Video Streaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-the-set-user-settings-to-driver-failed-issue-with-easy-steps/"><u>Fix the 'Set User Settings to Driver Failed' Issue with Easy Steps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-pop-8-by-drfone-android/"><u>How to Bypass FRP from Tecno Pop 8?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-vocal-excellence-in-action-tweaking-sound-for-instagram-content/"><u>In 2024, Vocal Excellence in Action Tweaking Sound for Instagram Content</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-cr2-to-jpg-conversion-using-windows-tools/"><u>Mastering the Art of CR2 to JPG Conversion Using Windows Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-dvds-into-digital-format-a-guide-for-easy-streaming-across-various-platforms-including-television-and-roku/"><u>Transforming DVDs Into Digital Format: A Guide for Easy Streaming Across Various Platforms Including Television and Roku</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-non-functioning-webcam-in-windows/"><u>Troubleshooting Steps for Non-Functioning Webcam in Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/value-packed-vuebell-analysis-superior-choice-for-affordable-video-doorbells/"><u>Value-Packed VueBell Analysis: Superior Choice for Affordable Video Doorbells</u></a></li>
-<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-14-pro-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 14 Pro?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ecoming-a-wealthy-beauty-channel-host-for-2024/"><u>[New] Becoming a Wealthy Beauty Channel Host for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-echoes-of-chuckles-parody-playlists-for-2024/"><u>[Updated] Echoes of Chuckles Parody Playlists for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-windows-recovery-techniques-fix-the-failed-startup-issue/"><u>DIY Windows Recovery Techniques: Fix the Failed Startup Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-image-editing-convert-orf-files-to-jpegs-without-cost-using-top-web-services/"><u>Effortless Image Editing: Convert ORF Files to JPEGs Without Cost Using Top Web Services</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-guide-to-using-winxvideo-for-advanced-video-transformation-and-conversion-with-ai-features-tutorial-inside/"><u>Expert Guide to Using Winxvideo for Advanced Video Transformation & Conversion with AI Features - Tutorial Inside</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-role-in-personal-social-and-global-transformation/"><u>Facebook's Role in Personal, Social, and Global Transformation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-audio-device-missing-on-windows-1011-computers-efficiently/"><u>How To Solve 'Audio Device Missing' On Windows 10/11 Computers Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-launch-issues-in-fortnite/"><u>Overcoming Launch Issues in Fortnite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-windows-plus-shift-plus-s-functionality-problems-in-windows-1110-operating-systems/"><u>Resolved: How to Fix 'Windows + Shift + S' Functionality Problems in Windows 11/10 Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-fn-key-malfunction-on-your-dell-computer-a-step-by-step-guide/"><u>Solving the Fn-Key Malfunction on Your Dell Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-tips-to-revive-a-frozen-wi-fi-mouse-on-windows/"><u>Top 5 Tips to Revive a Frozen Wi-Fi Mouse on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-zte-blade-a73-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your ZTE Blade A73 5G Device</u></a></li>
 </ul></div>
 

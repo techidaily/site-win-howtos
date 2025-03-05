@@ -1,7 +1,7 @@
 ---
 title: Fix Your Screen Mirroring Problems When Miracast Is Unavailable via Graphics Card
-date: 2025-02-09T23:00:28.212Z
-updated: 2025-02-16T17:04:01.269Z
+date: 2025-03-02T18:34:04.950Z
+updated: 2025-03-05T17:14:01.482Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -56,10 +52,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -109,10 +101,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -121,10 +109,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -137,10 +121,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,24 +164,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-crafting-engaging-videos-with-adobe-captivate/"><u>[Updated] 2024 Approved Crafting Engaging Videos with Adobe Captivate</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-escape-from-ennui-with-humor-top-20-funny-faces-in-social-media-jail/"><u>[Updated] Escape From Ennui with Humor Top 20 Funny Faces in Social Media Jail</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-pros-playbook-elevating-your-facebook-lives-to-new-heights/"><u>[Updated] In 2024, The Pro's Playbook Elevating Your Facebook Lives to New Heights</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-teleporting-technique-upgrading-phones-for-vr-immersion-for-2024/"><u>[Updated] The Teleporting Technique Upgrading Phones for VR Immersion for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/choosing-the-right-lookup-function-index-and-match-vs-vlookup-vs-xlookup-in-excel/"><u>Choosing the Right Lookup Function: Index & Match Vs. Vlookup Vs. XLOOKUP in Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/choosing-the-right-spreadsheet-google-sheets-vs-microsoft-excel-compared/"><u>Choosing the Right Spreadsheet: Google Sheets Vs. Microsoft Excel Compared</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/complete-testimonials-of-gecatas-recorder-for-2024/"><u>Complete Testimonials of Gecata's Recorder for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-automatic-resizing-cells-in-excel-for-effortless-data-management/"><u>Comprehensive Guide to Automatic Resizing Cells in Excel for Effortless Data Management</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/crafting-compelling-online-presence-incorporating-wirecast-into-fb-streams-for-2024/"><u>Crafting Compelling Online Presence Incorporating Wirecast Into FB Streams for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/daily-productivity-boost-top-7-uses-for-microsoft-office-suite/"><u>Daily Productivity Boost: Top 7 Uses for Microsoft Office Suite</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/desktop-printers-or-print-shops-which-offers-better-value-for-money-in-the-long-run/"><u>Desktop Printers or Print Shops – Which Offers Better Value for Money in the Long Run?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-new-features-in-the-updated-web-based-microsoft-excel-suite/"><u>Discover New Features in the Updated Web-Based Microsoft Excel Suite!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easily-calculate-totals-with-our-simple-method-for-including-a-final-row-in-excel-spreadsheets/"><u>Easily Calculate Totals with Our Simple Method for Including a Final Row in Excel Spreadsheets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easily-integrate-microsofts-no-cost-web-plugins-into-your-blog/"><u>Easily Integrate Microsoft's No-Cost Web Plugins Into Your Blog</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-guide-calculating-the-number-of-colored-cells-in-excel/"><u>Easy Guide: Calculating the Number of Colored Cells in Excel</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-v27-pro-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V27 Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/understanding-the-causes-of-your-sluggish-laptop-insights-from-yl-computing-and-yl-software/"><u>Understanding the Causes of Your Sluggish Laptop: Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-the-mystery-understanding-and-using-slug-lines-for-2024/"><u>Unraveling the Mystery Understanding & Using Slug Lines for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-five-mac-friendly-strategies-for-documenting-minecraft-games-for-2024/"><u>[New] Five Mac-Friendly Strategies for Documenting Minecraft Games for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/windows-11-7-ssd/"><u>「选择优质磁盘克隆解决方案 - Windows 11-7 SSD数据复制指南」</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crafting-the-perfect-efficacy-potion-a-step-by-step-guide-in-minecraft/"><u>Crafting the Perfect Efficacy Potion: A Step-by-Step Guide in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-drive-dropbox-voc-wav/"><u>Google Drive, Dropbox 사용자에게 VOC 파일을 WAV로 쉽게 변환: 무료 도구를 사용하는 방법</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-movavi-movie-analysis-for-the-year-202n4-a-cinematic-overview/"><u>In-Depth Movavi Movie Analysis for the Year 202N4: A Cinematic Overview</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/leading-eight-safe-video-meeting-systems-for-smbs/"><u>Leading Eight Safe Video Meeting Systems for SMBs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-noise-to-notes-dawnenas-daw-with-chatgpt/"><u>Navigating Noise to Notes: Dawn'enas DAW with ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-gratuite-methode-om-mp4-in-ogg-te-veranderen-vrijetlijks-en-efficient-met-movavi-convertisseur/"><u>Online Gratuite Methode Om MP4 in OGG Te Veranderen - Vrijetlijks en Efficiënt Met Movavi Convertisseur</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/outstanding-visual-teaching-aids-creativity-in-classroom-presentations-using-movavi/"><u>Outstanding Visual Teaching Aids: Creativity in Classroom Presentations Using Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tp-link-archer-c80-evaluated-delivering-rapid-connectivity-for-less-than-a-hundred-dollars/"><u>TP-Link Archer C80 Evaluated: Delivering Rapid Connectivity for Less Than a Hundred Dollars</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformacion-sin-coste-ni-esfuerzo-convierte-tu-m4b-a-avi-en-linea-gratuitamente-con-convertidor-movavi-web/"><u>Transformación Sin Coste Ni Esfuerzo: Convierte Tu M4B a AVI en Línea Gratuitamente Con Convertidor Movavi Web</u></a></li>
 </ul></div>
 

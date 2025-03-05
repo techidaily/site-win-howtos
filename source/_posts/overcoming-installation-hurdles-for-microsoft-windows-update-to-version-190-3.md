@@ -1,7 +1,7 @@
 ---
 title: Overcoming Installation Hurdles for Microsoft Windows Update to Version 190 3
-date: 2025-02-11T00:54:19.898Z
-updated: 2025-02-16T22:06:44.081Z
+date: 2025-03-04T19:27:00.313Z
+updated: 2025-03-05T20:31:24.957Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a395
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are the solutions you can try. You shouldn’t have to do every single one. Just try each one in turn until everything’s working again.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/94e07137a13ad182683de85211bfdf3891ed8a395
 3. [**Update your printer driver**](https://tools.techidaily.com/drivereasy/download/)
 
  Note: All the screenshots below come from Windows 10, but the fixes also work on Windows 7 & Windows 8.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1\. Reinstall your printer
 
@@ -85,10 +77,6 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16cce058a8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Your computer will automatically connect to your printer and install it in your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
@@ -103,10 +91,6 @@ Now you should reinstall your printer to your computer.
 
  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16dab47de2.png)
@@ -119,17 +103,9 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae17154337fb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) After uninstalling, restart your computer and Windows will reinstall the printer driver for you.
 
  Try your printer again and the error should be removed now. If the error still persists, you can try[Method 3](https://tools.techidaily.com/drivereasy/download/) to update your printer driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3\. Update your printer driver
 
@@ -178,21 +154,22 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-strategies-for-posting-and-uploading-gifs-on-instagram-for-2024/"><u>[New] Step-by-Step Strategies for Posting & Uploading GIFs on Instagram for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-crafting-perfect-lines-in-digital-imagery/"><u>[Updated] 2024 Approved Crafting Perfect Lines in Digital Imagery</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sketchsquad-full-scrutiny-and-step-by-step-guidebook-24/"><u>[Updated] 2024 Approved SketchSquad Full Scrutiny & Step-by-Step Guidebook '24</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/control-question-who-manages-chatgpt-now-if-not-openai/"><u>Control Question: Who Manages ChatGPT Now, If Not OpenAI?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/deciphering-adsense-profits-on-youtube-revenue-per-kv-watched/"><u>Deciphering AdSense Profits on YouTube Revenue per KV Watched</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/end-the-self-removal-spree-resolve-nvidia-driver-issue/"><u>End the Self-Removal Spree: Resolve Nvidia Driver Issue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-apples-tech-spectacle-the-iphone-16-glowtime-ai-advancements-and-the-new-apple-watch-series-10-zdnet/"><u>Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10 | ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-resolving-mic-issues-in-windows-10/"><u>Fixes & Tips: Resolving Mic Issues in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-functionality-in-windows-10-pcs/"><u>How To Restore Brightness Functionality in Windows 10 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-we-overcame-the-problem-of-contacting-a-non-responsive-dhcp-server/"><u>How We Overcame the Problem of Contacting a Non-Responsive DHCP Server</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 12 Pro Max to Android? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-key-stickiness-on-new-windows-operating-systems-a-comprehensive-fix-guide/"><u>Resolving Key Stickiness on New Windows Operating Systems: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-tips-for-non-working-dvds-in-windows-media-player/"><u>Solution Tips for Non-Working DVDs in Windows Media Player</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-tips-for-non-responsive-dell-wireless-keyboards/"><u>Step-by-Step Repair Tips for Non-Responsive Dell Wireless Keyboards</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-livekernelevent-117-mistake/"><u>Ultimate Guide: Resolving the LiveKernelEvent 117 Mistake</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/unveiling-the-true-expenses-the-complete-breakdown-of-hosting-karaoke-at-your-local-bar-or-eatery/"><u>Unveiling the True Expenses: The Complete Breakdown of Hosting Karaoke at Your Local Bar or Eatery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unlocking-social-connections-facetime-tutorials-for-android/"><u>[New] Unlocking Social Connections Facetime Tutorials for Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/all-your-files-are-exactly-where-you-left-them-at-boot-on-windows-10/"><u>All Your Files Are Exactly Where You Left Them at Boot on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/compatibility-issue-resolved-recognizing-wd-my-passport-ultra-when-it-seems-invisible-to-windows/"><u>Compatibility Issue Resolved: Recognizing 'WD My Passport Ultra' When It Seems Invisible to Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ient-strategies-for-saving-youtube-thumbnails-on-any-os/"><u>Efficient Strategies for Saving Youtube Thumbnails on Any OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-displays-without-hdcp-support-for-optimal-viewing-quality/"><u>Fixing Displays Without HDCP Support for Optimal Viewing Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-welcome-hang-up-fast-solutions/"><u>Fixing the Windows 11 Welcome Hang-Up: Fast Solutions</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/guide-complet-demarrer-linstallation-en-mode-sans-echec-de-windows-server-2019/"><u>Guide Complet: Démarrer L'Installation en Mode Sans Échec De Windows Server 2019</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-elevate-permissions-addressing-operation-requires-elevation-on-windows-platforms/"><u>How to Successfully Elevate Permissions: Addressing 'Operation Requires Elevation' On Windows Platforms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-12-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 12 Pro and iPad?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-story-and-reels-transform-your-vocal-brand-with-these-tricks/"><u>In 2024, Instagram Story & Reels Transform Your Vocal Brand with These Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-routes-transforming-pinterests-vids-into-mp3s/"><u>In 2024, Prime Routes Transforming Pinterest's Vids Into MP3s</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-speed-meets-strategy-key-moments-at-the-games/"><u>In 2024, Speed Meets Strategy Key Moments at the Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-problem-heres-how-to-get-those-arrows-working-again/"><u>Keyboard Problem? Here's How to Get Those Arrows Working Again!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-pbm-image-editing-and-conversion-by-movavi-fast-and-free/"><u>Online PBM Image Editing and Conversion by Movavi: Fast & FREE!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-start-up-struggles-in-epic-games/"><u>Overcoming Start-Up Struggles in Epic Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/revive-iphone-hdr-video-on-premiere-pro-with-5-tips/"><u>Revive iPhone HDR Video on Premiere Pro with 5 Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-windows-connectivity-errors-with-system-event-notification-services/"><u>Understanding Windows Connectivity Errors with System Event Notification Services</u></a></li>
 </ul></div>
 

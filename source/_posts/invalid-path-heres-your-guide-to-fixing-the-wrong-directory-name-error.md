@@ -1,7 +1,7 @@
 ---
 title: Invalid Path? Here's Your Guide to Fixing the Wrong Directory Name Error
-date: 2025-02-13T16:58:50.986Z
-updated: 2025-02-16T20:55:27.647Z
+date: 2025-03-04T20:06:40.563Z
+updated: 2025-03-05T17:18:34.237Z
 tags:
   - win11
   - win10
@@ -64,18 +64,10 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -97,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -111,15 +99,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this method didn’t work for you, check out the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -144,16 +124,8 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,20 +148,18 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-united-reviews-the-expert-on-easeus/"><u>[New] United Reviews The Expert on EaseUS</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-smile-slam-the-best-comedy-moments-on-social-media/"><u>[Updated] In 2024, Smile Slam The Best Comedy Moments on Social Media</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/download-and-watch-peppa-pig-shows-anywhere-how-to-save-episodes-as-mp4-or-avi-files-for-offline-enjoyment/"><u>Download and Watch Peppa Pig Shows Anywhere - How to Save Episodes as MP4 or AVI Files for Offline Enjoyment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-mac-video-editing-programs-sierra-edition/"><u>Elite Mac Video Editing Programs Sierra Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-vanishing-mouse-pointer-in-windows-10/"><u>How to Fix the Vanishing Mouse Pointer in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-correct-error-code-0x80240017-in-your-windows-updates/"><u>How to Successfully Correct Error Code 0X80240017 in Your Windows Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-the-connection-effective-methods-to-rectify-a-non-functional-usb-port-on-an-hp-laptop/"><u>Revive the Connection: Effective Methods to Rectify a Non-Functional USB Port on an HP Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-implemented-correcting-uncooperative-keyboard-inputs/"><u>Solution Implemented: Correcting Uncooperative Keyboard Inputs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-permanent-lag-on-valorants-launch-screen-steps-for-a-smooth-start/"><u>Solved! Permanent Lag on Valorant's Launch Screen: Steps for a Smooth Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-lenovo-biometric-sensor-functionality/"><u>Step-by-Step Guide: Restoring Lenovo Biometric Sensor Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/swift-resolution-guide-correcting-change-rendering-api-mistake-in-dota-2-error-202/"><u>Swift Resolution Guide: Correcting 'Change Rendering API' Mistake in Dota 2 (Error 202)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/tick-tock-tally-calculating-pewdiepies-cash-for-2024/"><u>Tick-Tock Tally Calculating PewDiePie’s Cash for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-s24plus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy S24+ Device</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/troubleshooting-non-responsive-desktops-insights-by-yl-software-professionals/"><u>Troubleshooting Non-Responsive Desktops: Insights by YL Software Professionals</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/be-video-mastery-seizing-the-seo-opportunity/"><u>YouTube Video Mastery Seizing the SEO Opportunity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-sign-up-process-for-using-google-meet/"><u>[New] Sign Up Process for Using Google Meet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-game-top-tips-for-enhancing-pc-gaming-speed-in-windows-11/"><u>Boost Your Game: Top Tips for Enhancing PC Gaming Speed in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breaking-the-cycle-of-failed-nvidia-deployments/"><u>Breaking the Cycle of Failed NVIDIA Deployments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-gratuite-des-fichiers-ogg-en-oga-en-ligne-movavi/"><u>Conversion Gratuite Des Fichiers Ogg en Oga en Ligne - Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-epson-stylus-nx420-printer-drivers-for-all-modern-windows-versions-windows-781asto/"><u>Easy Installation of Epson Stylus NX420 Printer Drivers for All Modern Windows Versions (Windows 7/8/1Asto)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-repair-a-failed-secure-connection-when-browsing-with-firefox/"><u>Easy Steps to Repair a Failed Secure Connection when Browsing with Firefox</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-itel-p55-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Itel P55 5G?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-power-of-picture-in-picture-on-apple-devices/"><u>In 2024, Unveiling the Power of Picture-in-Picture on Apple Devices</u></a></li>
+<li><a href="https://win-trending.techidaily.com/preserve-your-files-during-ntfs-recovery-expert-tips-from-myrecover/"><u>Preserve Your Files During NTFS Recovery | Expert Tips From MyRecover</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-will-not-open-discover-the-best-fixes-for-a-smooth-launch/"><u>PUBG Will Not Open? Discover the Best Fixes for a Smooth Launch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-challenges-with-windows-system-updates/"><u>Resolved: Overcoming Challenges with Windows System Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-unresponsive-windows-key-issues-in-your-windows-10-system/"><u>Troubleshoot Unresponsive Windows Key Issues in Your Windows 10 System</u></a></li>
 </ul></div>
 

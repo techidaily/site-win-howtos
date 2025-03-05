@@ -1,7 +1,7 @@
 ---
 title: Corsair HS50 Headset Mic Failures? Here's How to Fix and Restore Functionality
-date: 2024-08-19T07:46:59.219Z
-updated: 2024-08-20T07:46:59.219Z
+date: 2025-03-02T17:12:41.104Z
+updated: 2025-03-05T17:49:11.757Z
 tags:
   - win11
   - win10
@@ -103,30 +103,18 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now check to see your mic is back on track.
 
 ---
@@ -139,18 +127,12 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
@@ -169,8 +151,6 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +158,18 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-reimagine-your-profile-on-tiktok-with-innovative-pfps/"><u>[New] 2024 Approved Reimagine Your Profile on TikTok with Innovative PFPs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-win10s-elite-screen-recording-and-capture-software-selection-for-2024/"><u>[New] Win10's Elite Screen Recording & Capture Software Selection for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-choosing-the-best-mac-mkv-players-guide-for-2024/"><u>[Updated] Choosing the Best Mac MKV Players Guide for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2616224-9780752492193-haunted-tunbridge-wells/"><u>Haunted Tunbridge Wells | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-gaming-restore-xbox-one-controllers-fit/"><u>PC Gaming: Restore Xbox One Controllers' Fit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-1011-audio-error-fixing-unrecognized-sound-hardware/"><u>Resolve Windows 10/11 Audio Error: Fixing Unrecognized Sound Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-savvy-troubleshooting-how-to-reconnect-your-airpods-with-windows-1011/"><u>Tech Savvy Troubleshooting: How to Reconnect Your AirPods with Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-best-fixes-for-frozen-taskbar-in-windows-10-step-by-step-solutions/"><u>The Best Fixes for Frozen Taskbar in Windows 10: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/top-rated-no-cost-ios-device-tones-migration-tools/"><u>Top Rated No-Cost iOS Device Tones Migration Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-youtube-broadcast-google-meet-tutorial-steps/"><u>Unlock YouTube Broadcast Google Meet Tutorial Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-my-mouse-right-click-work-on-windows-11-fixing-tips-and-tricks/"><u>Why Won't My Mouse Right Click Work on Windows 11? Fixing Tips & Tricks</u></a></li>
+</ul></div>
 

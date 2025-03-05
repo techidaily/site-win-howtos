@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Locating and Installing Critical Media Drivers for Seamless Operation"
-date: 2025-02-12T22:20:17.384Z
-updated: 2025-02-17T00:49:26.011Z
+date: 2025-03-04T18:09:21.832Z
+updated: 2025-03-05T16:30:05.906Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ the picture was taken by: Article\_86
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 ## Try these fixes
@@ -58,10 +54,6 @@ the picture was taken by: Article\_86
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -81,14 +73,6 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Relaunch Chrome to take effect.
 
 ---
@@ -101,10 +85,6 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
@@ -126,10 +106,6 @@ the picture was taken by: Article\_86
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
@@ -171,17 +147,24 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-best-video-capture-for-iphoneipad-users/"><u>[New] In 2024, The Best Video Capture for iPhone/iPad Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-script-creation-for-attractive-vlogging-content/"><u>[New] Mastering Script Creation for Attractive Vlogging Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-storyboard-designers-den/"><u>[Updated] In 2024, Ultimate Storyboard Designer's Den</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/commence-your-journey-with-xps-film-editor-suite-for-2024/"><u>Commence Your Journey with XP's Film Editor Suite for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-issues-with-a-non-working-camera-on-lenovo-devices/"><u>Diagnosing and Resolving Issues with a Non-Working Camera on Lenovo Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/incorporate-branding-if-relevant-if-brand-recognition-is-important-eg-a-well-known-tech-blog-consider-including-it-subtly-within-the-title-as-long-as-it-doe90/"><u>Incorporate Branding if Relevant: If Brand Recognition Is Important (E.g., a Well-Known Tech Blog), Consider Including It Subtly Within the Title, as Long as It Doesn't Detract From the Primary Keywords or Message</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-comprehensive-guide-to-correcting-the-d3dxtk9dll-not-found-issue/"><u>Resolved: Comprehensive Guide to Correcting the d3dxtk9.dll Not Found Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-entry-point-not-found-error-on-windows/"><u>Resolved: How to Fix 'Entry Point Not Found' Error on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speeding-up-shutdown-process-on-windows-10-troubleshooting-steps-provided/"><u>Speeding Up Shutdown Process on Windows 10 - Troubleshooting Steps Provided</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-9-free-android-mp3-extractors/"><u>[New] 2024 Approved Top 9 FREE Android MP3 Extractors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-bandicam-revisited-a-deep-dive-into-screen-recording/"><u>[New] In 2024, Bandicam Revisited A Deep Dive Into Screen Recording</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-the-financial-aspects-of-youtube-success-for-2024/"><u>[New] Navigating the Financial Aspects of YouTube Success for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-youtube-metrics-for-earning-livelihoods/"><u>2024 Approved Mastering YouTube Metrics for Earning Livelihoods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-cameras-elevating-podcast-engagement-for-2024/"><u>Best Cameras Elevating Podcast Engagement for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/best-facebook-practices-videographers-dilemrante/"><u>Best Facebook Practices Videographer's Dilemrante</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/event-id-1000-solutions-and-fixes-for-windows-7-8-and-1ve-10-platforms/"><u>Event ID 1000 - Solutions and Fixes for Windows 7, 8, and 1Ve 10 Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/instantly-resolve-no-charge-issues-with-these-quick-laptop-battery-tips/"><u>Instantly Resolve No Charge Issues with These Quick Laptop Battery Tips</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-free-avi-video-rotators-a-roundup-of-the-best-tools-for-all-platforms/"><u>New 2024 Approved Free AVI Video Rotators A Roundup of the Best Tools for All Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210973352-print-screen-key-malfunction-in-windows-1110-solutions-that-work/"><u>Print Screen Key Malfunction in Windows 11/10 – Solutions That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-connecting-with-dhcp-server/"><u>Resolved: Issues Connecting with DHCP Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetry-excessive-storage-consumption-in-windows-11/"><u>Resolving Microsoft Compatibility Telemetry: Excessive Storage Consumption in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-stuck-file-explorer-problems-for-a-smooth-experience-with-windows-11/"><u>Resolving Stuck File Explorer Problems for a Smooth Experience with Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-making-iphone-a-personal-gaming-center/"><u>Step-by-Step Guide: Making iPhone a Personal Gaming Center</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-correctly-resolve-code-0x8024402c-in-windows-update/"><u>Step-by-Step Solutions to Correctly Resolve Code 0X8024402c in Windows Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-pairing-microsoft-wireless-display-adapter-with-windows-11-a-comprehensive-guide/"><u>Successfully Pairing Microsoft Wireless Display Adapter with Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-32-bit-applications-print-driver-host-stops-functioning/"><u>Troubleshooting Completed: 32 Bit Application's Print Driver Host Stops Functioning</u></a></li>
 </ul></div>
 

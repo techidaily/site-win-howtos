@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch"
-date: 2025-02-13T17:21:43.784Z
-updated: 2025-02-16T16:10:20.301Z
+date: 2025-03-03T16:34:27.757Z
+updated: 2025-03-05T16:13:05.163Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 4. [**Install the latest patch**](#F4)
 5. **[Repair corrupted system files](https://coinrule.sjv.io/rqzonv)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your device drivers
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third-party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a**7-day free trial** which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/DE-update-all-AMD.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer for the changes to take effect.
 
@@ -79,10 +71,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Repair EasyAntiCheat
 
  Another useful trick to get Fortnite launching again is to repair it in the EasyAntiCheat service. Here’s how:
@@ -91,10 +79,6 @@ Here’s how to do it:
 2. Type**easyanticheat\_setup** in the search box and wait while Windows works on searching the results. Then double-click on**EasyAntiCheat\_Setup** as soon as it shows up as a result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11ffe582d5b.jpg)
 3. Click**Yes** once asked to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Select**Fortnite** from the drop-down menu and click**Repair Service** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200695db42.jpg)
@@ -130,10 +114,6 @@ Here’s how to use Fortect to repair system files on your PC:
  3) Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
@@ -187,18 +167,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-expertly-manipulating-colors-in-video-edits/"><u>[New] 2024 Approved Expertly Manipulating Colors in Video Edits</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-video-aspect-ratio-guide-optimal-upload-sizes/"><u>[New] YouTube Video Aspect Ratio Guide Optimal Upload Sizes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-decoding-hashtags-role-in-elevating-your-youtube-gaming-experience/"><u>[Updated] 2024 Approved Decoding Hashtags' Role in Elevating Your YouTube Gaming Experience</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-instagrams-vertical-vortex-sideways-media-mystery/"><u>[Updated] Instagram's Vertical Vortex Sideways Media Mystery</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/best-free-webcam-driver-downloads-from-logitech-for-windows-computers/"><u>Best Free Webcam Driver Downloads From Logitech for Windows Computers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-bluetooth-mouse-setup-tools-for-pc-operating-systems/"><u>Get Your Logitech Bluetooth Mouse Setup Tools for PC Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-peaceful-playtime-strategies-to-reduce-your-ps4s-volume-level/"><u>Mastering Peaceful Playtime: Strategies to Reduce Your PS4's Volume Level</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-problems-with-asus-laptops-function-keys-a-step-by-step-guide/"><u>Overcoming Problems with Asus Laptop's Function Keys: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-system-hang-ups-effective-techniques-to-shut-down-windows-11-solved/"><u>Overcoming System Hang-Ups: Effective Techniques to Shut Down Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restored-enable-your-systems-area-wide-safety-features-now/"><u>Restored: Enable Your System’s Area-Wide Safety Features Now</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-essentials-assessing-the-strengths-and-weaknesses-of-criacrs-bluetooth-fm-transmitter-cp24/"><u>The Essentials: Assessing the Strengths and Weaknesses of CRIACR's Bluetooth FM Transmitter (CP24)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fix-hp-laptops-malfunctioning-usb-port/"><u>Troubleshooting Steps: Fix HP Laptop's Malfunctioning USB Port</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-svchost-high-cpu-consumption-issues-on-windows-11/"><u>Understanding and Resolving Svchost High CPU Consumption Issues on Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-streamline-your-tv-with-youtube-video-loops/"><u>[Updated] 2024 Approved Streamline Your TV with YouTube Video Loops</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-learn-to-sound-unique-how-to-alter-vocal-identity-on-the-battlefield-free-for-2024/"><u>[Updated] Learn to Sound Unique How to Alter Vocal Identity on the Battlefield (Free) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transforming-footage-a-step-by-step-guide-to-gopros-timelapse-for-2024/"><u>[Updated] Transforming Footage A Step-by-Step Guide to GoPro's Timelapse for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-syncing-words-and-images-lyric-video-magic-with-lyric-video-maker/"><u>2024 Approved Syncing Words and Images Lyric Video Magic with Lyric Video Maker</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoiding-tech-headaches-how-sfc-and-dism-can-quickly-fix-your-windows-10-system-errors/"><u>Avoiding Tech Headaches: How SFC & DISM Can Quickly Fix Your Windows 10 System Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-making-your-external-device-work-again-on-pcmac-systems/"><u>Diagnosis and Repair: Making Your External Device Work Again on PC/Mac Systems</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/earning-a-livelihood-in-2009-with-craiglist-strategies-and-massmail-pro-tips/"><u>Earning a Livelihood in 2009 with Craiglist Strategies and MassMail Pro Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211487783-fixing-windows-10-update-failures-get-your-updates-rolling/"><u>Fixing Windows 10 Update Failures - Get Your Updates Rolling!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-huawei-nova-y71-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Huawei Nova Y71 Phone Screen?</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-fix-iphone-updates-when-itunes-keeps-failing-during-software-download/"><u>How to Fix iPhone Updates When iTunes Keeps Failing During Software Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-overheating-issue-on-your-hp-spectre-x360-laptop/"><u>How to Resolve the Overheating Issue on Your HP Spectre X360 Laptop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-infinite-load-screen-problems-in-valorant-a-complete-guide/"><u>Resolving the Infinite Load Screen Problems in VALORANT - A Complete Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-wmv-files-into-mpeg-format-using-windows/"><u>Step-by-Step Guide: Transforming WMV Files Into MPEG Format Using Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-desktop-icons-on-windows-11-solved/"><u>Troubleshooting Missing Desktop Icons on Windows 11 – Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-fn-keys-in-dell-laptops-effective-strategies-and-fixes/"><u>Troubleshooting Non-Responsive Fn Keys in Dell Laptops: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-full-potential-of-your-file-explorer-in-windows-10/"><u>Unlock the Full Potential of Your File Explorer in Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vector-image-fundamentals-introduction-and-categories-for-2024/"><u>Vector Image Fundamentals Introduction & Categories for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-update-failure-cracking-the-0xc1900208-barrier-a-comprehensive-fix/"><u>Windows 10 Update Failure - Cracking the 0xC1900208 Barrier: A Comprehensive Fix</u></a></li>
 </ul></div>
 

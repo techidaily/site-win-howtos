@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Unfreeze and Restart Your Laptop Efficiently
-date: 2025-02-15T19:32:12.352Z
-updated: 2025-02-16T17:40:32.580Z
+date: 2025-03-02T20:01:34.099Z
+updated: 2025-03-05T17:01:33.344Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -50,10 +46,6 @@ Here’s how to reinstall the keyboard driver:
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -78,10 +70,6 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -122,10 +110,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -137,10 +121,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,18 +164,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-best-tools-to-create-stunning-igtv-video-edits/"><u>[New] Best Tools to Create Stunning IGTV Video Edits</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-rights-and-recourse-following-sudden-account-suspension-on-fb/"><u>[New] In 2024, Rights and Recourse Following Sudden Account Suspension on FB</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming/"><u>[Updated] 2024 Approved Mastering Live Broadcasts Your Step-by-Step Guide to Discord Streaming</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-foremost-websites-accelerating-youtube-traffic-for-2024/"><u>[Updated] Foremost Websites Accelerating YouTube Traffic for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cool-climates-with-a-warm-twist-selecting-video-bgs/"><u>[Updated] In 2024, Cool Climates with a Warm Twist Selecting Video Bg's</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unlock-the-secrets-of-finding-high-quality-instagram-tones-and-crafting-perfect-chimes/"><u>2024 Approved Unlock the Secrets of Finding High-Quality Instagram Tones and Crafting Perfect Chimes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/angled-artistry-a-guide-for-social-media-users-to-spin-their-photos-on-the-fly-for-2024/"><u>Angled Artistry A Guide for Social Media Users to Spin Their Photos on the Fly for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-when-your-windows-10-mouse-ignores-the-right-click/"><u>Comprehensive Fixes for When Your Windows 10 Mouse Ignores the Right Click</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-counter-strike-2-crashing-problems-on-your-computer/"><u>How to Resolve Counter-Strike 2 Crashing Problems on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-network-hurdles-corrective-measures-for-error-0x800704cf-in-windows/"><u>Overcoming Network Hurdles: Corrective Measures for Error 0X800704CF in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/surface-laptop-stuck-at-0-is-it-truly-plugged-in-and-why/"><u>Surface Laptop Stuck at 0% - Is It Truly Plugged in and Why?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unraveled-addressing-the-write-failure-in-referenced-memory-location-x/"><u>Unraveled: Addressing the Write Failure in Referenced Memory Location X</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-hub-for-newbies-in-cinematic-craftsmanship/"><u>YouTube Hub for Newbies in Cinematic Craftsmanship</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-crafting-memorable-announcements-the-key-to-successful-facebook-giving-posts-for-2024/"><u>[New] Crafting Memorable Announcements The Key to Successful Facebook Giving Posts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-exclusive-list-of-elite-christian-streaming-services/"><u>[Updated] The Exclusive List of Elite Christian Streaming Services</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earnings-update-navigating-youtube-monetization-for-2024/"><u>Earnings Update Navigating YouTube Monetization for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-repairing-windows-update-failure-error-0x8024002e/"><u>Effective Solutions for Repairing Windows Update Failure (Error 0X8024002E)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-installation-hitch-resolve-error-code-80240020/"><u>Fixing the Windows 10 Installation Hitch: Resolve Error Code 80240020</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-and-repair-the-stalled-diagnostics-monitoring-service/"><u>How to Reactivate and Repair the Stalled Diagnostics Monitoring Service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-htc-u23-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from HTC U23 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-detailed-steps-to-supercharge-your-youtube-audio-content/"><u>In 2024, Detailed Steps to Supercharge Your YouTube Audio Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/macos-sequoia-beta-version-15-now-available-step-by-step-download-and-install-instructions-for-all-macbook-models-zdnets-exclusive-article/"><u>MacOS Sequoia Beta Version 15 Now Available: Step-by-Step Download & Install Instructions for All MacBook Models - [ZDNet's Exclusive Article]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-issues-with-your-lenovo-fingerprint-sensor/"><u>Quick Fixes: Resolving Issues with Your Lenovo Fingerprint Sensor</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ranking-higher-with-security-an-in-depth-review-of-the-best-ring-video-doorbell-2/"><u>Ranking Higher with Security: An In-Depth Review of the Best, Ring Video Doorbell 2</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/speeding-up-your-applications-expert-tips-from-yl-computing-and-yl-software/"><u>Speeding Up Your Applications: Expert Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-against-window-woes-tackling-dead-screens-effectively/"><u>Winning Strategies Against Window Woes: Tackling Dead Screens Effectively</u></a></li>
 </ul></div>
 

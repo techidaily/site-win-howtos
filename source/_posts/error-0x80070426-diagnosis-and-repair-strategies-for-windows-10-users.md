@@ -1,7 +1,7 @@
 ---
 title: "Error 0X80070426: Diagnosis and Repair Strategies for Windows 10 Users"
-date: 2025-02-14T19:00:15.844Z
-updated: 2025-02-17T00:08:14.926Z
+date: 2025-02-26T17:48:57.988Z
+updated: 2025-03-05T16:49:12.472Z
 tags:
   - win11
   - win10
@@ -51,17 +51,9 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 ![download the latest version of IE 11](https://images.drivereasy.com/wp-content/uploads/2018/09/download-the-latest-version-of-IE-11.jpg)
 3. Install the latest version of IE 11 on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then Type **control** and press **Enter** to open the Control Panel.  
 ![step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/step-4.jpg)
 5. In the search box in the upper-right corner, type **installed update** . Click **View installed updates** under **Programs and Features**  to view installed updates on your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![View installed updates](https://images.drivereasy.com/wp-content/uploads/2018/09/View-installed-updates.jpg)
 6. Delete **Hotfix for Microsoft Windows (KB2534111)** and **Hotfix for Microsoft Windows (KB2639308)** .   **If you don’t find these two hot fixes, please skip this step.**  
@@ -92,15 +84,7 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 
 ![Fix 2 Step 5](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-2-Step-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The troubleshooter will try to fix the issue for you. You can restart your computer and try performing the Windows update again. If it still doesn’t work, please try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Restart the Windows Update service
 
@@ -129,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Run the DISM tool
 
  This annoying issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -140,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 1. On your keyboard, press **the Windows Logo Key** and **R** at the same time to open the Run dialog. Type**cmd**  and then press **Ctrl** , **Shift** , and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 4 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-1.jpg)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Dism /Online /Cleanup-Image /ScanHealth**  
 ![DISM ScanHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-ScanHealth.jpg)  
@@ -153,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 ![DISM CheckHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-CheckHealth.jpg)  
 **Note:** When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Dism /Online /Cleanup-Image /RestoreHealth**  
 ![DISM RestoreHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-RestoreHealth.jpg)  
  Note: The command line **Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.
@@ -164,15 +136,7 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 3. Close Command Prompt when the restore operation completed.  
 ![Fix 4 step 3](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
 
@@ -185,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 **sfc /scannow**  
 ![sfc sacannow](https://images.drivereasy.com/wp-content/uploads/2018/09/sfc-sacannow.jpg)
 3. When this command operation is completed, close the Command Prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run Windows Update again to check whether this fix works or not. If you still fail to install updates for your Windows system, please try the next fix.
 
@@ -247,22 +207,14 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-downloading-the-latest-insta-reels-two-ways-to-go/"><u>[New] 2024 Approved Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-repairing-incomplete-or-damaged-registry-issues-causing-dvdcd-rom-errors-on-windows-10/"><u>Comprehensive Guide: Repairing Incomplete or Damaged Registry Issues Causing DVD/CD-ROM Errors on Windows 10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-guide-extracting-text-from-your-iphoneipadmac-with-ease/"><u>Effortless Guide: Extracting Text From Your iPhone/iPad/Mac with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/from-darkness-to-light-solutions-for-overcoming-the-windows-11-screen-blackout-challenge/"><u>From Darkness to Light: Solutions for Overcoming the Windows 11 Screen Blackout Challenge</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-interaction-when-your-screen-has-no-pentouch-input/"><u>How to Enable Interaction When Your Screen Has No Pen/Touch Input</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-14-pro-max-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 14 Pro Max Without Apple ID Password?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-12-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme 12 Pro 5G Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-pc-sound-selector/"><u>In 2024, Premium PC Sound Selector</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-12-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme 12 Pro 5G Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-multi-screen-a-comprehensive-walkthrough-for-windows-10-users/"><u>Mastering Multi-Screen: A Comprehensive Walkthrough for Windows 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/preserve-file-locations-seamless-booting-and-access-in-windows-11/"><u>Preserve File Locations: Seamless Booting and Access in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-guide-dealing-with-undetectable-system-modules/"><u>The Ultimate Fix Guide: Dealing With Undetectable System Modules</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-freeware-de-compression-video-pour-mac-en-2023-designez-le-votre/"><u>Top Freeware De Compression Vidéo Pour MAC en 2023 - Designez Le Vôtre</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcome-audio-issues-with-your-logitech-g930-headset/"><u>Troubleshooting Tips: Overcome Audio Issues with Your Logitech G930 Headset</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unsticking-the-steelseries-arctis-5-mic-effective-strategies-for-audio-recovery/"><u>Unsticking the SteelSeries Arctis 5 Mic: Effective Strategies for Audio Recovery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-hello-ready-cameras-identified/"><u>Windows Hello Ready Cameras Identified</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-instrument-innovations-see-the-top-15-music-tech-tutorials-on-youtube/"><u>2024 Approved Instrument Innovations See the Top 15 Music Tech Tutorials on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatgpts-protection-measures/"><u>Assessing ChatGPT's Protection Measures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-verbetering-mod-naar-mp4-met-movavi-online-konvertor/"><u>Gratuit Verbetering MOD Naar MP4 Met Movavi - Online Konvertor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/i-piu-ottimi-player-video-4k-ultra-hd-per-pcmac-download-gratuiti-con-valutazioni-esclusive/"><u>I Più Ottimi Player Video 4K Ultra HD per PC/Mac: Download Gratuiti Con Valutazioni Esclusive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-conversion-libre-y-gratuita-de-archivos-rw2-a-formato-jpeg-digitalmente/"><u>Movavi - Conversión Libre Y Gratuita De Archivos RW2 a Formato JPEG Digitalmente</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-your-nexiq-usb-link-2-device-drivers/"><u>Step by Step Guide: Installing Your Nexiq USB-Link 2 Device Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-pro-drone-selections-for-professionals-for-2024/"><u>Top 5 Pro Drone Selections for Professionals for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tutoriel-complet-creation-de-videos-pour-mac-avec-movavi-guide-facile-a-suivre/"><u>Tutoriel Complet: Création De Vidéos Pour Mac Avec MOVAVI - Guide Facile À Suivre</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-potential-of-mixed-teaching-methods-with-our-definitive-guide-to-blended-learning-strategies/"><u>Unlock the Potential of Mixed Teaching Methods with Our Definitive Guide to Blended Learning Strategies</u></a></li>
 </ul></div>
 

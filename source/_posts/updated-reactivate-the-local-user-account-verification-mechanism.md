@@ -1,7 +1,7 @@
 ---
 title: "Updated: Reactivate the Local User Account Verification Mechanism"
-date: 2024-08-19T07:48:51.649Z
-updated: 2024-08-20T07:48:51.649Z
+date: 2025-02-28T19:07:29.673Z
+updated: 2025-03-05T19:37:38.790Z
 tags:
   - win11
   - win10
@@ -49,14 +49,7 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
 
 #### 2\. Make sure your printer driver is up-to-date
@@ -76,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 2. Click **Scan Now** . It will quickly detect all driver’s problems with your computer. Your printer driver is no exception.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
@@ -87,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 2: Repair or recreate your PDF file
 
  If there were any corrupted or incompatible data in your PDF file, your file wouldn’t be printed successfully. Here we give you two methods to try:
@@ -150,9 +137,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -163,9 +147,6 @@ sfc /scannow
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -200,9 +181,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -211,13 +189,7 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
 ---
@@ -232,8 +204,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +211,23 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-step-by-step-guide-to-screencasting-youtube-content-for-free/"><u>[New] 2024 Approved Step-by-Step Guide to Screencasting YouTube Content For Free</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-elite-introductory-editors-for-app-platforms/"><u>[New] Elite Introductory Editors for App Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-problem-conquering-miracast-unsupported-by-your-device/"><u>Beat the Problem: Conquering 'Miracast Unsupported by Your Device'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clearing-up-cloudy-skies-fixed-nvidia-errors-now/"><u>Clearing Up Cloudy Skies: Fixed NVIDIA Errors Now</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-all-file-types-supported-by-flipoffice-converter-a-complete-guide/"><u>Discover All File Types Supported by FlipOffice Converter - A Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-most-recent-nvidia-geforce-drivers-tailored-for-windows-users/"><u>Download and Install the Most Recent NVIDIA GeForce Drivers Tailored for Windows Users</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-efficiently-transfer-your-operating-system-partition-to-an-ssd-using-windows-11-or-10-tools/"><u>How to Efficiently Transfer Your Operating System Partition to an SSD Using Windows 11 or 10 Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-common-errors-with-youtube-audio-on-your-windows-10-device/"><u>How to Fix Common Errors with YouTube Audio on Your Windows 10 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-missing-device-notifications-in-windows-11-and-earlier-versions/"><u>How to Repair Missing Device Notifications in Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ethical-considerations-for-saving-whatsapp-conversations/"><u>In 2024, Ethical Considerations for Saving WhatsApp Conversations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/non-charging-acer-causes-solutions-and-expert-tips-for-power-restoration/"><u>Non-Charging Acer: Causes, Solutions, and Expert Tips for Power Restoration</u></a></li>
+<li><a href="https://win-community.techidaily.com/seamless-data-protection-how-to-safeguard-your-files-across-multiple-cloud-services-using-top-freeware/"><u>Seamless Data Protection: How to Safeguard Your Files Across Multiple Cloud Services Using Top Freeware</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-6-solutions-how-to-fix-hogwarts-legacy-gameplay-lag/"><u>Top 6 Solutions: How to Fix Hogwarts Legacy Gameplay Lag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixed-fixing-non-responsive-touchpad-scroll-issues-in-windows-11/"><u>Troubleshooting Fixed: Fixing Non-Responsive Touchpad Scroll Issues in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-10-startup-freezes-how-to-get-your-pc-running-smoothly-again/"><u>Troubleshooting Tips for Windows 10 Startup Freezes: How to Get Your PC Running Smoothly Again</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-tycoons-earning-the-most-for-2024/"><u>YouTube Tycoons Earning the Most for 2024</u></a></li>
+</ul></div>
 

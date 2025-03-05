@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Overcome COD WWII Error Code 4220 Issue
-date: 2025-02-11T21:38:43.726Z
-updated: 2025-02-16T22:23:31.135Z
+date: 2025-02-27T19:31:06.118Z
+updated: 2025-03-05T18:12:25.449Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Stop CPU / GPU overclocking
 
  you may encounter the “Error 0x887A0006” error message if you’re overclocking your CPU or GPU during the game. The increasing CPU / GPU speed may crash the game.
@@ -51,10 +47,6 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
  If you’re overclocking your CPU or GPU, you need to set your CPU / GPU clock speed back to normal. Then restart your PC to see if this issue works for you.
 
 If this issue persists, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -97,18 +89,10 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -128,19 +112,11 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
@@ -184,19 +160,11 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
 7. Launch the problematic application again to see if this fix works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this fix doesn’t work, or if you want to undo the change in the registry, do as follows:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**regedit** and press**Enter** to open**Registry Editor** . You’ll be prompted for permission, click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 2. Go to **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and locate a key called**TdrDelay** . Right-click on it and select**Delete** to delete it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
 3. Restart your PC to save the change.
@@ -235,16 +203,8 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
@@ -273,22 +233,21 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-ideal-3d-home-theaters-top-blu-ray-player-reviews/"><u>[New] 2024 Approved Ideal 3D Home Theaters Top Blu-Ray Player Reviews</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-insider-guide-to-youtube-live-video-thumbnails/"><u>[New] The Ultimate Insider Guide to YouTube Live Video Thumbnails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-intermittent-screen-glitches-in-microsofts-latest-os/"><u>Diagnosing and Fixing Intermittent Screen Glitches in Microsoft's Latest OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-overcoming-the-troublesome-windows-11-update-error-0x8024401c/"><u>Error Free: Overcoming the Troublesome Windows 11 Update Error 0X8024401c</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-strategies-to-overcome-system-program-not-initialized-problem-on-pc-error-0xc0000098/"><u>Expert Strategies to Overcome System Program Not Initialized Problem on PC (Error 0Xc0000098)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-how-to-fix-opengl-glitches-in-minecraft-gameplay/"><u>Expert Tips on How to Fix OpenGl Glitches in Minecraft Gameplay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-stagnant-99-in-windows-10-update-progress/"><u>Fixing the Stagnant 99% in Windows 10 Update Progress</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-11f-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 11F 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-auto-gps-devices-ranked-for-excellence/"><u>Innovative Auto GPS Devices Ranked for Excellence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-how-to-fix-an-overwatch-error-on-your-rendering-tool/"><u>Overcoming the Obstacle: How to Fix an Overwatch Error on Your Rendering Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-restoring-lenovos-function-keys-performance/"><u>Quick Solutions for Restoring Lenovo's Function Keys Performance</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-fix-for-your-targus-hub-effortless-drivers-available-to-download/"><u>Quick-Fix for Your Targus Hub: Effortless Drivers Available to Download</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-operation-integrate-pro-4-drivers-into-windows-os/"><u>Smooth Operation: Integrate Pro 4 Drivers Into Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-restoring-visible-bluetooth-options-on-pcs-device-manager/"><u>Troubleshooting: Restoring Visible Bluetooth Options on PC's Device Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-guide-top-windows-based-ndsswitch-games/"><u>Ultimate Guide: Top Windows-Based NDS/Switch Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-reducing-your-discords-cpu-consumption/"><u>Ultimate Solution for Reducing Your Discord's CPU Consumption</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/windows-amoeba-10-kann-micro-sd-karte-nicht-lesen-erfahre-3-bewahrte-methoden-zur-problemlosung-plus-einen-nutzlichen-ratschlag/"><u>Windows Amoeba 10 Kann Micro SD-Karte Nicht Lesen!? Erfahre 3 Bewährte Methoden Zur Problemlösung Plus Einen Nützlichen Ratschlag.</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pro-tips-optimal-videography-with-these-top-12-portable-cams/"><u>[Updated] Pro Tips Optimal Videography with These Top 12 Portable Cams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/confronting-and-overcoming-mmc-snaps-not-found-errors/"><u>Confronting and Overcoming MMC Snaps Not Found Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-unavailable-remote-procedure-call-error-in-windows-environments/"><u>Diagnosing and Repairing the Unavailable Remote Procedure Call Error in Windows Environments</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-withings-move-a-perfect-marriage-between-analog-and-digital/"><u>Expert Insights on The Withings Move: A Perfect Marriage Between Analog and Digital</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-your-current-security-settings-do-not-allow-this-file-to-be-downloaded/"><u>Fixed: Your Current Security Settings Do Not Allow This File to Be Downloaded</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-adapter-missing-from-windows-device-manager/"><u>How To Fix Bluetooth Adapter Missing From Windows Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-syncing-and-audio-dropouts-in-your-logitech-wireless-g930/"><u>How To Repair Syncing and Audio Dropouts in Your Logitech Wireless G930</u></a></li>
+<li><a href="https://fox-info.techidaily.com/humor-haven-free-tools-for-meme-artistry/"><u>Humor Haven FREE Tools for Meme Artistry</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-avatar/"><u>New 2024 Approved What Is an AI Avatar?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hosted-network-could-not-start-errors-on-windows-11-devices/"><u>Overcoming 'Hosted Network Could Not Start' Errors on Windows 11 Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/sports-and-screen-capture-the-best-ways-to-document-the-action-for-2024/"><u>Sports and Screen Capture The Best Ways to Document the Action for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-update-troubles-heres-how-to-fix-installation-errors-effortlessly/"><u>Steam Update Troubles? Here's How to Fix Installation Errors Effortlessly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unfixable-fault-devices-cease-functioning/"><u>Unfixable Fault: Devices Cease Functioning</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-system-with-the-newest-nvidia-gtx-3070-ti-drivers-for-microsoft-windows-os-versions/"><u>Update Your System With the Newest NVIDIA GTX 3070 Ti Drivers for Microsoft Windows OS Versions</u></a></li>
 </ul></div>
 

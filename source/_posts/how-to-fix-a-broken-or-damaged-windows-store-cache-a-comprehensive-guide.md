@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Broken or Damaged Windows Store Cache: A Comprehensive Guide"
-date: 2025-02-11T23:01:11.194Z
-updated: 2025-02-17T01:45:56.566Z
+date: 2025-03-03T19:03:02.018Z
+updated: 2025-03-05T18:05:56.827Z
 tags:
   - win11
   - win10
@@ -51,10 +51,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -73,16 +69,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -94,16 +82,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -123,10 +103,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,24 +130,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-captivating-captions-a-triad-of-tips-for-insta-videos/"><u>[New] In 2024, Crafting Captivating Captions A Triad of Tips for Insta Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-how-do-i-use-adobe-premiere-to-upload-youtube-videos/"><u>2024 Approved How Do I Use Adobe Premiere To Upload YouTube Videos?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-your-photos-the-prime-selection-of-no-cost-editors/"><u>2024 Approved Master Your Photos The Prime Selection of No-Cost Editors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoid-these-7-common-iphone-display-problems-with-easy-fixes/"><u>Avoid These 7 Common iPhone Display Problems with Easy Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-vs-chatgpt-googles-new-ai-showdown-announced/"><u>Bard Vs. ChatGPT: Google's New AI Showdown Announced</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/determining-the-value-in-iphoneipod-battery-upgrades/"><u>Determining the Value in iPhone/iPod Battery Upgrades</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-hidden-touchpad-in-device-manager/"><u>Discover Hidden Touchpad in Device Manager!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-a-broken-microphone-on-windows-10-systems/"><u>Effective Solutions for a Broken Microphone on Windows 10 Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oneplus-11-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a OnePlus 11 5G Phone that is Locked?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-download-youtube-videos-on-android-9-powerful-apps-compared/"><u>In 2024, Download YouTube Videos on Android 9 Powerful Apps Compared</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-tap-into-endless-creativity-our-compilation-of-over-50-free-advertising-masterpieces/"><u>In 2024, Tap Into Endless Creativity – Our Compilation of over 50 FREE Advertising Masterpieces!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-of-error-80240020-during-windows-10-setup-your-ultimate-fixing-manual/"><u>Overcoming the Obstacle of Error 80240020 During Windows 10 Setup - Your Ultimate Fixing Manual</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-unspecified-error-error-code-0x80004005/"><u>Resolved: Fixing the 'Unspecified Error' (Error Code 0X80004005)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-resolving-the-issue-of-a-computer-continuously-halted-at-startup-screens/"><u>Solved: Resolving the Issue of a Computer Continuously Halted at Startup Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-device-manager-error-code-28-for-windows-users/"><u>Troubleshooting and Fixing Device Manager Error Code 28 for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-what-to-do-when-your-pc-runs-slow-on-windows-10/"><u>Troubleshooting: What To Do When Your PC Runs Slow on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-overcoming-frequent-re-booting-glitches-on-windows-10/"><u>Ultimate Guide to Overcoming Frequent Re-Booting Glitches on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209960916-xbox-one-wont-connect-to-xbox-live-solved/"><u>Xbox One Won't Connect to Xbox Live [SOLVED]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-key-film-snippets-with-ranked-tools/"><u>[New] Mastering Key Film Snippets with Ranked Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-srt-file-handling-on-cross-platform-operating-systems/"><u>2024 Approved SRT File Handling on Cross-Platform Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-mp43gp/"><u>網站自由下載Movavi MP4至3GP格式轉檔器 - 線上無限制</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pbm-join-movavi/"><u>線上 PBM 免費移動遊戲，現在 Join Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comment-transformer-vos-fichiers-mp2-en-videos-avi-sur-internet-gratuitement-solution-de-movavi/"><u>Comment Transformer Vos Fichiers Mp2 en Vidéos Avi Sur Internet Gratuitement - Solution De Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/download-now-authentic-winx-film-extractor-and-professional-hd-video-format-changer-no-cost/"><u>Download Now: Authentic WinX Film Extractor & Professional HD Video Format Changer (No Cost)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/download-the-latest-official-release-of-5kplayer-on-mac-os-catalinabig-sur-no-cost/"><u>Download the Latest Official Release of 5KPlayer on Mac OS Catalina/Big Sur - No Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-avif-format-arw-to-png-images-with-ease/"><u>Free Online Converter: Change AVIF Format (ARW) to PNG Images with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-screen-selections-for-ps5-enthusiasts/"><u>In 2024, Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movate-a-la-era-digital-con-conversion-de-archivos-alaw-libre-y-descarga-gratuita-de-movavi/"><u>Móvate a La Era Digital Con Conversión De Archivos Alaw Libre Y Descarga Gratuita De Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-the-blue-screen-challenge-fix-your-pcs-0x0000003d-error-today/"><u>Overcoming the Blue Screen Challenge: Fix Your PC's 0X0000003D Error Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-gif-in-file-swf-free-online-usando-leditor-di-movavi/"><u>Trasforma I Tuoi GIF in File SWF Free Online Usando L'editor Di Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-libri-audiolibro-con-ease-ottieni-una-conversione-gratuita-da-m4b-a-m4a-usando-il-metodo-online-di-movavi/"><u>Trasforma I Tuoi Libri Audiolibro Con Ease: Ottieni Una Conversione Gratuita Da M4B a M4A Usando Il Metodo Online Di Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unveiling-secrets-the-best-dronescopic-stabilizers-reviewed-for-2024/"><u>Unveiling Secrets The Best Dronescopic Stabilizers Reviewed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/yeni-duzenlemeler-aktivasyon-anahtari-ucretsiz-olarak-desteklenmis-genetik-muhendisligi-uygulamasi/"><u>Yeni Düzenlemeler Aktivasyon Anahtarı Ücretsiz Olarak Desteklenmiş Genetik Mühendisliği Uygulaması</u></a></li>
 </ul></div>
 

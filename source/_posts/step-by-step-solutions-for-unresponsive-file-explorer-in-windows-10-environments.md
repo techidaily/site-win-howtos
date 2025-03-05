@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Unresponsive File Explorer in Windows 10 Environments
-date: 2024-08-19T07:46:54.161Z
-updated: 2024-08-20T07:46:54.161Z
+date: 2025-03-04T17:03:24.151Z
+updated: 2025-03-05T18:05:03.079Z
 tags:
   - win11
   - win10
@@ -106,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -122,26 +119,16 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 4) Open the app again to see if it goes fine.
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
  2) Click **System** .
@@ -150,9 +137,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -181,9 +165,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 3) Open the app again to see if it goes fine.
 
 That’s it!
@@ -202,8 +183,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +190,17 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-tutorial-posting-youtube-videos-on-fb/"><u>[New] Ultimate Tutorial Posting YouTube Videos on FB</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unboundscreen-capturing-every-gaming-moment-for-free-for-2024/"><u>[Updated] UnboundScreen Capturing Every Gaming Moment for FREE for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-superior-cloud-space-solutions/"><u>2024 Approved Top Picks Superior Cloud Space Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-coding-standards-is-av1-outclassing-vp9/"><u>Advanced Coding Standards Is AV1 Outclassing VP9?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-device-path-not-found-issues-in-your-windows-os/"><u>Fixing ‘Device Path Not Found’ Issues In Your Windows OS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-imagination-to-illustration-ranking-the-best-8-iphone-drawing-software-for-2024/"><u>From Imagination to Illustration Ranking the Best 8 iPhone Drawing Software for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974168181-optimize-performance-with-newest-amd-radeon-rx-amd-rx-580-driver-update-quick-and-easy-steps/"><u>Optimize Performance with Newest AMD Radeon RX amD RX 580 Driver Update – Quick and Easy Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-cpu-drain-in-wmis/"><u>Quick Fixes for CPU Drain in WMIs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-what-to-do-if-windows-10-crashes-or-hangs/"><u>Troubleshooting Guide: What To Do If Windows 10 Crashes or Hangs?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-logitech-mouse-scrolling-issues/"><u>Troubleshooting Steps: Resolving Logitech Mouse Scrolling Issues</u></a></li>
+</ul></div>
 

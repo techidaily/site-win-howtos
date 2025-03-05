@@ -1,7 +1,7 @@
 ---
 title: How To Fix A Non-Responsive Synaptics Touchpad When Scrolling on Windows 11
-date: 2025-02-15T17:39:32.157Z
-updated: 2025-02-16T19:27:21.279Z
+date: 2025-03-01T17:57:04.902Z
+updated: 2025-03-05T19:14:09.243Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
@@ -48,24 +44,12 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -86,10 +70,6 @@ Both fixes below work in Windows 10, 8 and 7.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Check and see if your Lenovo touchpad is back to life again. ?
 
@@ -118,22 +98,22 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/1716069643977-new-2024-approved-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders/"><u>[New] 2024 Approved Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders.</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-instant-aspect-ratio-tuning-for-youtube-on-mac/"><u>[New] 2024 Approved Instant Aspect Ratio Tuning for Youtube on Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-snapchat-a-users-handbook-for-highlights/"><u>2024 Approved Spotlight on Snapchat A User's Handbook for Highlights</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-xr-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone XR Activation Lock</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/essential-volume-settings-ensuring-optimal-backup-locations/"><u>Essential Volume Settings: Ensuring Optimal Backup Locations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/exiting-question-unreal-and-d3d-part-ways/"><u>Exiting Question: Unreal and D3D Part Ways?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/googles-future-phone-a-sneak-peek-at-price-estimates-release-window-tech-specs-and-rumors/"><u>Google's Future Phone: A Sneak Peek at Price Estimates, Release Window, Tech Specs and Rumors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-correcting-steam-game-setup-failures-during-updates-or-new-installs/"><u>Guide to Correcting Steam Game Setup Failures During Updates or New Installs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel P40 Bootloader Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-eliminating-screen-tearing-issues-in-valorant-a-step-by-step-guide/"><u>Resolved: Eliminating Screen Tearing Issues in VALORANT - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-graphics-card-compatibility-issues-with-fortnite-on-windows/"><u>Resolving Graphics Card Compatibility Issues with Fortnite on Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-12-best-tycoon-games-guaranteed-to-hook-you-for-2024/"><u>Top 12 Best Tycoon Games Guaranteed to Hook You for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-problem-detected-during-pc-reset-on-windows-10-expert-advice/"><u>Troubleshooting and Fixing the 'Problem Detected During PC Reset' On Windows 10 - Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-errors-when-opening-microsoft-store/"><u>Troubleshooting Guide: Resolving Errors When Opening Microsoft Store</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-solutions-fixing-common-problems-with-your-wacom-tablet/"><u>Troubleshooting Solutions: Fixing Common Problems with Your Wacom Tablet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-when-torrents-refuse-to-load-an-experts-advice/"><u>What To Do When Torrents Refuse to Load? An Expert’s Advice</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-yt-cover-art-the-key-to-more-views/"><u>[New] In 2024, YT Cover Art The Key to More Views</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-back-track-technique-reverse-video-in-ios-devices/"><u>[Updated] Back-Track Technique Reverse Video in iOS Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-success-starts-with-these-strategies/"><u>[Updated] Instagram Success Starts with These Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/directx-boot-problem-heres-your-step-by-step-guide-to-easy-installation-fixes/"><u>DirectX Boot Problem? Here's Your Step-by-Step Guide to Easy Installation Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-usb-c-drivers-for-your-windows-10-pc-today/"><u>Download & Install the Latest USB-C Drivers for Your Windows 10 PC Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-overcome-problems-when-printing-pdf-files/"><u>Easy Fixes to Overcome Problems when Printing PDF Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-steps-when-connected-to-a-remote-server-fails/"><u>Easy Troubleshooting Steps When Connected to a Remote Server Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207227335-halo-4-fatal-system-crash-on-unreal-engine-4-here-are-your-ultimate-solutions/"><u>Halo 4 Fatal System Crash on Unreal Engine 4? Here Are Your Ultimate Solutions !</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-optimize-your-pc-managing-dwms-high-graphics-load-on-windows-11/"><u>How to Optimize Your PC: Managing DWM's High Graphics Load on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/iphones-simple-methods-for-effective-screening-for-2024/"><u>IPhone's Simple Methods for Effective Screening for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-pc-version-freezing-issue-resolved/"><u>Pathfinder: Wrath of the Righteous PC Version - Freezing Issue Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rectified-initialization-mishap-of-the-display-engine-with-latest-fixes-year-2pressure-on-rendering-engines-we-can-create-titles-that-communicate-a-successf140/"><u>Rectified Initialization Mishap of the Display Engine with Latest Fixes (Year 2Pressure on Rendering Engines, We Can Create Titles that Communicate a Successful Resolution to an Initial Problem While Still Hinting at Improvements or Fixes Made :</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-xs-max-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone XS Max</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-assassins-creed-syndicate-sequence-failure/"><u>Troubleshooting Guide: Solving 'Assassin's Creed Syndicate Sequence Failure'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-ps4-controller-why-it-might-not-be-charging/"><u>Troubleshooting Your PS4 Controller: Why It Might Not Be Charging</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-success-stellar-guide-to-software-tricks-and-do-it-yourself-mastery/"><u>Unlocking Success: Stellar Guide to Software Tricks & Do-It-Yourself Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212303022-windows-10-update-stuck-or-frozen-how-do-i-fix-it/"><u>Windows 10 Update Stuck or Frozen – How Do I Fix It?</u></a></li>
 </ul></div>
 

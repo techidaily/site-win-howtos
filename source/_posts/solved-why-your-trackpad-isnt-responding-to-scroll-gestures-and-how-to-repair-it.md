@@ -1,7 +1,7 @@
 ---
 title: "Solved: Why Your Trackpad Isn't Responding to Scroll Gestures & How to Repair It"
-date: 2025-02-14T18:07:44.149Z
-updated: 2025-02-16T18:23:54.937Z
+date: 2025-03-03T17:53:47.628Z
+updated: 2025-03-05T18:26:48.817Z
 tags:
   - win11
   - win10
@@ -44,32 +44,16 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf297e71ab26.png)
 3. In the view of**Category** , click**Hardware and Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 2: Enable two-finger scrolling
 
@@ -84,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 3: Change your mouse pointer
 
@@ -143,22 +123,24 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-11-step-by-step-pathways-to-perfect-grading-for-2024/"><u>[New] 11 Step by Step Pathways to Perfect Grading for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-totv-multimedia-player-wmp-alternative/"><u>[New] TOTV Multimedia Player WMP Alternative</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-discover-efficient-methods-for-compiling-songs-on-youtube/"><u>[Updated] 2024 Approved Discover Efficient Methods for Compiling Songs on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quitting-linkedin-how-to-close-your-account-properly/"><u>[Updated] Quitting LinkedIn How To Close Your Account Properly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clear-troubles-away-how-to-successfully-address-and-remove-google-chromes-urgent-error-warning/"><u>Clear Troubles Away: How to Successfully Address and Remove Google Chrome's Urgent Error Warning</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-wwe-2k-battlegrounds-feature-level-100-directx-errors/"><u>Effective Solutions for the WWE 2K: Battlegrounds Feature Level 10.0 DirectX Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-10-stuck-update-problems-easily/"><u>How to Overcome Windows 10 Stuck Update Problems Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-a2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-performance-hurdles-in-war-thunder-with-these-proven-low-fps-fixes-insights-for-2n24/"><u>Overcome Performance Hurdles in War Thunder with These Proven Low-FPS Fixes (Insights for 2N24)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-age-of-empires-3-launch-problems-a-comprehensive-guide/"><u>Overcoming Age of Empires 3 Launch Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-non-functional-issues-with-hp-laptop-trackpad/"><u>Resolving Non-Functional Issues with HP Laptop Trackpad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-couldnt-load-plugin-issue-in-google-chrome-on-windows-10-a-comprehensive-guide/"><u>Resolving the 'Couldn't Load Plugin' Issue in Google Chrome on Windows 10 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-tech-essential-strategies-for-repairing-damaged-computers-and-devices/"><u>Revive Your Tech: Essential Strategies for Repairing Damaged Computers and Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-top-7-solutions-when-your-iphone-wont-charge-wirelessly/"><u>Troubleshooting Guide: Top 7 Solutions When Your iPhone Won't Charge Wirelessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-successfully-completed-no-more-failed-to-initialize-network-in-dbfz/"><u>Troubleshooting Successfully Completed: No More 'Failed to Initialize Network' In DBFZ</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/zelfs-belangrijke-dokumenten-omzetten-de-gouden-procedure-van-movavi-ongeknopt-en-kostenloos/"><u>Zelfs Belangrijke Dokumenten Omzetten: De Gouden Procedure Van Movavi, Ongeknopt en Kostenloos!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mtsmp4/"><u>高速化・大量データのMTSからMP4への変換テクニック - 効率的な方法を学ぶ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ppt-gifpowerpoint/"><u>迅速なPPT GIF変換：PowerPoint使い方ビデオテックニック</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/boosting-laptop-speed-and-stability-essential-advice-by-yl-tech-experts/"><u>Boosting Laptop Speed and Stability: Essential Advice by YL Tech Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquering-the-mighty-lynel-a-step-by-step-guide/"><u>Conquering the Mighty Lynel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-amd-radeon-rx-480-driver-updates-and-downloads/"><u>Effortless Installation: AMD Radeon RX 480 Driver Updates and Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-nvidia-1080-graphics-card-driver-installation-for-windows-10-users/"><u>Effortless NVIDIA 1080 Graphics Card Driver Installation for Windows 10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-access-and-master-windows-11-component-services/"><u>How to Access & Master Windows 11' Component Services</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-poco-f5-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Poco F5 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-screen-recording-updated-techniques-to-record-from-crunchyroll-in-four-ways/"><u>Mastering Screen Recording: Updated Techniques to Record From Crunchyroll in Four Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-video-orientation-changes-tips-for-quickly-rotating-clips-in-media-player-classic/"><u>Mastering Video Orientation Changes: Tips for Quickly Rotating Clips in Media Player Classic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-guide-fast-dvd-ripping-with-windows/"><u>Quick & Easy Guide: Fast DVD Ripping with Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-speeding-through-your-dvd-duplication-process-on-windows-1011/"><u>Quick Guide: Speeding Through Your DVD Duplication Process on Windows 10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revive-facetime-visibility-fixing-the-mysterious-blackout-problem/"><u>Revive FaceTime Visibility – Fixing the Mysterious Blackout Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/safe-and-smart-strategies-for-converting-dvd-content-into-digital-format-on-computers/"><u>Safe & Smart Strategies for Converting DVD Content Into Digital Format on Computers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761806-9781591798194-shamanic-journeying/"><u>Shamanic Journeying | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-guide-deciphering-dvd-css-secrets-using-a-high-quality-decoder/"><u>Simplified Guide: Deciphering DVD CSS Secrets Using a High-Quality Decoder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webmavimovavi/"><u>WebmファイルのAVIへ完全自由に変換！Movaviで手軽なオンラインツール</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mtsm2ts-wmv/"><u>フリーソフトで MTS/M2TS から WMV への変換手順</u></a></li>
 </ul></div>
 

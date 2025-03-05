@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your Dell Computer's USB Port Stops Working
-date: 2025-02-14T01:13:43.088Z
-updated: 2025-02-16T20:48:50.584Z
+date: 2025-03-02T17:35:34.849Z
+updated: 2025-03-05T19:46:35.671Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. [**Reinstall Oddworld: Soulstorm and the launcher**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your PC meets the minimum specifications for Oddworld: Soulstorm
 
  Oddworld: Soulstorm has a set of hardware and system requirements in order for it to be played smoothly. If your copy of Oddworld: Soulstorm crashes a lot on your PC, it’s worth checking if your PC meets the requirements.
@@ -58,10 +54,6 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
@@ -86,19 +78,11 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-your-device-drivers.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your computer for the changes to take effect.
 5. Launch Oddworld: Soulstorm and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Epic Games Launcher as administrator
 
@@ -108,10 +92,6 @@ Here’s how:
 
 1. On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , type**epic** , then right-click on**Epic Games Launcher** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/epic.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. Click**Yes** when UAC promots for permissions to proceed.
 
@@ -133,16 +113,8 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
@@ -166,10 +138,6 @@ Here are the steps to perform a clean boot:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Type or past **msconfig**  and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services.png)
 3. Browse through the full list of services, make sure to **check the boxes for the items that belong to your hardware manufacturers** (such as Intel, AMD, and Qualcomm) and**uncheck the boxes for the rest** . Once finished, click**OK** to apply the changes.  
@@ -205,24 +173,20 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-to-action-hunting-gear-for-2024/"><u>[New] The Ultimate Guide to Action Hunting Gear for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-elements-of-a-memorable-podcast-teaser/"><u>[Updated] 2024 Approved Essential Elements of a Memorable Podcast Teaser</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-channel-ownership-and-revenue-with-2024-ytp-plan/"><u>[Updated] Channel Ownership & Revenue with 2024 YTP Plan</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>[Updated] Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-hero5-black-versus-hero4-silver-comparison/"><u>[Updated] Hero5 Black Versus Hero4 Silver Comparison</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>[Updated] Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/clandestine-glimpse-at-fb-flashbacks/"><u>Clandestine Glimpse at Fb Flashbacks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-causes-of-minecraft-multiplayer-lan-failures-and-solutions/"><u>Common Causes of Minecraft Multiplayer LAN Failures and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-stuck-or-defective-keys-for-windows-10-and-11-users/"><u>Diagnosing and Repairing Stuck or Defective Keys for Windows 10 & 11 Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-content-with-these-top-keyword-discovery-tools-for-2024/"><u>Elevate Your Content with These Top Keyword Discovery Tools for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/essential-vsco-editing-techniques-summary/"><u>Essential VSCO Editing Techniques Summary</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207534072-fixing-windows-11-installation-failure-resolve-error-code-802/"><u>Fixing Windows 11 Installation Failure: Resolve Error Code 802#</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/improving-display-synchronization-between-your-device-and-monitor/"><u>Improving Display Synchronization Between Your Device and Monitor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mkv-5-mkv/"><u>MKV 再生専用プレイヤートップ5 - 無料で軽量設計: スムーズなMKVファイル鑑賞方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-overcoming-startup-problems-with-error-code-1053/"><u>Quick Fixes: Overcoming Startup Problems with Error Code 1053</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rectified-power-surge-issue-with-gateway-hub/"><u>Rectified: Power Surge Issue with Gateway Hub</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-windows-10-update-issue-with-error-code-0x800f0922-using-these-easy-fixes/"><u>Resolve Windows 10 Update Issue with Error Code 0X800f0922 Using These Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-adjusted-security-preferences-now-permit-download-of-this-file/"><u>Resolved: Adjusted Security Preferences Now Permit Download of This File</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-unexpected-auto-boot-on-your-windows-11-machine-a-comprehensive-guide/"><u>Solve Unexpected Auto-Boot on Your Windows 11 Machine: A Comprehensive Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamlining-the-process-of-saving-ps3-gaming-moments/"><u>[Updated] 2024 Approved Streamlining the Process of Saving PS3 Gaming Moments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-display-budget-friendly-discover-how-this-ultraportable-laptop-outshines-others-on-price-and-quality/"><u>Amazing Display, Budget-Friendly: Discover How This Ultraportable Laptop Outshines Others on Price & Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-fixing-the-red-alert-on-your-device-a-step-by-step-guide/"><u>Decoding and Fixing the Red Alert on Your Device - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-long-shutdown-times-in-windows-10/"><u>Diagnosing and Repairing Long Shutdown Times in Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-y200-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo Y200 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-when-your-igfxem-functionality-halted-unexpectedly/"><u>How to Repair When Your 'IgfxEM' Functionality Halted Unexpectedly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-player-cannot-load-content-issue-on-windows-systems/"><u>How to Resolve the 'Player Cannot Load Content' Issue on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-the-windows-update-error-0x8024402c-effective-fixes-inside/"><u>How To Successfully Overcome the Windows Update Error 0X8024402c: Effective Fixes Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrated-controller-drivers-for-w11-and-xone/"><u>Integrated Controller Drivers for W11 & Xone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-reviving-the-lights-on-your-corsair-keyboard/"><u>Solved: Reviving the Lights on Your Corsair Keyboard</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/transform-your-tech-experience-learn-how-to-screen-record-efficiently-for-2024/"><u>Transform Your Tech Experience Learn How to Screen Record Efficiently for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-nokia-105-classic-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Nokia 105 Classic Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209714355-windows-10-error-0x8024002e-heres-how-to-fix-it-and-get-your-updates-running-smoothly-again/"><u>Windows 10 Error 0X8024002e? Here's How to Fix It and Get Your Updates Running Smoothly Again</u></a></li>
 </ul></div>
 

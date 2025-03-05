@@ -1,7 +1,7 @@
 ---
 title: Resolving WD My Passport Ultra Detection Issues in Windows Environments
-date: 2025-02-10T23:37:08.588Z
-updated: 2025-02-16T17:23:59.515Z
+date: 2025-03-02T18:35:39.702Z
+updated: 2025-03-05T20:31:57.284Z
 tags:
   - win11
   - win10
@@ -37,24 +37,12 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
 
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
 
@@ -63,10 +51,6 @@ Both fixes below work in Windows 10, 8 and 7.
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -87,10 +71,6 @@ Both fixes below work in Windows 10, 8 and 7.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Check and see if your Lenovo touchpad is back to life again. ?
 
@@ -119,16 +99,18 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-future-of-videos-assessing-av1s-edge-over-vp9/"><u>[New] The Future of Videos Assessing AV1's Edge over VP9</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-strategy-dominion-discovering-the-7-pinnacle-conflicts/"><u>[Updated] 2024 Approved Strategy Dominion Discovering the 7 Pinnacle Conflicts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bring-life-to-your-race-a-step-by-step-fix-for-silent-gameplay-in-forza-horizon-4/"><u>Bring Life to Your Race: A Step-by-Step Fix for Silent Gameplay in Forza Horizon 4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-successfully-creating-a-d3d-device-after-previous-failures/"><u>Comprehensive Guide to Successfully Creating a D3D Device After Previous Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211398342-computer-keeps-powering-down-heres-how-to-stop-it-from-turning-on-and-off-again/"><u>Computer Keeps Powering Down? Here's How to Stop It From Turning On and Off Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-broken-keyboard-letter-issue-on-pcs-with-windows-1011/"><u>How to Fix a Broken Keyboard Letter Issue on PCs with Windows 10/11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-ditch-final-cut-pro-x-explore-these-10-powerful-video-editing-alternatives/"><u>In 2024, Ditch Final Cut Pro X? Explore These 10 Powerful Video Editing Alternatives</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-razr-40-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Razr 40 FRP</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-several-ts-files-into-mp4-quickly-and-easily/"><u>Step-by-Step Guide: Transforming Several TS Files Into MP4 Quickly and Easily</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-rated-tracking-devices-discover-the-optimal-choice/"><u>Top-Rated Tracking Devices : Discover the Optimal Choice!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-secret-to-fixing-error-code-0x80070002-in-windows-update-expert-advice/"><u>Unlock the Secret to Fixing Error Code 0X80070002 in Windows Update - Expert Advice</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quicksnap-win10-recording-master/"><u>[Updated] QuickSnap Win10 Recording Master</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-convert-your-m4a-audio-to-high-quality-aac-format-for-free-try-movavi-today/"><u>Effortlessly Convert Your M4A Audio to High-Quality AAC Format for Free - Try Movavi Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-quicktime-qt-files-into-mp4-format-with-ease/"><u>Free Online Converter: Change QuickTime (QT) Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-m4a-files-to-wma-format-by-movavi/"><u>Free Online Converter: Transform M4A Files to WMA Format by Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-transform-mp3-files-into-wav-format-with-ease/"><u>Free Online Converter: Transform MP3 Files Into WAV Format with Ease</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-se-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone SE and Android Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-evaluation-hero4-black-experience/"><u>In-Depth Evaluation Hero4 Black Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/les-6-meilleurs-moyens-de-transformer-des-fichiers-videos-en-mp4-sur-un-mac/"><u>Les 6 Meilleurs Moyens De Transformer Des Fichiers Vidéos en MP4 Sur Un Mac</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/montaggio-foto-perfetto-scopri-i-5-metodi-migliori-per-unire-fotografie-nel-mese-di-settemb/"><u>Montaggio Foto Perfetto - Scopri I 5 Metodi Migliori per Unire Fotografie Nel Mese Di Settemb</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-7s-hdmi-sound-failure-quick-and-easy-repair-tips/"><u>Solving Windows 7'S HDMI Sound Failure - Quick and Easy Repair Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/athway-to-creating-high-quality-youtube-ads-on-a-dime/"><u>The Pathway to Creating High-Quality YouTube Ads on a Dime</u></a></li>
 </ul></div>
 

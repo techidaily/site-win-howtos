@@ -1,7 +1,7 @@
 ---
 title: "Defeating Windows Update Hurdles: Expert Strategies to Address Error 0X8024a105"
-date: 2024-08-19T07:48:03.602Z
-updated: 2024-08-20T07:48:03.602Z
+date: 2025-02-28T19:07:35.974Z
+updated: 2025-03-05T19:48:01.504Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -47,9 +44,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
@@ -57,10 +51,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your keyboard driver
 
  This**keyboard lag** issue may also occur if you have the wrong or corrupt keyboard driver. So you should update these drivers to to see if it fixes the problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -79,9 +69,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
@@ -95,15 +82,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, type a few words and see if it registers as expected.
@@ -123,8 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +111,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-experts-choice-top-16-no-cost-viewers/"><u>[New] 2024 Approved Expert's Choice Top 16 No-Cost Viewers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oosting-your-video-income-on-youtube-essentials/"><u>[New] Boosting Your Video Income on Youtube - Essentials</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-stepwise-approach-to-downloading-movie-maker-6/"><u>[New] In 2024, Stepwise Approach to Downloading Movie Maker 6</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-how-to-resolve-a-frozen-pc-while-setting-up-the-windows-operating-system/"><u>Expert Advice: How to Resolve a Frozen PC While Setting Up the Windows Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-when-google-chrome-freezes/"><u>Fixes for When Google Chrome Freezes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-1n-update-roadblock-solve-code-0x800f0922-swiftly/"><u>Fixing the Windows 1N-Update Roadblock: Solve Code 0X800F0922 Swiftly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-failed-user-profile-service-error-when-trying-to-log-into-windows-11/"><u>How to Resolve the Failed 'User Profile Service' Error When Trying to Log Into Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-secret-art-of-hidden-streaming-instagrams-anonymous-spectators-guide/"><u>In 2024, The Secret Art of Hidden Streaming Instagram's Anonymous Spectators Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intels-next-big-thing-core-ultra-k-prototype-surfaces-with-impressive-5ghz-specs-and-intel-4-process-node-lacking-avx-512/"><u>Intel's Next Big Thing - Core Ultra K Prototype Surfaces with Impressive 5GHz Specs and Intel 4 Process Node, Lacking AVX-512</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-kernel-41-critical-on-windows/"><u>Quick Fix: Kernel #41 Critical on WIndows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/radiance-reimagined-top-video-tools-list/"><u>Radiance Reimagined Top Video Tools List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-no-playable-sources-error-when-trying-to-load-player-on-windows/"><u>Resolved: Fixing 'No Playable Sources' Error When Trying to Load Player on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-high-cpu-drain-caused-by-windows-sound-card-interaction/"><u>Solving the High CPU Drain Caused by Windows Sound Card Interaction</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-pro-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-essentials-of-name-changes-in-social-media-networks/"><u>The Essentials of Name Changes in Social Media Networks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-overcoming-steams-write-protection-error/"><u>The Ultimate Guide to Overcoming Steam's Write-Protection Error</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-apple-ipad-pro-11-inch-comprehensive-2018-review-ultimate-tech-picks/"><u>Top Rated Apple iPad Pro (11-Inch) - Comprehensive 2018 Review: Ultimate Tech Picks</u></a></li>
+</ul></div>
 

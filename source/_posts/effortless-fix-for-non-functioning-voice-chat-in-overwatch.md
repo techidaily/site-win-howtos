@@ -1,7 +1,7 @@
 ---
 title: Effortless Fix for Non-Functioning Voice Chat in Overwatch
-date: 2024-08-19T07:48:14.805Z
-updated: 2024-08-20T07:48:14.805Z
+date: 2025-02-28T17:00:18.649Z
+updated: 2025-03-05T18:08:36.897Z
 tags:
   - win11
   - win10
@@ -47,9 +47,6 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 2: Set default devices
 
  Ideally Windows can automatically detect your device and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices (both output device and input device) manually to see if it fixes your**Overwatch voice chat not working** issue.  
@@ -62,30 +59,16 @@ Here’s how to do it:
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Disable Exclusive Mode
 
  Third party apps can prevent Blizzard games from accessing your microphone, speakers, or headset. Disabling Exclusive Mode of your hardware may fix sound or voice-chat not working issues.
@@ -95,9 +78,6 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
@@ -130,8 +110,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +117,23 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-asmr-a-harmonious-journey-to-wellbe-point/"><u>[New] In 2024, ASMR A Harmonious Journey to Wellbe Point</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-cutting-edge-techniques-for-channel-management-on-yt-hub-for-2024/"><u>[Updated] Cutting-Edge Techniques for Channel Management on YT Hub for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-extracting-youtube-content-with-ease/"><u>[Updated] In 2024, Extracting YouTube Content with Ease</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-unveiling-key-distinctions/"><u>Comparing iPhone 15 Pro Max and Samsung Galaxy S24 Ultra - Unveiling Key Distinctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-the-pitch-black-starter-screen-in-your-quest-for-hunting-mastery-monster-hunter-world/"><u>Conquering the Pitch-Black Starter Screen in Your Quest for Hunting Mastery (Monster Hunter: World)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-oppo-find-n3-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Oppo Find N3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hack-the-problems-and-get-into-fortnite/"><u>Hack the Problems and Get Into Fortnite</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-f25-pro-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo F25 Pro 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-install-battleye-anti-cheat-tips-and-tricks/"><u>How To Successfully Install BattlEye Anti-Cheat: Tips & Tricks</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unknown-usb-device-error-a-step-by-step-guide-on-port-reset-solutions-for-windows-10/"><u>Resolving the 'Unknown USB Device' Error: A Step-by-Step Guide on Port Reset Solutions for Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-image-rendering-issues-windows-11-vs-windows-10-solutions/"><u>Solving Image Rendering Issues: Windows 11 Vs. Windows 10 Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steadying-stuttering-screens-acer-fixes-guide/"><u>Steadying Stuttering Screens: Acer Fixes Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-your-pcs-persistent-freeze-problems/"><u>Ultimate Troubleshooting Guide: Resolving Your PC's Persistent Freeze Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-peak-gaming-potential-with-these-windows-11-tweaks/"><u>Unlock Peak Gaming Potential with These Windows 11 Tweaks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-macbook-videoleap-download-a-quick-and-simple-process-for-2024/"><u>Updated MacBook Videoleap Download A Quick and Simple Process for 2024</u></a></li>
+</ul></div>
 

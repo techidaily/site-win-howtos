@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface Pro 4 Touchscreen Malfunction? Here's How to Get It Working Again
-date: 2025-02-11T20:18:42.127Z
-updated: 2025-02-16T20:22:32.351Z
+date: 2025-02-28T18:51:15.153Z
+updated: 2025-03-05T17:08:06.108Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Perform a two button shutdown
 
  Your touch screen may stop working properly if there are corruption issues on your Surface Pro 4\. You need to perform a **two button shutdown**  to shut it down completely to see if this can clear these issues and restore your touch screen.
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
@@ -94,14 +86,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 4: Reset your Surface Pro 4
 
  Your touch screen not working issue may result from corrupted system on your tablet. You can try resetting your device to fix your system.
@@ -122,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
 
 * [Surface](https://tools.techidaily.com/drivereasy/download/)
@@ -145,24 +125,18 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-video-record-with-vlc/"><u>[New] Mastering Video Record with VLC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-android-simulation-software-for-mac-pc-users-for-2024/"><u>[Updated] Navigating Android Simulation Software for Mac, PC Users for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-visualstoryteller-for-windows/"><u>[Updated] VisualStoryteller for Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/3mpgmp3/"><u>「3つの優れた無料音楽コンバーター：MPGファイルからMP3へ」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-the-irqlnotlessorequal-fault-error-code-0xc00000005-in-microsoft-operating-systems/"><u>Comprehensive Fixes for the 'IRQL_NOT_LESS_OR_EQUAL' Fault (Error Code 0XC0지0000005) in Microsoft Operating Systems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/conquer-youtube-vimeo-editing-5-advanced-trimming-strategies-for-2024/"><u>Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-how-to-fix-windows-crashing-issue-error-0xc00000e9-explained-and-resolved/"><u>Expert Advice: How to Fix Windows Crashing Issue - Error 0Xc00#000e9 Explained and Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-taskbar-visibility-issue-solutions-inside/"><u>How to Fix Windows 10 Taskbar Visibility Issue - Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-audio-functionality-when-windows-reports-no-installed-speakers-or-headphones/"><u>How to Restore Audio Functionality When Windows Reports No Installed Speakers or Headphones</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-m6-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco M6 Pro 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/masterful-creation-with-the-gaomon-pd1560-ultimate-artists-pen-display-insight/"><u>Masterful Creation with the Gaomon PD1560 - Ultimate Artist’s Pen Display Insight</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-challenges-with-your-conexant-smartaudio-hd-in-windows-11/"><u>Overcoming No Sound Challenges with Your Conexant SmartAudio HD in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-crashes-in-oddworld-soulstorm-on-windows-computers/"><u>Resolving Crashes in Oddworld: Soulstorm on Windows Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-touchpad-problems-effective-solutions-for-scroll-functionality/"><u>Resolving Windows 11 Touchpad Problems - Effective Solutions for Scroll Functionality</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-corrupt-images-instantly-select-our-free-photo-repair-solutions-now/"><u>Revive Corrupt Images Instantly - Select Our Free Photo Repair Solutions Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-a-non-responsive-razer-man-owar-headset-microphone/"><u>Troubleshooting Guide for a Non-Responsive Razer Man O'War Headset Microphone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-your-non-responsive-bluetooth-mouse-on-windows/"><u>Troubleshooting Guide: How to Repair Your Non-Responsive Bluetooth Mouse on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206096917-troubleshooting-tips-resolving-a-warframe-update-failure-fix-your-game/"><u>Troubleshooting Tips: Resolving a 'Warframe Update Failure' - Fix Your Game!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212125458-warframe-update-problems-heres-how-you-can-successfully-resolve-them/"><u>Warframe Update Problems? Here's How You Can Successfully Resolve Them</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-cutting-edge-alternatives-to-vimeos-video-editor/"><u>[New] Cutting Edge Alternatives to Vimeo's Video Editor</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-download-youtube-videos-anywhere-anytime-free-android-tips/"><u>[Updated] Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-favorite-frames-socials-1-8-vids/"><u>2024 Approved Favorite Frames Social's #1-#8 Vids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-story-impact-with-customized-video-speed-settings/"><u>Boost Story Impact with Customized Video Speed Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-pc-sound-experience-on-windows-issues-addressed-and-solved/"><u>Enhancing PC Sound Experience on Windows: Issues Addressed & Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-repair-your-lenovo-keyboard-when-it-stops-responding/"><u>Fixes & Solutions: How to Repair Your Lenovo Keyboard When It Stops Responding</u></a></li>
+<li><a href="https://facebook.techidaily.com/flipping-the-script-can-fbs-reels-challenge-tiktoks-monopoly/"><u>Flipping the Script: Can FB's Reels Challenge TikTok's Monopoly?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-acts-erratically/"><u>Keyboard Acts Erratically</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-windows-11-performance-fixing-svchostexe-high-cpu-drain-issue/"><u>Optimizing Windows 11 Performance: Fixing svchost.exe High CPU Drain Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-game-crashes-fixed-steps-to-ensure-stable-performance-on-windows-versions-11-10-7-81-and-gro/"><u>PC Game Crashes? Fixed! Steps to Ensure Stable Performance on Windows Versions 11, 10, 7, 8.1 & Gro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pc-youtube/"><u>PC用ガイド: YouTubeの動画連携に最適化します!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-windows-keyboard-malfunction-issues/"><u>Step-by-Step Guide: Resolving Windows Keyboard Malfunction Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-x90s-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo X90S</u></a></li>
 </ul></div>
 

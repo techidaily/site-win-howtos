@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tips for Fixing Broken System Components in Windows 10/11
-date: 2024-08-19T07:45:45.126Z
-updated: 2024-08-20T07:45:45.126Z
+date: 2025-02-28T17:19:09.465Z
+updated: 2025-03-05T19:16:22.642Z
 tags:
   - win11
   - win10
@@ -66,33 +66,21 @@ Fortunately, this is also the easiest problem to fix.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb6f71081f36.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee. )  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb6f7884d30c.jpg)
 4. Restart your computer and check if you can turn on Bluetooth now. If you can’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Re-enable the Bluetooth driver software in Device Manager
 
 1. Click the**Start** button, type**device manager** in the search box, and select the matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51bb20cbb94.jpg)
 2. Expand the**Bluetooth Radios** category. You’ll see the Bluetooth hardware listed there.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you don’t see the “Bluetooth Radios” category, find your Bluetooth adapter in the “Network adapters” category. It normally contains your network card that you use to connect to wireless or wired networks.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51bc632abfc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there is a yellow exclamation mark on the Bluetooth icon, you need to install the proper driver before the Bluetooth will work. See[How to install or update the latest Bluetooth driver as mentioned in Fix 1](#fix1) .
 
  3) Right-click on your Bluetooth device and select **Disable** .  
@@ -101,15 +89,9 @@ Fortunately, this is also the easiest problem to fix.
  4) Right-click on your device again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b553f4d7ea68.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click **Show hidden icons**  .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/TIM图片20180720182550.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Can you see the Bluetooth icon now? If you do, congratulations. You’ve fixed the problem. But if it’s still not there, try Fix 3, below.
 
 ---
@@ -123,9 +105,6 @@ Fortunately, this is also the easiest problem to fix.
 3. Right-click **Bluetooth Support Service** again, and this time select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ed153af78.jpg)
 4. Set the startup type to**Automatic** . Click**Apply** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ed3843575.jpg)
 5. Now check if you find the Bluetooth icon in the Notification Area.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/TIM图片20180720182550.png)
@@ -145,8 +124,6 @@ Hopefully, this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +131,20 @@ Hopefully, this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-basic-shapes-to-complex-realistic-3d-text-in-photos/"><u>[New] From Basic Shapes to Complex, Realistic 3D Text in Photos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-twitter-videos-adhere-to-aspect-ratio-rules/"><u>[Updated] 2024 Approved Mastering Twitter Videos Adhere to Aspect Ratio Rules</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-behind-the-curtain-how-youtube-tallys-its-views-for-2024/"><u>[Updated] Behind the Curtain How YouTube Tally's Its Views for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/click-confusion-cleared/"><u>Click Confusion Cleared</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dragon-quest-chronology-the-correct-sequence-of-how-to-train-your-dragon-films/"><u>Dragon Quest Chronology: The Correct Sequence of How to Train Your Dragon Films</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-hub-for-computer-components-toms-hardware-unveiled/"><u>Expert Review Hub for Computer Components - Tom's Hardware Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-freeze-expert-advice-for-iphones-stuck-on-startup-icon/"><u>Fixing the Freeze: Expert Advice for iPhones Stuck on Startup Icon</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-x3daudio17dll-missing-or-not-found-errors-easily/"><u>How to Fix X3DAudio1_7.dll Missing or Not Found Errors Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-mysterious-unspecified-error-0x80004005-a-step-by-step-guide/"><u>How to Resolve the Mysterious 'Unspecified Error 0X80004005': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolved-lack-of-default-printer-and-scanner-support-in-windows-10-operating-system/"><u>Resolved: Lack of Default Printer & Scanner Support in Windows 10 Operating System</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategy-breakthroughs-in-packaging-for-2024/"><u>Strategy Breakthroughs in Packaging for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-reasons-behind-your-windows-10-pc-auto-starting/"><u>Unraveling the Mystery: Reasons Behind Your Windows 10 PC Auto-Starting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-in-battle-royale-games-how-to-prevent-sudden-crashes/"><u>Winning Strategies in Battle Royale Games - How to Prevent Sudden Crashes</u></a></li>
+</ul></div>
 

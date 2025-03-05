@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your BattlEye Installation Woes - Now Fixed!
-date: 2024-08-19T07:47:52.949Z
-updated: 2024-08-20T07:47:52.949Z
+date: 2025-03-04T18:56:01.536Z
+updated: 2025-03-05T16:05:18.487Z
 tags:
   - win11
   - win10
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 
 If all your USB ports aren’t working, try Step 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -44,16 +41,10 @@ If all your USB ports aren’t working, try Step 2, below.
 1. **Disconnect** the AC adapter or power cord from your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -63,21 +54,12 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 ### Step 4: Update your USB driver
@@ -113,8 +95,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +102,19 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-google-pixel-fold-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Google Pixel Fold Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-thorough-examination-adobe-lightroom-for-android-users-for-2024/"><u>A Thorough Examination Adobe Lightroom for Android Users for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-malfunctions-rectified-expert-tips-for-restoring-hp-notebook-sounds-in-windows-11/"><u>Audio Malfunctions Rectified: Expert Tips for Restoring HP Notebook Sounds in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-release-delayed-discover-an-exceptional-open-source-chatbot-as-your-alternative/"><u>ChatGPT Desktop Release Delayed? Discover an Exceptional Open-Source Chatbot as Your Alternative.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-enhancement-through-smart-ai-technology/"><u>Content Enhancement Through Smart AI Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-10-spacebar-malfunction-problems/"><u>Diagnosing and Solving Windows 10 Spacebar Malfunction Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-the-403-forbidden-error-challenge/"><u>Effective Solutions for Overcoming the '403 Forbidden Error' Challenge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-overwatch-not-working-voice-chat-issues-instantly/"><u>Expert Tips for Fixing 'Overwatch Not Working' Voice Chat Issues Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209354271-fix-pc-stuck-on-getting-windows-ready/"><u>Fix PC Stuck on “Getting Windows Ready”</u></a></li>
+<li><a href="https://techtrends.techidaily.com/insight-into-windows-11s-battery-report-functionality-and-usage/"><u>Insight Into Windows 11'S Battery Report Functionality and Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-fresh-renderer-launch-issues-apply-the-latest-fix/"><u>Overcome Fresh Renderer Launch Issues - Apply the Latest Fix!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722872905293-score-big-with-these-incredible-bargains-on-ipads-limited-time-offer/"><u>Score Big with These Incredible Bargains on iPads – Limited Time Offer!</u></a></li>
+</ul></div>
 

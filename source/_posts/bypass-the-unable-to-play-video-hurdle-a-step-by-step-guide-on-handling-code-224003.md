@@ -1,7 +1,7 @@
 ---
 title: "Bypass the 'Unable to Play Video' Hurdle: A Step-by-Step Guide on Handling Code 224003"
-date: 2024-08-19T07:47:42.851Z
-updated: 2024-08-20T07:47:42.851Z
+date: 2025-03-03T19:43:57.496Z
+updated: 2025-03-05T18:48:31.451Z
 tags:
   - win11
   - win10
@@ -57,34 +57,17 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 2. Select**Help and feedback > About Microsoft Edge** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/about-microsoft-edge.jpg)
 3. Edge will automatically check for updates. If an update is available, it will download and install the update.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 **To update Mozilla Firefox:**
 
 1. Open Firefox, click the**menu** button and click**Help** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-help.jpg)
 2. Select**About Firefox** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/about-firefox.jpg)
 3. Firefox will check for updates and download them automatically. When the download is complete, click**Restart to Update Firefox** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/restart-to-update-firefox-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **To update Safari on Mac:**
 
 1. At the top left corner of your screen, click the Apple menu, then select**System Preferences…** .  
@@ -92,14 +75,8 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 2. Click**Software Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/software-update.jpg)
 3. Wait for your Mac to check for updates. If there’s an available update, click**Upgrade Now** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/mac-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your browser is up to date and the video is still unplayable, go ahead with the next fix.
 
 ### Fix 2: Clear cache and cookies
@@ -118,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 2. Select a time range, choose the types of browsing data you want to clear, and click**Clear now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-clear-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **For Firefox:**
 
 1. Open Firefox and press**Ctrl + Shift + Del** to open the**Clear Recent History** window.
@@ -133,9 +107,6 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 2. In the**Clear** field, choose**all history** . Then click**Clear History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-clear-history.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After clearing your browser’s cache and cookies, check if error code 224003 is resolved. If not, check out the next fix.
 
 ### Fix 3: Disable all extensions
@@ -147,28 +118,15 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 1. At the top right, click**More > More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-extensions.jpg)
 2. Disable all extensions by clicking the switch icon next to them.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-disable-extensions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 **Edge:**
 
 1. In the toolbar, click the**Extensions** icon and select**Manage Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-manage-extensions.jpg)
 2. Click the toggle next to the extensions to disable them one by one.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-turn-off-extensions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 **Firefox:**
 
 1. In Firefox, press**Ctrl + Shift + A** to open the**Add-ons Manager** window.
@@ -184,9 +142,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  After disabling all extensions, reopen your browser and play the video to check if the error code 224003 is fixed. If the problem has gone, try enabling extensions one by one to find the culprit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Turn off hardware acceleration
 
  Hardware acceleration is a feature that allows your browser to use your computer’s GPU to display graphics-heavy web content such as videos or games. However, this feature can sometimes prevent the video from playing. To fix the problem, try turning off hardware acceleration in your browser.
@@ -198,17 +153,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Select System. Then turn off**Use hardware acceleration when available** and click**Relaunch** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-hardware-acceleration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Edge:**
 
 1. Open Edge. Type or paste**edge://settings/system** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-settings-system.jpg)
 2. Under System, turn off**Use hardware acceleration when available** and click**Restart** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-hardware-acceeration.jpg)
 
 **Firefox:**
@@ -216,14 +165,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Open Firefox. Type or paste**about:preferences** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-preferences-1.jpg)
 2. In the General panel, under**Performance** , uncheck**Use recommended performance settings** , then uncheck**Use hardware acceleration when available** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-hardware-acceleration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Safari:**
 
 Users are not allowed to turn hardware acceleration on and off in Safari.
@@ -239,9 +182,6 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 1. Open Chrome. At the top right, click**More > Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-settings.jpg)
 2. Click **Reset and clean up > Restore settings to their original defaults** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-reset-clean-up.jpg)
 3. Click**Reset settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-reset-settings-1.jpg)
@@ -251,14 +191,8 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 1. Open Edge. Type or paste**edge://settings/reset** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-reset.jpg)
 2. Click**Restore settings to their default values** . In the pop-up window, click**Reset** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-reset-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Firefox:**
 
 1. Open Firefox. Type**about:support** into the address bar and press**Enter** .  
@@ -289,9 +223,6 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 3. Once the process is completed, you can preview the repaired videos and save them to the desired location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-video-repair-select-save-repaired-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  That’s all for now. Hopefully, this post helped you fix the error code 224003\. If you have any questions or suggestions, feel free to drop us a line below.
@@ -304,8 +235,6 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -313,4 +242,16 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-bridging-the-time-gap-in-social-storytelling-on-fb-pcmobile/"><u>[New] In 2024, Bridging the Time Gap in Social Storytelling on FB, PC/Mobile</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-affordable-choices-best-laptops-for-gamers-on-a-dime/"><u>[Updated] Affordable Choices Best Laptops for Gamers on a Dime</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-10-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark 10 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-not-working-a-step-by-step-solution-guide-for-windows-10-users-in-2e24/"><u>Bluetooth Not Working? A Step-by-Step Solution Guide for Windows 10 Users in 2E24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-beyond-light-patched-enhanced-pc-performance-and-bug-fixes/"><u>Destiny 2 Beyond Light Patched – Enhanced PC Performance & Bug Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-failed-installation-of-windows-10-updates-efficiently/"><u>Diagnosing and Resolving Failed Installation of Windows 10 Updates Efficiently</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/how-to-boost-your-pcs-performance-speeding-up-and-enhancing-efficiency-tips-by-yl-computing/"><u>How to Boost Your PC's Performance: Speeding Up & Enhancing Efficiency - Tips by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-usb-connection-issues-on-your-hp-laptop-easy-solutions/"><u>Resolving USB Connection Issues on Your HP Laptop: Easy Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-troubleshoot-repaired-wireless-logitech-mouse/"><u>Tech Troubleshoot: Repaired Wireless Logitech Mouse</u></a></li>
+</ul></div>
 

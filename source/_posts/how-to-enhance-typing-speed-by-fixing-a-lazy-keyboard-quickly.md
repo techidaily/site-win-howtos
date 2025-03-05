@@ -1,7 +1,7 @@
 ---
 title: How to Enhance Typing Speed by Fixing a Lazy Keyboard Quickly
-date: 2025-02-14T21:30:56.764Z
-updated: 2025-02-17T00:48:50.843Z
+date: 2025-02-27T17:15:16.835Z
+updated: 2025-03-05T17:33:44.769Z
 tags:
   - win11
   - win10
@@ -53,10 +53,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -74,10 +70,6 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -130,25 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,21 +164,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-comprehensive-insight-into-the-ultra-clear-lg-monitor/"><u>[New] 2024 Approved Comprehensive Insight Into the Ultra-Clear LG Monitor</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-avi-perfect-conversion-tools-revealed-for-2024/"><u>[New] From YouTube to AVI Perfect Conversion Tools Revealed for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-picsart-app-analysis-and-tutorial-for-its-latest-release-for-2024/"><u>[Updated] PicsArt App Analysis & Tutorial for Its Latest Release for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-restoring-system-files-on-windows-10-using-sfc-and-dism-utilities/"><u>Comprehensive Guide to Restoring System Files on Windows 10 Using SFC & DISM Utilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-remedies-to-prevent-your-computer-from-going-into-sleep-mode/"><u>Effortless Remedies to Prevent Your Computer From Going Into Sleep Mode</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhancing-wdf-efficiency-to-reduce-high-cpu-consumption-problems/"><u>Enhancing WDF Efficiency to Reduce High CPU Consumption Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-how-to-successfully-tackle-twitch-error-4000-issues/"><u>Expert Advice: How to Successfully Tackle Twitch Error 4000 Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-and-solve-the-persistent-windows-update-error-0x8024402c/"><u>How to Correctly Address and Solve the Persistent Windows Update Error 0X8024402C</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-non-functional-dell-camera-problems-in-windows/"><u>How to Resolve Non-Functional Dell Camera Problems in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-x6-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find X6 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-guide-cutting-videos-in-half-on-pc-and-mac/"><u>Quick Guide: Cutting Videos in Half on PC & Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/taking-flight-iphone-hdr-techniques-for-professional-results/"><u>Taking Flight IPhone HDR Techniques for Professional Results</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/upgrade-successfully-how-to-ensure-your-device-drivers-work-with-windows-operating-system/"><u>Upgrade Successfully: How To Ensure Your Device Drivers Work With Windows Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-does-my-computer-freeze-during-boot-on-windows-10-understanding-the-causes-and-fixes/"><u>Why Does My Computer Freeze During Boot on Windows 10? Understanding the Causes & Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-seizing-photographic-segments-from-videos-in-windows-11/"><u>[New] Seizing Photographic Segments From Videos in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cprm-dvd/"><u>簡単な手順でCPRM DVDのコピー＆リッピングを始めましょう</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-converting-your-pcm-audio-files-into-mp3-format/"><u>Comprehensive Tutorial: Converting Your PCM Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-use-dvd-ripper-convert-your-dvds-into-digital-files-instantly/"><u>Easy-to-Use DVD Ripper: Convert Your DVDs Into Digital Files Instantly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-addressing-errors-with-a-missing-or-misplaced-launchdll/"><u>Expert Tips: Addressing Errors with a Missing or Misplaced 'Launch.dll'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-syntax-to-sentiment-bots-battle-it-out/"><u>From Syntax to Sentiment, Bots Battle It Out</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-to-know-the-enhanced-features-of-thunderbird-version-52-from-mozilla/"><u>Get to Know the Enhanced Features of Thunderbird Version 52 From Mozilla</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-t630-up-and-running-on-win7810-download-the-right-driver/"><u>Get Your Logitech T630 Up and Running on Win7/8/10 - Download the Right Driver!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-capture-the-scope-of-space-sharing-panoramic-pictures-with-facebook/"><u>In 2024, Capture the Scope of Space Sharing Panoramic Pictures with Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/most-efficient-software-solutions-convert-dvds-to-mp3-on-windows-operating-systems-10-and-11/"><u>Most Efficient Software Solutions: Convert DVDs to MP3 on Windows Operating Systems (10 & 11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movh2/"><u>MOVビデオをH2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/page-redirected-find-your-way-to-wonderfox-faster-than-ever-before/"><u>Page Redirected! Find Your Way to WonderFox Faster Than Ever Before.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-dvd-playback-issues-effective-ways-to-eliminate-skips-and-freezing/"><u>Solving DVD Playback Issues: Effective Ways to Eliminate Skips and Freezing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-solving-discord-voice-chat-unresponsive/"><u>Troubleshooting Steps: Solving 'Discord Voice Chat Unresponsive'</u></a></li>
+<li><a href="https://extra-information.techidaily.com/undetectable-volume-variations-in-garageband-artistry/"><u>Undetectable Volume Variations in Garageband Artistry</u></a></li>
 </ul></div>
 

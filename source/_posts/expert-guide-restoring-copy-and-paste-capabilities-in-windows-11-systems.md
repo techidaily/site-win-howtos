@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Restoring Copy & Paste Capabilities in Windows 11 Systems"
-date: 2024-08-19T07:49:02.017Z
-updated: 2024-08-20T07:49:02.017Z
+date: 2025-02-27T16:33:07.216Z
+updated: 2025-03-05T17:16:01.865Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -54,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Install the correct keyboard driver
 
  In some cases, your keyboard might need the correct driver to be able to work properly. It could be the latest version of the keyboard driver or the driver that shipped along with your keyboard. You should try both ways to decide which one suits you better.
@@ -71,19 +65,10 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Method 4: Clean the keyboard
 
 If you haven’t cleaned your keyboard, in like forever, do it now.
@@ -102,8 +87,6 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +94,19 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-perusing-past-facebook-pages-to-review-or-not-to/"><u>[New] The Art of Perusing Past Facebook Pages To Review or Not To?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-explore-exceptional-economically-priced-asmr-gear/"><u>[Updated] Explore Exceptional, Economically-Priced ASMR Gear</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-add-the-date-to-photo/"><u>[Updated] How to Add the Date to Photo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-chatgpt-features-you-arent-using-but-should/"><u>5 ChatGPT Features You Aren't Using, but Should</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banishing-shadows-from-your-game-onload-a-guide-to-fix-monster-hunter-world-black-screen-problem/"><u>Banishing Shadows From Your Game Onload: A Guide to Fix Monster Hunter: World Black Screen Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-persistent-windows-update-error-0x8023c401c-in-latest-versions-of-microsoft-os/"><u>Effective Fixes for the Persistent 'Windows Update Error 0X802^3C401C' In Latest Versions of Microsoft OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-world-of-warcraft-wow-lags-effective-strategies-and-techniques/"><u>Fixing World of Warcraft (WoW) Lags: Effective Strategies and Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/m3-macbook-pro-gets-power-boost-now-supports-two-displays-just-like-the-air-model/"><u>M3 MacBook Pro Gets Power Boost: Now Supports Two Displays, Just Like the Air Model</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-steps-how-to-quickly-freshen-up-or-restart-your-windows-11-system/"><u>Simple Steps: How to Quickly Freshen Up or Restart Your Windows 11 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trace-your-lost-touchpad-to-device-master/"><u>Trace Your Lost Touchpad to Device Master!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-stalled-windows-update-at-100-with-these-proven-tips-and-tricks/"><u>Unstick Your Stalled Windows Update at 100% with These Proven Tips and Tricks</u></a></li>
+</ul></div>
 

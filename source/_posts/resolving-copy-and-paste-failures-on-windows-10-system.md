@@ -1,7 +1,7 @@
 ---
 title: Resolving Copy and Paste Failures on Windows 10 System
-date: 2025-02-09T16:44:42.435Z
-updated: 2025-02-16T18:03:14.814Z
+date: 2025-02-28T19:00:30.752Z
+updated: 2025-03-05T19:26:03.902Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 2: Check the status of the Bluetooth service
 
  1) On your keyboard, press the **Windows logo key**   + **R**   key together to invoke the Run box.
@@ -56,33 +52,17 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
@@ -108,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 3: Reinstall your Bluetooth driver
 
  Always, if your Bluetooth driver is outdated or corrupted, it will cause errors. In most such cases, updating your Bluetooth driver can fix the error.
@@ -125,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -175,22 +147,19 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevate-video-editing-expert-use-of-obs-on-mobile-devices-for-2024/"><u>[New] Elevate Video Editing Expert Use of OBS on Mobile Devices for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-record-games-with-no-hassle-nvidia-way/"><u>[New] Record Games with No Hassle - NVIDIA Way</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-srt-shift-magic-subtitles-subc-conversion-guide/"><u>[New] SRT Shift Magic Subtitles (SUBC) Conversion Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-future-of-advertising-on-youtube-shorts/"><u>[Updated] The Future of Advertising on YouTube Shorts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detailed-tutorial-fixing-driverpowerstatefailure-complications-on-your-pc/"><u>Detailed Tutorial: Fixing DRIVER_POWER_STATE_FAILURE Complications on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolution-correcting-the-no-entry-point-found-warning-in-windows/"><u>Error Resolution: Correcting the 'No Entry Point Found' Warning in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-windows-defender-of-resources-malfunction/"><u>Expert Tips to Overcome Windows Defender of Resources Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-bluetooth-keyboard-to-recognize-fixing-connection-problems-with-your-pc/"><u>Getting Your Bluetooth Keyboard to Recognize: Fixing Connection Problems With Your PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y78plus-t1-edition-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y78+ (T1) Edition Data? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-on-the-reliable-fujitsu-scansnap-ix1600-for-office-paperwork-handling/"><u>In-Depth Review on the Reliable Fujitsu ScanSnap iX1600 for Office Paperwork Handling</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-your-pcs-refusal-to-shut-down-windows-11-effective-fixes/"><u>Overcome Your PC's Refusal to Shut Down Windows 11: Effective Fixes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/redeem-space-increase-your-games-performance-on-pc-with-larger-pagefile-settings/"><u>Redeem Space: Increase Your Game's Performance on PC with Larger Pagefile Settings</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-artisans-approach-to-script-dialogue/"><u>The Artisan’s Approach to Script Dialogue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-responsive-brightness-settings-on-windows-11/"><u>Troubleshooting: Fixing Non-Responsive Brightness Settings on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-window-10-touchpad-scrolling-problems/"><u>Ultimate Guide: Fixing Window 10 Touchpad Scrolling Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-definition-heroes-10-in-4ktvs/"><u>2024 Approved High Definition Heroes – #10 in 4KTVs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movaviswf/"><u>無料 - 直感的かつ簡単! MovaviでSWFファイルをオンライン上で変更する方法</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/best-external-resources-and-utilities-for-streamlining-your-data-restoration-efforts-tips-from-yl-computing/"><u>Best External Resources and Utilities for Streamlining Your Data Restoration Efforts - Tips From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210717284-9781739218713-connecting-to-source-a-path-to-self-discovery-through-verse/"><u>Connecting to Source - A path to self-discovery through verse | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-videos-for-the-web-change-mov-and-mp4-files-to-webm-free/"><u>Convert Videos for the Web - Change MOV and MP4 Files to WebM (Free)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/curated-selection-of-farewell-music-templates/"><u>Curated Selection of Farewell Music Templates</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-online-classroom-audio-the-best-techniques-for-high-quality-recording/"><u>Mastering Online Classroom Audio - The Best Techniques for High-Quality Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3aacogg-wma-movavi/"><u>MP3/AAC/OGG 等多樣文件型式直接在線上轉換成 WMA - 簡便電子影音編輯器 Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-art-of-preservation-innovative-techniques-to-capture-the-magic-of-living-with-sims-for-2024/"><u>The Art of Preservation Innovative Techniques to Capture the Magic of Living with Sims for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-ferramentas-de-animacao-livres-mais-inovadoras-em-2024-acelerando-o-design-de-animes/"><u>Top 12 Ferramentas De Animação Livres Mais Inovadoras Em 2024 - Acelerando O Design De Animês</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unificazione-multimediali-su-windows-n-top-8-tecniche-del-2024/"><u>Unificazione Multimediali Su Windows N° - Top 8 Tecniche Del 2024!</u></a></li>
 </ul></div>
 

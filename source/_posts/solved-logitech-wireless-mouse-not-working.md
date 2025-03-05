@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Logitech Wireless Mouse Not Working"
-date: 2025-02-09T21:58:59.664Z
-updated: 2025-02-16T20:09:46.679Z
+date: 2025-03-02T17:54:49.456Z
+updated: 2025-03-05T19:08:39.662Z
 tags:
   - win11
   - win10
@@ -54,22 +54,10 @@ To check Windows Build of your PC:
 1. On your keyboard, press the**Windows logo** key![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and**R** at the same time, then type **winver** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. In the window that pops up, you can check the exact version of the copy of Windows on your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/22-1.png)
 3. Once finished, click**OK** to exit the window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To check the specs of your PC:
 
@@ -106,10 +94,6 @@ To check the specs of your PC:
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Steam as administrator
 
  Total War: ROME REMASTERED requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may encounter crash. So you should make sure to runSteam as administrator to see if it fixes the issue.
@@ -119,10 +103,6 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and type **epic** , then right-click on **Steam**  and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC promots for permissions to proceed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
 
@@ -138,10 +118,6 @@ Here’s how:
 4. Click **LOCAL FILES** \> **Verify integrity of game files…** .
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
 6. Re-launch Total War: ROME REMASTERED to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Allow Steam through firewall
 
@@ -169,10 +145,6 @@ Here’s how:
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Perform a clean boot
 
  Another possible cause for the Total War: ROME REMASTERED crashing issue is software conflict. If this is the case, you should perform a clean boot. A clean boot restarts Windows with a minimal set of drivers and startup programs, allowing you to narrow down the programs and servicies so that you could potentially pinpoint the offender.
@@ -185,10 +157,6 @@ Here are the steps to perform a clean boot:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
@@ -221,20 +189,20 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-screen-capture-best-mac-apps-reviewed-and-rated/"><u>[New] 2024 Approved Essential Screen Capture Best Mac Apps Reviewed & Rated</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-becoming-a-professional-editor-mastering-final-cut-pro-for-2024/"><u>[New] Becoming a Professional Editor Mastering Final Cut Pro for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-avoid-these-8-steps-that-newcomers-often-miss-on-youtube/"><u>[Updated] Avoid These 8 Steps that Newcomers Often Miss on YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-optimal-live-video-distributors-suite/"><u>[Updated] Optimal Live Video Distributors' Suite</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-high-quality-hd-downloads-5-best-facebook-extensions/"><u>2024 Approved High-Quality HD Downloads 5 Best Facebook Extensions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comparing-vr-to-360-degree-video-whats-the-distinction-in-2024/"><u>Comparing VR to 360-Degree Video What's the Distinction, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-eliminating-windows-11-screenshake-problem/"><u>Effective Solutions for Eliminating Window's 11 Screenshake Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/end-the-loop-expert-tips-for-fixing-recurring-restart-issues-on-windows-1110/"><u>End the Loop: Expert Tips for Fixing Recurring Restart Issues on Windows 11/10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 5G Bootloader Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ideal-steadicams-for-uav-aerial-cinematography/"><u>Ideal Steadicams for UAV Aerial Cinematography</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/inside-toms-computer-lab-a-journey-through-cutting-edge-hardware-insights/"><u>Inside Tom's Computer Lab: A Journey Through Cutting-Edge Hardware Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-volume-is-dirty-issue-understanding-error-0x80071ac3/"><u>Solving the 'Volume Is Dirty' Issue - Understanding Error 0X80071AC3</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-for-a-non-functional-corsair-illuminated-keyboard/"><u>Troubleshooting and Fixes for a Non-Functional Corsair Illuminated Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-update-issues-solutions-for-a-freezing-or-stalled-system/"><u>Troubleshooting Windows 10 Update Issues: Solutions for a Freezing or Stalled System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-troubleshooting-made-easy-overcoming-the-port-reset-failed-error-in-windows-11/"><u>USB Troubleshooting Made Easy: Overcoming the 'Port Reset Failed' Error in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lush-backgrounds-a-compendium-of-free-screen-free-downloadables/"><u>[New] Lush Backgrounds A Compendium of Free Screen-Free Downloadables</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>[Updated] 2024 Approved Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm44kk44oz44k44o844on44od44oi44gr44gc44kl5yuv55qe44kq44o844oh44kj44kq6kab57sg44ks5oq95ye644o75lplusd5a2y44gz44kl5yw35l2t55qe5pa55rov44cn/"><u>「インターネットにある動的オーディオ要素を抽出・保存する具体的方法」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm44ot44oh44kq44kr44od44oi5oqa6kgt44ks57pluss5b6x44gz44kl44gf44kb44gu5zplus65pys55qe44gq5oyh5y2xic0g5yid5a2m6icf5zcr44gr44kz44oe44cn/"><u>「ビデオカット技術を習得するための基本的な指南 - 初学者向けコツ」</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030363181-flv/"><u>複数FLVファイルの高品質な自由結合手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-switching-from-mkv-to-mp4-using-handbrake-and-other-options/"><u>A Comprehensive Guide: Switching From MKV to MP4 Using HandBrake & Other Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ag-desktop-recorder/"><u>AG Desktop Recorder 効果的な利用法：手軽に動画撮影する方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/apple-prores-mp4-avi-wmv/"><u>Apple ProRes 動画の MP4 / AVI / WMV への完全高品質変換方法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-magix-to-other-video-editors-for-2024/"><u>Comparing Magix to Other Video Editors for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fortnite-voice-communication-issues-fast-fixes-and-solutions/"><u>Fortnite Voice Communication Issues? Fast Fixes & Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-f15-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy F15 5G Phone Network-Ready</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-microsofts-ai-integration-with-bing-anticipate-these-advances/"><u>Introducing Microsoft's AI Integration with Bing: Anticipate These Advances</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-android-studio-windows-edition/"><u>Unlock Full Potential of Android Studio, Windows Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44ox44ot44gu5oml5rov44gn6imy6kq5pw077yb5yuv55s757eo6zug44gr5pya6ygp44gq44kr44op44kw44os5yplusw44kk5pa5/"><u>プロの手法で色調整！動画編集に最適なカラグレ取り方</u></a></li>
 </ul></div>
 

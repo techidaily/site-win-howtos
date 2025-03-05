@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes for Your Non-Charging Laptop Battery: A Simple Guide"
-date: 2024-08-19T07:48:24.912Z
-updated: 2024-08-20T07:48:24.912Z
+date: 2025-02-28T17:20:24.132Z
+updated: 2025-03-05T18:39:31.858Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -63,18 +60,12 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
  After you turn off the battery charge threshold feature, your battery should be charging.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Perform a power reset on your laptop
 
 **Try performing a power reset on your laptop** to see if the battery not charging issue persists. Here is how to do it:
@@ -86,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -101,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Shut down your laptop and **disconnect the AC adapter** .
 
  5) Remove your laptop battery, **press and hold the power button for 30 seconds** and then release the power button.
@@ -129,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Update the driver for your battery management device
 
  This issue is also probably caused by a missing or outdated**driver for your battery management device** . Try updating the driver for your battery management device to see if this issue can be fixed.
@@ -177,8 +156,6 @@ Your battery should then be charging.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +163,24 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-dive-deep-into-video-a-compreenas-guide-to-sharing-pictures-online/"><u>[New] 2024 Approved Dive Deep Into Video A Compreenas Guide to Sharing Pictures Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oost-traffic-elevate-rankings-essential-youtube-seo-for-2024/"><u>[New] Boost Traffic, Elevate Rankings - Essential YouTube SEO for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-optimal-5-displays-for-immersive-ps5-gaming/"><u>[New] In 2024, Optimal 5 Displays for Immersive PS5 Gaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-simplified-webinar-recording-methods-for-windows-and-mac-users/"><u>[Updated] 2024 Approved Simplified Webinar Recording Methods for Windows & Mac Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ideal-video-editor-unleashed-for-vimeo-videos/"><u>[Updated] In 2024, Ideal Video Editor Unleashed for Vimeo Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-drowsiness-alert-keep-your-computer-awake-easily/"><u>Beat the Drowsiness Alert - Keep Your Computer Awake Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-malfunctioning-optical-drives-in-windows-systems/"><u>Diagnosing and Repairing Malfunctioning Optical Drives in Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-tecno-spark-10-pro-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Tecno Spark 10 Pro.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-motorola-g24-power-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Motorola G24 Power Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212100379-keyboard-malfunctions-on-windows-1011-heres-how-to-get-it-working-again/"><u>Keyboard Malfunctions on Windows 10/11? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connection-woes-successfully-attaching-a-microsoft-wireless-display-adapter-to-your-pc-with-windows-problem-fixed/"><u>Overcoming Connection Woes: Successfully Attaching a Microsoft Wireless Display Adapter to Your PC with Windows ([Problem] Fixed)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-semaphore-timed-out-error-code-0x80070079/"><u>Resolved: Fixing the 'Semaphore Timed Out' Error Code 0X80070079</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-clipboard-malfunctions-for-efficient-copyingpasting/"><u>Resolving Windows 11 Clipboard Malfunctions for Efficient Copying/Pasting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-fixing-the-print-driver-service-interruption-in-32-bit-systems/"><u>Solution Found: Fixing the 'Print Driver Service Interruption' In 32-Bit Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-setting-up-a-swap-space-in-linux/"><u>Step-by-Step Guide: Setting Up a Swap Space in Linux</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-complete-seamless-installation-of-battleye-service-now-functional/"><u>Troubleshooting Complete: Seamless Installation of BattlEye Service Now Functional</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-avatar-in-2024/"><u>What Is an AI Avatar, In 2024</u></a></li>
+</ul></div>
 

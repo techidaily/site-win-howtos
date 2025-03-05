@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Overcoming the Problems of Non-Shutting PCs on Windows 10 Platform"
-date: 2025-02-12T16:02:48.530Z
-updated: 2025-02-16T23:39:41.062Z
+date: 2025-03-03T19:16:45.808Z
+updated: 2025-03-05T18:30:45.523Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Try these fixes**
 
 1. [**Running Windows Update Troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
@@ -47,25 +43,13 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap788.png)
 2. In the pop-up window, select **Windows Update**   and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes**   to run Windows Update troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap789.png)
 3. Click **Apply this fix**   to continue.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap790.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Perform a Windows update again to see if you can install the update. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Restarting Windows Update service**
 
@@ -74,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog, then type **services.msc**  and press **Enter**  to open the Services window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap791.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap792.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
@@ -103,15 +83,7 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap798.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check Windows Update again to see whether you can install the update. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Setting the TrustedInstaller service to auto start**
 
@@ -127,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
  Perform Windows Update again after your restart your PC. See if you can install the update KB4056892\. If you can install it, congratulations! You’ve fixed this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 4: Running System File Checker**
 
 **System File Checker**  can scan for corruptions in Windows system files and restore corrupted files. When you fail to install Windows updates, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -138,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Ctrl** ,**Shift** and**Enter** at the same time to**run Command Prompt as administrator** . You’ll be prompted for permission. Click**Yes** to open Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)
 2. In Command Prompt, type the following command and press **Enter**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **sfc /scannow**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap801.png)  
@@ -205,21 +169,21 @@ See if you can install the update. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-code-28-error-in-device-manager-in-windows/"><u>[Fixed] Code 28 Error in Device Manager in Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-high-definition-cameras-perfect-picks-for-live-streaming/"><u>[New] High-Definition Cameras Perfect Picks for Live Streaming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-transform-personal-experiences-through-direct-webcam-capture-using-vlc/"><u>[New] In 2024, Transform Personal Experiences Through Direct Webcam Capture Using VLC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-amplify-your-content-navigating-the-world-of-youtube-backlinks/"><u>2024 Approved Amplify Your Content Navigating the World of YouTube Backlinks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-captivate-viewers-earn-accolades-tips-for-staff-picks-on-vimeo/"><u>2024 Approved Captivate Viewers, Earn Accolades Tips for Staff Picks on Vimeo</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-mobile-and-desktop-apps-adjusting-audio-playback-speed-for-2024/"><u>Best Mobile & Desktop Apps Adjusting Audio Playback Speed for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-enregistrer-avec-succes-votre-image-de-windows-dans-la-nuee-guide-complete/"><u>Comment Enregistrer Avec Succès Votre Image De Windows Dans La Nuée - Guide Complète</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-locating-and-fixing-missing-msvcr110dll-errors/"><u>Expert Tips: Locating and Fixing Missing MSVCR110.dll Errors</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-complete-archive-of-high-quality-online-workshops/"><u>In 2024, The Complete Archive of High-Quality Online Workshops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207253905-lose-not-the-sd-card-detection/"><u>Lose Not the SD Card Detection!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-delays-in-league-of-legends-patch-downloading-processes/"><u>Overcoming Delays in League of Legends Patch Downloading Processes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-out-of-memory-in-red-dead-redemption-ii-adjusting-pagefile-settings/"><u>Solving 'Out Of Memory' In Red Dead Redemption II: Adjusting Pagefile Settings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tailoring-audio-alerts-setting-custom-ringtones-and-sounds-on-android-devices/"><u>Tailoring Audio Alerts Setting Custom Ringtones & Sounds on Android Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-shockwave-flash-crashes-within-google-chrome-a-comprehensive-guide/"><u>Troubleshooting Shockwave Flash Crashes Within Google Chrome - A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-note-12r-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi Note 12R Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-audio-outage-addressed-and-fixed/"><u>Windows 11 Audio Outage Addressed & Fixed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-craft-your-visual-narrative-top-10-iphoneandroid-screenshot-sticker-apps-for-2024/"><u>[New] Craft Your Visual Narrative – Top 10 iPhone/Android Screenshot Sticker Apps for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-elite-edits-premier-4k-display-options-for-videographers/"><u>[Updated] In 2024, Elite Edits Premier 4K Display Options for Videographers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5yuv55s75pku5b2x5oqa6kgt77ya44gv44gplus44gw44gplus44gq44ki44oz44kw44or44go5b6u6kq5pw05pa55rov44gu44ks44kk44oj44cn/"><u>「動画撮影技術：さまざまなアングルと微調整方法のガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm44ky44o844of44oz44kw44oe44k344oz44gn5a6m55kn44gq44ot44oh44kq57eo6zugic0g5bco5ywl44gx44gf44gp44gq44kl5lik5l2n44os44kz44oh44oz44oj44cn/"><u>「ゲーミングマシンで完璧なビデオ編集 - 導入したくなる上位レコメンド」</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-15-plus-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 15 Plus Activation Lock</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-14-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 14 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029540639-mov-mp4/"><u>高画質保持で MOV から MP4 に完璧に変換するテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3g23g2mp4/"><u>最適な3G2フォーマット変換ツールの選び方：3G2ビデオをMP4へ移行する手引き</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-amazons-top-rated-tech-toys-for-st-valentines-day-a-zdnet-analysis/"><u>Exploring Amazon's Top-Rated Tech Toys for St. Valentine’s Day - A ZDNet Analysis</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972848032-genomic-selection-uses-molecular-markers-across-the-entire-genome-to-predict-plant-performance/"><u>Genomic Selection Uses Molecular Markers Across the Entire Genome to Predict Plant Performance.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-tutorial-for-building-movies-on-windows-8/"><u>In 2024, Step-by-Step Tutorial for Building Movies on Windows 8</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/infuse-joy-and-creativity-in-every-snap-with-anime-filters/"><u>Infuse Joy and Creativity in Every Snap with Anime Filters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029345412-mpcmpcmp3/"><u>MPCが何か？免責金のないMPCファイルをMP3へ自由に変更する手順</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-video-watermark-software-for-beginners-for-2024/"><u>Updated The Best Free Video Watermark Software for Beginners for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030550739-windowsmac/"><u>Windows・Macで動画からスチールショットを抽出する専門的なガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44ov44oz44oa44ov44kp44od44kv44k557ep5zci5oof5acx44od44o844k44or44gl44kj5zwg5zob44ks6lo85ywl44gv5y2x6zm644gq44ge44gn44gz44gl77yf/"><u>ワンダフォックス総合情報ポータルから商品を購入は危険ないですか？</u></a></li>
 </ul></div>
 

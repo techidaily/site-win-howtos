@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: How to Stop Windows From Continuously Restarting"
-date: 2025-02-09T23:34:49.855Z
-updated: 2025-02-17T01:05:16.382Z
+date: 2025-03-03T18:11:55.584Z
+updated: 2025-03-05T16:47:29.945Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -36,10 +32,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -55,25 +47,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -85,10 +65,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
@@ -154,24 +130,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-top-5-screen-selections-for-ps5-enthusiasts/"><u>[New] In 2024, Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-cutting-edge-visual-techniques-selecting-premium-camera-lenses/"><u>[Updated] 2024 Approved Cutting-Edge Visual Techniques Selecting Premium Camera Lenses</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-expertly-ranked-best-internet-sound-recorders-2023-for-2024/"><u>[Updated] Expertly Ranked Best Internet Sound Recorders 2023 for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-explore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators-for-2024/"><u>[Updated] Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-demystifying-instagram-story-sections/"><u>[Updated] In 2024, Demystifying Instagram Story Sections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connect-your-microsoft-wireless-display-to-windows-11-step-by-step-troubleshooting-guide/"><u>Connect Your Microsoft Wireless Display to Windows 11: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-sluggish-closure-problem-windows-10-troubleshooting/"><u>Fixing the Sluggish Closure Problem: Windows 10 Troubleshooting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205397157-how-to-resolve-common-issues-apex-legends-cheating-protection-bugs-fixed/"><u>How to Resolve Common Issues: Apex Legends Cheating Protection Bugs Fixed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-windows-11-update-error-code-0x80c705b4/"><u>How to Resolve the Persistent Windows 11 Update Error (Code 0X80C705B4)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-navigating-the-shadows-an-overview-of-youtubes-unlisted-videos/"><u>In 2024, Navigating the Shadows An Overview of YouTube's Unlisted Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-madden-19-review-impressive-modes-overshadowed-by-stale-execution/"><u>In-Depth Madden '19 Review: Impressive Modes Overshadowed by Stale Execution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/minecraft-opengl-problems-demystified-how-to-restore-smooth-gameplay/"><u>Minecraft OpenGL Problems Demystified: How to Restore Smooth Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/quantify-windows-computer-power-usage-for-optimization/"><u>Quantify Windows Computer Power Usage for Optimization</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-internet-explorer-is-no-longer-supported-error-a-comprehensive-guide/"><u>Resolving the 'Internet Explorer Is No Longer Supported' Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screen-casting-features-in-vlc-examined/"><u>Screen Casting Features in VLC Examined</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-repairing-red-screen-malfunctions-solutions-that-work/"><u>The Definitive Guide to Repairing Red Screen Malfunctions: Solutions That Work</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/trade-your-old-processor-with-newegg-get-up-to-300-for-intel-i9-or-220-for-amd-ryzen/"><u>Trade Your Old Processor with Newegg - Get Up to $300 for Intel I9 or $220 for AMD Ryzen!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-easy-hacks-blocker-faults-in-apex-legends/"><u>Troubleshooting Common Easy Hacks Blocker Faults in Apex Legends</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-enabling-your-windows-10-hosted-network-when-initialization-fails/"><u>Troubleshooting Guide: Enabling Your Windows 10 Hosted Network When Initialization Fails</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-exceptional-hd-video-documentation-gear/"><u>[Updated] Exceptional HD Video Documentation Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-6-urban-home-structures-in-minecraft/"><u>Elite 6 Urban Home Structures in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-restarting-and-reconfiguring-your-graphics-drivers-post-failure/"><u>Expert Advice on Restarting and Reconfiguring Your Graphics Drivers Post-Failure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-electronics-with-toms-hardware-experts/"><u>Expert Insights on Electronics with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-epson-wf-3720-ready-fresh-driver-downloads-with-step-by-step-instructions/"><u>Get Your Epson WF-3720 Ready: Fresh Driver Downloads with Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-file-explorer-not-responding-problems-in-windows-10-quickly/"><u>How to Fix 'File Explorer Not Responding' Problems in Windows 10 Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-no-disk-error-with-nvidia-graphics-card/"><u>How to Fix 'No Disk' Error with NVIDIA Graphics Card</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-of-portable-charging-with-a-20-anker-power-bank-expert-review/"><u>Solving the Dilemma of Portable Charging with a $20 Anker Power Bank | Expert Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-entrypointmissing-error-on-your-windows-pc/"><u>Step-by-Step Fix for 'EntryPointMissing' Error on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-a-comprehensive-guide-to-unresponsive-corsair-keyboards/"><u>Troubleshoot and Fix: A Comprehensive Guide to Unresponsive Corsair Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-endless-wait-times-in-valorant-steps-to-resolve-the-issue/"><u>Troubleshooting Endless Wait Times in Valorant - Steps to Resolve the Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-fixing-error-0x8024401c-on-windows-10-and-11-systems/"><u>Troubleshooting Guide for Fixing Error 0X8024401c on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-a-nonfunctional-start-menu-in-windows-11/"><u>Troubleshooting Guide: How to Repair a Nonfunctional Start Menu in Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-humor-image-creator/"><u>Ultimate Humor Image Creator</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-elite-top-mesh-wi-fi-networks-of-2024-rankings/"><u>Unveiling the Elite: Top Mesh Wi-Fi Networks of 2024 Rankings</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-addressing-inaudible-wireless-speaker-issues/"><u>Win11: Addressing Inaudible Wireless Speaker Issues</u></a></li>
+<li><a href="https://win-studio.techidaily.com/44oh44o844k5pcn5asx44gl44kj5a6i44kl77yb5asn5pah5a2x44ov44kh44kk44or44gu6jih55sf44go6yen6kab44gq5oof5acx44gu44oq44od44kv44ki44od44ox6kgt/"><u>データ損失から守る！大文字ファイルの蘇生と重要な情報のバックアップ術</u></a></li>
 </ul></div>
 

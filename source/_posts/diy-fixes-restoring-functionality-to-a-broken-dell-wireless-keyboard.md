@@ -1,7 +1,7 @@
 ---
 title: "DIY Fixes: Restoring Functionality to a Broken Dell Wireless Keyboard"
-date: 2024-08-19T07:48:56.326Z
-updated: 2024-08-20T07:48:56.326Z
+date: 2025-03-04T18:12:37.618Z
+updated: 2025-03-05T17:15:50.248Z
 tags:
   - win11
   - win10
@@ -62,9 +62,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -75,10 +72,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -103,9 +96,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -119,9 +109,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -130,9 +117,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -141,10 +125,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -170,8 +150,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +157,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/astering-the-art-of-joining-youtube-clips-for-2024/"><u>[New] Mastering the Art of Joining YouTube Clips for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimizing-your-facebook-budget-high-roi-animated-ad-best-practices-for-2024/"><u>[New] Optimizing Your Facebook Budget High-ROI Animated Ad Best Practices for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-practices-for-boosting-views-on-freefire-gaming-channels-for-2024/"><u>[Updated] Best Practices for Boosting Views on FreeFire Gaming Channels for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/apple-halts-distribution-of-new-ios-beta-after-users-report-phone-malfunctions-digital-digest/"><u>Apple Halts Distribution of New iOS Beta After Users Report Phone Malfunctions - Digital Digest</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-windows-10-bluetooth-not-detected-problems-get-connected-now/"><u>Easy Fixes for Windows 10 Bluetooth Not Detected Problems – Get Connected Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-repairing-non-detectable-bluetooth-hardware-on-your-windows-10-computer/"><u>Expert Advice: Repairing Non-Detectable Bluetooth Hardware on Your Windows 10 Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-audio-output-device-not-installed-error-on-your-windows-11-computer/"><u>How to Solve 'Audio Output Device Not Installed' Error on Your Windows 11 Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/immediate-purchase-top-three-new-apple-gadgets-unveiled-at-wwdc-how-and-where-to-pre-order-them/"><u>Immediate Purchase: Top Three New Apple Gadgets Unveiled at WWDC - How & Where to Pre-Order Them?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-lava-agni-2-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Lava Agni 2 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-c53-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme C53 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-driver-available-windows-and-amd-graphics-card/"><u>No Driver Available: Windows & AMD Graphics Card</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-issues-with-creating-a-new-directx-graphics-device/"><u>Resolved: Overcoming Issues with Creating a New DirectX Graphics Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-hosted-network-startup-error-in-windows-10-expert-tips-and-tricks/"><u>Resolving 'Hosted Network Startup Error' In Windows 10: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-lenovo-keyboard-effective-solutions-for-common-input-problems/"><u>Reviving Your Lenovo Keyboard: Effective Solutions for Common Input Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-hangs-and-cant-turn-off-here-are-five-effective-solutions/"><u>Windows 11 Hangs and Can't Turn Off? Here Are Five Effective Solutions!</u></a></li>
+</ul></div>
 

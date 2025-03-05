@@ -1,7 +1,7 @@
 ---
 title: "Winning Against the Hurdles: Getting Your Hosted Network Up and Running on Windows 11"
-date: 2025-02-12T20:57:18.860Z
-updated: 2025-02-16T19:02:02.069Z
+date: 2025-03-04T18:39:10.340Z
+updated: 2025-03-05T18:03:54.728Z
 tags:
   - win11
   - win10
@@ -32,19 +32,11 @@ Window Update is an important component of your Windows system. It helps you ins
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Run Windows Update Troubleshooter
 
 Windows Update Troubleshooter is a tool released by Microsoft that can help you troubleshoot issues with your Windows Update. You can run it to check your Windows Update when it fails to work properly. To do so:**1)**Download **[Windows Update Troubleshooter](https://aka.ms/diag%5Fwu)** (the program is from a Microsoft site and it’s verified and safe).**2)** Run the tool you’ve just downloaded and follow the on-screen instructions to complete the troubleshooting process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c046d056cc.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 2: Reset the Windows Update related components
 
@@ -64,19 +56,11 @@ Your Windows Update may fail to update your Windows because its components are c
 * _**net start cryptsvc**_
 **5)**Check your Windows Update to see if it works fine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Manually download and install updates
 
 If Windows Update can’t help you download certain system updates, you can try doing so on your own. Microsoft has put all its system updates online, and you can download these updates and install them on your computer without the help of Windows Update. To manually download and install updates:**1)**Click the**Start**button in the lower left corner of your screen. Then type “_**information**_“. In the list of results, click**System Information**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c0faa09e19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**In the System Information window, check**System Type**. Its value is usually **x64-based** or **x86-based**(or sometimes**ARM64-based**).
 
@@ -100,10 +84,6 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb49473bae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Click the link on the new window to download the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb79898ae2.png)
@@ -115,10 +95,6 @@ If Windows Update can’t help you download certain system updates, you can try 
 It’s also possible that your Windows Update can’t work because of the corrupted files on your operating system. Windows has two built-in tools called**SFC (System File Checker)**and**DISM (Deployment Imaging and Servicing Management)**that scan your computer and fix various issues on it. To run these tools:**1)** Click the**Start**button in the lower corner of your screen. Then type “_**cmd**_“. Right-click**Command Prompt**in the list of results and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbd72bc9a4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** In Command Prompt, to run System File Checker, type “_**sfc /scannow**_” and press**Enter**on your keyboard.
 
@@ -140,10 +116,6 @@ Sometimes your system can’t install new updates due to the interference from y
 
 You may get issues with your Windows Update if you are using wrong or out-of-date device drivers. You should regularly check your device drivers and keep them up to date so as to prevent your computer from many annoying issues. But you may not have the time or patience to check and update your drivers manually. If you want to have this done easily and automatically, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee): **1) [Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy.**2)**Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png) **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 7: Restore your Windows
 
 Perhaps the issues with your Windows come from some changes you’ve made to your system. You can perform a system restore. This will restore your system from a restore point (you need to have one that has been created before your Windows Update issue occurs) undo those changes made. To do so:**1)**Click the **Start**button in the lower corner of your screen. Then type “_**restore**_“. In the list of results, click “**Create a restore point**“. The System Properties dialog will appear.
@@ -157,10 +129,6 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 **3)** Follow the on-screen instructions to choose a system restore point and restore your Windows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc712671f3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Wait for the restore process to complete and then check to see if your Windows Update gets back to normal.
 
@@ -182,22 +150,16 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-depth-guide-to-optimizing-photos-using-polarr/"><u>[New] In-Depth Guide to Optimizing Photos Using Polarr</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-saving-youtube-tracks-and-dialogues-for-2024/"><u>[New] The Ultimate Guide to Saving YouTube Tracks & Dialogues for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[Updated] 2024 Approved How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-canvas-kids-discover-10-free-kid-friendly-art-makers-for-mac-for-2024/"><u>[Updated] Canvas Kids Discover 10 Free, Kid-Friendly Art Makers for Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-seamless-conversion-of-video-content-to-dynamic-gif-formats/"><u>[Updated] Seamless Conversion of Video Content to Dynamic GIF Formats</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-runtime-broker-causing-high-cpu-spikes-in-windows-11/"><u>Diagnosing and Repairing the Runtime Broker Causing High CPU Spikes in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restarting-your-windows-update-service-problems-solved/"><u>Guide to Restarting Your Windows Update Service – Problems Solved!</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-audio-functionality-when-windows-11-says-audio-output-not-detected/"><u>How to Restore Audio Functionality When Windows 11 Says 'Audio Output Not Detected'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-control-functionality-on-your-windows-11-computer/"><u>How to Restore Brightness Control Functionality on Your Windows 지대 11 Computer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-nubia-flip-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from ZTE Nubia Flip 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-successful-resolution-of-the-0x800705b4-update-glitch-in-windows-11-systems/"><u>Overcoming the Obstacle: Successful Resolution of the 0X800705b4 Update Glitch in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-non-detecting-peripherals-on-a-windows-lnkskrns-pc-via-bluetooth/"><u>Resolving Non-Detecting Peripherals on a Windows ˈlɪnkskrɪn's PC via Bluetooth</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-unrecoverable-error-in-directx-a-complete-guide/"><u>Resolving the 'Unrecoverable Error' In DirectX: A Complete Guide</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/restoring-deleted-files-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Restoring Deleted Files on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-overcoming-windows-update-problem-0x80n007001f/"><u>Step-by-Step Solution for Overcoming Windows Update Problem 0X80n007001f</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-obs-tutorial-for-youtube-and-twitch-broadcasts-for-2024/"><u>The Ultimate OBS Tutorial for YouTube & Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-capture-the-essence-of-rl-gaming-experience/"><u>[New] How to Capture the Essence of RL Gaming Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-zoomers-guide-to-instagram-story-clarity-for-2024/"><u>[New] The Zoomer’s Guide to Instagram Story Clarity for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensively-understanding-wm6-setup-for-2024/"><u>Comprehensively Understanding WM6 Setup for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-a-healthier-digital-diet-why-drop-facebook/"><u>Crafting a Healthier Digital Diet: Why Drop Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvd-videovideots-2on/"><u>DVD-Video再生のために使えるVIDEO_TSディレクトリー: 利用可能な2つの解決策を学んでみましón！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvdpowerpoint-windowsmac/"><u>DVDに保存しておくべきPowerPointデッキを作成するステップバイステップガイド: クロスプラットフォーム・Windows/Mac用</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvdwindows/"><u>DVDの再生に失敗するWindowsメディアプレーヤー:修正方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-tutorial-for-switching-from-aac-to-ac3-soundtracks-in-movies-and-series/"><u>Easy Tutorial for Switching From AAC to AC3 Soundtracks in Movies and Series</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-strategies-for-automating-your-outlook-2016-data-sync-and-backup/"><u>Effective Strategies for Automating Your Outlook 2016 Data Sync and Backup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-techniques-for-capturing-images-with-vlc-mastering-individual-and-multiple-frames/"><u>Efficient Techniques for Capturing Images with VLC: Mastering Individual & Multiple Frames</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
 

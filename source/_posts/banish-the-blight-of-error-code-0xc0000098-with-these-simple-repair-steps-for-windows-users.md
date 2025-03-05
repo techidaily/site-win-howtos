@@ -1,7 +1,7 @@
 ---
 title: Banish the Blight of Error Code 0Xc0000098 with These Simple Repair Steps for Windows Users
-date: 2025-02-15T01:06:43.156Z
-updated: 2025-02-16T21:30:51.984Z
+date: 2025-03-03T18:44:45.036Z
+updated: 2025-03-05T16:57:46.300Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Fix Error 0x80070002?
 
@@ -70,17 +66,9 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
@@ -120,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
@@ -139,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -166,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 3: Try Windows Update Troubleshooter**
 
  The Windows Update Troubleshooter is always a method to consider when you have any problems running Windows Update.
@@ -177,10 +153,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  1) Download the troubleshooter from[**Microsoft**](https://support.microsoft.com/en-ph/help/4027322/windows-windows-update-troubleshooter) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Run the downloaded file.
 
@@ -203,10 +175,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  2) Type **regedit** and press**Enter** . You may need to provide the administrative right to open, click**Yes** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
@@ -244,10 +212,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -277,20 +241,19 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-download-vimeo-to-mp4-files/"><u>[New] Step-by-Step Download Vimeo to MP4 Files</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-skyrocketing-your-presence-on-youtube-with-live-games/"><u>[Updated] In 2024, Skyrocketing Your Presence on YouTube with Live Games</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-three-key-strategies-to-frame-your-insta-films-better-for-2024/"><u>[Updated] Three Key Strategies to Frame Your Insta Films Better for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/7-dslr-cameras-for-vlogging-for-2024/"><u>Best 7 DSLR Cameras for Vlogging for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-itel-p40-is-unlocked-by-drfone-android/"><u>How To Check if Your Itel P40 Is Unlocked</u></a></li>
-<li><a href="https://games-able.techidaily.com/lead-with-zero-dollars-old-soccer-management-on-windows/"><u>Lead with Zero Dollars: Old Soccer Management on Windows</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/mastering-complex-software-deployment-a-guide-to-advanced-installation-techniques/"><u>Mastering Complex Software Deployment: A Guide to Advanced Installation Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-media-importer-strategies-in-windows-10/"><u>Mastering Media Importer Strategies in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-your-typing-speed-on-windows-uncover-the-quickest-fixes/"><u>Skyrocket Your Typing Speed on Windows: Uncover the Quickest Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-applying-excels-future-value-fv-financial-function/"><u>Step-by-Step Tutorial on Applying Excel's Future Value (FV) Financial Function</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-customizing-how-enter-works-in-excel-spreadsheets/"><u>Step-by-Step Tutorial: Customizing How Enter Works in Excel Spreadsheets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/struggling-with-excels-blank-doc-issue-discover-effective-strategies-for-resolution/"><u>Struggling with Excel's Blank Doc Issue? Discover Effective Strategies for Resolution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-trimming-images-efficiently-in-word-excel-and-powerpoint-2010/"><u>Ultimate Guide to Trimming Images Efficiently in Word, Excel & PowerPoint 2010</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-all-keyboard-shortcuts-for-highlighting-and-deleting-text-in-microsoft-office-google-docs-and-gmail/"><u>Ultimate Guide: All Keyboard Shortcuts for Highlighting and Deleting Text in Microsoft Office, Google Docs, and Gmail</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-xlsx-files-and-steps-to-access-them/"><u>Understanding XLSX Files and Steps to Access Them</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-thumbnails-fantasy-elements-added/"><u>[New] Elevate Thumbnails Fantasy Elements Added</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-bridging-social-spheres-transferring-tweets-to-whatsapp-directly/"><u>[New] In 2024, Bridging Social Spheres Transferring Tweets to WhatsApp Directly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-tips-for-kickstarting-a-social-philanthropy-blitz/"><u>[New] In 2024, Tips for Kickstarting a Social Philanthropy Blitz</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-audiovisual-experts-choices-the-ultimate-video-editing-gear/"><u>[Updated] 2024 Approved Audiovisual Experts' Choices The Ultimate Video Editing Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-dynamic-range-in-iphone-shots/"><u>2024 Approved Capturing Dynamic Range in iPhone Shots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-mac-desktop-video-recording-app-movavi-for-macos-users/"><u>Best Mac Desktop Video Recording App - Movavi for macOS Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-no-cost-editing-programs-for-your-windows-7-pc/"><u>Best No-Cost Editing Programs for Your Windows 7 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-video-transformez-vos-fichiers-f4v-en-format-mov-avec-ease/"><u>Conversion Gratuite Vidéo : Transformez Vos Fichiers .f4v en Format .mov Avec Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-convert-your-mp2-audio-to-flac-using-movavis-no-cost-web-service/"><u>Easily Convert Your MP2 Audio to FLAC Using Movavi's No-Cost Web Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/een-vriendelijk-quiz-oprichten-de-twee-veilige-wegwijzen/"><u>Een Vriendelijk Quiz Oprichten: De Twee Veilige Wegwijzen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-revolution-of-role-playing-with-yakuza-like-a-dragon-your-essential-guide/"><u>Experience the Revolution of Role-Playing with Yakuza: Like A Dragon - Your Essential Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-gameplay-free-download-of-updated-nvidia-graphics-card-drivers-for-windows/"><u>Improve Your Gameplay! Free Download of Updated NVIDIA Graphics Card Drivers for Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-z-flip-5-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy Z Flip 5 PC | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/onestorage-tod-movavi/"><u>이웃의 ONESTORAGE에서 원할로잉으로 TOD 자동 변환 - MOVAVI</u></a></li>
 </ul></div>
 

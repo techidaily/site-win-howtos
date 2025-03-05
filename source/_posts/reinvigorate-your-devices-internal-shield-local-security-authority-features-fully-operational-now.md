@@ -1,7 +1,7 @@
 ---
 title: "Reinvigorate Your Device's Internal Shield: Local Security Authority Features Fully Operational Now"
-date: 2025-02-10T01:35:49.186Z
-updated: 2025-02-16T23:54:26.729Z
+date: 2025-03-03T18:44:12.824Z
+updated: 2025-03-05T19:49:42.289Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Local Security Authority Protection is off
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes to enable the Local Security Authority Protection
 
  As mentioned, in most cases, your Local Security Authority is off because of a UI bug with a Windows patch, so the first method should be enough to help. If it doesn’t, please move on to methods 2 and 3.
@@ -51,20 +47,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -92,10 +76,6 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
 
@@ -115,16 +95,8 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-30.png)
 3. Go to **Computer Configuration\\Administrative Templates\\System\\Local Security Authority** . Double-click**Configure LSASS to run as a protected process** on the right side.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
@@ -171,21 +143,22 @@ Then see if the Local Security Authority Protection is still off.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-best-action-cameras-feature-front-display-for-2024/"><u>[New] Best Action Cameras Feature Front Display for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-clearing-process-for-youtubes-pending-video-list-for-2024/"><u>[New] Clearing Process for YouTube's Pending Video List for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-webcam-recorder-reviews-unlocking-your-video-potential/"><u>[Updated] In 2024, Webcam Recorder Reviews - Unlocking Your Video Potential</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/fy-your-videos-reach-perfect-title-description-and-tags-for-2024/"><u>Amplify Your Video's Reach Perfect Title, Description & Tags for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-deployment-delays-successful-strategies-for-the-windows-11-v1607-upgrade/"><u>Dealing with Deployment Delays: Successful Strategies for the Windows 11 v1607 Upgrade</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-six-most-effective-homework-help-apps-for-your-childs-success/"><u>Discover the Six Most Effective Homework Help Apps for Your Child's Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-fixing-your-software-after-an-unexpected-shutdown/"><u>Easy Solutions for Fixing Your Software After an Unexpected Shutdown</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-reduce-compatibility-telemetrys-memory-footprint-on-windows-11-devices/"><u>Effective Strategies to Reduce Compatibility Telemetry's Memory Footprint on Windows 11 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-rectifying-the-side-by-side-assembly-version-problem-in-windows-11-systems/"><u>Guide: Rectifying the 'Side-by-Side' Assembly Version Problem in Windows 11 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-zero-error-hypervisor-not-found-in-sandbox-mode/"><u>How to Rectify Zero Error: Hypervisor Not Found in Sandbox Mode</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-mouse-right-click-in-windows-11-quick-fixes-and-tips/"><u>How to Restore Mouse Right-Click in Windows 11 - Quick Fixes and Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/plex-y-el-codec-av1-compatibilidad-y-reproduccion-de-videos/"><u>Plex Y El Códec AV1: Compatibilidad Y Reproducción De Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-touchpads-missing-pointer-problem-under-windows-11/"><u>Solving Your Touchpad's Missing Pointer Problem Under Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-top-5-techniques-for-quiet-filming-experiences/"><u>The Top 5 Techniques for Quiet Filming Experiences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstick-your-unresponsive-desktop-troubleshooting-frozen-systems-easily/"><u>Unstick Your Unresponsive Desktop: Troubleshooting Frozen Systems Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premier-mac-studio-for-high-quality-recordings-for-2024/"><u>[New] Premier Mac Studio for High-Quality Recordings for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-blueprint-of-visual-communication-instavideo-marketing-mastery-for-2024/"><u>[New] The Blueprint of Visual Communication InstaVideo Marketing Mastery for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-optimize-your-videos-with-these-top-rated-editor-suites/"><u>[Updated] In 2024, Optimize Your Videos with These Top-Rated Editor Suites</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-innovating-highest-quality-canon-sequences-for-2024/"><u>[Updated] Innovating Highest Quality Canon Sequences for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrected-error-unresponsive-buttons-on-keyboard/"><u>Corrected Error: Unresponsive Buttons on Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-windows-host-service-interruption-rundll32/"><u>Effective Solutions for Windows Host Service Interruption (Rundll32)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unpleasant-image-malfunction-in-windows-10-and-11/"><u>Fixing the Unpleasant Image Malfunction in Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-missing-desktop-icons-on-windows-11-a-comprehensive-guide/"><u>How to Fix Missing Desktop Icons on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-solution-for-battery-not-working-problems/"><u>Immediate Solution for 'Battery Not Working' Problems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-secret-technique-for-instantaneous-deletion-of-youtube-discussions/"><u>In 2024, The Secret Technique for Instantaneous Deletion of Youtube Discussions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-converting-speech-to-text-with-google-docs/"><u>In 2024, The Ultimate Guide to Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-connectivity-with-the-asus-ax6000-the-ultimate-wi-fi-6-router-review-for-modern-homes/"><u>Maximizing Connectivity with the Asus AX6000 - The Ultimate Wi-Fi 6 Router Review for Modern Homes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-not-starting-on-windows-troubleshooting-steps-resolved/"><u>Minecraft Not Starting on Windows: Troubleshooting Steps [RESOLVED]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-15-pro-max-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 15 Pro Max to PC or Mac | Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-stuck-at-getting-windows-ready-issue-step-by-step-guide/"><u>Resolving 'Stuck at Getting Windows Ready' Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-solution-end-window-11-and-10s-infinite-restart-cycle-now/"><u>Unlock the Solution: End Window 11 and 10'S Infinite Restart Cycle Now!</u></a></li>
 </ul></div>
 

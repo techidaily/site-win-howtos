@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Non-Responsive Backlight Buttons on Laptop Keyboards"
-date: 2025-02-14T23:03:48.878Z
-updated: 2025-02-16T20:41:20.377Z
+date: 2025-03-02T19:52:59.162Z
+updated: 2025-03-05T16:17:24.851Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 2. **[Update your keyboard driver and HID driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Clean your keyboard with a compressed air duster](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Re-power your laptop
 
 If somehow your Toshiba laptop keyboard gets stuck, the keys could stop working. Follow these steps to re-power your laptop:
@@ -42,10 +38,6 @@ If somehow your Toshiba laptop keyboard gets stuck, the keys could stop working.
 4. Put the battery back to your laptop and then turn on your laptop as usual.
 Try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Update your keyboard driver and HID driver
 
 An old, corrupted or missing**keyboard driver**or**HID (Human interface device) driver**could also caused your Toshiba laptop keys, especially your Fn keys, not to working. So we recommend updating your keyboard and HID drivers. You can get the correct device drivers either manually or automatically.**Manual driver update –**You can update your keyboard and HID drivers manually by going to the official Toshiba website, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows system type.**Automatic driver update –**If you don’t have the time, patience or computer skills to update your keyboard and HID drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . Driver Easy will automatically recognize your system and find the correct drivers for your devices, and your Windows version, and it will download and install them correctly:
@@ -54,19 +46,7 @@ An old, corrupted or missing**keyboard driver**or**HID (Human interface device) 
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baeef7a4bd26.jpg)
 3. Click **Update**  next to the flagged keyboard or HID driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baef3772a4b2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After updating the drivers, try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Clean your keyboard with a compressed air duster
 
@@ -94,17 +74,19 @@ Hopefully this article helps. Feel free to comment below with your own experienc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enhance-call-clarity-choose-from-the-best-10-free-recorders/"><u>[New] In 2024, Enhance Call Clarity Choose From the Best 10 Free Recorders</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unleash-a-new-sound-personality-on-instagram-for-2024/"><u>[New] Unleash a New Sound Personality on Instagram for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-leveraging-social-influence-a-guide-to-biz-success-on-snap/"><u>[Updated] 2024 Approved Leveraging Social Influence A Guide to Biz Success on Snap</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-editing-excellence-choosing-premium-4k-displays/"><u>[Updated] Editing Excellence Choosing Premium 4K Displays</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-instructions-for-installing-windows-movie-maker-6/"><u>[Updated] In 2024, Instructions for Installing Windows Movie Maker 6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/acer-quiet-mode-dilemma-solved-bring-back-the-boom-with-easy-fixes/"><u>Acer Quiet Mode Dilemma Solved: Bring Back the Boom with Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unregistered-class-errors-in-windows-11-efficiently/"><u>How to Fix Unregistered Class Errors in Windows 11 Efficiently</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-harness-googles-potential-for-your-podcasts-for-2024/"><u>How to Harness Google’s Potential for Your Podcasts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identifying-and-resolving-high-sound-levels-in-your-ps4-system/"><u>Identifying & Resolving High Sound Levels in Your PS4 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-solutions-stop-counter-strike-go-from-crashing-now/"><u>Immediate Solutions: Stop Counter-Strike Go From Crashing Now!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-honing-skills-for-hiring-best-filmmakers/"><u>In 2024, Honing Skills for Hiring Best Filmmakers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-for-failed-windows-10-may-2019-version-updates/"><u>Resolved: Troubleshooting Steps for Failed Windows 10 May 2019 Version Updates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlocking-the-seo-puzzle-strategies-that-elevate-your-podcasts/"><u>[New] 2024 Approved Unlocking the SEO Puzzle Strategies That Elevate Your Podcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harmonizing-tracks-understanding-crossfades/"><u>[New] Harmonizing Tracks Understanding Crossfades</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-pin-someone-on-snapchat-all-you-need-to-know/"><u>[Updated] 2024 Approved How to Pin Someone on Snapchat All You Need to Know</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-leverage-your-influence-top-10-igtv-video-tactics-for-brands/"><u>[Updated] Leverage Your Influence Top 10 IGTV Video Tactics for Brands</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-simple-android-recording-without-rooting-steps-for-2024/"><u>[Updated] Simple Android Recording Without Rooting Steps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/"><u>Harnessing the Power of Hashtags to Amplify Your IGTV Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-flac-into-wma-format-using-windows-tools/"><u>Step-by-Step Guide: Transforming FLAC Into WMA Format Using Windows Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-enabling-xvid-format-support-on-android-devices/"><u>Step-by-Step Tutorial for Enabling Xvid Format Support on Android Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-integrating-new-fallout-features-into-your-kodi-matrix-setup/"><u>Step-by-Step Tutorial: Integrating New Fallout Features Into Your Kodi Matrix Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-mastering-the-art-of-screen-recording-on-msi-computers/"><u>Step-by-Step Tutorial: Mastering the Art of Screen Recording on MSI Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-transforming-your-mp4-files-into-high-quality-wav-format-using-the-latest-audacity-software/"><u>Step-by-Step Tutorial: Transforming Your MP4 Files Into High-Quality WAV Format Using the Latest Audacity Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-comprehensive-walkthrough-for-dvd-content-transfer-between-pcs-and-macs/"><u>The Comprehensive Walkthrough for DVD Content Transfer Between PCs and Macs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-how-you-navigate-information-seas-with-perplexity-ai-the-unsung-hero-of-advanced-google-querying/"><u>Transform How You Navigate Information Seas with Perplexity AI - The Unsung Hero of Advanced Google Querying!</u></a></li>
+<li><a href="https://techidaily.com/unseen-amd-drivers-unveil-the-fixes-for-making-them-visible-in-device-manager-easily/"><u>Unseen AMD Drivers? Unveil the Fixes for Making Them Visible in Device Manager Easily!</u></a></li>
 </ul></div>
 

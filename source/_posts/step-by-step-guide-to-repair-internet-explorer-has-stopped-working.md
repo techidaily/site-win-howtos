@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair 'Internet Explorer Has Stopped Working'
-date: 2025-02-14T17:22:21.545Z
-updated: 2025-02-16T22:14:38.473Z
+date: 2025-02-28T17:14:18.330Z
+updated: 2025-03-05T19:45:33.492Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -46,10 +42,6 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -79,19 +71,11 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -110,10 +94,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -184,19 +164,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unseen-streamer-how-to-live-stream-privately-on-instagram/"><u>[New] 2024 Approved Unseen Streamer How to Live-Stream Privately on Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-path-to-a-thriving-instagram-community/"><u>[New] In 2024, The Ultimate Path to a Thriving Instagram Community</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-journey-through-simulated-realities-vr-basics/"><u>[Updated] 2024 Approved Journey Through Simulated Realities VR Basics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>[Updated] 2024 Approved Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/audio-glitch-solutions-eliminating-crackling-sounds-from-computers-speakers-under-windows-os/"><u>Audio Glitch Solutions: Eliminating Crackling Sounds From Computers' Speakers Under Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-changed-network-environment-warning-in-windows-10-easy-guide/"><u>Fix Changed Network Environment Warning in Windows 10 Easy Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/illuminate-interruption-5-solutions-to-bring-back-keyboard-glow/"><u>Illuminate Interruption: 5 Solutions to Bring Back Keyboard Glow</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-visual-performance-hp-graphics-windows/"><u>Improve Visual Performance - HP Graphics Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-through-the-0xc000012f-dilemma-quick-fixes-for-a-smooth-windows-experience/"><u>Navigate Through the 0xC000012F Dilemma: Quick Fixes for a Smooth Windows Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seasons-change-global-warming-doesnt-follow-suit/"><u>Seasons Change, Global Warming Doesn't Follow Suit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-problem-of-an-unresponsive-microphone-on-your-pc-or-macbook/"><u>Solve the Problem of an Unresponsive Microphone on Your PC or MacBook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-microphone-not-working-heres-how-you-can-fix-it/"><u>SteelSeries Arctis 5 Microphone Not Working? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-youtube-promo-tactics-for-max-impact-for-2024/"><u>Top 5 YouTube Promo Tactics for Max Impact for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unblocked-horizons-wows-breakthrough-in-full-spectrum-3d-graphics/"><u>Unblocked Horizons: WoW's Breakthrough in Full-Spectrum 3D Graphics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/irtual-hubs-for-scouting-sponsorship-opportunities-on-youtube/"><u>[New] Virtual Hubs for Scouting Sponsorship Opportunities on Youtube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-art-of-designing-smaller-images-thumbnails-explained/"><u>2024 Approved The Art of Designing Smaller Images Thumbnails Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/commonly-encountered-icloud-syncs-errors-and-how-to-resolve-them-quickly/"><u>Commonly Encountered iCloud Syncs Errors and How to Resolve Them Quickly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-complex-policies-gpresult-techniques-explored/"><u>Conquering Complex Policies: GPResult Techniques Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-led-issue-resolved-steps-for-brightening-up-your-board/"><u>Corsair Keyboard LED Issue Resolved – Steps for Brightening Up Your Board</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-the-issue-of-a-malfunctioning-integrated-webcam-in-windows/"><u>Diagnosing and Solving the Issue of a Malfunctioning Integrated Webcam in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-loading-player-no-playable-sources-found-on-windows-solved/"><u>Error Loading Player: No Playable Sources Found on Windows [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-and-preventing-werfaultexe-errors-in-microsoft-windows/"><u>Expert Tips for Correcting and Preventing werfault.exe Errors in Microsoft Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y02t-by-drfone-android/"><u>How to Bypass FRP from Vivo Y02T?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-x50-gt-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor X50 GT Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-c67-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme C67 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-picks-top-macpc-bd-players-and-codecs/"><u>In 2024, Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-non-functioning-mac-webcam-simple-solutions/"><u>Quick Fixes for a Non-Functioning Mac Webcam: Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quickly-rectify-a-non-responsive-dns-server-with-these-4-methods/"><u>Quickly Rectify a Non-Responsive DNS Server with These 4 Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-enduring-appeal-of-the-samsung-galaxy-tab-s3-is-it-worth-your-money-our-take/"><u>The Enduring Appeal of the Samsung Galaxy Tab S3 – Is It Worth Your Money? Our Take</u></a></li>
 </ul></div>
 

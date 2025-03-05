@@ -1,7 +1,7 @@
 ---
 title: "Fix a Broken Connection: How to Get Your USB Mouse Working Again"
-date: 2025-02-11T23:15:05.442Z
-updated: 2025-02-16T21:54:20.301Z
+date: 2025-03-04T17:51:57.491Z
+updated: 2025-03-05T17:49:12.069Z
 tags:
   - win11
   - win10
@@ -46,29 +46,13 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
@@ -89,10 +73,6 @@ You can update your drivers automatically with either the [**Free**](https://too
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -120,24 +100,22 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-steps-for-saving-your-macs-desktop/"><u>[New] In 2024, Quick Steps for Saving Your Mac's Desktop</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/wavmp3aac/"><u>「オープンソースで簡単に行えるWAVからMP3、AACへの自動変換 - ムーヴァヴィ」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-join-an-existing-zoom-call-effortlessly-android-style/"><u>2024 Approved How to Join an Existing Zoom Call Effortlessly (Android Style)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/breaking-down-the-features-of-the-top-tier-new-phone-an-apple-iphone-12-review/"><u>Breaking Down the Features of the Top-Tier New Phone: An Apple iPhone 12 Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/earn-learn-and-score-top-4-online-gaming-resource-hubs/"><u>Earn, Learn & Score: Top 4 Online Gaming Resource Hubs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-leveraging-microsoft-excels-smart-data-recognition-feature/"><u>Expert Tips for Leveraging Microsoft Excel's Smart Data Recognition Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-creating-and-using-temporary-sharing-features-within-an-excel-spreadsheet/"><u>Guide: Creating and Using Temporary Sharing Features Within an Excel Spreadsheet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-displayhide-header-rows-and-columns-in-microsoft-excel/"><u>Guide: Display/Hide Header Rows and Columns in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-lock-down-workbooks-and-worksheets-for-safe-sharing-on-excel/"><u>How To Lock Down Workbooks & Worksheets for Safe Sharing on Excel</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/improving-online-sessions-with-increased-zoom-for-2024/"><u>Improving Online Sessions with Increased Zoom for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-quantifying-mr-beasts-earnings/"><u>In 2024, Quantifying Mr. Beast's Earnings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/inverting-image-hues-in-photoshop-for-2024/"><u>Inverting Image Hues in Photoshop for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-designing-excel-chart-templates-from-scratch/"><u>Master the Art of Designing Excel Chart Templates From Scratch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-data-analysis-building-a-pivot-table-using-microsoft-excels-features/"><u>Mastering Data Analysis: Building a Pivot Table Using Microsoft Excel's Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-data-management-a-four-step-guide-to-structuring-spreadsheets-in-excel/"><u>Mastering Data Management: A Four-Step Guide to Structuring Spreadsheets in Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-guide-on-incorporating-cell-data-into-your-chart-labels/"><u>Mastering Excel: A Guide on Incorporating Cell Data Into Your Chart Labels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-excel-a-step-by-step-guide-on-setting-your-numbers-accuracy/"><u>Mastering Excel: A Step-by-Step Guide on Setting Your Number's Accuracy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-your-potential-master-resumes-via-chatgpt/"><u>Unleashing Your Potential: Master Resumes via ChatGPT</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-wondering-how-to-replace-sky-in-after-effects-learn-how-for-2024/"><u>Updated Wondering How to Replace Sky in After Effects? Learn How for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-crossfade-sounds-using-audacity/"><u>2024 Approved The Ultimate Guide to Crossfade Sounds Using Audacity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gifmp4-movavi/"><u>免費在線變更GIF到MP4 - 利用 Movavi 工具進行轉換</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuita-de-archivos-flac-a-m4r-online-con-movavi/"><u>Conversión Gratuita De Archivos FLAC a M4R Online Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-registry-optimizers-of-2024-complimentary-access-available/"><u>Discover the Most Effective Registry Optimizers of 2024 - Complimentary Access Available</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-video-enhancement-learn-the-top-3-methods-for-adding-pictures-to-movies/"><u>Effortless Video Enhancement: Learn the Top 3 Methods for Adding Pictures to Movies</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-defy-2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Defy 2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-instant-converting-from-flac-to-wav-formats-via-movavi-onlinelogik/"><u>Gratis Instant Converting From FLAC to WAV Formats via Movavi - Onlinelogik</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-completa-para-conversion-de-video-mpg-a-m4v-sin-gastos-mediante-la-herramienta-en-linea-de-movavi/"><u>Guía Completa Para Conversión De Video MPG a M4V Sin Gastos Mediante La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/guidelines-for-selecting-your-next-virtual-reality-headset/"><u>Guidelines for Selecting Your Next Virtual Reality Headset</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-spark-20-proplus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Spark 20 Pro+ FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/navigating-cyber-threats-understanding-the-dangers-of-suspicious-pdfs-on-mobile-devices-with-malwarefox-insights/"><u>Navigating Cyber Threats: Understanding the Dangers of Suspicious PDFs on Mobile Devices with MalwareFox Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-transfer-expert-guide-on-syncing-your-kindle-library-with-pc-or-mac/"><u>Seamless Transfer: Expert Guide on Syncing Your Kindle Library with PC or Mac</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-pick-apple-ipad-pro-11/"><u>Top Pick: Apple iPad Pro 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transfert-video-wtv-a-fichier-avi-en-direct-beneficier-de-la-conversion-sans-cout-avec-movavi/"><u>Transfert Vidéo WTV À FICHIER AVI en Direct - Bénéficier De La Conversion Sans Coût Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-vos-fichiers-audio-m4a-au-format-aac-sans-frais-avec-movavi-online-guide-complet/"><u>Transformez Vos Fichiers Audio M4A Au Format AAC Sans Frais Avec Movavi Online - Guide Complet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-is-my-chatgpt-account-locked-explore-key-reasons-and-remedies-for-regaining-entry/"><u>Why Is My ChatGPT Account Locked? Explore Key Reasons & Remedies for Regaining Entry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726218663728-movavi/"><u>マッキューン ユーザー向け Movavi ソフトウェアに登録する方法</u></a></li>
 </ul></div>
 

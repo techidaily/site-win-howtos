@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly
-date: 2025-02-13T00:29:05.700Z
-updated: 2025-02-16T19:07:59.789Z
+date: 2025-03-04T18:42:18.298Z
+updated: 2025-03-05T17:04:53.636Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,18 +46,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -75,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Enable the NumLock key
 
@@ -113,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
 
@@ -153,20 +133,18 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nhancing-youtube-videos-proper-lighting-methods-for-2024/"><u>[New] Enhancing YouTube Videos Proper Lighting Methods for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-eliminating-oculus-sickness-key-tactics/"><u>[New] In 2024, Eliminating Oculus Sickness Key Tactics</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-perfecting-the-pathway-of-imovie-content-to-youtube/"><u>[New] Perfecting the Pathway of iMovie Content to YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-a-primer-on-using-azures-voice-to-text-service/"><u>[Updated] A Primer on Using Azure's Voice-to-Text Service</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-creating-a-unique-identity-in-the-flood-of-live-streams-for-2024/"><u>[Updated] Creating a Unique Identity in the Flood of Live Streams for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boost-your-playtime-fixing-stutter-and-lag-issues-in-the-latest-fallout-n-edition/"><u>Boost Your Playtime: Fixing Stutter & Lag Issues in the Latest Fallout N Edition</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/checking-credentials-on-youtube/"><u>Checking Credentials on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-buttons-in-windows-a-comprehensive-guide/"><u>Fixing Sticky Keyboard Buttons in Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-f54-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy F54 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-restoring-visibility-of-mouse-cursor-on-windows-11-systems/"><u>Guide: Restoring Visibility of Mouse Cursor on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-system-resources-not-enough-issues-on-your-device/"><u>How to Overcome 'System Resources Not Enough' Issues on Your Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-addressing-and-solving-nier-automata-pc-glitches/"><u>Resolved: Addressing and Solving Nier: Automata PC Glitches</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-editing-removing-out-of-place-backgrounds/"><u>Seamless Editing Removing Out-of-Place Backgrounds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-is-my-laptop-just-showing-a-white-screen-fixes-and-solutions-for-common-issues/"><u>Why Is My Laptop Just Showing a White Screen? Fixes and Solutions for Common Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-to-bring-your-ideas-to-life-in-win-movie-maker/"><u>[Updated] 2024 Approved How to Bring Your Ideas to Life in Win Movie Maker</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tips-for-effective-vimeo-broadcasting/"><u>[Updated] In 2024, Tips for Effective Vimeo Broadcasting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-20-moments-of-laughter-best-fb-jail-gems-for-a-sunny-outlook-for-2024/"><u>[Updated] Top 20 Moments of Laughter Best FB Jail Gems for a Sunny Outlook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5y2x6zm644gl44kj5a6i44kk44gq44gm44kj44cb5qsc57si5yplusv6io944gq44k744kv44k344o844ot44oh44kq44ks56k65a6f44gr44oa44km44oz44ot44o844oj44gz44kl5oqa6kgt44cn.55/"><u>「危険から守りながら、検索可能なセクシービデオを確実にダウンロードする技術」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/20247youtube/"><u>【2024年版】信頼性が証明されたトップ7無料YouTube音声記録ソフトウェア一推ブ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-free-conversion-guide-transforming-gsm-audio-files-into-mp3-format/"><u>1. Free Conversion Guide: Transforming GSM Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3gp-mp4-3/"><u>最新無料プログラムリスト: 3GP 画像と MP4に完璧なフォーマット変換 - ベスト3ピックアップ!</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/digitales-spiegelbild-fur-unternehmensablaufe-einfuhrungsbuch-abbey-linie/"><u>Digitales Spiegelbild Für Unternehmensabläufe: Einführungsbuch – ABBEY-Linie</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027478579-gif/"><u>GIFを循環表示するための作り方：無限ループ化ガイド</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-the-world-of-xmedia-workshop-a-thorough-examination/"><u>In 2024, Inside the World of XMedia Workshop A Thorough Examination</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/urgent-issue-looms-for-microsofts-windows-11-launch-only-a-year-remains-to-resolve-problems-insights-from-zdnet/"><u>Urgent Issue Looms for Microsoft's Windows 11 Launch; Only a Year Remains to Resolve Problems – Insights From ZDNet</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ram-wma-movavi/"><u>원금이라면서도 원홍스토리의 RAM WMA에 대한 인사 무료 변환 기술 – Movavi</u></a></li>
 </ul></div>
 

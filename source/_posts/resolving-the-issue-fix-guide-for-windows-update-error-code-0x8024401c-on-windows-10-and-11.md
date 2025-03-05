@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Fix Guide for Windows Update Error Code 0X8024401c on Windows 10 and 11"
-date: 2025-02-12T22:34:06.481Z
-updated: 2025-02-16T18:49:15.538Z
+date: 2025-03-03T20:12:18.157Z
+updated: 2025-03-05T20:21:48.962Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Reset your Windows Update components
 
  The Windows Update “0x8024002e” error code may occur because its components are corrupted. These components include the services and temporary files and folders associated with Windows Update. You can try resetting these components and see if this fixes your problem.
@@ -44,10 +40,6 @@ To reset these components:
 2. Type “cmd” in the Run box, then, on your keyboard, press the**Ctrl** ,**Shift** and**Enter** keys at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-884.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. If prompted, click**Yes** .
 4. In Command Prompt, type the following lines of command and press**Enter** on your keyboard after typing each:
@@ -88,19 +80,11 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
@@ -122,10 +106,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
 
@@ -137,10 +117,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Click**Restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
@@ -150,15 +126,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 16. Click**OK** and then click**Restart** .  
 
@@ -188,22 +156,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-explore-elite-data-vaults-best-storages-reviewed/"><u>[New] Explore Elite Data Vaults Best Storages Reviewed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ree-and-easy-building-attractive-youtube-intros-without-expense/"><u>[New] Free & Easy Building Attractive YouTube Intros without Expense</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-ranking-of-photo-editors-on-iphones-and-androids/"><u>[Updated] 2024 Approved The Ultimate Ranking of Photo Editors on iPhones & Androids</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-loudness-issues-in-playstation-4-systems-tips-and-fixes/"><u>Diagnosing Loudness Issues in PlayStation 4 Systems – Tips & Fixes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-how-apples-airtag-leads-the-pack-in-smart-tracking-devices-for-ios-enthusiasts/"><u>Discover How Apple's AirTag Leads the Pack in Smart Tracking Devices for iOS Enthusiasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/elevate-entertainment-high-definition-hitachi-tvs-with-direct-roku-access/"><u>Elevate Entertainment: High Definition Hitachi TVs with Direct Roku Access</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-fix-it-methods-using-system-file-checker-and-deployment-image-servicing-on-win11/"><u>Essential Fix-It Methods: Using System File Checker and Deployment Image Servicing on Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-dim-or-overly-bright-screen-correcting-brightness-issues-on-windows-10/"><u>Fix Your Dim or Overly-Bright Screen: Correcting Brightness Issues on Windows 10</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-indoor-android-games-you-can-play-without-a-network/"><u>In 2024, Indoor Android Games You Can Play Without a Network</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-hot-40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Hot 40 FRP Bypass</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/interactive-techniques-for-periscope-hosts/"><u>Interactive Techniques for Periscope Hosts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/latest-linksys-network-router-passwords-july-2024-update/"><u>Latest Linksys Network Router Passwords: July 2024 Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-exe-file-failure-fixing-applications-that-have-crashed/"><u>Resolved: Exe File Failure - Fixing Applications That Have Crashed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211802354-resolving-audio-problems-get-back-control-of-windows-10-speaker-volume-now/"><u>Resolving Audio Problems: Get Back Control of Windows 10 Speaker Volume Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-client-launcher-trouble-discover-how-to-fix-and-get-back-in-action-today/"><u>Steam Client Launcher Trouble? Discover How to Fix and Get Back in Action Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-better-game-speeds-on-a-windows-11-system/"><u>Step-by-Step Guide to Better Game Speeds on a Windows 11 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205382179-stop-your-device-from-falling-asleep-simple-solutions/"><u>Stop Your Device From Falling Asleep: Simple Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterclass-analyzing-the-updated-lg-bp550/"><u>[New] Masterclass Analyzing the Updated LG BP550</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-blueprint-for-boosting-business-results-with-better-offices/"><u>2024 Approved A Blueprint for Boosting Business Results with Better Offices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-sans-frais-mp3-de-video-f4v-via-movavi-online/"><u>Conversion Sans Frais : MP3 De Vidéo F4V via Movavi Online</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 8/iPad? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-elevating-your-win11-capture-experience-with-top-tools/"><u>In 2024, Elevating Your Win11 Capture Experience with Top Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-file-transformation-from-3gpp-made-simple-and-free-discover-the-power-of-movavis-online-conversion-tool/"><u>MP4 File Transformation From 3GPP Made Simple and Free – Discover the Power of Movavi's Online Conversion Tool</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-replace-the-sky-in-your-media-read-the-article-to-learn-how-to-change-the-sky-app-on-your-mobile-phone/"><u>New In 2024, Do You Want to Replace the Sky in Your Media? Read the Article to Learn How to Change the Sky App on Your Mobile Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-konverteren-van-m4a-naar-wav-vrije-dienst-met-movavi-convertereer-nl/"><u>Online Konverteren Van M4A Naar WAV - Vrije Dienst Met Movavi Convertereer NL</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-single-board-computers-for-windows-lovers/"><u>Prime Single-Board Computers for Windows Lovers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-10-reliable-vhs-to-dvd-conversion-tools-explore-movavis-leading-position/"><u>Top 10 Reliable VHS-to-DVD Conversion Tools: Explore Movavi's Leading Position</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-fixing-the-common-causes-of-rocket-league-game-crashes/"><u>Top Strategies: Fixing the Common Causes of Rocket League Game Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-des-fichiers-mp4-en-videos-mpeg-sur-internet-de-gratuiciel-convertisseur-video-movavi/"><u>Transformer Des Fichiers MP4 en Vidéos MPEG Sur Internet De Gratuiciel - Convertisseur Vidéo Movavi</u></a></li>
 </ul></div>
 

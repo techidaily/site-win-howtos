@@ -1,7 +1,7 @@
 ---
 title: "Printer Setup Solutions: Deciphering and Addressing the 'Error Code -30' Dilemma"
-date: 2024-08-19T07:45:52.352Z
-updated: 2024-08-20T07:45:52.352Z
+date: 2025-03-01T19:39:04.441Z
+updated: 2025-03-05T16:43:38.348Z
 tags:
   - win11
   - win10
@@ -34,33 +34,21 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
 This problem may occur if you are using the wrong or outdated drivers. So you should update your device drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).
@@ -73,14 +61,8 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -98,8 +80,6 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +87,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-perfect-playtime-footage-with-nvidia/"><u>[New] 2024 Approved Perfect Playtime Footage with NVIDIA</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-innovative-approach-to-3d-text-in-photoediting/"><u>2024 Approved Innovative Approach to 3D Text in PhotoEditing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-art-of-using-b-roll-to-complement-visuals-effectively/"><u>2024 Approved The Art of Using B-Roll to Complement Visuals Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-pc-issues-with-nier-automata-common-problems-and-solutions-explored/"><u>Fixing PC Issues with NieR: Automata - Common Problems and Solutions Explored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/gaming-heaven-a-treasure-trove-of-superb-offline-ios-game-titles/"><u>Gaming Heaven A Treasure Trove of Superb Offline iOS Game Titles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-shift-key-ultimate-guide/"><u>How to Fix a Non-Responsive Shift Key: Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-and-restore-your-lost-steam-files-solutions-unveiled/"><u>How to Fix and Restore Your Lost Steam Files - Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-fix-guide-for-when-your-system-reports-a-missing-battery/"><u>Immediate Fix Guide for When Your System Reports a Missing Battery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-combining-images-for-an-engaging-picture-panorama/"><u>In 2024, Combining Images for an Engaging Picture Panorama</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-14-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 14 Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-read-error-problems-in-files-and-directories-a-step-by-step-fix/"><u>Overcoming Read-Error Problems in Files & Directories - A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-non-hdcp-errors-on-displays-that-dont-support-enhanced-content-protection/"><u>Resolving Non-HDCP Errors on Displays That Don't Support Enhanced Content Protection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-resolving-the-persistent-reboot-problem-in-windows-11/"><u>Simple Fixes: Resolving the Persistent Reboot Problem in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-drivers-instruction-manual/"><u>Simplified Drivers Instruction Manual</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-list-of-5-drone-racing-virtual-headsets/"><u>The Essential List of 5 Drone Racing Virtual Headsets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-reverse-rotation-riddle-on-social-media-platforms/"><u>The Reverse Rotation Riddle on Social Media Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcoming-non-responsive-screen-fixing-absence-of-physical-controls/"><u>Troubleshooting: Overcoming Non-Responsive Screen - Fixing Absence of Physical Controls</u></a></li>
+</ul></div>
 

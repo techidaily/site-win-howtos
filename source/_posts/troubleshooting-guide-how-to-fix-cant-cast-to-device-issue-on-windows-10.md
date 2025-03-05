@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix 'Can't Cast to Device' Issue on Windows 10"
-date: 2025-02-13T16:00:54.069Z
-updated: 2025-02-16T18:22:58.417Z
+date: 2025-02-26T18:53:48.821Z
+updated: 2025-03-05T16:13:09.684Z
 tags:
   - win11
   - win10
@@ -38,19 +38,11 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -105,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -117,19 +105,11 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -143,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
  3) Find and right-click on **Internet** **Explorer ETW Collector Service** . Then click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
 
@@ -183,10 +159,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -225,19 +197,20 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-jest-jar-your-best-free-meme-source/"><u>[New] In 2024, Jest Jar Your Best Free Meme Source</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smooth-file-migration-to-computer-5-proven-techniques/"><u>2024 Approved Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/android-and-iphone-collage-kings-the-best-montage-apps/"><u>Android & iPhone Collage Kings The Best Montage Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-rpc-connectivity-problems-on-windows-machines/"><u>Effective Solutions for Overcoming RPC Connectivity Problems on Windows Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-resolving-airpod-connection-issues-with-windows-pcs/"><u>Effective Strategies for Resolving AirPod Connection Issues with Windows PCs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-excellent-connectivity-with-the-simplistic-design-of-clearstreams-eclipse-antenna-a-comprehensive-review/"><u>Experience Excellent Connectivity with the Simplistic Design of ClearStream's Eclipse Antenna - A Comprehensive Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-scroll-failures-on-your-windows-11-touchpad/"><u>Expert Tips to Overcome Scroll Failures on Your Windows 11 Touchpad</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-90-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor 90 Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-leftright-shift-key-issues-expert-advice-and-fixes/"><u>Overcoming Left/Right Shift Key Issues: Expert Advice and Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/scrolling-malfunctions-on-touchpad-heres-how-to-resolve-the-problem/"><u>Scrolling Malfunctions on Touchpad? Here's How to Resolve the Problem</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/spotting-deception-why-real-chatgpt-doesnt-have-a-windows-client-its-malware/"><u>Spotting Deception: Why Real ChatGPT Doesn't Have a Windows Client (It's Malware!)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-huion-stylus-5-effective-methods-to-restore-functionality/"><u>Troubleshooting Your Huion Stylus: 5 Effective Methods to Restore Functionality</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/update-your-research-plan/"><u>Update Your Research Plan</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-innovative-mac-live-streaming-options-ranked-1-5/"><u>[Updated] 2024 Approved Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-melodic-overlays-on-digital-imagery/"><u>[Updated] 2024 Approved Melodic Overlays on Digital Imagery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-be-amongst-the-few-essential-metaverse-technology/"><u>[Updated] Be Amongst the Few Essential Metaverse Technology</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transforming-trips-into-tales-the-roadmap-to-becoming-a-travel-blogger/"><u>[Updated] In 2024, Transforming Trips Into Tales The Roadmap to Becoming a Travel Blogger</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-keep-your-identity-under-wraps-while-livestreaming/"><u>[Updated] Keep Your Identity Under Wraps While Livestreaming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-tune-into-visuals-embedding-music-in-powerpoint/"><u>2024 Approved Tune Into Visuals Embedding Music in PowerPoint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5ycl5lq65oof5acx5lplusd6k235qmf6io944ks5ykz44gi44gf5lplush6ac85ocn44gu44gc44kl44oe44or44ob44oh44oh44kj44ki44k944ov44oi44km44kn44kiic0g44og44o844o044kh44o04419/"><u>個人情報保護機能を備えた信頼性のあるマルチメディアソフトウェア - ムーヴァヴィ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/202310/"><u>音声編集入門者必見！無料ツールが選ばれる【2023年版】トップ10リスト</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/come-rimuovere-i-graffiti-dalle-immagini-con-il-tuo-editor-di-fotografie/"><u>Come Rimuovere I Graffiti Dalle Immagini Con Il Tuo Editor Di Fotografie</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-your-mov-videos-into-3gpp-format-for-free-using-movavis-service/"><u>Convert Your MOV Videos Into 3GPP Format for Free Using Movavi's Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-webm-to-mp3-file-converter-easy-download-with-movavi/"><u>Free Online WebM to MP3 File Converter - Easy Download with Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-mute-life-easily-correcting-skype-noise-malfunctions/"><u>No More Mute Life: Easily Correcting Skype Noise Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transferer-facilement-des-videos-flv-a-un-fichier-aac-en-ligne-convertissez-avec-movavi-sans-frais/"><u>Transférer Facilement Des Vidéos FLV À Un Fichier AAC en Ligne - Convertissez Avec Movavi Sans Frais</u></a></li>
+<li><a href="https://techidaily.com/transform-your-photos-to-searchable-text-on-ios-using-scannerplusocr-by-docuscan-technologies/"><u>Transform Your Photos to Searchable Text on iOS Using Scanner+OCR by DocuScan Technologies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/upgrade-your-computer-memory-to-megabytes-per-gallon-free-moveit/"><u>Upgrade Your Computer Memory to Megabytes per Gallon Free - MoveIt</u></a></li>
 </ul></div>
 

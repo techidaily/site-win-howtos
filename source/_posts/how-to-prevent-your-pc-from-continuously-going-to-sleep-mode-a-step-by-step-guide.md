@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent Your PC From Continuously Going to Sleep Mode: A Step-by-Step Guide"
-date: 2025-02-11T00:49:09.711Z
-updated: 2025-02-16T18:42:05.509Z
+date: 2025-02-26T19:53:34.374Z
+updated: 2025-03-05T18:04:40.667Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Check the power settings
 
  If your power settings are configured to sleep in a short time, for example, 5 minutes, you’ll experience the computer keeps going to sleep issue. To fix the problem, the first thing to do is check the power settings, and change the settings if necessary. To do so:
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 2. Type**control panel** and press Enter.  
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 3. **View by** **Large icons** , and click **Power Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1370b5c7879.jpg)
 4. Click**Change when the computer sleeps** in the left pane.  
@@ -62,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1371d25d798.jpg)
 6. Click**Save changes** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Check to see if the computer still keeps going to sleep.
 
@@ -83,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
@@ -107,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 
@@ -126,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
@@ -170,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
@@ -182,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -210,17 +178,20 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-seamless-slidecasts-combining-webcam-and-ppt/"><u>[New] 2024 Approved Seamless Slidecasts Combining Webcam and PPT</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-which-ios-app-crushes-in-video-editing-cameo-or-filmorago/"><u>[Updated] 2024 Approved Which iOS App Crushes in Video Editing? Cameo or FilmoraGo?</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-zoom-anomalies-addressing-error-1132-in-windows-11/"><u>Correcting Zoom Anomalies: Addressing Error 1132 in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-not-responding-heres-how-to-restart-and-recover-easily/"><u>Google Chrome Not Responding? Here's How to Restart and Recover Easily</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/guide-to-recovering-data-from-a-malfunctioned-hdd/"><u>Guide to Recovering Data From a Malfunctioned HDD</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-class-not-registered-errors-on-your-windows-10-device-solutions-inside/"><u>How to Fix 'Class Not Registered' Errors on Your Windows 10 Device - Solutions Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-reduce-high-network-consumption-by-svchostexe-netsvcs/"><u>How To Resolve & Reduce High Network Consumption by svchost.exe (Netsvcs)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-film-timeframe-determining-gb-storage-requirement/"><u>In 2024, Film Timeframe Determining GB Storage Requirement</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-find-x6-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo Find X6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202699725-should-you-preserve-msdia80dll-in-windows-find-out-why/"><u>Should You Preserve msdia80.dll in Windows? Find Out Why!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-entrypointnotavailable-error-on-your-windows-pc/"><u>Solving the 'EntryPointNotAvailable' Error on Your Windows PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/troubleshooting-excessive-obs-bitrate-for-2024/"><u>Troubleshooting Excessive OBS Bitrate for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-be-bold-on-igtv-the-10-cutting-edge-video-concepts-for-your-brand/"><u>[New] 2024 Approved Be Bold on IGTV The 10 Cutting-Edge Video Concepts for Your Brand</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/onquering-the-fan-base-youtubes-pathway-to-more-followers-for-2024/"><u>[New] Conquering the Fan Base YouTube's Pathway to More Followers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-entering-the-world-of-content-creation-sign-up-tutorial/"><u>[Updated] 2024 Approved Entering the World of Content Creation Sign Up Tutorial</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-videotwitter-audible-direct-download-for-2024/"><u>[Updated] VideoTwitter Audible Direct Download for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-revamps-ai-with-promising-upgrades-yet-challenges-remain-an-in-depth-analysis-by-zdnet/"><u>Apple Revamps AI with Promising Upgrades, Yet Challenges Remain: An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-precautionary-measures-on-windows-11-upgrade/"><u>Essential Precautionary Measures on Windows 11 Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-windows-11-volume-dysfunction-your-ultimate-guide/"><u>Expert Fixes for Windows 11 Volume Dysfunction - Your Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-error-recovering-complete-steam-game-data-access-and-permissions/"><u>Fixing Error: Recovering Complete Steam Game Data Access and Permissions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-logitech-mouse-scrolling-again-after-it-stopped-working/"><u>How To Get Your Logitech Mouse Scrolling Again After It Stopped Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-obtain-write-access-rights-from-trustedinstaller-on-windows-files/"><u>How to Obtain Write Access Rights From TrustedInstaller on Windows Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-blurred-fonts-on-windows-11-a-comprehensive-guide/"><u>How to Resolve Blurred Fonts on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-disconnected-world-in-pokemon-go/"><u>Overcoming Disconnected World in Pokémon GO</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-startup-problems-that-cause-system-to-halt/"><u>Troubleshooting Windows 11 Startup Problems That Cause System to Halt</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unleashing-potential-wows-full-spectrum-3d-support/"><u>Unleashing Potential: WoW's Full Spectrum 3D Support</u></a></li>
 </ul></div>
 

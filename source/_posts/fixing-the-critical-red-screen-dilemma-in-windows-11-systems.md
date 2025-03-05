@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2025-02-09T18:50:19.816Z
-updated: 2025-02-16T18:06:26.640Z
+date: 2025-02-28T19:47:41.019Z
+updated: 2025-03-05T19:29:12.451Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -63,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
@@ -90,10 +82,6 @@ Follow these steps to reset your Winsock Catalog:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your video card driver
 
  You could probably encounter this error if the video card driver on your computer is outdated, incompatible or corrupt. So you should**update your video card driver** to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -114,10 +102,6 @@ Follow these steps to reset your Winsock Catalog:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Uninstall the KB2952664 update
 
  According to many users’ report, this error could be due to the**KB2952664** Windows Update. If none of the methods above helps you, go with the following steps to**uninstall the KB2952664 update** on your computer:
@@ -137,10 +121,6 @@ Restart your computer to see if the error has gone.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Remove klhkum.dll
 
  If you have to reset Winsock tens of times a day, you need to try this method. What you should do is checking whether you have “klhkum.dll” or not.
@@ -152,10 +132,6 @@ Restart your computer to see if the error has gone.
 2. Click the**Startup** tab and find**klhkum.dll** process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
@@ -184,18 +160,21 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elevating-your-gopro-vlogs-to-the-next-level/"><u>[New] 2024 Approved Elevating Your GoPro Vlogs to the Next Level</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-hd-the-exceptional-experience-with-hp-envy-27/"><u>Beyond HD - The Exceptional Experience with HP Envy 27</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cracking-the-code-on-windows-update-failure-error-0x8024200d-a-comprehensive-solution-guide/"><u>Cracking the Code on Windows Update Failure (Error 0X8024200D): A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-restoring-functionality-to-your-quick-capture-tool-with-the-windows-key-combo-on-new-versions-of-windows-os/"><u>Expert Tips: Restoring Functionality to Your Quick Capture Tool with the Windows Key Combo on New Versions of Windows OS</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-zte-lock-screen-password-by-drfone-android/"><u>How To Change ZTE Lock Screen Password?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-your-dolby-advanced-audio-driver-when-confronted-with-startup-problems-in-windows-11/"><u>How to Reactivate Your Dolby Advanced Audio Driver When Confronted with Startup Problems in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55+ to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-non-functional-scroll-wheel-issues-on-synaptics-trackpads-post-windows-11-update/"><u>Solving Non-Functional Scroll Wheel Issues on Synaptics Trackpads Post-Windows 11 Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-nonfunctional-night-light-setting-in-modern-windows-pcs/"><u>Step-by-Step Fixes for Nonfunctional Night Light Setting in Modern Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-the-livekernelevent-144-issue/"><u>Troubleshooting and Resolving the 'LiveKernelEvent 144' Issue</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-making-airpods-produce-sound-on-windows-desktopslaptops/"><u>Troubleshooting Tips: Making AirPods Produce Sound on Windows Desktops/Laptops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win-10-not-closing-complete-guide-for-successful-system-shutdown/"><u>Win 10 Not Closing? Complete Guide for Successful System Shutdown</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/windows-media-creator-alternatives/"><u>Windows Media Creator Alternatives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-a-comprehensive-breakdown-of-live-streaming-and-downloading-tv/"><u>[New] 2024 Approved A Comprehensive Breakdown of Live Streaming and Downloading TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmmaking-made-simple-crafting-an-impactful-youtube-subscribe-button/"><u>[New] 2024 Approved Filmmaking Made Simple Crafting an Impactful YouTube Subscribe Button</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-drone-powerhouses-the-ultimate-heavy-lift-guide-for-2024/"><u>[Updated] Drone Powerhouses The Ultimate Heavy-Lift Guide for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-secure-your-watchlist-free-playlist-extractors-roundup/"><u>[Updated] In 2024, Secure Your Watchlist Free Playlist Extractors Roundup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-solutions-to-get-your-hp-laptops-webcam-working-again-on-windows-11/"><u>Essential Solutions to Get Your HP Laptop's Webcam Working Again on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-when-your-computer-gets-caught-during-windows-installation/"><u>How to Troubleshoot When Your Computer Gets Caught During Windows Installation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a1-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A1 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v29-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V29 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-vr-films-that-you-should-never-miss/"><u>In 2024, Top VR Films That You Should Never Miss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keep-your-laptop-awake-longer-with-these-quick-tips/"><u>Keep Your Laptop Awake Longer with These Quick Tips!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-output-with-ai-crafting-high-performance-workflows-using-chatgpt/"><u>Maximizing Output with AI: Crafting High-Performance Workflows Using ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-skype-microphone-trouble-discover-proven-techniques-to-get-it-working-again/"><u>Overcoming Skype Microphone Trouble? Discover Proven Techniques to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-stuck-navigation-issues-on-your-portable-pc/"><u>Overcoming Stuck Navigation Issues on Your Portable PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-your-systems-essential-windows-update-features/"><u>Resolving Issues with Your System's Essential Windows Update Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-typing-snafu-resolved/"><u>Surface Typing Snafu, Resolved!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transforming-dull-interviews-into-engaging-assessments/"><u>Transforming Dull Interviews Into Engaging Assessments</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Win10 Renders Computer Inactive Suddenly
-date: 2024-08-19T07:47:03.718Z
-updated: 2024-08-20T07:47:03.718Z
+date: 2025-02-26T19:56:49.037Z
+updated: 2025-03-05T17:39:20.507Z
 tags:
   - win11
   - win10
@@ -58,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 1. Type **Power Options**  in the search box from Start. Then click**Edit power plan** or other items relates to power settings.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79395b78b6.png)
 2. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b7941bdec4c.png)
 3. In the**Balanced** section, click **Processor power management** \> **Minimum processor state** . Then set it to a small number, like**5%** or even**0%** . Click **Apply**  \> **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79482efc69.png)
@@ -84,27 +81,12 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Run a memory check
 
  The fact your computer randomly restarts could mean there’s a problem with its Random Access Memory (RAM). Fortunately, Windows comes with a tool that can test your RAM and let you know if there are any issues with it. Here’s how to use it:
@@ -118,34 +100,18 @@ thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce525
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-57.jpg)
 4. Windows will run diagnosis automatically, which can take a few minutes. When it’s finished, your PC will reboot.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 5. The results will be shown on your desktop. If you don’t see any notification, right-click the **Start** menu then click **Event Viewer** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the Windows 10 computer randomly restarts problem. In that case, please move on to the next fix.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Repair system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it’s possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that   **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -156,14 +122,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
 ## Fix 6: Check power issue
@@ -194,8 +154,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +161,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[New] 2024 Approved PC Games Memory - Freeze and Capture 6 Ways to Win</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-fabricate-personalized-viral-memes-for-2024/"><u>[New] Fabricate Personalized Viral Memes for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utorial-purging-your-youtube-download-history-for-2024/"><u>[New] Tutorial Purging Your YouTube Download History for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/amd-graphics-drivers-radeon-hd-6950-version-20/"><u>AMD Graphics Drivers: Radeon HD 6950, Version 2.0</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-synergy-merging-mindmap-strategies-and-chatgpt-for-idea-generation-success/"><u>Creative Synergy: Merging Mindmap Strategies and ChatGPT for Idea Generation Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-vanished-desktop-icons-in-windows-11-comprehensive-guide/"><u>Fixes for Vanished Desktop Icons in Windows 11 - Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-a-non-working-laptop-trackpad-easily/"><u>How to Diagnose and Repair a Non-Working Laptop Trackpad Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-x-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone X to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-12-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 12 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-for-logitech-mouse-scroll-wheel-issues-restoration-methods/"><u>Quick Fix for Logitech Mouse Scroll Wheel Issues - Restoration Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-persistent-windows-update-malfunction-cracking-down-on-error-0x800705b4-in-windows-10-systems/"><u>Resolving the Persistent Windows Update Malfunction: Cracking Down on Error 0X800705b4 in Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shift-key-issues-heres-the-step-by-step-fix-that-works/"><u>Shift Key Issues? Here's the Step-by-Step Fix That Works!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-rdr2-out-of-memory-issue-how-to-upgrade-your-page-file/"><u>Solve 'RDR2 Out Of Memory' Issue: How To Upgrade Your Page File</u></a></li>
+<li><a href="https://win-hot.techidaily.com/techniques-vitales-assurer-une-migration-en-douce-de-windows-7-a-windows-11-sans-pertes-de-fichiers/"><u>Techniques Vitales : Assurer Une Migration en Douce De Windows 7 À Windows 11 Sans Pertes De Fichiers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tricks-to-achieve-high-performance-gaming-in-windows-11/"><u>Top Tricks to Achieve High-Performance Gaming in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-file-asf-a-formato-mpeg-online-e-gratuito-con-movavi/"><u>Trasforma File ASF a Formato MPEG Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-solve-your-windows-10s-absent-bluetooth-a-step-by-step-approach/"><u>Troubleshoot & Solve Your Windows 10'S Absent Bluetooth – A Step-by-Step Approach!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-10-update-issues-clear-the-corrupted-store-cache-solved/"><u>Win 10 Update Issues? Clear the Corrupted Store Cache - Solved!</u></a></li>
+</ul></div>
 

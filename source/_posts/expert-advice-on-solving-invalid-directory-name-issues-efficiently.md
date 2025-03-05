@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Solving 'Invalid Directory Name' Issues Efficiently
-date: 2025-02-14T01:08:17.805Z
-updated: 2025-02-17T00:43:27.651Z
+date: 2025-03-03T20:28:02.860Z
+updated: 2025-03-05T17:17:21.041Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Table of contents
 
 * [Fix 1 – Is it a driver issue?](#h-fix-1-is-it-a-driver-issue)  
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Update your network driver
 
@@ -66,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 5. Run the**ipconfig /renew** in CMD again to see if the error message is resolved.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Roll back your network driver
 
@@ -103,17 +91,9 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Register your DNS
 
@@ -129,10 +109,6 @@ Here’s how:
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4 – Reset TCP/IP Configuration
 
 1. On your keyboard, press the**Windows logo** key and type**cmd** . Right-click on**Command Prompt** as it pops up as a result, and select**Run as administrator** .  
@@ -146,10 +122,6 @@ Here’s how:
    * Type **ipconfig /flushdns** and press**Enter** .
 3. Restart computer.
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 –**Disable IPv6 on your active connection**
 
@@ -184,17 +156,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-kinemaster-tools-for-cohesive-narrative-flow/"><u>[Updated] 2024 Approved Kinemaster Tools for Cohesive Narrative Flow</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-pioneers-panoramas-open-for-all/"><u>[Updated] 2024 Approved Pioneer's Panoramas Open for All</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-giggle-fest-on-the-twittersphere/"><u>[Updated] Giggle Fest on the Twittersphere</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-gratuitous-sound-solutions-years-best-lut-downloads/"><u>[Updated] In 2024, Gratuitous Sound Solutions - Year's Best LUT Downloads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-and-defeating-the-werfaultexe-error-in-windows-a-comprehensive-guide/"><u>Decoding and Defeating the werFault.exe Error in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-keeping-your-pc-awake-and-alert-at-all-times/"><u>Effective Solutions: Keeping Your PC Awake and Alert at All Times</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-note-12r-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi Note 12R to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-reno-10-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo Reno 10 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-ready-five-fixed-strategies-for-secure-boot-dilemmas/"><u>Reboot Ready: Five Fixed Strategies for Secure Boot Dilemmas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-malfunctioning-windows-update-processes-in-windows-10/"><u>Step-by-Step Guide: Repairing Malfunctioning Windows Update Processes in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-0x-memory-reference-issues-in-computing-systems/"><u>Troubleshooting and Solving 0X Memory Reference Issues in Computing Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-your-non-functional-usb-to-hdmi-converter/"><u>Troubleshooting Tips: Fixing Your Non-Functional USB-to-HDMI Converter</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-hacks-create-youtube-shorts-thumbnails-that-stand-out-quickly/"><u>[New] In 2024, Hacks Create YouTube Shorts Thumbnails That Stand Out Quickly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-video-trailers-on-youtube-via-filmora-tools/"><u>[New] Mastering Video Trailers on YouTube via Filmora Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-30-webcams-built-for-windows-os/"><u>[Updated] 2024 Approved Top 30 Webcams Built for Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-lava-blaze-2-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Lava Blaze 2 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empower-web-performance-analysis-using-cookiebot-tools/"><u>Empower Web Performance Analysis Using Cookiebot Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-fixes-for-laptops-that-wont-charge-get-power-back-immediately/"><u>Fast Fixes for Laptops That Won't Charge - Get Power Back Immediately</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-bluetooth-keyboard-when-linking-to-a-computer/"><u>How To Fix a Non-Responsive Bluetooth Keyboard When Linking to a Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-no-signal-on-tv-a-detailed-guide/"><u>How to Resolve 'No Signal' On TV: A Detailed Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-xiaomi-14-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi 14 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g13-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G13?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/innovative-techniques-for-capturing-audio-on-ipad/"><u>Innovative Techniques for Capturing Audio on iPad</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/e-realms-stepwise-food-videography/"><u>Recipe Realms Stepwise Food Videography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-missing-desktop-icons-on-your-windows-11-system-step-by-step-fix/"><u>Revive Missing Desktop Icons on Your Windows 11 System: Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-windows-10-computer-stops-responding/"><u>Solutions for When Your Windows 10 Computer Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-cast-unable-to-locate-device-issue-in-windows-11-quick-fixes-and-explanations/"><u>Solving the 'Cast Unable to Locate Device' Issue in Windows 11 - Quick Fixes and Explanations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-unavailable-desktop-at-cwindowssystem32configsystemprofile-path/"><u>Step-by-Step Guide to Fix 'Unavailable' Desktop at C: Windows System32 Config SystemProfile Path</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-quick-fixes-for-error-1053-service-delayed-response/"><u>Troubleshooting Quick Fixes for 'Error 1053' - Service Delayed Response</u></a></li>
 </ul></div>
 

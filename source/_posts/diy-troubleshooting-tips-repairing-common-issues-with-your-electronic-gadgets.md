@@ -1,7 +1,7 @@
 ---
 title: "DIY Troubleshooting Tips: Repairing Common Issues with Your Electronic Gadgets"
-date: 2024-08-19T07:46:45.066Z
-updated: 2024-08-20T07:46:45.066Z
+date: 2025-03-03T16:50:34.895Z
+updated: 2025-03-05T19:20:00.724Z
 tags:
   - win11
   - win10
@@ -42,36 +42,19 @@ It’s possible that too many people connect to the Destiny servers during the t
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable DHCP for your connection
 
 If you’re connecting via WiFi, you’re more likely to have the servers not available error in Destiny 2\. So you can try disabling DHCP in your computer to fix your problem. To do so:
 
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 2. Click**Change adapter** **settings** on the left.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
@@ -84,9 +67,6 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
@@ -105,9 +85,6 @@ A missing or outdated network card driver will cause connection issues in your c
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Open Destiny 2 and see the servers not available error has been removed.
 
 ---
@@ -123,8 +100,6 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +107,24 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/est-alternative-top-10-flv-to-youtube-converter-apps/"><u>[New] Best Alternative Top 10 FLV to YouTube Converter Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimizing-playback-rate-of-presentation-videos/"><u>[New] Optimizing Playback Rate of Presentation Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chuckle-cache-the-ultimate-free-meme-compendium/"><u>[Updated] Chuckle Cache The Ultimate Free Meme Compendium</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-beat-procrastination-with-instant-access-to-your-youtube-favorites/"><u>2024 Approved Beat Procrastination with Instant Access to Your Youtube Favorites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-unsuccessful-windows-11-installation-and-patching/"><u>Effective Fixes for Unsuccessful Windows 11 Installation and Patching</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-awareness-meditative-practices-for-brain-and-heart-health/"><u>Enhancing Awareness: Meditative Practices for Brain and Heart Health</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-applied-for-dragon-ball-fighterzs-network-startup-failure/"><u>Fixes Applied for Dragon Ball FighterZ’s Network Startup Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-how-to-resolve-a-non-functional-dell-wireless-keyboard/"><u>Fixing Issues: How to Resolve a Non-Functional Dell Wireless Keyboard</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harness-freedom-with-top-rated-android-editing-apps-for-2024/"><u>Harness Freedom with Top-Rated Android Editing Apps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-your-stuck-or-dead-shift-key-fail-proof-methods/"><u>How to Restore Functionality to Your Stuck or Dead Shift Key (FAIL-PROOF Methods)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-idleness-tranquil-phone-game-recommendations/"><u>In 2024, Essential Idleness Tranquil Phone Game Recommendations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-12-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-error-code-0x80072f8f-effective-strategies-for-windows-1011-users-to-get-back-online/"><u>Mastering Error Code 0X80072F8F: Effective Strategies for Windows 10/11 Users to Get Back Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/secure-movavi-the-ultimate-software-solution-for-multimedia-security/"><u>Secure Movavi: The Ultimate Software Solution for Multimedia Security</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-11-step-by-step-guide/"><u>Troubleshooting Non-Functional USB Ports on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unexpected-input-silence/"><u>Unexpected Input Silence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-from-the-start-quick-fixes-for-a-broken-or-slow-lenovo-keyboard/"><u>Unstuck From the Start: Quick Fixes for a Broken or Slow Lenovo Keyboard</u></a></li>
+</ul></div>
 

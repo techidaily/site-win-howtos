@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11
-date: 2025-02-09T17:23:49.678Z
-updated: 2025-02-16T18:41:23.776Z
+date: 2025-02-26T17:48:50.222Z
+updated: 2025-03-05T16:32:03.220Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -78,10 +74,6 @@ If you’re a laptop user, you could follow these steps:
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -112,10 +104,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
@@ -137,18 +125,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -177,20 +157,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-unlocking-the-potential-of-aiseesoft-for-video-documentation/"><u>[New] Unlocking the Potential of Aiseesoft for Video Documentation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-driveease-expert-analysis/"><u>[Updated] DriveEase Expert Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-and-repairing-disk-write-errors-in-steam-with-simple-techniques/"><u>Bypassing and Repairing Disk Write Errors in Steam with Simple Techniques</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/digital-preservation-with-abbyy-tools-at-the-core-of-south-koreas-archival-project/"><u>Digital Preservation with ABBYY Tools at the Core of South Korea's Archival Project</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-unexpected-system-restarts-in-windows-10/"><u>Expert Fixes for Unexpected System Restarts in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-start-program-error-code-0xc000007b/"><u>How to Fix 'Unable to Start Program' Error Code 0xC000007B</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-m14-4g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy M14 4G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mysterious-keys-cessation/"><u>Mysterious Keys Cessation</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-best-web-based-online-vertical-video-editors/"><u>New Best Web-Based Online Vertical Video Editors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-steam-connection-issues-overcoming-could-not-connect-to-steam-network-errors/"><u>Resolving Steam Connection Issues: Overcoming 'Could Not Connect to Steam Network' Errors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia 150 (2023)? | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-for-fixing-kernel-security-check-failure-in-windows-11-systems/"><u>Troubleshooting Guide for Fixing 'Kernel Security Check Failure' In Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-repairing-broken-files-in-windows-11-systems/"><u>Troubleshooting Tips: Repairing Broken Files in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-camera-malfunction-overcome-error-code-0xa00f4292-with-these-simple-fixes/"><u>Windows Camera Malfunction? Overcome Error Code 0XA00F4292 with These Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-wolfenstein-2-could-not-write-crash-dump/"><u>[Fixed] Wolfenstein 2 Could Not Write Crash Dump</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-20plus-funny-metaverse-memes-and-how-to-make-your-own-memes/"><u>[New] 20+ Funny Metaverse Memes and How to Make Your Own Memes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-scripting-a-compelling-tiktok-parting-message/"><u>[New] In 2024, Scripting a Compelling TikTok Parting Message</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-art-of-subtlety-decoding-snapchats-concealed-messages/"><u>[New] In 2024, The Art of Subtlety Decoding Snapchat's Concealed Messages</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-blueprint-of-tomorrow-eco-friendly-urban-strategies/"><u>[Updated] The Blueprint of Tomorrow Eco-Friendly Urban Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tricks-for-transferring-twitter-video-to-your-phone/"><u>[Updated] Tricks for Transferring Twitter Video to Your Phone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-seamless-visual-storytelling-through-advanced-chroma-techniques/"><u>2024 Approved Seamless Visual Storytelling Through Advanced Chroma Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-stitch-ppt-tiles-into-video-mosaic/"><u>2024 Approved Stitch PPT Tiles Into Video Mosaic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dsss-spreads-the-signal-across-a-wide-band-using-a-pseudorandom-noise-code-enhancing-resistance-to-jamming/"><u>DSSS Spreads the Signal Across a Wide Band Using a Pseudorandom Noise Code, Enhancing Resistance to Jamming.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-boot-guide-overcoming-slow-startups-in-windows-7-systems/"><u>Fast Boot Guide: Overcoming Slow Startups in Windows 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-bluetooth-keypad-connection-issue-on-windows-or-mac-devices/"><u>How to Fix a Bluetooth Keypad Connection Issue on Windows or Mac Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208017909-huion-pen-issues-heres-how-to-restore-functionality-quickly/"><u>Huion Pen Issues? Here's How to Restore Functionality Quickly!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-xr-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone XR Without Apple ID Password?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-guide-to-choosing-winning-screen-recording-software-for-windows/"><u>In 2024, Ultimate Guide to Choosing Winning Screen Recording Software for Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stabilizing-high-cpu-windows-systems/"><u>Stabilizing High-CPU Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-2024-strategies-resolving-bluetooth-connectivity-issues-on-your-windows-10-pc/"><u>Top 2024 Strategies: Resolving Bluetooth Connectivity Issues on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-wwe-2k-battlegrounds-level-100-directx-11-glitches/"><u>Troubleshooting Guide: Resolving WWE 2K Battlegrounds' Level 10.0 DirectX 11 Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-service-failed-errors-on-your-windows-1011-account-login/"><u>Troubleshooting Steps for 'Service Failed' Errors on Your Windows 10/11 Account Login</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-fun-in-your-living-room-with-the-economical-syma-s111g-rc-helicopter-expert-review-inside/"><u>Unleashing Fun in Your Living Room with the Economical Syma S111G RC Helicopter - Expert Review Inside</u></a></li>
 </ul></div>
 

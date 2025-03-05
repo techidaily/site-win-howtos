@@ -1,7 +1,7 @@
 ---
 title: "Dormant Device Dilemma: Stubborn Systems on Windows"
-date: 2025-02-12T16:23:02.760Z
-updated: 2025-02-16T18:15:40.314Z
+date: 2025-03-02T20:08:15.174Z
+updated: 2025-03-05T17:27:45.994Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 1. On your keyboard, press **the Windows logo key**  **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and   **R**  at the same time, then type**devmgmt.msc** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0dfaa5c648.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Double-click on**Keyboards** \>**your keyboard device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e0e0c5d00.jpg)
@@ -74,16 +70,8 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Put your machine to sleep and wake it up again to check if the issue is resolved. If yes, then congrats! If the problem persists, please move on to**Fix 3** , below.
 
@@ -106,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Check to see if the computer wakes up issue is solved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Still no joy? Please move on to**Fix 4** , below.
 
 ---
@@ -121,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 1. On your keyboard, press **the Windows logo key**  and type**cmd** . Then click on**Command Prompt** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/cmd123.jpg)  
  Click**Yes** when prompted with a**User Account Control** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. Type **powercfg.exe /hibernate off && powercfg.exe /hibernate on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/power.png)
@@ -138,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e5db4f467.png)
 2. Click**the chosen power plan** and click**Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
@@ -151,17 +127,9 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/computer-wake-up-1.png)
 5. Click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Restart your computer, test on your machine again and see if it wakes up without fail.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Repair system files
 
@@ -199,24 +167,17 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-space-saver-strategies-pioneering-the-best-cloud-platforms-for-2024/"><u>[New] Space-Saver Strategies Pioneering the Best Cloud Platforms for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-easier-than-ever-top-9-uncomplicated-no-cost-video-tools-for-you/"><u>[Updated] Easier Than Ever Top 9 Uncomplicated, No-Cost Video Tools for You</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-ideas-into-engaging-youtube-video-plans/"><u>[Updated] Transforming Ideas Into Engaging YouTube Video Plans</u></a></li>
-<li><a href="https://solve-info.techidaily.com/1728504590471-windows-10/"><u>「在你的電腦上發現Windows 10中每張照片：一個完全指南」</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discord-voice-channels-now-responsive/"><u>Discord Voice Channels Now Responsive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-address-xerox-printing-software-update-issue-facing-error-0x800f020b-on-windows-pcs/"><u>Effective Solutions to Address Xerox Printing Software Update Issue – Facing Error 0X800F020B on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-fix-the-scroll-wheel-on-a-logitech-mouse-failure/"><u>Effective Solutions to Fix the Scroll Wheel on a Logitech Mouse Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhancing-keyboard-responsiveness-on-your-windows-11-pc-a-comprehensive-guide-to-solving-latency-problems/"><u>Enhancing Keyboard Responsiveness on Your Windows 11 PC - A Comprehensive Guide to Solving Latency Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-focusrite-scarlett-2i2-windows-drivers-here-free/"><u>Get Your Focusrite Scarlett 2I2 Windows Drivers Here (Free!)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-smart-8-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Smart 8 Phone Screen?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-repair-windows-1011s-update-error-decode-and-fix-error-0x802errordescription-solutionkeyword/"><u>How to Successfully Repair Windows 10/11'S Update Error: Decode and Fix Error 0X802([error_description]) [Solution_keyword]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-google-pixel-fold-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Google Pixel Fold FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-stream-snipping-specialists-2023-version/"><u>In 2024, Stream Snipping Specialists, 2023 Version</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kernel32dll-fixes-and-tips-for-win/"><u>Kernel32.dll: Fixes and Tips for Win</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-11-bluetooth-connectivity-problems-with-these-simple-fixes/"><u>Resolve Your Windows 11 Bluetooth Connectivity Problems with These Simple Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-fortnite-on-incompatible-windows-graphics-cards/"><u>Resolved: Fixing Fortnite on Incompatible Windows Graphics Cards</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sky-high-savings-on-storages-an-insider-look-at-free-and-premium-cloud-services-for-2024/"><u>Sky High Savings on Storages An Insider Look at Free & Premium Cloud Services for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-device-detection-issues-in-windows-11-via-bluetooth/"><u>Troubleshooting Guide: Resolving Device Detection Issues in Windows 11 via Bluetooth</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-optimize-watching-incorporating-captions-into-wmp-for-2024/"><u>[New] Optimize Watching Incorporating Captions Into WMP for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-vr-tools-for-drones/"><u>[Updated] Cutting-Edge VR Tools for Drones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3-leading-tools-for-swiftly-downloading-videos-from-facebook-with-ease/"><u>3 Leading Tools for Swiftly Downloading Videos From Facebook with Ease</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-14-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi 14 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-how-to-restore-your-non-functioning-beyond-the-wire-mic/"><u>Comprehensive Fixes: How To Restore Your Non-Functioning Beyond The Wire Mic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-motorola-moto-g34-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Motorola Moto G34 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://win-great.techidaily.com/seamless-avi-media-insertion-and-execution-strategies-for-microsoft-powerpoint-on-windows-systems/"><u>Seamless AVI Media Insertion & Execution Strategies for Microsoft PowerPoint on Windows Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-steps-should-you-take-when-iphone-events-vanish-from-your-calendar/"><u>What Steps Should You Take When iPhone Events Vanish From Your Calendar?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029696839-wmawav/"><u>WMAファイルからWAV形式への正しい変換方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029825629-youtube2/"><u>YouTube動画組み合わせ手順：2つの効果的な方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030692203-telasa/"><u>テラサ(Telasa)動画キャプチャと保存:詳細ガイド</u></a></li>
 </ul></div>
 

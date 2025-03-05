@@ -1,7 +1,7 @@
 ---
 title: PS4 Controller Power Problems? Here's How to Solve Them
-date: 2025-02-10T22:50:21.086Z
-updated: 2025-02-16T19:39:04.437Z
+date: 2025-02-28T19:29:12.016Z
+updated: 2025-03-05T18:07:53.472Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for PS4 Controller Won’t Charge
 
 1. **[Reset your PS4 controller](#solution1)**
@@ -46,10 +42,6 @@ You can easily reset your controller through these several steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a503f4b68e7f.jpg)
 2. Put a toothpick or a similar object into the reset hole; press the button; hold it down for a few seconds and then release.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Your controller should then restart. Once it gets started, try to charge it again to see if successful.
 
 ### Solution 2: Charge your PS4 controller upside down
@@ -58,19 +50,11 @@ You can easily reset your controller through these several steps:
 
 Just put your PS4 controller upside down and then charge it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 3: Check the charging cable of your PS4 controller
 
  Sometimes, your PS4 not charging problem could be due to the charging USB cable. Follow the steps below to check if there’s any problem with your USB cable.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a504e5686cb2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Charge your other controller if you have one with the same charging USB cable.
 2. If the other controller does charge, then the problem is on your cable’s side. Please skip to the following solution. If the other controller also does not charge, it seems there’s something wrong with your USB cable. Please go on with the next step.
@@ -78,10 +62,6 @@ Just put your PS4 controller upside down and then charge it.
 
 **Note:** Some USB cable have the same connectors though, they can have different specs. That’s why your PS4 controller cannot charge if you use some third-party USB cable.  
  So please**use an official charging USB cable** to charge your controller. If you lost the USB cable coming with your PS4, you can buy an official one from Sony.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 4: Check the charging port of your PS4 controller
 
@@ -116,20 +96,20 @@ Just put your PS4 controller upside down and then charge it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/litz-broadcasting-channel-your-playlist-swiftly/"><u>[New] Blitz Broadcasting Channel Your Playlist Swiftly</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-8-strategies-for-digital-sound-recording/"><u>[New] In 2024, Essential 8 Strategies for Digital Sound Recording</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-uniting-platforms-sharing-vids-on-twtplustumblr-space-for-2024/"><u>[New] Uniting Platforms Sharing Vids on Twt+Tumblr Space for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-no-fee-guide-converting-skype-to-mp3/"><u>[Updated] No-Fee Guide Converting Skype to Mp3</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bring-back-your-windows-10-bluetooth-effective-solutions-that-work-instantly/"><u>Bring Back Your Windows 10 Bluetooth: Effective Solutions That Work Instantly!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-overcome-driver-power-problems-on-windows-systems/"><u>Comprehensive Solutions to Overcome Driver Power Problems on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-unresponsive-acer-keyboard-on-windows-os/"><u>Fix: Unresponsive Acer Keyboard on Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-nonfunctional-windows-10-updates-efficiently/"><u>Fixing Issues with Nonfunctional Windows 10 Updates Efficiently</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-14-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone 14 Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-essential-guide-to-15-free-online-photo-enhancement-tools-of-2023/"><u>In 2024, Essential Guide to #15 Free Online Photo Enhancement Tools of 2023</u></a></li>
-<li><a href="https://fox-access.techidaily.com/professional-secrets-to-flawless-photo-cropping-online/"><u>Professional Secrets to Flawless Photo Cropping Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-google-chrome-from-a-black-screen-nightmare-with-these-simple-fixes/"><u>Revive Your Google Chrome From a Black Screen Nightmare with These Simple Fixes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-designing-youtube-shorts-templates-for-2024/"><u>The Ultimate Guide to Designing YouTube Shorts Templates for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210116655-trouble-with-driver-power-state-failure-heres-how-to-fix-it/"><u>Trouble with Driver Power State Failure? Here’s How to Fix It</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-az-screenscape-full-application-review-alternatives/"><u>[Updated] 2024 Approved AZ Screenscape Full Application Review, Alternatives</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uninterrupted-access-to-9-premium-christmas-films-enjoyment-at-zero-cost/"><u>2024 Approved Uninterrupted Access to 9 Premium Christmas Films Enjoyment at Zero Cost</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-v27e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo V27e to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3-wma/"><u>使用電子化工具輕鬆簡易更換音頻文件 - MP3, WMA 等多種格式的快速切換方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accurate-media-scaling-toolkit/"><u>Accurate Media Scaling Toolkit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/facile-conversion-swf-vers-3gp-enligne-sans-frais-movavi/"><u>Facile Conversion SWF Vers 3GP Enligne Sans Frais - Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-infinix-gt-10-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Infinix GT 10 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oppo-reno-8t-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Oppo Reno 8T 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-video-converter-mac-oturen-visselperlig-konvertering-fra-mkv-mp4-og-flv-til-formater-som-du-tar-bruk-af/"><u>Movavi Video Converter Mac Oturen: Visselperlig Konvertering Fra MKV, MP4 Og FLV Til Formater Som Du Tar Bruk Af</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-online-konvertalas-ezrede-klein-allamkor-vikon-rekam-online-halozat-operamacintosh/"><u>MP4 Online Konvertálás Ezrede Klein Államkör - Víkon Rekám Online Hálózat [Opera/Macintosh]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-your-iphones-silent-call-issue-a-step-by-step-guide/"><u>Solving Your iPhone's Silent Call Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-overcome-constant-freezing-and-crashes-in-darkest-dungeon-2-on-windows/"><u>Steps to Overcome Constant Freezing and Crashes in Darkest Dungeon 2 on Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210665287-9780740786815-when-they-were-22/"><u>When They Were 22 | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11da-cevrimse-ustune-sessizligi-yanitlanmasinin-4-tarzi/"><u>Windows 11'Da Çevrimse Üstüne Sessizliği Yanıtlanmasının 4 Tarzı</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aac-wav/"><u>오피니 공간에서 제공되는 무가지 AAC 파일을 WAV로 변환: 모바이비</u></a></li>
 </ul></div>
 

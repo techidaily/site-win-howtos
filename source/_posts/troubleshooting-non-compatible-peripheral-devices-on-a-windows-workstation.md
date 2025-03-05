@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Compatible Peripheral Devices on a Windows Workstation
-date: 2025-02-13T19:56:48.065Z
-updated: 2025-02-17T00:28:26.675Z
+date: 2025-03-02T19:12:03.121Z
+updated: 2025-03-05T18:42:42.721Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 1: Check if the device itself is faulty**
 
  If the USB device was working before you upgraded to Windows 10, it’s unlikely to be faulty. But coincidences do occur. It’s certainly_possible_ that your device just happened to die right at the same time that you upgraded Windows. So it’s best to rule that possibility out for sure before spending time on more complex troubleshooting.
@@ -52,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 4) Plug the power supply back in
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -65,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
  1) Open Device Manager (type “Device Manager” in the Windows search field)
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Expand the**Universal Serial Bus controllers** branch
 
@@ -104,19 +92,11 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -142,22 +122,20 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-beat-the-competition-macs-7-best-speech-to-text-apps-explored-for-2024/"><u>[New] Beat the Competition Mac's 7 Best Speech-to-Text Apps Explored for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-laughters-legacy-the-process-of-parody-film-making/"><u>[New] Laughter's Legacy The Process of Parody Film-Making</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-duel-of-the-titans-which-cameras-win-gopro-vs-ghost-s/"><u>[Updated] In 2024, Duel of the Titans Which Cameras Win? GoPro Vs. Ghost-S</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-is-it-illegal-to-screen-capture-youtube-videos-in-2024/"><u>[Updated] Is It Illegal to Screen-Capture YouTube Videos, In 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-compact-alternative-to-the-switch-revealing-the-advantages-of-the-handheld-nintendo-console/"><u>A Compact Alternative to the Switch: Revealing the Advantages of the Handheld Nintendo Console</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-monitor-2-non-detection/"><u>Fixing Windows Monitor #2 Non-Detection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-and-organize-your-files-like-a-pro-with-these-file-explorer-hacks-for-widows-11/"><u>Navigate and Organize Your Files Like a Pro with These File Explorer Hacks for Widows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-unpredictable-wireless-mouse-disconnections-on-windows-operating-systems/"><u>Resolving the Issue of Unpredictable Wireless Mouse Disconnections on Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-implementation-of-the-latest-windows-11-update-kb4056892-guide/"><u>Successful Implementation of the Latest Windows 11 Update (KB4056892) [GUIDE]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/swift-remedy-reinstating-lost-game-dlls-like-x3d/"><u>Swift Remedy: Reinstating Lost Game Dlls Like X3D</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-photographers-guide-to-online-image-editing-and-cropping/"><u>The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-overcoming-windows-update-issue-error-0x8007001f-solution/"><u>Troubleshooting Steps for Overcoming Windows Update Issue - Error 0X8007001F Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcoming-windows-ready-boot-loop-problems-on-pc/"><u>Troubleshooting: Overcoming 'Windows Ready' Boot Loop Problems on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-behind-google-chromes-false-alarm-critical-error-fixes/"><u>Unraveling the Mystery Behind Google Chrome’s False Alarm: Critical Error Fixes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-snippets-get-high-quality-images-without-a-penny-paid-for-2024/"><u>YouTube Snippets Get High-Quality Images Without a Penny Paid for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-jubilant-join-and-leave-steps/"><u>[New] 2024 Approved Jubilant Join & Leave Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-5-monitors-unleashing-full-spectrum-colors/"><u>[New] Leading 5 Monitors Unleashing Full Spectrum Colors</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-yuva-3-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Yuva 3 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/cultivating-excellence-the-top-7-stardew-mods-ranked-7-14-for-2024/"><u>Cultivating Excellence - The Top 7 Stardew Mods (Ranked #7-14) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-excessive-cpu-load-by-wdf-issues/"><u>Diagnosing and Resolving Excessive CPU Load by WDF Issues</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-wonderful-video-slideshow-with-your-travel-photos-for-2024/"><u>How to Make a Wonderful Video Slideshow with Your Travel Photos for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-7-plus-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 7 Plus for Free</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-enhances-learning-with-advanced-tech-for-youth/"><u>Mondly Enhances Learning with Advanced Tech for Youth</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-waiting-successful-fixes-for-the-preparing-to-configure-windows-issue/"><u>No More Waiting: Successful Fixes for the 'Preparing to Configure Windows' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-cannot-reach-targeted-disk-error-on-your-pc/"><u>Solution for 'Cannot Reach Targeted Disk' Error on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-disappearing-cursor-issue-in-windows-11s-touchpad/"><u>Solving the Disappearing Cursor Issue in Windows 11'S Touchpad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamline-your-win11-reduce-overutilized-wmi-host/"><u>Streamline Your Win11: Reduce Overutilized WMI Host</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208513408-troubleshooting-steps-for-airpods-wont-pair-with-windows-11-latest-fixes/"><u>Troubleshooting Steps for AirPods Won't Pair with Windows 11 – Latest Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-how-to-fix-when-your-mouse-cursor-keeps-disappearing/"><u>Windows 11: How to Fix When Your Mouse Cursor Keeps Disappearing</u></a></li>
 </ul></div>
 

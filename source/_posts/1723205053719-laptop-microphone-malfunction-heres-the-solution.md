@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunction? Here's the Solution!
-date: 2025-02-10T17:00:21.117Z
-updated: 2025-02-16T23:43:37.590Z
+date: 2025-03-02T18:40:09.591Z
+updated: 2025-03-05T16:13:58.406Z
 tags:
   - win11
   - win10
@@ -54,10 +54,6 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f28bd6d2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Locate**Diagnostics Policy Service** , right-click on it to select**Start** , if Start grayed out, click**Restart** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
@@ -66,19 +62,11 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f83f0ff4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
 
 6) Run the Network Diagnostics and see if it goes well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
 
@@ -102,10 +90,6 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
 
 ### Solution 3: Reinstall your network adapters
@@ -117,10 +101,6 @@ net localgroup Administrators /add localservice
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d609d065a4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
 
@@ -169,19 +149,14 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ready-for-high-res-our-choice-of-best-screenshot-and-recorder-apps/"><u>[Updated] 2024 Approved Ready for High-Res Our Choice of Best Screenshot & Recorder Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-success-channel-ideas-to-spark-momentum-for-2024/"><u>[Updated] Elevating Success Channel Ideas to Spark Momentum for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-tips-for-creating-a-viral-buzz-on-facebook-that-you-should-know/"><u>[Updated] Tips for Creating a Viral Buzz on Facebook that You Should Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-v27-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo V27 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-imaginative-tales-using-chatgpt-strategies-for-success/"><u>Crafting Imaginative Tales Using ChatGPT: Strategies for Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-correcting-the-port-reset-failed-warning-for-your-usb-gadget-in-windows-10/"><u>Expert Advice: Correcting the 'Port Reset Failed' Warning for Your USB Gadget in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-infinite-load-ultimate-guide-to-overcoming-stuck-screens-in-valorant/"><u>Fixing the Infinite Load: Ultimate Guide to Overcoming Stuck Screens in Valorant</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/launching-a-channel-a-comprehensive-discosteps-guide-for-2024/"><u>Launching a Channel A Comprehensive DiscoSteps Guide for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210748886-9782019469658-le-guide-complet-de-la-numerologie/"><u>Le guide complet de la numérologie | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/m3-vs-m2-macbook-air-comparison-a-detailed-guide-to-apples-new-laptop-offerings/"><u>M3 Vs. M2 MacBook Air Comparison: A Detailed Guide to Apple’s New Laptop Offerings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-device-recognition-issues-bluetooth-setup-fixed-in-windows-11/"><u>Overcoming Device Recognition Issues: Bluetooth Setup Fixed in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-timely-start-issues-solutions-to-service-error-1053/"><u>Overcoming Timely Start Issues - Solutions to Service Error 1053</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-steelseries-arctis-5-mic-expert-solutions-to-get-it-working-again/"><u>Revive Your SteelSeries Arctis 5 Mic: Expert Solutions to Get It Working Again!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-how-to-resolve-problems-when-trying-to-cast-devices/"><u>Windows 11: How to Resolve Problems When Trying to Cast Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-assessing-virtual-realitys-dual-facets-pros-and-cons/"><u>[New] Assessing Virtual Reality’s Dual Facets Pros & Cons</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-glacial-glory-celebrating-olympic-champions-and-their-epic-slopesideshow-22/"><u>[New] In 2024, Glacial Glory Celebrating Olympic Champions & Their Epic Slopesideshow '22</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-essential-hashtags-propel-your-posts-to-the-top/"><u>[Updated] In 2024, Essential #Hashtags Propel Your Posts to the Top</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-the-top-10-live-streaming-hubs-for-2024/"><u>[Updated] Unveiling the Top 10 Live Streaming Hubs for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-setting-up-the-fastest-video-extension-fenne4k-on-your-kodi-platform-neckles-and-matrix/"><u>Step-by-Step Guide: Setting up the Fastest Video Extension, Fenne4k, on Your Kodi Platform - Neckles and Matrix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-watching-dts-soundtracks-with-your-samsung-tv-setup/"><u>Step-by-Step Instructions for Watching DTS Soundtracks with Your Samsung TV Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-changing-opus-audio-to-lossless-flac-and-vice-verse/"><u>Step-by-Step Tutorial for Changing Opus Audio to Lossless FLAC and Vice Verse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/superior-video-compression-with-h265-encoding-shrink-file-size-boost-clarity/"><u>Superior Video Compression with H.265 Encoding: Shrink File Size, Boost Clarity!</u></a></li>
 </ul></div>
 

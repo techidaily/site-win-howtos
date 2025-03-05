@@ -1,7 +1,7 @@
 ---
 title: Mastering Overwatch Voice Connection Fixes Without the Hassle
-date: 2024-08-19T07:47:26.356Z
-updated: 2024-08-20T07:47:26.356Z
+date: 2025-02-28T16:29:03.258Z
+updated: 2025-03-05T16:45:35.555Z
 tags:
   - win11
   - win10
@@ -57,9 +57,6 @@ Here’s how to do it:
 2. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
@@ -81,25 +78,13 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 4: Check your in-game audio settings
 
  If the fixes above didn’t help, then you might want to adjust your in-game audio settings to see if it works. To do so:
@@ -109,9 +94,6 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
@@ -128,8 +110,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +117,17 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/compatibility-problem-windows-10-cant-find-mp620-drivers/"><u>[Compatibility Problem] Windows 10 Can't Find MP620 Drivers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-shape-shifting-pics-with-top-editors-help/"><u>[Updated] Shape-Shifting Pics with Top Editors' Help</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/building-your-dream-gaming-rig-the-complete-guide-from-top-tech-experts-at-zdnet/"><u>Building Your Dream Gaming Rig: The Complete Guide From Top Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-troubleshooting-restoring-corrupted-system-files-on-windows-11/"><u>Comprehensive Troubleshooting: Restoring Corrupted System Files on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/crafting-visual-tales-the-essential-guide-to-text-effects-for-2024/"><u>Crafting Visual Tales The Essential Guide to Text Effects for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-explore-and-evaluate-the-top-10-mobile-video-conferencing-apps/"><u>In 2024, Explore & Evaluate The Top 10 Mobile Video Conferencing Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211181281-overcoming-class-unregistered-on-windows-11-error-tips-and-tricks-inside/"><u>Overcoming 'Class Unregistered on Windows 11' Error – Tips & Tricks Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-overcoming-system-freeze-in-pcs-and-notebooks/"><u>Quick Fixes: Overcoming System Freeze in PCs and Notebooks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stay-connected-even-on-do-not-disturb-heres-how-your-iphone-can-handle-texts-and-calls/"><u>Stay Connected Even on Do Not Disturb – Here's How Your iPhone Can Handle Texts and Calls!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-right-click-function-on-a-mouse-in-windows-11/"><u>Troubleshooting the Right-Click Function on a Mouse in Windows 11</u></a></li>
+</ul></div>
 

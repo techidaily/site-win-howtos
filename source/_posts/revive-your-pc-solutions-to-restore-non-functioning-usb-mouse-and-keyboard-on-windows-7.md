@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7"
-date: 2025-02-13T22:33:42.003Z
-updated: 2025-02-17T00:12:29.815Z
+date: 2025-03-02T18:44:43.502Z
+updated: 2025-03-05T16:08:49.057Z
 tags:
   - win11
   - win10
@@ -64,10 +64,6 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -77,10 +73,6 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -130,25 +122,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -177,20 +157,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-is-the-smoothing-effect-in-photoshop-a-game-changer-or-not/"><u>[New] 2024 Approved Is the Smoothing Effect in Photoshop a Game Changer or Not?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-solving-sync-issues-between-cameras-and-obs/"><u>[New] 2024 Approved Solving Sync Issues Between Cameras and OBS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-superior-screen-quality-10-in-4ks-for-2024/"><u>[New] Superior Screen Quality – #10 in 4Ks for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-excellent-webcams-for-clear-podcast-broadcasts/"><u>[Updated] Excellent Webcams for Clear Podcast Broadcasts</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/de-gouden-regels-voor-het-exporteren-van-de-gebruikers-historie-van-wechat-vanaf-iphone-of-android/"><u>De Gouden Regels Voor Het Exporteren Van De Gebruikers Historie Van WeChat Vanaf iPhone of Android</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202635881-dealing-with-dead-dns-servers-here-are-4-effortless-fixes/"><u>Dealing with Dead DNS Servers? Here Are 4 Effortless Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-power-surges-in-your-usb-devices-on-windows-11-computers/"><u>How to Fix Power Surges in Your USB Devices on Windows 11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-visibility-to-your-window-11-touchpad-cursor-with-these-easy-steps/"><u>Restore Visibility to Your Window 11 Touchpad Cursor with These Easy Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-images-with-your-xbox-one-console/"><u>Step-by-Step Guide: Capturing Images with Your Xbox One Console</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-perfect-phrases-expertly-crafted-instagram-captions/"><u>The Perfect Phrases: Expertly Crafted Instagram Captions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-win-users-guide-to-wheel-gliding/"><u>The Win User's Guide to Wheel Gliding</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-your-photos-building-captivating-slideshows-and-fixing-errors-on-win11/"><u>Transforming Your Photos: Building Captivating Slideshows & Fixing Errors on Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-wacom-stylus-issues-in-windows-11-and-10-with-these-tips/"><u>Troubleshoot Your Wacom Stylus Issues in Windows 11 & 10 with These Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-correcting-set-user-settings-to-driver-failed/"><u>Troubleshooting Guide: Correcting 'Set User Settings To Driver Failed'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-non-functional-integrated-webcams-in-windows/"><u>Troubleshooting Tips: Resolving Non-Functional Integrated Webcams in Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-beginners-besties-essential-gopro-upgrades-list/"><u>[Updated] In 2024, The Beginner's Besties - Essential GoPro Upgrades List</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-selecting-the-ultimate-gear-for-stellar-4k-production-for-2024/"><u>[Updated] Selecting the Ultimate Gear for Stellar 4K Production for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-playwriting-workshop/"><u>[Updated] Ultimate Playwriting Workshop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-conversion-tutorial-turning-your-mp4-video-into-a-vp8-encoded-webm-format/"><u>Easy Conversion Tutorial: Turning Your MP4 Video Into a VP8 Encoded WebM Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-watching-dvds-on-your-windows-11-pc/"><u>Effortless Guide: Watching DVDs on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-address-cinavia-warning-code-3-swiftly/"><u>Effortless Ways to Address Cinavia Warning Code 3 Swiftly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enable-high-quality-music-the-ultimate-walkthrough-for-integrating-flac-into-your-itunes-library/"><u>Enable High-Quality Music: The Ultimate Walkthrough for Integrating FLAC Into Your iTunes Library</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/epc/"><u>EアニメストアからPCへの動画取り込み手順：一流の戦略</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-video-editing-issues-seamlessly-implementing-hevc-media-into-adobe-after-effects/"><u>Fix Your Video Editing Issues: Seamlessly Implementing HEVC Media Into Adobe After Effects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-downloads-of-premium-ulozto-content-secrets-to-speed-and-full-hd-retrievals-unveiled/"><u>Free Downloads of Premium Ulozto Content - Secrets to Speed and Full HD Retrievals Unveiled</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-poco-c65-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco C65 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/prime-streamers-selection-the-best-websites-for-2024/"><u>Prime Streamers' Selection The Best Websites for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/staying-with-my-iphone-14-four-key-factors-that-outweigh-the-appeal-of-the-iphone-16-pro-insights-from-a-tech-expert/"><u>Staying with My iPhone 14: Four Key Factors That Outweigh the Appeal of the iPhone 16 Pro - Insights From a Tech Expert</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-rise-of-arm-architecture-alibabas-yitian-nokia-710-crowned-fastest-cpu-for-cloud-servers/"><u>The Rise of ARM Architecture: Alibaba's Yitian Nokia 710 Crowned Fastest CPU for Cloud Servers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-recording-guide-for-sims-enthusiasts/"><u>Ultimate Recording Guide for Sims Enthusiasts</u></a></li>
 </ul></div>
 

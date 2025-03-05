@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Working USB Flash Drive: Simple and Effective Methods"
-date: 2025-02-09T21:22:16.089Z
-updated: 2025-02-16T23:01:52.699Z
+date: 2025-03-02T16:57:08.407Z
+updated: 2025-03-05T19:43:01.917Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ the picture was taken by: Article\_86
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 ## Try these fixes
@@ -53,19 +49,11 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -85,10 +73,6 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Relaunch Chrome to take effect.
 
 ---
@@ -102,16 +86,8 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
@@ -171,17 +147,18 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-boosting-channel-profitability-famebit-powered-sponsorship-tactics/"><u>[New] 2024 Approved Boosting Channel Profitability FameBit-Powered Sponsorship Tactics</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-block-spotifys-unrequested-podcast-episodes/"><u>[New] How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-artists-guide-to-dynamic-palette-alteration/"><u>2024 Approved The Artist's Guide to Dynamic Palette Alteration</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/el-connectivity-made-simple-easy-to-use-youtube-buttons-for-2024/"><u>Channel Connectivity Made Simple Easy-to-Use YouTube Buttons for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-dark-patterns-mislead-you-into-making-bad-privacy-choices/"><u>How Dark Patterns Mislead You Into Making Bad Privacy Choices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x90s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X90S Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instasnap-upload-essentials-for-2024/"><u>InstaSnap Upload Essentials for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-v30-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme V30 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-repairing-corsair-keyboards-that-wont-work/"><u>Solution Guide: Repairing Corsair Keyboards That Won't Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-fix-windows-hello-not-supported-error-message-on-your-device-running-windows-10/"><u>Steps to Fix Windows Hello Not Supported Error Message on Your Device Running Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trim-wmis-firm-grip-on-cores/"><u>Trim WMI's Firm Grip on Cores</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-change-rendering-api-dota-2-error-error-202-fast-solutions-inside/"><u>Troubleshooting the 'Change Rendering API' Dota 2 Error (Error 202^): Fast Solutions Inside</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-perfecting-the-pathway-of-imovie-content-to-youtube/"><u>[Updated] 2024 Approved Perfecting the Pathway of iMovie Content to YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/weband/"><u>最新のWeb動画ダウンロード&保存ツール、無料オンラインリファレンスガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-which-is-more-proficient-at-coding-chatgpt-or-gemini/"><u>Chatbot Face-Off: Which Is More Proficient at Coding, ChatGPT or Gemini?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-magic-6-lite-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor Magic 6 Lite Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-redmi-12-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi Redmi 12</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-free-software-convert-wmv-files-into-mp4-format-with-ease/"><u>Top 12 Free Software: Convert WMV Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-techniques-for-effortlessly-downloading-videos-from-firefox/"><u>Top Techniques for Effortlessly Downloading Videos From Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-top-10-free-media-player-apps-compatible-with-all-platforms-windows-macos-android-and-ios/"><u>Ultimate Guide: Top 10 Free Media Player Apps Compatible with All Platforms (Windows, macOS, Android & iOS)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-step-by-step-tutorial-discreetly-capturing-screenshots-on-bereal-no-notifications-required-updated/"><u>Ultimate Step-by-Step Tutorial: Discreetly Capturing Screenshots on BeReal (No Notifications Required) - Updated !</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watching-avi-files-with-chromecast-three-easy-techniques/"><u>Watching AVI Files with Chromecast: Three Easy Techniques</u></a></li>
+<li><a href="https://win-premium.techidaily.com/wiederherstellung-ihrer-daten-hilfe-fur-nutzer-deren-dateien-beim-update-auf-windows-10-version-1809-verschwunden-sind/"><u>Wiederherstellung Ihrer Daten - Hilfe Für Nutzer, Deren Dateien Beim Update Auf Windows 10 Version 1809 Verschwunden Sind!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/winx-mediatrans-masterclass-effortless-conversion-of-audio-video-and-images/"><u>WinX MediaTrans Masterclass: Effortless Conversion of Audio, Video and Images</u></a></li>
 </ul></div>
 

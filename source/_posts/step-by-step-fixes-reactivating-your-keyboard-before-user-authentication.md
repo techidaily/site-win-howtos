@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fixes: Reactivating Your Keyboard Before User Authentication"
-date: 2025-02-13T20:40:34.231Z
-updated: 2025-02-16T22:56:12.409Z
+date: 2025-03-01T18:17:52.148Z
+updated: 2025-03-05T17:28:37.571Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 
  After confirming that your hardware is not the problem, check out the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -68,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
@@ -101,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -117,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc00
 
 If this method didn’t work for you, check out the last fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -131,19 +111,11 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -176,17 +148,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-amplify-visual-content-embedding-audio-on-instagram-reels/"><u>[New] In 2024, Amplify Visual Content Embedding Audio on Instagram Reels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beat-cutting-editing-music-videos-on-ios/"><u>2024 Approved Beat Cutting Editing Music Videos on iOS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-use-your-recordings-for-a-seamless-live-experience-on-fb/"><u>2024 Approved How to Use Your Recordings for a Seamless Live Experience on FB</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/covert-zip-integration-hiding-archives-in-photos-windows-11/"><u>Covert ZIP Integration: Hiding Archives in Photos (Windows 11)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners-for-2024/"><u>Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/expected-video-gb-for-continuous-24-hour-viewing/"><u>Expected Video GB for Continuous 24-Hour Viewing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-unable-to-find-printer-driver-issue/"><u>How To Resolve 'Windows Unable To Find Printer Driver' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-broken-night-light-on-windows-11-computers/"><u>Step by Step Solution for Broken Night Light on Windows 11 Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-choosing-a-premium-multisport-tracker-a-review-of-the-garmin-forerunner-esteemed-for-its-performance-and-features/"><u>Ultimate Guide to Choosing a Premium Multisport Tracker - A Review of the Garmin Forerunner Esteemed for Its Performance and Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-pubgs-startup-problems-in-the-exciting-2culed-edition-of-2024/"><u>Ultimate Guide: Solving PUBG's Startup Problems in the Exciting 2Culed Edition of 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tips-for-pairing-your-xbox-one-controller-when-synching-issues-arise/"><u>Ultimate Tips for Pairing Your Xbox One Controller When Synching Issues Arise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-interrupts-calm-down-overly-active-cpu/"><u>Windows Interrupts Calm Down Overly Active CPU</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-essential-fb-extras-video-grabs-and-firefox-boost/"><u>[New] In 2024, Essential FB Extras Video Grabs & FireFox Boost</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-advanced-techniques-for-preserving-lol-skirmishes-for-2024/"><u>[Updated] Advanced Techniques for Preserving LOL Skirmishes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero-series-clash-with-polaroid-cube-which-wins/"><u>[Updated] GoPro Hero Series Clash with Polaroid Cube Which Wins?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-choosing-a-professional-video-editor-filmora-or-democracy-creator/"><u>[Updated] The Ultimate Guide to Choosing a Professional Video Editor (Filmora or Democracy Creator)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-edit-like-a-pro-10-must-know-tips-for-newbies/"><u>2024 Approved Edit Like a Pro 10 Must-Know Tips for Newbies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/function-keys-failure-why-it-happens-and-how-to-restore-them/"><u>Function Keys Failure: Why It Happens & How To Restore Them</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-enable-dark-mode-on-facebook/"><u>How to Enable Dark Mode on Facebook</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-retrieve-deleted-phone-numbers-from-your-iphones-after-software-upgrades/"><u>How to Retrieve Deleted Phone Numbers From Your iPhones After Software Upgrades</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-reconnecting-an-unpaired-xbox-one-controller/"><u>Mastering the Art of Reconnecting an Unpaired Xbox One Controller</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unlock-free-sound-effects-a-step-by-step-guide-for-final-cut-pro-users/"><u>New In 2024, Unlock Free Sound Effects A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restored-ensuring-your-devices-local-security-measures-are-now-active/"><u>Restored: Ensuring Your Device's Local Security Measures Are Now Active</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rev-up-your-game-defeating-the-quiet-zone-in-forza-horizon-4-sound-glitches/"><u>Rev Up Your Game: Defeating the Quiet Zone in Forza Horizon 4 Sound Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-access-denied-issues-with-files-and-folders-in-windows-a-comprehensive-guide/"><u>Solving 'Access Denied' Issues with Files & Folders in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-how-we-overcame-teredo-qualification-problems/"><u>Success Story: How We Overcame Teredo Qualification Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-smart-speakers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Smart Speakers : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-a-computer-that-wont-start-up/"><u>Troubleshooting Steps: Fixing a Computer That Won't Start Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-eliminate-monitor-blank-screen-mistake/"><u>Troubleshooting Tips: Eliminate Monitor Blank Screen Mistake</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixes-for-non-responsive-razer-keyboard-illumination/"><u>Troubleshooting Tips: Fixes for Non-Responsive Razer Keyboard Illumination</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-find-n3-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo Find N3 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

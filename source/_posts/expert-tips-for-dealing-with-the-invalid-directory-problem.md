@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Dealing with the 'Invalid Directory' Problem
-date: 2024-08-19T07:48:05.800Z
-updated: 2024-08-20T07:48:05.800Z
+date: 2025-03-01T18:58:31.290Z
+updated: 2025-03-05T17:57:48.536Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Check to see if your **video cable** is damaged.
 
  If the video cable is fine, reconnect your computer to your monitor. Or, if you have **another video cable**  available, try connecting the two devices using the new cable.
@@ -68,9 +65,6 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-29_14-18-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disconnect your peripherals
 
  Peripherals connected to your computer may also prevent your monitor from running properly and cause the No Video Input issue. Try disconnecting all peripherals to see if that fixes your issue. Here is how:
@@ -87,9 +81,6 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
 If your monitor still won’t work, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5: Reset your BIOS settings
 
  Improper BIOS settings can also cause your monitor to fail. To see if that’s the core issue, you should reset your BIOS to factory settings. Here is how to do it:
@@ -110,9 +101,6 @@ The CMOS battery looks like this
 
 If your problem still exists, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall your RAM and graphics card
 
  In some cases, the No Video Input error might occur if your hardware isn’t properly installed. If you’re comfortable opening your computer case, try reinstalling your RAM and graphics card to see if that fixes your issue. Follow the instructions below:
@@ -139,9 +127,6 @@ RAM looks like this:
 
  If the problem continues to occur, you may want to bring your PC to a repair store and seek professional help.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus tip: Update your device drivers
 
  Missing or outdated device drivers can bring various problems to your computer, such as black screen errors. It’s important that you have the latest correct driver for your hardware at all times. There are two ways you can get the right driver:
@@ -162,9 +147,6 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  Hopefully, this article helped! Please leave a comment below if you have any suggestions or questions.
@@ -182,8 +164,6 @@ RAM looks like this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +171,26 @@ RAM looks like this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-adding-value-with-recommendations/"><u>[New] 2024 Approved Adding Value with Recommendations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elegant-architecture-top-6-sleek-mc-houses/"><u>[Updated] In 2024, Elegant Architecture Top 6 Sleek MC Houses</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>[Updated] Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-streamers-dilemma-choosing-between-gopro-and-garmin-virb/"><u>[Updated] Streamer's Dilemma Choosing Between GoPro & Garmin VIRB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-solution-how-to-brighten-a-video-on-android/"><u>2024 Approved [Solution] How to Brighten a Video on Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/accelerated-energy-production-a-thorough-review-of-the-unusual-delta-shaped-flsun-s1/"><u>Accelerated Energy Production: A Thorough Review of the Unusual Delta Shaped FLSun S1</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-navigating-photo-and-video-files-in-windows-10-like-a-pro/"><u>In 2024, Navigating Photo & Video Files in Windows 10 Like a Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/monster-hunter-world-troubleshooting-guide-removing-obstacles-causing-black-out-on-startup/"><u>Monster Hunter: World Troubleshooting Guide - Removing Obstacles Causing 'Black Out on Startup'</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-video-editing-mastery-top-effects-to-elevate-your-videos/"><u>New Video Editing Mastery Top Effects to Elevate Your Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205560910-overcome-your-pcmac-shift-key-issues-expert-fixes-and-tips-revealed/"><u>Overcome Your PC/Mac Shift Key Issues - Expert Fixes and Tips Revealed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/reinvent-your-video-storytelling-in-obs-studio-for-2024/"><u>Reinvent Your Video Storytelling in OBS Studio for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-touchscreen-issues-in-windows-11-with-these-five-tips/"><u>Resolve Your PC's Touchscreen Issues in Windows 11 with These Five Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-device-descriptor-request-failure-on-your-usb-step-by-step-guide/"><u>Resolving Device Descriptor Request Failure on Your USB - Step by Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-a-malfunctioning-bluetooth-mouse-in-windows-step-by-step-fixes/"><u>Reviving a Malfunctioning Bluetooth Mouse in Windows - Step-by-Step Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-fixing-windows-n-touchpad-malfunction-during-scrolling/"><u>Troubleshooting Guide for Fixing Windows N-Touchpad Malfunction During Scrolling</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-a-non-responsive-function-fn-key-on-lenovo-laptops/"><u>Troubleshooting Steps: Fixing a Non-Responsive Function (Fn) Key on Lenovo Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-secrets-of-fixing-unknown-usb-device-troubleshooting-made-simple-solution-unveiled/"><u>Unlock the Secrets of Fixing 'Unknown USB Device' Troubleshooting Made Simple [Solution Unveiled]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-the-incorrect-side-by-side-config-error-on-windows-11-solutions-within/"><u>Winning Against the 'Incorrect Side by Side Config' Error on Windows 11 - Solutions Within!</u></a></li>
+</ul></div>
 

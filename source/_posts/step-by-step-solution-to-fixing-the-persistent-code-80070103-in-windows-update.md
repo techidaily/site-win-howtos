@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Fixing the Persistent Code 80070103 in Windows Update
-date: 2025-02-12T20:57:06.615Z
-updated: 2025-02-16T20:09:32.978Z
+date: 2025-03-04T19:58:42.623Z
+updated: 2025-03-05T16:28:01.296Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ When you fail to access another computer of the same network, or when you cannot
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fix 0x800704cf error when connecting to a network PC**
 
 ![Fix 0x800704cf error when connecting to a network PC](https://images.drivereasy.com/wp-content/uploads/2020/08/case1.jpg)
@@ -45,10 +41,6 @@ When you fail to access another computer of the same network, or when you cannot
 3. **[Reinstall the network adapter](https://tools.techidaily.com/drivereasy/download/)**
 
  The screenshot below comes from Windows 10, but the fixes also apply to Windows 7/8/11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Change adapter options
 
@@ -78,10 +70,6 @@ When you fail to access another computer of the same network, or when you cannot
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Reset TCP/IP
 
  TCP/IP is a suite of rules that allow computers to communicate on a network. So if there’s something wrong with the[TCP/IP](https://en.wikipedia.org/wiki/Internet%5Fprotocol%5Fsuite) settings, the 0x800704cf error may occur. To see if that’s the case, you can simply do a reset.
@@ -109,10 +97,6 @@ netsh int ip reset
  Now that the DNS cache is cleared, NetBIOS entries are refreshed, and both the IP settings and Winsock catalog is reset, you should reboot your computer for the changes to take effect. After that, check if the issue persists; if yes, head towards the last fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Reinstall the network adapter
 
@@ -144,10 +128,6 @@ netsh int ip reset
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fix 0x800704cf error when accessing the Microsoft Store**
 
 ![Fix 0x800704cf error when accessing the Microsoft Store on Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/08/error-case-2.jpg)
@@ -166,10 +146,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2-7.jpg)
@@ -177,10 +153,6 @@ netsh int ip reset
 **3)** Select**Your info** in the left pane. Then, click**Sign in with a Microsoft account instead** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Enter your**account** and**password** to sign in.
 
@@ -191,10 +163,6 @@ netsh int ip reset
  Follow the on-screen instruction to verify your identity. Then, open your Microsoft Store and see whether the 0x800704cf code still pops up or not. If this method isn’t helpful, don’t despair. Have a look at more fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Run the Windows troubleshooter
 
@@ -242,17 +210,9 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-4-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click**Reset** .
 
@@ -315,15 +275,17 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-ios-tools-for-ps2-game-replication/"><u>[New] Innovative IOS Tools for PS2 Game Replication</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-the-art-of-adding-youtube-playlists-to-your-website-seamlessly-for-2024/"><u>[New] Mastering the Art of Adding YouTube Playlists to Your Website Seamlessly for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exclusive-selection-11-audio-tech-winners/"><u>[Updated] 2024 Approved Exclusive Selection #11 Audio Tech Winners</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved Filmmaking Made Simple A Smartphone Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-channel-techniques-for-logo-insertion-in-videos/"><u>[Updated] In 2024, Elevate Your Channel Techniques for Logo Insertion in Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-live-tv-streaming-guide-the-best-ten-and-their-comparison/"><u>[Updated] Live TV Streaming Guide The Best Ten and Their Comparison</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-mysterious-black-screen-expert-advice-for-dell-laptop-users/"><u>Fixing the Mysterious Black Screen: Expert Advice for Dell Laptop Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-0xc190n0028-installation-issue-a-complete-solution-guide/"><u>Fixing Windows 11 0xC190n0028 Installation Issue: A Complete Solution Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-correct-directx-not-starting-up-issues-instantly/"><u>How to Troubleshoot and Correct 'DirectX Not Starting Up' Issues Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203908230-reorienting-laptop-displays-resolve-the-screen-flip-issue-today/"><u>Reorienting Laptop Displays - Resolve the Screen Flip Issue Today</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-live-event-success-expertly-selecting-5-recording-hardware/"><u>[Updated] 2024 Approved Live Event Success Expertly Selecting 5 Recording Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvd-and7/"><u>「最新ベストセラーDVD取り込みソフト 無料&有料版7選手配リスト」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-sources-top-5-instrumental-music-portals-to-enhance-your-playlist/"><u>Discover the Ultimate Sources: Top 5 Instrumental Music Portals to Enhance Your Playlist</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-and-effective-ways-to-convert-wmv-files-into-imovie-with-these-top-free-tools/"><u>Easy and Effective Ways to Convert WMV Files Into iMovie with These Top FREE Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-convert-your-mp4-files-into-mpeg-for-producing-high-quality-vcds-and-dvds/"><u>Easy Steps to Convert Your MP4 Files Into MPEG for Producing High-Quality VCDs and DVDs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-techniques-for-shrinking-audio-file-size-with-an-audio-compressor/"><u>Easy Techniques for Shrinking Audio File Size with an Audio Compressor</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-free-cad-programs-for-designers/"><u>Essential Free CAD Programs for Designers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-chatbot-to-essential-tool-the-6-functional-layers-of-snapchats-my-ai-beyond-toy-status/"><u>From Chatbot to Essential Tool: The 6 Functional Layers of Snapchat's My AI Beyond Toy Status</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-successfully-add-photos-on-flipbuilder-essential-eligibility-criteria-explained/"><u>How To Successfully Add Photos On FlipBuilder - Essential Eligibility Criteria Explained</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-performance-with-r9-firmware-updates/"><u>Streamline Performance with R9 Firmware Updates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-the-full-potential-of-your-chatbot-masterful-prompt-design/"><u>Unleash The Full Potential Of Your ChatBot: Masterful Prompt Design</u></a></li>
 </ul></div>
 

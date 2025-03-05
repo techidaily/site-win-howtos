@@ -1,7 +1,7 @@
 ---
 title: "Ensure Smooth Gaming: Overcoming Nier Automata PC Freezes and Crashes"
-date: 2025-02-09T20:26:21.049Z
-updated: 2025-02-16T18:29:30.759Z
+date: 2025-03-02T17:21:57.253Z
+updated: 2025-03-05T18:15:33.312Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Try these fixes**
 
  Here’s a list of fixes that have helped some Nier Automata players solve the problem. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -37,10 +33,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -104,10 +96,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Option 2–Manually**
 
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
@@ -153,19 +141,11 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -188,22 +168,22 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-social-media-streamlining-iphoneandroid-tips-for-effective-feeds/"><u>[New] In 2024, Social Media Streamlining IPhone/Android Tips for Effective Feeds</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-leveraging-social-media-insights-in-market-research/"><u>[New] Leveraging Social Media Insights in Market Research</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-virtual-realities-ios-and-androids-best-apps/"><u>[New] Top Virtual Realities IOS & Android's Best Apps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-perfect-your-social-media-presence-wirecast-streaming-tips/"><u>[Updated] Perfect Your Social Media Presence Wirecast Streaming Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-essential-10-creative-igtv-tactics-for-brands-to-embrace/"><u>2024 Approved Essential 10 Creative IGTV Tactics for Brands to Embrace</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-photo-and-video-display-apps-from-ix-to-ios12-for-2024/"><u>Best Photo & Video Display Apps From IX to IOS12 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-resolving-the-windows-11-update-error-code-0x800f0-problem-solving-crafting-an-argumentative-essay-a-step-by-step-guide-to-analytical-w97/"><u>Effective Strategies: Resolving the Windows 11 Update Error Code 0X800f0 [Problem-Solving]: Crafting an Argumentative Essay - A Step-by-Step Guide to Analytical Writing.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208622216-effortlessly-fix-keyboard-issues-on-your-hp-laptop-troubleshooting-steps-inside/"><u>Effortlessly Fix Keyboard Issues on Your HP Laptop – Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/escaping-the-startup-spiral-expert-fixes-for-computers-frozen-at-boot-screen/"><u>Escaping the Startup Spiral: Expert Fixes for Computers Frozen at Boot Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-repairing-and-optimizing-io-device-performance/"><u>Expert Advice on Repairing and Optimizing I/O Device Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-wireless-mouse-that-stops-working-sporadically-on-computers-running-windows-1110/"><u>How to Fix a Wireless Mouse That Stops Working Sporadically on Computers Running Windows 11/10</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-screen-recorder-pro-a-beginners-handbook-for-mac/"><u>In 2024, Screen Recorder Pro A Beginner's Handbook for Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/locating-the-start-menu-in-windows-11-a-comprehensive-guide/"><u>Locating the Start Menu in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-when-your-dell-wireless-keyboard-fails-to-function/"><u>Step-by-Step Solution: When Your Dell Wireless Keyboard Fails to Function</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-resolved-error-0xc1900208-in-your-windows-10-updates/"><u>Successfully Resolved: Error 0xC1900208 in Your Windows 10 Updates</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ultimate-ai-powered-image-editor-for-2024/"><u>Ultimate AI-Powered Image Editor for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-class-registration-issue-easy-fixes-and-solutions/"><u>Windows 10 Class Registration Issue: Easy Fixes and Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-innovative-ways-to-record-without-background-sounds/"><u>[New] 2024 Approved Innovative Ways to Record Without Background Sounds</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-checklist-for-nfl-live-broadcasting-for-2024/"><u>[New] The Ultimate Checklist for NFL Live Broadcasting for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-aesthetic-almanac-makeup-hair-and-more-on-youtube/"><u>[Updated] 2024 Approved The Aesthetic Almanac Makeup, Hair & More on YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-time-hopping-through-facebook-stories-a-device-based-expedition/"><u>[Updated] Time-Hopping Through Facebook Stories A Device-Based Expedition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-digital-dollars-in-motion-a-side-by-side-of-vids-vs-videos/"><u>2024 Approved Digital Dollars in Motion A Side-by-Side of Vids Vs. Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/4kultra-hd/"><u>4K/Ultra HD動画再生に困難あり？ここでは、トラブルシューティング方法を詳しくご紹介</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/adultflix-integration-into-kodis-leia-and-krypton-a-comprehensive-step-by-step-tutorial/"><u>AdultFlix Integration Into Kodi's Leia & Krypton: A Comprehensive Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029547372-bandcamp/"><u>Bandcampで聴ける全曲無料音源ダウンロード手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-no-cost-tools-for-transforming-avi-files-into-swf-format-web-apps-vs-desktop-software/"><u>Best No-Cost Tools for Transforming AVI Files Into SWF Format - Web Apps vs Desktop Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-techniques-for-ripping-burning-and-duplicating-data-from-dvds-and-cds-efficiently/"><u>Comprehensive Techniques for Ripping, Burning, and Duplicating Data From DVDs and CDs Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-approach-create-unique-iphone-ringtones-without-utilizing-itunes/"><u>DIY Approach: Create Unique iPhone Ringtones Without Utilizing iTunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030478625-flv/"><u>FLVファイルの編集手順：切り取り・回転・クロッピング方法</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-get-ready-for-success-5-key-tips-when-you-first-power-up-your-device/"><u>How to Get Ready for Success: 5 Key Tips When You First Power Up Your Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-meizu-21-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Meizu 21 Unlock Without Password</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-depth-guide-to-2023s-leading-web-capture-applications/"><u>In-Depth Guide to 2023’S Leading Web Capture Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-access-in-windows-11-fix-for-vanished-pin-issue/"><u>Securing Access in Windows 11: Fix for Vanished PIN Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029653442-wonderfox-dvd-video-converter/"><u>WonderFox DVD Video Converterの手順：スマホユーザー向けダウンロードガイド</u></a></li>
 </ul></div>
 

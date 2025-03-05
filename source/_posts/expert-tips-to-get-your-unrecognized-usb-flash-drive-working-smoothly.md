@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Get Your Unrecognized USB Flash Drive Working Smoothly
-date: 2025-02-12T18:59:55.287Z
-updated: 2025-02-16T23:21:51.058Z
+date: 2025-03-02T20:13:02.911Z
+updated: 2025-03-05T20:08:29.079Z
 tags:
   - win11
   - win10
@@ -59,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 
  If airplane mode is already set to Off, try turning off Bluetooth, waiting a few seconds, and then turning it back on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### in Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 3. Select**Network & internet** . Make sure you toggle**On** Wi-Fi and toggle**Off** Airplane mode.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Network-and-internet-WiFi-On-Airplane-mode-Off.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If airplane mode is already set to Off, try turning off Bluetooth, waiting a few seconds, and then turning it back on.
 
@@ -105,17 +97,9 @@ Here’s how it works:
 
  Try reconnecting your Bluetooth keyboard. If the issue persists, there’s another fix to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Remove and re-pair your Bluetooth keyboard
 
  If your Bluetooth keyboard is paired but not connected, try to remove your keyboard, then pair it again. This will create a new connection between your keyboard and computer. Here’s how to do it:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### in Windows 10
 
@@ -132,10 +116,6 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/add-bluetooth.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### in Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -146,15 +126,7 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Bluetooth-Add-device.jpg)
 4. Click**Bluetooth** and choose your device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Add-a-device-Bluetooth.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Check if your problem has been resolved. If not, move on to the next fix.
 
@@ -182,10 +154,6 @@ If this method doesn’t work for you, continue to the next fix.
 
  If you’re having problems with your Bluetooth keyboard, running the Bluetooth troubleshooter might help find and fix problems for you. Here’s how to do it:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### in Windows 10
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -199,15 +167,7 @@ If this method doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-troubleshooter.jpg)
 5. Follow the on-screen instructions to complete the troubleshooting.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-detecting-problems.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -250,22 +210,21 @@ If this method doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-experts-guide-to-the-best-ipad-voice-recording-tools-3/"><u>[Updated] 2024 Approved Expert's Guide to the Best iPad Voice Recording Tools #3</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-block-spontaneous-youtube-video-triggers-for-2024/"><u>[Updated] Block Spontaneous YouTube Video Triggers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-solution-resolving-the-persistent-windows-update-error-0x80240017/"><u>Complete Solution: Resolving the Persistent Windows Update Error 0X80240017</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eliminating-faults-the-six-no-goes-of-ai-chatting/"><u>Eliminating Faults: The Six No-Goes of AI Chatting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebook-update-essential-strategies-for-social-media-savvy/"><u>Facebook Update Essential Strategies for Social Media Savvy</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-camera-not-found-overcome-windows-error-0xa0nf4292/"><u>How to Resolve 'Camera Not Found' - Overcome Windows Error 0xA0nf4292</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-a-broken-connection-between-your-usb-and-hdmi-device/"><u>How to Resolve a Broken Connection Between Your USB and HDMI Device</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-how-to-avoid-the-biggest-slip-ups-for-new-youtube-enthusiasts/"><u>In 2024, How to Avoid the Biggest Slip-Ups for New YouTube Enthusiasts!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-red-screen-of-error-a-step-by-step-guide/"><u>Resolving the Red Screen of Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-troubleshooting-guide-for-initializing-issues-with-smartaudio/"><u>Solved: Troubleshooting Guide for Initializing Issues with SmartAudio</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-error-adjusting-gif-sizes-for-discord-games-on-windows-11/"><u>Taming the Error: Adjusting GIF Sizes for Discord Games on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-automatic-mouse-double-clicks/"><u>Troubleshooting and Solutions for Automatic Mouse Double-Clicks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-timely-response-error-in-system-services-code-1053/"><u>Troubleshooting Guide for Timely Response Error in System Services (Code 1053)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-logitech-mouse-scroll-wheel-issues/"><u>Troubleshooting Guide: Resolving Logitech Mouse Scroll Wheel Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-securing-your-content-adobe-presenter-captures/"><u>[New] 2024 Approved Securing Your Content Adobe Presenter Captures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/onvenient-techniques-for-customizing-your-own-short-videos-for-2024/"><u>[New] Convenient Techniques for Customizing Your Own Short Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-final-cuts-vertical-voyage-editing-for-the-modern-instagram-reader-for-2024/"><u>[New] Final Cut's Vertical Voyage Editing for the Modern Instagram Reader for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-problem-occurred-during-pc-reset-in-windows-10-proven-solution/"><u>Bypass the 'Problem Occurred During PC Reset' In Windows 10 [Proven Solution]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-the-top-language-model-bard-chatgpt-or-offline-alpaca/"><u>Choosing the Top Language Model: Bard, ChatGPT or Offline Alpaca?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-to-overcome-recent-oculus-error-messages/"><u>Expert Fixes to Overcome Recent Oculus Error Messages</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-the-dreaded-class-not-found-problem-in-windows-computers-easily/"><u>Fixing the Dreaded 'Class Not Found' Problem in Windows Computers Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-two-finger-touchpad-scrolling-issue-solved/"><u>How To Fix The Two-Finger Touchpad Scrolling Issue - Solved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-wireless-network-drivers-for-pcs-secure-your-connection-with-latest-downloads-for-win11win10win7/"><u>Intel Wireless Network Drivers for PCs - Secure Your Connection with Latest Downloads for Win11/Win10/Win7</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-lip-sync-mastery-unlock-the-power-of-these-5-amazing-apps-for-2024/"><u>New Lip Sync Mastery Unlock the Power of These 5 Amazing Apps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209495330-simplify-your-experience-with-windows-10s-file-explorer-expert-advice/"><u>Simplify Your Experience with Windows 10'S File Explorer - Expert Advice!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-dell-webcam-expert-tips-for-windows-users-experiencing-issues/"><u>Troubleshoot Your Dell Webcam: Expert Tips for Windows Users Experiencing Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-speednova-experience-in-true-wireless-cetra-gaming-earphones-by-rog-sound-quality-and-latency-tested/"><u>Unveiling the SpeedNova Experience in True Wireless Cetra Gaming Earphones by ROG - Sound Quality and Latency Tested!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watch-netflix-without-freezes-optimized-viewing-experience-for-windows-and-mac-users/"><u>Watch Netflix Without Freezes: Optimized Viewing Experience for Windows & Mac Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-1011-exe-crisis-solved/"><u>Win 10/11 Exe Crisis Solved</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/xchange-your-thoughts-on-better-alternatives/"><u>XChange Your Thoughts on Better Alternatives</u></a></li>
 </ul></div>
 

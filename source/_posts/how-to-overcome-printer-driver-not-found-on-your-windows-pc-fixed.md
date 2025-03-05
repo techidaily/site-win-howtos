@@ -1,7 +1,7 @@
 ---
 title: How to Overcome 'Printer Driver Not Found' On Your Windows PC [FIXED]
-date: 2024-08-19T07:47:05.987Z
-updated: 2024-08-20T07:47:05.987Z
+date: 2025-02-26T18:48:47.798Z
+updated: 2025-03-05T18:56:31.603Z
 tags:
   - win11
   - win10
@@ -48,9 +48,6 @@ Keep getting a**Windows cannot locate a suitable printer driver** error message?
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### **Fix 2: Set printer share permissions**
 
  If you still see this error after updating your driver, it’s time we took a look at your **printer share permissions** . Because setting this wrong may also cause the error. So**Step 2** includes:
@@ -69,33 +66,18 @@ Keep getting a**Windows cannot locate a suitable printer driver** error message?
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time. Then copy & paste **control /name Microsoft.DevicesAndPrinters** into the box and click **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)
 2. Under**Printers** , right-click on**your printer** and click **Printer properties**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af6658ae1882.jpg)
 3. Click the**Sharing** tab, tick the box that says **Share this printer** , click **Apply** \->   **OK.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af922bdb75cb.png)**  
 
  Make sure you do steps 4-6 on**EVERY** computer that needs access to the printer.
 4. On your keyboard, press **the Windows logo key** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66a1b5c069.png)
 5. Click**Change advanced sharing settings**  .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66a50e9add.jpg)
 6. Under**Guest or Public (current profile)** , click the**Turn on network discovery** option and the **Turn on file and printer sharing** option. Click **Save changes**  .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af66bb7aee19.jpg)
 7. Restart your computer and check if the**Windows cannot locate a suitable printer driver** issue has been fixed.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -110,8 +92,6 @@ Keep getting a**Windows cannot locate a suitable printer driver** error message?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +99,19 @@ Keep getting a**Windows cannot locate a suitable printer driver** error message?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>[Updated] 2024 Approved Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-brain-snatching-battlegrounds-the-best-zombie-gaming-showdowns/"><u>[Updated] In 2024, Brain-Snatching Battlegrounds The Best Zombie Gaming Showdowns</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4mp35/"><u>最新版「MP4からMP3への安全変換ツール」とベスト5 - セキュリティを考えて</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/crafting-compelling-narratives-with-facebook-cover-vids-for-2024/"><u>Crafting Compelling Narratives with Facebook Cover Vids for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-icons-in-windows-11-a-complete-guide/"><u>How to Restore Vanished Desktop Icons in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-brand-your-content-download-complimentary-templates-for-youtube-makers/"><u>In 2024, Brand Your Content Download Complimentary Templates for YouTube Makers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/quick-conversion-tactics-extracting-mp3-from-vids-on-social-media/"><u>Quick Conversion Tactics Extracting MP3 From Vids on Social Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-the-livekernelevent-117-mistake/"><u>Solutions for Resolving the LiveKernelEvent 117 Mistake</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-fundamentals-of-synchronizing-audio-and-video-in-screencasts-for-2024/"><u>The Fundamentals of Synchronizing Audio and Video in Screencasts for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi Note 12T Pro Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-no-more-how-to-solve-oddworld-soulstorm-pc-crash-issues/"><u>Trouble No More: How to Solve Oddworld: Soulstorm PC Crash Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-an-igfxem-motherboard-component/"><u>Troubleshooting Tips: Resolving Issues with an Igfxem Motherboard Component</u></a></li>
+</ul></div>
 

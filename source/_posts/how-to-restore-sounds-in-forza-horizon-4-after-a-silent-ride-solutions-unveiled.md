@@ -1,7 +1,7 @@
 ---
 title: How to Restore Sounds in Forza Horizon 4 After a Silent Ride – Solutions Unveiled!
-date: 2024-08-19T07:45:46.231Z
-updated: 2024-08-20T07:45:46.231Z
+date: 2025-02-26T16:10:37.099Z
+updated: 2025-03-05T18:41:04.937Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ When you launch the game you can hear the intro music but right after that, all 
 5. Click**Apply > OK** .
 6. Reboot your computer and check then your game sound.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Run the Windows audio troubleshooter
 
  Windows system has in-built troubleshooter to solve common problems.  
@@ -52,9 +49,6 @@ When you launch the game you can hear the intro music but right after that, all 
 4. Follow the on-screen instructions.
 5. Reboot your computer and check whether the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Update your audio driver
 
  The outdated or missing drivers may be the reason for the “Forza Horizon 4 no sound” problem. You can update your audio driver to solve the problem.
@@ -91,22 +85,10 @@ There are two ways you can update your audio drivers.
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type “devmgmt.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-1.jpg)
 3. Click**Sound, video and game controllers** , right-click on the**Realtek(R) Audio** and click**Uninstall device** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 5. Use Method 3 to install the driver.
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 6. Reboot your computer to check whether the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Method 5: Update your Windows system
 
  An audio problem may occur because you don’t have the latest Windows system. So update the system to the latest version may help you solve the problem.
@@ -114,9 +96,6 @@ There are two ways you can update your audio drivers.
 1. Press the**Windows logo key + I** together. Click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4.1.jpg)
 2. In the Windows Update tab, click**Check for updates** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-3.jpg)
 3. Install the updates.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Reboot your computer and check the problem is solved or not.
 
  Thanks for reading. Hope this article meets your needs. And you are welcome to leave comments below.
@@ -129,8 +108,6 @@ There are two ways you can update your audio drivers.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +115,26 @@ There are two ways you can update your audio drivers.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-expert-strategies-for-seamless-green-screening-in-kinemaster/"><u>[New] Expert Strategies for Seamless Green Screening in KineMaster</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-leveraging-the-power-of-images-in-your-instagram-video-plans-for-2024/"><u>[New] Leveraging the Power of Images in Your Instagram Video Plans for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-brightness-control-not-working/"><u>[Solved] Windows 10 Brightness Control Not Working</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tips-on-troubleshooting-frozen-obs-fullscreen-problem/"><u>[Updated] In 2024, Tips on Troubleshooting Frozen OBS Fullscreen Problem</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-breaking-barriers-in-photography-mastering-gopro-time-lapse/"><u>2024 Approved Breaking Barriers in Photography Mastering GoPro Time-Lapse</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-audio-from-yt-into-video-artistry/"><u>2024 Approved Infusing Audio From YT Into Video Artistry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-clearing-up-preparing-to-configure-hurdle-in-windows-setup/"><u>Expert Advice: Clearing Up 'Preparing to Configure' Hurdle in Windows Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-applied-the-infamous-exe-file-has-ceased-operation/"><u>Fix Applied! The Infamous 'EXE File Has Ceased Operation'</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-how-to-enable-airplay-on-your-windows-10-pc-from-iphone-xs-xs-max-or-xr/"><u>Guide: How to Enable AirPlay on Your Windows 10 PC From iPhone XS, XS Max or XR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-black-screen-issues-with-your-asus-webcam-on-windows-10/"><u>How to Resolve Black Screen Issues with Your ASUS Webcam on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-set-up-two-factor-sign-in-security-feature-in-gmail-accounts/"><u>How to Set Up Two-Factor Sign-In Security Feature in Gmail Accounts</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-keys-sticking-on-windows-solved/"><u>Keyboard Keys Sticking on Windows [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-constant-loading-issues-during-skyrim-boot-process-with-expert-advice/"><u>Overcome Constant Loading Issues During Skyrim Boot Process with Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-unfreeze-and-optimize-your-computing-experience/"><u>Quick Fixes to Unfreeze and Optimize Your Computing Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-how-to-resolve-windows-update-error-code-0x80070002/"><u>Quick Fixes: How To Resolve Windows Update Error Code 0X80070002</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206952080-quick-remedies-for-windows-11-login-loop-get-access-now/"><u>Quick Remedies for Windows 11 Login Loop - Get Access Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-obsidian-gaming-screen-problem/"><u>Resolved: How to Fix the Obsidian Gaming Screen Problem</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/turning-your-youtube-views-into-a-screen-capture-made-simple-and-free/"><u>Turning Your YouTube Views Into a Screen Capture Made Simple and Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-find-x7-ultra-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo Find X7 Ultra without Him Knowing | Dr.fone</u></a></li>
+</ul></div>
 

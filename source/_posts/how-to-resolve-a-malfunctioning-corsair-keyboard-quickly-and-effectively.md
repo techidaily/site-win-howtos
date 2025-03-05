@@ -1,7 +1,7 @@
 ---
 title: How to Resolve a Malfunctioning Corsair Keyboard Quickly and Effectively
-date: 2025-02-15T23:56:53.522Z
-updated: 2025-02-16T16:02:21.019Z
+date: 2025-03-03T19:12:55.935Z
+updated: 2025-03-05T19:03:05.567Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 5 fixes that have helped other users get their keyboard numbers working again. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,19 +43,11 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
@@ -69,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 2. Click**Accessibility** on the left penal, then click**Mouse** in the Interaction section on the right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
@@ -84,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
@@ -153,18 +133,24 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-virtual-meetups-made-simple-setting-up-video-calls-with-whatsapp-on-your-laptop/"><u>[New] 2024 Approved Virtual Meetups Made Simple Setting up Video Calls with WhatsApp on Your Laptop</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ce-your-shots-top-cameras-and-lenses-for-youtubers/"><u>[New] Ace Your Shots Top Cameras & Lenses for YouTubers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-endings-that-stand-out-ranked/"><u>[New] In 2024, Free YouTube Endings That Stand Out - Ranked</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-10-slow-shutdown-issue/"><u>[Solved] Windows 10 Slow Shutdown Issue</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-real-deal-behind-asmr-videos/"><u>[Updated] The Real Deal Behind ASMR Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-pc-freezing-woes-heres-how-to-get-a-smooth-gaming-experience/"><u>Cyberpunk 2077 PC Freezing Woes? Here's How to Get a Smooth Gaming Experience!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-error-code-0x800f020b-during-your-xerox-update-on-pcs-running-windows/"><u>Expert Tips to Overcome Error Code 0X800F020B During Your Xerox Update on PCs Running Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722971821422-get-your-msi-z370-a-pros-latest-drivers-here-free-offer/"><u>Get Your MSI Z370-A Pro's Latest Drivers Here – Free Offer</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/making-a-splash-with-youtube-ad-banners-and-thumbnails-for-2024/"><u>Making a Splash with YouTube Ad Banners & Thumbnails for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/recognizing-and-repairing-a-missing-hard-drive-connection-issue-fixes/"><u>Recognizing and Repairing a Missing Hard Drive Connection Issue [FIXES]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-identifying-and-fixing-windows-update-database-issues-on-windows-11/"><u>Resolved: Identifying and Fixing Windows Update Database Issues on Windows 11</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/reveal-hidden-files-on-your-pc-top-7-methods-for-correcting-unseen-documents-in-windows-10-8-and-7/"><u>Reveal Hidden Files on Your PC: Top 7 Methods for Correcting Unseen Documents in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-htc-vive-comfort-zone-8-strategies-for-clear-skin/"><u>[New] 2024 Approved HTC Vive Comfort Zone 8 Strategies for Clear Skin</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-precision-workflow-tackling-backdrops-in-affinity-photo-to-perfection/"><u>[New] 2024 Approved Precision Workflow Tackling Backdrops in Affinity Photo to Perfection</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unleash-creativity-with-these-5-advanced-tiktok-captioning-techniques/"><u>[New] 2024 Approved Unleash Creativity with These 5 Advanced TikTok Captioning Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-simplified-approaches-to-insta-photovideo-resharing-for-2024/"><u>[New] Simplified Approaches to Insta Photo/Video Resharing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigating-the-world-of-fb-instream-ads-a-comprehensive-setup-manual/"><u>[Updated] In 2024, Navigating the World of FB Instream Ads A Comprehensive Setup Manual</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-guide-to-mp4-devices-for-2024/"><u>[Updated] The Ultimate Guide to MP4 Devices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202768284-easy-fixes-for-windows-11-pc-reset-errors-learn-how-to-resolve-them-today/"><u>Easy Fixes for Windows 11 PC Reset Errors - Learn How to Resolve Them Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-fix-cache-miss-error-errcachemiss-on-google-chrome/"><u>Expert Tips to Fix 'Cache Miss' Error (ERR_CACHE_MISS) on Google Chrome</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-cover-video-introduction-size-format-and-time-for-2024/"><u>Facebook Cover Video Introduction, Size, Format & Time for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-recycle-bin-corrupted-error-on-windows-10-and-11/"><u>How to Fix a Recycle Bin Corrupted Error on Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-11-freezing-and-update-problems/"><u>How to Resolve Windows 11 Freezing and Update Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-laptop-usb-malfunction-heres-how-to-restore-functionality/"><u>HP Laptop USB Malfunction? Here's How to Restore Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-your-folder-management-a-users-guide-to-file-explorer-in-windows-11/"><u>Optimize Your Folder Management: A User's Guide to File Explorer in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-sudden-sleep-problems-with-simple-fixes/"><u>Resolve Your PC's Sudden Sleep Problems with Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-you-encounter-a-driver-failed-error-due-to-user-configuration-problems/"><u>Troubleshooting Steps When You Encounter a 'Driver Failed' Error Due to User Configuration Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201119149-troubleshooting-tips-for-an-unresponsive-xbox-one-contoller-quick-fixes/"><u>Troubleshooting Tips for an Unresponsive Xbox One Contoller - Quick Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-global-precision-advanced-mouse-navigation-via-powertoys/"><u>Unlocking Global Precision - Advanced Mouse Navigation via PowerToys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/warframe-update-issues-decoded-fixing-the-failed-to-update-errors/"><u>Warframe Update Issues Decoded: Fixing the 'Failed to Update' Errors</u></a></li>
 </ul></div>
 

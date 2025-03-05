@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Resolving Boot Issues on Laptops and Desktops
-date: 2025-02-11T18:30:51.468Z
-updated: 2025-02-16T20:48:13.475Z
+date: 2025-03-01T18:25:03.271Z
+updated: 2025-03-05T18:03:57.333Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -46,10 +42,6 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -103,19 +95,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -129,10 +113,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -184,22 +164,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-direct-path-from-srt-to-sub/"><u>[Updated] 2024 Approved Direct Path From SRT to SUB</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-essential-stop-motion-movies-you-cant-miss-for-2024/"><u>[Updated] Essential Stop-Motion Movies You Can't Miss for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unpacking-the-impact-of-youtubes-shorts-programme-for-2024/"><u>[Updated] Unpacking the Impact of YouTube's Shorts Programme for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-disk-read-error-occurred-on-windows-11-solved/"><u>A Disk Read Error Occurred on Windows 11 [Solved]</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/aomei-backupper-step-by-step-guide-to-professional-disk-backup-with-aomei-backupper/"><u>AOMEI Backupper:專業硬碟備份步驟解析 - Step-by-Step Guide to Professional Disk Backup with AOMEI Backupper</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/assessing-performance-and-features-why-you-should-consider-the-samsung-galaxy-tab-s3/"><u>Assessing Performance and Features: Why You Should Consider the Samsung Galaxy Tab S3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizing-fitness-coaching-techniques/"><u>ChatGPT: Revolutionizing Fitness Coaching Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-resolving-update-error-0xc1900208-on-windows-11-systems/"><u>Comprehensive Solution for Resolving Update Error 0Xc1900208 on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-wdf-techniques-for-decreased-cpu-usage-on-windows/"><u>Efficient WDF Techniques for Decreased CPU Usage on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-non-functioning-voice-chat-in-overwatch/"><u>Effortless Fix for Non-Functioning Voice Chat in Overwatch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-reactivating-windows-11s-screen-saver-feature-with-ease/"><u>Guide: Reactivating Windows 11'S Screen Saver Feature with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-your-laptops-touchpad-for-windows-1187-users/"><u>How to Restore Functionality of Your Laptop's Touchpad for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-portable-lenovo-ideapad-n320-redefined-with-renowned-lenovo-keyboard-layout/"><u>In-Depth Analysis: The Portable Lenovo Ideapad N320, Redefined with Renowned Lenovo Keyboard Layout</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-store-malfunction-heres-how-you-can-fix-it-now/"><u>Microsoft Store Malfunction? Here's How You Can Fix It Now</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/old-memories-new-snaps-utilizing-snapchats-camera-roll-for-2024/"><u>Old Memories, New Snaps Utilizing Snapchat’s Camera Roll for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-restoring-sound-capabilities-in-windows-systems/"><u>Step-by-Step Tutorial: Restoring Sound Capabilities in Windows Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-gratis-ai-videobearbeiter-im-netz-die-beste-auswahl-fur-windows-und-mac/"><u>Top Gratis AI-Videobearbeiter Im Netz - Die Beste Auswahl Für Windows Und Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-amass-a-thousand-tactics-for-monthly-instagram-following/"><u>[New] Amass a Thousand Tactics for Monthly Instagram Following</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-elite-editions-unbiased-blu-ray-player-titles-for-pcmac/"><u>[New] In 2024, Elite Editions Unbiased Blu-Ray Player Titles for PC/Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-key-online-repositories-for-rich-text-visualization/"><u>[New] In 2024, Key Online Repositories for Rich Text Visualization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-tap-into-audience-desires-strategies-for-video-templates/"><u>[New] In 2024, Tap Into Audience Desires Strategies for Video Templates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-new-heights-top-10-adventure-channels/"><u>[Updated] 2024 Approved Discover New Heights Top 10 Adventure Channels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-transformative-zooms-for-snapchat-photos-and-videos/"><u>[Updated] In 2024, Transformative Zooms for Snapchat Photos & Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-list-of-drones-working-with-gopro-hero-series/"><u>[Updated] Ultimate List of Drones Working with GoPro Hero Series</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4mkvmov/"><u>複数種フォーマットビデオ効率的な一括変換テクニック: MP4、MKV、MOVへのチェインコンバータ</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-2-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 2 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4amp3windows-11/"><u>M4AからMP3への変換:Windows 11で効率的な方法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-the-ice-with-a-detailed-look-at-nhl-19s-virtual-gameplay/"><u>Mastering the Ice with a Detailed Look at NHL 19'S Virtual Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pick-the-perfect-flv-editor-discover-our-top-10-choices-for-windows-users-and-online-platforms/"><u>Pick the Perfect FLV Editor: Discover Our Top 10 Choices for Windows Users and Online Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-successfully-viewing-iso-images-using-an-android-phone/"><u>Quick Guide: Successfully Viewing ISO Images Using an Android Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-adding-the-sirius-satellite-radio-channel-pack-to-your-kodi-matrix/"><u>Step-by-Step Guide to Adding the Sirius Satellite Radio Channel Pack to Your Kodi Matrix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-editing-and-merging-footage-with-imovie/"><u>Step-by-Step Tutorial on Editing and Merging Footage with iMovie</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-configuring-chains-of-darkness-for-kodi-with-matrix-support/"><u>Step-by-Step Tutorial: Configuring Chains of Darkness for Kodi with Matrix Support</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-recording-flawless-minecraft-sessions-with-optimal-video-quality/"><u>Step-by-Step Tutorial: Recording Flawless Minecraft Sessions with Optimal Video Quality</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-to-have-your-video-embrace-by-vimeo-experts/"><u>Strategies to Have Your Video Embrace by Vimeo Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamline-your-audio-conversion-how-to-transform-flv-videos-into-mp3-format-in-minutes/"><u>Streamline Your Audio Conversion: How to Transform FLV Videos Into MP3 Format in Minutes</u></a></li>
 </ul></div>
 

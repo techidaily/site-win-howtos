@@ -1,7 +1,7 @@
 ---
 title: "Effective Fixes When Your Laptop's Keyboard Stops Working on Windows Versions: 11, 8, and Ve Been There Before! Let Me Help You."
-date: 2025-02-10T22:04:04.375Z
-updated: 2025-02-16T17:32:21.622Z
+date: 2025-02-26T19:59:43.538Z
+updated: 2025-03-05T16:00:12.347Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -59,10 +55,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -70,10 +62,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
@@ -85,10 +73,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -112,10 +96,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -123,10 +103,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,19 +130,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-essential-design-modifications/"><u>[New] Essential Design Modifications</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-rhythm-rulers-elevating-instagram-posts-with-songs/"><u>[New] In 2024, Rhythm Rulers Elevating Instagram Posts with Songs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-the-simple-nature-of-storytelling/"><u>[New] In 2024, Unveiling the Simple Nature of Storytelling</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-essential-camera-toolkit-for-yt-enthusiasts/"><u>[New] The Essential Camera Toolkit for YT Enthusiasts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-precision-in-video-documentation-windowsosxiphone-methods/"><u>[Updated] In 2024, Precision in Video Documentation Windows/OSX/iPhone Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-what-to-do-when-you-cant-find-physxloaderdll/"><u>Comprehensive Guide: What To Do When You Can't Find physxloader.dll</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-stagnant-windows-update-process-resolved/"><u>How to Fix a Stagnant Windows Update Process: Resolved</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-xs-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone XS Max</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-remote-server-connection-failures-a-step-by-step-guide/"><u>Resolving Issues with Remote Server Connection Failures: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-msmpengineexe-from-hogs-up-cpu-resources-in-windows-10-fixed/"><u>Stop MsMpEngine.exe From Hogs Up CPU Resources in Windows 10 – FIXED</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/svchostexe-and-high-cpu-use-in-windows-11-step-by-step-fix-guide/"><u>Svchost.exe & High CPU Use in Windows 11: Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-your-lost-desktop-icons-on-windows-10-fixed/"><u>Troubleshooting Guide: Restoring Your Lost Desktop Icons on Windows 10 [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-successful-surge-incident-on-transmission-node/"><u>Troubleshooting Successful: Surge Incident on Transmission Node</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-stop-motion-animation-on-instagram-a-beginners-guide-to-creating-viral-videos-for-2024/"><u>Updated Stop Motion Animation on Instagram A Beginners Guide to Creating Viral Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-list-of-safe-toy-drones/"><u>[New] 2024 Approved The Ultimate List of Safe Toy Drones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>[New] 2024 Approved Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamlessly-blend-music-with-visuals-in-premiere-pro/"><u>[New] Seamlessly Blend Music with Visuals in Premiere Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-broadcast-excellence-incorrante-video-loops-into-television-for-2024/"><u>[Updated] Broadcast Excellence Incorrante Video Loops Into Television for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamlining-film-shoots-a-beginners-guide-for-2024/"><u>[Updated] Streamlining Film Shoots A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apples-leap-forward-an-in-depth-look-at-the-m1-chip-in-the-latest-macbook-air-13-model-reviewed/"><u>Apple's Leap Forward: An In-Depth Look at the M1 Chip in the Latest MacBook Air 13” Model Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-on-converting-flv-videos-into-avi-with-movavis-advanced-converter-software/"><u>Comprehensive Guide on Converting FLV Videos Into AVI with Movavi's Advanced Converter Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-video-mp4-vers-matroska-mkv-libre-de-frais-avec-movavi/"><u>Conversion Vidéo MP4 Vers Matroska (MKV) Libre De Frais - Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertissez-vos-fichiers-swf-vers-mov-gratuitement-sur-internet-via-movavi-methodes-et-conseils-utiles/"><u>Convertissez Vos Fichiers SWF Vers MOV Gratuitement Sur Internet via Movavi: Méthodes Et Conseils Utiles</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-budget-options-in-4k-a-detailed-look-at-the-lg-um7300-television/"><u>Exploring Budget Options in 4K: A Detailed Look at The LG UM7300 Television</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-websaida-para-conversao-do-audio-opus-para-mp4-video-pela-movavi-utilize-on-line-sem-custo-algum/"><u>Gratuito: Websaída Para Conversão Do Audio Opus Para MP4 Vídeo Pela Movavi – Utilize On-Line Sem Custo Algum!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuitous-online-mp4-do-mp3-konverter-bystryj-i-nadezhnyj-reshenie-po-movavi/"><u>Gratuitous Online MP4 До MP3 Конвертер: Быстрый И Надежный Решение По Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-14-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 14 Plus In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-pro-level-streaming-tech-innovations-you-need/"><u>In 2024, Pro-Level Streaming Tech Innovations You Need</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-realme-narzo-60-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Realme Narzo 60 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/passos-faceis-para-masterizacao-de-mapas-no-minecraft-em-computador/"><u>Passos Fáceis Para Masterização De Mapas No Minecraft Em Computador</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/png-vers-jpeg-metgratis-omzetten-professioneel-online-door-movavi/"><u>PNG Vers JPEG Metgratis Omzetten - Professioneel Online Door Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-ultimate-agenda-organizers-boosting-workplace-efficiency/"><u>Top 12 Ultimate Agenda Organizers Boosting Workplace Efficiency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-au-direttamente-in-wav-senza-costi-usando-leditor-di-video-movavi/"><u>Trasforma I Tuoi File .au Direttamente in WAV Senza Costi Usando L'editor Di Video Movavi</u></a></li>
 </ul></div>
 

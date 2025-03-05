@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Windows 10 KB4936312 Update Issue (Error Code: 0X80240034)"
-date: 2025-02-11T19:15:12.504Z
-updated: 2025-02-16T21:19:18.817Z
+date: 2025-02-27T16:29:21.136Z
+updated: 2025-03-05T20:08:13.427Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Fix Error 0x80070002?
 
  Here are solutions that have helped other users resolve the error 0x80070002\. You may not need to try them all; just work your way down the list until everything’s working again.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Why does the error 0x80070002 occur?
 
  This error code may vary from different Windows versions. In Windows XP, you will see the error code **0x80070002** . While in Windows 10/8/7, you will see the error code **80070002** .
@@ -51,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  This problem happens when some files in the Windows Update are missing or corrupted, even though the update is downloaded and extracted successfully, or the driver faulty issue. So you can work it through by these methods until it solves your problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 1: Check the Date and Time settings**
 
@@ -70,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
@@ -81,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
@@ -103,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  1) Type**cmd** in the search box, and right click**Command Prompt**  to click**Run as administrator** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
@@ -140,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 2: Delete the Software Distribution Folder
 
  1) Double-click the drive where your Windows is installed, generally in**C drive** .
@@ -166,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
@@ -177,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Try Windows Update Troubleshooter**
 
@@ -277,20 +241,14 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-hero-4-vs-hero-5-performance-face-off/"><u>[New] Hero 4 VS Hero 5 Performance Face-Off</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outube-monetization-carryminati-ajey-nagar-youtube-income/"><u>[New] YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/10-best-camcorder-2024-ultimate-review/"><u>10 Best Camcorder 2024 [Ultimate Review]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/automating-the-launch-of-specific-workbooks-at-excels-startup-a-step-by-step-guide/"><u>Automating the Launch of Specific Workbooks at Excel's Startup: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/custom-view-mastery-how-to-lock-in-and-retrieve-your-favorite-excel-spreadsheet-configurations/"><u>Custom View Mastery: How to Lock In and Retrieve Your Favorite Excel Spreadsheet Configurations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-safest-and-most-fun-mobile-phones-for-children-recommended-by-zdnet/"><u>Discover the Safest & Most Fun Mobile Phones for Children | Recommended by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-xbox-microphone-errors-in-windows-11/"><u>Fixing Xbox Microphone Errors in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-x9b-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor X9b</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-data-movement-best-ways-to-transition-files-to-pc/"><u>In 2024, Unlocking Data Movement Best Ways to Transition Files to PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/keyboard-malfunctioning-on-ios-devices-top-5-fixes-inside/"><u>Keyboard Malfunctioning on iOS Devices? Top 5 Fixes Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/perfect-your-spreadsheets-a-step-by-step-tutorial-on-period-placement-for-dates-in-excel/"><u>Perfect Your Spreadsheets: A Step-by-Step Tutorial on Period Placement for Dates in Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-activating-autocomplete-feature-using-slashes-in-excel-spreadsheets/"><u>Step-by-Step Tutorial for Activating Autocomplete Feature Using Slashes in Excel Spreadsheets</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-for-ppt-screen-capture-2023-style/"><u>The Ultimate Guide for PPT Screen Capture, 2023 Style</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-6-essentials-to-add-to-your-quick-access-toolbar-in-microsoft-excel-for-faster-workflows/"><u>Top 6 Essentials to Add to Your Quick Access Toolbar in Microsoft Excel for Faster Workflows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-applying-dollar-sign-notation-in-excel-worksheets/"><u>Understanding and Applying Dollar Sign Notation in Excel Worksheets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-merge-movies-on-youtube-compilation/"><u>[New] Merge Movies on YouTube Compilation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tga-)-jpeg-movavi-online/"><u>有料なしで簡単! TGA -> JPEG変換ツール - Movavi Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-mov-to-flv-conversion-moovavi/"><u>Free Online MOV to FLV Conversion - Moovavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-completa-para-grabar-pantalla-en-windows-con-movavi-screen-recorder/"><u>Guía Completa Para Grabar Pantalla en Windows Con Movavi Screen Recorder</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/newbies-instalment-checklist-vrecorder-for-2024/"><u>Newbie's Instalment Checklist VRecorder for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/uncomplicated-video-snip-for-win10-users-for-2024/"><u>Uncomplicated Video Snip for Win10 Users for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gsmwav/"><u>オンラインで簡単GSM音波ファイルをWAVに自由転送 - 動画」</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Dealing with Windows Error 0Xc0000098? Here's How You Can Fix It
-date: 2024-08-19T07:49:21.916Z
-updated: 2024-08-20T07:49:21.916Z
+date: 2025-02-27T20:11:55.418Z
+updated: 2025-03-05T18:44:38.576Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 1: Rebuild BCD manually
 
  Since this is a BSOD error, you won’t be able to access your PC normally. To repair your PC, you’ll need to use a Windows recovery drive: an installation USB media or a CD/DVD.
@@ -65,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
  6) Choose your preferred media. If you choose a USB flash drive, make sure you have a blank USB flash drive with at least 8GB of space.
@@ -85,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
  4) Save the changes and exit.
@@ -104,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
 
 bootrec /scanos
@@ -124,9 +111,6 @@ bootrec /rebuildbcd
 
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Startup Repair
 
  Startup Repair is a built-in tool to diagnose and repair some common problems on Windows. You may need to run Startup Repair (even 2 or 3 times).
@@ -137,16 +121,10 @@ bootrec /rebuildbcd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: CHKDSK
 
  CHKDSK, short for “check disk”, aims to check disk and verify system files for any errors.
@@ -249,9 +227,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
@@ -271,8 +246,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -280,4 +253,21 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-choosing-a-champion-dslr-or-mirrorless-camera-in-2024/"><u>[New] Choosing a Champion DSLR or Mirrorless Camera, In 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unleash-creativity-masterful-techniques-for-editing-podcasts-in-garageband-for-2024/"><u>[New] Unleash Creativity Masterful Techniques for Editing Podcasts in GarageBand for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/converti-file-mpeg-in-formato-aac-online-senza-costi-con-movavi/"><u>Converti File MPEG in Formato AAC Online Senza Costi Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-10-mic-not-detecting-or-functioning-issue/"><u>Diagnosing and Solving Windows 10 Mic Not Detecting or Functioning Issue</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-the-digital-space-5-tips-for-video-visibility-victory-for-2024/"><u>Dominating the Digital Space 5 Tips for Video Visibility Victory for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-updated-drivers-for-your-netgear-a6100-wireless-adapter-on-windows/"><u>Find and Install Updated Drivers for Your Netgear A6100 Wireless Adapter on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-update-failure-code-0x802e-a-step-by-step-guide/"><u>How to Resolve Windows Update Failure Code 0X802e: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race/"><u>Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-cannot-play-video-file-with-code-2219003-a-step-by-step-fix-guide/"><u>Overcoming 'Cannot Play Video File' With Code 2219003 - A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-frequent-freezing-during-windows-10-boot-up/"><u>Resolving Issues with Frequent Freezing During Windows 10 Boot-Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-prevent-total-war-rome-remastered-from-crashing-on-your-pc/"><u>Step-by-Step Solutions to Prevent Total War: Rome Remastered From Crashing on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/thwarting-the-crash-in-windows-11-life/"><u>Thwarting the 'Crash' In Windows 11 Life</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-a78-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo A78 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated 2024 Approved Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+</ul></div>
 

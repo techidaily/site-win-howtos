@@ -1,7 +1,7 @@
 ---
 title: Solve 'No Response From DNS Server' Issues with These 4 Simple Fixes
-date: 2025-02-12T17:02:26.586Z
-updated: 2025-02-16T18:51:55.895Z
+date: 2025-03-03T16:01:29.811Z
+updated: 2025-03-05T19:52:44.993Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ If you’d like to know why you can’t browse the Internet due to the **‘DNS 
 
 **Note:** The screens shown below are from Windows 10, but all the methods also apply to Windows 11/8/7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 1: Correct your DNS server address
 
 The DNS server not responding error could be probably caused by an **incorrect DNS server address**. So you can follow these to correct your DNS server address:
@@ -72,10 +68,6 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12900623628.png)
@@ -84,10 +76,6 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12903014de5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
@@ -95,10 +83,6 @@ The DNS server not responding error could be probably caused by an **incorrect D
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Clear your DNS cache and reset your IP
 
@@ -126,10 +110,6 @@ Then restart your computer and try to access the website you want to visit again
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 3: Update your network adapter driver
 
 Your DNS server won’t respond if the network adapter driver is outdated. You can update your network adapter driver manually or, if you’re not confident playing around with drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**.
@@ -151,10 +131,6 @@ After updating your network adapter driver, please restart your computer. Try to
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 4: Restart your modem and router
 
 If your modem or router doesn’t work properly, the DNS server could stop responding, either. You can restart your modem and router if you have one to solve the problem.
@@ -166,10 +142,6 @@ If your modem or router doesn’t work properly, the DNS server could stop respo
 2) Try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why can’t I access websites when the DNS server not responding?
 
@@ -200,22 +172,20 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-vimeo-video-integration-in-ppts-for-2024/"><u>[New] Mastering Vimeo Video Integration in PPTs for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/combat-svchostexes-extreme-cpu-drain-on-windows-11-effective-fixes-and-tips-unveiled/"><u>Combat svchost.exe's Extreme CPU Drain on Windows 11: Effective Fixes and Tips Unveiled</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortlessly-format-your-data-with-advanced-text-wrapping-tips-for-ms-excel/"><u>Effortlessly Format Your Data with Advanced Text Wrapping Tips for MS Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhanced-protection-settings-unlocking-your-file-downloading-capabilities-after-update/"><u>Enhanced Protection Settings: Unlocking Your File Downloading Capabilities After Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/feature-update-to-windows-11-version-1607-failed-to-install/"><u>Feature Update to Windows 11 Version 1607 Failed to Install</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-12-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone 12</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-5-best-no-cost-video-enhancement-platforms/"><u>In 2024, 5 Best No-Cost Video Enhancement Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-turn-the-tape-counterclockwise-instagrams-reverse-play-technique/"><u>In 2024, Turn the Tape Counterclockwise Instagram's Reverse Play Technique</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pure-sound-in-every-space-review-of-audio-technica-bk/"><u>Pure Sound in Every Space: Review of Audio-Technica BK</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-a-disk-read-malfunction-on-your-windows-11-pc-proven-solutions/"><u>Resolving a Disk Read Malfunction on Your Windows 11 PC - Proven Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-connectivity-issues-for-your-xbox-one-gamepad-expert-advice/"><u>Resolving Connectivity Issues for Your Xbox One Gamepad: Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-the-common-vcruntime140dll-error-message-on-windows-computers/"><u>Solution Steps for the Common 'VCRUNTIME140.dll' Error Message on Windows Computers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/spice-up-content-kapwings-meme-builder/"><u>Spice Up Content Kapwing's Meme Builder</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-effortless-video-creation-on-mac-using-macfra-by-movavi/"><u>Step-by-Step Guide to Effortless Video Creation on Mac Using MacFra by Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-windows-users-dealing-with-unresponsive-bluetooth-mice/"><u>Step-by-Step Solution for Windows Users Dealing With Unresponsive Bluetooth Mice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tip-resolving-set-user-settings-to-driver-failed-mistake/"><u>Troubleshooting Tip: Resolving 'Set User Settings To Driver Failed' Mistake</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlocking-full-potential-tips-for-msi-bios-driver-updates-on-windows-7810/"><u>Unlocking Full Potential: Tips for MSI BIOS Driver Updates on Windows 7/8/10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-tracked-fame-youtubes-pacey-video-breakthroughs/"><u>[Updated] In 2024, Fast-Tracked Fame YouTube's Pacey Video Breakthroughs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-in-the-app-store-think-twice-for-your-mac-security/"><u>ChatGPT in the App Store? Think Twice for Your Mac Security</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-class-not-registered-problems-in-windows-10-a-comprehensive-solution/"><u>Dealing with 'Class Not Registered' Problems in Windows 10 - A Comprehensive Solution</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-nord-3-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Nord 3 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-steps-to-enhance-your-gopro-cinematography/"><u>Essential Steps to Enhance Your Gopro Cinematography</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-realme-c55-by-fonelab-android-recover-data/"><u>How to recover lost data from Realme C55?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-intermittent-disconnections-with-your-usb-wireless-mouse-on-windows/"><u>How to Resolve Intermittent Disconnections with Your USB Wireless Mouse on Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-dramatize-depth-and-direct-focus-using-leading-lines-in-iphone-photography/"><u>In 2024, Dramatize Depth and Direct Focus Using Leading Lines in iPhone Photography</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-xr-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone XR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-sims-4-cannot-be-launched-a-comprehensive-solution-guide/"><u>Overcoming 'Sims 4 Cannot Be Launched': A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/power-fluctuation-addressed-and-stabilized-in-distribution-hub/"><u>Power Fluctuation Addressed and Stabilized in Distribution Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-resolve-launch-errors-of-new-world-issues-with-enabling-eas-easy-anti-cheat/"><u>Step-by-Step Guide to Resolve Launch Errors of New World - Issues with Enabling EA's Easy Anti-Cheat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unexpected-computer-shuts-off-heres-how-to-diagnose-and-resolve-it/"><u>Unexpected Computer Shuts Off? Here's How to Diagnose and Resolve It.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-booting-woes-discover-how-to-overcome-unexpected-freezes-upon-startup/"><u>Windows 10 Booting Woes? Discover How to Overcome Unexpected Freezes Upon Startup</u></a></li>
 </ul></div>
 

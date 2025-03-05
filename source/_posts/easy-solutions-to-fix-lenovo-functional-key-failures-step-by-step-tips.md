@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips
-date: 2025-02-09T19:33:32.218Z
-updated: 2025-02-16T18:37:24.326Z
+date: 2025-02-28T17:53:59.010Z
+updated: 2025-03-05T20:05:13.442Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
 
@@ -83,24 +79,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -119,10 +103,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -156,16 +136,19 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-crafting-professional-captions-with-top-online-aids-and-platforms/"><u>[New] In 2024, Crafting Professional Captions with Top Online Aids and Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/fusion-of-reality-and-fantasy-through-ai-unveiling-the-concept-in-8-key-aspects/"><u>Fusion of Reality & Fantasy Through AI: Unveiling the Concept in 8 Key Aspects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-crashing-in-total-war-rome-remastered-complete-guide/"><u>How to Fix Crashing in Total War: Rome Remastered - Complete Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a25-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A25 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/illuminate-the-path-ahead-strategies-for-dealing-with-monster-hunter-worldcups-blackout-at-boot-and-ensuring-a-colorful-comeback/"><u>Illuminate the Path Ahead - Strategies for Dealing with Monster Hunter: World'cups Blackout at Boot and Ensuring a Colorful Comeback</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/optimal-videography-minimizing-sound-interference-effectively/"><u>Optimal Videography Minimizing Sound Interference Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-malfunctioning-keyboard-typing-issue/"><u>Resolved: Malfunctioning Keyboard Typing Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-correcting-the-youtube-audio-renderer-malfunction-on-your-windows-10-computer/"><u>Step-by-Step Guide to Correcting the Youtube Audio Renderer Malfunction on Your Windows 10 Computer</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/standing-how-youtube-manages-post-upload-content-for-2024/"><u>Understanding How YouTube Manages Post-Upload Content for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zipfile-to-srt-conversion-guide-for-subtitle-extraction/"><u>Zipfile to Srt Conversion Guide for Subtitle Extraction</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-get-smart-capturing-your-screen-in-minutes/"><u>[Updated] 2024 Approved Get Smart Capturing Your Screen in Minutes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-tutorial-for-seamless-capture-of-youtube-streaming-across-devices/"><u>[Updated] Step-by-Step Tutorial for Seamless Capture of YouTube Streaming Across Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-conversations-and-sharing-in-facebook-world/"><u>2024 Approved Mastering Conversations and Sharing in Facebook World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011-media-playermp4/"><u>動画再生問題解決: Windows 10/11 Media PlayerでMP4が出せない原因と改善策</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/youtubeflac/"><u>圧縮フリーダウンロード: YouTube上のFLAC音楽バッチ操作方法</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-airdate-selection-podcast-release-tactics/"><u>In 2024, Mastering Airdate Selection Podcast Release Tactics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-strategizing-effective-movie-sneak-peeks/"><u>In 2024, Strategizing Effective Movie Sneak Peeks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-tecno-camon-30-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Tecno Camon 30 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-robustness-of-ccleaner-on-your-win11-pc/"><u>Recovering Robustness of CCleaner on Your Win11 PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sculpting-success-in-visual-communications-for-2024/"><u>Sculpting Success in Visual Communications for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/speeding-up-video-playback-unveiling-5-handy-no-cost-strategies-you-can-use-today/"><u>Speeding Up Video Playback - Unveiling 5 Handy, No-Cost Strategies You Can Use Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10dvd/"><u>Windows 10上のDVD再生 - 使いやすいガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11flv3-flv/"><u>Windows 11専用のFLV再生ガイド:最新の方法トップ3選択肢をご紹介 - FLV 再生</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xmedia-recode/"><u>XMedia Recodeでビデオアスペクト比を変更するシンプル方法 - チュートリアル</u></a></li>
 </ul></div>
 

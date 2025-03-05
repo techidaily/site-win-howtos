@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair Loud Fan Problems on Your PS4 for a Peaceful Gaming Experience
-date: 2025-02-12T20:41:31.636Z
-updated: 2025-02-16T23:30:24.179Z
+date: 2025-03-02T19:33:12.037Z
+updated: 2025-03-05T19:41:39.529Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ You may encounter an error with a code of **1603** when you are attempting to in
 
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2) Completely uninstall the same program installed
 
 If you have previously installed the same program (or its earlier version), the error can occur when you try to install the application again. If you want to install your program successfully, you need to perform a **clean uninstall** of the one installed on your computer. This means you need to remove all the temporary files and preferences it leaves in addition to the major program. Sometimes you may lose the desktop shortcut of a program due to some reasons and therefore you may forget that you have installed it. In this case you can go to**Control Panel**to check if it is still on your computer: Press**Win + R**, and enter “ _**control**_“;
@@ -46,10 +42,6 @@ Then you can check if the application is listed here. If it is, uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3) Start and re-register Microsoft Installer service
 
 There may be something going wrong with**Microsoft Installer service**and therefore resulting in error 1603\. You can fix the problem by (re)starting and re-registering Microsoft Installer service. To**start**Windows Installer service:**a)** Press**Win + R**and enter “_**services.msc**_“;
@@ -60,17 +52,9 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
@@ -98,25 +82,13 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **e)** Click on**Change Permissions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
@@ -145,19 +117,16 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-leading-10-best-list-for-free-video-conferencing-and-desktop-sharing/"><u>[New] In 2024, Leading 10-Best List for FREE Video Conferencing & Desktop Sharing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/op-8-endorsed-methods-for-video-marketing-success-for-2024/"><u>[New] Top 8 Endorsed Methods for Video Marketing Success for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-expert-tips-for-developing-high-quality-fb-videos/"><u>[Updated] 2024 Approved Expert Tips for Developing High-Quality FB Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-arcade-avenue-a-million-paths-in-play/"><u>[Updated] Arcade Avenue A Million Paths in Play</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-spectrum-of-light-with-windows-hdr-video-capabilities/"><u>2024 Approved Explore the Spectrum of Light with Windows' HDR Video Capabilities</u></a></li>
-<li><a href="https://blog-min.techidaily.com/all-time-cinematic-classics-discover-the-essential-top-1/"><u>All-Time Cinematic Classics: Discover the Essential Top 1</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-24-decoded-addressing-the-missing-device-warning-in-windows-versions/"><u>Error Code 24 Decoded: Addressing the Missing Device Warning in Windows Versions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-repair-a-corrupted-windows-store-cache/"><u>Resolved: How to Repair a Corrupted Windows Store Cache</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-addressing-insufficient-resource-allocation-warnings/"><u>Troubleshooting Guide: Addressing Insufficient Resource Allocation Warnings</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ultimate-guide-to-fixing-the-critical-error-109-in-microsoft-office/"><u>Ultimate Guide to Fixing the Critical Error 109 in Microsoft Office</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-preventing-unexpected-restarts-on-your-windows-10-machine/"><u>Understanding & Preventing Unexpected Restarts on Your Windows 10 Machine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-how-to-regain-access-to-missing-bluetooth-icon-on-windows-11-os/"><u>Unveiling How to Regain Access to Missing Bluetooth Icon on Windows 11 OS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-low-cost-video-editing-alternatives/"><u>Updated In 2024, Low-Cost Video Editing Alternatives</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-honor-play-8t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor Play 8T Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-beginners-guide-to-seo-skyrocket-your-view-count/"><u>[Updated] 2024 Approved A Beginner’s Guide to SEO Skyrocket Your View Count</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-make-your-instagram-posts-pop-with-correct-video-dimensions/"><u>[Updated] Make Your Instagram Posts Pop with Correct Video Dimensions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024mp42/"><u>「2024年リニューアル版でのツイッタービデオMP4への変換手順2種」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhance-your-home-cinema-experience-compatible-formats-for-watching-usb-stored-movies-on-an-lg-tv-without-a-glitch/"><u>Enhance Your Home Cinema Experience: Compatible Formats for Watching USB-Stored Movies on an LG TV without a Glitch</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-productivity-how-to-connect-two-displays-to-your-m-series-macbook-pro-a-step-by-step-guide/"><u>Enhance Your Productivity: How to Connect Two Displays to Your M-Series MacBook Pro - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flv/"><u>FLVビデオカット、回転、クロップを簡単に学ぶ - ステップバイステップガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/four-effective-techniques-for-video-downloading-from-dumpertnl-step-by-step-guide/"><u>Four Effective Techniques for Video Downloading From Dumpert.nl - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-business-visual-aids-to-enhance-your-meetings-for-2024/"><u>Free Business Visual Aids to Enhance Your Meetings for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/h264-2024-7/"><u>H264動画再生ソフト選び: 2024年度最新リコメンド! おすすめ無料プログラム7点</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/hidden-footage-techniques-redacting-personal-information-effectively/"><u>Hidden Footage Techniques Redacting Personal Information Effectively</u></a></li>
 </ul></div>
 

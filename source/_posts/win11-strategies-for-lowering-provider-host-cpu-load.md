@@ -1,7 +1,7 @@
 ---
 title: "Win11: Strategies for Lowering Provider Host CPU Load"
-date: 2025-02-09T16:41:54.561Z
-updated: 2025-02-17T01:18:16.332Z
+date: 2025-03-04T19:10:50.026Z
+updated: 2025-03-05T19:39:54.886Z
 tags:
   - win11
   - win10
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 3) Try your PS4 mic again to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 2: Update your sound card driver**
 
  If your microphone is not working when using it on a PC, you should update the audio driver to make sure there’s no problem communicating between the PC and the mic. There are two options to update your audio driver:[manually](#Way1) and[automatically](#Way2) .
@@ -84,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -105,17 +97,9 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ab2cba5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Output Device** and select **Headset Connected to Controller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ee7a8cb.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click  **Volume Control (Headphones)** , and set the  level to**maximum** .
 
@@ -130,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a88777dfbd.jpg)
 
 If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 4: Check the audio settings on your PC**
 
@@ -157,27 +137,15 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e27bd4f1bd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:**   The device name might not be Microphone and the icon might not be in the shape of a Microphone in your computer.
 
  4) Click **OK** to save your settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 2**
 
  1) Still on the**Sound** pane, click the **Recording**  tab. Click your default microphone then click the **Properties**  button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dee8cb09cc.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click the **Levels**  tab. Then slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
@@ -186,10 +154,6 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -231,19 +195,21 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-integration-facebook-livestream-and-roku-connected-tv/"><u>[New] In 2024, Seamless Integration Facebook Livestream & Roku Connected TV</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-key-elements-in-asmr-video-content/"><u>[New] Key Elements in ASMR Video Content</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-effortless-shuffle-of-your-youtube-playlists/"><u>[Updated] Effortless Shuffle of Your YouTube Playlists</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-affordable-subscriber-boost-buy-and-sell-youtube-views/"><u>[Updated] In 2024, Affordable Subscriber Boost Buy & Sell YouTube Views</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-youtube-file-extraction/"><u>[Updated] In 2024, Effortless YouTube File Extraction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-displays-that-dont-support-high-definition-content-protection-hdcp/"><u>Dealing With Displays That Don't Support High-Definition Content Protection (HDCP)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-startup-failures-your-comprehensive-solution-to-error-code-0xc000007b-on-application-launch/"><u>Fixing Startup Failures: Your Comprehensive Solution to Error Code 0xC000007B on Application Launch</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-airwaves-to-archives-expert-tips-on-recording-live-streams-for-2024/"><u>From Airwaves to Archives Expert Tips on Recording Live Streams for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-facebook-for-uhd-1080p-content/"><u>In 2024, Navigating Facebook for UHD (1080P) Content</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-motorola-edge-40-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Motorola Edge 40 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ating-online-content-the-merits-of-youtubes-ad-free-alternative-for-2024/"><u>Navigating Online Content The Merits of YouTube's Ad-Free Alternative for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredo-addressing-the-difficulty-in-achieving-eligibility/"><u>Teredo: Addressing the Difficulty in Achieving Eligibility</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-microsoft-outlook-error-0x80004005-the-unspecified-error-dilemma/"><u>Troubleshooting Guide for Microsoft Outlook Error 0X80004005 - The Unspecified Error Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstick-your-system-mastering-the-art-of-seamless-windows-11-updates/"><u>Unstick Your System: Mastering the Art of Seamless Windows 11 Updates</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>[New] How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-breakdown-of-mr-beasts-financial-powerhouse/"><u>[New] In 2024, Breakdown of Mr. Beast's Financial Powerhouse</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-knowledge-for-recording-movies-anywhere/"><u>[Updated] Essential Knowledge for Recording Movies Anywhere</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-professionals-choice-premium-youtube-cameras/"><u>[Updated] Professionals' Choice Premium YouTube Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-def-showdown-top-8k-tvs-rated-and-reviewed/"><u>In 2024, High-Def Showdown Top 8K TVs Rated and Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pctwitch-live-stream/"><u>PC上のTwitch Live Stream確認・記録・保管ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pcavi4/"><u>PC用のベスト無料Avi圧縮ソフト4推薦品</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pcaudacity/"><u>PCでAudacityを活用した上等なサウンドレコーディングと代替ソリューション</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-techniques-for-removing-the-last-thirty-seconds-on-pc-video-editing-tips-inside/"><u>Quick & Simple Techniques for Removing the Last Thirty Seconds on PC - Video Editing Tips Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-lwjgl-pixel-format-issue-a-comprehensive-guide/"><u>Resolving LWJGL Pixel Format Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shrink-your-videos-a-step-by-step-guide-to-achieving-less-than-50mb-sizes-on-pcs/"><u>Shrink Your Videos: A Step-by-Step Guide to Achieving Less than 50MB Sizes on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-methods-for-enhancing-video-quality-on-your-computer/"><u>Simple Methods for Enhancing Video Quality on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-converting-vob-files-to-mp3-format-with-no-hassle/"><u>Simple Steps: Converting VOB Files to MP3 Format with No Hassle</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/by-step-guide-to-free-youtube-downloads-without-apps/"><u>Step-by-Step Guide to Free YouTube Downloads Without Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-collection-11-complimentary-mobile-audio-modification-tools-for-both-ios-and-android-for-2024/"><u>Updated Premier Collection 11 Complimentary Mobile Audio Modification Tools for Both iOS and Android for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/windowsxcopy/"><u>エラー対処：Windows上でXCOPYコマンドを正常に動作させる方法</u></a></li>
 </ul></div>
 

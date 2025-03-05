@@ -1,7 +1,7 @@
 ---
 title: How To Address and Fix a Type 144 LiveKernelError
-date: 2024-08-19T07:45:27.101Z
-updated: 2024-08-20T07:45:27.101Z
+date: 2025-02-28T19:43:34.263Z
+updated: 2025-03-05T18:21:32.605Z
 tags:
   - win11
   - win10
@@ -71,15 +71,9 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 1. On your keyboard, press the **Windows** key and the **R** key at the same time, then type **devmgmt.msc**  and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the **Display adapters** category, then right-click your display card and select **Uninstall device** .  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for **Attempt to remove the driver for this device** and click **Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Then update your graphics card driver.
 
@@ -97,9 +91,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -111,9 +102,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -150,20 +138,8 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) !
@@ -180,9 +156,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Consider a system reset
 
  If the LiveKernelEvent with code 117 error still remains unfixed at this point, we’re afraid that the last resort would be a system reset. It wipes out all software incompatibilities and problems, it’s also the rule of thumb in telling a software problem from a hardware one: if the problem remains even after a system reset, then it’s definitely a hardware problem.
@@ -203,8 +176,6 @@ To do so, first visit the website of your GPU manufacturer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +183,24 @@ To do so, first visit the website of your GPU manufacturer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-revolutionize-your-online-presence-with-these-eight-strategies/"><u>[New] In 2024, Revolutionize Your Online Presence with These Eight Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-new-earnings-threshold-youtubes-500-rule/"><u>[New] In 2024, The New Earnings Threshold YouTube's $500 Rule</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mastering-podcast-name-selection-step-by-step-guide-plus-50plus-top-ideas-list/"><u>[Updated] 2024 Approved Mastering Podcast Name Selection Step-by-Step Guide + 50+ Top Ideas List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-legally-access-game-music-without-spending-money/"><u>[Updated] How to Legally Access Game Music Without Spending Money</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlock-your-phones-potential-with-ios-11-camera-tips-for-2024/"><u>[Updated] Unlock Your Phone's Potential with iOS 11 Camera Tips for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-guide-about-voice-memo/"><u>2024 Approved Ultimate Guide About Voice Memo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-solutions-for-fixing-media-not-recognized-in-windows-environment/"><u>DIY Solutions for Fixing Media Not Recognized in Windows Environment</u></a></li>
+<li><a href="https://win-dash.techidaily.com/elevate-your-app-management-top-3-methods-for-running-software-as-an-administrator-on-windows-11-and-10-platforms/"><u>Elevate Your App Management: Top 3 Methods for Running Software as an Administrator on Windows 11 & 10 Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208810066-eradicate-your-valorant-screen-shake-or-tear-problem-now/"><u>Eradicate Your Valorant Screen Shake or Tear Problem Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-keyboard-glitch-how-to-restore-spacebar-functionality-in-windows-11/"><u>Fixing the Keyboard Glitch: How to Restore Spacebar Functionality in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-zero-to-hero-launching-without-issues/"><u>From Zero to Hero: Launching without Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/searching-for-windows-hello-camera-fit/"><u>Searching for Windows Hello Camera Fit</u></a></li>
+<li><a href="https://article-posts.techidaily.com/secure-smooth-photo-viewing-w10-troubleshooting-tips-unveiled-for-2024/"><u>Secure Smooth Photo Viewing W10 Troubleshooting Tips Unveiled for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silencing-netflixs-noise-issues-simple-steps-to-perfect-playback/"><u>Silencing Netflix's Noise Issues: Simple Steps to Perfect Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-windows-10s-persistent-error-0xc1900208-during-updates-effective-solutions-unveiled/"><u>Tackling Windows 10'S Persistent Error 0Xc1900208 During Updates – Effective Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-undetected-wi-fi-on-your-windows-11-device/"><u>Troubleshooting Guide: Fixing Undetected Wi-Fi on Your Windows 11 Device</u></a></li>
+</ul></div>
 

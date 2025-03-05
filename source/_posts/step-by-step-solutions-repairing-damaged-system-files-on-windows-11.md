@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions: Repairing Damaged System Files on Windows 11"
-date: 2024-08-19T07:47:34.854Z
-updated: 2024-08-20T07:47:34.854Z
+date: 2025-02-28T18:00:59.295Z
+updated: 2025-03-05T20:14:47.725Z
 tags:
   - win11
   - win10
@@ -119,16 +119,10 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Open the app again to see if it goes fine.
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
@@ -143,9 +137,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -156,9 +147,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -167,9 +155,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fix 5: Disable iCloud
 
  Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
@@ -180,9 +165,6 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Open the app again to see if it goes fine.
 
 That’s it!
@@ -201,8 +183,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +190,26 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-exploring-dynamic-range-in-photos-auto-hdr-and-smart-hdr-modules-for-2024/"><u>[New] Exploring Dynamic Range in Photos Auto HDR and Smart HDR Modules for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-craft-funny-memes-via-adobe/"><u>[Updated] Craft Funny Memes via Adobe</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-blogging-basics-for-business-beginnings/"><u>2024 Approved Blogging Basics for Business Beginnings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-optimize-your-content-for-higher-views-and-more-likes/"><u>2024 Approved How to Optimize Your Content for Higher Views and More 'Likes'</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/download-the-fully-functional-hevc-video-codec-expansion-utility-no-registration-needed/"><u>Download the Fully Functional Hevc Video Codec Expansion Utility - No Registration Needed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-and-tips-for-resolving-wacom-drawing-pad-issues/"><u>Effective Fixes and Tips for Resolving Wacom Drawing Pad Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-restoring-functionality-to-a-malfunctioning-lenovo-keyboard/"><u>Expert Advice on Restoring Functionality to a Malfunctioning Lenovo Keyboard</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-can-you-safely-exchange-your-crypto-assets-with-a-wallet-status-tool-insights-from-yl-computing/"><u>How Can You Safely Exchange Your Crypto Assets with a Wallet Status Tool - Insights From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/league-of-legends-boost-trick-get-your-game-running-faster-now/"><u>League of Legends Boost Trick - Get Your Game Running Faster Now!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/master-the-solution-overcome-asus-computer-boot-issues-with-these-7-effective-strategies/"><u>Master the Solution: Overcome ASUS Computer Boot Issues with These 7 Effective Strategies</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-virtualdub-review-and-best-alternatives/"><u>New 2024 Approved Virtualdub Review and Best Alternatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-msvcr71-absence/"><u>Overcoming MSVCR71 Absence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-laptop-microphone-proven-fixes-to-get-it-back-on-track/"><u>Reviving Your Laptop Microphone: Proven Fixes to Get It Back on Track</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-to-get-your-usb-flash-drive-working-again/"><u>Simple Fixes to Get Your USB Flash Drive Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-error-in-writing-to-the-0x-referenced-memory-location/"><u>Solution Found: Error in Writing to the 0X Referenced Memory Location</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-overcoming-microsoft-wireless-display-adapter-connection-hurdles-on-windows-10/"><u>Success Story: Overcoming Microsoft Wireless Display Adapter Connection Hurdles on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-unresponsive-usb-keyboard-and-mouse-on-windows-7/"><u>Troubleshooting & Fixing: Unresponsive USB Keyboard & Mouse on Windows 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unfreezing-your-cyberpunk-adventure-remedies-to-restore-flow-in-the-digital-city/"><u>Unfreezing Your Cyberpunk Adventure: Remedies to Restore Flow in the Digital City</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Crashing in Total War: Rome Remastered - Complete Guide"
-date: 2024-08-19T07:47:39.439Z
-updated: 2024-08-20T07:47:39.439Z
+date: 2025-02-28T16:27:46.490Z
+updated: 2025-03-05T16:41:37.007Z
 tags:
   - win11
   - win10
@@ -83,9 +83,6 @@ To check the specs of your PC:
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run Steam as administrator
 
  Total War: ROME REMASTERED requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may encounter crash. So you should make sure to runSteam as administrator to see if it fixes the issue.
@@ -95,24 +92,9 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and type **epic** , then right-click on **Steam**  and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC promots for permissions to proceed.
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Verify game files on Steam
 
  The game may crash if the files are faulty or corrupt. Luckily, Steam has built the repair feature into the launcher itself, allowing you to fix little glitches on your own.
@@ -126,9 +108,6 @@ Here’s how:
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
 6. Re-launch Total War: ROME REMASTERED to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Allow Steam through firewall
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow Steam client through the firewall to make sure that the connection isn’t lost.
@@ -146,18 +125,12 @@ Here’s how:
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Install the latest patch
 
  The crashing issue could be a bug ensconced in the patches of the game. If this is the case, the developers would respond to this and address the issue with a new patch. So you can check out the latest patch to see if it helps fix the issue.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 7: Perform a clean boot
 
  Another possible cause for the Total War: ROME REMASTERED crashing issue is software conflict. If this is the case, you should perform a clean boot. A clean boot restarts Windows with a minimal set of drivers and startup programs, allowing you to narrow down the programs and servicies so that you could potentially pinpoint the offender.
@@ -167,9 +140,6 @@ Here are the steps to perform a clean boot:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Type or past **msconfig**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig-1.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
@@ -177,9 +147,6 @@ Here are the steps to perform a clean boot:
    * **If Total War: ROME REMASTERED stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Total War: ROME REMASTERED still crashes** , please continue to **Fix 8** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 8:**Reinstall Total War: ROME REMASTERED and Steam**
 
  If you’ve exhausted the fixes above but the issue still sticks around, then you should perhaps reinstall the game and Steam client to see if you could fix the problem.
@@ -196,8 +163,6 @@ Here are the steps to perform a clean boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +170,26 @@ Here are the steps to perform a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-easy-recording-studio-for-win10-desktops/"><u>[New] Easy Recording Studio for Win10 Desktops</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-avatar-makeover-building-your-cartoon-personality-for-2024/"><u>[Updated] Avatar Makeover Building Your Cartoon Personality for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-go-live-on-tiktok-on-computer-for-2024/"><u>[Updated] How to Go Live On TikTok On Computer for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-rising-star-how-jake-paul-conquered-youtube/"><u>2024 Approved Rising Star How Jake Paul Conquered YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-podcasters-guide-to-high-quality-home-recordings/"><u>2024 Approved The Podcaster’s Guide to High-Quality Home Recordings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-windows-system-faults-addressing-the-device-unavailable-issue-code-24/"><u>Diagnosing and Fixing Windows System Faults - Addressing the Device Unavailable Issue (Code 24)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-managing-microsofts-compatibility-telemetry-and-saving-storage-in-windows-11/"><u>Effective Solutions for Managing Microsoft's Compatibility Telemetry and Saving Storage in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-windows-could-not-install-fast-fixes-and-hacks/"><u>Expert Tips For Overcoming 'Windows Could Not Install': Fast Fixes & Hacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-successfully-addressing-windows-loadlibrary-failure-with-error-1114/"><u>Expert Tips for Successfully Addressing Windows 'LoadLibrary' Failure with Error 1114</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-unresponsive-touchscreen-in-windows-11-a-step-by-step-guide-to-5-solutions/"><u>Fix Your Unresponsive Touchscreen in Windows 11 - A Step-by-Step Guide to 5 Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-beginner-to-expert-in-using-chatgpt-best-practices-and-tips/"><u>From Beginner to Expert in Using ChatGPT: Best Practices and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-and-eliminate-the-infamous-red-screen-error-on-your-new-windows-11-pc/"><u>How to Fix and Eliminate the Infamous Red Screen Error on Your New Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-patch-your-system-fixing-the-windows-10-0x80nf0922-setback/"><u>How To Successfully Patch Your System: Fixing The Windows 10 0X80nf0922 Setback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-hidden-ios-command-tricks-for-an-ultra-powerful-iphone-experience-tips-from-zdnet/"><u>Mastering Hidden iOS Command Tricks for an Ultra-Powerful iPhone Experience - Tips From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-recovery-techniques-utilizing-sfc-and-dism-in-windows-11-repairs/"><u>Mastering Recovery Techniques: Utilizing SFC and DISM in Windows 11 Repairs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-self-care-with-asmr-sounds/"><u>Mastering the Art of Self-Care with ASMR Sounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-resolutions-for-rapid-cs-go-software-failures/"><u>Quick Resolutions for Rapid CS: GO Software Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-dell-bluetooth-mouse-how-to-fix-connection-issues/"><u>Reviving Your Dell Bluetooth Mouse: How To Fix Connection Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-s23-fe-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy S23 FE for Parents | Dr.fone</u></a></li>
+</ul></div>
 

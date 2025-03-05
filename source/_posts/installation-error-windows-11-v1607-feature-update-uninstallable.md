@@ -1,7 +1,7 @@
 ---
 title: "Installation Error: Windows 11 v1607 Feature Update Uninstallable"
-date: 2024-08-19T07:48:26.919Z
-updated: 2024-08-20T07:48:26.919Z
+date: 2025-03-04T19:49:43.897Z
+updated: 2025-03-05T16:13:33.166Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Fix 2: Disable background programs
 
  Games are usually CPU- and RAM-intensive, i.e., they occupy a large chunk of your computer processor and memory resources. When too many unnecessary applications run in the background when a game is on, your computer resources are strained and could crash if it reaches an extreme point. In this case, it’s suggested that you disable unnecessary background programs when playing games. To do so:
@@ -75,9 +68,6 @@ No advertising on the website.
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/task.jpg)
 3. Play the game and see if your computer still crashes. If so, please move on.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **On Windows 11:**
 
@@ -105,14 +95,8 @@ To verify the game’s files on Epic Games Launcher:
 1. On Epic Game Launcher, find the game with problem in your **Library** . Click **the three dots** on the right side of the game line and select**Manage** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-28.png)
 2. Click **Verify** to start verifying the game files.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4. When the validation is done, run your game again to see if it still cause your computer to crash.
 
 ### Ubisoft Connect
@@ -132,15 +116,9 @@ To verify the game’s files on Ubisoft Connect:
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then see if this game still crashes your computer. If so, please move on.
 
  If you’re using other game launcher, and you’re not sure how to verify the game files, please check the game launcher’s support manual or forum.
@@ -168,16 +146,10 @@ To verify the game’s files on Ubisoft Connect:
 
 ---
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Fix 5: On the hardware front
 
  If none of the above software-related methods help to stop your computer from crashing when playing a game, it’s possible that your computer hardware is the culprit. Here are some areas that you should pay extra attention to:
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5.1 – Run a memory check
 
  A faulty memory card is also known to cause a computer to crash. To see if this is causing your problem, you can run the built-in Windows Memory Diagnostic tool:
@@ -186,36 +158,21 @@ To verify the game’s files on Ubisoft Connect:
 2. Type **mdsched.exe** , then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-32.jpg)
 3. Click **Restart now and check for problems (recommended)** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **IMPORTANT: Make sure to save all your work before restarting.**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-57.jpg)
 4. Windows will run diagnosis automatically, which can take a few minutes. When it’s finished, your PC will reboot.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 5. The results will be shown on your desktop. If you don’t see any notification, right-click the **Start** menu then click **Event Viewer** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the crashing problem on your computer. Then please **[move on to the next method](#sfc)** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
 
 ---
@@ -245,9 +202,6 @@ To verify the game’s files on Ubisoft Connect:
 2. Type “cmd” and press**Ctrl+ Shift+ Enter** together to run Command Prompt as**administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt.jpg)
 3. Type **sfc /scannow** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/sfc.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
@@ -267,9 +221,6 @@ To verify the game’s files on Ubisoft Connect:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5.4 – Check your power supply
 
  Other than the issues mentioned above, insufficient power supply could also be the culprit to your computer crashes when playing a game problem.
@@ -296,8 +247,6 @@ To verify the game’s files on Ubisoft Connect:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -305,4 +254,24 @@ To verify the game’s files on Ubisoft Connect:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-mastery-in-motion-building-high-impact-gifs/"><u>[New] 2024 Approved Vimeo Mastery in Motion Building High-Impact GIFs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-introduction-to-vlogging-tools-for-getting-started/"><u>[New] Introduction to Vlogging Tools for Getting Started</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-create-brand-symbols-from-templates-at-no-cost/"><u>[Updated] Create Brand Symbols From Templates at No Cost</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-unveiling-the-top-10-facebook-video-platforms/"><u>[Updated] In 2024, Unveiling the Top 10 Facebook Video Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-visual-voyage-charting-a-course-through-costless-tiktok-landscapes/"><u>[Updated] In 2024, Visual Voyage Charting a Course Through Costless TikTok Landscapes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-download-and-use-logitech-g402-mouse-software-for-enhanced-play/"><u>Easy Steps to Download and Use Logitech G402 Mouse Software for Enhanced Play</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-unfreezing-the-windows-10-taskbar-effectively/"><u>Expert Tips for Unfreezing the Windows 10 Taskbar Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fortnite-fixes-for-gaming-without-supported-visuals-windows-edition/"><u>Fortnite Fixes for Gaming Without Supported Visuals: Windows Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-the-windows-update-0x80070652-issue/"><u>Quick Solutions for Resolving the Windows Update 0X80070652 Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-stalled-google-chrome-a-step-by-step-solution/"><u>Reviving Your Stalled Google Chrome: A Step-by-Step Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-mute-challenges-restoring-sound-for-a-flawless-twitch-stream/"><u>Solved: Overcoming Mute Challenges - Restoring Sound for a Flawless Twitch Stream</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-overcoming-common-minecraft-opengl-errors/"><u>Step-by-Step Solutions: Overcoming Common Minecraft OpenGL Errors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/techniques-to-update-drivers-in-vista-non-automatically/"><u>Techniques to Update Drivers in Vista Non-Automatically</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranked-3d-animation-tools-ideal-for-both-newbies-and-pros-free-vs-premium-options/"><u>Top-Ranked 3D Animation Tools: Ideal for Both Newbies and Pros - Free Vs. Premium Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-class-not-found-problems-in-windows-11/"><u>Troubleshooting and Solving 'Class Not Found' Problems in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-dell-computer-fixing-non-functional-usb-ports/"><u>Troubleshooting Dell Computer: Fixing Non-Functional USB Ports</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-update-failure-code-0x8024401c-on-microsoft-windows-systems/"><u>Understanding & Solving Update Failure: Code 0X8024401c on Microsoft Windows Systems</u></a></li>
+</ul></div>
 

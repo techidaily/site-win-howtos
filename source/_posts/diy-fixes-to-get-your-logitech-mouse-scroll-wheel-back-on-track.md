@@ -1,7 +1,7 @@
 ---
 title: DIY Fixes to Get Your Logitech Mouse Scroll Wheel Back on Track
-date: 2024-08-19T07:47:33.658Z
-updated: 2024-08-20T07:47:33.658Z
+date: 2025-03-03T19:33:51.870Z
+updated: 2025-03-05T18:49:12.102Z
 tags:
   - win11
   - win10
@@ -60,21 +60,12 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you turn off the battery charge threshold feature, your battery should be charging.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Perform a power reset on your laptop
 
 **Try performing a power reset on your laptop** to see if the battery not charging issue persists. Here is how to do it:
@@ -114,16 +105,10 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
 ### Fix 5: Update the driver for your battery management device
@@ -146,16 +131,10 @@ thumbnail: https://thmb.techidaily.com/307c74c604613a22f691edcf44e5f2764e78d11c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -177,8 +156,6 @@ Your battery should then be charging.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +163,20 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-drones-that-follow-you-back-top-10-drone-leaders-for-2024/"><u>[New] Drones That Follow You Back - Top 10 Drone Leaders for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2023s-largest-threaded-video-compilation-for-2024/"><u>[Updated] 2023'S Largest Threaded Video Compilation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capture-your-browser-journeenas-digital-diary-entries-for-2024/"><u>Capture Your Browser Journeenas Digital Diary Entries for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-inadequate-sound-settings-may-lead-to-subpar-audio-output-a-guide-from-yl-computing/"><u>How Inadequate Sound Settings May Lead to Subpar Audio Output - A Guide From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-directx-component-creation-obstacles-successfully/"><u>How to Overcome DirectX Component Creation Obstacles Successfully</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p55-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel P55 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/initiating-windows-11-successfully-remedies-for-persistent-freezing-at-startup/"><u>Initiating Windows 11 Successfully: Remedies for Persistent Freezing at Startup</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/social-network-harmony-integrating-instagram-and-facebook-for-2024/"><u>Social Network Harmony Integrating Instagram & Facebook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-unresponsive-external-devices-in-windows/"><u>Step-by-Step Guide to Fix Unresponsive External Devices in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208212180-stuck-on-a-pdf-that-wont-print-discover-swift-solutions-now/"><u>Stuck on a PDF That Won't Print? Discover Swift Solutions Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/touchpad-problems-heres-how-you-can-restore-functionality/"><u>Touchpad Problems? Here's How You Can Restore Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-fix-the-non-functioning-aoc-monitor-issue-on-windows-11/"><u>Troubleshooting Steps: How to Fix the Non-Functioning AOC Monitor Issue on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y77t? | Dr.fone</u></a></li>
+</ul></div>
 

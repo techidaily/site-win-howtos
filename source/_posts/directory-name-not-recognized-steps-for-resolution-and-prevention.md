@@ -1,7 +1,7 @@
 ---
 title: "'Directory Name Not Recognized': Steps for Resolution and Prevention"
-date: 2024-08-19T07:46:00.313Z
-updated: 2024-08-20T07:46:00.313Z
+date: 2025-03-03T19:13:36.654Z
+updated: 2025-03-05T19:19:08.920Z
 tags:
   - win11
   - win10
@@ -57,21 +57,12 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -86,9 +77,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -104,14 +92,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -126,8 +108,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +115,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-framework-elevating-your-mobile-screenshots-using-mobizen/"><u>[New] Detailed Framework Elevating Your Mobile Screenshots Using Mobizen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmony-and-rhythm-discover-the-best-15-youtube-educational-videos/"><u>[Updated] In 2024, Harmony & Rhythm Discover the Best 15 YouTube Educational Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[Updated] In 2024, How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-potential-expert-insights-into-hashtag-usage-on-facebook/"><u>[Updated] Unlocking Potential Expert Insights Into Hashtag Usage on Facebook</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-lava-blaze-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze 2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-windows-10-bluetooth-malfunctions-avoid-delays/"><u>Comprehensive Fixes for Windows 10 Bluetooth Malfunctions – Avoid Delays</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-honor-magic-6-pro-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-11-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Realme 11 Pro Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-strategies-to-combat-lag-issues-in-minecraft/"><u>In-Depth Strategies to Combat Lag Issues in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-past-the-challenge-effective-fixes-for-error-code-0x800f0922-on-windows-10-updates/"><u>Navigating Past the Challenge: Effective Fixes for Error Code 0X800F0922 on Windows 10 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209823055-resolve-laptop-screen-turn-off-problems-quickly-and-effectively/"><u>Resolve Laptop Screen Turn-Off Problems Quickly and Effectively!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-night-mode-solutions-for-windows-11-users-facing-display-issues/"><u>Restoring Night Mode: Solutions for Windows 11 Users Facing Display Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-tv-a-step-by-step-guide-to-restoring-netflix-sounds/"><u>Troubleshoot Your TV: A Step-by-Step Guide to Restoring Netflix Sounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-a-faulty-astro-a40-microphone-simple-fixes-to-try-first/"><u>Troubleshooting Guide for a Faulty Astro A40 Microphone - Simple Fixes to Try First</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-not-working-errors-on-vrchat/"><u>Troubleshooting Guide: Fixing 'Not Working' Errors on VRChat</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrading-your-samsung-smart-tv-a-step-by-nstep-guide/"><u>Upgrading Your Samsung Smart TV: A Step-by-nStep Guide</u></a></li>
+</ul></div>
 

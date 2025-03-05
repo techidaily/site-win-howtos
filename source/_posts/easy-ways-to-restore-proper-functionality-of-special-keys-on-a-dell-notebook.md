@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Restore Proper Functionality of Special Keys on a Dell Notebook
-date: 2025-02-15T22:16:30.401Z
-updated: 2025-02-16T20:15:19.888Z
+date: 2025-03-04T20:14:09.936Z
+updated: 2025-03-05T18:02:36.122Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -49,17 +45,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
@@ -77,10 +65,6 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -113,10 +97,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -148,22 +128,15 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-filmmaking-faceoff-hero-session-x-or-polaroid-cube/"><u>[New] Filmmaking Faceoff Hero Session X or Polaroid Cube?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>[Updated] Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-clip-weaver-workshop-for-2024/"><u>[Updated] Clip Weaver Workshop for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-solution-to-input-source-unavailable-error-on-your-screen/"><u>Complete Solution to 'Input Source Unavailable' Error On Your Screen</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-on-repairing-startup-problems-in-mozilla-thunderbird/"><u>Comprehensive Guide on Repairing Startup Problems in Mozilla Thunderbird</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-mouses-right-click-functionality-issues-in-windows-11/"><u>Fixing Your Mouse's Right Click Functionality Issues in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-c55-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme C55? Try These Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-class-registration-issues-in-windows-11-a-comprehensive-guide/"><u>How to Fix Class Registration Issues in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-device-not-found-message-with-code-24-in-windows-operating-systems/"><u>How to Fix the 'Device Not Found' Message with Code 24 in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-windows-1nce-it-starts-restarting-randomly/"><u>How to Fix Your Windows 1Nce It Starts Restarting Randomly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-0x800705b4-error-during-windows-11-updates/"><u>How to Overcome the Persistent 0X800705b4 Error During Windows 11 Updates</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-premium-top-11-list-audio-recording-essentials/"><u>In 2024, Premium Top 11 List - Audio Recording Essentials</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/leveraging-cookiebot-technology-for-advanced-web-analytics/"><u>Leveraging Cookiebot Technology for Advanced Web Analytics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-connection-woes-how-to-establish-a-bond-with-your-xbox-one-gaming-peripheral/"><u>Mastering Connection Woes: How to Establish a Bond with Your Xbox One Gaming Peripheral</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-meme-framework-essentials-for-2024/"><u>Prime Meme Framework Essentials for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-unable-to-locate-new-patches/"><u>Troubleshooting Tips for Windows Unable to Locate New Patches</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>Updated The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-efficient-obs-adjustments-on-cost-effective-computers/"><u>[Updated] In 2024, Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-book-trailers-you-wont-miss/"><u>2024 Approved The Ultimate Guide to Book Trailers You Won't Miss</u></a></li>
+<li><a href="https://win-data.techidaily.com/complete-tutorial-for-reinstating-missing-partitions-in-windows-1011-systems/"><u>Complete Tutorial for Reinstating Missing Partitions in Windows 10/11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-access-a-locked-drive-installation-folder-in-windows-11/"><u>How to Access a Locked Drive Installation Folder in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-solution-repairing-the-crimson-error-display/"><u>Mastering the Solution: Repairing the Crimson Error Display</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-errors-in-geforce-experience-retrieving-saved-preferences-now-fixed/"><u>Overcoming Errors in GeForce Experience - Retrieving Saved Preferences Now Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-non-responsive-lenovo-fn-buttons-step-by-step/"><u>Quick Fixes for Non-Responsive Lenovo FN Buttons - Step by Step</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-approach-to-saving-instagram-stories-for-2024/"><u>Step-by-Step Approach to Saving Instagram Stories for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-multimedia-sync-solution-for-apple-users-transfer-audio-visual-content-seamlessly-using-winx-mediatrans-pc-app/"><u>Ultimate Multimedia Sync Solution for Apple Users: Transfer Audio-Visual Content Seamlessly Using WinX MediaTrans PC App</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-troubleshooting-guide-efficient-fixes-for-nonfunctional-options/"><u>Windows 11 Troubleshooting Guide: Efficient Fixes for Nonfunctional Options</u></a></li>
 </ul></div>
 

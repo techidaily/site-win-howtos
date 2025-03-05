@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the COD WW2 Bug - Fixing Error Code N4220 Efficiently
-date: 2025-02-09T22:17:06.986Z
-updated: 2025-02-17T00:37:46.417Z
+date: 2025-03-03T20:17:06.074Z
+updated: 2025-03-05T16:12:03.608Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
 
  1)Press**Windows** key +**X** key together to open quick-access menu.  
@@ -45,20 +41,12 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
 
 4)Now set your WiFi hotspot again to see if the error has been fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2\. Check your wireless network adapter
 
@@ -95,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db867abdfc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now Microsoft will detect the update for you automatically.
 
  However, for some reason, Microsoft cannot always find the update for you. If you receive the message:**The best driver software for your device is already installed** , please try the next method to update the driver.
@@ -115,10 +99,6 @@ Now Microsoft will detect the update for you automatically.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
@@ -150,14 +130,15 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-liveaudiovideocasting-network/"><u>[New] LiveAudioVideocasting Network</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/baffled-by-sticky-keys-successfully-reinitialize-any-keyboard-in-no-time/"><u>Baffled by Sticky Keys? Successfully Reinitialize Any Keyboard in No Time</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-gaming-setups-in-small-packages-a-comprehensive-guide/"><u>Best Gaming Setups in Small Packages: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-the-disappearing-act-fix-your-windows-11-touchpad-cursor-issues/"><u>Eliminate the Disappearing Act: Fix Your Windows 11 Touchpad Cursor Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-safari-page-loading-problems-simple-steps-for-success/"><u>Fixing Safari Page Loading Problems - Simple Steps for Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209101959-how-to-restore-the-missing-d3dx939dll-file-and-fix-related-issues-quickly/"><u>How To Restore The Missing D3DX9_39.dll File & Fix Related Issues Quickly!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-play-40c-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-tips-for-eliminating-stutter-and-boosting-frame-rate-in-the-game-outriders/"><u>Top Tips for Eliminating Stutter & Boosting Frame Rate in the Game Outriders</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-art-of-digital-cropping-on-websites-for-2024/"><u>Unveiling the Art of Digital Cropping on Websites for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-overcame-my-obs-game-recordings-persistent-darkness-flaw/"><u>How I Overcame My OBS Game Recording's Persistent Darkness Flaw</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-play-your-iphone-videos-backward-for-2024/"><u>How to Play Your iPhone Videos Backward for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-arrow-keys-not-working-try-these-fixes/"><u>Keyboard Arrow Keys Not Working? Try These Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-through-miracast-hurdles-how-to-resolve-non-supporting-device-warnings-in-the-upcoming-year/"><u>Navigating Through Miracast Hurdles: How to Resolve Non-Supporting Device Warnings in the Upcoming Year</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-red-dead-redemption-2-load-issues-how-to-adjust-and-upgrade-your-page-file/"><u>Overcome Red Dead Redemption 2 Load Issues: How to Adjust and Upgrade Your Page File</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picture-perfect-on-the-move-quick-color-correction/"><u>Picture Perfect on the Move Quick Color Correction</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-stealth-13-laptop-evaluation-unparalleled-advancements-in-thin-and-light-computing/"><u>Razer Blade Stealth 13 Laptop Evaluation: Unparalleled Advancements in Thin and Light Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-travel-vpn-services-comprehensive-reviews-by-tech-experts-pcmag/"><u>Top-Rated Travel VPN Services : Comprehensive Reviews by Tech Experts | PCMag</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-ebook-secrets-navigating-through-drm-removal-strategies-starting-with-page/"><u>Unlocking eBook Secrets: Navigating Through DRM Removal Strategies, Starting with Page</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-code-0x80070643-your-ultimate-fix-guide-for-windows-updates-and-installation-hiccups/"><u>Unraveling Code 0X80070643: Your Ultimate Fix Guide for Windows Updates and Installation Hiccups</u></a></li>
 </ul></div>
 

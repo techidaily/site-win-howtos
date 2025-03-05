@@ -1,7 +1,7 @@
 ---
 title: PrintScreen Problems Solved? A Guide to Restoring Snipping Features on Modern Windows OS
-date: 2025-02-10T16:43:40.380Z
-updated: 2025-02-17T01:07:28.948Z
+date: 2025-03-01T19:54:18.152Z
+updated: 2025-03-05T19:58:33.785Z
 tags:
   - win11
   - win10
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Windows-10-Update-and-Security.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Troubleshoot > Additional troubleshooters** .
 
 **3)** Find**Windows Update** and click**Run the troubleshooter** .
@@ -88,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
  You can use the **[Malicious Software Removal Tool](https://www.microsoft.com/en-us/download/malicious-software-removal-tool-details.aspx)**  released by Microsoft. Download the tool and run it on your computer. Then follow its instructions to complete the scanning process. If this method works for you, you won’t see the error on your Windows Update again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Restart your Windows Update associated services
 
  You may get the service not running error because the services associated with your Windows Update are disabled. You should restart those services and see if this fixes your error. To do so:
@@ -106,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb31524505e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
@@ -118,17 +106,9 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Double click**Windows Update** .
 
@@ -137,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
 
@@ -153,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 **2)** Type “_services.msc_ ” and click**OK**  to open the_Services_ snap-in.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**Windows Update** and then click**Stop** (the service).
 
@@ -188,17 +160,9 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9e7d372aa0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update**  button next to your each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
 
@@ -219,18 +183,16 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-captivating-your-audience-writing-podcast-intros/"><u>[New] Captivating Your Audience Writing Podcast Intros</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-reverse-artisan-group-for-2024/"><u>[New] Reverse Artisan Group for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-much-video-can-64gb128gb-hold/"><u>[Updated] How Much Video Can 64GB/128GB Hold?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-narrative-techniques-for-impactful-documentaries/"><u>2024 Approved Narrative Techniques for Impactful Documentaries</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211341649-9781667469607-ecrire-pour-etre-heureux/"><u>Écrire pour être heureux | Free Book</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps-for-2024/"><u>Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-accelerate-league-of-legends-download-speed-and-avoid-lag/"><u>How to Accelerate League of Legends Download Speed and Avoid Lag</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme 12 Pro+ 5G Phone Without Password?</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-memoji-talk-make-memoji-video-on-your-own-for-2024/"><u>New How to Make Memoji Talk-Make Memoji Video On Your Own for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206319956-shift-key-issues-heres-the-step-by-step-fix-that-works/"><u>Shift Key Issues? Here's the Step-by-Step Fix That Works</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-how-to-re-sync-your-unresponsive-xbox-one-controller/"><u>Ultimate Solution: How To Re-Sync Your Unresponsive Xbox One Controller</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-microsofts-0x80004005-error-a-step-by-step-tutorial/"><u>Understanding and Correcting Microsoft's 0X80004005 Error: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-the-reasons-behind-ps4-loud-operation-and-fixing-them/"><u>Understanding the Reasons Behind PS4 Loud Operation & Fixing Them</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-deciphering-old-facebook-threads-a-step-by-step-mobile-and-desktop-guide/"><u>[Updated] Deciphering Old Facebook Threads A Step-by-Step Mobile & Desktop Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiant-palette-adjuster/"><u>2024 Approved Radiant Palette Adjuster</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-e-importar-video-mkv-a-formato-wma-gratuito-online-con-convertidor-de-videos-movavi/"><u>Descargar E Importar Video MKV a Formato WMA Gratuito Online Con Convertidor De Videos - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flac-mkv-mp4-online-flacmkv-s-movavi/"><u>FLAC, MKV에서 MP4 바로 제공 – 컴퓨터에서 Online FLAC/MKV 변환 방법s: Movavi 리소스</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-online-movikovar-webovy-konverze-mov-em-vob/"><u>Gratis Online movi.kovář Webový - Konverze MOV Em VOB</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-m6-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco M6 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-hunt-the-ultimate-list-of-10-apartment-search-sites/"><u>Navigating the Hunt: The Ultimate List of 10 Apartment-Search Sites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010242351-speed-at-impact-the-higher-the-speed-the-more-severe-the-damage-tends-to-be/"><u>Speed at Impact - The Higher the Speed, the More Severe the Damage Tends to Be</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-top-picks-for-screen-capture-software-expert-analysis-and-movavi-review/"><u>The Top Picks for Screen Capture Software : Expert Analysis and Movavi Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-vos-pgm-en-sites-web-gratuits-a-laide-de-movavi-guide-complet-pour-la-conversion-et-le-deploiement-en-ligne/"><u>Transformez Vos PGM en Sites Web Gratuits À L'aide De Movavi - Guide Complet Pour La Conversion Et Le Déploiement en Ligne.</u></a></li>
 </ul></div>
 

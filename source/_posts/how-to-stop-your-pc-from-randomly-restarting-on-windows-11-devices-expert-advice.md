@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your PC From Randomly Restarting on Windows 11 Devices: Expert Advice"
-date: 2025-02-15T20:19:52.169Z
-updated: 2025-02-16T18:35:47.423Z
+date: 2025-03-03T18:56:55.536Z
+updated: 2025-03-05T16:47:18.636Z
 tags:
   - win11
   - win10
@@ -44,17 +44,9 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Check if you’re able to see the TV as a second monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you can’t see your TV on the screen , follow steps below:
 
@@ -63,19 +55,11 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
 After that, check to see if Windows can detect your TV.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
 
@@ -92,10 +76,6 @@ After that, check to see if Windows can detect your TV.
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
 
@@ -126,18 +106,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-tiktok-speak-up-a-step-by-step-instructional-guide/"><u>[New] 2024 Approved TikTok Speak Up A Step-by-Step Instructional Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-step-by-step-tutorial-for-fixing-the-red-screen-anomaly-on-windows-10-computers/"><u>A Step-by-Step Tutorial for Fixing the Red Screen Anomaly on Windows 10 Computers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/efficiently-transforming-vob-video-files-into-high-quality-mp4-format/"><u>Efficiently Transforming VOB Video Files Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://os-tips.techidaily.com/enhance-your-security-discover-expressvpns-latest-addition-a-password-management-tool/"><u>Enhance Your Security: Discover ExpressVPN's Latest Addition - A Password Management Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-connection-a-step-by-step-guide-to-when-steam-is-offline/"><u>Fixing Your Connection: A Step-by-Step Guide to When Steam Is Offline</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-a05s-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy A05s to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-visibility-of-your-touchpad-cursor-on-windows-11-systems/"><u>How to Restore Visibility of Your Touchpad Cursor on Windows 11 Systems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-perfecting-cinematography-using-luts-for-polished-colors/"><u>In 2024, Perfecting Cinematography Using Luts for Polished Colors</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-podcast-dominance-through-effective-seo-strategies/"><u>In 2024, Podcast Dominance Through Effective SEO Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-wireless-screen-projector-connectivity-woes-on-windows-10-heres-the-solution/"><u>Microsoft Wireless Screen Projector Connectivity Woes on Windows 10? Here's the Solution!</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-enhancing-musical-journeys-implementing-softening-effects-in-soundtracks/"><u>New 2024 Approved Enhancing Musical Journeys Implementing Softening Effects in Soundtracks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-system-resources-managing-msmpengineexe-high-cpu-drain-on-windows-11-machines/"><u>Optimizing System Resources: Managing MsMpEngine.exe High CPU Drain on Windows 11 Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-microsoft-store-failure-to-open-issue/"><u>Solution Guide for Microsoft Store Failure to Open Issue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-tiktok-age-update-made-simple-user-friendly-techniques/"><u>[Updated] 2024 Approved TikTok Age Update Made Simple User-Friendly Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-editing-tutorial-mastering-video-cuts/"><u>2024 Approved YouTube Editing Tutorial Mastering Video Cuts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-the-problematic-scenario-of-no-xinput13dll-found/"><u>Addressing the Problematic Scenario of No XINPUT1_3.dll Found</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decode-the-blurry-typeface-dilemma-optimizing-visuals-for-windows-11/"><u>Decode the Blurry Typeface Dilemma: Optimizing Visuals for Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-optimal-windows-11-recovery-with-built-in-tools-sfc-and-dism-explained/"><u>Guide to Optimal Windows 11 Recovery with Built-In Tools: SFC & DISM Explained</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-t2x-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo T2x 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-zte-axon-40-lite-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track ZTE Axon 40 Lite Location by Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-to-galaxy-s24plus-converter-convert-mkv-for-galaxy-s24plus-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Galaxy S24+ converter - convert MKV for Galaxy S24+</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/my-weekend-with-apple-vision-pro-top-3-insights-revealed-a-comprehensive-review/"><u>My Weekend with Apple Vision Pro: Top 3 Insights Revealed - A Comprehensive Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-issues-for-windows-11-and-7-users-fix-crackling-sounds/"><u>Troubleshooting Audio Issues for Windows 11 & 7 Users - Fix Crackling Sounds</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-cut-trim-and-edit-the-best-free-and-paid-android-video-editors/"><u>Updated 2024 Approved Cut, Trim, and Edit The Best Free and Paid Android Video Editors</u></a></li>
 </ul></div>
 

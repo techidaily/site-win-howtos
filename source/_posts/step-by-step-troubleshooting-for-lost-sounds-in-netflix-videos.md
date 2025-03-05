@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Troubleshooting for Lost Sounds in Netflix Videos
-date: 2024-08-19T07:46:43.863Z
-updated: 2024-08-20T07:46:43.863Z
+date: 2025-03-02T18:32:15.715Z
+updated: 2025-03-05T19:05:46.808Z
 tags:
   - win11
   - win10
@@ -59,25 +59,15 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run SFC
 
  Another fix you can try is to run the SFC(a built-in Windows file check & repair tool) scan since the missing/corrupted system files can be the culprit for the volume control not working problem.
@@ -87,9 +77,6 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
  Click **Yes**   when prompted to confirm.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -105,15 +92,9 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -129,8 +110,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +117,26 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/solved-crash-the-high-cpu-usage-of-your-system-with-these-tricks-no-matter-if-you-are-using-windows-10linux/"><u>[Solved] Crash the High CPU Usage of Your System with These Tricks, No Matter if You Are Using Windows 10/Linux</u></a></li>
+<li><a href="https://techidaily.com/solved-restore-windows-photo-viewer-in-windows-10/"><u>[SOLVED] Restore Windows Photo Viewer in Windows 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-10-tools-to-shield-photographic-work/"><u>[Updated] 2024 Approved Top 10 Tools to Shield Photographic Work</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-every-angle-in-a-single-shot-versus-depth-driven-photography/"><u>[Updated] Every Angle in a Single Shot versus Depth-Driven Photography</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-tips-for-effective-youtube-end-screen-usage/"><u>[Updated] In 2024, Tips for Effective YouTube End Screen Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-problem-on-youtube-for-windows-11-heres-how-you-can-solve-it/"><u>Audio Problem on YouTube for Windows 11? Here’s How You Can Solve It!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-itel-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Itel</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/effective-solutions-for-when-your-pc-cannot-read-or-detect-a-cddvd-drive/"><u>Effective Solutions for When Your PC Cannot Read or Detect a CD/DVD Drive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-for-correcting-the-your-device-has-been-lost-glitch-in-overwatch-gameplay/"><u>Expert Advice for Correcting the 'Your Device Has Been Lost' Glitch in Overwatch Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-huion-sketchpen-back-on-track-fast-fix-guide-in-5-steps/"><u>Get Your Huion Sketchpen Back on Track - Fast Fix Guide in 5 Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-registering-class-files-in-windows-11-overcoming-common-hurdles/"><u>Guide to Registering Class Files in Windows 11 – Overcoming Common Hurdles</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-when-your-minecraft-lan-isnt-working/"><u>How to Restore Functionality When Your Minecraft LAN Isn't Working</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029741635-mp4/"><u>MP4ファイル再生を解決するストリップテクニックについて学ぶ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-update-obstacle-a-step-by-step-solution-for-error-code-0x80070643/"><u>Overcoming Window's Update Obstacle: A Step-by-Step Solution for Error Code 0X80070643</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211494794-resolved-unplanned-automatic-reboots-on-windows-10-fixed/"><u>Resolved: Unplanned Automatic Reboots on Windows 10 – Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-fixing-windows-could-not-connect-to-system-event-notification-errors/"><u>Solution Steps: Fixing 'Windows Could Not Connect to System Event Notification' Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-getting-dolby-atmos-up-and-running-in-windows-11-and-10/"><u>Step-by-Step Solution: Getting Dolby Atmos Up and Running in Windows 11 & 10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-collection-free-3d-text-psds-galore-for-2024/"><u>Ultimate Collection FREE 3D Text PSDs Galore for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot a Black ASUS Camera on Windows 11 Systems
-date: 2025-02-10T17:42:37.501Z
-updated: 2025-02-17T00:37:43.320Z
+date: 2025-03-04T16:49:59.288Z
+updated: 2025-03-05T16:21:30.908Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 4. **[Update your battery driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update your BIOS](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your battery
 
  In many cases, a poor connection between the battery and motherboard is the root cause of this issue. To see if that’s the problem for you, you need to reinstall your battery. Here is how to do it:
@@ -50,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -61,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 **1)** On your keyboard, press the**Windows logo** key and the**R** key at the same time to open the Run dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Type**devmgmt.msc** and click**OK** .
 
@@ -118,15 +106,7 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your battery driver
 
@@ -146,15 +126,7 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your BIOS
 
@@ -204,14 +176,16 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-how-can-i-use-twitter-archive-in-2024/"><u>[New] How Can I Use Twitter Archive, In 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/12-best-sites-for-downloading-yt-template-videos/"><u>12 Best Sites for Downloading YT Template Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-the-google-chrome-alarm-a-step-by-step-guide-to-scam-recovery/"><u>Conquering The Google Chrome Alarm: A Step-by-Step Guide to Scam Recovery</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/deleting-youtube-content-a-step-by-step-guide/"><u>Deleting YouTube Content A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-googles-pixelbook-go-top-notch-chrome-experience-for-a-hefty-price-tag/"><u>In-Depth Look at Google's Pixelbook Go: Top-Notch Chrome Experience for a Hefty Price Tag</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-invalid-value-in-registry-issues-when-launching-photos-app-on-windows-10/"><u>Solving 'Invalid Value in Registry' Issues when Launching Photos App on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-repair-of-non-functional-usb-port-on-hp-laptop-models-step-by-step/"><u>Successful Repair of Non-Functional USB Port on HP Laptop Models - Step by Step</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-answer-to-solving-glexttexturencompression-level-format-problem-in-opengl-error-1281/"><u>The Definitive Answer to Solving GL_EXT_texture_ncompression Level Format Problem in OpenGL (Error 1281)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-in-half-life-alyx-lag-and-stutter-solutions-resolved/"><u>Troubleshooting PC Issues in Half-Life: Alyx - Lag & Stutter Solutions [Resolved]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dslr-vs-mirrorless-optimal-choice-for-video-production/"><u>[Updated] 2024 Approved DSLR vs Mirrorless Optimal Choice for Video Production</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-exploring-the-nuances-in-physical-gesture-detection/"><u>2024 Approved Exploring the Nuances in Physical Gesture Detection</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-htc-vive-the-pinnacle-of-immersive-3d-playing-experiences/"><u>2024 Approved HTC Vive The Pinnacle of Immersive 3D Playing Experiences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204874201-fix-there-was-a-problem-resetting-your-pc-error-on-windows-10-solved/"><u>Fix “There Was a Problem Resetting Your PC” Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-10-sound-settings-issue-solved/"><u>Fix Windows 10 Sound Settings Issue - Solved!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-face-off-choosing-between-chatgpt-and-notion-ai-for-optimal-performance/"><u>Generative AI Face-Off: Choosing Between ChatGPT and Notion AI for Optimal Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-windows-10-brightness-dialing-issues-successfully/"><u>How To Repair Windows 10 Brightness Dialing Issues Successfully</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-13-mini-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 13 mini? Heres the Best Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-speakers-ended-fix-for-computer-headphones/"><u>Silent Speakers Ended - Fix for Computer-Headphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-7-bluetooth-activation-simple-steps-and-troubleshooting-solutions/"><u>Windows 7 Bluetooth Activation - Simple Steps and Troubleshooting Solutions</u></a></li>
 </ul></div>
 

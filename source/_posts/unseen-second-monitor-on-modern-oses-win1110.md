@@ -1,7 +1,7 @@
 ---
 title: Unseen Second Monitor on Modern OSes (Win11/10)
-date: 2025-02-13T22:35:23.921Z
-updated: 2025-02-16T18:55:06.595Z
+date: 2025-03-02T16:48:48.849Z
+updated: 2025-03-05T18:04:47.531Z
 tags:
   - win11
   - win10
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 2. Here you can confirm if all of your displays are detected. If not, click on the**Multiple displays** section and select**Detect** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-display-detect.jpg)
 3. If yes, drag the three monitors to match your display configuration. (You can click**Identify** if you don’t know which screen is which.)
 
@@ -71,16 +67,8 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run.jpg)
 2. Expand Display adapters. Right-click your graphics card driver and select**Disable device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/disable.jpg)
 3. Wait for about 5 seconds for the device to be disabled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Right-click the graphics driver again and select**Enable device** .
 5. Your third monitor should be detected right now.
@@ -88,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 **Note:** If you have two graphics cards under Display adapters, you can disable NVIDIA or AMD cards and enable them back.  
   
  If it doesn’t work for you this way, you can just disable your Intel card and let NVIDIA or AMD card driver do the job. Then reconnect your third monitor to check if it’s working now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -138,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/DE-update-all-AMD-6.0.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Check if your third monitor can be detected now.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -183,22 +163,10 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -281,17 +249,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-level-webcams-the-ultimate-choice-for-your-podcasts/"><u>[Updated] Pro Level Webcams The Ultimate Choice for Your Podcasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-shedding-the-gloom-brighten-your-iphone-vids/"><u>[Updated] Shedding the Gloom Brighten Your Iphone Vids</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-and-repairing-the-persistent-0x802n40017-issue-in-windows-updates/"><u>Bypassing and Repairing the Persistent 0X802n40017 Issue in Windows Updates</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-pova-6-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Pova 6 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/nba-2k21-green-hiccup-patch-details-and-how-its-gone/"><u>NBA 2K21 Green Hiccup: Patch Details & How It's Gone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209290778-no-more-pdf-printing-woes-swift-solutions-that-work/"><u>No More PDF Printing Woes - Swift Solutions That Work</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-sluggish-battlenet-speeds-essential-fixes-and-hacks/"><u>Overcoming Sluggish Battle.net Speeds : Essential Fixes and Hacks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-troubleshooting-steps-when-microsoft-store-doesnt-launch/"><u>Successful Troubleshooting Steps When Microsoft Store Doesn't Launch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-full-compendium-of-psvr2-game-announcements-explore-all-titles-revealed-to-the-public-thus-far/"><u>The Full Compendium of PSVR2 Game Announcements: Explore All Titles Revealed to the Public Thus Far</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-techniques-for-radeon-wattman-resets-to-factory-settings-problems-and-fixes/"><u>Troubleshooting Techniques for 'Radeon WattMan Resets to Factory Settings': Problems & Fixes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/upcoming-tech-tidbit-potential-march-launch-for-apples-macbook-air-ipad-pro-and-ipad-air-exclusive-on-zdnet/"><u>Upcoming Tech Tidbit: Potential March Launch for Apple's MacBook Air, iPad Pro and iPad Air | Exclusive on ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-exploring-filmora-magic-top-10-intriguing-edits/"><u>[New] Exploring Filmora Magic Top 10 Intriguing Edits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-innovation-in-action-reviewing-vidmas-new-screen-recording-features/"><u>[New] In 2024, Innovation in Action? Reviewing Vidma's New Screen Recording Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-screen-recording-steps-for-perfection-for-2024/"><u>[Updated] Essential Screen Recording Steps for Perfection for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unlocking-data-in-twitter-archives-for-2024/"><u>[Updated] Unlocking Data in Twitter Archives for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-to-eliminate-delayed-boot-times-in-windows-7/"><u>Essential Fixes to Eliminate Delayed Boot Times in Windows 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-zero-error-code-in-windows-11-with-simple-tricks/"><u>Fix Zero Error Code in Windows 11 with Simple Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-spectre-x360-troubleshooting-and-fixing-your-overheat-issues/"><u>HP Spectre X360: Troubleshooting & Fixing Your Overheat Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-common-dll-stop-error-in-windows-a-complete-solution-guide/"><u>Resolve the 'Common DLL Stop' Error in Windows: A Complete Solution Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-mscorwksdll-file-missing-a-step-by-step-guide/"><u>Resolving 'mscorwks.dll' File Missing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-techniques-for-fixing-windows-update-error-0x80070652-swiftly-and-effectively/"><u>Simplified Techniques for Fixing Windows Update Error 0X80070652 Swiftly and Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-this-site-cant-be-reached-chrome-error/"><u>Solved: “This Site Can’t Be Reached” Chrome Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-the-d3d9-graphics-device-failure-problem/"><u>Step-by-Step Solution for the D3D9 Graphics Device Failure Problem</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/tips-for-downloading-instagram-media-on-ios-devices-for-2024/"><u>Tips for Downloading Instagram Media on iOS Devices for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-2024-long-distance-wireless-routers-buyers-guide/"><u>Top 2024 Long-Distance Wireless Routers: Buyer's Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-hang-ups-in-windows-11-systems-a-comprehensive-guide/"><u>Troubleshooting and Solving Hang-Ups in Windows 11 Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c55s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme C55s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-usb-to-hdmi-adaptor-functioning-expert-diagnosis-and-repairs/"><u>Why Isn't My USB to HDMI Adaptor Functioning? Expert Diagnosis and Repairs</u></a></li>
 </ul></div>
 

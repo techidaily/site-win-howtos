@@ -1,7 +1,7 @@
 ---
 title: "Getting Your Surface Pen Back on Track: A Fix-It Guide"
-date: 2024-08-19T07:45:49.622Z
-updated: 2024-08-20T07:45:49.622Z
+date: 2025-03-03T16:45:15.359Z
+updated: 2025-03-05T16:18:47.594Z
 tags:
   - win11
   - win10
@@ -64,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Turn off the**Help improve Chrome’s features and performance** option
 
  Google Chrome has a default setting that will automatically send diagnostic information to Google when your Chrome is crashed. Google uses this information to release a better Chrome version in the future.  
@@ -78,15 +75,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.10-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  3) Click**Sync and Google Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/turn-off.jpg)
@@ -99,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Method 3: Reset Google Chrome to default settings
 
  Google Chrome has an option that can reset Chrome to default settings. This function won’t affect your saved bookmarks or passwords. It will make Chrome back to default configurations and remove all the settings that might cause this unresponsive error.
@@ -118,16 +103,10 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click**Reset settings** to reset Google Chrome.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Restart Chrome and open a URL in the third-party app to check the error will appear or not.
 
 ---
@@ -142,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the open Window, click**Clear browsing data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
@@ -166,18 +142,12 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.5-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  2) Under the**Shortcut** tab, add`“--process-per-site”` in the Target box and then click**Apply** .  
  Next, a window will appear. Click**Continue** , then click**OK** .  
 **Note** : There’s a space before`“--process-per-site”` .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Restart Chrome and open a URL in the third-party app to check whether the error will appear or not.
 
 **Note** : If this method works for you, you should start Chrome with this shortcut every time.
@@ -200,18 +170,12 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Rename Default folder into_Default backup_ .
 
  5) Relaunch your Google Chrome. It’s now reset. Open a URL in the third-party app to check the error will appear or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Method 7: Update your Google Chrome
 
  Updating your Google Chrome to the latest version can help you solve many issues.  
@@ -232,9 +196,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap821-1024x665.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click on Google Chrome and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/uninstall-1.jpg)
@@ -255,8 +216,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +223,21 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-skyline-your-contents-search-trajectory-key-youtube-seo-tips-1-11/"><u>[Updated] 2024 Approved Skyline Your Content's Search Trajectory Key YouTube SEO Tips (1-11)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-church-live-streaming-services-uncovered/"><u>[Updated] In 2024, Best Church Live Streaming Services Uncovered</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-editing-in-garageband/"><u>[Updated] Mastering the Art of Editing in GarageBand</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-overcoming-user-profile-service-failures-for-smooth-windows-1011-logins/"><u>Expert Guide: Overcoming User Profile Service Failures for Smooth Windows 10/11 Logins</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-inadequate-system-resources-for-service-delivery-successfully/"><u>How to Overcome Inadequate System Resources for Service Delivery Successfully</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-leveraging-multiple-channels-to-boost-online-visibility/"><u>In 2024, Leveraging Multiple Channels to Boost Online Visibility</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-7-sluggish-booting-problems-a-step-by-step-guide/"><u>Solving Windows 7 Sluggish Booting Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-gaming-troubles-tips-for-resolving-installupdate-errors-successfully/"><u>Steam Gaming Troubles: Tips for Resolving Install/Update Errors Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-scanning-documents-from-your-printer-to-your-pc/"><u>Step-by-Step Guide: Scanning Documents From Your Printer to Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-solutions-for-reducing-gpu-load-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Solutions for Reducing GPU Load by the Desktop Window Manager on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fix-non-supported-input-delays-in-monitor-displays/"><u>Troubleshooting: Fix Non-Supported Input Delays in Monitor Displays</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-split-screen-video-editing-made-easy-free-online-and-offline-solutions/"><u>Updated Split Screen Video Editing Made Easy Free Online and Offline Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+</ul></div>
 

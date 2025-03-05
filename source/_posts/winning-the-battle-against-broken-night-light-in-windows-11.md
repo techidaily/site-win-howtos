@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Broken Night Light in Windows 11
-date: 2025-02-09T22:04:44.846Z
-updated: 2025-02-16T16:18:15.663Z
+date: 2025-03-04T17:56:30.222Z
+updated: 2025-03-05T16:15:45.643Z
 tags:
   - win11
   - win10
@@ -41,17 +41,9 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Turn-Windows-features-on-or-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down on the pop-up Windows features window. Find and uncheck the box of **Microsoft Print to PDF** . Then click **OK**  to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-uncheck-Microsoft-Print-to-PDF.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Reboot your Windows.
 
@@ -59,17 +51,9 @@ thumbnail: https://thmb.techidaily.com/8e9871ece440ba59c8d9840801e94460c09fbc87b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Check-Microsoft-Print-to-PDF.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now your print to PDF should work properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Enable there are no comma in the file name you enter
 
@@ -114,10 +98,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click on the button**Set as default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Set-as-default-1200x803.jpg)
@@ -134,10 +114,6 @@ Now your print to PDF should work properly.
  1) On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box. Type **control panel** and hit Enter.
 
 ![open the Control Panel using the command](https://images.drivereasy.com/wp-content/uploads/2021/05/open-the-Control-Panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
@@ -165,10 +141,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Tick on **Replace the current driver** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/14.jpg)
@@ -176,10 +148,6 @@ Now your print to PDF should work properly.
  10) Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  11) You have restored the Microsoft Print to PDF. Click **Finish**  to complete the process.
  You can use it properly now.
@@ -189,10 +157,6 @@ Now your print to PDF should work properly.
  1) On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box. Type **control panel**  and hit Enter.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
@@ -217,10 +181,6 @@ Now your print to PDF should work properly.
  7) Click**Add manually** next to The printer that I want isn’t listed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-The-printer-that-I-want-isnt-listed-1200x743.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Tick**Add a local printer or network printer with manual settings** , then click**Next** .
 
@@ -257,22 +217,20 @@ Now your print to PDF should work properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-unraveling-the-latest-features-of-lgs-360-camera-series/"><u>[Updated] Unraveling the Latest Features of LG's 360 Camera Series</u></a></li>
-<li><a href="https://games-able.techidaily.com/breaking-down-the-concept-of-dual-mode-monitors/"><u>Breaking Down the Concept of Dual-Mode Monitors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-touchpad-to-respond-fixing-scroll-issues-effectively/"><u>Getting Your Touchpad to Respond: Fixing Scroll Issues Effectively</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/grundzahlenlernbuch-deutsch-ab-nummer-1-bis-100-lernen/"><u>Grundzahlenlernbuch: Deutsch Ab Nummer 1 Bis 100 Lernen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723201428080-how-to-fix-oculus-hardware-error-2024/"><u>How to Fix Oculus Hardware Error - 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-k11x-phone-by-drfone-android/"><u>How to Reset a Locked Oppo K11x Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-constant-connectivity-for-a-frequently-dropping-mouse/"><u>How To Restore Constant Connectivity for a Frequently Dropping Mouse</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-x8b-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor X8b to Another | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-xiaomi-redmi-note-12t-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi Note 12T Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-y36-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo Y36 to iPad | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210064509-9781071550250-megan-en-de-fietser/"><u>Megan en de Fietser | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-audio-issues-fixing-the-logitech-g930-earbuds/"><u>Resolving Audio Issues: Fixing the Logitech G930 Earbuds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-dll-dilemma-msvcr71/"><u>Resolving DLL Dilemma - MSVCR71</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-excessive-disk-space-consumed-by-microsoft-telemetry-in-windows-10/"><u>Resolving the Issue of Excessive Disk Space Consumed by Microsoft Telemetry in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-getting-miracast-to-work-on-systems-with-incorrect-graphic-card-support/"><u>Troubleshoot and Fix: Getting Miracast to Work on Systems with Incorrect Graphic Card Support</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-razer-keyboard-illumination-issues/"><u>Troubleshooting Your Razer Keyboard Illumination Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlocking-startech-potential-across-old-and-new-oss/"><u>Unlocking StarTech Potential Across Old and New OSs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-2023-how-to-download-facebook-status-videos/"><u>[New] 2024 Approved 2023 | How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-picks-non-intrusive-android-recorders/"><u>[Updated] Top Picks Non-Intrusive Android Recorders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726223262950-vocwma-movavi/"><u>網上免費VOC音頻改造WMA格式 - Movavi解析器功能比較</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210382029-9781774816257-abraham-lincoln/"><u>Abraham Lincoln | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-honor-magic-vs-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor Magic Vs 2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-trocar-a-sua-face-em-videos-os-aplicativos-mais-eficientes-e-usando-seo-para-o-google/"><u>Como Trocar a Sua Face Em Vídeos: Os Aplicativos Mais Eficientes E Usando SEO Para O Google</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209262610-desktop-icon-disappearance-in-windows-11-heres-how-you-can-resolve-it/"><u>Desktop Icon Disappearance in Windows 11? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12T Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-depth-review-screenflow-full-package-for-mac/"><u>In-Depth Review ScreenFlow Full Package for Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726223691225-movavi-video-editor/"><u>Movavi Video Editorに優遇価格での正規購入 - 信頼性とセキュリティを保証！</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-face-swap-revolution-the-top-apps-for-iphone-and-android/"><u>New Face Swap Revolution The Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-the-401-unauthorized-web-page-issue/"><u>Solving the Mystery of the '401 Unauthorized' Web Page Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-des-fichiers-wav-en-videos-3gp-libres-de-droits-solutions-fibzwp-rapides-avec-movavi/"><u>Transformez Des Fichiers WAV en Vidéos 3GP Libres De Droits - Solutions Fibzwp Rapides Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/udviklingen-af-movavis-folgemaengde-tilbagebetalingspolitik-en-laerebog-for-forretningshjemmer/"><u>Udviklingen Af Movavis Følgemængde Tilbagebetalingspolitik - En Lærebog for Forretningshjemmer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webm-aac/"><u>무료 강조를 사용한 Webm 파일을 AAC 형식으로 바꾸기 - 모바비</u></a></li>
 </ul></div>
 

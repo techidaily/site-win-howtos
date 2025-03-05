@@ -1,7 +1,7 @@
 ---
 title: Guide to Restore Keyboard Letters That Aren't Responding in Windows 10 & 11
-date: 2024-08-19T07:48:39.306Z
-updated: 2024-08-20T07:48:39.306Z
+date: 2025-02-26T17:31:37.377Z
+updated: 2025-03-05T16:34:40.788Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
@@ -54,9 +51,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your keyboard driver
 
  This**keyboard lag** issue may also occur if you have the wrong or corrupt keyboard driver. So you should update these drivers to to see if it fixes the problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -71,10 +65,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -85,9 +75,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Run DISM
 
  Sometimes this keyboard delay problem happens because of corruption and misconfigurations on your computer. If that’s the case, you’ll have to**run**   **DISM** to check and fix the error.
@@ -95,15 +82,9 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, type a few words and see if it registers as expected.
@@ -123,8 +104,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +111,24 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-decoding-igtv-video-statistics-for-better-insights/"><u>[New] In 2024, Decoding IGTV Video Statistics for Better Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-discover-the-power-of-5-editors-beyond-youtubes-boundaries/"><u>[New] In 2024, Discover the Power of 5 Editors Beyond Youtube's Boundaries</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-instagrams-restrictions-for-larger-posts/"><u>[New] In 2024, Navigating Instagram's Restrictions for Larger Posts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>[Updated] 2024 Approved Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-embark-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger/"><u>[Updated] 2024 Approved Embark on a Wanderlust Adventure Becoming A Professional Travel Vlogger</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-making-fx-magic-a-novices-step-into-animated-worlds/"><u>[Updated] 2024 Approved Making FX Magic A Novice's Step Into Animated Worlds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battleye-service-installation-issues-resolved-update-available/"><u>BattlEye Service Installation Issues Resolved - Update Available</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-steam-file-access-denied-problem/"><u>How to Fix Steam File Access Denied Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719294305886-ignite-performance-gains-in-winoutlook-today/"><u>Ignite Performance Gains in WinOutlook, Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-x50-gt-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor X50 GT to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-numbers-via-chatai/"><u>Navigating Numbers via ChatAI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-no-signal-screen-issue-a-comprehensive-guide/"><u>Resolving 'No Signal' Screen Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-non-functional-fn-keys-a-step-by-step-approach-for-asus-laptop-users/"><u>Solution Guide for Non-Functional Fn Keys: A Step-by-Step Approach for ASUS Laptop Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-troubleshooting-unknown-usb-device-detected-and-port-reset-failures-on-windows-11/"><u>Solving the Mystery: Troubleshooting 'Unknown USB Device Detected' And Port Reset Failures on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-walkthrough-correcting-error-0x80070490-during-windows-updates/"><u>Step-by-Step Walkthrough: Correcting Error 0X80070490 During Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-correct-the-error-in-com-surrogate-service-and-prevent-crashes/"><u>Steps to Correct the 'Error in COM Surrogate Service' And Prevent Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/user-profile-service-malfunction-heres-how-to-fix-login-issues-on-your-windows-pc/"><u>User Profile Service Malfunction? Here's How to Fix Login Issues on Your Windows PC</u></a></li>
+</ul></div>
 

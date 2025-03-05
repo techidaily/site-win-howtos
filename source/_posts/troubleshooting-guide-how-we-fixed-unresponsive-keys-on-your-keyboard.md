@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - How We Fixed Unresponsive Keys on Your Keyboard
-date: 2025-02-09T23:21:19.699Z
-updated: 2025-02-16T17:28:42.750Z
+date: 2025-02-27T19:18:57.806Z
+updated: 2025-03-05T20:14:52.549Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
@@ -62,23 +58,11 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
@@ -95,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -118,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 1. On your keyboard, press the**Windows logo key + Ctrl + O** at the same time to turn on the**On-Screen Keyboard** .
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
 
@@ -151,10 +127,6 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  That’s it. Hopefully, this post helped you resolve the arrow keys not working issue. If you have any questions or suggestions, feel free to leave us a comment below.
@@ -176,19 +148,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-superior-audio-modification-software-with-enchanting-features/"><u>[New] In 2024, Superior Audio Modification Software with Enchanting Features</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-simplified-processes-generating-your-podcasts-rss-feed-for-2024/"><u>[New] Simplified Processes Generating Your Podcast's RSS Feed for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unleash-your-editing-skills-changing-backdrops-in-3-ways-on-tiktok/"><u>[New] Unleash Your Editing Skills Changing Backdrops in 3 Ways on TikTok</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-the-art-of-photo-color-correction/"><u>[Updated] In 2024, Mastering the Art of Photo Color Correction</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oneplus-ace-2-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring OnePlus Ace 2 PC | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/high-dynamic-range-battle-black-hero5-and-sj7/"><u>High Dynamic Range Battle Black Hero5 & SJ7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y02t-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y02T to Protect Your Individual Information</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-effortless-solutions-to-clear-windows-error-code-31/"><u>Mastering Fixes: Effortless Solutions to Clear Windows Error Code 31</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723201792480-pdf-printing-issues-uncover-easy-and-fast-remedies-here/"><u>PDF Printing Issues? Uncover Easy and Fast Remedies Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209201603-resolving-high-cpu-usage-by-msmpengexe-on-windows-10-solved/"><u>Resolving High CPU Usage by MsMpEng.exe on Windows 10 - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-guide-for-overcoming-error-1068-in-windows-expert-advice-included/"><u>The Ultimate Fix Guide for Overcoming Error 1068 in Windows – Expert Advice Included</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-the-foundations-of-virtual-storytelling-for-2024/"><u>Unveiling the Foundations of Virtual Storytelling for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-projector-not-responding-heres-the-solution/"><u>Windows 11 Projector Not Responding? Here's the Solution!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aximizing-profits-from-a-million-viewer-baseline/"><u>[New] Maximizing Profits From a Million-Viewer Baseline</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-expert-techniques-for-manipulating-iphone-photos/"><u>[Updated] 2024 Approved Expert Techniques for Manipulating iPhone Photos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-enriched-browsing-experience-with-these-top-5-chrome-tools/"><u>[Updated] In 2024, Enriched Browsing Experience with These Top 5 Chrome Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-photomontage-artisans-blueprint/"><u>[Updated] The PhotoMontage Artisan's Blueprint</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-superior-desktop-images-in-windows-11/"><u>Achieving Superior Desktop Images in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/configuration-complete-one-resource-still-silent/"><u>Configuration Complete; One Resource Still Silent</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-repair-guide-recognizing-and-restoring-unresponsive-usb-devices/"><u>DIY Repair Guide: Recognizing and Restoring Unresponsive USB Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-to-reducing-svchostexe-cpu-usage-overload-in-windows-11/"><u>Easy Guide to Reducing svchost.exe CPU Usage Overload in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-224003-master-these-simple-fixes-for-seamless-video-views/"><u>Error Code 224003 - Master These Simple Fixes for Seamless Video Views</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208794691-expert-fixes-for-windows-10-not-shutting-down-now-resolved/"><u>Expert Fixes for Windows 10 Not Shutting Down - Now Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-high-graphics-load-from-dwm-in-windows-11-a-comprehensive-guide/"><u>Fixing High Graphics Load From DWM in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-windows-10-microsoft-store-error-code-0x80073cf9-a-step-by-step-guide/"><u>How to Overcome the Windows 10 Microsoft Store Error Code 0X80073CF9: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS Max System Issues? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oneplus-ace-3-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from OnePlus Ace 3 to iPad | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-daily-dose-of-joy-top-15-online-anime-shows/"><u>In 2024, Your Daily Dose of Joy Top 15 Online Anime Shows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-graphics-on-win11-with-latest-hp-drivers/"><u>Optimize Graphics on Win11 with Latest HP Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-lenovo-thinkphone-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Lenovo ThinkPhone Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-touchpad-scrolls-in-windows-11-solutions-and-fixes/"><u>Troubleshooting Unresponsive Touchpad Scrolls in Windows 11 - Solutions & Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-mouse-cursor-vanishes-troubleshooting-and-fixes/"><u>Windows 11 Mouse Cursor Vanishes: Troubleshooting and Fixes</u></a></li>
 </ul></div>
 

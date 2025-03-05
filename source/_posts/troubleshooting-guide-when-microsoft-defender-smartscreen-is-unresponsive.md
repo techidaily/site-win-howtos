@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Microsoft Defender SmartScreen Is Unresponsive"
-date: 2024-08-19T07:47:28.624Z
-updated: 2024-08-20T07:47:28.624Z
+date: 2025-02-27T19:08:06.132Z
+updated: 2025-03-05T20:04:31.111Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 If your computer still can’t boot correctly, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 2: Check the RAM
 
  Your computer might be unresponsive during the startup process when your RAMs are not well installed, or in some cases, one or more of your RAM modules or RAM slots is faulty.
@@ -69,9 +66,6 @@ RAM looks like this:
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Solution 3: Reset BIOS Settings
 
  When you’re booting up your computer, BIOS instructs it on how to boot up the operating system. And improper BIOS settings can cause computer boot issues.
@@ -88,9 +82,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
@@ -111,9 +102,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
@@ -122,9 +110,6 @@ The CMOS battery looks like this
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 5: Repair Corrupted System Files
 
  Computer boot issues are likely to occur when certain system files get corrupted somehow. To see if there’s any broken or missing system files, there are two tool you can use：
@@ -163,16 +148,10 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 6: Perform a Fresh Install
 
  If none of the solutions works for you, you may have to[**do a clean reinstallation of Windows 10**](https://tools.techidaily.com/drivereasy/download/) . Note that this will wipe all files and data that you’ve stored on the computer.
@@ -185,8 +164,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +171,24 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-entry-point-not-found-error-in-windows/"><u>[FIXED] Entry Point Not Found Error in Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-precise-mac-photo-tips-mastering-five-quick-and-effective-methods/"><u>[New] In 2024, Precise Mac Photo Tips Mastering Five Quick and Effective Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-exceptional-counsel-premium-ringtone-developers/"><u>2024 Approved Exceptional Counsel Premium Ringtone Developers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-tecno-pova-6-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Tecno Pova 6 Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/celebrating-stop-motion-excellence-top-15-films/"><u>Celebrating Stop-Motion Excellence Top 15 Films</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-2/"><u>Destiny 지미 2 시작 중에 일시 불확인 상태에서 깨어나다는 방법</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultimate-convenience-with-a-discounted-multipurpose-10-port-docking-station-exclusive-offer-on-gadgetgurustorecom/"><u>Experience Ultimate Convenience with a Discounted, Multipurpose 10-Port Docking Station | Exclusive Offer on GadgetGuruStore.com</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-setup-aborted-due-to-access-denied-when-executing-files-locally/"><u>Guide to Fixing 'Setup Aborted Due To Access Denied' When Executing Files Locally</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hassle-free-remedies-to-get-past-windows-updates-stagnation-at-no-progress/"><u>Hassle-Free Remedies to Get Past Windows Update's Stagnation at No Progress</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207855632-how-to-fix-windows-update-error-code-0x8024002e-easily/"><u>How to Fix Windows Update Error Code 0X8024002E Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-apex-legends-easy-anti-cheat-problem-in-minutes/"><u>How to Resolve Apex Legends Easy Anti-Cheat Problem in Minutes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-keeping-the-joyful-jokes-techniques-to-download-tweets-animated-content/"><u>In 2024, Keeping the Joyful Jokes Techniques to Download Tweets’ Animated Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/simplifying-video-workflows-with-showmores-top-recording-tool-for-2024/"><u>Simplifying Video Workflows with ShowMore's Top Recording Tool for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unobtrusive-and-cost-effective-rexing-v1-a-complete-dashcam-evaluation/"><u>The Unobtrusive and Cost-Effective Rexing V1 - A Complete DashCam Evaluation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-or-unresponsive-fn-keys-on-an-asus-device/"><u>Troubleshooting Stuck or Unresponsive Fn Keys on an ASUS Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11s-malfunctioning-screen-brightness-feature/"><u>Troubleshooting Windows 11'S Malfunctioning Screen Brightness Feature</u></a></li>
+</ul></div>
 

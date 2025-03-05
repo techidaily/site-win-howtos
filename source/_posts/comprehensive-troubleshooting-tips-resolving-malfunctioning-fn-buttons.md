@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Troubleshooting Tips: Resolving Malfunctioning Fn Buttons"
-date: 2024-08-19T07:46:08.314Z
-updated: 2024-08-20T07:46:08.314Z
+date: 2025-03-02T16:20:08.474Z
+updated: 2025-03-05T19:09:15.663Z
 tags:
   - win11
   - win10
@@ -59,23 +59,11 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Locate and double-click on**Windows Audio** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
@@ -105,14 +93,8 @@ Here’s how:
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -128,8 +110,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +117,21 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-strategies-for-successful-mukbang-production/"><u>[Updated] 2024 Approved Essential Strategies for Successful Mukbang Production</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quintessential-scores-in-8-distinct-movie-spheres/"><u>[Updated] Quintessential Scores in 8 Distinct Movie Spheres</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-mastery-elevate-your-content-with-smart-tag-techniques/"><u>[Updated] YouTube Mastery Elevate Your Content with Smart Tag Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-pova-5-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Pova 5 Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-fortnite-on-an-unsupported-graphics-card-under-windows/"><u>How to Fix Fortnite on an Unsupported Graphics Card Under Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-print-screen-capability-on-your-pc-windows-10-and-11/"><u>How to Restore Print Screen Capability on Your PC (Windows 10 and 11)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-12-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme 12 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-twitch-community-etiquette-tips-and-tricks-for-beginners/"><u>Navigating Twitch Community Etiquette: Tips and Tricks for Beginners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-nonfunctional-spacebar-keys-on-your-windows-11-pc/"><u>Step-by-Step Guide: Resolving Nonfunctional Spacebar Keys on Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/synchronized-success-audio-meets-visual-in-films-for-2024/"><u>Synchronized Success Audio Meets Visual in Films for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-shutdown-syndrome-games-cause-crashes/"><u>System Shutdown Syndrome: Games Cause Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-windows-1903-feature-update-failures/"><u>Troubleshooting Guide: Windows 1903 Feature Update Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-console-dreams-choose-windows-for-games/"><u>Unlocking Your Console Dreams: Choose Windows for Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/webcam-captures-that-wow-top-strategies-unleashed/"><u>Webcam Captures that Wow Top Strategies Unleashed</u></a></li>
+</ul></div>
 

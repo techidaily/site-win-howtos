@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Overcome Persistent Reboot Cycles when Closing Your Windows 10 System
-date: 2024-08-19T07:48:06.888Z
-updated: 2024-08-20T07:48:06.888Z
+date: 2025-02-26T18:34:49.845Z
+updated: 2025-03-05T19:59:09.913Z
 tags:
   - win11
   - win10
@@ -75,16 +75,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612ab2f0c2c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Settings…** under the **Startup and Recovery** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612b02ca5c0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612bede01ba.jpg)
@@ -107,16 +101,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and hopefully the annoying auto-restart problem has gone by now. If the problem still persists, please move on to**Fix 4** , below.
@@ -129,9 +117,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the**High performance** option >**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
@@ -150,9 +135,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Check for hardware issues
 
  Overheating and faulty hardwares can also be responsible for your**computer keeps restarting** problem. So you can check the following hardware to troubleshoot the issue:
@@ -177,8 +159,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +166,23 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/armonizing-your-tunes-step-by-step-playlist-crafting-for-web-and-mobile-users/"><u>[New] Harmonizing Your Tunes Step-by-Step Playlist Crafting for Web & Mobile Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-direct-to-device-converting-youtube-tracks-for-idevices-for-2024/"><u>[Updated] Direct to Device Converting YouTube Tracks for iDevices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/achieve-maximum-fps-top-strategies-to-upgrade-game-performance-in-windows-11/"><u>Achieve Maximum FPS: Top Strategies to Upgrade Game Performance in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-code-0xc0000098-problem-in-windows-systems/"><u>Diagnosing and Fixing the 'Code 0Xc0000098' Problem in Windows Systems</u></a></li>
+<li><a href="https://solve-help.techidaily.com/discovering-your-computers-hardware-and-os-info-a-comprehensive-guide-by-yl-computing/"><u>Discovering Your Computer's Hardware & OS Info: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-clandestine-fb-live-observer/"><u>In 2024, Clandestine FB Live Observer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-12-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 12 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/quick-start-guide-to-lunapic-professionalism/"><u>Quick-Start Guide to LunaPic Professionalism</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-start-the-windows-update-process-successfully/"><u>Resolved: How to Start the Windows Update Process Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revolutionizing-efficiency-find-out-why-this-tool-is-exceptionally-swift/"><u>Revolutionizing Efficiency: Find Out Why This Tool Is Exceptionally Swift</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-f4v-video-format-into-mp4/"><u>Step-by-Step Guide: Transforming F4V Video Format Into MP4</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-power-of-video-endorsements-in-advertising/"><u>The Power of Video Endorsements in Advertising</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-11x-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme 11X 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-restore-your-lamp-safeguards-immediately/"><u>Troubleshooting: Restore Your LAMP Safeguards Immediately</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-from-keyboard-issues-how-to-get-your-keys-typing-again-in-windows-os/"><u>Unstuck From Keyboard Issues: How to Get Your Keys Typing Again in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wacom-pen-issues-resolved-tips-for-restoring-functionality-on-windows-11-and-10/"><u>Wacom Pen Issues Resolved: Tips for Restoring Functionality on Windows 11 and 10</u></a></li>
+</ul></div>
 

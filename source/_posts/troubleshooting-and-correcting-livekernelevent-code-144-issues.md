@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2025-02-12T01:20:38.157Z
-updated: 2025-02-16T16:16:52.821Z
+date: 2025-02-26T17:51:55.563Z
+updated: 2025-03-05T19:47:25.616Z
 tags:
   - win11
   - win10
@@ -60,19 +60,11 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -84,17 +76,9 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -103,10 +87,6 @@ To make sure you’ve this setting disabled:
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
@@ -156,24 +136,15 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-essential-insights-on-youtube-tvs-unique-features/"><u>[New] 2024 Approved Essential Insights on YouTube TV's Unique Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-high-speed-top-8-screenshots-compilation-for-2024/"><u>[New] High-Speed Top 8 Screenshots Compilation for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-spectacular-ensemble-photos-plus-music-videos/"><u>[New] In 2024, Spectacular Ensemble Photos + Music, Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-rapid-renders-of-powerpoint-plays-for-2024/"><u>[Updated] Rapid Renders of PowerPoint Plays for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eradicating-scam-alerts-solutions-for-google-chromes-fake-critical-error/"><u>Eradicating Scam Alerts: Solutions for Google Chrome's Fake Critical Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/game-on-solving-your-origin-software-errors-for-an-uninterrupted-experience/"><u>Game On! Solving Your Origin Software Errors for an Uninterrupted Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-casting-functionality-on-windows-10-a-step-by-step-solution/"><u>How to Restore Casting Functionality on Windows 10 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>In 2024, Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/magix-video-pro-x-review-for-2024/"><u>Magix Video Pro X Review for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-stability-overcoming-frequent-crashes-in-tales-of-arise/"><u>Mastering Stability: Overcoming Frequent Crashes in Tales of Arise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-device-not-found-error-code-24-on-windows-1087/"><u>Resolving 'Device Not Found' Error Code 24 on Windows 10/8/7</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-watch3-review-a-perfect-blend-of-retro-charm-and-modern-innovations/"><u>Samsung Galaxy Watch3 Review: A Perfect Blend of Retro Charm and Modern Innovations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solving-minecrafts-troublesome-error-code-5/"><u>Step-by-Step Guide: Solving Minecraft’s Troublesome Error Code 5</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-reno-10-pro-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Reno 10 Pro 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-overcoming-slow-shutdown-woes-in-windows-11-systems/"><u>Troubleshooting and Overcoming Slow Shutdown Woes in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-issues-using-sfcdism-tools-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Issues Using SFC/DISM Tools – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-constant-usb-device-unrecognized-message/"><u>Understanding and Repairing the Constant 'USB Device Unrecognized' Message</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-svchostexe-navigating-netsvcs-and-addressing-excessive-network-consumption/"><u>Understanding svchost.exe: Navigating Netsvcs & Addressing Excessive Network Consumption</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-exclusive-zero-cost-visual-frames/"><u>[New] Strategies for Exclusive Zero-Cost Visual Frames</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-handbook-of-gopro-time-lapse-photography-excellence/"><u>[New] The Complete Handbook of GoPro Time-Lapse Photography Excellence</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-choose-wisely-best-border-tools-for-stylizing-instagram-photos/"><u>[Updated] 2024 Approved Choose Wisely Best Border Tools for Stylizing Instagram Photos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-rhythm-revelations-mastering-music-for-visual-storytelling/"><u>[Updated] Rhythm Revelations Mastering Music for Visual Storytelling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gain-superior-gpt-4-insights-on-the-lowest-investment-with-copilot/"><u>Gain Superior GPT-4 Insights on the Lowest Investment with Copilot</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rotating-videos-using-windows-movie-maker-a-step-by-step-guide-and-other-options/"><u>Rotating Videos Using Windows Movie Maker: A Step-by-Step Guide and Other Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-integrating-sound-into-your-pcs-screen-captures/"><u>Simple Steps: Integrating Sound Into Your PC's Screen Captures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-techniques-for-shrinking-your-quicktime-media-files/"><u>Simplified Techniques for Shrinking Your QuickTime Media Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sneak-peek-into-upcoming-videos-preview-features-explained/"><u>Sneak Peek Into Upcoming Videos: Preview Features Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-processor-performance-index-of-2024-comprehensive-cpu-ratings/"><u>Top Processor Performance Index of 2024: Comprehensive CPU Ratings</u></a></li>
 </ul></div>
 

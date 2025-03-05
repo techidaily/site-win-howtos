@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Deal with Excessive Energy on a Hub Connection"
-date: 2024-08-19T07:49:24.169Z
-updated: 2024-08-20T07:49:24.169Z
+date: 2025-02-26T16:10:28.307Z
+updated: 2025-03-05T20:17:59.566Z
 tags:
   - win11
   - win10
@@ -48,9 +48,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,16 +62,10 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -86,24 +77,15 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Troubleshoot hardware issues
 
  If none of the fixes works for you, it’s time to check for potential hardware issues.
@@ -128,8 +110,6 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +117,23 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-pinnacle-video-artist-audio-visual-choreography/"><u>[New] 2024 Approved Pinnacle Video Artist Audio-Visual Choreography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-innovative-advanced-gaming-monitoring-tools-for-a-better-experience/"><u>[Updated] In 2024, Innovative, Advanced Gaming Monitoring Tools for a Better Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-easy-to-follow-obs-setup-on-thriftier-tech/"><u>2024 Approved Easy-to-Follow OBS Setup on Thriftier Tech</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-highly-acclaimed-linksys-wrt1900acs-open-source-wi-fi-router/"><u>Comprehensive Review of the Highly Acclaimed Linksys WRT1900ACS Open Source Wi-Fi Router</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-taggification-top-7-affordable-online-extractors-for-youtube-for-2024/"><u>Cutting-Edge Taggification Top 7 Affordable Online Extractors for YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/easy-guide-to-blur-background-in-google-meet-laptop-and-mobile-for-2024/"><u>Easy Guide to Blur Background in Google Meet [Laptop and Mobile] for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-resolving-unintended-keystrokes-and-typos/"><u>Easy Solutions for Resolving Unintended Keystrokes and Typos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-solving-sims-4-error-when-attempting-to-start/"><u>Expert Advice: Solving Sims 4 Error When Attempting to Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211723813-expert-tips-master-the-art-of-restarting-your-malfunctioning-keyboard/"><u>Expert Tips: Master the Art of Restarting Your Malfunctioning Keyboard!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-error-0xc1-for-a-smooth-windows-11-upgrade-experience-solved/"><u>Fixing the Error 0Xc1# for a Smooth Windows 11 Upgrade Experience [SOLVED]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A14 4G Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tips-transforming-ordinary-into-extraordinary-in-canva/"><u>In 2024, Top Tips Transforming Ordinary Into Extraordinary in Canva</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-xerox-update-problem-0x800f020b-on-windows/"><u>Step-by-Step Guide: Overcoming Xerox Update Problem 0X800f020b on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-problem-detected-when-rebooting-error-on-windows-11/"><u>Troubleshooting and Fixing the 'Problem Detected When Rebooting' Error on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncomplicated-methods-to-tackle-your-computers-second-screen-projection-difficulty/"><u>Uncomplicated Methods to Tackle Your Computer's Second Screen Projection Difficulty</u></a></li>
+<li><a href="https://some-skills.techidaily.com/utilizing-picture-in-picture-on-chrome-everywhere-for-2024/"><u>Utilizing Picture In Picture on Chrome Everywhere for 2024</u></a></li>
+</ul></div>
 

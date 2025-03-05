@@ -1,7 +1,7 @@
 ---
 title: "Unstick Your PC: Effective Tips for Handling the 'Configuring Windows' Hang-Up"
-date: 2025-02-15T16:32:12.861Z
-updated: 2025-02-16T22:25:57.156Z
+date: 2025-03-04T19:36:35.853Z
+updated: 2025-03-05T18:23:04.283Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Troubleshoot problems with your printer](#printer)**
@@ -58,15 +54,7 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
 
@@ -93,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -122,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,10 +156,6 @@ sfc /scannow
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -213,10 +189,6 @@ dism /online /cleanup-image /startcomponentcleanup
 Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
@@ -252,24 +224,19 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-quick-guide-downloading-tiktok-for-mac-users/"><u>[New] Quick Guide Downloading TikTok for Mac Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhance-engagement-top-tools-and-tips-for-properly-tagged-videos/"><u>[Updated] 2024 Approved Enhance Engagement Top Tools and Tips for Properly Tagged Videos</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-ranking-the-best-no-cost-tiktok-to-mp3-conversion-services/"><u>[Updated] 2024 Approved Ranking the Best No-Cost TikTok to MP3 Conversion Services</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-blurred-to-clean-picsarts-background-elimination/"><u>2024 Approved From Blurred to Clean Picsart's Background Elimination</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/vate-audiences-with-effective-and-appealing-video-previews/"><u>Captivate Audiences with Effective and Appealing Video Previews</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-eliminar-fondos-de-imagen-rapidamente-con-software-de-edicion-gratuito/"><u>Cómo Eliminar Fondos De Imagen Rápidamente Con Software De Edición Gratuito</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-14-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi 14 Pro?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mini-laptops-and-gimbals-for-mobile-videos/"><u>In 2024, Mini Laptops & Gimbals for Mobile Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-stardews-ultimate-game-changing-mods-a-curated-list/"><u>In 2024, Stardew's Ultimate Game-Changing Mods A Curated List</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-uniqueness-a-guide-to-identifying-and-organizing-distinct-data-with-microsoft-excel/"><u>Mastering Uniqueness: A Guide to Identifying and Organizing Distinct Data with Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/potential-threats-when-using-microsoft-office-on-apples-macos-platform/"><u>Potential Threats when Using Microsoft Office on Apple's macOS Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revolutionary-upgrade-new-features-in-the-latest-version-of-microsoft-excel-web-app/"><u>Revolutionary Upgrade: New Features in the Latest Version of Microsoft Excel Web App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/setting-microsoft-excel-as-your-macs-primary-spreadsheet-software-a-step-by-step-guide/"><u>Setting Microsoft Excel as Your Mac's Primary Spreadsheet Software: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-techniques-for-transposing-rows-into-columns-in-microsoft-excel/"><u>Simple Techniques for Transposing Rows Into Columns in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-on-applying-universal-cell-formatting-in-multiple-excel-workbooks/"><u>Step-by-Step Guide on Applying Universal Cell Formatting in Multiple Excel Workbooks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-building-your-project-schedule-with-ms-excel/"><u>Step-by-Step Guide: Building Your Project Schedule with MS Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transferring-pictured-data-into-excel-apps-on-smartphones/"><u>Step-by-Step Guide: Transferring Pictured Data Into Excel Apps on Smartphones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-converting-excel-charts-to-picture-format-for-easy-sharing-and-editing/"><u>Step-by-Step Tutorial on Converting Excel Charts to Picture Format for Easy Sharing and Editing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tiktoks-triumph-the-most-shared-videos-on-twitter-for-2024/"><u>TikTok's Triumph The Most Shared Videos on Twitter for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-your-ultimate-source-for-online-video-to-mp3-downloads/"><u>[New] 2024 Approved Your Ultimate Source for Online Video to MP3 Downloads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-vloggers-solution-excellent-camera-stabilization/"><u>[New] In 2024, Vloggers' Solution Excellent Camera Stabilization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-de-fichiers-audio-convertir-mp3-en-aiogg-gratuitement-en-ligne-chez-movavi/"><u>Conversion De Fichiers Audio: Convertir MP3 en AI/OGG Gratuitement en Ligne Chez Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-dng-files-to-jpeg-for-free-with-movavi-image-editor-online-tool/"><u>Convert DNG Files to JPEG for Free with Movavi Image Editor Online Tool</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/discover-the-ultimate-substitutes-for-wondershare-filmora-19-free-options-available/"><u>Discover the Ultimate Substitutes for Wondershare Filmora - 19 Free Options Available!</u></a></li>
+<li><a href="https://discover-great.techidaily.com/explore-the-leading-alternatives-to-midjourney-both-free-and-paid-options-ranked/"><u>Explore the Leading Alternatives to Midjourney – Both Free and Paid Options, Ranked!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-the-impactful-role-of-digital-resources-key-benefits-for-learning-environments/"><u>Exploring the Impactful Role of Digital Resources: Key Benefits for Learning Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transforming-vob-files-into-wav-format-moveave/"><u>Free Online Converter: Transforming VOB Files Into WAV Format - Moveave</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-rapida-para-reducir-el-tamano-de-videos-en-youtube-con-facilidad/"><u>Guía Rápida Para Reducir El Tamaño De Vídeos en YouTube Con Facilidad</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-13-mini-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 13 mini Space | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/i-migliori-10-servizi-online-per-la-realizzazione-di-banner-youtube-in-italia-2024/"><u>I Migliori 10 Servizi Online per La Realizzazione Di Banner YouTube in Italia - 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-integrity-at-stake-with-artificial-approvals/"><u>In 2024, Instagram Integrity at Stake with Artificial Approvals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo Find N3 Flip</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-seamless-way-to-capture-your-favorite-pc-games-6-methods-for-2024/"><u>The Seamless Way to Capture Your Favorite PC Games (6 Methods) for 2024</u></a></li>
 </ul></div>
 

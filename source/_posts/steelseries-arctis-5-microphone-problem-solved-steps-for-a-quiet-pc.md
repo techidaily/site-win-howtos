@@ -1,7 +1,7 @@
 ---
 title: "SteelSeries Arctis 5 Microphone Problem Solved: Steps for a Quiet PC"
-date: 2024-08-19T07:46:14.208Z
-updated: 2024-08-20T07:46:14.208Z
+date: 2025-03-04T18:32:01.859Z
+updated: 2025-03-05T16:03:50.618Z
 tags:
   - win11
   - win10
@@ -48,9 +48,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,9 +60,6 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -83,28 +77,15 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -127,8 +108,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +115,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-from-free-to-paid-transitioning-your-channel-via-partnership/"><u>[New] In 2024, From Free to Paid Transitioning Your Channel via Partnership</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-integrating-vsco-into-social-media-strategy/"><u>[Updated] In 2024, Integrating VSCO Into Social Media Strategy</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726027809712-mp3mp4/"><u>動画形式への変換: MP3プレイヤーでMP4を再生するコツ</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-canon-mg3600-printer-drivers-and-firmware-updates/"><u>Download the Latest Canon MG3600 Printer Drivers and Firmware Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-troubleshoot-and-repair-a-non-functional-igfx-em-driver/"><u>Fixing the Issue: How to Troubleshoot and Repair a Non-Functional iGFX EM Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-keep-your-computer-awake-effective-techniques-for-a-better-user-experience/"><u>How to Keep Your Computer Awake: Effective Techniques for a Better User Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cutting-edge-editing-meets-online-video-sharing/"><u>In 2024, Cutting-Edge Editing Meets Online Video Sharing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-realme-c67-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Realme C67 5G Is Unlocked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-microsoft-projector-adapter-connections-in-windows-10-environments/"><u>Overcoming Issues With Microsoft Projector Adapter Connections in Windows 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207998112-trouble-with-windows-11-volume-heres-the-step-by-step-fix/"><u>Trouble with Windows 11 Volume? Here's the Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-addressing-non-supported-video-input-timings-on-displays/"><u>Troubleshooting Guide: Addressing Non-Supported Video Input Timings on Displays</u></a></li>
+</ul></div>
 

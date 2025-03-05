@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques for When Your Laptop's Pointing Device Freezes Up
-date: 2024-08-19T07:45:48.501Z
-updated: 2024-08-20T07:45:48.501Z
+date: 2025-03-01T16:34:24.446Z
+updated: 2025-03-05T18:10:29.006Z
 tags:
   - win11
   - win10
@@ -62,16 +62,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -115,9 +109,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -126,24 +117,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -169,8 +150,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +157,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-transformative-voice-techniques-enhance-your-oratory-with-these-tools/"><u>[Updated] 2024 Approved Transformative Voice Techniques – Enhance Your Oratory with These Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-the-ultimate-quadcopter-engine-arsenal/"><u>[Updated] Crafting the Ultimate Quadcopter Engine Arsenal</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-into-3d-designing-layered-textured-texts-psx/"><u>2024 Approved Step Into 3D Designing Layered, Textured Texts PSX</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782485-9781591437833-atlantis-and-the-coming-ice-age-2nd-ed/"><u>Atlantis and the Coming Ice Age (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211439583-device-unveiled-revolutionary-speed-boost-achieved/"><u>Device Unveiled: Revolutionary Speed Boost Achieved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-correct-error-0x800f0831-with-a-windows-update-troubleshoot/"><u>Effortlessly Correct Error 0X800f0831 with a Windows Update Troubleshoot</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/losungen-zur-uberwindung-des-device-not-migrated-fehlers-und-erfolgreiche-datentransferstrategien/"><u>Lösungen Zur Überwindung Des 'Device Not Migrated' Fehlers Und Erfolgreiche Datentransferstrategien</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/managing-auto-start-issues-in-windows-11-fixes-for-unexpected-power-ons/"><u>Managing Auto-Start Issues in Windows 11: Fixes for Unexpected Power-Ons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-invisible-bluetooth-hardware-issues-in-device-manager-on-pc/"><u>Resolving Invisible Bluetooth Hardware Issues in Device Manager on PC</u></a></li>
+<li><a href="https://win-hot.techidaily.com/tracking-down-restored-data-a-guide-for-windows-10-and-11-users/"><u>Tracking Down Restored Data: A Guide for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-windows-networking-problem-0x800704cf-expert-tips-for-users/"><u>Troubleshooting and Resolving Windows Networking Problem 0X800704cf: Expert Tips for Users</u></a></li>
+</ul></div>
 
